@@ -19,10 +19,7 @@ given person including their name, email address, web site URL, a short
 description of them, and their Xbox Live Gamertag and have the contact
 info pop up automatically when you put your cursor over a link
 describing them.
- 
- Rather than talk about it, [let me show you (click for a demo
-page)](/images/pMachine/ContactCard.html).
- 
+
  To use it, you need to add the prototype library and the ContactCard
 library to the \<head /\> of your page. Then you define your list of
 contacts and related information in a separate script and add that -
@@ -48,6 +45,8 @@ behavior if you want.)
  Full usage instructions, including how to customize the look of the
 popup card, are included. Check out the test page that is included for
 working examples.
+
+**Note 8/22/2014:** There are better ways to do this with jQuery and Bootstrap now, but I've not bothered updating this script. You can still grab it if you like, but it's totally unsupported.
  
  [**Download ContactCard
 1.2.0**](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!44196&authkey=!AMW8zelRgj5TkvI&ithint=file%2c.zip)
