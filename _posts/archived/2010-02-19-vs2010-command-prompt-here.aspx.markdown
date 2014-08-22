@@ -8,7 +8,7 @@ tags: [Visual Studio,Release Notices,Software / Downloads]
 ---
 **NOTE: I'm no longer maintaining the Command Prompt Round-Up. Instead,
 [visit the Command Prompt Here
-Generator](/images/App/CommandPromptHere/).**
+Generator](http://app.paraesthesia.com/CommandPromptHere/).**
 
 I updated [my Command Prompt
 Round-Up](/archive/2007/11/20/command-prompt-here-round-up.aspx) to

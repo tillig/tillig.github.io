@@ -7,7 +7,7 @@ disqus_identifier: 599
 tags: [Software / Downloads,Release Notices,.NET]
 ---
 **NOTE: Something you may be interested in is [the Command Prompt Here
-Generator](/images/App/CommandPromptHere/).**
+Generator](http://app.paraesthesia.com/CommandPromptHere/).**
 
 I got a comment on [my Solvent
 entry](/archive/2004/06/25/solvent---power-toys-for-visual-studio-.net.aspx)

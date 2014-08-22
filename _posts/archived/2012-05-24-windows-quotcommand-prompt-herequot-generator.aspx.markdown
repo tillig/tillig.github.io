@@ -22,7 +22,7 @@ want but you're not sure what to tweak; and so on.
 
 Rather than maintain separate little .INF files for every command prompt
 type, **I've created a**[**Command Prompt Here
-Generator**](/images/App/CommandPromptHere/). Using a handy little
+Generator**](http://app.paraesthesia.com/CommandPromptHere/). Using a handy little
 wizard interface, you can select from a list of command prompts that I
 know about. After that, you can optionally tweak the values. Want a
 different path? Fix it. Want the display text tweaked? Make it so. At
@@ -35,5 +35,5 @@ you'll need to let me know the info on the prompt (look at the
 a bug, drop me a line.
 
 [**Visit the Command Prompt Here
-Generator**](/images/App/CommandPromptHere/)
+Generator**](http://app.paraesthesia.com/CommandPromptHere/)
 

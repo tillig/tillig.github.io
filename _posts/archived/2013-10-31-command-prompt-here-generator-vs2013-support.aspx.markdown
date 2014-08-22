@@ -7,6 +7,6 @@ disqus_identifier: 1829
 tags: [Release Notices]
 ---
 I added support to generate a "VS2013 Developer Prompt Here" to the
-[Command Prompt Here Generator](/images/App/CommandPromptHere/), so if
+[Command Prompt Here Generator](http://app.paraesthesia.com/CommandPromptHere/), so if
 you're looking for that, there you go.
 

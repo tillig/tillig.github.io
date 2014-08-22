@@ -8,7 +8,7 @@ tags: [Visual Studio,GeekSpeak,Software / Downloads]
 ---
 **NOTE: I'm no longer maintaining the Command Prompt Round-Up. Instead,
 [visit the Command Prompt Here
-Generator](/images/App/CommandPromptHere/).**
+Generator](http://app.paraesthesia.com/CommandPromptHere/).**
 
 With the release of VS 2008 and
 yet-another-Visual-Studio-command-prompt, I figured I'd do a round-up of
@@ -49,7 +49,7 @@ Yours for the taking!
 
 **NOTE: I'm no longer maintaining the Command Prompt Round-Up zip file.
 Instead, [visit the Command Prompt Here
-Generator](/images/App/CommandPromptHere/).**
+Generator](http://app.paraesthesia.com/CommandPromptHere/).**
 
 **UPDATE 3/12/09**: If you need more in the way of easy run-as-admin
 elevation stuff, like the VS 2008 Admin command prompt tool, you'll want

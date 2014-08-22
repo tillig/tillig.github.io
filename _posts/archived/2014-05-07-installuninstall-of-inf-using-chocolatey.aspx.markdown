@@ -9,7 +9,7 @@ tags: [.NET,Code Snippets]
 I’m messing around with [Boxstarter](http://boxstarter.org/) and
 [Chocolatey](http://chocolatey.org/) and one of the things I wanted to
 do was install [the various “Command Prompt Here” context menu
-extensions](/images/App/CommandPromptHere/) I use all the time. These
+extensions](http://app.paraesthesia.com/CommandPromptHere/) I use all the time. These
 extensions are .inf files and, unfortunately, there isn’t really any
 documentation on how to create a Chocolatey package that installs an
 .inf.

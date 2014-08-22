@@ -8,7 +8,7 @@ tags: [GeekSpeak,Software / Downloads,Visual Studio]
 ---
 **NOTE: I'm no longer maintaining the Command Prompt Round-Up. Instead,
 [visit the Command Prompt Here
-Generator](/images/App/CommandPromptHere/).**
+Generator](http://app.paraesthesia.com/CommandPromptHere/).**
 
 I won't lie - I've been doing most of my development up until now in
 Windows XP (not by choice) and as I move into Windows Server 2008

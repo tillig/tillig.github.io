@@ -51,7 +51,7 @@ tips and articles…
     so you can easily enable/disable referral logging. More on this
     later.
 -   [I created a "Command Prompt Here"
-    generator](/images/App/CommandPromptHere/) so you can get any sort
+    generator](http://app.paraesthesia.com/CommandPromptHere/) so you can get any sort
     of context menu command prompt you want.
 -   [I showed you how to do a side-by-side render of an MVC partial view
     and its
