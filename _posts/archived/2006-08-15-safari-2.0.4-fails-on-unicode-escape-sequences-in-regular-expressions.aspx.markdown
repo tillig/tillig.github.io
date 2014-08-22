@@ -6,33 +6,26 @@ comments: true
 disqus_identifier: 1057
 tags: [GeekSpeak]
 ---
-Fought with this one for quite some time today. We use a lot of
-client-side validation for input fields in the products I work on. While
-we repeat that validation on the server (as is the way with ASP.NET
-validation), the client-side validation is important to give the
-customer earlier feedback about invalid input.
+Fought with this one for quite some time today. We use a lot of client-side validation for input fields in the products I work on. While we repeat that validation on the server (as is the way with ASP.NET validation), the client-side validation is important to give the customer earlier feedback about invalid input.
  
- Our products are written to work in a multilingual capacity so the
-validation expressions need to support characters above and beyond
-ASCII. That's great, but it also means we have some work to do to get
-the regular expressions to work the same on the client as they do on the
-server. [I've blogged about this issue
-before.](/archive/2005/04/25/javascript-and-unicode-character-validation.aspx)
+Our products are written to work in a multilingual capacity so the validation expressions need to support characters above and beyond ASCII. That's great, but it also means we have some work to do to get the regular expressions to work the same on the client as they do on the server. [I've blogged about this issue before.](/archive/2005/04/25/javascript-and-unicode-character-validation.aspx)
  
- ECMAScript standards indicate you use Unicode escape sequences to put
-these extended characters into regular expressions. So rather than
-literally putting `Ã©` right in the expression, you put the equivalent
-Unicode escape sequence: `\u00e9`.
+ECMAScript standards indicate you use Unicode escape sequences to put these extended characters into regular expressions. So rather than literally putting `Ã©` right in the expression, you put the equivalent Unicode escape sequence: `\u00e9`.
  
- Safari 2.0.4 doesn't seem to handle Unicode escape sequences in its
-regular expression engine. It understands that code `\u00e9` is
-equivalent to the literal character `Ã©`, but if you ask in a regular
-expression if they match, they don't.
+Safari 2.0.4 doesn't seem to handle Unicode escape sequences in its regular expression engine. It understands that code `\u00e9` is equivalent to the literal character `Ã©`, but if you ask in a regular expression if they match, they don't.
  
- From what I can tell, there is no workaround. It just doesn't get
-Unicode escape sequences in JavaScript regular expressions.
+From what I can tell, there is no workaround. It just doesn't get Unicode escape sequences in JavaScript regular expressions.
  
- [I've put together some tests to illustrate the point (click for test
-page).](/images/pMachine/UnicodeRegexIssueTests.html) **Browsers that
-handle the issue correctly will read "true" for all cases; Safari 2.0.4
-fails on the Regex tests.**
+I've put together some tests to illustrate the point. **Browsers that handle the issue correctly will read "true" for all cases; Safari 2.0.4 fails on the Regex tests.**
+
+`\u00e9 == é`: <span id="jsUnicodeResults1">Test Not Run</span>
+<script type="text/javascript">document.getElementById("jsUnicodeResults1").innerHTML = ("\u00e9" == "é");</script>
+
+`\u0041 == A`: <span id="jsUnicodeResults2">Test Not Run</span>
+<script type="text/javascript">document.getElementById("jsUnicodeResults2").innerHTML = ("\u0041" == "A");</script>
+
+Regex `"\u00e9" matches "é"`: <span id="jsUnicodeResults3">Test Not Run</span>
+<script type="text/javascript">var jsReTest1 = new RegExp("\\u00e9");document.getElementById("jsUnicodeResults3").innerHTML = (jsReTest1.exec("é") != null);</script>
+
+Regex `"\u0041" matches "A"`: <span id="jsUnicodeResults4">Test Not Run</span>
+<script type="text/javascript">var jsReTest2 = new RegExp("\\u0041");document.getElementById("jsUnicodeResults4").innerHTML = (jsReTest2.exec("A") != null);</script>
