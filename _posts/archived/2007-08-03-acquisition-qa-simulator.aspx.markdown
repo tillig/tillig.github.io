@@ -73,7 +73,7 @@ function generateAnswer()
 <p><b>Ask your question about the acquisition of the company:</b><br /><input type="text" /> <input type="button" value="Answer Me!" onclick="think();"/></p>
 <p><b>Answer:</b><br /><span id="answer" /></p>
 
-...and there you have it.
+*...and there you have it.*
 
 Now go to three or four of these in close succession - one for the whole
 company, one for your division, one for your group within the
