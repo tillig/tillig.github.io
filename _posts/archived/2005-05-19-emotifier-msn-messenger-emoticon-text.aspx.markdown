@@ -22,7 +22,7 @@ Here you go - try it for yourself:
 
 <input type="text" name="emotifyIn" id="emotifyIn" maxlength="4" />&nbsp;<input type="button" onclick="emotify('emotifyIn', 'emotifyOut')" value="Emotify Me!" />
 
-<textarea name="emotifyOut" id="emotifyOut" rows="8" cols="52" wrap="off" style="font-family: fixed !important;"></textarea>
+<textarea name="emotifyOut" id="emotifyOut" rows="8" cols="52" wrap="off" style="font-family: fixed, monospace !important;"></textarea>
 
  A couple of notes: First, due to the max length of a Messenger message, it turns out you can really only get four characters in there, so I've limited the above demo to four characters in length. The script itself will do more. Second, it only supports letters, numbers, and space, and the following punctuation: `!@\#\$%\^&\*()`
  
