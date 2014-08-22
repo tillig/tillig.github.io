@@ -133,6 +133,8 @@ Once you do that, `yourdomain.com` and `www.yourdomain.com` will both make it to
 
 I still have a few things to fix up, but for the most part I'm moved over.
 
+There are still some quirky CSS things I need to fix that I'm not happy with. Looking at the headers in this entry, for example, they have some crazy overlapping with the first line under them.
+
 I have some in-page JS demos that were sort of challenging to set up in Subtext but should be easier in the new setup. I need to move those over; right now they're broken.
 
 I also have the "Command Prompt Here Generator" app that was running on my blog site but is now inaccessible because I have to get it going on a site with dynamic abilities. I'll probably use my old blog host site as an "app host" now where I just put little dynamic apps. It'll be easier to do that stuff without Subtext right in the root of the site.
