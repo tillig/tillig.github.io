@@ -19,13 +19,18 @@ From what I can tell, there is no workaround. It just doesn't get Unicode escape
 I've put together some tests to illustrate the point. **Browsers that handle the issue correctly will read "true" for all cases; Safari 2.0.4 fails on the Regex tests.**
 
 `\u00e9 == é`: <span id="jsUnicodeResults1">Test Not Run</span>
-<script type="text/javascript">document.getElementById("jsUnicodeResults1").innerHTML = ("\u00e9" == "é");</script>
 
 `\u0041 == A`: <span id="jsUnicodeResults2">Test Not Run</span>
-<script type="text/javascript">document.getElementById("jsUnicodeResults2").innerHTML = ("\u0041" == "A");</script>
 
 Regex `"\u00e9" matches "é"`: <span id="jsUnicodeResults3">Test Not Run</span>
-<script type="text/javascript">var jsReTest1 = new RegExp("\\u00e9");document.getElementById("jsUnicodeResults3").innerHTML = (jsReTest1.exec("é") != null);</script>
 
 Regex `"\u0041" matches "A"`: <span id="jsUnicodeResults4">Test Not Run</span>
-<script type="text/javascript">var jsReTest2 = new RegExp("\\u0041");document.getElementById("jsUnicodeResults4").innerHTML = (jsReTest2.exec("A") != null);</script>
+
+<script type="text/javascript">
+var jsReTest1 = new RegExp("\\u00e9"),
+    jsReTest2 = new RegExp("\\u0041");
+document.getElementById("jsUnicodeResults1").innerHTML = ("\u00e9" == "é");
+document.getElementById("jsUnicodeResults2").innerHTML = ("\u0041" == "A");
+document.getElementById("jsUnicodeResults3").innerHTML = (jsReTest1.exec("é") != null);
+document.getElementById("jsUnicodeResults4").innerHTML = (jsReTest2.exec("A") != null);
+</script>
