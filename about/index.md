@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Paraesthesia"
+title: "About Me"
 date: 2010-08-17 -0800
 comments: false
 disqus_identifier: 1661
@@ -13,10 +13,10 @@ Corporation](http://www.fiserv.com) working on next-generation online
 banking web applications. You can see more of my online presence at
 these places:
 
--   [Google Plus](http://gplus.to/tillig)
--   [Google Profile](http://www.google.com/profiles/travis.illig)
 -   [Twitter](http://twitter.com/tillig)
 -   [Facebook](http://www.facebook.com/tillig)
+-   [Google Plus](http://gplus.to/tillig)
+-   [Google Profile](http://www.google.com/profiles/travis.illig)
 -   [LinkedIn](http://www.linkedin.com/in/tillig)
 
 I believe there is a certain art in solving problems in the computer
