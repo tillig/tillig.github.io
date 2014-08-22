@@ -42,6 +42,37 @@ company.  Any questions?"
 Now's the time you get to ask all the questions you might have.  Try
 them out in my handy simulator:
 
+<script type="text/javascript">
+var allAnswers = new Array();
+allAnswers[0] = "We don't have an answer for that at this time.";
+allAnswers[1] = "We're still working that out and we'll let you know as soon as we can.";
+allAnswers[2] = "That hasn't really been decided yet.";
+allAnswers[3] = "We'll have the answer for that in the near future.";
+allAnswers[4] = "That's being discussed right now and we'll let you know when a decision has been made.";
+allAnswers[5] = "That information isn't currently available, but we'll let you know when it is.";
+
+var allThinking = new Array();
+allThinking[0] = "Hmmmm...";
+allThinking[1] = "Ummmm...";
+allThinking[2] = "Well...";
+
+function think()
+{
+	var i = Math.round((allThinking.length - 1) * Math.random());
+	document.getElementById("answer").innerHTML = allThinking[i];
+	setTimeout('generateAnswer()', 1000);
+}
+
+function generateAnswer()
+{
+	var i = Math.round((allAnswers.length - 1) * Math.random());
+	document.getElementById("answer").innerHTML = allAnswers[i];
+}
+</script>
+
+<p><b>Ask your question about the acquisition of the company:</b><br /><input type="text" /> <input type="button" value="Answer Me!" onclick="think();"/></p>
+<p><b>Answer:</b><br /><span id="answer" /></p>
+
 ...and there you have it.
 
 Now go to three or four of these in close succession - one for the whole
