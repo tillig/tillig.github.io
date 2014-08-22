@@ -1,0 +1,136 @@
+---
+layout: post
+title: "ASP.NET Testing with Ivonna"
+date: 2008-04-16 -0800
+comments: true
+disqus_identifier: 1376
+tags: [Web Development,.NET]
+---
+[Hmmm, that sort of sounds like a PBS show or something. Hehehe.]
+
+The folks over at [Typemock](http://www.typemock.com) passed a
+link along to me an interesting new project called
+[Ivonna](http://www.sm-art.biz/Ivonna.aspx). It's an ASP.NET testing
+framework (currently in beta) that runs on top of Typemock Isolator.
+It lets you run unit tests against web forms apps without a web server
+and access the controls and such right from your unit test.
+
+Rather than explain it in long prose, let me just show you an example.
+
+Say you have a web form that takes in two numbers and adds them
+together. Yes, your typical overused calculator application. The page
+probably looks like this:
+
+    <%@ Page Language="C#" Inherits="System.Web.UI.Page" %>
+    <html>
+      <head runat="server">
+        <title>Calculator</title>
+      </head>
+      <body>
+        <form id="form1" runat="server">
+          <table>
+            <tr>
+              <td>First number:</td>
+              <td><asp:TextBox ID="FirstNumber" runat="server"/></td>
+            </tr>
+            <tr>
+              <td>Second number:</td>
+              <td><asp:TextBox ID="SecondNumber" runat="server"/></td>
+            </asp:TableRow>
+            <tr>
+              <td ColumnSpan="2">
+                <asp:Button
+                 ID="SubmitButton"
+                 runat="server"
+                 Text="Calculate"
+                 OnClick="SubmitButton_Click" />
+              </td>
+            </tr>
+            <tr>
+              <td ColumnSpan="2" HorizontalAlign="Right">
+                Total: <asp:Label ID="Sum" runat="server"/>
+              </td>
+            </tr>
+          <table>
+        </form>
+      </body>
+    </html>
+    <script runat="server">
+    void SubmitButton_Click(object sender, EventArgs e)
+    {
+      this.Sum.Text = (
+        Double.Parse(this.FirstNumber.Text) +
+        Double.Parse(this.SecondNumber.Text)
+        ).ToString();
+    }
+    </script>
+
+A couple of text boxes, a submit button, and a label to take in the
+result. You want to test that entering the numbers into the boxes
+and clicking the button actually puts the right text into the label.
+Check this out - it doesn't get much simpler:
+
+    using System;
+    using System.Web.UI;
+    using System.Web.UI.WebControls;
+    using Ivonna.Core;
+    using Ivonna.Framework;
+    using NUnit.Framework;
+    using TypeMock;
+
+    namespace UnitTests
+    {
+      [TestFixture]
+      [VerifyMocks]
+      [RunOnWeb(@"C:\Path\To\WebApplication", @"/")]
+      public class DefaultPageTestFixture : WebFixture
+      {
+        [Test]
+        public void AddTwoNumbers()
+        {
+          TestSession session = this.InitSession();
+          Page page = session.GetPage("Default.aspx");
+          TextBox firstNumber = (TextBox)page.FindControl("FirstNumber");
+          firstNumber.Text = "15";
+          TextBox secondNumber = (TextBox)page.FindControl("SecondNumber");
+          secondNumber.Text = "20";
+
+          page = session.ProcessPostback("SubmitButton");
+          Label sum = (Label)page.FindControl("Sum");
+          Assert.AreEqual("35", sum.Text);
+          this.EndSession();
+        }
+      }
+    }
+
+That looks a lot like ASP.NET codebehind, doesn't it? Familiar syntax?
+And you didn't have to automate a browser, fire up a web server
+instance, or anything. Let's walk through what's going on in that test:
+
+1.  There are test attributes to indicate this is an NUnit test fixture,
+    I want to verify my Typemock mocks, and this is a web fixture. I
+    specify the physical and virtual paths to the web application so the
+    "navigation" works correctly.
+2.  I derive my page test fixture from an Ivonna base test fixture.
+3.  In the test...
+    1.   Initialize my web "session."
+    2.  Do the initial page GET. Again, this isn't actually doing web
+        communication.
+    3.  Do a standard FindControl call on the page to get references to
+        the textboxes I want to populate in the form.
+    4.  Set the values in the textboxes.
+    5.  Tell the page I want to do a postback and provide the ID of the
+        button causing the postback. (I could also have gotten a
+        reference to the button using FindControl and passed in the
+        reference.)
+    6.  Use FindControl again to get the label that contains the result.
+    7.  Verify the result is what I expected.
+    8.  End the web "session."
+
+This is easier by far than trying to mock out HttpContext and such.
+Granted, it's still pretty early and there's a lot of room for
+improvement, and I don't think it'll entirely replace UI automation
+testing, but this could help out a lot in catching bugs early and
+running more UI-based tests without actually automating UI. [Go check it
+out and see what you think.](http://www.sm-art.biz/Ivonna.aspx)
+

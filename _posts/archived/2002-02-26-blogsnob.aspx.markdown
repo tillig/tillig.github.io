@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Blogsnob"
+date: 2002-02-26 -0800
+comments: true
+disqus_identifier: 9
+tags: [GeekSpeak]
+---
+So I joined this sort of ad-trading network to maybe get some traffic in
+here. It seemed like a keen thing. It's called
+[BlogSnob](http://blogsnob.idya.net/). Basically, you just put a little
+Javascript dealie in your page (mine's in the column on the right) and
+you get a random text link to someone else's blog. In return, your blog
+will get advertised on other peoples' sites.
+ 
+ Hey, I figure it can't hurt. If anything, it's something fun and
+different.
+ 

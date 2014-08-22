@@ -1,0 +1,295 @@
+---
+layout: post
+title: "MIX09 - Day 1"
+date: 2009-03-18 -0800
+comments: true
+disqus_identifier: 1503
+tags: [GeekSpeak,Web Development,.NET]
+---
+**Keynote**
+
+After some decent beats spun on stage by a DJ, Bill Buxton came on stage
+to talk about design. Very engaging speaker. Started out talking about
+designers through history. I had no idea that one guy was responsible
+for the Hoover, Shell Oil, and Coca Cola logos. The theme: "Return on
+Experience." The idea that you're not just selling a product - an
+object- you're selling an *experience*. I've heard this idea before and
+the example given was Starbucks - they don't really sell a \$5 cup of
+coffee, but people pay for it because they want the experience.
+
+Interesting idea presented - we can sketch objects with relative ease,
+we can (with more effort) sketch more complex user interfaces... but we
+can't sketch experience. Or, at least, not easily. We need to get to a
+spot where it is easy. Given the right tools, we might get there. Simple
+example - post-it notes to add more dimension to a UI design than if you
+had just one piece of flat paper, and adding arrows between the various
+states on the post-its can get you to a state diagram, but that's not
+enough.
+
+"If you don't have as much detail in the transitions as you do in the
+states, you're going to get it wrong." -- Bill Buxton
+
+And there's where the gap is. Without taking the transitions into
+account, the timings, we can't see the whole picture. The experience is
+more than just some mockups.
+
+We then got to see some of the design examples Buxton is talking about -
+the design, the experience. The Zune and a new "arc mouse" that looks
+kind of neat. Hmm.
+
+The big question: How can we have a unified way to deliver rich
+interaction techniques over the web without having to do it mulitple
+times? (That is, develop the app once and have the same rich experience
+across all channels.) Good question, that. I'd love to see that answer.
+
+THE GU.
+
+ScottGu's intro video is possibly the best. intro. video. evar.
+
+Talk topic: Standards-based web, media, and RIA.
+
+Expression Web 3 - Standards based web authoring, multi-language
+targeting, SFTP support, CSS diagnostics, and a new feature called
+"SuperPreview" that allows you to preview your web site in a broad range
+of browsers and figure out how to fix issues. SuperPreview is really
+cool. You can see previews from all the browsers on the system *or
+browsers hosted in the cloud(!)* right in the designer... and you can do
+"onion-skin" overlays so you can see the differences in how things
+render. A demo was given to show this and it's *hot*. You can then use
+this to diagnose layout problems. Think about that - you can test IE6,
+IE7, and IE8 all on the same box. A free beta of SuperPreview as a
+standalone application will be made available starting today ([download
+here](http://is.gd/nT1L)).
+
+[ASP.NET MVC](http://www.asp.net/mvc) 1.0 - I expected this one as, I'm
+sure, did we all. RTM for this is shipping today. (Congrats,
+[Phil](http://haacked.com)!)
+
+ASP.NET 4 and VS2010 - Three are a lot of improvements in ASP.NET 4.0,
+particularly in web forms, giving you more control over you rmarkup, and
+they're integrating the new distributed caching platform. VS will get a
+big JavaScript tooling support update, lots of code focused
+improvements, SharePoint support will be built right in. You'll be able
+to create different web.config files for your site so you can have
+different config files for debug vs. release - long overdue. I'll have
+to check the sessions on this out. Very cool looking.
+
+Web Server Extensions - They're adding 8 extension updates for IIS7
+starting today including database administration through the IIS admin
+tool, an applicaiton request routing proxy, a secure FTP server, and a
+few others.
+
+[Microsoft Web Platform
+Installer](http://go.microsoft.com/fwlink/?LinkId=146503) - Shipping
+version 2 of this today. It's a single download you can put on your
+system that will install the latest web stack for developer boxes and
+production servers.
+
+[Windows Web App Gallery](http://www.microsoft.com/web/gallery) -
+They're launching a new application gallery that lets you easily locate
+and install .NET-based web applications. (Yay,
+[Subtext](http://subtextproject.com)! You're [in the
+gallery](http://www.microsoft.com/web/gallery/SubText.aspx)!) The cool
+bit here is it integrates with the Microsoft Web Platform Installer so
+you can select from these apps and install not only the web stack, but
+the applications. This is awesome. (Shame on you for not telling us,
+Phil!)
+
+Commerce Server 2009 - Released, got about a sentence-worth of lip
+service. That's about how much interest I have in it, too.
+
+Azure Services Platform - They're adding features. FastCGI/PHP support,
+.NET full trust, SQL relational database support (so you can LINQ to SQL
+to the cloud)
+
+BizSpark - Atwood and Spolsky got up to talk about
+[StackOverflow](http://stackoverflow.com) as an illustration of success
+with the BizSpark startup assistance program. I've always found
+StackOverflow to be of questionable value (in many cases it could be
+replaced by Google) but I'm happy for their success. They're using
+ASP.NET MVC and the two features they brought up were routing (which can
+be used with web forms, too) and performance, which... well, I haven't
+seen any comparison stats on MVC vs. web forms. Either way, good for
+them.
+
+Silverlight - By the numbers: 350 million Silverlight installs, 300K
+designers, 200+ sites. They're releasing the new Virtual Earth SDK and
+the [WorldWide Telescope](http://www.worldwidetelescope.org/Home.aspx)
+(so you can look at the stars on any platform through SL). Netflix is
+using Silverlight to stream their movies over the net. Dude from Netflix
+got up to talk about the cross-platform awesomeness of Silverlight.
+Interesting part of this was the installers - 12% of people would come
+in and just not do the installer for the player, and 8% would fail the
+installer and never come back. Streaming through Silverlight gets
+Netflix out of the installer business. (Of course, they also pimped the
+DRM "PlayReady" scheme in SL.) Silverlight 3 will have GPU hardware
+acceleration, new codec support (H.264, AAC, MPEG-4), raw bitstream API
+(you can write your own codecs), and impoved logging for media analytics
+(for monetization). Perspective 3D, bitmap and pixel API, pixel shader
+effects, and Deep Zoom improvements.
+
+Lots of improvements in IIS media services... which I suppose would be
+more interesting to me if I wasn't in the online banking field. The demo
+of adaptive streaming was very interesting and I look forward to some of
+that making it to the Xbox 360 Netflix streaming app. No more buffering!
+Interesting stat - Beijing Olympics coverage delivered *3.4 petabytes*
+of video content on NBC.com. Maybe my Home Server needs to hold a
+petabyte.
+
+Oh, just saw a tweet come through - [should be some Silverlight 3 bits
+and a book available after the
+keynote](http://twitter.com/MIX09/statuses/1349407960).
+
+ Some application development improvements - deep linking, navigation,
+and SEO (so a search engine can index your Silverlight content(?)),
+ClearType support, multi-touch support, 100+ controls available, and
+library caching support (several apps can use a common library and the
+client only downloads it once). Nice demo of some of the new features in
+[a Rolling Stone archive](http://www.covertocover.com). (They're also
+releasing [a Playboy archive with 54 free
+issues](http://www.playboyarchive.com).)
+
+Expression Blend 3 - "SketchFlow" (which helps you prototype faster and
+work more in the way Bill Buxton talked about), Photoshop and
+Illustrator import, source code control support, and Intellisense for
+XAML/C\#/VB. SketchFlow demo was good - I think it'll save our UX folks
+a truckload of time in prototyping and getting feedback (as long as the
+feedback cycle doesn't turn into one of those "50 people in a room
+watching one person mark up the prototype" sorts of things). The big
+thing I see here is the "sample data" feature - you can have XML sample
+data that your designers can use while making their prototype. This will
+be HUGE for us.
+
+Silverlight 3 will have richer data validation controls and templates,
+Eclipse developer support, data-binding improvements, and multi-tier
+REST support. The validation thing is key - we're looking at that on a
+project in our group right now.
+
+SAP NetWeaver will start supporting Silverlight in a future release.
+
+Silverlight 3 will include support for running applications outside the
+browser on both Windows and Mac. That's going to be great. Write little
+companion applications for your web sites or whatever, write it all in
+Silverlight, and everything just works. (Adobe AIR style, right?)
+Built-in auto-update support, offline-aware app support (event you can
+handle when net status changes), and integration with the underlying OS
+(like the multi-touch feature mentioned).
+
+There's one beta of Silverlight 3 planned and it ships today. RTM will
+ship later this year. Oh, and did I mention it's 40K smaller download
+size than Silverlight 2? Huge. Thinking for our project we should skip
+Silverlight 2 and go straight to 3.
+
+**ASP.NET 4.0**
+
+New Control.ViewStateMode property allows you to totally shut down
+ViewState and selectively enabling it. Differs from the EnableViewState
+= false, but not totally sure how. Seems to be more effective.
+
+New ControlIdMode so you can take control of your control IDs. You can
+keep the old way of doing things, or you can set it to "static" and have
+server controls actually have the IDs you set - no mangling. And you can
+make that the default! About freaking time.
+
+Routing - this is the same as from MVC. There's a PageRouteHandler
+there... But I don't know if that's new or if I just don't remember it.
+They added an expression builder to build routes in markup. Page class
+now has the RouteData class so we don't need our own custom base page
+class for that anymore.
+
+New Page.Description and Page,Keywords properties will add the correct
+meta tags to your page. They support localization, too, using standard
+ASP.NET techniques.
+
+New Response.RedirectPermanent method uses a 301 permanent redirect code
+instead of the usual 302 temporary redirect.
+
+Informal poll of the room showed a lot of folks target XHTML Strict, but
+more target XHTML Transitional. Lots of folks interested in Section 508
+standards, which is good.
+
+The QueryExtender control helps you create search pages easier by
+interacting with IQueryable data sources. Hook it up to a textbox (or
+whatever) and have that interact with a LinqDataSource (or whatever).
+
+Core improvements - Cache has been updated to use the provider model and
+be extensible. Browser capabilities extensibility allows you to create
+custom browserCaps providers. Out of process session state can now
+optionally be compressed.
+
+ASP.NET AJAX is all new. Compiled templates, controls, databinding, and
+cross-browser compatibility. All client side. All entirely disconnected
+from ASP.NET - the demo was an HTML page using a client-side dataview
+control. HOT.
+
+Microsoft is going to start offering full product support for jQuery - a
+new thing for MS, to offer tech support for open source. They're calling
+it "Best Effort" support - they will troubleshoot with you and, if you
+find a defect, they'll create a patch to submit to jQuery just like a
+responsible community member. Good for them, good for us.
+
+MVC was mentioned but not covered because there are sessions dedicated
+to it.
+
+Dynamic Data... Not seeing anything new here.
+
+**Out of Browser Experience for Silverlight 3**
+
+This is pretty cool Silverlight 3 allows you to run a Silverlight app
+outside the browser so you can run the same app in the browser and
+standalone. By setting an option in your app manifest, you can enable a
+user to install the app. Setup experience is basically two checkboxes -
+add a shortcut to desktop and/or add a shortcut to start menu - and
+uninstall is a right-click away. Nice.
+
+Really cool way to dogfood Silverlight 3 and a great demo - the entire
+presentation was done in a lightweight PowerPoint analog entirely
+written in Silverlight 3. You'd never know it wasn't PowerPoint except
+the transitions between slides were all 3D. Very cool.
+
+Looks very easy to write an app that runs both in and out of the
+browser. I can envision, for my project, a little online banking widget
+that sits on your desktop and lets you view your balances or do small
+money movement operations without launching the browser. Could be a neat
+proof-of-concept.
+
+The auto-update feature is pretty slick, too. It's optimized for
+"instant on," so if a new version is found, it's downloaded in the
+background and the new version takes effect the next time the app is
+run. It's done without any notice, so it's recommended that your app
+display some sort of message when it's updated to let folks know. Sort
+of odd that it doesn't say anything out of the box, but it's still
+slick. You do need to keep all your code in the XAP file to get this to
+work smoothly.
+
+There's still IsolatedStorage for Silverlight, but the quota's increased
+from 1MB to 25MB. On the other hand, they have new open and save file
+dialog boxes that allows you to interact with the real filesystem.
+
+Offline apps are basically pulled off by a little launching application
+hosting a browser, creating a simple HTML page, and loading your
+Silverlight app. Very interesting. Technically the app is actually still
+running in a browser. Looks like you have to be careful if you're using
+Silverlight to write to the DOM, though - there's no DOM in an offline
+app, so you won't see those things working.
+
+**Data-Driven Apps in Silverlight**
+
+Primarily a demo using LINQ to SQL to show the old .NET 1.1 "IBuySpy"
+demo site reimagined in Silverlight. I haven't done a ton in Silverlight
+so this was pretty good to see. Only downside is the simplicity of the
+demo (LINQ to SQL) didn't help me in figuring out how to do larger-scale
+apps that use services for data access or use the MVVM pattern. I didn't
+stay for the whole thing because there was another presentation starting
+(a "mini session") that showed various WPF and Silverlight apps and I
+wanted to see some examples of stuff out there that aren't necessarily
+apps from giant companies (like the Netflix player or NBC and the
+Olympics) but also weren't really quick demos.
+
+**How'd They Do That?**
+
+[Hanselman](http://www.hanselman.com) showed a demo of an app [my friend
+John](http://www.johnbatdorf.net/blog/) did for Adidas using WPF and
+Dynamic Data. Good stuff. Really showing quick concept-to-production
+work using some of the new tools out.
+

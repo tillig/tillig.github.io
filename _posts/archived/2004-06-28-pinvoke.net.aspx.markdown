@@ -1,0 +1,14 @@
+---
+layout: post
+title: "pInvoke.net"
+date: 2004-06-28 -0800
+comments: true
+disqus_identifier: 602
+tags: [GeekSpeak]
+---
+I'm sure I'm the last person even finding this bandwagon to jump on, but
+this has to be the coolest thing since cool things:
+[pInvoke.net](http://www.pinvoke.net/) and its associated [VS.NET
+plugin](http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=75122f62-5459-4364-b9ba-7b5e6a4754fe).
+ 
+ Because there's no reason to learn C++ if you don't have to.

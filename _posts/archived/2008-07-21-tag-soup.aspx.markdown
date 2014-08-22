@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Tag Soup"
+date: 2008-07-21 -0800
+comments: true
+disqus_identifier: 1420
+tags: [Web Development]
+---
+[Jeff Atwood posts about the exact thing I
+thought](http://www.codinghorror.com/blog/archives/001155.html) when I
+saw the MVC tidal wave coming to overtake web forms. It feels like I'm
+back in the 90's, doing old-school ASP, because of the tag soup.
+
+Don't get me wrong - I'm all about separation of concerns and such, but
+every time I look at something like MVC, I see all roads leading to web
+forms. Maybe different web forms, but web forms nonetheless.
+
+-   Too much tag soup? Package stuff up in helper methods.
+-   Oh, wait, the helper methods that generate control structures aren't
+    really flexible enough to allow overridden behaviors or wire things
+    up (like validation). Let's make them instance methods on objects.
+-   Hmmm, there's sort of an object lifetime to manage here, and
+    wouldn't it be nice if the packaged widget could be a little smarter
+    about handling view data? Like dynamically populating itself based
+    on data and letting me know if the user changed stuff, because
+    writing that every time is such a pain.
+-   Hang on, that's web server controls.
+
+Some folks argue they want that "tighter control over the HTML" that the
+tag soup provides. I, personally, am much less interested in hacking
+HTML. Let the framework do it for me. I'm more concerned with the
+business logic anyway.
+
+I've done my share of classic ASP style development in lots of different
+server side languages, and it always ends up that to get rid of the tag
+soup, you head towards web forms.
+

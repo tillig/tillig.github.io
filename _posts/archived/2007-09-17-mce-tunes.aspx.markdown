@@ -1,0 +1,22 @@
+---
+layout: post
+title: "MCE Tunes"
+date: 2007-09-17 -0800
+comments: true
+disqus_identifier: 1269
+tags: [Media]
+---
+Continuing my quest for a decent media center approach, I noticed that
+[Brad
+Wilson](http://www.agileprogrammer.com/dotnetguy/archive/2007/08/19/23148.aspx)
+is using [MCE Tunes](http://www.mcetunes.com) to stream iTunes content
+using Windows Media Center.  (Also looks like he built his media center
+for the same reason I'm building mine - as a movie jukebox.)  Looks like
+MCE Tunes also works over media center extenders (Xbox 360), so that'd
+be a good solution to the music portion of the media center.
+
+I'll have to add this to my list of things to check out as I continue my
+quest.  Unfortunately it only really works in the XP edition of media
+center right now, so it'd mean I can't use Vista as my media center. 
+Not a showstopper, but definitely something to consider.
+

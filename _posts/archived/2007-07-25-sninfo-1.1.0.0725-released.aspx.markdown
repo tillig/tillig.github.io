@@ -1,0 +1,17 @@
+---
+layout: post
+title: "SNInfo 1.1.0.0725 Released"
+date: 2007-07-25 -0800
+comments: true
+disqus_identifier: 1242
+tags: [Release Notices,.NET]
+---
+For those using my little assembly strong name reading tool, I:
+
+-   Updated it for .NET 2.0.
+-   Added an option to copy/paste a generated binding redirect block out
+    for the assembly you're looking at.
+
+[Free for the
+taking!](http://paraesthesia.com/archive/2005/02/07/sninfo---strong-naming-info-for-.net-assemblies.aspx)
+

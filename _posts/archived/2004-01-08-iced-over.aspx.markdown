@@ -1,0 +1,74 @@
+---
+layout: post
+title: "Iced Over"
+date: 2004-01-08 -0800
+comments: true
+disqus_identifier: 438
+tags: [General Ramblings,GeekSpeak]
+---
+This is my third day in a row that I've been stuck working from home
+over a 56kbps dial-up connection and a software VPN. This sucks ASS.
+I've figured out that if I work entirely over Remote Desktop, then it
+cuts down on my bandwidth problem - just RD into my workstation at work
+and then let the bandwidth there do the walking - but working in 256
+colors (to conserver bandwidth on my end) and waiting for connections to
+establish is seriously *killing me*. I used to justify not getting a
+cable modem because we never got online at home due to our computer
+being too slow. Now that I've got a faster computer we seem to be on it
+(and online) a lot more often.
+ 
+ In fact, I just finished with an IM chat with my boss (and good friend,
+[Greg](http://www.greghughes.net)) who provided a few helpful
+recommendations, and I just bought me a [Linksys WRT54G Wireless-G
+Router](http://www.amazon.com/exec/obidos/ASIN/B00007KDVI/mhsvortex) so
+I can network the cable modem service when I get it. He knows how to do
+that (and secure it) and will help me out. Plus, at Amazon it was like
+\$17 cheaper than everywhere else, *and* had an additional \$10 rebate.
+Ordering it through my own site, I will get a 5% kickback on my own
+purchase, and using my Yahoo! Visa card, I'll get 1% back there. So,
+like, a great deal. Now all I have to do is call
+[Comcast](http://www.comcast.com).
+ 
+ Jenn is stuck at home today, too, which really sucks since she's not
+getting paid and can't work from home. No good a-tall.
+ 
+ I'm starting to get stir-crazy. I haven't been outside the apartment in
+three days and I need to *go somewhere*. I don't know how my
+grandparents do it - just sitting around their apartment day after day,
+never really going anywhere or doing anything.
+ 
+ In other sort-of-work-related-news, I've almost finished writing a web
+part for [SharePoint Portal Server 2003 and/or Windows SharePoint
+Services](http://www.microsoft.com/sharepoint/) that will allow users to
+display RSS feeds in a templated fashion. I was looking at using [Tim
+Heuer's RSS Feed Reader web part](http://www.timheuer.com/stuff.htm),
+but our requirements (i.e., my company's requirements) necessitated a
+few additional configuration abilities, so I ended up writing my own. I
+think when I've got it up and running, I may open a [GotDotNet
+workspace](http://www.gotdotnet.com/community/workspaces/) for it and
+release the source code. Maybe let the open source thing do a little
+work for me - have people contribute to it or at least provide ideas for
+enhancements. Might be fun.
+ 
+ Now that I'm thinking about it, I should probably split it off into its
+own assembly. (I have other web parts in the same assembly right now.)
+If that doesn't make any sense to you, don't worry about it.
+ 
+ Reading over what I've written so far, I realize that this is the sort
+of thing that goes through my head a lot of the time - how to program or
+configure things, how to solve problems in code, etc. - and that further
+makes me realize that some (perhaps many) of the people coming in here
+aren't going to understand what any of that means or why it's "cool."
+Or, at least, cool to *me*. I think I've written about that before -
+that some of my geek-out moments are less accessible than my general
+ramblings. Huh. Maybe I should start a second blog for my geekiness, or
+at least add a new category like "Geek Moments" or something where I can
+blast out crap that folks other than me don't care about. Something to
+chew on.
+ 
+ In the meantime, I should probably get to work. I've gotta write some
+documentation for my RSS Reader web part and ping Microsoft Developer
+Support for some code they're supposed to have provided me but didn't.
+Or, more accurately, code they *did* provide me with that didn't fulfill
+the requirements I gave them. Plus I need some additional caffeine in my
+bloodstream. I'm draggin' this morning.

@@ -1,0 +1,67 @@
+---
+layout: post
+title: "The ASP.NET 2.0 Anthology"
+date: 2007-10-30 -0800
+comments: true
+disqus_identifier: 1283
+tags: [Web Development,.NET]
+---
+[![The ASP.NET 2.0 Anthology by Allen, Atwood, Barnett, Galloway, and
+Haack.](https://hyqi8g.dm2303.livefilestore.com/y2pSolGfXYa6aUtHi3NALnh2eL-mvEHtQDrXAKgHvBFBkjsWgfFOmdTk5PzmaVVWR8wEp9ocOHvcrDYVPqrN5av1hSewELTlmsEYvfRSLcx39c/20071030aspnetanthology.jpg?psid=1)](http://www.amazon.com/gp/product/098028581X?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=098028581X)I
+just got through reading *[The ASP.NET 2.0
+Anthology](http://www.amazon.com/gp/product/098028581X?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=098028581X)*
+and I have to say, I liked it.
+
+*Anthology* is a "cookbook" approach at showing different tips and
+tricks for working with ASP.NET 2.0.  If you've never set foot in
+ASP.NET land, this isn't for you - it's not a "newbie trying to learn
+ASP.NET" book.  It's more of a "moderately experienced ASP.NET developer
+trying to sharpen the saw" book.
+
+The voice of the book is fairly informal, which makes it nice - like
+you're learning tips from a friend, rather than being dictated to.  Even
+some of the code snippets - which are shown in a nice, easy-to-read
+format - inject humor (watch for the *Office Space* references in the
+"Working With Email" chapter).  It made the book really easy to get
+through and understand.
+
+The book covers a large range of topics, from error handling to
+membership and role providers to form validation.  What was a pleasant
+surprise to see is that it covered a lot of things many other books
+don't, like project format, source control, and usage of popular
+third-party libraries (e.g.,
+[log4net](http://logging.apache.org/log4net/) and
+[SubSonic](http://www.subsonicproject.com/)).  There's discussion of
+non-ASP.NET issues like design patterns and practices, data access layer
+usage, and basic SQL Server query optimization - things that a
+reasonably experienced ASP.NET developer bumps into on occasion but may
+not have had time to delve into.  It even addresses differences for
+users of the Visual Studio Express Editions, who normally get sort of
+"left by the wayside."
+
+There were really only a couple of minor issues that I found with the
+book.
+
+First, there's a chapter in there called ".NET 2.0 Core Libraries" that
+looks as though it's intended to give an overview of, well, the .NET 2.0
+core libraries... but in the 30 pages allocated to the topic you can
+barely scratch the surface, so it generally comes off as slightly
+schizophrenic, hopping from topic to topic.
+
+The other issue I found is that there are some surprisingly good
+"nuggets" of information that seem misplaced and, in some cases,
+outright hidden, in the book and deserved a little more time in the
+sun.  For example, cross-page postbacks were sort of hidden in the
+"Component-based Development" chapter and asynchronous pages were hidden
+in the "Working With Email" chapter.  Interesting and valuable
+information that just sort of felt "out of place."
+
+Overall, the content of the book far outweighs any of the minor
+organizational problems you run into.  If you're looking for something
+to learn from and spark ideas of ways to make better ASP.NET
+applications, this is a great book.
+
+[In the interest of full disclosure: I was sent a review copy for free
+from one of the authors, [Jon
+Galloway](http://weblogs.asp.net/jgalloway/).  Thanks, Jon!]
+

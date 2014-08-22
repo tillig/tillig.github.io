@@ -1,0 +1,430 @@
+---
+layout: post
+title: "MIX09 - Day 3"
+date: 2009-03-20 -0800
+comments: true
+disqus_identifier: 1505
+tags: [GeekSpeak,Web Development,.NET]
+---
+**ASP.NET Ninjas On Fire Black Belt Tips**
+
+Demo-heavy [Haack](http://haacked.com) talk on ASP.NET MVC:
+
+-   CSRF
+-   Unit Testing
+-   Model Binders
+-   Concurrency
+-   Expression Helpers
+-   Custom Scaffolding
+-   AJAX Grid
+-   Route Debugger
+
+The first demo started with Haack writing a bank site. A topic close to
+my heart. And it's for CSRF protection, which is also interesting.
+
+The [Authorize] attribute on a controller means anyone accessing the
+controller method needs to be authenticated. Cool.
+
+OK, so the demo is showing a cross-site request forgery on a POST
+request. You apply a [ValidateAntiForgeryToken] attribute on the
+controller action and in the form you put a hidden form field with a
+random value associated with your session using the
+Html.AntiForgeryToken method. This appears to me to be the MVC answer to
+ViewStateUserKey and ViewState MAC checking. If the POST is made without
+the token, an exception is thrown. I was talking to Eilon Lipton at the
+attendee party a couple of nights back and confirmed that only POST
+requests can be protected. The problem there is that if the browser is
+insecure and allows the attacker to create a cross-domain GET to
+retrieve the form and inspect the results of that GET, then it can grab
+the anti-forgery token, add it to the POST, and it will succeed. (This
+is the same case with ViewState MAC checking in web forms.) A full CSRF
+protection mechanism covers every request, not just select ones. I'll
+have to see if I can get that pushed through into MVC. (That would be a
+pretty compelling solution to get us to switch away from web forms/MVP.)
+
+Next demo is how to do a controller action unit test. I got this one.
+Should be using [Isolator for
+mocking](http://www.plimus.com/jsp/redirect.jsp?contractId=1655929&referrer=tillig),
+though. :) Showed some good patterns for folks who are unfamiliar with
+them, though - TDD, dependency injection, repository pattern... valuable
+stuff to get the community thinking about. Might have been just a
+liiiittle too fast for some of the folks unfamiliar with the patterns,
+though.
+
+Next demo is model binding. The [BindAttribute] lets you specify which
+fields posted to the controller action should be used when populating
+the action's parameters. I think more time should have been spent on
+this because model binding is actually pretty interesting. (Maybe I
+missed this in the latter half of yesterday's talk.)
+
+Concurrency. That is, two people editing the same record through the web
+interface at the same time. The tip here used a timestamp in the
+database using the "rowversion" data type and setting the "Update Check"
+value to "true" on that column. When you try to submit an update to the
+record, it'll check to see if the row version you're sending in is
+different than the one on the actual record in the database. If they're
+different, you know the record has changed since you started editing and
+you throw an exception; if they're the same, you're good to go.
+
+He's using stuff from the "Microsoft.Web.Mvc" assembly - [the MVC
+Futures
+assembly](http://aspnet.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=24471)
+- which isn't part of the RTM that was announced this week. Not sure I'd
+be demoing stuff that doesn't ship... but I understand. Now I'm curious
+to see what's in the Futures assembly besides the base64 encoding method
+he's showing. (Futures is hard to find on CodePlex. [Look for the MVC
+"source" release - you'll find it
+there](http://aspnet.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=24471).)
+
+One of the most confusing things about the [HandleError] attribute is
+that if you're using it on localhost, it has the same semantics as the
+CustomErrors section in web.config. If you want to see the [HandleError]
+attribute work, you need to set web.config correctly.
+
+MVC Futures has "expression-based helpers" to render controls based on
+your model using lambdas. Instead of:
+ \<% Html.TextBox("Title", null, new {width=80}) %\>
+ you can use:
+ \<% Html.TextBoxFor(m =\> m.Title, new {width=80}) %\>
+ Nice because of the strong typing.
+
+In order to move from string-based to expression-based binding, you need
+to override the T4 templates that generate the default views. Putting
+your overrides in your project in a CodeTemplates/AddController or
+CodeTemplates/AddView folder will get the project to override the
+defaults for that project. You'll need to remember to remove the custom
+tool from the .tt templates or it will try to generate output for them.
+You can even add your own custom .tt templates in there so when you do
+File -\> New Controller or whatever it will show up in the dialogs.
+
+If you're doing a lot of T4 editing, [the Clairus VisualT4
+editor](http://www.visualt4.com/) looks nice. It adds syntax
+highlighting for T4 into Visual Studio. Not sure I'd have included that
+in the demo, though, since it's not what the lay-user is going to see.
+
+"Validation in ASP.NET MVC is a little tricky because we don't have
+built-in support for DataAnnotations." There's an [example on
+CodePlex](http://aspnet.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=24471)
+for this. I've played a bit with DataAnnotations and I'm not overly
+won-over. You have to add a partial class to "extend" your data object,
+put the [MetadataType] attribute on that and point to a "buddy class,"
+then create another class that has properties all of the same name as
+the data object that you want to annotate. Something like this:
+
+    [MetadataType(typeof(Question.Metadata))]
+    public partial class Question
+    {
+      private class Metadata
+      {
+        [Required]
+        [StringLength(10, ErrorMessage="Too long.")]
+        public string Title { get; set; }
+      }
+    }
+
+(This is how Dynamic Data does it.) Apparently there's some way coming
+out where you can specify that metadata through XML rather than
+attributes. I think I'll be more interested when that comes out.
+
+Nice tip here, instead of specifying an error message in your
+annotation, you can specify a resource. That's key, since we have to
+localize everything.
+
+    [MetadataType(typeof(Question.Metadata))]
+    public partial class Question
+    {
+      private class Metadata
+      {
+        [Required]
+        [StringLength(10,
+                      ErrorMessageResourceType=typeof(Resources),
+                      ErrorMessageResourceName="TitleVerboseError")]
+        public string Title { get; set; }
+      }
+    }
+
+Finally, a demo that shows something more complicated around validation.
+Now to see a demo where the validation parameters aren't static...
+
+Route debugging. [Haack has posted a nice route
+debugger](http://haacked.com/archive/2008/03/13/url-routing-debugger.aspx)
+that puts up a page that shows the various routes in the table and which
+route was matched based on the incoming URL. Very helpful if you're
+having a tough time figuring out why you're not getting to the
+controller action you think you should be getting to.
+
+We skipped the demo for the jQuery AJAX grid. He'll show that in an open
+space later if you want to see it.
+
+**There's a Little Scripter in All of Us**
+
+This is Rob Conery's challenge to the audience to embrace their inner
+scripter and move away from the "architecture astronauts."
+
+First point is the acronyms we get into with ASP.NET. TDD, DRY, KISS,
+etc. Can we break the rules that ASP.NET generally leads us to? "Not
+everything is an enterprise app." Hmm. This is going to be a little
+interesting for me since I'd actually like to see MORE focus on
+enterprise app development in ASP.NET. It's like ASP.NET is hovering in
+this limbo area where it's not fully set for enterprise development, but
+it's also more than tiny scripting sorts of apps need. Makes me wonder
+if it's trying to be too much. Jack of all trades, master of none.
+
+Lots of apologies for the demo. "I'm on a Mac and the tech here doesn't
+like it. The CSS on the demo doesn't like a 1024 x 768 resolution so it
+looks bad on the screen." As an audience member I don't care, I just
+want to see it working and looking good.
+
+He mentions that he jammed together a truckload of reeeeeally bad
+JavaScript code to get the MVC Storefront to work. "If I showed you that
+code, you'd probably throw up. Do I care?" Hmmm. This is getting harder
+for me to swallow. "Success as a metric" only works if you don't have to
+go back and maintain the app, fix bugs, or add features. Oh, or if your
+team never changes. Just because it works doesn't mean it's right.
+
+Oh, there's another apology. "OpenID should be showing up down there...
+but I don't have network connectivity." Demo FAIL. With all the stuff
+not working, it's really not convincing me that the rapid scripter
+approach to things is the way to go.
+
+Bit of a backtrack - "I'm not giving up on architecture." Showed some
+data access stuff - repository pattern, state pattern. Okay... and then
+we get to see the massive amount of inline script in the view. Wow. [My
+head a-splode](http://www.homestarrunner.com/sbemail94.html).
+
+Here's the point, I think: He showed [this application he
+downloaded](http://dddpds.codeplex.com/) that had like 20 assemblies and
+when it didn't work... it was so complex it was impossible to
+troubleshoot. The architecture might have been great, but it's not
+something you could just download and get going. With a flatter
+application you might have a less "correct" architecture, but it might
+also be easier to get up and running and in front of the eyes of your
+users. **That, I will buy**. Granted, you have to take it with a grain
+of salt - if you're making a massive distributed system that has certain
+scalability and deployment requirements, yeah, it's going to be complex.
+On the other hand, if you're just "making a web site," you might not
+need all that. He kind of took it from one far end of the spectrum to
+the other (which made it a hard sell to me) but I get the idea.
+
+Crap. Battery's dying. Time to plug in.
+
+**Building Microsoft Silverlight Controls**
+
+I've not done a lot of Silverlight work so seeing this stuff come
+together is good. The lecture is in the form of building a shopping site
+using Silverlight. I got here a little late (was eating lunch) and the
+topic is setting up styles in a separate XAML file (StaticResources).
+Sort of like CSS for XAML. Good.
+
+The clipboard manager the presenter is using is kind of cool. Curious
+what it is. Looks WPF.
+
+So, new styling stuff in Silverlight 3 - "BasedOn" styles, so you can
+basically "derive and override" styling. Also, "merged dictionaries" so
+you can define styles that are compilations of mulitple styles. (Not
+sure I described that last one well. There was no demo and it was
+skimmed over.)
+
+Skinning works with custom controls but not user controls or panels. The
+reason for this is that custom control visuals are in a
+\<ControlTemplate\> in XAML and all of the control logic is in code -
+good separation. User controls, I'm gathering, are more tightly coupled.
+
+"Parts and States Model" - Make it easy to skin your control by
+separating logic and visuals and defining an explicit control contract.
+It's a recommended pattern but is not enforced. "Parts" are named
+elements (x:Name) in a template that the code manipulates in some way.
+"States" are a way for you to define the way a control should look in
+the "mouseover" state or the "pressed" state. You define these with
+\<VisualState\> elements. Not all controls have states. "Transitions"
+are the visual look your control goes through as it moves between states
+and are defined with a \<VisualTransition\> element. "State gropus" are
+sets of mutually exclusive states and are defined in
+\<VisualStateGroup\> elements. (I'm gathering that the demo here will
+show this all in action.)
+
+The demo is making a validated text box. Styling of the textbox is done
+using {TemplateBinding} markup so if someone sets various properties on
+the text box they can change the style. Another "part" of the text box
+is the place where the text goes and... oh, she moved too fast. Somehow
+by calling that element "ContentElement" using x:Name attribute the text
+magically showed up in the text box. We saw a VisualState setup where
+the mouseover for an element on the text box would enlarge the element
+(a little star, when the mouse isn't over it, would get twice its
+original size in mouseover state). Using VisualTransitions, she animated
+the transition between the two states so it looked nice and smooth.
+
+The default binding for a text box is, apparently, that whenever the
+user tabs away, that's when the "onchanged" event happens. In
+Silverlight 3 they let you set the binding to be explicit (it will never
+automatically happen) and then you can add a KeyUp event handler that
+lets you do the binding every time a key is pressed. Nice. (Seems a
+little roundabout, but I'm gathering this is a big improvement from
+Silverlight 2.)
+
+Out of the box, Silverlight 3 will have good, standard-looking
+validation UI. TextBox, CheckBox, adioButton, ComboBox, ListBox,
+PasswordBox. Good. I think we're fighting validation right now in one of
+our projects.
+
+I haven't used Blend a lot before, but I have used Photoshop,
+Illustrator, AutoCAD, and 3DSMax. Those are listed in order of UI
+complexity (my opinion based on my experiences with them). Blend seems
+to fall somewhere between Illustrator and AutoCAD. The demo of hooking
+up states in Blend is interesting, but... well, not really
+straightforward. If someone grabbed me right after this there's no way I
+could repeat it.
+
+"The coolest and least interesting demo" for people who have used
+Silverlight 2 - They've enabled the ability to change the style of
+elements at runtime. I'm gathering that wasn't possible in previous
+versions. The demo looked basically like a demo that uses JS to change
+CSS on some HTML at runtime. Glad Silverlight can do... uh... the same
+thing DHTML has been able to do for years.
+
+Next demo is creation of a custom control showing the control's contract
+(attributes that define the various states the control can be in) and
+the manner you programmatically track the control's state. The default
+style for your control should be in "generic.xaml" and needs to be
+included in the Themes namespace of your control assembly as an embedded
+resource. The custom control created was a five-star "rating" control
+like you'd see on Netflix or Amazon. Cool.
+
+A lot of the way this seems to work is reminiscent of trying to deliver
+packaged user controls. The markup (ASCX in user controls, XAML for
+these Silverlight controls) may or may not have all of the controls they
+should because the designer may or may not have included them all, so
+you have to check to see if the nested controls even exist before acting
+on them.
+
+Just about time for the final session of the day.
+
+**Building High-Performance Web Applications and Sites**
+
+The tips here should help in all web browsers, not just IE, but specific
+stats will be in IE (since it is given by an IE team member).
+
+In the top 100 sites online (don't know what those are), IE spent 16% of
+its time in script but the rest in layout. In AJAX-heavy web sites, it
+only increased to 33% in script. Most time is spent in layout and
+rendering.
+
+CSS performance.
+
+-   Minimize included styles. Unused styles increase download size and
+    rendering time because failures (CSS selectors that don't point to
+    anything) cost time.
+-   Simplify selectors. Complex selectors are slow. Where possible, use
+    class or ID selectors. Use a child selector (ul \> li) instead of a
+    descendant selector (ul li). Don't use RTL and LTR styles.
+    Minimizing included styles makes this easier.
+-   Don't use expressions. They're non-standard and they get constantly
+    evaluated.
+-   Minimize page re-layouts. Basically, as the site is dynamically
+    updating or the user's working on things, you want to minimize the
+    amount of things tha update. The example here was a page that
+    dynamicaly builds itself and inserts advertisements as they load...
+    and things jump all over the place. When those sorts of changes
+    happen, the browser has to re-layout the page. A better approach for
+    this would be to have placeholders where the ads are so the page
+    doesn't re-layout - content just gets inserted and things don't jump
+    around.
+
+Optimizing JavaScript symbol resolution... Lookups are done by scope -
+local, intermediate, global - or by prototype - instance, object
+prototype, DOM. If you can optimize these lookups, your script will run
+faster. One example showed the difference between using the "var"
+keyword to declare a local scope variable and forgetting the keyword -
+if you forget the keyword, the variable isn't local so the lookups get
+longer. Another example was showing repeated access of an element's
+innerHTML property - rather than doing a bunch of sets on the property,
+calculate the total value you're going to set at the end and access
+innerHTML once. Yet a third example showed a function that got called in
+a loop - every time it runs, the symbol gets resolved. Making a local
+scope variable function pointer and resolving the symbol once is better.
+
+Of course, you only want to do this sort of optimization when you need
+to, but how do you know if you need to? There are various JS profilers
+out there, and the presenter showed the one in IE8 which is pretty sweet
+and easy to use. I haven't gotten so far into JS that I needed to
+profile, but it's nice to know this sort of thing is out there. Anyway,
+the interesting point of this part of the demo was showing that
+optimizing some of the lookup chains (in these simple examples) reduced
+some execution times from, say, 400ms to 200ms. I guess VS2010 will have
+this built in.
+
+JavaScript Coding Inefficiencies.
+
+-   Parsing JSON. You do an AJAX call, get some script back and need to
+    turn it into an object. How do you do it? With "eval()" it's slow
+    and pretty insecure. In a third-party parsing library it's slower
+    but more secure. The ideal solution is to use the native JSON
+    parsing methods JSON.parse(), JSON.stringify(), and toJSON() on
+    Date/Number/String/Boolean prototypes. This is in IE8 and FF 3.5.
+-   The switch statement. In a compiled language, the compiler does some
+    optimization around switch/case statements. Apparently in
+    JavaScript, that optimization doesn't happen - it turns into huge
+    if/else if blocks. A better way to go is to make a lookup table
+    surrounded by a try/catch block where the catch block is the default
+    operation. Definitely want to run that through the profiler to see
+    if it's worth it.
+-   Property access methods. Instead of getProperty() and
+    setProperty(value) methods (which makes for clean code), just
+    directly access the property backing store directly. Skip the
+    function call and added symbol resolution.
+-   Minimize DOM interaction. As mentioned above, the DOM is the last
+    place that's looked to resolve symbols. The less you have to do
+    that, the better. (DOM performance has improved, apparently, in
+    IE8.)
+-   Smart use of DOM methods. For example, use nextSibling() rather than
+    nodes[i] when iterating through a node list. These methods are
+    optimized to be fast. The querySelectorAll method, new in IE8, is
+    optimized for getting elements by CSS class selectors and can be
+    faster than getElementById or iterating through the whole DOM to
+    find groups of elements.
+
+Through all of this, though, optimize only when needed and consider code
+maintainability when you do optimize. You don't just want to blindly
+implement this stuff.
+
+HTTP Performance. This is a lot of that YSlow stuff you're already
+familiar with.
+
+-   Use HTTP compression. Whenever you get a request that says it allows
+    gzip, you can gzip the response. You only want to do this on text or
+    other uncompressed things, though - you don't want to compress
+    something like a JPEG that's already compressed. If you do, in some
+    cases, the download to the client might actually get bigger and
+    you've wasted both client and server cycles in
+    compressing/decompressing that JPEG.
+-   Scaling images. Dont use the width/height tags on an image to scale
+    it down - actually scale the image file.
+-   File linking. Rather than having a bunch of JS or CSS files, link
+    them all together into a single CSS and a single JS file. You'll
+    still get client-side caching, but you'll reduce the number of
+    requests/responses going on.
+-   CSS sprites instead of several images. Say you have a bunch of
+    buttons on a toolbar. You could have a bunch of images - one image
+    per button... or you could have one composite image and use DIVs and
+    CSS to show the appropriate portion of the compositie image on each
+    button.
+-   Repeat visits. Use conditional requests - use the Expires header in
+    a response so the browser knows if it can get the item out of local
+    cache.
+-   Script blocking. When a browser hits a \<script\> tag the browser
+    stops because it doesn't know if it's going to change the page or
+    not. Where you can, put the \<script\> at the bottom of the body so
+    it's loaded last. This is improved in IE8, but it's still there.
+
+IE8 has increased the connections-per-domain from two to six by default.
+No more registry hacking to get that to work.
+
+Tools
+
+-   [Fiddler](http://www.fiddler2.com) - inspects network traffic.
+-   [neXpert](http://www.fiddler2.com/fiddler2/addons/neXpert.asp) -
+    plugin for Fiddler to aid performance testing.
+
+And that's all, folks. Battery's dead and the conference is over. Time
+to fly home!
+

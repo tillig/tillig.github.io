@@ -1,0 +1,11 @@
+---
+layout: post
+title: "RoboMower RL1000"
+date: 2005-03-14 -0800
+comments: true
+disqus_identifier: 763
+tags: [General Ramblings]
+---
+*I must have a [RoboMower
+RL1000](http://www.amazon.com/exec/obidos/ASIN/B0001ZI54W/mhsvortex). It
+is a moral imperative.*

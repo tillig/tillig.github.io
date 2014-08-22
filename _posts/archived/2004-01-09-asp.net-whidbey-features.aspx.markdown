@@ -1,0 +1,11 @@
+---
+layout: post
+title: "ASP.NET &quot;Whidbey&quot; Features"
+date: 2004-01-09 -0800
+comments: true
+disqus_identifier: 440
+tags: [Web Development]
+---
+I just got a look at the features coming out in the new version of
+ASP.NET. Talk about cool stuff! Making the hard things easy, man. [Check
+it out!](http://msdn.microsoft.com/asp.net/whidbey/aspnetwhidbey.aspx)

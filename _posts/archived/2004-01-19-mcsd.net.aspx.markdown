@@ -1,0 +1,27 @@
+---
+layout: post
+title: "MCSD.NET"
+date: 2004-01-19 -0800
+comments: true
+disqus_identifier: 463
+tags: [GeekSpeak]
+---
+I just finished my MS 070-300 test, *Analyzing Requirements And Defining
+Microsoft .NET Solution Architectures*, and I ***PASSED***. That means
+I'm now a Microsoft Certified Solutions Developer in .NET. According to
+[*MCP Magazine*](http://www.mcpmag.com/), as of November 6, 2003, there
+are only 4,711 people in the world with that certification, so it still
+might hold a little weight.
+ 
+ Regardless, I passed what I figured to be probably the hardest of the
+tests in the MCSD.NET series. It was case studies with questions over
+each case study rather than a simple set of questions (which is what all
+my others were). I don't like the case studies because they sort of
+imply certain "right" and "wrong" answers that may or may not be quite
+what you do in real life. They're very... subjective. In other tests, it
+was much more clear which answers were "right" and "wrong." If the
+answers were skewed a certain way, it was kind of obvious from the
+question which way they would want you to skew them. Not so in this
+latest test, and I think that was the tough part.
+ 
+ I suppose it's moot now. ***I PASSED!***

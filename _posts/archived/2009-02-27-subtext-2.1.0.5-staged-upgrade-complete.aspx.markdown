@@ -1,0 +1,76 @@
+---
+layout: post
+title: "Subtext 2.1.0.5 Staged Upgrade Complete"
+date: 2009-02-27 -0800
+comments: true
+disqus_identifier: 1497
+tags: [Web Development,Subtext]
+---
+It's been a long time in the making, but since the last time I tried to
+upgrade my blog to the latest Subtext [failed so
+miserably](/archive/2008/08/16/failed-to-upgrade-to-subtext-2.0.aspx), I
+wanted to build up a full staging environment and test the heck out of
+it before trying to do it in production. To that end, I got a Windows
+Server 2003 VM up and running, complete with my web host's
+slightly-customized Medium trust configuration files and a copy of a
+recent database backup, and ran through the upgrade process.
+
+Turns out it's a good thing I did it in staging first. I discovered a
+few things that didn't upgrade too smoothly so it's good I caught them.
+
+First, a couple of spots in the web controls changed from List\<T\> to
+Collection\<T\>, which isn't a big deal but does cause a bit of a
+headache if you've got some custom stuff in App\_Code that fails to
+compile because of that. Again, though, no big deal.
+
+The showstopper ended up being this second problem: While the home page
+would load fine, going to any individual entry page would yield the
+Yellow Screen of Death with a FileIOPermission problem in
+Ssytem.Web.UI.ScriptManager:
+
+    Exception Details: System.Security.SecurityException: Request for the permission of type 'System.Security.Permissions.FileIOPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' failed.
+
+    Stack Trace:
+
+    [SecurityException: Request for the permission of type 'System.Security.Permissions.FileIOPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' failed.]
+       System.Security.CodeAccessSecurityEngine.Check(Object demand, StackCrawlMark& stackMark, Boolean isPermSet) +0
+       System.Security.CodeAccessPermission.Demand() +59
+       System.Reflection.Assembly.VerifyCodeBaseDiscovery(String codeBase) +118
+       System.Reflection.Assembly.get_CodeBase() +32
+       System.Web.Handlers.ScriptResourceHandler.GetCodeBaseWithAssert(Assembly assembly) +31
+       System.Web.Handlers.ScriptResourceHandler.GetLastWriteTime(Assembly assembly) +36
+       System.Web.Handlers.ScriptResourceHandler.GetAssemblyInfoInternal(Assembly assembly) +58
+       System.Web.Handlers.ScriptResourceHandler.GetAssemblyInfo(Assembly assembly) +59
+       System.Web.Handlers.RuntimeScriptResourceHandler.System.Web.Handlers.IScriptResourceHandler.GetScriptResourceUrl(Assembly assembly, String resourceName, CultureInfo culture, Boolean zip, Boolean notifyScriptLoaded) +336
+       System.Web.UI.ScriptManager.GetScriptResourceUrl(String resourceName, Assembly assembly) +114
+       System.Web.UI.ScriptRegistrationManager.RegisterClientScriptResource(Control control, Type type, String resourceName) +115
+       System.Web.UI.ScriptManager.RegisterClientScriptResource(Control control, Type type, String resourceName) +9
+
+What the heck?
+
+Turns out Subtext 2.1.0.5 ships with a copy of the ASP.NET AJAX 1.0
+System.Web.Extensions assembly in its bin folder. On a system with .NET
+3.5 SP1 installed, you don't want the old one - you want the new one,
+particularly since it's in the GAC and will run with Full trust.
+
+To fix the issue, I deleted the local copy of System.Web.Extensions.dll
+from the bin folder and added the following bindingRedirect to the
+web.config file:
+
+    <configuration>
+      <runtime>
+        <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+          <dependentAssembly>
+            <assemblyIdentity name="System.Web.Extensions" publicKeyToken="31bf3856ad364e35" culture="neutral"/>
+            <bindingRedirect oldVersion="1.0.61025.0" newVersion="3.5.0.0"/>
+          </dependentAssembly>
+        </assemblyBinding>
+      </runtime>
+    </configuration>
+
+Done and done. After that, everything seemed to work perfectly. There
+are a lot of new featues in Subtext 2.1.0.5 that I'm looking forward to
+taking advantage of, so now I've got to schedule some time to do the
+upgrade. Probably not this weekend - I really want to take it easy. But
+soon.
+

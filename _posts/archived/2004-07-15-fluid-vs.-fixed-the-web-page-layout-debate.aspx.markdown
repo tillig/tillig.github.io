@@ -1,0 +1,118 @@
+---
+layout: post
+title: "Fluid vs. Fixed: The Web Page Layout Debate"
+date: 2004-07-15 -0800
+comments: true
+disqus_identifier: 616
+tags: [GeekSpeak]
+---
+I'm working on a project at work where we use a combination of ASP.NET
+user controls, CSS, images, and JavaScript to offer a "theme" sort of
+effect. Change the set of user controls, etc., and magically the site
+takes on a new look.
+ 
+ As a demonstration, I implemented two different "themes" for the site -
+one being a "fluid" layout (sizes and positions of objects on the screen
+being relative to the browser window width) and the other a "fixed"
+layout (everything absolutely positioned and sized).
+ 
+ I am a big proponent of the "fluid" layout, particularly in corporate
+sites. I feel that there are too many sites out there that absolutely
+size everything, and while it may look like a nice print-based brochure,
+I feel that having half of my screen left in white space because the
+site designer fixed everything at 800 pixels wide and I'm running my
+monitor at 1600x1200 is a little less than optimal. Not to mention the
+accessibility issues surrounding absolute font sizes.
+ 
+ I got asked a question this morning and I couldn't handle it any more.
+"On the 'fluid' themes, will we ever be able to avoid [text] wrapping?
+For example, on [the fluid theme we implemented, if you] change to
+largest fonts, make your browser about the size of an 8x6 screen and it
+wraps out the wazzoo. It will be hard to say 'that is how it is'..."
+ 
+ My (slightly edited) response:
+ 
+ In a fluid theme you will never avoid text wrapping. NEVER. I realize
+this is a difficult thing to accept and it's why many places don't
+implement it. That said, text wrapping is a natural occurrence that
+*should happen*.
+ 
+ Look at some examples in your everyday life that you don't think twice
+about… and might consider it crazy if text wrapping didn't occur:
+
+-   Outlook
+-   Amazon.com
+-   Word
+
+
+ 
+ Using a fluid layout is a *paradigm shift*. People need to stop
+thinking in terms of "do all these things line up pixel by pixel" or
+"how much exact control can I exert over my web site to make every
+single experience 100% identical" and move into the idea that people
+with different monitor resolutions, font size settings (which may
+override ours, whether we like it or not – check out the "Accessibility"
+button on the "General" tab on the Internet Explorer "Internet Options"
+menu… Tools -\> Internet Options), and other needs will have to be
+accommodated. What happens when a blind person comes in with a screen
+reader? Are they going to care that some error message might wrap to the
+next line? What about browser compatibility? We already know different
+browsers render things differently... do you really want to fight and
+tweak with every single browser out there to make sure text doesn't
+wrap?
+ 
+ The solution is not to fight against it but to *design for it*. Embrace
+it, *assume it will happen*, and accommodate for that.
+ 
+ I realize in the fluid theme we've made some strides towards that, but
+as you're also noticing, we're finding some shortcomings with it that we
+failed to design for. I don't have all the answers here. Maybe we need
+to step back and take some actual time to redesign it. Maybe we need to
+step back and look at the whole way the site works in relation to themes
+and invest time in making that more robust. We probably need a graphic
+designer who knows how to work with the web, and we need them to create
+a more robust "fluid" layout.
+ 
+ I can't stress enough that the focus should not be on how to *avoid*
+text wrapping but how to *design to it*. Maybe error messages should all
+show up in validation summaries at the top of the page rather than in
+text next to the field with the error (and then just display a little
+error icon next to the problem field). Maybe they show up on the next
+line (or on the line above the field) rather than next to the field
+where wrapping is disturbing.
+ 
+ Side note: Consider this: when you say "I don't want the page to be
+less than X pixels wide" you're once again working in pixels. If any
+measurement you mention has the word "pixels," "points," or "picas," or
+any unit other than a relative percentage based on the browser size,
+you're back working in "print mode." Print mode is fine when you're
+talking about how you want a given page to print out when the user
+clicks the "print" button. It's much less okay if you're trying to work
+in a fluid mode. Instead, try something like: "I want a three column
+layout with a header and footer. I want the header to have the site logo
+and some navigation. The logo appears above the navigation tabs. The
+font size in the main navigation tabs should be 'x-small' and the sub
+navigation tabs should be size 'xx-small.' Column 1 should be 15% of the
+browser window width, Column 2 should be 65%, and Column 3 should be the
+remaining 20%. The text in each column should be size 'small.' The
+footer text should be 'xx-small.'" Right there, I just defined a
+complete site layout using relative positioning ("above" or "below," in
+relation to headers and footers) and relative sizing (percentages or
+relative font sizes). Never once did I provide a hard measurement for
+any of the items that would appear on the screen.
+ 
+ I realize that's *not* a simple task. It is giving up a lot of control
+over the page layout. The user is the person who reaps the benefits of
+our forethought, though, and isn't the user the ultimate, end customer
+we need to please?
+ 
+ We can go around and around with this all day for the rest of our
+lives. It's one of the never-ending battles - [Google for "fluid
+layout"](http://www.google.com/search?hl=en&ie=UTF-8&q=fluid+layout) and
+you'll find everything from discussion groups to
+[usability](http://www.humanfactors.com/downloads/oct022.htm)
+[studies](http://psychology.wichita.edu/surl/usabilitynews/3S/layout.htm)
+- between web designers. The long and the short of it is, you can't have
+your cake and eat it, too. There are benefits and drawbacks to both
+fluid and fixed layouts, and based on the layout type you choose, you
+need to design to it and embrace it for what it is.

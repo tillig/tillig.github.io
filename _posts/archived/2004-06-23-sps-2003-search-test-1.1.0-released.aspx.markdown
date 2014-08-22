@@ -1,0 +1,13 @@
+---
+layout: post
+title: "SPS 2003 Search Test 1.1.0 Released"
+date: 2004-06-23 -0800
+comments: true
+disqus_identifier: 596
+tags: [Release Notices]
+---
+I just completed [a new version of the SPS Search
+Test](/archive/2004/06/18/sharepoint-portal-server-2003-search-web-service-tester.aspx)
+and put it out there for download. It now supports syntax highlighting
+for your SQL queries. [Go get
+it!](/archive/2004/06/18/sharepoint-portal-server-2003-search-web-service-tester.aspx)

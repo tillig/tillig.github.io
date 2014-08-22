@@ -1,0 +1,35 @@
+---
+layout: post
+title: "ASP.NET, Part 5"
+date: 2003-08-22 -0800
+comments: true
+disqus_identifier: 331
+tags: [GeekSpeak,Web Development,.NET]
+---
+*8:30a*
+ 
+ [Marty](http://www.mildperil.net/blog/) has come up with some
+interesting rants on his site that are definitely overdue, Marty being
+the person he is. Some I agree with, some I don't; some arguments are
+convincing, some aren't; some blame is correctly placed, some isn't.
+Regardless, I'm glad Marty's decided to "stir the pot," so to speak,
+because it's his trademark inflammatory nature that I've looked forward
+to seeing since he started his site. I may just come up with some
+rebuttal arguments to his entries when I get time. Until then, [check
+out his site](http://www.mildperil.net/blog/), then [discuss in the
+forum](http://www.mildperil.net/forum/). We're hoping to get some good
+debate action going on in there.
+ 
+ *8:39a*
+ 
+ [I'm the devil and I'm here to say
+ I'm the most evil rapper in the USA
+ All my homies and my bitches say
+"Ohhhhh!"](http://snltranscripts.jt.org/99/99edevil.phtml)
+ 
+ *10:58a*
+ 
+ I've finished the last lab of the class, I've filled out my course
+evaluation, and now there's only a final review to do and that's it. I'm
+going to go ahead and post so I can high-tail it out of here when it's
+over.

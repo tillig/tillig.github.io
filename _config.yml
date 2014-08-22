@@ -1,0 +1,55 @@
+#
+# Blog Settings
+#
+author: Travis Illig
+description: "Travis Illig's blog about .NET development and personal interests."
+show_description_in_nav: false
+url: http://www.paraesthesia.com
+title: Travis Illig
+subtitle: "Paraesthesia: .NET Development and Some Pictures of My Cat"
+gravatar_url: https://s.gravatar.com/avatar/5b473ad19f5781cd5f17a65a670f3b37?s=160
+subscribe_rss: http://feedproxy.google.com/Paraesthesia
+
+# Github repositories
+github_user: tillig
+github_repo_url: https://github.com/tillig/paraesthesia.com/
+
+# Twitter
+twitter_user: tillig
+twitter_tweet_button: true
+
+# Google +
+google_user: tillig
+
+# LinkedIn
+linkedin_user: tillig
+
+# Disqus Comments
+disqus_short_name: paraesthesia
+disqus_show_comment_count: true
+
+# Google Analytics
+google_analytics_tracking_id: UA-1285161-1
+
+
+#
+# Jekyll Settings
+#
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+permalink: /archive/:year/:month/:day/:title/
+paginate: 20
+paginate_path: "page/:num"
+# Pygments pitches a huge fit on Windows
+# and GitHub pages doesn't support Rouge
+# so turn off the highlighter for local dev.
+# highlighter: null
+exclude: [/Gemfile,/Gemfile.lock,rakefile,README.md]
+jekyll-mentions:
+  base_url: https://twitter.com
+
+gems:
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap

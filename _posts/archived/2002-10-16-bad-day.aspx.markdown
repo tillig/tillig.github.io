@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Bad Day"
+date: 2002-10-16 -0800
+comments: true
+disqus_identifier: 142
+tags: [General Ramblings]
+---
+My bad day today actually started yesterday when our email server went
+down due to some funky computer policy crap that went on. That part
+wasn't my problem, but the fact that I *formatted and reinstalled*
+everything on my desktop computer on the very day when all the network
+trauma was going on means that I only had problem after problem getting
+things to work properly.
+ 
+ My bad day continued today, when all sorts of crap went on. Jenn
+sometimes pings me during the day via email to see how my day is going.
+I figured I'd let you all in on the email today so you can see what goes
+on *backstage*, as it were.
+ 
+> Fuck my day. Fuck it up its stupid ass. Everything has gone wrong
+> today. My extranet server won't send notifications to people when it's
+> supposed to. I don't know why; had to open a support call for that.
+> Another of my support calls came back and told me that, basically, I
+> have a lot of work to do in order to rewrite this program I'm working
+> on and make it work properly. I gotta have that in to those guys ASAP
+> so they can continue their work. I've got people showing up asking for
+> tutorials on how to do really simple shit and people so anxious for
+> the intranet to roll out that they're riding my back for it even
+> though I told them it's not going to be ready for at least A MONTH.
+> I've got shit to update on some forms that need to go production on
+> our extranet site (the same site that's all fucked up with the
+> subscription notifications thing) but have to play police and ride
+> people for input on them, even though the forms are THEIRS. I have to
+> fight Microsoft Support to give me files that they say on their web
+> site all you have to do is ask for - now they want me to justify WHY.
+> Everything I'm working on is priority one, and nothing is getting done
+> because I can't finish one thing before starting another.
+
+So, there you have it. I've been running around today sort of in this
+[*Age Affected Attention Deficit
+Disorder*](http://groups.yahoo.com/group/pwasoh/message/937) haze, doing
+lots of stuff but getting nothing done.
+ 
+ My baby, however, has gotten some rather high marks on the latest unit
+in her Pharmacy Technician training program - **96%**! That's pretty
+good, if I do say so myself. I am very proud.
+ 
+ Another positive item of note: My friend Gerb found this web site that
+reminded him of me. I read it, and it reminded *me* of me. I couldn't
+have written it up better myself. [What do you
+think?](http://www.fleetmack.com/~maddox/irule.html)

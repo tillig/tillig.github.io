@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ASP.NET 404 and Windows Server 2003"
+date: 2007-09-25 -0800
+comments: true
+disqus_identifier: 1273
+tags: [Web Development]
+---
+Ran into this today and it'd been so long since I'd fought with this
+issue, it took me some time to re-figure it out.  So, as a reminder to
+myself...
+
+If you're getting a 404 Not Found on an ASP.NET application running on
+Windows Server 2003/IIS6 that should be working just fine - the files
+are definitely there and the permissions are correct and everything -
+don't forget to make sure ASP.NET is enabled in the IIS Administration
+Console under "Web Service Extensions."
+
+If you uninstall and re-install ASP.NET, these settings get reset to
+"Prohibited" so ASP.NET won't work.  You'll need to change them to
+"Allowed."
+
+![Web Service Extensions inside IIS6 admin
+console.](https://hyqi8g.dm2303.livefilestore.com/y2pBrTiahFsoO-QzecXnFE4bAiA7xSn2wamXk1m7C7-GOe4mFlkLF_PCtEhbsDuwISWLbrx_SMLBP-90idgvmTrP37Fqc6nVqhJWW6HUWookJI/20070925wseallowed.png?psid=1)
+
+ 
+

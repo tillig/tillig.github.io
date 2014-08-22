@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Subtext 2.1.0.5 Production Upgrade Complete"
+date: 2009-03-02 -0800
+comments: true
+disqus_identifier: 1498
+tags: [Subtext]
+---
+This is my first post on the upgraded blog using [Subtext
+2.1.0.5](http://www.subtextproject.com). After [a failed
+upgrade](/archive/2008/08/16/failed-to-upgrade-to-subtext-2.0.aspx), I
+ran through an upgrade [on a full staging
+environment](/archive/2009/02/27/subtext-2.1.0.5-staged-upgrade-complete.aspx),
+got it working, and repeated the process in production... huh, I guess
+that's sort of what you're supposed to do, anyway, isn't it?
+
+I won't lie; my heart was pounding near out of my chest while I was
+doing the upgrade, scared I'd have to call upon my web host to restore
+me from a backup (I don't have admin access so I can't do it myself).
+
+Right-o. Anyway, it looks like I'm up and running, which rocks, and I
+like the new features. Only issue I've run into so far: The HTML editor
+in the admin interface doesn't really work with Firefox. Specifically,
+when you try to add a hyperlink to something, the little "edit
+hyperlink" box pops up, but when you click "OK" the box doesn't dismiss
+and the hyperlink gets made into some crazy JavaScript placeholder link.
+Solution: Post using IE.
+
+If you see soemthing wrong with the site, leave me a comment or contact
+me (see the link in the navigation bar) so I can see about fixing it.
+

@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Moved!"
+date: 2003-11-12 -0800
+comments: true
+disqus_identifier: 400
+tags: [General Ramblings]
+---
+I'm going to call this the official move announcement for paraesthesia.
+I'm running pMachine as my blog now, and will no longer be maintaining
+the Greymatter blog I was using. If you've found me and you're reading
+this message, *this is the place*. Welcome. I'll be continuing to tweak
+the template and fix things as I find them, but it's functional and I
+need to get things moving on this.
+ 
+ You'll notice I now have an RSS feed that you can subscribe to, and if
+you register as a user you can also be notified of things as they happen
+(like the paraesthesia mailing list, right?). Plus, if you want to leave
+a comment and you've logged in, you won't have to type in all of your
+vitals - it'll just know you.
+ 
+ And who knows? Maybe soon I'll have some "members only" stuff (not like
+the jackets, more like stuff that only members can get to). I suppose it
+depends on how many folks I can get to register. We'll see.
+ 
+ In the meantime, like I said, I'll keep working on this thing and we'll
+see if we can get something good done. I know there's some work I need
+to do on the administrative interface to get the macro keys to work
+closer to Greymatter (I had that totally customized, man, and now...
+primitive).

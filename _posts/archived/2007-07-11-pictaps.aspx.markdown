@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Pictaps"
+date: 2007-07-11 -0800
+comments: true
+disqus_identifier: 1231
+tags: [General Ramblings]
+---
+Found [this nifty little thing](http://roxik.com/pictaps/) via [Penny
+Arcade](http://www.penny-arcade.com).  It's a site where you draw a 2D
+character and they make it dance around in 3D using Flash.  I threw
+together this stick figure one to see how it works.  Sorta neat, and
+free.  But, damn, the music is annoying.
+
+Note that I don't think they thought about scalability on the thing and
+it's become reasonably popular, so it seems to be hit or miss on whether
+the thing actually plays.
+

@@ -1,0 +1,75 @@
+---
+layout: post
+title: "Support H.264 in Sony Vegas with x264vfw"
+date: 2009-12-31 -0800
+comments: true
+disqus_identifier: 1600
+tags: [Media]
+---
+[![Creative Vado
+HD](http://ecx.images-amazon.com/images/I/31vF3J7gDML._AA200_.jpg "Creative Vado HD")](http://www.amazon.com/gp/product/B001LK8P14?ie=UTF8&amp;tag=mhsvortex&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001LK8P14)I
+got [a Creative Vado HD
+camera](http://www.amazon.com/gp/product/B001LK8P14?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001LK8P14)
+for Christmas from Jenn and have been messing around a bit with it. I
+like the recording quality, but I found in Windows Vista you have to
+install an H.264 codec in order to get the videos to play in Windows
+Media Player. (In Windows 7 they provide an H.264 codec for Windows
+Media Player so you don't have to install anything else.)
+
+While playback is fine and dandy, I'm not really interested in editing
+the videos I take with the camera in the simplistic editor they provide.
+I suppose if I just zapped something really quick to jam up on YouTube
+that'd be great, but I find I end up with several clips where I need to
+trim the start/end on them, maybe crossfade them into each other -
+nothing really major, but more than the little app offers. I have Sony
+Vegas to do my video editing and it works great.
+
+Except on H.264.
+
+See, Windows does not come with a codec that Sony Vegas can use to edit
+these files. You can get the audio, but not the video. Really dumb, and
+dumber still that Sony didn't pre-package one just in case, particularly
+since H.264 is so popular.
+
+The answer: [x264vfw - a free, open-source Video for Windows H.264
+codec](http://x264vfw.sourceforge.net/).
+
+Once you install x264vfw - three clicks, tops - magically everything
+works the way you want it to. Playback in Windows Media Player, editing
+in Sony Vegas... fantastic.
+
+Note that I have seen other solutions for this posted elsewhere
+encouraging you to install the whole [K-Lite Mega Codec
+Pack](http://www.codecguide.com/download_kl.htm) and everything that
+comes with it. That's overkill. You only need a VFW (Video for Windows)
+H.264 codec, and K-Lite uses x264vfw internally anyway. I'm a fan of
+only installing the things you absolutely have to, and just x264vfw will
+take care of it.
+
+UPDATE 1/4/2010: This appears to have broken in Sony Vegas 10. I had it
+working in Vegas 9 and for various reasons upgraded to Vegas 10 and now
+it doesn't work. It appears that the recommendation in the Sony Vegas
+knowledge base is to use Windows Live Movie Maker to convert the video
+to a different format (since Windows can read/play it but Vegas can't).
+For that purpose, I created a new custom setting in Windows Live Movie
+Maker with the following values:
+
+-   Width: 1280
+-   Height: 720
+-   Bit rate: 8500
+-   Frame rate: 30
+-   Audio format: 192kbps, 48kHz, stereo
+
+The width, height, and frame rate match the Vado HD video. The other
+values are just slightly higher quality than the Vado so you won't lose
+too much quality in the conversion. Doing a few tests, I don't really
+notice a difference in the source and converted materials.
+
+After conversion, Sony Vegas easily reads the files and you can edit
+them as expected.
+
+Personally, I think it's pretty lame that Windows Live Movie Maker can
+read these files but a higher-end program like Vegas can't. You would
+think Vegas would take advantage of the same set of codecs WLMM does...
+but apparently not.
+

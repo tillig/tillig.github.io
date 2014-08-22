@@ -1,0 +1,119 @@
+---
+layout: post
+title: "243 Trick-or-Treaters"
+date: 2009-11-03 -0800
+comments: true
+disqus_identifier: 1583
+tags: [General Ramblings]
+---
+We had five more trick-or-treaters this year than we had last year and
+the most popular time to visit was between 7:30p and 8:00p, which is a
+half hour after last year. From the graph, it appears that kids are
+coming out later and later - back in 2006 and 2007, 6:30p to 7:00p was
+the most popular time to visit.
+
+Here's the graph:
+
+![2009: 243
+Trick-or-Treaters](https://hyqi8g.bl3301.livefilestore.com/y2p_XOubhTbuBqx2QRJnyLIre7lw7TCItX6XFW82lOnjZ6GlFdCRcK1toTDbKV8WT3UEZXDpGupBWZbRHspWEUypuTMJeToOFixgwjgfHJ67sc/20091031trickortreaters.png?psid=1 "2009: 243 Trick-or-Treaters")
+
+And the cumulative data from this year and the other years we've
+tracked:
+
+ 
+
+Time Blocks
+
+6:00p - 6:30p
+
+6:30p - 7:00p
+
+7:00p - 7:30p
+
+7:30p - 8:00p
+
+8:00p - 8:30p
+
+**Years**
+
+[**2006**](/archive/2006/11/01/162-trick-or-treaters.aspx)
+
+52
+
+59
+
+35
+
+16
+
+0
+
+[**2007**](/archive/2007/11/01/139-trick-or-treaters.aspx)
+
+5
+
+49
+
+39
+
+25
+
+21
+
+[**2008**](/archive/2008/11/03/237-trick-or-treaters.aspx)
+
+14
+
+71
+
+82
+
+45
+
+25
+
+**2009**
+
+17
+
+51
+
+72
+
+82
+
+21
+
+Halloween was on a Saturday this year so we prepared for this number of
+kids by getting two giant bags of candy at Costco. We did think there'd
+be more, so we have about half a bag of candy left, but at least we
+didn't run out like we did last year.
+
+We put the Halloween projector out again this year and that was nice but
+I think I want to do more decorating for next year. I think Halloween's
+on Sunday next year, so I'm not sure if we'll have quite as big of a
+turnout, but it's fun to decorate and such.
+
+Around the 6:30p time we had a couple of larger trick-or-treaters show
+up in something similar to [Death Eater
+masks](http://www.amazon.com/gp/product/B000UUMXD2?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000UUMXD2).
+They were also wearing some pretty heavy long black coats. They didn't
+say anything (which isn't out of the ordinary) and just held their bags
+out. Fine, some high school kids doing their last hurrah. When the next
+group of kids showed up, though, these larger ones were still there. OK,
+fine, we'll give you a second piece of candy and send you on your way.
+But they were there for a third time when kids showed up so I told them,
+no, they'd already been here twice and it was time for them to move on.
+As I shut the door, one of them stuck a foot in and got up in my face so
+I started getting ready to get nasty. "You'll be moving that foot now."
+Then the doorbell rang and they were there again. I'd had it... and then
+they said "Trick or Treat!" out loud.
+
+It was my ***freaking parents***.
+
+Man, they got us so good. We had no idea. It was my mom who'd got up in
+my face because she thought we could see her eyes through the mask. You
+couldn't - it was total blackout from outside the mask. Wow, did they
+get us. Not sure we'll be able to get 'em back for that, but we owe them
+a big one now.
+

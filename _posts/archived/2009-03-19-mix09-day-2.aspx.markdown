@@ -1,0 +1,375 @@
+---
+layout: post
+title: "MIX09 - Day 2"
+date: 2009-03-19 -0800
+comments: true
+disqus_identifier: 1504
+tags: [GeekSpeak,.NET,Web Development]
+---
+**Keynote**
+
+Bill Buxton introduced the keynote today, which is about the release of
+Internet Explorer 8. The intro video, once again, was awesome. I think
+every web meme in existence showed up in this thing. (Not as good as
+ScottGu wrestling a bear yesterday, but pretty funny nonetheless.)
+
+The first speaker is Dean Hachamovitch, GM of IE. He has some
+interesting points. We need a browser that "just works" for people who
+want to browse. Something that's secure and stable. We also need a
+browser that works well for developers (uh... Firefox?). That's what,
+apparently, IE8 is supposed to be. Available today, you can go download
+the final release version of Internet Explorer 8.
+
+Some interesting statistics presented and the way they dealt with them
+in making IE8: 80% of user navigations are the user going back to a page
+they already were at. 70% of people have more than one search provider
+installed. To address that, the search box will return results as you
+type that come from your history and make that easier to get to. They
+also added easy buttons at the bottom of the search results box to
+toggle search providers on and off.
+
+Oh, surprise: when a browser crashes, users don't care why it crashed,
+they just don't want to be interrupted. Not sure what genius figured
+that one out. The historic problem is you might be dong a bunch of stuff
+and if the browser crashes, you lose everything. To answer that, they
+did the thing Chrome did where each tab runs in its own process so if
+one crashes, the rest don't. That took long enough.
+
+Some of the performance statistics they're showing are nice. Comparable
+to Firefox 3, nice and fast. Faster than Chrome. I'll have to see if
+that plays out in more day-to-day scenarios.
+
+Some of the little security stuff they did is nice. The top level domain
+is highlighted in the address bar so it's easier to see. Say you went to
+"http://www.paypal.badguy.com/foo/bar/baz" - it's not obvious that
+you're not on Paypal... but if you highlight the top level domain, it
+is: http://www.paypal.**badguy.com**/foo/bar/baz. Oh, and built-in
+clickjacking prevention, that's cool.
+
+The standards compliance stuff is compelling... but the side effect of
+showing that IE8 is really standards compliant is that it shows the
+other browsers might not be quite as compliant, so you're still going to
+be dealing with cross-browser formatting problems. It'll be more
+compelling when all of the browsers get as behind standards compliance
+as this.
+
+Web slices look like an interesting developer technology. The're these
+little HTML snippets that run in a tiny gadget-style window in IE8 so
+the user doesn't have to open a whole tab and log in. I can see some
+interesting potential use cases in some of our projects - let you get
+your account balances, for example, without having to go to your banking
+site. Examples they showed on this is the ability to check your Yahoo!
+mail or look at traffic reports in little web slice windows. Sounds
+pretty easy to implement, too - just add a few tags around exsting
+comments.
+
+Accelerators also look pretty interesting. Context-sensitive
+functionality like the ability to highlight some text and send it in
+Gmail, or select an address on a page and get a map. That content, like
+the slices, shows up in a little gadget-style window. I wonder if it
+would be interesting to people to be able to, say, highlight a biller's
+name and have an accelerator to start a payment to that biller.
+
+He's making a big point about the fact that "they're going to listen to
+the users" in the future. Interesting. I mean, we all know they didn't
+listen to us before, but dwelling on it shows they really heard that
+this was an issue. Let's hope it sticks.
+
+Next speaker is Deborah Adler, a designer who revolutionized the way
+pharmaceuticals get packaged and labeled. Not a techie by any means -
+not even someone who interacts with the tech world. She started out by
+trying to solve a problem for her grandmother and ended up solving a
+problem for the world. The problem was that her grandmother mistook her
+grandfather's Alzheimer's medication and took the wrong one. Same
+medicine, similar names... but different doses. Problems.
+
+Other problems she saw were things like people chewing pills that
+shouldn't be chewed because the warning about that got hidden or
+obscured among a lot of other text on the bottle. Apparently like 60% of
+Americans make mistakes in taking their medication because of difficulty
+in reading or understanding the instructions. Showing us the issues made
+it very clear - poor coloration, far too much text that is diffcult to
+read in tiny print, extra pages of difficult text to accompany the
+prescription bottle... I've seen it myself. It's not clear. Tiny, poorly
+printed labels that make sense to the pharmacy but not to the end user.
+
+Her solution - a revised label - is really good. It still has all of the
+information on it, but formatted in a much clearer manner where the
+information you need immediately (what the medicine is, how to take it)
+is prominent and the less important things (the phone number for the
+pharmacy) are less prominent. Labels get color-coded on a per-person and
+per-medication basis so my prescription for something will have a
+different color label than your prescription for the same thing - so I
+won't accidentally take your meds. The bottle is reshaped to be flat on
+the back and slightly round on the front so you don't have to rotate the
+bottle 360 degrees to read the information. Warnings go in bold, clear
+print on the back of the bottle. And a huge improvement - the label will
+actually get a red X that shows up on the front when the drug has
+expired so you know not to take it. Automatically. (Like time-release
+ink.) Standardized warning icons that are clear and easy to understand.
+
+She tried to get it pushed through at the federal level but, while the
+FDA liked the idea, each state has its own pharmacy board so they
+couldn't do it. In the end, Target took it and they're using the idea
+now. It's now called [the "ClearRx" system](http://target.com/clearrx).
+
+This is really cool - it's designed specifically for good human
+interaction. Granted, there were challenges in getting it out there
+(there are 23 different variations in the label to accommodate the
+different states' regulatory requirements) but it's a huge improvement
+from the crappy orange hard-to-read bottles.
+
+Gonna have to ask Jenn if she's seen this at the VA. The Surgeon General
+really likes it.
+
+Makes me wonder what major changes we can make online to help people
+this much. Working in online banking, I'm sure there's a lot of
+improvement we could make to clarify what people are looking at and make
+online banking easier and more compelling.
+
+**Wireframes That Work**
+
+Presented by a representative from a company called Cynergy that does
+contract RIA design, primarily in Adobe Flex. They list Bank of America
+as a customer, which is interesting to me.
+
+Interesting point one - good design does not necessarily equate with
+good user experience. The example here was a house in Germany that won
+Time Magazine design of the year. It looks great... but the people
+living there aren't having such a great time. Great design, great look,
+*not great UX*.
+
+So here's a new xDD acronym for you: Purpose-Driven Design. This seems
+to be the idea that you need to design your experience with the end
+purpose of the app in mind. Tailoring the experience to the user, the
+user's needs, and the overall aim of the application.
+
+Interesting idea that came up (that I happen to agree with) - don't wait
+for the users to come back and complain about the experience before you
+start fixing the problem. Anticipate the issues and fix them up front.
+How often have you been on a project where you clap some UI on something
+that you know isn't awesome but that's what the stakeholders asked
+for... only to hear that it's not the greatest and it needs to be
+redone?
+
+Everyone comes into the deisgn process with some baggage - tunnel vision
+(thinking you're limited by technology or "this is how we've always done
+it), changing minds (or not making any decision)... In a purposeful
+design scenario you have to step back from that and look at the problem.
+Watch the customer do their work. Look at the pain points. Look at the
+problem you're trying to solve. Solve it without that baggage.
+
+A tip presented: Turn off your computers when doing high-level design.
+Use a whiteboard. Use a pencil and paper. Computers are great
+productivity tools, but how many times do you check your email, get
+interrupted by IM, get sidetracked... and it's true. I think about how I
+work and I totally get all of that information coming in all the time.
+(The computer will obviously have its place in the process, but try
+doing some of the brainstorming without it.)
+
+And a note on process: Don't be so rigid in process that it hurts the
+development effort or the flow of ideas. Hmmm. That's definitely
+something I'll have to take back to work with me next week.
+
+From the presentation:
+
+-   "It hasn't been hard to make things look interesting or cool.
+    Usefulness and joy can be elusive."
+-   "Design like an architect, refine like a sculptor."
+-   "Don't be a usability nazi." (This has to do with the idea of
+    getting too caught up in process and letter-of-the-law usability
+    guidelines like the Jakob Nielsen things like minimizing number of
+    clicks and such. Solving the problem in the best way might break
+    some of those guidelines but will actually provide a better
+    experience.)
+-   "In software, the desired goal is often a disruptive solution in the
+    marketplace. Know that this may require a disruptive process." This
+    is definitely one I want to take back to work with me.
+
+For my projects, I know I have opinions about how we should be doing
+things. I'm going to have to stop and think now - am I looking at it
+with my baggage-goggles on? Or am I really solving the problem? I know
+our UX folks are doing a great job at researching peoples' needs, and
+I've seen the personality profiles and such that they've come up with...
+but one of the questions I have now that I didn't think of before - have
+we talked to people who don't do online banking and figured out why? Are
+we solving the people for only existing users or are we solving it for
+everyone? How do we solve the problem in such a way that we can increase
+our user base instead of just retaining the existing folks?
+
+**Lunchtime - Microsoft Surface**
+
+Got to play a bit with a Microsoft Surface during lunch. It's sort of
+hard to really understand the coolness of the tactile experience without
+actually doing it. The videos and demos you see are neat, but when you
+actually use it, it makes a lot more sense.
+
+One of the apps they had was a CD player where you set the disc on the
+table and it [somehow] looks at the case, figures out what the CD is,
+and starts playing the music from it. And, of course, you've seen the
+demos where the person sets their phone down and starts working with the
+pictures on it.
+
+What if you could set your wallet on the table and see your account
+information? See your balances and such for your various accounts and
+credit cards? Want to pay your credit card bill? Drag a payment from
+your checking account over to your credit card account. Work with your
+electronic balances as easily as you work with cash, adding an easy to
+understand, tactile experience to your online banking. Might be
+interesting. Now if I can just convince work that I need to get a
+Surface... you know, for development purposes.
+
+**Securing Web Applications**
+
+I admittedly got here a few minutes late because I couldn't find the
+room, but coming in... it looks like a better title for this would be
+"How We Improved Security in IE8." Not quite what I expected. We'll see.
+
+Oh, yeah, uh... looking at the description - "Learn how to take
+advantage of browser security improvements to help protect your web
+applications and visitors." Might have to go see what other
+presentations are out there. Recent projects have taught me that the
+security department won't let us trust security to the browser - we have
+to control it all entirely at the server level. So...
+
+**Choosing Between ASP.NET Web Forms and MVC**
+
+This session is to help you determine what's better for you - standard
+ASP.NET web forms or the new ASP.NET MVC framework. The demo shown here
+is two applications that have identical user interfaces, do exactly the
+same thing, but one's web forms and the other's MVC. Comparing apples to
+apples, so to speak.
+
+Interesting bit when describing the way the demos were put together - a
+guy asked why there weren't any themes used (.skin files, etc.) for the
+demo and all the styling was done in CSS. The answer - no web controls
+in MVC, so it doesn't make sense to use .skin files. Interesting because
+I'm curious why it wouldn't work if you were using ASPX as the view
+engine. Thinking what they meant wasn't "you can't use them" so much as
+"we chose not to."
+
+The presenter (Rachel Appel) seems to be dwelling on the URL format that
+MVC routing gives you. She brings up the querystring vs. nice routed
+URLs... but you can use routing with web forms. I've done it. Not sure
+the URL format is a selling point one way or the other. (Actually, later
+she mentions that routing will work with both, though she did pretty
+well omit it and sell hard when talking about MVC.)
+
+She also seems to be talking about using web forms but NOT using the MVP
+pattern to separate the code out of the codebehind and into a separately
+testable class. I think that's missing here. She brings up a lot about
+separation of concerns, but you can get some pretty good SoC with MVP.
+
+I think the best part here and the most obvious thing that never gets
+said: With MVC you get full control over everything... but there's a
+corresponding increase in effort to get results out of the box. You
+don't get anything for free. Sort of the Spider-Man "with great power
+comes great responsibility." Kudos to Appel for saying it. It's true,
+and no one ever really mentions that.
+
+Another thing she said that never gets said: when showing a \<% foreach
+%\> loop building a table, she mentioned how this is reminiscent of
+classic ASP. Absolutely. What she doesn't mention is that the next
+logical step of creating lots of pages with tables is to create a block
+of logic that you can call and pass data into so you don''t have to
+write the \<% foreach %\> on every page with every table. Isn't that...
+server controls?
+
+Really this solidifies my thoughts that the best way to go is a sort of
+middle ground: web forms using MVP, taking advantage of the routing
+(which shipped separately from MVC, by the way), and having all of that
+third-party control support and the richness of web forms while also
+getting your separation of concerns goodness.
+
+Granted, I very well could be convinced otherwise when MVC 2.0 ships,
+whenever that is. I was talking to Eilon Lipton on the MVC team last
+night about some of my concerns that never seem to be shown in the MVC
+demos. Complex input validation and localization. Can it be done? Sure,
+but it's not really a great story. Again, with all that control, you get
+a lot more manual wireup and, in some cases, no help at all. Apparently
+some of these more complex scenarios are on the list of things to
+address. Looking forward to seeing that.
+
+**File -\> New Company: NerdDinner.com**
+
+In this one, [Hanselman](http://www.hanselman.com) is showing how to
+easily create a reasonably rich application, his example being a dinner
+scheduling application. Technologies used include LINQ to SQL and MVC.
+The data is getting abstracted away with the repository pattern. A very
+good demo of how you can really rapidly get something going here. Also a
+good overview of how MVC comes together. Probably a little more useful
+for the folks who haven't messed with MVC, but good to see it all come
+together.
+
+You know how you say a word so many times you forget what it means and
+it sounds like gibberish? The word "dinner" has been worn out for me
+now. Dinner dinner dinner dinner dinner. Yup. Meaningless.
+
+New favorite site: [sadtrombone.com](http://www.sadtrombone.com). (Yes,
+you can find anything on the web.)
+
+**ASP.NET MVC - America's Next Top Model View Controller Framework**
+
+This is an introduction to MVC given by [Phil
+Haack](http://haacked.com). File -\> New Project demo including a
+walkthrough of the project structure. How controllers get set up, that
+sort of thing.
+
+I think this should probably have been given on day one to give the
+people a foundation on which to build over the course of the next two
+days.
+
+**Connecting Applications Across Networks with Microsoft .NET Services**
+
+This is an intro to the [Microsoft .NET Service
+Bus](http://msdn.microsoft.com/en-us/library/dd129877.aspx), which looks
+interesting, particularly since we're doing a lot of WCF in one of my
+current projects. Clemens Vasters is the presenter on this one.
+
+Lots of interesting features here. For example, they're working on a
+feature where you'll still be able to connect to your service endpoint
+even if the port is blocked by the firewall. Sounds sort of like the way
+Google Talk will use port 80 instead of the standard Jabber port 5222 if
+it's blocked. No real details but, still, on the horizon.
+
+Another interesting thing - if you have a client talking to a service
+and the service bus detects that, say, they're in the same subnet, the
+bus will detect that and upgrade the connection to get the client
+talking directly to the service. There's an event you can listen to that
+will tell you when that happens. (I'm pretty sure I'm understanding that
+right, but I admittedly came in a little late.) You can also set
+connections to be reliable so if a connection breaks it'll automatically
+be re-established.
+
+They have a queuing behavior where you can send messages into a queue
+and the service will pull messages off the queue and respond to them.
+This is set up through a policy in the service registry. He made a big
+deal to say this isn't, say, MSMQ queuing, but I'm not really sure how
+specifically it differs. The behavior seems to be the same, but with
+some REST sort of semantics based on HTTP verbs (like "GET" on the queue
+will read a message on the queue bot leave it and not dequeue it).
+
+Something else interesting - if you want to see what's subscribed to a
+certain message set, you can do a GET on a router subscriptions feed and
+get an ATOM document back with the list of all subscriptions. Do a POST
+to create a new subscription, DELETE to unsubscribe... all RESTful
+semantics around that subscription endpoint.
+
+Good demo just sort of solidified it for me, though. Sort of like a chat
+app. Two Silverlight applications subscribing to a service on the bus
+listen for messages. Someone enters some text, submits it to the
+service. The service turns around and sends a message to the subscribers
+- the listening chat clients. Both chat clients get the text that was
+submitted. Basically Twitter. Got it. I see what's going on now. (Oh,
+hey, the demo's called "Text140!" I get it!) Was feeling a little out of
+sorts for a bit, not really knowing what I was looking at. Messages, at
+least in the demo, all take the form of ATOM entries.
+
+OK. I get it. REST + ATOM + pub/sub + cloud = Microsoft.ServiceBus.
+Basically. Nice. Unfortunately, with the cloud portion, I don't think
+we'll be able to use it for the project I'm on (banks + cloud isn't
+gonna happen) but I can see that it could be very useful in other
+scenarios. Twitter competitor? :) (Didn't realize it was an Azure
+service until pretty late in the game. Again, probably from being late
+to the show here.)
+

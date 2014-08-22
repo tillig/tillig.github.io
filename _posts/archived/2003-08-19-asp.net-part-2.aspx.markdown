@@ -1,0 +1,170 @@
+---
+layout: post
+title: "ASP.NET, Part 2"
+date: 2003-08-19 -0800
+comments: true
+disqus_identifier: 328
+tags: [GeekSpeak,Web Development,.NET]
+---
+*8:01a*
+ 
+ I got a lot done last night! I mean, mods to Greymatter, the Toxic
+Waste shirts... stuff I'd been meaning to do for a long time, and it
+finally got completed. I think it's amazing how much *more* energy you
+have when a) you're not working four peoples' jobs at the same time; and
+b) you aren't spending an hour each way commuting to that four-in-one
+job. Got home yesterday and felt... like I could still accomplish
+something at home besides getting ready to pass out on the couch in
+front of the TV. It was good.
+ 
+ I did forget to schedule my next test for next week, but I can do that
+tonight after my haircut when I get home.
+ 
+ *8:17a*
+ 
+ My hair stylist called and moved my appointment to Thursday, so I guess
+I'm going home right after class. Fine by me.
+ 
+ *8:29a*
+ 
+ There are grounds floating in my coffee. Mmmmm.
+ 
+ *9:55a*
+ 
+ I'm going to try to merge my mods from last night (Greymatter) into the
+latest version of Greymatter (1.21d) since I'm not on it right now (I'm
+at 1.21c). However, the proxy server here doesn't seem to allow FTP
+through, and [my HTTP-based file
+manager](http://www.gossamer-threads.com/scripts/fileman/) didn't get
+set up right in the transition, so I guess I'll wait until I get home.
+Bah.
+ 
+ *10:02a*
+ 
+ Break time. We're working on "events" in ASP.NET, which are pretty
+straightforward, especially now that I've already taken the Windows
+Applications programming course. Pretty much the same thing, actually,
+which is good - standardization appeals to me. It seems that it's a hard
+concept for some folks in here, though, but I suppose never having
+written anything web-related will do that to you.
+ 
+ *10:40a*
+ 
+ Thank goodness for [WWW2FTP](http://www.www2ftp.com). Fileman is up and
+running.
+ 
+ *11:14a*
+ 
+ Got the first lab of the day done, and we're starting to get into some
+stuff I'm interested in. That's good.
+ 
+ I'm going to go through (if I can) and see what's different in the
+different versions of Greymatter. I think it'll be minor stuff, but
+we'll see.
+ 
+ *11:36a*
+ 
+ Well, I just went through the Greymatter source and compared my
+modified version of 1.21c to the latest version, 1.21d, and merged all
+the changes into one primary version, which I'd like to think of as
+1.21e.
+ 
+ I noticed while going through the code that whoever put together 1.21d
+actually *removed* a bunch of security-related code (the encryption of
+passwords, etc.). I left that in my build, though I can see how it might
+stop it from being used on Windows-based servers that don't have the
+"crypt" command available.
+ 
+ The 1.21d primary change was a small security fix where folks on using
+a PHP exploit could somehow corrupt your Greymatter site. Not sure what
+that exploit is, but I left the security fix in place.
+ 
+ So my version, the unofficial 1.21e, has:
+
+-   All of the features of Greymatter 1.21c
+-   The PHP security fix from 1.21d
+-   An updated comments posting routine such that when a user posts a
+    comment (and you choose to be notified by email), the email will
+    actually come FROM the user (if they provide an address) so you can
+    potentially reply to the comment directly (the email layout is a
+    little nicer, too)
+-   Updated configuration so you can specify your Amazon Associate ID
+-   Updated add/edit entry screens so you can use CTRL-SHIFT-E to add an
+    Amazon Associate link, just by entering the item ASIN
+-   Updated the CTRL-SHIFT-A link hotkey (when adding/editing an entry)
+    to automatically add a **clause (more often than not, I want that)
+
+
+ 
+ I am considering modifying it slightly so it will write an RSS file
+when you add/edit entries, but I'm not sure if I want to do too much
+more work with this if I'm just going to migrate to Movable Type
+anyway.
+ 
+ *12:04p*
+ 
+ Lunch. I'm not sure what I'm going to get yet, but I'm thinking I may
+chance Zupan's (the market) again and see what sort of funky stuff they
+have that might NOT taste like Chef Boyardee.
+ 
+ *12:38p*
+ 
+ Back from lunch. Went to the market again, but this time looked around
+a bit more before I settled on their deli fettuccine alfredo. That was
+pretty good, actually, so if they have it tomorrow, I may get that. Also
+picked up a [Tazo](http://www.tazo.com/) Lemon Ginger iced tea, which is
+tasty.
+ 
+ While I was there I saw a couple of interesting things. First, I saw a
+four-or-five ounce bottle of balsamic vinegar that costs \$130. I'm not
+sure how you can justify [paying that much for
+vinegar](http://www.farawayfoods.com/vinegars.html), but some people
+have money to burn. Second, I saw [*Natural*
+Cheetos](http://www.snacknatural.com/) - Cheetos with supposedly no
+preservatives, artificial flavors, or artifical colors, flavored with
+white cheddar. They looked sort of like little cheesy larvae in the bag,
+sort of white and poofy. How can you have Cheetos without the orange
+fingers?
+ 
+ *1:30p*
+ 
+ Just finished an interesting lab involving tracing the execution of
+ASP.NET pages. A few things clearer there, and learned a couple of
+things I didn't realize you could do.
+ 
+ *2:02p*
+ 
+ We're looking at validating input, which is all well and good, but my
+brain has checked out. I'm remembering why I was never a fan of school;
+I can't concentrate on any individual thing for this long. Plus,
+lecture/classroom learning, while better than just reading the book,
+isn't the best way for me to learn.
+ 
+ I don't know what the best way for me to learn is. Maybe I should avoid
+it altogether.
+ 
+ *2:30p*
+ 
+ Another lab down. Learned a bit about some of the functionality of the
+validation controls you can use. Don't get me wrong, it's neat stuff,
+but man... it's programming. Ugh.
+ 
+ *2:56p*
+ 
+ Last lab of the day...
+ 
+ *3:06p*
+ 
+ Done. Yeah, boyeeee.
+ 
+ *3:11p*
+ 
+ There must be some stupid email thing going around again, because I'm
+getting spammed with all of these virus-laden mails with the subject
+lines "Re: Approved," "Re: Thank You!," and "Re: Re: My details." To all
+the morons out there: *Stop opening up attachments from people you don't
+know*.
+ 
+ *3:12p*
+ 
+ I guess that's it for the day. I'm outta here. YAY, ME!

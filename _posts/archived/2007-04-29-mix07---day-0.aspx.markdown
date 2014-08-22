@@ -1,0 +1,52 @@
+---
+layout: post
+title: "MIX07 - Day 0"
+date: 2007-04-29 -0800
+comments: true
+disqus_identifier: 1188
+tags: [GeekSpeak]
+---
+[The conference](http://visitmix.com) technically starts tomorrow, but
+I'm in town a day early to get settled so I can be there, bright-eyed
+and bushy-tailed. Or at least bright-eyed.
+ 
+ There was a mashup session that ran from 4:00p to 8:00p alongside
+registration, but by the time I got here, got registered, got to the
+room, and got something to eat... well, I also got a little tired and
+didn't really feel like throwing down with the mad technical skillz.
+Instead, I thought it would be prudent to take it easy - it's been a
+long day, and I do want to be ready to pay attention and learn in some
+of the great sessions planned.
+ 
+ My schedule looks like this:
+ 
+ Monday, April 30
+ 9:30a - General Session
+ 1:30p - Building Rich Web Experiences using Silverlight and JavaScript
+for Developers
+ 3:00p - Using Visual Studio "Orcas" to Design and Develop Rich AJAX
+Enabled Web Sites
+ 4:30p - AJAX Patterns with ASP.NET
+ 
+ Tuesday, May 1
+ 8:30a - Front-Ending the Web with Microsoft Office
+ 10:15a - Designing with AJAX: Yahoo! Pattern Library
+ 11:45a - Developing ASP.NET AJAX Controls with Silverlight
+ 2:15p - Go Deep with AJAX
+ 4:00p - General Session
+ 
+ Wednesday, May 2
+ 8:30a - How to Make AJAX Applications Scream on the Client
+ 10:00a - Windows Presentation Foundation for Developers (Part 1 of 2)
+ 11:30a - Windows Presentation Foundation for Developers (Part 2 of 2)
+ 
+ Interestingly, this isn't the schedule as I originally planned it on
+Friday. Even up to the last minute the times, places, and topics are
+changing. I don't know if this is the set of classes I'll actually be in
+or not, but we'll see.
+ 
+ Getting into the spirit of things, I've joined
+[Facebook](http://www.facebook.com) and
+[Twitter](http://www.twitter.com) since those seem to be ways folks are
+supposed to coordinate things. I'm not super taken with either one, but
+then, I'm not a big "social networker." I'll withhold judgment for now.

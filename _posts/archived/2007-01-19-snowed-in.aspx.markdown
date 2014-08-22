@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Snowed In"
+date: 2007-01-19 -0800
+comments: true
+disqus_identifier: 1128
+tags: [General Ramblings]
+---
+Oh, what a week it's been.
+ 
+ Saturday Jenn and I went with my friend Torin to check out [*Night at
+the Museum*](http://us.imdb.com/title/tt0477347/). It was actually
+pretty darn good in a "cute" sort of way. I don't know that I'll be
+buying it on DVD, but I didn't walk out feeling like I was cheated out
+of my money, either.
+ 
+ Sunday and Monday were a blur. Monday was a federal holiday, so we
+didn't have to work, but Jenn had plans to hang out with her family, so
+I was left alone with the cat to play video games and watch movies. I've
+been watching [*The Pretender* Season
+1](http://www.amazon.com/exec/obidos/ASIN/B0006UEVTK/mhsvortex) and
+loving it. (Just ordered [Season
+2](http://www.amazon.com/exec/obidos/ASIN/B0009X76ZA/mhsvortex) so I can
+keep going. I can't believe I didn't see this when it was on TV.)
+ 
+ Tuesday and Wednesday some serious cold weather hit the Portland area
+and made the roads really icy, so Jenn called in sick and I worked from
+home. [You can see some of the footage of people who decided to drive in
+it.](http://www.kgw.com/sharedcontent/VideoPlayer/videoPlayer.php?vidId=114046&catId=437)
+Not good. My dad had some trouble sliding around, too, and is going to
+have to make a visit to the local body shop to get his car fixed up.
+ 
+ I don't ever really feel productive when I'm home, though, because
+frankly there are so many more interesting things to do than work. But
+you gotta do what you gotta do, and I ended up on the couch with a TV
+tray and my laptop. Not terribly ergonomic by any means.
+ 
+ I'd have blogged all this yesterday, but we saw a huge spam increase at
+work and in order to stem the tide, hosts that sent spam to us were
+being blocked for access. Unfortunately, someone must have sent spam
+spoofing my domain or something because somehow my site got flagged as a
+spam site and I couldn't connect. I've got the block removed, but now
+I'm working with my ISP and our IT guys to see why I got blocked in the
+first place and track down what we can do to stop it in the future (if
+anything). I'm in a shared environment, so there's not a lot I can do
+from a server lockdown perspective other than having strong passwords on
+my accounts.
+ 
+ Which brings us to today - Friday - and even though it's been a short
+week, it's been a *long* week. I woke up this morning exhausted and with
+a distinct lack of motivation. I'm doing what I can to motivate myself
+chemically (Mountain Dew?) but it's not working super well. I won't lie
+- I'm just not interested in what I'm tasked to do, so it's difficult to
+have a lot of zeal. Hopefully there will be something more fun to deal
+with next week.

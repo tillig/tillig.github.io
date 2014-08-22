@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Going to MIX09"
+date: 2009-02-12 -0800
+comments: true
+disqus_identifier: 1495
+tags: [Web Development]
+---
+Just booked - **I'm heading to Vegas from March 18 - 20** to wreak havoc
+on the attendees at [MIX09](http://2009.visitmix.com/).
+[@haacked](http://twitter.com/haacked) and
+[@shanselman](http://twitter.com/shanselman), **beware**!
+

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Nuttba"
+date: 2005-05-26 -0800
+comments: true
+disqus_identifier: 827
+tags: [General Ramblings]
+---
+I think Stu says it best, so I'll just let you [check it out over
+there](http://www.stuartthompson.net/Blog/Nuttba.aspx).

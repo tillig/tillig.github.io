@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Test With... Silverlight/CoreCLR"
+date: 2007-05-17 -0800
+comments: true
+disqus_identifier: 1204
+tags: [GeekSpeak]
+---
+Jamie Cansdale has done it again, adding "Test With Silverlight" to
+TestDriven.NET.
+ 
+ [Check it out. *So
+hot.*](http://weblogs.asp.net/nunitaddin/archive/2007/05/16/test-with-silverlight-coreclr.aspx)

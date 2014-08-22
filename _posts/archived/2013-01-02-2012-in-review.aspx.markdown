@@ -1,0 +1,159 @@
+---
+layout: post
+title: "2012 in Review"
+date: 2013-01-02 -0800
+comments: true
+disqus_identifier: 1797
+tags: [GeekSpeak,General Ramblings]
+---
+2012 has come and gone, and it's time to look back at what happened.
+Because if I don't, well… my memory isn't quite what it used to be, you
+know?
+
+It was a good year both personally and professionally, though I noticed
+I blogged a lot less. That happens, I guess. I find I post more of my
+little personal updates on [Twitter](http://twitter.com/tillig) or
+[Facebook](http://www.facebook.com/tillig), which reduces the noise here
+but definitely splits up the content. Maybe that's a good thing. You can
+subscribe to the stuff you like, ignore the stuff you don't. (I use
+Twitter for more professional stuff whereas Facebook will show you more
+pictures of my kid and my cats.)
+
+Professionally, I got promoted to be a Tech Lead at work, which is sort
+of like a team leader but without the "people management" part of things
+and more focus on product architecture and technology solutions. That's
+totally my wheelhouse, so good things there.
+
+[I also became a
+co-owner](/archive/2012/10/12/autofac-project-update-ownership-changes-3-0-coming-soon.aspx)
+of [the Autofac project](http://autofac.googlecode.com/), which has been
+a lot of fun to work on. I started out over there as a contributor for
+the multitenant support and started playing a larger role with the
+restructuring for the upcoming 3.0 release. It's great to work with
+smart folks like those on that project and it's nice to be learning so
+much while (hopefully) providing some value to the masses.
+
+Blog-wise, other than the usual "hey, I found this interesting" sorts of
+tips and articles…
+
+-   [I showed you how to add a VSIX installer to a DXCore
+    plugin.](/archive/2012/02/01/how-to-add-a-vsix-installer-to-a-dxcore-plugin.aspx)
+    I've been a CodeRush/Refactor/DXCore fan for a long time and the
+    ability to publish plugins for that on the Visual Studio gallery is
+    just one more reason they rock. [I even put CR\_Documentor out
+    there](/archive/2012/02/16/cr_documentor-3-0-0-0-is-in-the-visual-studio.aspx)
+    (first DXCore plugin in the gallery!) so… go get it! (You can [use
+    my CodeRush templates to help you write that XML API
+    doc](/archive/2012/08/08/use-coderush-templates-to-help-write-xml-api-documentation.aspx),
+    too.)
+-   [I updated my Subtext database maintenance
+    page](/archive/2011/06/17/easier-subtext-2-5-2-0-maintenance.aspx)
+    so you can easily enable/disable referral logging. More on this
+    later.
+-   [I created a "Command Prompt Here"
+    generator](/images/App/CommandPromptHere/) so you can get any sort
+    of context menu command prompt you want.
+-   [I showed you how to do a side-by-side render of an MVC partial view
+    and its
+    source](/archive/2012/05/09/html-demopartial-side-by-side-render-and-code-for-partial.aspx)
+    so you can make cool demo sites.
+-   [I showed you how to format your config files as part of your
+    build](/archive/2012/06/22/format-configuration-files-on-build.aspx)
+    so you won't have to deal with it manually. Trust me, this helps a
+    ton if you have a lot of developers working in there.
+-   We talked about [NDepend 4 and the new CQLinq query
+    syntax](/archive/2012/08/10/ndepend-4-cqlinq-ndepend-api-and-beyond.aspx).
+    This is another tool I'm a huge fan of. There's only so much FxCop
+    and StyleCop can tell you before you need to drill down into your
+    code… and this is how you do it.
+-   [I published an MSBuild package for Sublime Text
+    2](/archive/2012/07/12/sublimemsbuild-msbuild-package-for-sublime-text-2.aspx)
+    which includes syntax highlighting, a build system, code snippets,
+    autocompletion… If you work with MSBuild in Sublime Text, this is
+    for you.
+
+So there's all that. Maybe not high in *quantity*, but I'd like to think
+the *quality* is there.
+
+Personally, my year (and most of my free time) has revolved around my
+daughter, Phoenix, who is now two years old. This year she went from
+walking and a small amount of vocabulary to running around rampantly and
+being a total chatterbox. She loves Batman, with [the "Little People"
+playset](/archive/2012/03/15/a-typical-play-session-with-my-toddler.aspx)
+as well as [a Batman
+raincoat](/archive/2012/08/24/my-toddler-party-rock-and-ocd.aspx).
+([She's on the ThinkGeek customer action shot page for that raincoat,
+too.](http://www.thinkgeek.com/product/edb4/action/218aa89/)) [We took
+her to Disneyland and had a great
+time](/archive/2012/11/09/disneyland-2012.aspx), though she didn't take
+well to the costumed characters. I look forward to taking her again when
+she's older and can understand a little more about what's going on.
+
+Every day she surprises me by saying or doing something new and I have
+to wonder where she gets all her material. Her latest thing is to
+"sneeze" ("ah… ah… AH-CHOO" like in cartoons) and then ask for a tissue
+("Daddy, tissue me? I tissue. Please?"). I have no idea where she got
+that. This morning I yawned so she pointed to the kitchen and said,
+"Daddy, coffee?" Yes, baby, Daddy *does* need some coffee. *You are the
+smartest toddler alive.*
+
+In going through some of our stuff, weeding out things we don't use, I
+came across these baby sign language videos. We tried that since [we'd
+heard a lot of success with
+it](http://www.hanselman.com/blog/BabySignLanguage.aspx) and wanted
+Phoenix to be able to communicate and not have those "I can't speak so
+I'll throw a tantrum" issues. We never could get Phoenix into it,
+though. She lost interest in the videos (we tried several kinds from
+different places) and just didn't pick up on the signs. Instead, she
+pretty much skipped all that and just spoke or used less formal gestures
+to indicate what she wanted. We haven't ever really had any issues
+figuring out what she's saying and she's never thrown any
+communication-related tantrums, so I suppose it all worked out in the
+end.
+
+One thing I've sort of surprised myself with is the amount of television
+we let her watch. It's not a lot, not like she's just "glued to the
+tube," but I thought I'd be one of those parents who would be, like, "NO
+TV EVER!" What I find, though, is that she really learns a lot from the
+stuff she watches. She knows a ton of animals from *Go, Diego, Go*. She
+is starting to get good problem solving skills from *Mickey Mouse
+Clubhouse* ("Which tool will solve this problem?"). She's learned a lot
+about music and such from *Little Einsteins*. We don't really watch
+anything with "no value" - arbitrary cartoons or whatever - but the
+educational stuff you see on PBS and Disney Junior has been really
+pretty good. She pretends a lot, she likes building with blocks and
+playing with those wooden Brio trains… and she knows how to navigate
+Netflix and the Disney Junior apps on the iPad to find the different
+shows she likes, so that's pretty crazy to watch.
+
+Toward the end of the year I've started getting into tea. I've never
+really been much of a tea-drinker in the past, but something clicked
+with me and I'm enjoying tea a lot. (Honestly,
+
+In the upcoming year, I am thinking I'd like to move off the Subtext
+blog platform. I am a contributor over there, but the momentum behind
+the project has been lost and I don't think it's going to come back. I
+thought I'd be more into contributing and building on the blog engine
+than I ended up being. I met some great folks there and I'm glad I got
+involved, but I realize that, as far as a blog platform is concerned…
+honestly, at this point I just want it to work and have the software
+maintained by someone else. I want to own my content and I want to be
+able to tweak things if needed, but for the most part I don't want a
+super-young platform and I don't want to worry about whether there's
+going to be an update coming. I honestly thought I'd want to tweak a
+bunch of stuff on my blog, write plugins, and do a bunch of things, but…
+well, not so much. As such, I will probably see what it will take to
+move to WordPress. It's been around a long time, it's a sort of de-facto
+standard, and it has an actual plugin model (something I'd wanted from
+Subtext for years). It also has no shortage of themes to choose from
+(something else I'd wanted from Subtext). It won't be a simple process -
+I'll need to figure out how to export all the Subtext content in
+[WordPress Extended RSS
+format](http://ipggi.wordpress.com/2011/03/16/the-wordpress-extended-rss-wxr-exportimport-xml-document-format-decoded-and-explained/),
+redirect permalinks, etc. - but I think it'll be worth it.
+
+Beyond that, much as I would like to blog more and better things… I will
+have to see. I anticipate I'll still use a lot of social media for the
+tiny updates, but hopefully I'll have more interesting problems (and
+solutions!) to share with you all as the year progresses.
+

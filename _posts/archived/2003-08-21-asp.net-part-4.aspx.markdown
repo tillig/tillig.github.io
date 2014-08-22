@@ -1,0 +1,124 @@
+---
+layout: post
+title: "ASP.NET, Part 4"
+date: 2003-08-21 -0800
+comments: true
+disqus_identifier: 330
+tags: [GeekSpeak,Web Development,.NET]
+---
+*8:04a*
+ 
+ I got here about 10 minutes ago, but had elevator problems.
+ 
+ See, the stairs are locked on the ground floor until 9:00a. Class
+starts at 8:30, so that's not going to cut it. You have to use the
+elevator.
+ 
+ There are two elevators. They unlocked ONE of them at 7:45a. The other
+one is still locked now. Every time I called an elevator to go up, the
+LOCKED one showed up. For the life of me I couldn't get the unlocked one
+to appear.
+ 
+ Eventually someone came DOWN in the unlocked elevator, so I was able to
+snag it before it disappeared on me again. Argh, how annoying.
+ 
+ Didn't really do much last night other than park in front of the tube.
+Cleaned a little, cooked some dinner, that's about it.
+ 
+ *8:53a*
+ 
+ Done with review of yesterday and lab.
+ 
+ *10:08a*
+ 
+ Lab time. This time it's on XML Web Services, which I took the
+week-long course for, too. It's a good review, but I'm still waiting for
+the last couple of chapters on configuration and security.
+ 
+ *10:34a*
+ 
+ Done. The next section is on managing state and should be a good one.
+This is where it starts getting interesting.
+ 
+ *12:22p*
+ 
+ Done with the lab on session state. This was actually a pretty good
+section and filled in several gaps I had on state management.
+ 
+ The next section, I believe, will be even better - configuration and
+deployment.
+ 
+ *1:23p*
+ 
+ I couldn't help myself - I bought some of those "Natural Cheetos" I was
+mentioning the other day. They're actually pretty good - they taste a
+lot like SmartFood popcorn.
+ 
+ I got an email from my boss saying something along the lines of "When
+are you coming back? We miss you." I replied that basically I'll be back
+but am reluctant due to the disgusting commute and the lack of desire I
+have to work on the project I'm currently assigned to. His response to
+that was that maybe I should change my drive time to better accommodate
+the traffic.
+ 
+ For those unfamiliar with Highway 26 in Portland, it's a four-lane
+highway (two lanes each direction) that extends from downtown Portland
+to Hillsboro where all the high-tech jobs are located. Regardless of
+which direction you travel - into Portland in the morning or into
+Hillsboro - the commute is awful. All the time. Seriously. You can get
+on the road at, like, 10:00a - the rush hour should be over, right? -
+and it's *packed*. The schedule is something like this:
+
+-   5:30a - 10:00a: Morning rush "hour"
+-   10:00a - 3:00p: Lunch rush
+-   3:00p - 8:00p: Evening rush "hour"
+
+
+ 
+ So the alternative, then, is for me to work 8:00p to 5:00a, which isn't
+really an alternative because then I have no social life anymore. I
+can't win.
+ 
+ The *real* answer, as much as I hate to admit it, is to live closer to
+work, or at least somewhere such that I don't have to drive Highway 26.
+I like living where I do, and I hate the Hillsboro area, but I don't see
+any decent alternative other than that. Quit, maybe. But then I can't
+pay for stuff, and that's not good.
+ 
+ I'd also accept not having to work on the project I'm assigned to as a
+viable solution. I'm really sick of it and am tired of constantly
+battling with things to make them work. It'll be nice to finish, but in
+all honesty, even once it's "done," I don't see that I'll be able to
+escape the maintenance and administration of the beast.
+ 
+ They *definitely* don't pay me enough for this.
+ 
+ *2:34p*
+ 
+ I just tried to buy one of my own shirts from my Junk Store, but the
+Microsoft Internet Security and Acceleration Server (the stupid proxy)
+keeps fucking up the page that CafePress is trying to send me.
+ 
+ One more reason proxies are a *huge bitch*.
+ 
+ Guess I'll do that from home.
+ 
+ *2:46p*
+ 
+ Here's an interesting thing: Microsoft, in the certification exams,
+*pimps* the Windows Installer setup method of project deployment.
+ 
+ They don't even talk about it in the ASP.NET class I'm in. They talk
+about the file-copy method, but don't even *refer to* setup projects.
+ 
+ Weird.
+ 
+ Oh, and I thought of one other way I could maybe be happier at work -
+half days. Getting out early enough to get stuff done in the evening is
+*huge* for me. It makes me feel *more alive*.
+ 
+ Okay, last lab of the day.
+ 
+ *3:24p*
+ 
+ Done. I'm Audi.

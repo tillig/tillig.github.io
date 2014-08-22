@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Homework"
+date: 2003-09-30 -0800
+comments: true
+disqus_identifier: 371
+tags: [General Ramblings]
+---
+My dining room table is in at the shipper's warehouse, but they only
+deliver between like 10 and 4, so I've got a two-hour window in which I
+need to be at home tomorrow so they can bring me my goods. I told my
+boss that and he said I should just work from home tomorrow, so I think
+that's what I'm going to do. I haven't really done too much work from
+home before, so we'll see how it goes. I'm sure that the trade-offs will
+quickly appear; while some distractions won't exist (phones, other
+people), others will rear their ugly (or, in some cases, cute) heads (my
+bad cats).
+ 
+ Regardless, I should have a table by 4:00p tomorrow, which will be sort
+of nice and sort of not. I was enjoying the fact that my apartment looks
+ten times bigger when there's no table, but I'm kind of tired of sitting
+on the floor when I need to do any sort of writing or whatever.
+ 
+ I still need to post the [Enchanted
+Forest](http://www.enchantedforest.com) pix, but I have downloaded them
+off my camera and they're almost ready to go. You can really see the
+shortcomings of my shitty little camera in them - bad lighting, nothing
+is centered in the frame - but I guess they're better than nothing.
+ 
+ I also need to do some more work on my pMachine implementation. The
+home page is pretty much done, but the entry pages haven't even been
+started yet, and there's definitely some fine-tuning to be had. It looks
+good, though, and I can't wait to move over. It offers *so* much more
+functionality. You guys will love it.
