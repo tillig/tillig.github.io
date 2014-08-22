@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moved Blog to GitHub Pages"
-# date: 2014-08-22 -0800
+date: 2014-08-22 -0800
 comments: true
 tags: [blog,github]
 ---
