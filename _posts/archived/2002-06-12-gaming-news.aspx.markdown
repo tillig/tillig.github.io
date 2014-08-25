@@ -4,7 +4,7 @@ title: "Gaming News"
 date: 2002-06-12 -0800
 comments: true
 disqus_identifier: 69
-tags: [Gaming]
+tags: [gaming,ps2,tv]
 ---
 ![Grand Theft Auto: Vice
 City](https://hyqi8g.blu.livefilestore.com/y2pRzmXML_JKxXNR-GZxFKFmRQrEQZ5_EvLTIqjstqUSdodfWh_HnXaLZ5DbbD694jS0d8_NxSvKaLYmqj7D_1ZfeGNiWmVTRYBaB12CbpalLs/20020612vicecity.gif?psid=1)I'm

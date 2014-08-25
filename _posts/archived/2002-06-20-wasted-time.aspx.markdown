@@ -4,7 +4,7 @@ title: "Wasted Time"
 date: 2002-06-20 -0800
 comments: true
 disqus_identifier: 76
-tags: [Media]
+tags: [media,music]
 ---
 I got to thinking this morning in the car on my way to work that I
 commute probably 30 to 60 minutes each way to work and that's sort of a

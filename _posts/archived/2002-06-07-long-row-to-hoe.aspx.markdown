@@ -4,7 +4,7 @@ title: "Long Row to Hoe"
 date: 2002-06-07 -0800
 comments: true
 disqus_identifier: 68
-tags: [Media,Homeownership]
+tags: [home,sharepoint,music]
 ---
 After a long, long, LONG week, Jenn and I have finally finished redoing
 the living room, at least as best we can without buying all new

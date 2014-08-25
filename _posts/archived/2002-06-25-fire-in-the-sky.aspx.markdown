@@ -4,7 +4,7 @@ title: "Fire In The Sky"
 date: 2002-06-25 -0800
 comments: true
 disqus_identifier: 78
-tags: [Homeownership]
+tags: [home]
 ---
 Thus ends another business day where ***this fucking smoke damage
 problem in my apartment isn't resolved***. It's amazing how badly people

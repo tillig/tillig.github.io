@@ -4,7 +4,7 @@ title: "West End Traffic"
 date: 2002-06-13 -0800
 comments: true
 disqus_identifier: 71
-tags: [Traffic]
+tags: [traffic,movies]
 ---
 I will never understand the traffic on the west side of Portland. It
 seems that no matter what time of day it is, it's rush hour on the West

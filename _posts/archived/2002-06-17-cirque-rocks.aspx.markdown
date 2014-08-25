@@ -4,7 +4,7 @@ title: "Cirque Rocks!"
 date: 2002-06-17 -0800
 comments: true
 disqus_identifier: 73
-tags: [Media,General Ramblings,Gaming]
+tags: [activities,movies,music,gaming,ps2]
 ---
 Jenn and I saw the [Cirque du Soleil](http://www.cirquedusoleil.com/)
 show,

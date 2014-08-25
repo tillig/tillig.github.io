@@ -4,7 +4,7 @@ title: "Medal of Kylie"
 date: 2002-06-18 -0800
 comments: true
 disqus_identifier: 74
-tags: [Media,Gaming]
+tags: [gaming,ps2,music]
 ---
 Yesterday I went on a mission to find *[Medal of Honor:
 Frontline](http://www.amazon.com/exec/obidos/ASIN/B00005V6BB/mhsvortex)*

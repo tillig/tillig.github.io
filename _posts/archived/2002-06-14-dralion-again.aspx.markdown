@@ -4,7 +4,7 @@ title: "Dralion!"
 date: 2002-06-14 -0800
 comments: true
 disqus_identifier: 72
-tags: [General Ramblings]
+tags: [activities,movies]
 ---
 ![Cirque du Soleil
 eTicket](https://hyqi8g.blu.livefilestore.com/y2p5JvW52R2VJ4wMhUMI_Bm8zAcfO7CfJibPEGN2b3EDcTwZsgysJr2sGFWPC6rngtolEWFci8yK1EonBmOHrfjzDxyQDMZrG_ruGkoIMrN6XA/20020614cirqueseatsty4.gif?psid=1)Guess

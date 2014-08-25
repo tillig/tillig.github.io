@@ -4,7 +4,7 @@ title: "Content Relevance"
 date: 2002-06-12 -0800
 comments: true
 disqus_identifier: 70
-tags: [General Ramblings]
+tags: [blog]
 ---
 While waiting for this program I'm writing to run a few test iterations,
 I started to sort of re-read a few of the blog entries that I've got up

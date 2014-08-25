@@ -4,7 +4,7 @@ title: "On the Frontline"
 date: 2002-06-19 -0800
 comments: true
 disqus_identifier: 75
-tags: [Media,Gaming]
+tags: [gaming,ps2,music]
 ---
 I started playing *[Medal of Honor:
 Frontline](http://www.amazon.com/exec/obidos/ASIN/B00005V6BB/mhsvortex)*

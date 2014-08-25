@@ -4,7 +4,7 @@ title: "Monster Garage"
 date: 2002-06-28 -0800
 comments: true
 disqus_identifier: 80
-tags: [Media,Homeownership]
+tags: [home,tv]
 ---
 My kitchen is clean! Yay, me! [Horizon
 Restoration](http://www.horizonrestoration.com/) came in yesterday and

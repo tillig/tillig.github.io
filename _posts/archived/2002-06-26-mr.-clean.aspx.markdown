@@ -4,7 +4,7 @@ title: "Mr. Clean"
 date: 2002-06-26 -0800
 comments: true
 disqus_identifier: 79
-tags: [Homeownership]
+tags: [home]
 ---
 Well, I think we've *finally* gotten somewhere in the cleaning effort.
 Here's the log for the day; hopefully I won't have to add anything to

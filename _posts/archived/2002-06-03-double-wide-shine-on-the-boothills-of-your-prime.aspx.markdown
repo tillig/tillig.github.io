@@ -4,7 +4,7 @@ title: "Double-Wide Shine on the Boothills of Your Prime"
 date: 2002-06-03 -0800
 comments: true
 disqus_identifier: 67
-tags: [General Ramblings,Homeownership]
+tags: [music,home]
 ---
 Quite the weekend.
  

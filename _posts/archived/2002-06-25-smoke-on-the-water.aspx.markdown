@@ -4,7 +4,7 @@ title: "Smoke On The Water"
 date: 2002-06-25 -0800
 comments: true
 disqus_identifier: 77
-tags: [Homeownership]
+tags: [home]
 ---
 Last Thursday my entire life was turned upside-down. Let's start from
 the beginning and inspect this horrid yet true tale.
