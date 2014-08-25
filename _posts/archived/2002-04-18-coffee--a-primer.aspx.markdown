@@ -4,7 +4,7 @@ title: "Coffee:  A Primer"
 date: 2002-04-18 -0800
 comments: true
 disqus_identifier: 45
-tags: [General Ramblings]
+tags: [food,humor]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 26]
  

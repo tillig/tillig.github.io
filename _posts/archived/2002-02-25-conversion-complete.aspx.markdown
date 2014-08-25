@@ -4,7 +4,7 @@ title: "Conversion Complete"
 date: 2002-02-25 -0800
 comments: true
 disqus_identifier: 7
-tags: [General Ramblings]
+tags: [blog]
 ---
 Well, I've finally finished the conversion of my web site from the old
 "MHS Vortex" style to the new, improved "paraesthesia" weblog style. The

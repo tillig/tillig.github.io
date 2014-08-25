@@ -4,7 +4,7 @@ title: "There's Some Scary Stuff Out There"
 date: 2002-02-21 -0800
 comments: true
 disqus_identifier: 4
-tags: [General Ramblings]
+tags: [humor]
 ---
 Of course, I see a lot of weird, funny, and (sometimes) disturbing stuff
 out there on the 'net, but [WTF People](http://www.wtfpeople.com/) has

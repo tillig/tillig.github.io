@@ -4,7 +4,7 @@ title: "We're Going To Need Bigger Guns"
 date: 2002-03-18 -0800
 comments: true
 disqus_identifier: 22
-tags: [Media,General Ramblings]
+tags: [media,movies,toys,music,activities,gaming,ps2]
 ---
 I went to the local [Suncoast](http://www.suncoast.com) store this
 weekend and picked up one of the coolest movies ever, [Split

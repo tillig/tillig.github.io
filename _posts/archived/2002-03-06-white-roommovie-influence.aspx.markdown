@@ -4,7 +4,7 @@ title: "White Room/Movie Influence"
 date: 2002-03-06 -0800
 comments: true
 disqus_identifier: 16
-tags: [Media,General Ramblings]
+tags: [media,music]
 ---
 A quick anecdote to start us off: I've been drinking a lot of water
 today, but the last time I went to the soda fountain here at work to get

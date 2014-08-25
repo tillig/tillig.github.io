@@ -4,7 +4,7 @@ title: "Through The Whirlwind"
 date: 2002-03-25 -0800
 comments: true
 disqus_identifier: 29
-tags: [General Ramblings]
+tags: [hockey,media,music,family]
 ---
 This weekend was sort of a whirlwind of events - lots of stuff happened,
 nothing too spectacular in-and-of-itself, but all of it added up to one

@@ -4,7 +4,7 @@ title: "La Revolucion"
 date: 2002-04-19 -0800
 comments: true
 disqus_identifier: 46
-tags: [General Ramblings,Gaming]
+tags: [activities,gaming]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 25]
  

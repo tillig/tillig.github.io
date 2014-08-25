@@ -4,7 +4,7 @@ title: "Barry, Buffy, Britney, and Bob"
 date: 2002-02-27 -0800
 comments: true
 disqus_identifier: 10
-tags: [Media]
+tags: [media,movies,music]
 ---
 So I'll admit that I got the Barry Manilow greatest hits compilation,
 [Ultimate

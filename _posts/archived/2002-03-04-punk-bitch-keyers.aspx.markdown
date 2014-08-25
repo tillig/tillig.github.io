@@ -4,7 +4,7 @@ title: "Punk Bitch Keyers"
 date: 2002-03-04 -0800
 comments: true
 disqus_identifier: 14
-tags: [General Ramblings]
+tags: [auto,hockey]
 ---
 Having season hockey tickets for the [Winter
 Hawks](http://www.winterhawks.com), I parked my car at the local

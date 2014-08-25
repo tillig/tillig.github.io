@@ -4,7 +4,7 @@ title: "SQL SELECT"
 date: 2002-03-13 -0800
 comments: true
 disqus_identifier: 21
-tags: [GeekSpeak]
+tags: [sql]
 ---
 Warning: I'm gonna geek out on you now. If you understand what this one
 says, cool. If not, don't worry about it. It's not a topic for

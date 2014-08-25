@@ -4,7 +4,7 @@ title: "Philosophy 101"
 date: 2002-03-11 -0800
 comments: true
 disqus_identifier: 19
-tags: [General Ramblings,Gaming]
+tags: [gaming,ps2,auto]
 ---
 A few quick random thoughts before I go off on my general rant:
 

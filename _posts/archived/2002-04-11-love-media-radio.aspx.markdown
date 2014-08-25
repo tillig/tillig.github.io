@@ -4,7 +4,7 @@ title: "Love Media Radio"
 date: 2002-04-11 -0800
 comments: true
 disqus_identifier: 41
-tags: [Media,Gaming]
+tags: [media,gaming,music]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 33]
  

@@ -4,7 +4,7 @@ title: "I Can't Escape"
 date: 2002-04-12 -0800
 comments: true
 disqus_identifier: 42
-tags: [General Ramblings]
+tags: [gaming]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 32]
  

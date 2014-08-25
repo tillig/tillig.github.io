@@ -4,7 +4,7 @@ title: "Warrior Needs Frappuccino Badly"
 date: 2002-03-21 -0800
 comments: true
 disqus_identifier: 25
-tags: [General Ramblings]
+tags: [food]
 ---
 There's something about a [Starbucks](http://www.starbucks.com)
 Frappuccino that just gets me going. Nothing like a Venti\* Mocha

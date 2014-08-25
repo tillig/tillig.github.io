@@ -4,7 +4,7 @@ title: "Vegas, Baby, Vegas!"
 date: 2002-04-08 -0800
 comments: true
 disqus_identifier: 39
-tags: [General Ramblings]
+tags: [activities]
 ---
 Jenn and I are confirmed for the long-needed Vegas trip. Four days and
 three nights in the [Paris Las Vegas](http://www.parislasvegas.com),

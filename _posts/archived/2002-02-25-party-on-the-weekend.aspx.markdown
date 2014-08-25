@@ -4,7 +4,7 @@ title: "&quot;Party&quot; on the Weekend"
 date: 2002-02-25 -0800
 comments: true
 disqus_identifier: 6
-tags: [General Ramblings]
+tags: [family,activities]
 ---
 I'm sure others have experienced it, but it's always an event: The
 birthday "party" for a child.

@@ -4,7 +4,7 @@ title: "Turning Japanese"
 date: 2002-04-23 -0800
 comments: true
 disqus_identifier: 47
-tags: [Media,Gaming]
+tags: [media,gaming,medical]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 21]
  

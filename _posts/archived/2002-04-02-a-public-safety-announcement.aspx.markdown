@@ -4,7 +4,7 @@ title: "A Public Safety Announcement"
 date: 2002-04-02 -0800
 comments: true
 disqus_identifier: 35
-tags: [Traffic]
+tags: [traffic]
 ---
 For a while I thought this could be filed in the "unwritten rules that
 should be written somewhere" category, but then I realized they *are*

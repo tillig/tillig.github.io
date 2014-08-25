@@ -4,7 +4,7 @@ title: "Blogsnob"
 date: 2002-02-26 -0800
 comments: true
 disqus_identifier: 9
-tags: [GeekSpeak]
+tags: [blog]
 ---
 So I joined this sort of ad-trading network to maybe get some traffic in
 here. It seemed like a keen thing. It's called

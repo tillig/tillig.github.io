@@ -4,7 +4,7 @@ title: "Greymatter Templates Hacked!"
 date: 2002-02-22 -0800
 comments: true
 disqus_identifier: 5
-tags: [General Ramblings]
+tags: [blog]
 ---
 I realize this probably is of interest to no one but me, but I was able
 to successfully hack the [Greymatter](http://www.noahgrey.com/greysoft/)

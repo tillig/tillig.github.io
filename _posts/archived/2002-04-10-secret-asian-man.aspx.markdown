@@ -4,7 +4,7 @@ title: "Secret Asian Man"
 date: 2002-04-10 -0800
 comments: true
 disqus_identifier: 40
-tags: [General Ramblings]
+tags: [music,family,tv]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 34]
  

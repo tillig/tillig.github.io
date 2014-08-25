@@ -4,7 +4,7 @@ title: "MovieSpeak; Vegas"
 date: 2002-04-08 -0800
 comments: true
 disqus_identifier: 38
-tags: [General Ramblings,Media]
+tags: [media,movies,activities]
 ---
 This was an eventful weekend for me in the Land of Movies. I rented a
 couple and went to one. Here's the rundown...

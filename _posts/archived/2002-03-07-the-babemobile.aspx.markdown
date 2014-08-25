@@ -4,7 +4,7 @@ title: "The Babemobile"
 date: 2002-03-07 -0800
 comments: true
 disqus_identifier: 17
-tags: [General Ramblings]
+tags: [humor,auto]
 ---
 I took [my
 car](http://www.acura.com/model_types/rsx_types/types_rsx_index.asp) in

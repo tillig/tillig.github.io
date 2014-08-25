@@ -4,7 +4,7 @@ title: "Grand Theft GameFAQs"
 date: 2002-03-25 -0800
 comments: true
 disqus_identifier: 30
-tags: [Gaming]
+tags: [gaming,activities]
 ---
 More irritation for my Jenn:
  

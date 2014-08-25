@@ -4,7 +4,7 @@ title: "Big Trouble in Little China *Action Figures*!"
 date: 2002-02-25 -0800
 comments: true
 disqus_identifier: 8
-tags: [General Ramblings]
+tags: [movies,toys]
 ---
 For those interested in such things, I found that N2 Toys is going to
 make [Big Trouble in Little China action

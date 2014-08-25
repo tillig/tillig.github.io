@@ -4,7 +4,7 @@ title: "Talk Dirty To Me"
 date: 2002-04-04 -0800
 comments: true
 disqus_identifier: 37
-tags: [General Ramblings]
+tags: [food,media,music,toys]
 ---
 Ah, the beauty and inherent magic of the Venti<sup>tm</sup> Mocha
 [Frappuccino](http://www.starbucks.com/grocery/frappucino.asp)®. So

@@ -4,7 +4,7 @@ title: "So Far, So Good..."
 date: 2002-02-21 -0800
 comments: true
 disqus_identifier: 3
-tags: [General Ramblings]
+tags: [blog]
 ---
 Well, it seems thus far that the move to blogging has been fairly well
 accepted by the populace. I'm pretty stoked with it myself. Look, ma!

@@ -4,7 +4,7 @@ title: "Dralion"
 date: 2002-02-27 -0800
 comments: true
 disqus_identifier: 11
-tags: [General Ramblings]
+tags: [activities]
 ---
 [Cirque du Soleil](http://www.cirquedusoleil.com) is bringing their
 [Dralion](http://www.cirquedusoleil.com/CirqueDuSoleil/en/shows/touring/dralion)

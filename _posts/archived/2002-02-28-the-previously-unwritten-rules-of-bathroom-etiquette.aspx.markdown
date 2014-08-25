@@ -4,7 +4,7 @@ title: "The [Previously] Unwritten Rules of Bathroom Etiquette"
 date: 2002-02-28 -0800
 comments: true
 disqus_identifier: 12
-tags: [General Ramblings]
+tags: [humor,hockey]
 ---
 I went to the [Winter Hawks](http://www.winterhawks.com) hockey game
 last night (we won) and as I was going about my business in the restroom

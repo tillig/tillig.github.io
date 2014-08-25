@@ -4,7 +4,7 @@ title: "A Moral Imperative"
 date: 2002-04-30 -0800
 comments: true
 disqus_identifier: 51
-tags: [General Ramblings]
+tags: [media,movies,auto,tv]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 14]
  

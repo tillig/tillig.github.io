@@ -4,7 +4,7 @@ title: "Secrets of Liberty City"
 date: 2002-03-21 -0800
 comments: true
 disqus_identifier: 26
-tags: [General Ramblings,Gaming]
+tags: [gaming,ps2,toys]
 ---
 Jenn is gonna be *so pissed*...
  

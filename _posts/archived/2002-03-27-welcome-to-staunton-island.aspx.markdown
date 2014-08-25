@@ -4,7 +4,7 @@ title: "Welcome to Staunton Island"
 date: 2002-03-27 -0800
 comments: true
 disqus_identifier: 32
-tags: [Gaming]
+tags: [gaming,ps2,toys]
 ---
 Important things first: I've finished finding all of the hidden packages
 on the first island in [Grand Theft Auto

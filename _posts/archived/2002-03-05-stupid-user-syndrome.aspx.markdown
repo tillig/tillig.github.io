@@ -4,7 +4,7 @@ title: "Stupid User Syndrome"
 date: 2002-03-05 -0800
 comments: true
 disqus_identifier: 15
-tags: [General Ramblings]
+tags: [humor]
 ---
 Let me get this out in the open right now: People, in general, are damn
 idiots.

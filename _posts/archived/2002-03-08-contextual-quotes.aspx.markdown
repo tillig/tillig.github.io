@@ -4,7 +4,7 @@ title: "Contextual Quotes"
 date: 2002-03-08 -0800
 comments: true
 disqus_identifier: 18
-tags: [General Ramblings]
+tags: [humor]
 ---
 Comedian [Lewis Black](http://www.lewisblack.net/) has a good bit he
 does about how certain phrases people say in their conversation stick

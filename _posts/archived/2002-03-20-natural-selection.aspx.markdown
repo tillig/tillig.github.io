@@ -4,7 +4,7 @@ title: "Natural Selection"
 date: 2002-03-20 -0800
 comments: true
 disqus_identifier: 24
-tags: [General Ramblings,GeekSpeak]
+tags: [media,music,gaming,ps2]
 ---
 I went to [The Wherehouse](http://www.wherehousemusic.com/) today to get
 my fill of Tom Jones, as I mentioned I had a craving for yesterday. Let

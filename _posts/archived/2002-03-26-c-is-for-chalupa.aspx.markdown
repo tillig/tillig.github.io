@@ -4,7 +4,7 @@ title: "'C' is for 'Chalupa'"
 date: 2002-03-26 -0800
 comments: true
 disqus_identifier: 31
-tags: [General Ramblings]
+tags: [activities]
 ---
 The [Blazers](http://www.nba.com/blazers/) sucked hard last night.
 Really hard. They started the game out with a *25 point lead* and then

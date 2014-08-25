@@ -4,7 +4,7 @@ title: "Bumper Statements"
 date: 2002-03-22 -0800
 comments: true
 disqus_identifier: 27
-tags: [General Ramblings]
+tags: [humor]
 ---
 This thought has crossed my mind several times, but really hit me
 yesterday while driving home from work: There are two kinds of people in

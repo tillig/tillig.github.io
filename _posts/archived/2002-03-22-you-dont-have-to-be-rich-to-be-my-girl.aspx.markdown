@@ -4,7 +4,7 @@ title: "&quot;You Don't Have To Be Rich To Be My Girl...&quot;"
 date: 2002-03-22 -0800
 comments: true
 disqus_identifier: 28
-tags: [Media]
+tags: [media,music]
 ---
 "...you don't have to be cool to rule my world..."
  

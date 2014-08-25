@@ -4,7 +4,7 @@ title: "The Merits of Tom Jones"
 date: 2002-03-19 -0800
 comments: true
 disqus_identifier: 23
-tags: [General Ramblings]
+tags: [media,music,toys,gaming,ps2]
 ---
 Sitting here in a minor state of hypnosis (taking a short breather
 between massive server upgrade projects), I decided that I definitely

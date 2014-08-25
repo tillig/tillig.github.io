@@ -4,7 +4,7 @@ title: "Cold Coffee"
 date: 2002-04-25 -0800
 comments: true
 disqus_identifier: 50
-tags: [General Ramblings]
+tags: [food,auto]
 ---
 Cold coffee (not *iced*, just plain *cold*) has to be one of the
 grossest things *ever*. I see now why they sell those mug warmer things

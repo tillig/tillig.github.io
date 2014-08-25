@@ -4,7 +4,7 @@ title: "Panic Weekend"
 date: 2002-04-01 -0800
 comments: true
 disqus_identifier: 34
-tags: [Media,General Ramblings]
+tags: [media,movies,hockey,family]
 ---
 I saw the movie [*Panic Room*](http://us.imdb.com/Title?0258000) this
 weekend. For those interested, it was actually well worth checking out.

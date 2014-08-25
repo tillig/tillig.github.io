@@ -4,7 +4,7 @@ title: "paraesthesia unleashed!"
 date: 2002-02-15 -0800
 comments: true
 disqus_identifier: 1
-tags: [General Ramblings]
+tags: [blog]
 ---
 You've no doubt noticed the vast site overhaul that has rendered the
 content change seen here.
