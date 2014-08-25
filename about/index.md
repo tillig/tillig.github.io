@@ -39,9 +39,8 @@ projects:
 -   [ImageShackWriterPlugin](http://code.google.com/p/imageshackwriterplugin/)
     (owner)
 
-I also like [playing games](http://live.xbox.com/member/Paraesthesia)
-and working on [my media
-center](/archive/2008/09/30/overview-of-my-media-center-solution.aspx).
+I also like [playing games](http://live.xbox.com/member/Paraesthesia), working on [my media
+center](/archive/2008/09/30/overview-of-my-media-center-solution.aspx), and collecting [movies](http://www.invelos.com/dvdcollection.aspx/tillig) and [music](http://connect.collectorz.com/users/tillig/music/view).
 
 I am open to hearing about new opportunities, but only:
 
