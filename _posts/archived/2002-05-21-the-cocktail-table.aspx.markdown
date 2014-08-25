@@ -4,7 +4,7 @@ title: "The Cocktail Table"
 date: 2002-05-21 -0800
 comments: true
 disqus_identifier: 62
-tags: [Homeownership]
+tags: [home]
 ---
 While on the flight to Vegas, I found, in the
 [Skymall](http://www.skymall.com) catalog, this [really cool cocktail

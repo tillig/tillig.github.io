@@ -4,7 +4,7 @@ title: "Dancin' Machine"
 date: 2002-04-25 -0800
 comments: true
 disqus_identifier: 49
-tags: [activities,gaming,media,tv]
+tags: [activities,gaming,tv,medical]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 18]
  

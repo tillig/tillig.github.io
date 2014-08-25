@@ -4,7 +4,7 @@ title: "Parlez-vous Las Vegas?"
 date: 2002-05-20 -0800
 comments: true
 disqus_identifier: 61
-tags: [General Ramblings]
+tags: [activities]
 ---
 Well, I've returned from my long-awaited and well-loved vacation to
 Vegas, and let me tell you, it was *the bomb*. Jenn and I saw so much

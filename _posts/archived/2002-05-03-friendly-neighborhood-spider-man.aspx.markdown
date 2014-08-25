@@ -4,7 +4,7 @@ title: "Friendly Neighborhood Spider-Man"
 date: 2002-05-03 -0800
 comments: true
 disqus_identifier: 53
-tags: [General Ramblings,Media]
+tags: [movies,home,tv]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 11]
  

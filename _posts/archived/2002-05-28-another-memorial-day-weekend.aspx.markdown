@@ -4,7 +4,7 @@ title: "Another Memorial Day Weekend"
 date: 2002-05-28 -0800
 comments: true
 disqus_identifier: 65
-tags: [General Ramblings]
+tags: [activities,family,movies]
 ---
 Thus ends another three-day holiday weekend that went by all too
 quickly. A heck of a lot happened, though looking back at it, it doesn't

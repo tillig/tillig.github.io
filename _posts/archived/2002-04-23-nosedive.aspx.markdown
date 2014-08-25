@@ -4,7 +4,7 @@ title: "Nosedive"
 date: 2002-04-23 -0800
 comments: true
 disqus_identifier: 48
-tags: []
+tags: [business]
 ---
 Fucking [Lattice Semiconductor](http://www.latticesemi.com) took a
 *nosedive* today, closing *down **\$4.31***. Normally I don't care a

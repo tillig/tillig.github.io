@@ -4,7 +4,7 @@ title: "Losing The Race"
 date: 2002-05-09 -0800
 comments: true
 disqus_identifier: 58
-tags: [General Ramblings]
+tags: [tv]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 5]
  

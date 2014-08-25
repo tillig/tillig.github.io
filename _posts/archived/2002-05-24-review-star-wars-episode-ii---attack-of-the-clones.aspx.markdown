@@ -4,7 +4,7 @@ title: "Review: Star Wars: Episode II - Attack of the Clones"
 date: 2002-05-24 -0800
 comments: true
 disqus_identifier: 64
-tags: [Media]
+tags: [movies]
 ---
 Well.
  

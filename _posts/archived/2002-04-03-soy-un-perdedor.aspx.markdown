@@ -4,7 +4,7 @@ title: "Soy Un Perdedor"
 date: 2002-04-03 -0800
 comments: true
 disqus_identifier: 36
-tags: [hockey,activites,traffic]
+tags: [hockey,activities,traffic]
 ---
 The [Winter Hawks](http://www.winterhawks.com) lost last night to stupid
 Seattle. I can't say I didn't expect it, but I sort of did. Our guys are

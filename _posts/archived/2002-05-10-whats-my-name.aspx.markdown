@@ -4,7 +4,7 @@ title: "What's My Name?"
 date: 2002-05-10 -0800
 comments: true
 disqus_identifier: 59
-tags: [General Ramblings]
+tags: [auto]
 ---
 Last weekend I had the oil changed for the first time in the life of my
 car. It was a good experience; the folks at the [Acura

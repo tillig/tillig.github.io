@@ -4,7 +4,7 @@ title: "Tricky Music and PS2 Mods"
 date: 2002-02-19 -0800
 comments: true
 disqus_identifier: 2
-tags: [media,gaming,ps2]
+tags: [gaming,ps2]
 ---
 I have to admit an addiction to the game [SSX:
 Tricky](http://www.ea.com/easportsbig/games/ssxtricky/home.jsp) for the

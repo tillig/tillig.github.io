@@ -4,7 +4,7 @@ title: "Crazy Train"
 date: 2002-05-01 -0800
 comments: true
 disqus_identifier: 52
-tags: [Media]
+tags: [tv,music,medical]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 13]
  

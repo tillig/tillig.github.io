@@ -4,7 +4,7 @@ title: "CHiPs"
 date: 2002-05-22 -0800
 comments: true
 disqus_identifier: 63
-tags: [General Ramblings,Homeownership]
+tags: [auto,home]
 ---
 Okay, maybe not California Highway Patrol. More like "paint chips." As
 in, "I found yet another chip out of the paint on my car that needs to

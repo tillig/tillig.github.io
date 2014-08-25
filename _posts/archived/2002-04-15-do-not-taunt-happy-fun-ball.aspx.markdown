@@ -4,7 +4,7 @@ title: "Do Not Taunt Happy Fun Ball"
 date: 2002-04-15 -0800
 comments: true
 disqus_identifier: 43
-tags: [media,tv,gaming,ps2,music]
+tags: [tv,gaming,ps2,music]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 29]
  

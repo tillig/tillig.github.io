@@ -4,7 +4,7 @@ title: "New Moulin Rouge Soundtrack"
 date: 2002-03-12 -0800
 comments: true
 disqus_identifier: 20
-tags: [media,music]
+tags: [music]
 ---
 I'm pretty busy today, so I'm going to have to be brief...
  

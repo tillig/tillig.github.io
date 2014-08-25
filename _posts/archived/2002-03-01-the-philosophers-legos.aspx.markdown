@@ -4,7 +4,7 @@ title: "The Philosopher's Legos"
 date: 2002-03-01 -0800
 comments: true
 disqus_identifier: 13
-tags: [media,movies,toys]
+tags: [media,movies,books,toys]
 ---
 I wasn't originally taken with the whole *Harry Potter* concept. I mean,
 a children's book about magic and stuff... doesn't sound too appealing.

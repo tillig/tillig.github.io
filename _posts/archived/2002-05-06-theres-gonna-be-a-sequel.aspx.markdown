@@ -4,7 +4,7 @@ title: "There's Gonna Be A Sequel!"
 date: 2002-05-06 -0800
 comments: true
 disqus_identifier: 55
-tags: [General Ramblings,Media]
+tags: [movies,tv,medical]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 8]
  

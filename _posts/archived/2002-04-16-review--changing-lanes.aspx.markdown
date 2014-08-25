@@ -4,7 +4,7 @@ title: "Review:  Changing Lanes"
 date: 2002-04-16 -0800
 comments: true
 disqus_identifier: 44
-tags: [media,movies]
+tags: [movies]
 ---
 As I mentioned
 [earlier](/archive/2002/04/15/do-not-taunt-happy-fun-ball.aspx), I saw

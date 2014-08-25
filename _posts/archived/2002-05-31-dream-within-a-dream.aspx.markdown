@@ -4,7 +4,7 @@ title: "Dream Within A Dream"
 date: 2002-05-31 -0800
 comments: true
 disqus_identifier: 66
-tags: [Media]
+tags: [activities,music]
 ---
 ![Britney Spears - FRONT ROW
 TICKET!](https://hyqi8g.blu.livefilestore.com/y2pEkehj8rWIMHBkNEbykSZPhvCSJqqLHvRBvjPQTsXOjH36TWydFg7z1haRX5ANKbwNKRaAqtVI7hZmUSjjAutLRjjGfYCB0UYaV6pTiUQbow/20020531britticketwy5.jpg?psid=1)I

@@ -4,7 +4,7 @@ title: "Review: Spider-Man"
 date: 2002-05-06 -0800
 comments: true
 disqus_identifier: 54
-tags: [Media]
+tags: [movies,comics]
 ---
 *[Spider-Man](http://www.spiderman.sonypictures.com/)* has to be the
 best superhero/comic-based movie since the [original

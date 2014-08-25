@@ -4,7 +4,7 @@ title: "Tre Limone"
 date: 2002-05-07 -0800
 comments: true
 disqus_identifier: 56
-tags: [General Ramblings]
+tags: [food,comics]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 7]
  
