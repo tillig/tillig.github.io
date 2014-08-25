@@ -18,10 +18,10 @@ body {
     font-size: 13px;
     background: #0C0C45;
 }
-@media screen and (max-width: 1040px) { 
+@media screen and (max-width: 1040px) {
     body { margin: 0 20px }
 }
-@media screen and (max-width: 600px) { 
+@media screen and (max-width: 600px) {
     body { font-size: 13px }
 }
 h1 { font-size: 1.8em }
@@ -44,7 +44,7 @@ a {
     width: 1000px;
     margin: 0 auto;
 }
-@media screen and (max-width: 1040px) { 
+@media screen and (max-width: 1040px) {
     .inner { width: 100% }
 }
 .pullquote-right:before,
@@ -70,7 +70,7 @@ a {
     border-bottom: 1px solid #ddd;
     line-height: 30px;
 }
-@media screen and (max-width: 1040px) { 
+@media screen and (max-width: 1040px) {
     #header {
         height: auto;
         position: relative;
@@ -94,7 +94,7 @@ a {
     width: 100%;
     margin-bottom: 8px;
 }
-@media screen and (max-width: 1040px) { 
+@media screen and (max-width: 1040px) {
     #header h1 { float: none }
 }
 #header h1 a {
@@ -104,7 +104,7 @@ a {
     max-width: 210px;
     margin: 0;
 }
-@media screen and (max-width: 600px) { 
+@media screen and (max-width: 600px) {
     #header h1 a { margin: auto }
 }
 #header h2 {
@@ -117,14 +117,14 @@ a {
     float: left;
     margin-left: 30px;
 }
-@media screen and (max-width: 1040px) { 
+@media screen and (max-width: 1040px) {
     #main-nav {
         float: none;
         margin-left: 0;
         margin-top: 15px;
     }
 }
-@media screen and (max-width: 600px) { 
+@media screen and (max-width: 600px) {
     #main-nav>ul { display: none }
 }
 #main-nav>ul>li {
@@ -136,7 +136,7 @@ a {
     zoom: 1;
     *display: inline;
 }
-@media screen and (max-width: 1040px) { 
+@media screen and (max-width: 1040px) {
     #main-nav>ul>li {
         margin-left: 0;
         margin-right: 50px;
@@ -155,27 +155,27 @@ a {
     padding-left: 10px;
 }
 #main-nav>ul>li>a:only-child:after { content: "" }
-@media screen and (max-width: 1040px) { 
+@media screen and (max-width: 1040px) {
     #main-nav>ul>li>a { padding: 18px 0 }
 }
-@media screen and (max-width: 1040px) { 
+@media screen and (max-width: 1040px) {
     #main-nav>ul ul { top: 40px }
 }
-@media screen and (max-width: 1040px) { 
+@media screen and (max-width: 1040px) {
     #sub-nav {
         position: absolute;
         top: 30px;
         right: 0;
     }
 }
-@media screen and (max-width: 600px) { 
+@media screen and (max-width: 600px) {
     #sub-nav { display: none }
 }
 #sub-nav .social {
     float: left;
     margin-right: 15px;
 }
-@media screen and (max-width: 1040px) { 
+@media screen and (max-width: 1040px) {
     #sub-nav .social {
         float: none;
         margin-right: 0;
@@ -266,7 +266,7 @@ a {
     width: 100%;
     display: block;
 }
-@media screen and (max-width: 400px) { 
+@media screen and (max-width: 400px) {
     #pagenavi .center { display: none }
 }
 article {
@@ -275,10 +275,10 @@ article {
     padding: 30px 0;
     position: relative;
 }
-@media screen and (max-width: 800px) { 
+@media screen and (max-width: 800px) {
     article { padding-bottom: 15px }
 }
-@media screen and (max-width: 600px) { 
+@media screen and (max-width: 600px) {
     article { padding: 15px 0 }
 }
 article h1.title {
@@ -414,7 +414,7 @@ article .entry-content .video-container embed {
 }
 .post h1.title,
 .post .entry-content { margin-bottom: 0 }
-@media screen and (max-width: 800px) { 
+@media screen and (max-width: 800px) {
     .post h1.title,
     .post .entry-content { margin-left: 0 }
 }
@@ -443,7 +443,7 @@ article .entry-content .video-container embed {
     left: 0;
     margin-right: 5px;
 }
-@media screen and (max-width: 800px) { 
+@media screen and (max-width: 800px) {
     .meta .date,
     .meta .tags,
     .meta .comments,
@@ -540,7 +540,7 @@ ul li a { -webkit-transition: all .2s ease-in;-moz-transition:all .2s ease-in;-o
 #content article h1.title a { color: #333;-webkit-transition:color 0.3s;-moz-transition:color 0.3s;-o-transition:color 0.3s;transition:color 0.3s }
 #content div.archives h1.title { font-size: 3em }
 .container .mid-col footer { width: 100% }
-.left-col { width: 23%;position:fixed;height:100% }
+.left-col { width: 23%;position:fixed;height:100%;overflow-y:auto; }
 .left-col .intrude-less { width: 80% }
 .left-col #header { width: 100%;padding:20% 0% 0% 15% }
 .left-col #header #main-nav { margin-top: 30px;font-size:1.5em }
@@ -551,10 +551,10 @@ ul li a { -webkit-transition: all .2s ease-in;-moz-transition:all .2s ease-in;-o
 .archives .title { font-size: 1.2em }
 .archives article .meta { line-height: 1.5em;margin-top:0 }
 .archives article .meta span::before { padding-right: 0 }
-@media screen and (max-width: 1040px) { 
+@media screen and (max-width: 1040px) {
     body { margin: 0 0 }
 }
-@media screen and (max-width: 700px) { 
+@media screen and (max-width: 700px) {
     .container .credit-box { display: none }
     .left-col {
         position: relative;
