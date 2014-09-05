@@ -4,25 +4,25 @@ title: "Lame Email Questionnaires"
 date: 2002-07-03 -0800
 comments: true
 disqus_identifier: 83
-tags: [General Ramblings]
+tags: [personal]
 ---
 You know those stupid questionnaires that you get that your friends send
 you in email that ask you a bazillion questions so you can "get to know
 each other better?"
- 
+
  Yeah, you know 'em.
- 
+
  I hate those.
- 
+
  Of course, I feel strangely compelled to answer the questions at the
 same time, though. I'm not sure why, really. Maybe I feel the need to
 share because they shared with me. Either way, this time I got one and I
 decided to share my answers here, so I don't have to try to remember
 everyone's email addresses or perpetuate the junk mail. If someone wants
 to see my answers, they can come to the site.
- 
+
  So here you go.
- 
+
 1.  **If you could build a house anywhere, where would it be?**
      That's a tough one. I've never really *been* anywhere, so I can't
     really say. But I suppose, given the choice, I'd probably choose

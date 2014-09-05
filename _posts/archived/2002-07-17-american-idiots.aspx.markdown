@@ -4,18 +4,18 @@ title: "American Idiots"
 date: 2002-07-17 -0800
 comments: true
 disqus_identifier: 89
-tags: [General Ramblings,Media]
+tags: [tv,traffic,music]
 ---
 I have a big rant about the show [*American
 Idol*](http://idolonfox.msn.com/) that this whole post is basically
 going to be about, but there are a few minor topics that I need to get
 out of the way before that happens.
- 
+
  First, I noticed that [AllPosters.com](http://www.allposters.com) has a
 great selection of Mucha art. Brilliance. Anyone who wants to buy me any
 of that, be my guest. They have not only prints but actual lithographs
 of the stuff, too. I swear I could go broke on that.
- 
+
  Next, I am starting to make my bi-monthly switch from Kung Fu movies to
 spy/action movies so last night I was watching [*Tomorrow Never
 Dies*](http://www.amazon.com/exec/obidos/ASIN/B00000K0EA/mhsvortex) -
@@ -28,7 +28,7 @@ movies on DVD come October 22. I'm going to have to investigate how many
 [Yahoo!
 Visa](https://cardmemberservices.firstusa.com/index.jsp?partner=yahoo)
 points I have and maybe cash in to preorder some of those.
- 
+
  Finally, let it be known that it took me 90 minutes to get home from
 work yesterday and I only live 14.3 miles away from my place of
 business. That averages out to 9.5mph. Why? Because there was a *car
@@ -36,7 +36,7 @@ fire* that blocked all but one lane of traffic. I couldn't get off the
 freeway because by the time I found out what was going on, I was on the
 inside lane of four lanes of parking lot. Besides which, there were no
 exits between where I was at and the car fire - only entrances. Great.
- 
+
  I had a sort of epiphany, though, while I was sitting parked in that
 mess. We should be able to file a class-action-style lawsuit against
 anyone who does something that holds up traffic on that level. Why?
@@ -56,13 +56,13 @@ the police would get paid, and the people would get paid. There are some
 kinks to work out - like how you determine who really was caught in the
 traffic, to what extent you define "caught in traffic," etc. But the
 idea's there. Let's get on this, people!
- 
+
  Okay, now on to *American Idol*.
- 
+
  I hate to admit it, but I'm sadly sucked into this show. I'm not even
 sure why. It's just interesting, I guess, to see how America rates
 performers compared to how I would rate them.
- 
+
  I watched it last night, and came to the conclusion that I really,
 really, *really **HATE*** the show's hosts, [Ryan Seacrest and Brian
 Dunkleman](http://idolonfox.msn.com/host/). I HATE THEM. They're like...
@@ -71,14 +71,14 @@ Saget](http://us.imdb.com/Name?Saget,+Bob), and I hate these guys. They
 have zero presence, zero wit, and zero talent. I literally clapped when
 [Simon Cowell](http://idolonfox.msn.com/judges/ind/simon/simon.htm) told
 them to shut up last night.
- 
+
  Speaking of Simon, that's the whole reason I'm thinking of *American
 Idol* this morning. People don't like Simon because he speaks his mind
 and doesn't sugar-coat the stuff he says. If he doesn't like your
 singing, he'll tell you straight-up that you sucked. And you know what?
- 
+
  He's right.
- 
+
  I think there is only one time ever that I've disagreed with what he
 thought of a performer - he liked [Ejay
 Day](http://idolonfox.msn.com/contestants/ind/ejay/default.htm) and I
@@ -89,7 +89,7 @@ Verraros](http://idolonfox.msn.com/contestants/ind/jim_verraros/default.htm)
 and [AJ
 Gil](http://idolonfox.msn.com/contestants/ind/abner_gil/default.htm)),
 he was *dead on*.
- 
+
  What I don't understand is why [Paula
 Abdul](http://idolonfox.msn.com/judges/ind/paula/paula.htm) and [Randy
 Jackson](http://idolonfox.msn.com/judges/ind/randy/randy.htm) insist on
@@ -100,12 +100,12 @@ Simon's just giving it to them straight - I think it's Randy and Paula
 that need attitude adjustments. Call it like it is. No use building
 people up only for them to be torn down later. Cut your losses and move
 on.
- 
+
  I think I may use the link on Simon's page to write him an email to
 tell him he's right.
- 
+
  Enough on the judges. On to the contestants.
- 
+
  It's a tough one. I think they do have the best contestants in the
 running right now, except for Jim Verraros and AJ Gil, who do, in fact,
 suck donkey. [Christina
@@ -118,22 +118,22 @@ are just average as far as I'm concerned. No real presence. Nice voices,
 but that's about it. The rest, though... that's a tough one. I tried to
 think: having heard them all sing, generally understanding their styles,
 whose album would I buy if I saw it on the shelf?
- 
+
  I never really came up with an answer for that.
- 
+
  [Kelly
 Clarkson](http://idolonfox.msn.com/contestants/ind/kelly_clarkson/default.htm)
 seems like she could easily go country a la LeAnn Rimes, and I really
 hate country music. She does have a nice voice, though, she's cute and
 has a decent style. Maybe.
- 
+
  [Tamyra
 Gray](http://idolonfox.msn.com/contestants/ind/tamyra_gray/default.htm)
 seems like she would go Whitney Houston or maybe even slightly hip-hop.
 Pending on how catchy it was, I might buy that album. She's not terribly
 attractive to me, though, and her overall style is just so-so. Also a
 maybe.
- 
+
  [Justin
 Guarini](http://idolonfox.msn.com/contestants/ind/justin_guarini/default.htm)
 has, by far, the best voice of them all. I'm just not sure I can figure
@@ -142,18 +142,18 @@ throwback, but honestly, he could sing anything and I think he'd do
 well. I think it'd depend on what sort of album he put out. His look is
 sort of nondescript, and that's a problem. I'm not sure how to remedy
 that, either. I'd probably buy the album.
- 
+
  That leaves my two favorites: [Ryan
 Starr](http://idolonfox.msn.com/contestants/ind/ryan_starr/default.htm)
 and [Nikki
 McKibbin](http://idolonfox.msn.com/contestants/ind/nicky_ozmet/default.htm).
- 
+
  Ryan has a distinct look - she's hot, she has her own style, and she's
 not afraid to show it. Plus, she's sang a variety of different songs
 (and genres) throughout the competition and she's done well at them all.
 I think she'd do really well in some sort of Bif Naked style band. I'd
 definitely buy her album.
- 
+
  Nikki is my absolute favorite. She's got the best overall style and
 she's definitely the most original. I like the sort of "rebel" thing
 she's got going. She didn't do too well singing the Motown genre last
