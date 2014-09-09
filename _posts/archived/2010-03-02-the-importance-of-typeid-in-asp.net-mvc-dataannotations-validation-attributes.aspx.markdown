@@ -49,7 +49,7 @@ back and get validated) and **the call to my custom validation ran only
 one time**.
 
 You know what I missed? **I didn't
-implement**[**TypeId**](http://msdn.microsoft.com/en-us/library/system.attribute.typeid.aspx).
+implement** [**TypeId**](http://msdn.microsoft.com/en-us/library/system.attribute.typeid.aspx).
 
 This is documented as being a "unique identifier used to identify two
 attributes of the same type." What's not said there is that if
