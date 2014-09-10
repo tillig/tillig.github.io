@@ -18,3 +18,5 @@ As it turns out, **`svcutil.exe` and the service reference code generation proce
 **The fix is to reduce the set of assemblies with types that get reused.** Right-click the service reference and select "Configure Service Reference." Switch the setting to reuse types in referenced assemblies to be very specific. If you aren't actually reusing types from a particular assembly (especially third-party assemblies you aren't building), don't include it in the list.
 
 We were really only reusing types in one assembly, not the whole giant set of assemblies referenced. Cleaning that up removed the need for the binding redirect and everything started working again as normal.
+
+Note: If you *really* want to use binding redirects, you can add them to `devenv.exe.config` so Visual Studio itself uses them. Not awesome, and I wouldn't recommend it, but... *technically possible*.
