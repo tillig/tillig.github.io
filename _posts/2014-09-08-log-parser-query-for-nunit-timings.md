@@ -14,3 +14,7 @@ If you have NUnit writing XML output in your command line build (using the `/xml
 A little fancier: take all of the tests across several reports and write the output to a file rather than the console:
 
 `LogParser.exe "SELECT name, time INTO timings.csv FROM *.xml#//test-case ORDER BY time DESC" -i:xml -fMode:Tree -o:csv`
+
+And fancier still: Take all of the reports across multiple test runs and get the average times for the tests (by name) so you can see which tests over time run the longest:
+
+`LogParser.exe "SELECT name, AVG(time) as averagetime INTO timings.csv FROM *.xml#//test-case GROUP BY name ORDER BY averagetime DESC" -i:xml -fMode:Tree -o:csv`
