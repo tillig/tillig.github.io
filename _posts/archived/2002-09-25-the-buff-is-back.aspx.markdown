@@ -4,14 +4,14 @@ title: "The Buff is Back"
 date: 2002-09-25 -0800
 comments: true
 disqus_identifier: 129
-tags: [Media,General Ramblings,Gaming]
+tags: [tv,gaming,ps2]
 ---
 I watched the season premiere to [*Buffy the Vampire
 Slayer*](http://www.buffy.com) last night, and I have to say I'm glad
 they're starting to get back to their roots - good humor, good dialogue,
 good enemies. I hope they can keep it up. If so, we're in for a great
 season.
- 
+
  I started playing [*Virtua Fighter
 4*](http://www.amazon.com/exec/obidos/ASIN/B00005Y1BG/mhsvortex) last
 night and discovered it's way more complicated than I thought it would
@@ -20,9 +20,9 @@ la
 [*DOA3*](http://www.amazon.com/exec/obidos/ASIN/B00005O0I3/mhsvortex))
 so when I started playing *VF4* I sort of assumed you could play that
 way.
- 
+
  Not so.
- 
+
  There are actually very complicated combos that you can execute with
 the characters in this game. The thing about doing that is that you have
 to sort of *queue up* a chain of moves for your character to perform.
@@ -37,12 +37,12 @@ some fancy flip or something in that case). If I push four or five
 buttons in rapid succession, the character will combine several fancy
 moves and execute a chain of commands that will probably last a couple
 of seconds after I've finished pressing buttons.
- 
+
  It's interesting, but it's harder than I thought it would be. I suppose
 that's kind of good; it requires that I expand my abilities as a gamer.
 But it's not something you can just casually sit down and play with. You
 have to *train* on it. Pretty intense.
- 
+
  I found this really cool free DJ software called [CD
 Scratch](http://www.cdscratch.com). It provides two virtual turntables
 on your screen that you can use to mix and "scratch" on CDs via your

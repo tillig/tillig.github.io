@@ -4,7 +4,7 @@ title: "Edge of Seventeen"
 date: 2002-08-29 -0800
 comments: true
 disqus_identifier: 114
-tags: [Media,General Ramblings]
+tags: [tv,music]
 ---
 Well, I can't say I'm terribly surprised by the outcome of last night's
 [*American Idol*](http://idolonfox.msn.com) show.
@@ -12,22 +12,22 @@ Well, I can't say I'm terribly surprised by the outcome of last night's
 been voted out of the competition. I say I'm not surprised because she
 was *so* outclassed vocally by the two other contestants that if it
 hadn't happened, I'd wonder what was wrong with America.
- 
+
  So Nikki's gone, but not forgotten. I hope she continues to pursue her
 career, because I'd buy a Nikki McKibbin album. She has that rocker edge
 to her that makes her entertaining.
- 
+
  I still hope
 [Kelly](http://idolonfox.msn.com/contestants/ind/kelly_clarkson/default.asp)
 wins, though.
 [Justin's](http://idolonfox.msn.com/contestants/ind/justin_guarini/default.asp)
 good, but I like Kelly better.
- 
+
  I am glad that we got to hear Nikki sing [Stevie Nicks's *Edge of
 Seventeen*](http://www.amazon.com/exec/obidos/ASIN/B000002JO6/mhsvortex).
 I think that was a great song for her. It doesn't hurt that I like that
 song a lot, either.
- 
+
  Speaking of *Edge of Seventeen* and songs I like... I was listening to
 [Mark and Brian](http://www.markandbrian.com) the other morning and
 after they played whatever bumper music they were playing, Brian said
@@ -41,10 +41,10 @@ knows. But it's one of those songs that sounds better the louder you
 play it, and you can listen to it over and over without really getting
 tired of it. Sometimes I wish there were like 20 minute long mixes of
 some of these "perfect songs."
- 
+
  What else would I consider a "perfect song?" Let's see... a list of
 some of them (that I thought up in the car this morning) include:
- 
+
 -   [Stevie Nicks: *Edge of
     Seventeen*](http://www.amazon.com/exec/obidos/ASIN/B000002JO6/mhsvortex)
 -   [Any Fleetwood Mac song featuring Christine McVie (i.e., *Little
@@ -57,9 +57,9 @@ some of them (that I thought up in the car this morning) include:
     Me*](http://www.amazon.com/exec/obidos/ASIN/B00000IL1K/mhsvortex)
 
 
- 
+
  There are lots of others, I just happen to think of these today.
- 
+
  I read somewhere (or maybe I heard it?) that music is completely
 mathematically related. The vibrations of the strings on the instruments
 and the meter the song is carried out in, etc. I wonder what the

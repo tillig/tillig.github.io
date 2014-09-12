@@ -4,13 +4,13 @@ title: ".NET Developer Training"
 date: 2002-08-26 -0800
 comments: true
 disqus_identifier: 111
-tags: [General Ramblings]
+tags: [personal]
 ---
 It's Friday, August 23, but this probably won't get posted until Monday.
 I'm in the second day of .NET developer training, bored as hell,
 disconnected from the Internet, and totally unable to blog, so I'll
 write this now and post it later.
- 
+
  I'm working on an art project where I'm separating a Mucha piece into
 layers and then I'm going to print it on transparency to give it
 dimension. I've been working on it for around three months now, and I've
@@ -19,11 +19,11 @@ layers. Now I just have to print it out and figure out how to frame it.
 I think the hard part is done. (I finished that while sitting here in
 training. Took about 10 hours, for a total of around 100 hours of
 working on this thing. Not easy, but it looks really good now.)
- 
+
  I'm noticing there are several classes of people in this training. I'm
 not sure which class I fit in, but let's see if you know what I'm
 talking about:
- 
+
 -   **The Managers**: The Managers don't know how to code and they'll
     probably never actually do anything in the development environment.
     They'll watch, ask stupid questions, and "assess," but for all
@@ -70,9 +70,9 @@ This person can't pay attention to the lecture regardless of what they
 do because there's not enough going on. Rather than pay attention, they
 find *anything* else to do (like write posts for their blog) and listen
 through their periphery.
- 
+
  I am the Attention-Deficit Attendee.
- 
+
  I've played more Solitaire, Freecell, and Minesweeper than I care to
 think about. I've done all I can on my art project. I've even come up
 with a logo for a company event we're having soon. *Bored, bored,

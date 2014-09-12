@@ -4,7 +4,7 @@ title: "A Shamanic Anarchistic Archaic Revival"
 date: 2002-09-10 -0800
 comments: true
 disqus_identifier: 119
-tags: [General Ramblings]
+tags: [blog,music]
 ---
 The longer I do this whole "blog" thing, the more I realize several
 things:
@@ -26,13 +26,13 @@ driving, and later when I sit and listen to the recordings I realize not
 only how stupid I must sound to those of you out there, but also that
 the complete, coherent thought that I believed I was capturing - once
 transferred to audio - became utter trash.
- 
+
  Which leads me to believe that my lack of interaction with others on a
 personal level during my workday is starting to contribute to a sort of
 *verbal atrophy*. Eventually my entire vocabulary on an audible basis
 will consist of base grunts and vast hand gestures, all entirely
 incomprehensible.
- 
+
  I thought about that yesterday. Continuing that thought process, I
 started getting sort of philosophical with myself about the destiny of
 the human race, the end of the world, and the origin of the universe.
@@ -41,7 +41,7 @@ or the length of my commute from home to work.) I wonder if all humanity
 will migrate towards a more visual means of communication (a la the
 World Wide Web) based on the increased usage of such means of
 communication in these latter days.
- 
+
  Around the end of my commute, I finally realized that the whole thought
 process *Re: Evolution* was most likely spawned by the fact I was
 listening to the Shamen album, [*Boss
@@ -49,7 +49,7 @@ Drum*](http://www.amazon.com/exec/obidos/ASIN/B0000028RH/mhsvortex),
 most of which is sort of a mystical wandering about the metaphysical. On
 the forefront, the songs themselves sound fairly commercial and
 pretentious, but if you're not paying attention, it'll suck you in.
- 
+
  Speaking of which, whatever happened to The Shamen? I mean, they had
 that
 [*En-Tact*](http://www.amazon.com/exec/obidos/ASIN/B00000284T/mhsvortex)
@@ -57,7 +57,7 @@ album with the single *Move Any Mountain* on it, then *Boss Drum*,
 then...? They sort of fell out of the spotlight. Looking at their CD
 listing on Amazon, it looks like they had a couple more albums since
 then, but what happened?
- 
+
  That sort of reminds me of my other train of thought yesterday. I've
 started to realize that my world view is just slightly *me-centric*.
 Okay, maybe more than slightly, but that's not the point here. The point
@@ -71,14 +71,14 @@ things on their respective *popularity cusps* - I get into something I
 think is cool, and simultaneously several other people get into that
 same thing and, by proxy, it *becomes* cool. The same process in reverse
 for things becoming *uncool*.
- 
+
  I suppose that's something to ponder on. From a philosophical
 standpoint, I guess that, pending on the outcome of that thought
 process, I may find that I, too, am merely a sheep manipulated by the
 media and its agents. Then again, I may decide that I, myself, am an
 agent of said media and perform my own manipulations on others. Somehow
 I think it's probably a good combination of the two.
- 
+
  Topic change: I've got sneak preview tickets for tonight's showing of
 [*Stealing Harvard*](http://us.imdb.com/Title?0265808), which looks like
 a pretty dumb movie, but since it's free I guess I'll go. I hope it's

@@ -4,7 +4,7 @@ title: "Going Off the Rails"
 date: 2002-08-20 -0800
 comments: true
 disqus_identifier: 109
-tags: [General Ramblings]
+tags: [personal]
 ---
 Jenn and I were talking last night about, well, *nothing* in particular,
 and I took one of my random sidetracks as usual and she wondered why I
@@ -12,13 +12,13 @@ had said something I did and how my train of thought had reached it.
 Stopping to think about it, I realize that I have very quick, very
 divergent trains of thought when it comes to conversations, and most of
 the time it has to do with a pop culture reference.
- 
+
  For example, this morning in the car I was listening to Kylie Minogue's
 [*Fever*](http://www.amazon.com/exec/obidos/ASIN/B00005Y228/mhsvortex)
 album, to the song *Love at First Sight*, and I suddenly wondered what
 ever happened to [Crazy Daisy
 Ed](http://www.everything2.com/index.pl?lastnode_id=379673&node_id=27419)...
- 
+
  How did I get there? It went something like this:
 -   Heard lyrics to Kylie Minogue song: "I thought that I was going
     crazy / Just having one of those days, yeah..."
@@ -28,11 +28,11 @@ Ed](http://www.everything2.com/index.pl?lastnode_id=379673&node_id=27419)...
 -   Hey, I wonder what happened to Crazy Daisy Ed?
 
 
- 
+
  See how that works? That one was pretty simple. It's sort of like "[Six
 Degrees of Kevin Bacon](http://www.cs.virginia.edu/oracle/)" - any
 thought can be connected to any other thought. Just like that.
- 
+
  I framed my *[Bières de la
 Meuse](http://www.allposters.com/gallery.asp?aid=273632&item=290944)*
 print last night using a frame I had been trying to find a use for. The
