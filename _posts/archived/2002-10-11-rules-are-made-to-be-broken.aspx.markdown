@@ -4,7 +4,7 @@ title: "Rules Are Made to be Broken"
 date: 2002-10-11 -0800
 comments: true
 disqus_identifier: 138
-tags: [Media]
+tags: [movies,tv]
 ---
 [*The Transporter*](http://www.transportermovie.com) is out tonight and
 my dad and I will be going to see it. I'm stoked. I'm hoping it's as
@@ -14,7 +14,7 @@ noticing this was directed by [Corey
 Yuen](http://us.imdb.com/Name?Yuen,%20Corey), whoever that is (looks
 like he's done a lot of Hong Kong action stuff). Either way, I'm ready
 to go.
- 
+
  Watched [*Survivor*](http://www.cbs.com/primetime/survivor5/) last
 night on [my new
 TV](http://www.sonystyle.com/home/item.jsp?hierc=9685x9800x9801&catid=9801&itemid=36589&type=o)

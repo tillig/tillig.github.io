@@ -4,7 +4,7 @@ title: "All I Ever Needed To Know I Learned From Surfing Porn"
 date: 2002-10-23 -0800
 comments: true
 disqus_identifier: 146
-tags: [General Ramblings]
+tags: [personal]
 ---
 Pizza delivery may not be lucrative, but it's one of the ten best jobs
 available. If you think there's something out there that nobody's done,

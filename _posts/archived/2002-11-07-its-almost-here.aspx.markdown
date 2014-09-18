@@ -4,7 +4,7 @@ title: "It's Almost Here..."
 date: 2002-11-07 -0800
 comments: true
 disqus_identifier: 164
-tags: [Gaming]
+tags: [gaming,ps2]
 ---
   ----------------------- --- --------------------------
   Status:                     **In Transit**

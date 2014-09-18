@@ -4,7 +4,7 @@ title: "Dita von Teese"
 date: 2002-10-29 -0800
 comments: true
 disqus_identifier: 154
-tags: [General Ramblings]
+tags: [personal]
 ---
 Looks like Dita von Teese has a website --
 [www.dita.net](http://www.dita.net/). [Members

@@ -4,7 +4,7 @@ title: "Time For the New Year"
 date: 2002-12-19 -0800
 comments: true
 disqus_identifier: 187
-tags: [General Ramblings]
+tags: [personal]
 ---
 FYI: I'll be on vacation the last two weeks of the year, so after
 Friday, Dec. 20, there will be inconsistent (if any) entries showing up

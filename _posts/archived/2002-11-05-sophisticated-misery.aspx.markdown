@@ -4,7 +4,7 @@ title: "Sophisticated Misery"
 date: 2002-11-05 -0800
 comments: true
 disqus_identifier: 160
-tags: [Media,Gaming]
+tags: [music,gaming]
 ---
 Last night I got my copy of the [*Grand Theft Auto: Vice City*
 soundtrack boxed
@@ -14,7 +14,7 @@ radio stations don't play this sort of thing is beyond me. It's hard to
 put a label on something and say something like "this is the definitive
 80's collection." That's a bold statement. So, instead, I'll say that
 this is *damn close* to the definitive 80's collection.
- 
+
  I noticed on Amazon they don't list the songs that are on each disc, so
 I'll do that here. Again, it's a seven disc set - each disc represents a
 radio station that you can listen to in the game. So beyond the songs
@@ -132,7 +132,7 @@ Okay, I'll admit that I don't know too many on discs 5 and 7, but hey -
 for \$50, that's seven discs of some of the best 80's out there. Plus,
 each disc allows you to go online and get a cheat code for the game.
 Hey, everybody wins.
- 
+
  On a sort of related note, I got contacted by Amazon customer service
 via email and they said everything was on track to ship me [the
 game](http://www.amazon.com/exec/obidos/ASIN/B0000696CZ/mhsvortex) and

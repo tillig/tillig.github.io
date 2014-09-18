@@ -4,7 +4,7 @@ title: "A Long December"
 date: 2002-10-04 -0800
 comments: true
 disqus_identifier: 135
-tags: [General Ramblings,GeekSpeak]
+tags: [media,personal,sharepoint]
 ---
 Wednesday was a loooong day for me. I got up at 6:15a, got to work at
 7:30a, started doing after-hours server patches at 5:00p, and finally
