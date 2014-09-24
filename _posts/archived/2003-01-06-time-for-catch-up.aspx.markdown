@@ -4,7 +4,7 @@ title: "Time for Catch-Up"
 date: 2003-01-06 -0800
 comments: true
 disqus_identifier: 188
-tags: [General Ramblings]
+tags: [personal]
 ---
 Well, folks, I'm back in the office and playing catch-up on all the
 exciting things I missed over the holiday break I just took. Looks like

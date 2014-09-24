@@ -4,7 +4,7 @@ title: "Mostly Back to Normal"
 date: 2002-07-01 -0800
 comments: true
 disqus_identifier: 81
-tags: [home,movies,media]
+tags: [home,movies,media,cats]
 ---
 After a busy week and a busier weekend, life around the house is almost
 back to normal. Tomorrow they'll pick up my electronics for cleaning. On

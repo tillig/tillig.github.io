@@ -4,7 +4,7 @@ title: "Xev:  Part Cat, Part Cluster Lizard"
 date: 2002-07-02 -0800
 comments: true
 disqus_identifier: 82
-tags: [personal,family]
+tags: [personal,family,cats]
 ---
 I got my baby kitty last night! She is the cutest thing in the world,
 about 10 weeks old and weighing only a pound or so. I named her Xev,

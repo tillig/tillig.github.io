@@ -4,22 +4,22 @@ title: "Seize the Season"
 date: 2003-01-07 -0800
 comments: true
 disqus_identifier: 189
-tags: [General Ramblings]
+tags: [personal,family]
 ---
 Yesterday was pretty busy so I wasn't able to get around to posting
 anything about the holidays here. I've had several folks very anxious to
 hear the goings-on, so figured I'd best bust ass and get something up
 here before a lynch mob shows up at my door. Thankfully, I don't think
 this will be quite as eventful as you might hope.
- 
+
  But maybe it will.
- 
+
  I left work at 4:00p Friday, December 20 for vacation. It was time off,
 but since I'm the only one around work who knows how to deal with web
 related issues, I was still on call the whole time for emergency
 situations. I run a pretty tight ship on that stuff, though, which means
 that I very rarely get calls. (That's a good thing.)
- 
+
  By 5:00p that night I got a call. Wouldn't you know it? It's an
 "emergency" where someone needed access to a particular web site. It
 doesn't matter that any one of the techs at work (still there, mind you)
@@ -29,23 +29,23 @@ got dialed in from home and did the operation, I called the guy back and
 he was like, "Oh, well, I'm out with my wife now, so I guess it wasn't
 that important. Never mind." So I don't really think this was that much
 of an emergency, but since I'm getting paid to deal with it, I did.
- 
+
  I did not get any further calls during my vacation, and that rocked.
- 
+
  My sister, Tai, and her husband, Dan, packed up their things in Provo,
 Utah, and moved themselves back in with my parents here in Oregon the
 weekend of Dec. 21/22. They swore up and down when they left that they
 would never live in Oregon because he doesn't want to be near his family
 and... well, actually, I don't know that Tai was against living in
 Oregon. Either way, they were definitely *not* living in Oregon.
- 
+
  Guess who's got egg on their face now, eh?
- 
+
  My other sister, Tori, flew in that weekend as well (I think?) and also
 stayed with my parents. They went from no kids to three kids in their
 house in a matter of days. I felt sort of sorry for them and their
 "houseguests," but they asked for it.
- 
+
  I think that weekend, the 21/22, my dad, Tori, Jenn, and I all went to
 see [*Lord of the Rings: The Two
 Towers*](http://us.imdb.com/Title?0167261). I may write up a review on
@@ -65,7 +65,7 @@ anyway, because this movie is going to take off on some sidetrack for
 most of the time and not even really deal too much with how the ring
 progresses towards Mordor. Anyway, I felt a little cheated, as did
 Jenn.
- 
+
  Christmas Eve and Christmas were shaping up to be sort of
 controversy-laden, but I skated through them without too much issue.
 Last year it was very confusing - Christmas Eve night we went to Jenn's
@@ -85,7 +85,7 @@ entire extended family's holiday schedule around one four-year-old, but
 that's just me. I did my best to avoid getting involved with the
 planning of that side of things, instead choosing to just do what I
 needed to do and hope for the best.
- 
+
  It ended up going like this: Christmas Eve Jenn and I went to my
 parents' house. There we opened stockings and a couple of gifts.
 Christmas morning Jenn and I opened our gifts to each other, then went
@@ -101,13 +101,13 @@ down and everything was cool again. That night, Jenn and I went back to
 Jenn's parents' house so we could watch Aurora (Jenn's sister's
 four-year-old) open her presents. Let me tell you how stimulating *that*
 was. After that, we finally went home, exhausted from the holiday.
- 
+
  So what did I get? Well, I'll list a few of the things, but honestly, I
 don't remember every single thing off the top of my head, or exactly who
 gave me what. I gave my thank-yous in person and have since wiped it
 from my brain. Just let it be known that I appreciate each and every
 item donated to *the cause* (me).
- 
+
  Stuff I Got:
 
 -   Books: [*Tassel Making for
@@ -151,10 +151,10 @@ item donated to *the cause* (me).
     Drive"](http://shop.lego.com/product.asp?id=%7B053AA2F2%2DBF70%2D11D6%2D801F%2D00065BA09B53%7D&OrderBy=0&CatID=%7BB337EFCB%2DE080%2D4A1B%2DBEC1%2D3797C30F9BFB%7D)
 
 
- 
+
  I'm pretty sure I got some other stuff, too, but I don't recall off
 hand. If/when I do, I'll tack it on to the list above.
- 
+
  One thing I didn't put on the list: My new prize possessions. I got two
 shirts from Jenn's grandma (step-grandma?) that require some mention
 here. Imagine a polo shirt made out of very, very thin cotton. Sort of
@@ -166,13 +166,13 @@ on the right contains smaller vertical stripes of teal, dark blue, and
 white. The middle third is entirely white. The left third on one shirt
 is teal, the other shirt is dark blue. The collar of each shirt matches
 the left third of its respective shirt.
- 
+
  I don't know when I'm going to wear these. I don't own any white
 loafers or polyester pants, and I'm not going on a senior citizens
 cruise any time soon, so I'm at a loss. I think I'll bring them into
 work and put them on the "shirt wall" we have in the back for odd and
 annoying shirts we receive.
- 
+
  The rest of Christmas week played out very light. I played a bit of
 PS2, renting a game called [*Burnout
 2*](http://www.amazon.com/exec/obidos/ASIN/B00006JC46/mhsvortex). That
@@ -182,14 +182,14 @@ game. I won way too easily. Then again, if I wasn't winning and the
 challenge was there, I would have thought the game pretty repetetive.
 Either way, if it was a \$20 game I'd have snapped it up, but at \$50,
 it's only worth the rent.
- 
+
  At some point between Christmas and New Year's, Jenn and I went to see
 [*Two Weeks Notice*](http://us.imdb.com/Title?0313737). It was a
 pleasant romantic comedy and I must say I was much more pleased with it
 than I was with [*Maid In
 Manhattan*](/archive/2002/12/13/review-maid-in-manhattan.aspx). It was
 fun, and I felt good coming out of it.
- 
+
  New Year's was sort of lame. On New Year's Eve, Jenn and I went to the
 [Winter Hawks](http://www.winterhawks.com) game against Seattle and
 watched the Hawks lose 5-3. We were supposed to go with Jenn's friend
@@ -201,7 +201,7 @@ Jenn and I and be part of my harem, but I think maybe it's too soon. :)
 Anyway, Apryl ended up coming to the game with her brother, and rather
 than coming back to our place with him to play games, they went to one
 of Apryl's friend's houses.
- 
+
  That night, Jenn and I went home after the game and played [*Trivial
 Pursuit 20th Anniversary
 Edition*](http://www.amazon.com/exec/obidos/ASIN/B00005YXUM/mhsvortex).
@@ -211,16 +211,16 @@ clue. I cleaned up at all of the music and movie questions, but outside
 of that category it was hit or miss... mostly miss. That was the longest
 game of Trivial Pursuit *ever*. (Jenn ended up winning, but I wasn't far
 behind.)
- 
+
  I don't really remember what we did New Year's Day. I think we went to
 the mall or something, but who's to say?
- 
+
  Friday night, Jan. 3, Jenn and I went to see *Catch Me If You Can*. It
 was pretty good. I had a good time seeing how this kid kept duping
 everyone and making fake checks, knowing it was all based on actual
 happenings. Plus, Christopher Walken was in that as the kid's dad, and I
 love Christopher Walken.
- 
+
  At the same time we saw that movie, we found that the theaters in our
 area jacked up the ticket prices. It used to be \$5.50 to see a matinee
 and \$7.50 to see a prime time show; now it's \$6 to see a matinee and
@@ -234,7 +234,7 @@ especially when, in times of depression, the first portion of a person's
 budget to get cut is the entertainment part. I guess I will invest more
 heavily in [Blockbuster](http://www.blockbuster.com/) or something.
 Maybe [Netflix](http://www.netflix.com/) is the way to go. We'll see.
- 
+
  Also Friday night, Jenn and I totally spaced that we had a Winter Hawks
 game to go to. For some reason, we thought the next game was on Sunday
 but there was also one that Friday. To avoid getting hassled, we told
@@ -242,7 +242,7 @@ the folks there that we had to have dinner with my family because of
 Tori's imminent return to school, but that was just to avoid the grief.
 So there you go - if you were one of the *victims of the lie*, I trust
 you to keep the truth under wraps. You know who you are.
- 
+
  I finished off my vacation Sunday night (Jan. 5th) by going to a Winter
 Hawks game (where we lost 3-2 to Kelowna) and then coming home for a
 well-needed new episode of
@@ -251,23 +251,23 @@ not so pleased with the hockey game, but the *Alias* episode rocked. I
 love the [Marshal
 character](http://abc.abcnews.go.com/primetime/alias/profiles/sd6_flinkman.html)
 and I hope he continues to be a prominent figure.
- 
+
  Thus I returned to work on Monday, January 6. Upon returning, I began
 to wonder if things actually *run* when I'm not in the office, as I
 parsed through quite a bit of email, most of it requiring action on my
 part. I'm almost caught up now, though I'm still trying to remember what
 I was up to with certain projects two weeks ago and doing my best to
 come back up to speed.
- 
+
  Last night Jenn brought home one of those Pilates inflatable ball
 workout DVDs and the ball and started in with that. I tried it out, too
 (hey, I gotta get off my fat ass and do something before I atrophy away
 into nothing), but I think the ball is about six inches in diameter too
 small. I'll try it again, and if it's something I could do on a regular
 basis, maybe I'll get a larger ball.
- 
+
  Other happenings...
- 
+
  My cat, Xev (who is eight months old and still only about six pounds,
 and who I have taken to calling "Tiny Tiny" because of that), has
 started standing up and looking around like a prairie dog. If anything
@@ -275,7 +275,7 @@ gets her attention, she'll sit up very tall, sometimes even on just the
 toes of her back feet, and look around for it. I'm going to see if I can
 train her to walk around upright like a little person. I think that'd be
 funny.
- 
+
  I've started working out of the tassel-making books I got for Christmas
 and have discovered that making a tassel is harder than you might think.
 I've only made a couple, but I'm already coming to understand that the
@@ -284,7 +284,7 @@ it is. I've tried a few with a thin rayon thread, but they usually are
 pretty hard to get to work and I think they turn out sort of poorly.
 I've done one with some hand-weaving wool (sort of like thin yarn) and
 it turned out really nice, so maybe I'll go that route for a while.
- 
+
  I'm also starting to really get into watching the director's
 commentaries on the various DVDs I've got. I just watched the one for
 [*The

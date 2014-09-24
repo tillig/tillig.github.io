@@ -4,7 +4,7 @@ title: "Bad Hair Day"
 date: 2002-07-16 -0800
 comments: true
 disqus_identifier: 88
-tags: [personal]
+tags: [personal,cats]
 ---
 This entry is a big **thank you** to Jenn for being *soooo* helpful and
 observant this morning. It's also a good illustration of how badly and

@@ -4,7 +4,7 @@ title: "The Idol Show"
 date: 2002-11-20 -0800
 comments: true
 disqus_identifier: 169
-tags: [tv,music]
+tags: [tv,music,cats]
 ---
 Last night Jenn and I went to see [*American Idols -
 Live!*](http://idolonfox.msn.com/ai_live/ai_live.htm) at the [Rose

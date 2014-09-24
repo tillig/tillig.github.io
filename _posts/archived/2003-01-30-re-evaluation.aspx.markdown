@@ -4,12 +4,12 @@ title: "Re-evaluation"
 date: 2003-01-30 -0800
 comments: true
 disqus_identifier: 205
-tags: [General Ramblings,Media]
+tags: [personal,home,media]
 ---
 With the changes we're making around the apartment (moving things around
 and putting things in storage) in combination with the upcoming tax
 preparation, I'm starting to re-evaluate lots of things.
- 
+
  The housing situation I'm in bugs the *living shit* out of me. I'm
 tired of having me, Jenn, the two cats, and enough *stuff* to fill a
 two-bit flea market all crammed into 1000 square feet. It's just not
@@ -23,7 +23,7 @@ irritated. I need space to stretch out and walk around in, and I just
 don't have it here. I was hoping we could afford a house this year, but
 with Jenn in school and without a regular job, and me with the economy
 the way it is (*thanks, stock market!*), it's just not going to happen.
- 
+
  The household budget is not nearly what it could be. I'm a cheap
 bastard, I'll admit it. I really just don't value food, so when friends
 ask me to go out for dinner, I usually say no - I just can't spend that
@@ -44,7 +44,7 @@ in, trying to pay down the credit cards and stuff. I haven't bought
 nearly as many CDs or DVDs as I usually do, which hurts morale but helps
 on the budget. I'm hoping to have some of the larger bills paid off by
 the end of the quarter, at which point I will be in a better situation.
- 
+
  Physical fitness has me irritated, too. As in, "I'm a hunk of lard and
 my ass is melting over the sides of my chair right now because I'm so
 disgustingly atrophied." Jenn and I are both a little concerned over our
@@ -56,7 +56,7 @@ the effect of the berry pie in the refrigerator. (Change my diet? *Are
 you nuts?*) Of course, [I've talked about this
 before](/archive/2002/08/16/pathetic.aspx), so I won't go on with it.
 But it does bug me.
- 
+
  So, anyway, I'm re-evaluating all this stuff, realizing that
 something's got to give. I'm not sure what it'll be first, but something
 tells me I'll fix up my budget and correct inadequacies in my housing
