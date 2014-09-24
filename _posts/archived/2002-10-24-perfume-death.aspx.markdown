@@ -4,7 +4,7 @@ title: "Perfume Death"
 date: 2002-10-24 -0800
 comments: true
 disqus_identifier: 149
-tags: [perosnal]
+tags: [personal]
 ---
 There are three kinds of perfume in the world: hot and sexy; mild and
 demure; and overwhelmingly terrible.

@@ -4,7 +4,7 @@ title: "New Feature - Categories!  (Sort Of)"
 date: 2002-10-23 -0800
 comments: true
 disqus_identifier: 148
-tags: [perosnal,blog]
+tags: [personal,blog]
 ---
 I added a new feature to the ol' bloggeroo, here. If you look off to the
 left in the navigation column, I've put two more links: "Reviews" and

@@ -4,14 +4,14 @@ title: "Reliable Irritation"
 date: 2003-02-10 -0800
 comments: true
 disqus_identifier: 211
-tags: [General Ramblings]
+tags: [personal]
 ---
 I'm in a reasonably good mood today, though I'm not sure why. I've got a
 dentist appointment later on which makes me irritated just thinking
 about it, so I won't. Of course, now that I've said out loud that I'm in
 a good mood, I'm sure it'll disintegrate like that much cotton candy. I
 can feel it leaving me now.
- 
+
  On the way in to work today, I was thinking about stuff that puts me in
 a good mood. There are lots of things, but here are a few (*...these are
 a few of my favorite things...*):
@@ -63,23 +63,23 @@ including, but not limited to):
     refer to when you say "I'm having a *vendor* stop in today"
 
 And the list goes on, but that's a decent start.
- 
+
  Saturday Jenn and I went to
 [LaserPort](http://www.laserportofbeaverton.com/) to play laser tag with
 our friends Jason and Tracy, along with Tracy's sister, Crystal, and her
 friends Erin and Wayne. At least, I think the guy's name was Wayne. I
 never really heard it properly.
- 
+
  That was a lot of fun, though I'm *way* out of shape. My legs are a bit
 stiff today (yes, two days later) which just further indicates that I
 need to be in better shape.
- 
+
  Sunday we went to see [*Shanghai
 Knights*](http://us.imdb.com/Title?0300471) (which was fun, though I
 think I liked the first one just slightly better). We were supposed to
 see it with my friend Torin, who decided not to show up. I still don't
 know where he was or anything, but I can't say I wasn't a bit pissed.
- 
+
  The thing is, like 90% of my friends are like that. They say they'll be
 somewhere and then they show up really late, if at all. There's always
 an excuse generally along the lines of "something suddenly came up" or
@@ -88,7 +88,7 @@ tired of it. I'm tired of being the guy who shows up on time and then
 has to save seats in the theater for everyone else. I'm tired of being
 the guy who organizes everything at everyone else's request only to have
 no one show up.
- 
+
  Here's a little anecdote about that: The last place I worked, FatEarth
 (a startup that no longer exists), I was there with several people in my
 general age group and we were all pretty good friends. People would have
@@ -97,14 +97,14 @@ The whole time, they'd bug me about when *I* was going to have a party
 at my place. After enough harping, I agreed to have a party. I figured
 out when everyone was available, sent out invites, got the drinks and
 food together, cleaned the place up, and waited for people to show.
- 
+
  No one did. People responded and said they'd be there, but no one
 showed.
- 
+
  So now I have a new rule - *no fucking parties*. Hey, if people won't
 bother showing up - even after they said they would - then I won't
 bother having parties. Less trouble for me.
- 
+
  Jenn and I talk about that a lot, actually. Who we want to go do stuff
 with, who's fun to hang out with... then we realize that most of our
 friends, even if we plan something, won't show up. It's a little
@@ -112,5 +112,5 @@ disheartening. I mean, sure, there are definitely those who do make it,
 and we do hang out with those folks. But it's hard to be excited about
 getting together with someone who can't be counted on to show up on
 time, if at all.
- 
+
  Hey, great. There goes my good mood.

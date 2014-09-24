@@ -4,7 +4,7 @@ title: "A Forty-Inch Weekend"
 date: 2002-10-07 -0800
 comments: true
 disqus_identifier: 136
-tags: [perosnal,media]
+tags: [personal,media]
 ---
 Lots of stuff happened this weekend, culminating in my loss of a hefty
 chunk of change to the Gods of Technology. But, as usual, let's start at
