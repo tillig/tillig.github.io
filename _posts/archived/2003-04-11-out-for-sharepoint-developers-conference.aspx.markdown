@@ -4,7 +4,7 @@ title: "Out for SharePoint Developers' Conference"
 date: 2003-04-11 -0800
 comments: true
 disqus_identifier: 243
-tags: [GeekSpeak]
+tags: [sharepoint]
 ---
 I will be out next week for the [SharePoint Products and Technologies
 Developers'

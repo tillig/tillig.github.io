@@ -4,21 +4,21 @@ title: "GBA Accessories and Spam"
 date: 2003-03-26 -0800
 comments: true
 disqus_identifier: 234
-tags: [Gaming]
+tags: [gaming,gameboy]
 ---
 There's something about porn spam in my Inbox that just gives me the
 warm fuzzies. Especially the myriad ads for "Enhance Your Penis" or
 "Extra Length!" That's just great. Please, send me more of those because
 you know as well as I do that I click on *every single one* of them and
 find them all worthwhile.
- 
+
  **NOT.**
- 
+
  Some are legitimately clever, though. I think my favorite recent one
 had the subject, "Satisfy your woman you pindick." That definitely makes
 me want to click it. Morons. People who spam people should be fucking
 shot.
- 
+
  Okay, so I found some GBA accessories I need to get...
 
 -   **MP3 Player** - This actually comes in two varieties: the

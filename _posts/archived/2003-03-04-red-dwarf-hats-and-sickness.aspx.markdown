@@ -4,7 +4,7 @@ title: "Red Dwarf, Hats, and Sickness"
 date: 2003-03-04 -0800
 comments: true
 disqus_identifier: 226
-tags: [General Ramblings]
+tags: [tv]
 ---
 I'm feeling a tad under the weather lately with the slightest twinge of
 a head cold. I like to blame Jenn for that, since she's been sick for
@@ -16,7 +16,7 @@ last night, but I am entirely unable to remember since I was well into
 my [NyQuil
 Coma](http://www.amazon.com/exec/obidos/ASIN/B000005IKZ/mhsvortex). (I
 have the *cherry* version, not the *green-fucking-death* flavor.)
- 
+
  I received the [*Red Dwarf* series pack of
 DVDs](http://www.amazon.com/exec/obidos/ASIN/B00007JZUB/mhsvortex)
 (containing the episodes from series 1 and 2) last night from Amazon. It
@@ -26,13 +26,13 @@ I prefaced the playing of the show for Jenn with "This is British humor,
 so you may or may not like it." On playing the show, the first words out
 of her mouth were "Hey, wait! This is British!" Hmmm. Someone wasn't
 *listening*, were they?
- 
+
  The first episode, like other TV show first episodes, is good to
 introduce the characters and the story but not so good for the rest - it
 doesn't demonstrate really how funny the show can be. I don't think Jenn
 liked it as much as I did, but I'll try to get her to watch a couple of
 the funnier episodes and see where that takes us.
- 
+
  After that and a little tortellini for dinner, we went over to my
 parents' house to use my mom's sewing machine. Jenn's making herself a
 dress, and I'm making a Queen Amidala style beaded hat out of a
