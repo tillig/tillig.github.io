@@ -14,7 +14,7 @@ Plus - if you ever do ask for help, this is the sort of stuff I'd ask you for, s
 Soooo... *assuming you're developing an app, not trying to do some crazy debug-in-production scenario...*
 
 ##Change Your Thinking and Recognize Patterns
-This is more of a "preparation for debugging" thing. It is very easy to get intimidated when working with unfamiliar technology or on something with which you're not familiar. It's also easy to think there's no way the error you're seeing is something you can handle or that it's so unique there's no way to figure it out.
+This is more of a "preparation for debugging" thing. It is very easy to get intimidated when working with new technology or on something with which you're not familiar. It's also easy to think there's no way the error you're seeing is something you can handle or that it's so unique there's no way to figure it out.
 
 - **Don't get overwhelmed.** Stop and take a breath. You will figure it out.
 - **Don't raise the red flag.** Along with not getting overwhelmed... unless you're five minutes from having to ship and your laptop just lit on fire, consider *not sending out the all-hands 'I NEED HELP ASAP' email* with screen shots and angry red arrows wondering what this issue means.
