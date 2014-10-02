@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Try This First: Basic Developer Steps for .NET Troubleshooting"
-date: 2014-01-01 -0800
+date: 2014-10-02 -0800
 comments: true
 tags: [testing,vs]
 ---
