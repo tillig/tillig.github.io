@@ -11,7 +11,7 @@ And, of course, each project you work on has different standards for these thing
 
 What really kills me about these different settings, and what probably kills you, is *remembering to reconfigure all your editors* to match the project settings. Then when you switch, reconfigure again.
 
-**The open source project EditorConfig aims to rescue you from this nightmare.** Simply place an `.editorconfig` file in your project and your editor can pick up the settings from there. Move to the next project (which also uses `.editorconfig`) and *everything dynamically updates*.
+**The [open source project EditorConfig](http://editorconfig.org/) aims to rescue you from this nightmare.** Simply place an `.editorconfig` file in your project and your editor can pick up the settings from there. Move to the next project (which also uses `.editorconfig`) and *everything dynamically updates*.
 
 **I don't know why this isn't the most popular Visual Studio add-in ever.**
 
