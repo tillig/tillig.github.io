@@ -4,7 +4,7 @@ title: "189 Trick-or-Treaters"
 date: 2011-11-01 -0800
 comments: true
 disqus_identifier: 1748
-tags: [General Ramblings]
+tags: [halloween,costumes]
 ---
 We were down quite a bit this year, back into the range we were at in
 2006 - 2007. Again, it was a school night, but Halloween being on a
@@ -19,91 +19,82 @@ trick-or-treaters.](https://hyqi8g.bl3302.livefilestore.com/y2p8TC7hv8YiYRlUwVWG
 
 Cumulative data:
 
-Time Blocks
-
-6:00p - 6:30p
-
-6:30p - 7:00p
-
-7:00p - 7:30p
-
-7:30p - 8:00p
-
-8:00p - 8:30p
-
-**Years**
-
-[**2006**](/archive/2006/11/01/162-trick-or-treaters.aspx)
-
-52
-
-59
-
-35
-
-16
-
-0
-
-[**2007**](/archive/2007/11/01/139-trick-or-treaters.aspx)
-
-5
-
-49
-
-39
-
-25
-
-21
-
-[**2008**](/archive/2008/11/03/237-trick-or-treaters.aspx)
-
-14
-
-71
-
-82
-
-45
-
-25
-
-[**2009**](/archive/2009/11/03/243-trick-or-treaters.aspx)
-
-17
-
-51
-
-72
-
-82
-
-21
-
-[**2010**](/archive/2010/11/01/259-trick-or-treaters.aspx)
-
-19
-
-77
-
-76
-
-48
-
-39
-
-**2011**
-
-31
-
-80
-
-53
-
-25
-
-0
+<table>
+    <thead>
+        <tr>
+            <th colspan="2" rowspan="2">&nbsp;</th>
+            <th colspan="6">Year</th>
+        </tr>
+        <tr>
+            <th><a href="/archive/2006/11/01/162-trick-or-treaters.aspx">2006</a></th>
+            <th><a href="/archive/2007/11/01/139-trick-or-treaters.aspx">2007</th>
+            <th><a href="/archive/2008/11/03/237-trick-or-treaters.aspx">2008</th>
+            <th><a href="/archive/2009/11/03/243-trick-or-treaters.aspx">2009</a></th>
+            <th><a href="/archive/2010/11/01/259-trick-or-treaters.aspx">2010</a></th>
+            <th>2011</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="5">Time Block</td>
+            <td>6:00p - 6:30p</td>
+            <td>52</td>
+            <td>5</td>
+            <td>14</td>
+            <td>17</td>
+            <td>19</td>
+            <td>31</td>
+        </tr>
+        <tr>
+            <td>6:30p - 7:00p</td>
+            <td>59</td>
+            <td>45</td>
+            <td>71</td>
+            <td>51</td>
+            <td>77</td>
+            <td>80</td>
+        </tr>
+        <tr>
+            <td>7:00p - 7:30p</td>
+            <td>35</td>
+            <td>39</td>
+            <td>82</td>
+            <td>72</td>
+            <td>76</td>
+            <td>53</td>
+        </tr>
+        <tr>
+            <td>7:30p - 8:00p</td>
+            <td>16</td>
+            <td>25</td>
+            <td>45</td>
+            <td>82</td>
+            <td>48</td>
+            <td>25</td>
+        </tr>
+        <tr>
+            <td>8:00p - 8:30p</td>
+            <td>0</td>
+            <td>21</td>
+            <td>25</td>
+            <td>21</td>
+            <td>39</td>
+            <td>0</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td>&nbsp;</td>
+            <td>Total</td>
+            <td>162</td>
+            <td>139</td>
+            <td>237</td>
+            <td>243</td>
+            <td>259</td>
+            <td>189</td>
+        </tr>
+    </tfoot>
+</table>
 
 We shut down at 8:00p this year rather than running until 8:30p for a
 couple of reasons:

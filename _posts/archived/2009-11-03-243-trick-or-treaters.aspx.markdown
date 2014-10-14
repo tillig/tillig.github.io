@@ -4,7 +4,7 @@ title: "243 Trick-or-Treaters"
 date: 2009-11-03 -0800
 comments: true
 disqus_identifier: 1583
-tags: [General Ramblings]
+tags: [halloween,costumes]
 ---
 We had five more trick-or-treaters this year than we had last year and
 the most popular time to visit was between 7:30p and 8:00p, which is a
@@ -20,69 +20,68 @@ Trick-or-Treaters](https://hyqi8g.bl3301.livefilestore.com/y2p_XOubhTbuBqx2QRJny
 And the cumulative data from this year and the other years we've
 tracked:
 
- 
-
-Time Blocks
-
-6:00p - 6:30p
-
-6:30p - 7:00p
-
-7:00p - 7:30p
-
-7:30p - 8:00p
-
-8:00p - 8:30p
-
-**Years**
-
-[**2006**](/archive/2006/11/01/162-trick-or-treaters.aspx)
-
-52
-
-59
-
-35
-
-16
-
-0
-
-[**2007**](/archive/2007/11/01/139-trick-or-treaters.aspx)
-
-5
-
-49
-
-39
-
-25
-
-21
-
-[**2008**](/archive/2008/11/03/237-trick-or-treaters.aspx)
-
-14
-
-71
-
-82
-
-45
-
-25
-
-**2009**
-
-17
-
-51
-
-72
-
-82
-
-21
+<table>
+    <thead>
+        <tr>
+            <th colspan="2" rowspan="2">&nbsp;</th>
+            <th colspan="3">Year</th>
+        </tr>
+        <tr>
+            <th><a href="/archive/2006/11/01/162-trick-or-treaters.aspx">2006</a></th>
+            <th><a href="/archive/2007/11/01/139-trick-or-treaters.aspx">2007</th>
+            <th><a href="/archive/2008/11/03/237-trick-or-treaters.aspx">2008</th>
+            <th>2009</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="5">Time Block</td>
+            <td>6:00p - 6:30p</td>
+            <td>52</td>
+            <td>5</td>
+            <td>14</td>
+            <td>17</td>
+        </tr>
+        <tr>
+            <td>6:30p - 7:00p</td>
+            <td>59</td>
+            <td>45</td>
+            <td>71</td>
+            <td>51</td>
+        </tr>
+        <tr>
+            <td>7:00p - 7:30p</td>
+            <td>35</td>
+            <td>39</td>
+            <td>82</td>
+            <td>72</td>
+        </tr>
+        <tr>
+            <td>7:30p - 8:00p</td>
+            <td>16</td>
+            <td>25</td>
+            <td>45</td>
+            <td>82</td>
+        </tr>
+        <tr>
+            <td>8:00p - 8:30p</td>
+            <td>0</td>
+            <td>21</td>
+            <td>25</td>
+            <td>21</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td>&nbsp;</td>
+            <td>Total</td>
+            <td>162</td>
+            <td>139</td>
+            <td>237</td>
+            <td>243</td>
+        </tr>
+    </tfoot>
+</table>
 
 Halloween was on a Saturday this year so we prepared for this number of
 kids by getting two giant bags of candy at Costco. We did think there'd

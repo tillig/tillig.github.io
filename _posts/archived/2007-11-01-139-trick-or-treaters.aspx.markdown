@@ -4,7 +4,7 @@ title: "139 Trick-or-Treaters"
 date: 2007-11-01 -0800
 comments: true
 disqus_identifier: 1288
-tags: [General Ramblings]
+tags: [halloween,costumes]
 ---
 In a downward trend from the last
 [two](/archive/2005/11/01/155-trick-or-treaters.aspx)

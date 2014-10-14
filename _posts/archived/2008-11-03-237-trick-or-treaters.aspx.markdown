@@ -4,7 +4,7 @@ title: "237 Trick-or-Treaters"
 date: 2008-11-03 -0800
 comments: true
 disqus_identifier: 1462
-tags: [General Ramblings]
+tags: [halloween,costumes]
 ---
 We saw a huge increase in the trick-or-treat count this year compared to
 the previous [years](/archive/2005/11/01/155-trick-or-treaters.aspx)
