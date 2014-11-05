@@ -4,7 +4,7 @@ title: "No Hat Luck"
 date: 2002-09-30 -0800
 comments: true
 disqus_identifier: 133
-tags: [cosplay]
+tags: [costumes]
 ---
 While listening to an [online seminar](http://www.interwise.com) about
 .NET application deployment and sipping water from my [*Fuck

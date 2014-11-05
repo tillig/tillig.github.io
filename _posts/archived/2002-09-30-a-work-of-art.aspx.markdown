@@ -4,7 +4,7 @@ title: "A Work of Art"
 date: 2002-09-30 -0800
 comments: true
 disqus_identifier: 132
-tags: [personal,hockey,cosplay,movies]
+tags: [personal,hockey,costumes,movies]
 ---
 First things first: [Kristy
 Swanson](http://us.imdb.com/Name?Swanson,+Kristy) is in [this month's

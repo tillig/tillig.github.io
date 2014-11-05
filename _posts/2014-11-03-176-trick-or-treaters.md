@@ -107,7 +107,7 @@ Cumulative data:
     </tfoot>
 </table>
 
-My costume this year was the Tenth Doctor from _Doctor Who_. Jenn was Anna from _Frozen_. We both made our costumes and I'll post a different blog article walking through how I made the suit. Phoenix decided she was going to be Sleeping Beauty this time, which was a time-saver for us since she already has a ton of princess costumes.
+My costume this year was the Tenth Doctor from _Doctor Who_. Jenn was Anna from _Frozen_. We both made our costumes and [I posted a different blog article walking through how I made the suit](/archive/2014/11/05/making-my-tenth-doctor-suit/). Phoenix decided she was going to be Sleeping Beauty this time, which was a time-saver for us since she already has a ton of princess costumes.
 
 ![Travis and Jenn](https://hyqi8g-ch3301.files.1drv.com/y2pgj3Dz3hKaw8KDWRL0zpdp7XPEDIB2qX7nLr2W3U7ZB19kvmPql7fHMDWHLIDC5orV7AzK1I2CaGQ1ryZ7J_Q30Wk0E-zt9whfmhcuBzU8Ek/20141103_costumes.jpg?psid=1)
 
