@@ -9,7 +9,7 @@ For [Halloween this year](/archive/2014/11/03/176-trick-or-treaters/) I went as 
 
 ![David Tennant as the Tenth Doctor](https://lh3.googleusercontent.com/-I8qaQGqvwOw/VFhWjnIYigI/AAAAAAAAJwA/JeqG8RZib6w/s400/Tenth%2520Doctor%2520Suit%2520-%2520Halloween%25202014%2520-%252017.jpg)
 
-I make my costume every year (well, pretty much every year) and I enjoy sewing so it was fun to take this on. However, I don't normally post "behind-the-scenes" stuff and there are folks who don't really realize what goes into making a costume so I figured this year I'd do it.
+I make my costume every year (well, pretty much every year) and I enjoy sewing so it was fun to take this on. However, I don't normally post "behind-the-scenes" stuff and there are folks who don't really realize what goes into making a costume so I figured this year I'd do it. [Oh, and if you want to see the pictures in a larger format, I have an annotated photo album on Google+.](https://plus.google.com/photos/100275637557074554059/albums/6077702866070944497)
 
 Before doing anything else, I did some research. The [_Making My Tennant Suit_ blog](http://tennantsuit.blogspot.com/) was the best resource I found for info on the suit, the fabrics, and so forth. It has a really good [fabric comparison](http://tennantsuit.blogspot.com/2009/04/comparing-fabrics.html) showing different fabrics and sources that match/approximate the fabric from the suit. I also gathered a few pictures from the web to help me pick the right pieces.
 
@@ -96,3 +96,5 @@ And, once the whole costume was on, here's how it looked. I think it turned out 
 ![Travis as the Tenth Doctor](https://lh6.googleusercontent.com/-GL0jLo6JxPg/VFhWjlgLHwI/AAAAAAAAJx0/f10TFALqGRQ/s640/Tenth%2520Doctor%2520Suit%2520-%2520Halloween%25202014%2520-%25201.jpg)
 
 For those interested: The shoes are [unbleached white Converse Chuck Taylors](http://www.amazon.com/dp/B008DZZR7K?tag=mhsvortex). The shirt is one I already had; any old white dress shirt will do. The sonic screwdriver [is the toy version that's been out for a while](http://www.amazon.com/dp/B0009P5YXO?tag=mhsvortex). The tie is a [maroon polka dot tie by Chevalier](http://www.bows-n-ties.com/maroon-polka-dot-tie-chevlier-p-16480.html).
+
+[Again, if you want to see the pictures in a larger format, I have an annotated photo album on Google+.](https://plus.google.com/photos/100275637557074554059/albums/6077702866070944497)
