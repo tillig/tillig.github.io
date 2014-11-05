@@ -97,4 +97,21 @@ And, once the whole costume was on, here's how it looked. I think it turned out 
 
 For those interested: The shoes are [unbleached white Converse Chuck Taylors](http://www.amazon.com/dp/B008DZZR7K?tag=mhsvortex). The shirt is one I already had; any old white dress shirt will do. The sonic screwdriver [is the toy version that's been out for a while](http://www.amazon.com/dp/B0009P5YXO?tag=mhsvortex). The tie is a [maroon polka dot tie by Chevalier](http://www.bows-n-ties.com/maroon-polka-dot-tie-chevlier-p-16480.html).
 
+I don't know how much time it took exactly, but I know that I watch TV/Netflix while I'm working and I made it through three seasons of _Kyle XY_, the _Jekyll_ miniseries, a couple of movies, and half a season of _The Blacklist_... and I wasn't watching something the whole time. So... it took a while.
+
+As far as cost, that's another thing I didn't really keep track of, but roughly (guessing on a few of these)...
+
+ - Shoes: $45
+ - Tie: $15
+ - Pinstripe Suiting: $50
+ - Lining: $10
+ - Interfacing: $10
+ - Felt (for the collar): $5
+ - Twill: $10
+ - Thread, buttons, zipper, notions: $30
+
+So... uh... $175? Give or take. It's not cheap. Even if you take out the cost for the shoes and tie, which I can wear elsewhere, you're still looking at over $100. Plus the time.
+
+This definitely increases my admiration and respect for folks who do this on a convention circuit.
+
 [Again, if you want to see the pictures in a larger format, I have an annotated photo album on Google+.](https://plus.google.com/photos/100275637557074554059/albums/6077702866070944497)
