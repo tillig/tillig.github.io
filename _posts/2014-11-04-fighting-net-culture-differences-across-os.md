@@ -5,7 +5,7 @@ date: 2014-11-04 -0800
 comments: true
 tags: [testing,culture]
 ---
-One of the projects I work on has some dynamic culture-aware currency formatting stuff that goes and we, of course, have tests around that.
+One of the projects I work on has some dynamic culture-aware currency formatting stuff and we, of course, have tests around that.
 
 I'm in the process of moving our build from Windows Server 2008R2 to Windows Server 2012 and I found that a lot of our tests are failing. I didn't change any of the code, just updated a couple of lines of build script. What gives?
 
