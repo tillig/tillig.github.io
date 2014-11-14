@@ -4,7 +4,7 @@ title: "Moving to a Synology DS1010+"
 date: 2010-05-20 -0800
 comments: true
 disqus_identifier: 1643
-tags: [Media,GeekSpeak]
+tags: [synology,media,hardware]
 ---
 I've been having some trouble with my Windows Home Server involving some
 potentially misbehaving hardware when put under load. This really [only
@@ -63,7 +63,7 @@ and **I ended up on the Synology DS1010+.** Why?
     put my mind at ease. That's not a new WHS.
 
 [**I picked the diskless NAS up at Amazon for
-\$980**](http://www.amazon.com/gp/product/B0031ZKX5I?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0031ZKX5I).
+$980**](http://www.amazon.com/gp/product/B0031ZKX5I?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0031ZKX5I).
 Next, drives.
 
 [Synology has a compatibility
@@ -76,7 +76,7 @@ wanted 2TB drives, I wanted reasonable performance (it doesn't have to
 be an SSD to store DVD rips), and I didn't want to go broke on it.
 
 I settled on [**Seagate Barracuda ST32000542AS 2TB 5900RPM drives for
-\$120/each at
+$120 each at
 Amazon**](http://www.amazon.com/gp/product/B0028Y4CY6?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0028Y4CY6).
 Why?
 
@@ -95,11 +95,11 @@ Why?
     drives](http://hardwarelogic.com/articles.php?id=5578).
 -   **Price.** There's a gap in 2TB drive pricing between some of the
     5400 RPM drives and the faster 7200 RPM drives. Like, it jumps from
-    around \$150/drive up to \$280/drive without anything in the middle.
-    Price for supposed performance, I couldn't really beat \$120/each.
+    around $150 drive up to $280 drive without anything in the middle.
+    Price for supposed performance, I couldn't really beat $120 each.
 
-I picked up four of those drives, so **my total cost was \$980 + (4 \*
-\$120) = \$1460**. That's not a cheap bit of kit up front, but if I
+I picked up four of those drives, so **my total cost was $980 + (4 \*
+ $120) = $1460**. That's not a cheap bit of kit up front, but if I
 consider the storage and what I've already put in, it's not *that bad*.
 
 > **Interesting side note on my Windows Home Server issue**: While I was
@@ -122,9 +122,9 @@ consider the storage and what I've already put in, it's not *that bad*.
 I got the NAS and the disks today. Love that Amazon Prime. Here are the
 boxes and then the unbox:
 
-[![](http://lh5.ggpht.com/_P1NCAbHEm2Q/S_X2zrSdyHI/AAAAAAAABmk/L3nAAEeOV1E/s288/20100519-1744%20Boxes.jpg)](http://picasaweb.google.com/lh/photo/j7Wc7AUNups9tA2391yCjw?feat=embedwebsite)
+[![Boxed up](http://lh5.ggpht.com/_P1NCAbHEm2Q/S_X2zrSdyHI/AAAAAAAABmk/L3nAAEeOV1E/s288/20100519-1744%20Boxes.jpg)](http://picasaweb.google.com/lh/photo/j7Wc7AUNups9tA2391yCjw?feat=embedwebsite)
 
-[![](http://lh4.ggpht.com/_P1NCAbHEm2Q/S_X20CGec5I/AAAAAAAABmo/8fe-eRzy4yU/s288/20100519-1751%20Unboxed.jpg)](http://picasaweb.google.com/lh/photo/LQeaG8wwb6MOqDn7uhgcWQ?feat=embedwebsite)
+[![Unboxed](http://lh4.ggpht.com/_P1NCAbHEm2Q/S_X20CGec5I/AAAAAAAABmo/8fe-eRzy4yU/s288/20100519-1751%20Unboxed.jpg)](http://picasaweb.google.com/lh/photo/LQeaG8wwb6MOqDn7uhgcWQ?feat=embedwebsite)
 
 I installed all of the drives following the instructions in the quick
 start guide (very easy), plugged it into my UPS, connected it to the
@@ -134,7 +134,7 @@ replicator, and HP EX475 Windows Home Server. You'll notice that the
 DS1010+ is about the same size as the Home Server, just laid out
 horizontally instead of vertically.
 
-[![](http://lh4.ggpht.com/_P1NCAbHEm2Q/S_X20nVoGNI/AAAAAAAABms/5QwvVc7I5_o/s288/20100519-1816%20Installed.jpg)](http://picasaweb.google.com/lh/photo/oUjoUIzi5EZmmiW0Ecf-XQ?feat=embedwebsite)
+[![Plugged in under the desk](http://lh4.ggpht.com/_P1NCAbHEm2Q/S_X20nVoGNI/AAAAAAAABms/5QwvVc7I5_o/s288/20100519-1816%20Installed.jpg)](http://picasaweb.google.com/lh/photo/oUjoUIzi5EZmmiW0Ecf-XQ?feat=embedwebsite)
 
 Once it was plugged in, it was time to install the firmware. To do that,
 you use a program called "Synology Assistant" that installs on your
