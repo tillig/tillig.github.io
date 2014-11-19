@@ -7,7 +7,7 @@ disqus_identifier: 1661
 tags: []
 sharing: false
 ---
-![Travis Illig](headshot.jpg)**My name is
+![Travis Illig](https://lh6.googleusercontent.com/-GL0jLo6JxPg/VFhWjlgLHwI/AAAAAAAAJx0/f10TFALqGRQ/s640/Tenth%2520Doctor%2520Suit%2520-%2520Halloween%25202014%2520-%25201.jpg)**My name is
 Travis Illig.** I'm a .NET developer lead for [Fiserv
 Corporation](http://www.fiserv.com) working on next-generation online
 banking web applications. You can see more of my online presence at
@@ -40,7 +40,7 @@ projects:
     (owner)
 
 I also like [playing games](http://live.xbox.com/member/Paraesthesia), working on [my media
-center](/archive/2008/09/30/overview-of-my-media-center-solution.aspx), and collecting [movies](http://www.invelos.com/dvdcollection.aspx/tillig) and [music](http://connect.collectorz.com/users/tillig/music/view).
+center](/archive/2014/11/18/media-server-overview-2014/), and collecting [movies](http://www.invelos.com/dvdcollection.aspx/tillig) and [music](http://connect.collectorz.com/users/tillig/music/view).
 
 I am open to hearing about new opportunities, but only:
 
