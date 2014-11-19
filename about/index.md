@@ -4,10 +4,12 @@ title: "About Me"
 date: 2010-08-17 -0800
 comments: false
 disqus_identifier: 1661
-tags: []
+tags: [personal]
 sharing: false
 ---
-![Travis Illig](https://lh6.googleusercontent.com/-GL0jLo6JxPg/VFhWjlgLHwI/AAAAAAAAJx0/f10TFALqGRQ/s640/Tenth%2520Doctor%2520Suit%2520-%2520Halloween%25202014%2520-%25201.jpg)**My name is
+<img src="https://lh6.googleusercontent.com/-GL0jLo6JxPg/VFhWjlgLHwI/AAAAAAAAJx0/f10TFALqGRQ/s640/Tenth%2520Doctor%2520Suit%2520-%2520Halloween%25202014%2520-%25201.jpg" alt="Travis Illig" style="-webkit-box-shadow: 8px 8px 5px 0px rgba(0,0,0,0.75);-moz-box-shadow: 8px 8px 5px 0px rgba(0,0,0,0.75);box-shadow: 8px 8px 5px 0px rgba(0,0,0,0.75);" />
+
+**My name is
 Travis Illig.** I'm a .NET developer lead for [Fiserv
 Corporation](http://www.fiserv.com) working on next-generation online
 banking web applications. You can see more of my online presence at
