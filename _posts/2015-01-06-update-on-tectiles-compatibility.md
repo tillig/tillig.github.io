@@ -5,7 +5,7 @@ date: 2015-01-06 -0800
 comments: true
 tags: [android]
 ---
-[A couple of years back I bought some Samsung TecTiles]({% post_url 2012-07-17-quick-overview-of-samsung-tectiles.aspx %}) for use with my Galaxy S3. I created a tag that would easily switch my phone to vibrate mode at work - get to work, scan it, magic.
+[A couple of years back I bought some Samsung TecTiles](/archive/2012/07/17/quick-overview-of-samsung-tectiles.aspx) for use with my Galaxy S3. I created a tag that would easily switch my phone to vibrate mode at work - get to work, scan it, magic.
 
 Within the last couple of weeks I upgraded to a Galaxy Note 4 and when I tried to use the Note 4 on my TecTile I got a message saying the tag type wasn't supported.
 
