@@ -4,7 +4,7 @@ title: "Quick Overview of Samsung TecTiles"
 date: 2012-07-17 -0800
 comments: true
 disqus_identifier: 1785
-tags: [GeekSpeak]
+tags: [android]
 ---
 I recently upgraded my phone to a [Samsung Galaxy
 SIII](http://www.samsung.com/GalaxySIII). So far, seriously, this thing
@@ -30,8 +30,8 @@ still on the backing paper:
 ![Samsung TecTile NFC
 sticker](https://hyqi8g.bl3302.livefilestore.com/y2p361EL7qRKe8J5xWwKhm-RDblFFGYzHftIgZ-YRqF7Zg-3TXtM3ZBFilRYQUP5CsXK2pv_LTQzPyjUPJ9JlbkrG6j55et70mWBQ5ok0Vu0Jg/20120717_TecTile.jpg?psid=1)
 
-They run roughly \$3 each - [you get them in a pack of 5 for about
-\$15](http://www.amazon.com/dp/B0089VO7RY?tag=mhsvortex), though
+They run roughly $3 each - [you get them in a pack of 5 for about
+$15](http://www.amazon.com/dp/B0089VO7RY?tag=mhsvortex), though
 sometimes you can find them a little cheaper.
 
 To program them, you first open the TecTiles app.
