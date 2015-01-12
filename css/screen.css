@@ -502,7 +502,7 @@ footer {
 ::selection,
 ::-moz-selection,
 ::-webkit-selection { background-color: #4466c5;color:#2d3339 }
-h2 { color: #555 }
+h2, h3 { color: #555 }
 #header { height: auto;border-bottom:none }
 #header .subtitle { color: #999;font-style:italic }
 #header #sub-nav { float: none;position:relative }
