@@ -4,7 +4,7 @@ title: "Unit Testing an ASP.NET VirtualPathProvider"
 date: 2010-06-17 -0800
 comments: true
 disqus_identifier: 1651
-tags: [.NET,Web Development]
+tags: [net,Web Development]
 ---
 [The VirtualPathProvider
 class](http://msdn.microsoft.com/en-us/library/system.web.hosting.virtualpathprovider.aspx)

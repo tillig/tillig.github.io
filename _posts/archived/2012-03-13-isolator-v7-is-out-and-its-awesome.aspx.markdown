@@ -4,7 +4,7 @@ title: "Isolator v7 is Out, and It's Awesome"
 date: 2012-03-13 -0800
 comments: true
 disqus_identifier: 1773
-tags: [.NET]
+tags: [net]
 ---
 [Typemock has released Isolator
 v7](http://www.plimus.com/jsp/redirect.jsp?contractId=1655929&referrer=tillig),

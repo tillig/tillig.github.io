@@ -4,7 +4,7 @@ title: "Creating Resource-Only Assemblies"
 date: 2008-08-11 -0800
 comments: true
 disqus_identifier: 1428
-tags: [Code Snippets,.NET]
+tags: [Code Snippets,net]
 ---
 Working on some localization stuff, I've come across the need for
 resource assemblies to be created from [.resx

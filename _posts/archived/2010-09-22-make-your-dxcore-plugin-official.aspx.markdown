@@ -4,7 +4,7 @@ title: "Make Your DXCore Plugin Official with a ProductModule"
 date: 2010-09-22 -0800
 comments: true
 disqus_identifier: 1667
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 **As of 2012.1.4, the DXCore "About" box no longer displays
 ProductModule contents. If you're working with that version or later,

@@ -4,7 +4,7 @@ title: "Moving From CruiseControl.NET to TeamCity"
 date: 2009-01-20 -0800
 comments: true
 disqus_identifier: 1489
-tags: [GeekSpeak,Code Snippets,.NET]
+tags: [GeekSpeak,Code Snippets,net]
 ---
 I admit to loving me some good ol'
 [CruiseControl.NET](http://confluence.public.thoughtworks.org/display/CCNET/Welcome+to+CruiseControl.NET)

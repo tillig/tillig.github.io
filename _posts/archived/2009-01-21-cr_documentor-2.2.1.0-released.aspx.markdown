@@ -4,7 +4,7 @@ title: "CR_Documentor 2.2.1.0 Released"
 date: 2009-01-21 -0800
 comments: true
 disqus_identifier: 1490
-tags: [Release Notices,.NET,Visual Studio]
+tags: [Release Notices,net,vs]
 ---
 [CR\_Documentor](http://code.google.com/p/cr-documentor/) 2.2.1.0 is a
 bug fix release that fixes a UI hang that would occasionally happen on

@@ -4,7 +4,7 @@ title: "Lutz Roeder Hands Off Reflector to Red Gate"
 date: 2008-08-20 -0800
 comments: true
 disqus_identifier: 1433
-tags: [.NET]
+tags: [net]
 ---
 Looks like Lutz is [looking to do soemthing
 different](http://blog.lutzroeder.com/2008/08/future-of-net-reflector.html).

@@ -4,7 +4,7 @@ title: "TypeMock, NUnit and NCover Together in MSBuild"
 date: 2008-02-07 -0800
 comments: true
 disqus_identifier: 1345
-tags: [Code Snippets,.NET]
+tags: [Code Snippets,net]
 ---
 Getting [TypeMock](http://www.typemock.com),
 [NUnit](http://www.nunit.org/), and [NCover](http://ncover.org/) to work

@@ -4,7 +4,7 @@ title: "Data Type Validation and Model Binding in ASP.NET MVC"
 date: 2012-01-31 -0800
 comments: true
 disqus_identifier: 1765
-tags: [.NET,Code Snippets,Web Development]
+tags: [net,Code Snippets,Web Development]
 ---
 When validating input in a web forms application, you need to [validate
 data types on the client and server

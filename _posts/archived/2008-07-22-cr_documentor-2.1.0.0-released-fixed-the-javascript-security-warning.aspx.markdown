@@ -4,7 +4,7 @@ title: "CR_Documentor 2.1.0.0 Released: Fixed the JavaScript Security Warning"
 date: 2008-07-22 -0800
 comments: true
 disqus_identifier: 1422
-tags: [Release Notices,.NET,Visual Studio]
+tags: [Release Notices,net,vs]
 ---
 I just posted the new version of CR\_Documentor, version 2.1.0.0, [over
 at Google Code](http://code.google.com/p/cr-documentor/). This new one

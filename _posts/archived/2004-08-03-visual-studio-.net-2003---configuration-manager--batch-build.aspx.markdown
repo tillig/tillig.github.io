@@ -4,7 +4,7 @@ title: "Visual Studio .NET 2003 - Configuration Manager / Batch Build... Read On
 date: 2004-08-03 -0800
 comments: true
 disqus_identifier: 635
-tags: [Visual Studio]
+tags: [vs]
 ---
 I had this weird problem for like two days in Visual Studio .NET 2003. I
 would be working on a project and go to the Configuration Manager screen

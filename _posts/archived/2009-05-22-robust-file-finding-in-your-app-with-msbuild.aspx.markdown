@@ -4,7 +4,7 @@ title: "Robust File Finding in Your App with MSBuild"
 date: 2009-05-22 -0800
 comments: true
 disqus_identifier: 1531
-tags: [Code Snippets,.NET]
+tags: [Code Snippets,net]
 ---
 I'm working on an application where we wanted to be able to provide some
 config or command line parameters that would specify a particular set of

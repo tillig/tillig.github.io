@@ -4,7 +4,7 @@ title: "Windows Apps, Part 1"
 date: 2003-06-23 -0800
 comments: true
 disqus_identifier: 277
-tags: [General Ramblings,.NET,GeekSpeak]
+tags: [General Ramblings,net,GeekSpeak]
 ---
 I've found that I have some limited web access from the class, so I'm
 going to post this first day's worth of info because, frankly, it's just

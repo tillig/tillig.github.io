@@ -4,7 +4,7 @@ title: "How to Add a VSIX Installer to a DXCore Plugin"
 date: 2012-02-01 -0800
 comments: true
 disqus_identifier: 1766
-tags: [.NET,Visual Studio,GeekSpeak,Code Snippets]
+tags: [net,vs,GeekSpeak,Code Snippets]
 ---
 [As of CodeRush/Refactor/DXCore
 11.2](http://www.skorkin.com/2011/10/deploying-dxcore-coderush-or-community-plug-ins-using-a-vsix-extension/),

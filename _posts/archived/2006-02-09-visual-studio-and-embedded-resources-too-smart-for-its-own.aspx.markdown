@@ -4,7 +4,7 @@ title: "Visual Studio and Embedded Resources: Too Smart For It's Own Good?"
 date: 2006-02-09 -0800
 comments: true
 disqus_identifier: 951
-tags: [Visual Studio]
+tags: [vs]
 ---
 I'm working on some funky embedded resource stuff where I'm embedding
 all nature of files into an assembly so I can extract and use them on

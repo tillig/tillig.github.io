@@ -4,7 +4,7 @@ title: "Install/Uninstall of INF Using Chocolatey"
 date: 2014-05-07 -0800
 comments: true
 disqus_identifier: 1841
-tags: [.NET,Code Snippets]
+tags: [net,Code Snippets]
 ---
 I’m messing around with [Boxstarter](http://boxstarter.org/) and
 [Chocolatey](http://chocolatey.org/) and one of the things I wanted to

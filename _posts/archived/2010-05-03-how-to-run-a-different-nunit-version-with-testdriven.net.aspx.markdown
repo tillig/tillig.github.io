@@ -4,7 +4,7 @@ title: "How to Run a Different NUnit Version with TestDriven.NET"
 date: 2010-05-03 -0800
 comments: true
 disqus_identifier: 1634
-tags: [.NET]
+tags: [net]
 ---
 Here's the setup:
 

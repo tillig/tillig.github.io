@@ -4,7 +4,7 @@ title: "Quick Start for Mocking with Typemock Isolator"
 date: 2008-04-16 -0800
 comments: true
 disqus_identifier: 1375
-tags: [.NET]
+tags: [net]
 ---
 Introduction
 ============

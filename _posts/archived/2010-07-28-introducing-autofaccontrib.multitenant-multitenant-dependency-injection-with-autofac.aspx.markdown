@@ -4,7 +4,7 @@ title: "Introducing AutofacContrib.Multitenant - Multitenant Dependency Injectio
 date: 2010-07-28 -0800
 comments: true
 disqus_identifier: 1655
-tags: [GeekSpeak,.NET]
+tags: [GeekSpeak,net]
 ---
 It's taken some time and a couple of
 [long](http://groups.google.com/group/autofac/browse_thread/thread/c21616ef0a029ddb)

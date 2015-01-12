@@ -4,7 +4,7 @@ title: "Two Minute WF: Core Services"
 date: 2008-05-16 -0800
 comments: true
 disqus_identifier: 1389
-tags: [.NET]
+tags: [net]
 ---
 In this [Two Minute WF](/archive/2008/03/20/two-minute-wf.aspx), we'll
 talk about Core Services.

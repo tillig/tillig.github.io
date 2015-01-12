@@ -4,7 +4,7 @@ title: "The Importance of TypeId in ASP.NET MVC DataAnnotations Validation Attri
 date: 2010-03-02 -0800
 comments: true
 disqus_identifier: 1622
-tags: [.NET,Web Development]
+tags: [net,Web Development]
 ---
 Messing around with ASP.NET MVC 2.0 (in VS2010 RC1), specifically the
 validation done with DataAnnotations, and created a simple no-op custom

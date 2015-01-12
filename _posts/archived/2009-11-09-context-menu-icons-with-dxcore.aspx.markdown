@@ -4,7 +4,7 @@ title: "Context Menu Icons with DXCore"
 date: 2009-11-09 -0800
 comments: true
 disqus_identifier: 1587
-tags: [Code Snippets,.NET,Visual Studio]
+tags: [Code Snippets,net,vs]
 ---
 A long time ago [I posted a little sample showing how to get context
 menus working with your DXCore

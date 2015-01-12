@@ -4,7 +4,7 @@ title: "Portable Class Library Answers"
 date: 2013-03-29 -0800
 comments: true
 disqus_identifier: 1815
-tags: [.NET]
+tags: [net]
 ---
 Since we switched [Autofac](https://autofac.googlecode.com) to be a
 [Portable Class

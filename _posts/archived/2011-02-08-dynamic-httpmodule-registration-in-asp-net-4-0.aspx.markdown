@@ -4,7 +4,7 @@ title: "Dynamic HttpModule Registration in ASP.NET 4.0"
 date: 2011-02-08 -0800
 comments: true
 disqus_identifier: 1698
-tags: [.NET,Web Development]
+tags: [net,Web Development]
 ---
 I came across this trick while perusing the
 [Autofac](http://autofac.googlecode.com) code base with the new MVC3

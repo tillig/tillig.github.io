@@ -4,7 +4,7 @@ title: "Recursively Copying Indirect Project Dependencies in MSBuild"
 date: 2014-05-09 -0800
 comments: true
 disqus_identifier: 1842
-tags: [.NET,Code Snippets]
+tags: [net,Code Snippets]
 ---
 I’ve run across a similar situation to many folks I’ve seen online,
 where I have a solution with a pretty modular application and when I

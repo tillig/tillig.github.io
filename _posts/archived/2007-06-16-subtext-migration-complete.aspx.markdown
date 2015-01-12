@@ -4,7 +4,7 @@ title: "Subtext Migration Complete!"
 date: 2007-06-16 -0800
 comments: true
 disqus_identifier: 1215
-tags: [GeekSpeak,Web Development,Subtext,.NET]
+tags: [GeekSpeak,Web Development,Subtext,net]
 ---
 [![Subtext](https://hyqi8g.bl3301.livefilestore.com/y2pojvSSVNaltHHU3oWOT_SXuYfAqVg9xkGF4YNQOVG0GN276eBA96RwuMcsLLep6m6EPIeCK01cYiYoyI9YXiUbQPPspupv0Q7w97Bm8uM_O0/20070616subtextwo1.png?psid=1)](http://www.subtextproject.com)I
 just finished converting over to Subtext, and, all things considered, it

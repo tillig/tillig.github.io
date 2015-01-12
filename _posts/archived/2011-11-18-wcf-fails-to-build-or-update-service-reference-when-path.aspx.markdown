@@ -4,7 +4,7 @@ title: "WCF Fails to Build or Update Service Reference When Path Too Long"
 date: 2011-11-18 -0800
 comments: true
 disqus_identifier: 1752
-tags: [.NET,Visual Studio,GeekSpeak]
+tags: [net,vs,GeekSpeak]
 ---
 I was working yesterday on a solution in Visual Studio and noticed that
 **every time I'd rebuild VS would report the build as failed... but

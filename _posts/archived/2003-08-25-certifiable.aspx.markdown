@@ -4,7 +4,7 @@ title: "Certifiable!"
 date: 2003-08-25 -0800
 comments: true
 disqus_identifier: 332
-tags: [GeekSpeak,.NET]
+tags: [GeekSpeak,net]
 ---
 I took my latest test - *MS070-320 Developing XML Web Services and
 Server Components with Microsoft Visual C\# .NET and the Microsoft .NET

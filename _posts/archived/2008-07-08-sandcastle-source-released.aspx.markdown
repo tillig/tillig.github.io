@@ -4,7 +4,7 @@ title: "Sandcastle Source Released"
 date: 2008-07-08 -0800
 comments: true
 disqus_identifier: 1412
-tags: [.NET]
+tags: [net]
 ---
 Sandcastle, the documentation generator for XML doc comments in .NET,
 has [released its source code on

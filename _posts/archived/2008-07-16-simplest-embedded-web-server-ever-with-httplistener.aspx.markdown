@@ -4,7 +4,7 @@ title: "Simplest Embedded Web Server Ever with HttpListener"
 date: 2008-07-16 -0800
 comments: true
 disqus_identifier: 1418
-tags: [Code Snippets,Web Development,.NET]
+tags: [Code Snippets,Web Development,net]
 ---
 While working on solving [a CR\_Documentor known
 issue](/archive/2008/07/14/cr_documentor-known-issue-javascript-security-warning.aspx),

@@ -4,7 +4,7 @@ title: "Two Minute WF"
 date: 2008-03-20 -0800
 comments: true
 disqus_identifier: 1361
-tags: [.NET]
+tags: [net]
 ---
 I've been working a lot with Windows Workflow Foundation (WF) lately,
 getting it to integrate with ASP.NET, and I found that while

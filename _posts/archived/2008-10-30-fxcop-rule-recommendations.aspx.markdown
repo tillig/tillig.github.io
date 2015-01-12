@@ -4,7 +4,7 @@ title: "FxCop Rule Recommendations"
 date: 2008-10-30 -0800
 comments: true
 disqus_identifier: 1460
-tags: [.NET]
+tags: [net]
 ---
 I love FxCop and static analysis tools in general. Anything that can
 help me write better, more standard and usable code that follows best

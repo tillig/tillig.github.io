@@ -4,7 +4,7 @@ title: "Fusion Log Viewer Settings Changer"
 date: 2004-10-20 -0800
 comments: true
 disqus_identifier: 681
-tags: [Software / Downloads,Release Notices,.NET]
+tags: [Software / Downloads,Release Notices,net]
 ---
 The Fusion Log Viewer (in pre-.NET-2.0) is a great tool but is a pain to
 work with if you're working with ASP.NET apps. The built-in ASP.NET log

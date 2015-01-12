@@ -4,7 +4,7 @@ title: "TypeMock Isolator - Now With Debugging Goodness"
 date: 2008-02-06 -0800
 comments: true
 disqus_identifier: 1344
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 I'm playing with the latest release of TypeMock (now "TypeMock
 Isolator," as it sounds like they have a suite of products planned

@@ -4,7 +4,7 @@ title: "Paraesthesia.Tools.NAntTasks - Custom NAnt Tasks"
 date: 2007-01-29 -0800
 comments: true
 disqus_identifier: 1139
-tags: [Software / Downloads,Release Notices,.NET]
+tags: [Software / Downloads,Release Notices,net]
 ---
 I use NAnt to do my automated builds both at home and at work. As such,
 I decided to start keeping a little library of custom NAnt tasks that

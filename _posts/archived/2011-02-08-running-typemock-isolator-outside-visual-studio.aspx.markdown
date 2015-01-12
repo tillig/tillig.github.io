@@ -4,7 +4,7 @@ title: "Running Typemock Isolator Outside Visual Studio"
 date: 2011-02-08 -0800
 comments: true
 disqus_identifier: 1697
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 I've blogged before about [getting Typemock, NUnit, and NCover all
 working together in

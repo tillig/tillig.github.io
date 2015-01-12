@@ -4,7 +4,7 @@ title: "CR_JoinLines - Join Lines in Visual Studio Code Editor via DXCore"
 date: 2005-08-30 -0800
 comments: true
 disqus_identifier: 878
-tags: [Software / Downloads,Release Notices,.NET,Visual Studio]
+tags: [Software / Downloads,Release Notices,net,vs]
 ---
 **UPDATE: CR\_JoinLines has found a new home with the**[**DXCore
 Community Plugins

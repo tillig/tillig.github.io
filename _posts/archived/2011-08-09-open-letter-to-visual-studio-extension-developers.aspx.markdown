@@ -4,7 +4,7 @@ title: "Open Letter to Visual Studio Extension Developers"
 date: 2011-08-09 -0800
 comments: true
 disqus_identifier: 1729
-tags: [Visual Studio,GeekSpeak]
+tags: [vs,GeekSpeak]
 ---
 Dear Visual Studio Extension Developers:
 

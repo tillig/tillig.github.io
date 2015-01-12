@@ -4,7 +4,7 @@ title: "Adding Top Level Menu Integration to a DXCore Plugin"
 date: 2011-10-06 -0800
 comments: true
 disqus_identifier: 1739
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 Most of the DXCore/CodeRush plugins I write are Tool Window plugins like
 [CR\_Documentor](http://cr-documentor.googlecode.com) or are plugins

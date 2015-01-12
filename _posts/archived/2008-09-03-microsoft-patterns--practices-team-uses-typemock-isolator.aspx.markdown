@@ -4,7 +4,7 @@ title: "Microsoft Patterns & Practices Team Uses Typemock Isolator"
 date: 2008-09-03 -0800
 comments: true
 disqus_identifier: 1441
-tags: [.NET]
+tags: [net]
 ---
 [The Typemock Insider blog
 mentions](http://blog.typemock.com/2008/09/unit-testing-sharepoint-using-isolator.html)

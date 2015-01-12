@@ -4,7 +4,7 @@ title: "Web Setup Fails When Used With Loopback Adapter"
 date: 2004-09-29 -0800
 comments: true
 disqus_identifier: 667
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 [I sent this to Scott
 Hanselman](http://www.hanselman.com/blog/PermaLink.aspx?guid=c45d4e3c-4883-4686-bf95-793b1863ff8c)

@@ -4,7 +4,7 @@ title: "Mock a Page Request Lifecycle with TypeMock"
 date: 2007-08-02 -0800
 comments: true
 disqus_identifier: 1246
-tags: [GeekSpeak,Code Snippets,Web Development,.NET]
+tags: [GeekSpeak,Code Snippets,Web Development,net]
 ---
 Let's say you're writing a service like an
 [HttpModule](http://msdn2.microsoft.com/en-us/library/system.web.ihttpmodule.aspx) that

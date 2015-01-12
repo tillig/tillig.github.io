@@ -4,7 +4,7 @@ title: "Remote Debugging in Windows XP SP2"
 date: 2004-03-26 -0800
 comments: true
 disqus_identifier: 550
-tags: [Visual Studio]
+tags: [vs]
 ---
 I love that Microsoft has gone on a security kick and is starting to
 lock things down, but let me offer a thought: The reason most desktop

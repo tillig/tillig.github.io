@@ -4,7 +4,7 @@ title: "Using Composite Web Application Block Without Web Client Software Factor
 date: 2008-04-29 -0800
 comments: true
 disqus_identifier: 1384
-tags: [Web Development,.NET]
+tags: [Web Development,net]
 ---
 The [Web Client Software Factory](http://www.codeplex.com/websf) is a
 great software factory from Microsoft Patterns & Practices that enables

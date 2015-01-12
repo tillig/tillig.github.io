@@ -4,7 +4,7 @@ title: "ASP.NET, Part 3"
 date: 2003-08-20 -0800
 comments: true
 disqus_identifier: 329
-tags: [GeekSpeak,Web Development,.NET]
+tags: [GeekSpeak,Web Development,net]
 ---
 *8:00a*
  

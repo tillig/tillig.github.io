@@ -4,7 +4,7 @@ title: "Using CodeRush Duplicate Code Detection in a Real Project"
 date: 2012-04-11 -0800
 comments: true
 disqus_identifier: 1778
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 I'm working on a fairly major refactoring project, merging a couple of
 fairly large libraries together that have some overlapping/similar

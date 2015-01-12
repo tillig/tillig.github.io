@@ -4,7 +4,7 @@ title: "Using ASP.NET MVC 5 IAuthenticationFilter for Authentication Challenges"
 date: 2013-09-27 -0800
 comments: true
 disqus_identifier: 1826
-tags: [.NET,Code Snippets,Web Development]
+tags: [net,Code Snippets,Web Development]
 ---
 One of the new ASP.NET MVC 5 features, authentication filters, has
 dreadfully little documentation. There’s [a Visual Studio Magazine

@@ -4,7 +4,7 @@ title: "Template for Quick TypeMock Testing"
 date: 2008-02-21 -0800
 comments: true
 disqus_identifier: 1353
-tags: [Software / Downloads,.NET]
+tags: [Software / Downloads,net]
 ---
 I use [Snippet Compiler](http://www.sliver.com/dotnet/SnippetCompiler/)
 quite a bit for quick one-off testing to see if something will work.

@@ -4,7 +4,7 @@ title: "Reduce Build Overhead with Better Code Organization"
 date: 2010-01-19 -0800
 comments: true
 disqus_identifier: 1608
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 In a really large system the build can take a long time. A really long
 time. Long enough to make continuous integration sort of meaningless.

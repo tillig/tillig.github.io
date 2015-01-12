@@ -4,7 +4,7 @@ title: "Two Minute WF: WorkflowRuntime"
 date: 2008-04-02 -0800
 comments: true
 disqus_identifier: 1368
-tags: [.NET]
+tags: [net]
 ---
 In this [Two Minute WF](/archive/2008/03/20/two-minute-wf.aspx), we'll
 talk about the **WorkflowRuntime**.

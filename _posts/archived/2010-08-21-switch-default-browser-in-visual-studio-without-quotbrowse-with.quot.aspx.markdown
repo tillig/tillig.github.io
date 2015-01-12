@@ -4,7 +4,7 @@ title: "Switch Default Browser in Visual Studio without &quot;Browse With...&quo
 date: 2010-08-21 -0800
 comments: true
 disqus_identifier: 1662
-tags: [Web Development,Visual Studio]
+tags: [Web Development,vs]
 ---
 Visual Studio has [a nasty habit of forgetting your default browser
 settings at seemingly arbitrary

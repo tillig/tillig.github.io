@@ -4,7 +4,7 @@ title: "When StaticFileHandler is not StaticFileHandler"
 date: 2011-05-02 -0800
 comments: true
 disqus_identifier: 1712
-tags: [.NET,Web Development]
+tags: [net,Web Development]
 ---
 I could also have called this "wildcard .NET mapping in IIS Express from
 web.config."

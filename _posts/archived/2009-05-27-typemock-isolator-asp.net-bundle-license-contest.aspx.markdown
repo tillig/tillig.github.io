@@ -4,7 +4,7 @@ title: "Typemock Isolator ASP.NET Bundle License Contest"
 date: 2009-05-27 -0800
 comments: true
 disqus_identifier: 1532
-tags: [.NET]
+tags: [net]
 ---
 OK, so not really a contest so much as a very short "first come, first
 serve." [Typemock launched their ASP.NET

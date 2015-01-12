@@ -4,7 +4,7 @@ title: "CR_SortLines - Sort Lines in Visual Studio Code Editor via DXCore"
 date: 2005-09-06 -0800
 comments: true
 disqus_identifier: 883
-tags: [Software / Downloads,Release Notices,.NET,Visual Studio]
+tags: [Software / Downloads,Release Notices,net,vs]
 ---
 **UPDATE: CR\_SortLines has found a new home with the [DXCore Community
 Plugins project](http://code.google.com/p/dxcorecommunityplugins/). Head

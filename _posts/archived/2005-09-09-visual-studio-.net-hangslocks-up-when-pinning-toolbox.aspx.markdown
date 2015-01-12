@@ -4,7 +4,7 @@ title: "Visual Studio .NET Hangs/Locks Up When Pinning Toolbox"
 date: 2005-09-09 -0800
 comments: true
 disqus_identifier: 885
-tags: [Visual Studio]
+tags: [vs]
 ---
 For, well, quite a long time, I've noticed that Visual Studio .NET 2003
 locks up hard when I try to pin/unpin the toolbox window. I chalked it

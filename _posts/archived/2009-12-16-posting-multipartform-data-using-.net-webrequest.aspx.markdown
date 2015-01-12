@@ -4,7 +4,7 @@ title: "Posting multipart/form-data Using .NET WebRequest"
 date: 2009-12-16 -0800
 comments: true
 disqus_identifier: 1598
-tags: [.NET,Code Snippets]
+tags: [net,Code Snippets]
 ---
 While making my [ImageShack plugin for Windows Live
 Writer](/archive/2009/12/15/imageshackwriterplugin-upload-to-imageshack-from-windows-live-writer.aspx)

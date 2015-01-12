@@ -4,7 +4,7 @@ title: "Updating Package References in Selected Projects With Package Manager Co
 date: 2014-06-16 -0800
 comments: true
 disqus_identifier: 1843
-tags: [.NET,Visual Studio]
+tags: [net,vs,autofac]
 ---
 In [the Autofac project](http://autofac.org) we’ve maintain all of the
 various packages and integrations in one assembly. In order to make sure

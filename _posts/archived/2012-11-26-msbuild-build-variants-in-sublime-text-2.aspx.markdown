@@ -4,7 +4,7 @@ title: "MSBuild Build Variants in Sublime Text 2"
 date: 2012-11-26 -0800
 comments: true
 disqus_identifier: 1795
-tags: [.NET,Code Snippets]
+tags: [net,Code Snippets]
 ---
 Sublime Text 2 has a nice feature where you can hit "Ctrl+B" or select
 "Tools -\> Build" from the menus and, based on the current file type, a

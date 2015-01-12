@@ -4,7 +4,7 @@ title: "How to Consume MSDeploy Staged Web Site Output in a Wix Installer"
 date: 2010-07-30 -0800
 comments: true
 disqus_identifier: 1657
-tags: [.NET,Web Development]
+tags: [net,Web Development]
 ---
 MSDeploy is a pretty cool installer technology, but it's not what
 everyone uses, and my personal experience so far is it's not flexible

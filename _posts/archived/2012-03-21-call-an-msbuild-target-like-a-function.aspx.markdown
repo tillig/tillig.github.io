@@ -4,7 +4,7 @@ title: "Call an MSBuild Target Like a Function"
 date: 2012-03-21 -0800
 comments: true
 disqus_identifier: 1776
-tags: [.NET,Code Snippets]
+tags: [net,Code Snippets]
 ---
 I'm working on building a bunch of projects that all follow a specific
 convention for naming, NuGet packaging, and so on. As part of that, I

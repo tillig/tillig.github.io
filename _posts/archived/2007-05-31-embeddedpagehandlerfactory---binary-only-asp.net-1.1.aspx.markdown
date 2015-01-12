@@ -4,7 +4,7 @@ title: "EmbeddedPageHandlerFactory - Binary-Only ASP.NET 1.1"
 date: 2007-05-31 -0800
 comments: true
 disqus_identifier: 1209
-tags: [Software / Downloads,Web Development,Release Notices,.NET]
+tags: [Software / Downloads,Web Development,Release Notices,net]
 ---
 I'm constantly looking for ways to make deployment of ASP.NET
 applications easier. One of the things that makes it difficult is the

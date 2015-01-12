@@ -4,7 +4,7 @@ title: "Enterprise Application Development Books"
 date: 2010-03-15 -0800
 comments: true
 disqus_identifier: 1624
-tags: [.NET,GeekSpeak]
+tags: [net,GeekSpeak]
 ---
 Around the middle of last year [I reviewed *ASP.NET 3.5 Enterprise
 Application Development with Visual Studio

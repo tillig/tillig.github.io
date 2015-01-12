@@ -4,7 +4,7 @@ title: "Where Are The .NET Installer Improvements?"
 date: 2007-09-17 -0800
 comments: true
 disqus_identifier: 1268
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 As new releases of .NET and Visual Studio come out, I find there's
 something really missing from them.

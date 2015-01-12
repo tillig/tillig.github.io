@@ -4,7 +4,7 @@ title: "Skipping N-Level Deep Generic Constructors with Typemock Isolator"
 date: 2009-06-03 -0800
 comments: true
 disqus_identifier: 1535
-tags: [.NET]
+tags: [net]
 ---
 [Typemock Isolator 5.3.1 was released
 today](http://blog.typemock.com/2009/06/typemock-isolator-531-is-out.html),

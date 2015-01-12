@@ -4,7 +4,7 @@ title: "Working At Work"
 date: 2004-01-12 -0800
 comments: true
 disqus_identifier: 445
-tags: [Media,.NET]
+tags: [Media,net]
 ---
 Today's my first day back at work (that is, actually at the office)
 since the winter storm fiasco last week and let me tell you how nice

@@ -4,7 +4,7 @@ title: "Typemock Isolator, NCover, and the #20000 Error"
 date: 2010-05-03 -0800
 comments: true
 disqus_identifier: 1635
-tags: [.NET]
+tags: [net]
 ---
 If you are running [Typemock Isolator](http://www.typemock.com) along
 with another profiler like [NCover](http://www.ncover.com) and a crash

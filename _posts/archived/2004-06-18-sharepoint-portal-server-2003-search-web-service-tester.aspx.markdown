@@ -4,7 +4,7 @@ title: "SharePoint Portal Server 2003 Search Web Service Tester"
 date: 2004-06-18 -0800
 comments: true
 disqus_identifier: 589
-tags: [Software / Downloads,Release Notices,.NET]
+tags: [Software / Downloads,Release Notices,net]
 ---
 If you work with SharePoint Portal Server 2003, you've probably messed
 around a bit with creating web parts or maybe automating some of the

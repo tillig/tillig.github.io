@@ -4,7 +4,7 @@ title: "Enable Typemock Isolator for a Non-Admin User"
 date: 2010-05-04 -0800
 comments: true
 disqus_identifier: 1636
-tags: [Software / Downloads,.NET]
+tags: [Software / Downloads,net]
 ---
 Generally speaking, it's good practice to [develop as a
 non-administrative

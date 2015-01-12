@@ -4,7 +4,7 @@ title: "How to Get a TFS 2012 Build Agent to Build With Visual Studio 2013 Tools
 date: 2014-02-05 -0800
 comments: true
 disqus_identifier: 1833
-tags: [.NET]
+tags: [net]
 ---
 Let me say up front, I’m no TFS guru. I’m sure there’s something simple
 I’m probably overlooking. I just feel like this was far more complicated

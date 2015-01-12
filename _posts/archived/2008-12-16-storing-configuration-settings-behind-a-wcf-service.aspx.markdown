@@ -4,7 +4,7 @@ title: "Storing Configuration Settings Behind a WCF Service"
 date: 2008-12-16 -0800
 comments: true
 disqus_identifier: 1479
-tags: [Web Development,.NET]
+tags: [Web Development,net]
 ---
 One of the challenges I'm facing in the project I'm working on is that
 we want to store configuration values for the system in a central

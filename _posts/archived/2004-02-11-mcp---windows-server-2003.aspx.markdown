@@ -4,7 +4,7 @@ title: "MCP - Windows Server 2003"
 date: 2004-02-11 -0800
 comments: true
 disqus_identifier: 505
-tags: [GeekSpeak,.NET]
+tags: [GeekSpeak,net]
 ---
 I took slightly less than a minute per question on my latest Microsoft
 certification test, *MS 070-290: Managing and Maintaining a Microsoft

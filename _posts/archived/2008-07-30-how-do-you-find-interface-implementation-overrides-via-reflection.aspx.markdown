@@ -4,7 +4,7 @@ title: "How Do You Find Interface Implementation Overrides Via Reflection?"
 date: 2008-07-30 -0800
 comments: true
 disqus_identifier: 1425
-tags: [Code Snippets,.NET]
+tags: [Code Snippets,net]
 ---
 I'm working on some custom
 [FxCop](http://msdn.microsoft.com/en-us/library/bb429476.aspx) rules and

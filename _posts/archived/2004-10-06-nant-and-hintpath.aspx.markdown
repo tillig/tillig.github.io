@@ -4,7 +4,7 @@ title: "NAnt and HintPath"
 date: 2004-10-06 -0800
 comments: true
 disqus_identifier: 671
-tags: [GeekSpeak,Visual Studio]
+tags: [GeekSpeak,vs]
 ---
 I'm working on a Visual Studio .NET add-in project where we need to be
 able to build the project both through the Visual Studio IDE and through

@@ -4,7 +4,7 @@ title: "DateTime Calculation and Unit Tests"
 date: 2013-09-24 -0800
 comments: true
 disqus_identifier: 1825
-tags: [.NET]
+tags: [net]
 ---
 I just had an interesting unit test failure I haven't seen before due to
 DateTime calculation.

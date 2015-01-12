@@ -4,7 +4,7 @@ title: "On Writing Good XML Documentation Comments"
 date: 2007-11-14 -0800
 comments: true
 disqus_identifier: 1303
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 ![XML doc comment
 screenshot](https://hyqi8g.dm1.livefilestore.com/y2pSzirCKiqfZ7igVyqiqQF8i7XWa-fisSddJHoJcOwv-FFdqbxYWVCDUr-X4-vxuOs3ERYFqPimcigMPuNcZqYjKFPG2Z8qvJYYBz0ylS7jls/20071114xmlcomment.png?psid=1)It

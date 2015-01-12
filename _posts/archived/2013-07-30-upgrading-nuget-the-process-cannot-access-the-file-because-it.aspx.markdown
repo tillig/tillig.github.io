@@ -4,7 +4,7 @@ title: "Upgrading NuGet - The process cannot access the file because it is being
 date: 2013-07-30 -0800
 comments: true
 disqus_identifier: 1822
-tags: [Visual Studio]
+tags: [vs]
 ---
 I tried to update to the latest version of NuGet in Visual Studio
 recently and failed. Miserably. The error I kept getting was:

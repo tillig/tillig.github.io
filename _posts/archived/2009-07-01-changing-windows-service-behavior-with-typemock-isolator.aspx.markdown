@@ -4,7 +4,7 @@ title: "Changing Windows Service Runtime Behavior with Typemock Isolator"
 date: 2009-07-01 -0800
 comments: true
 disqus_identifier: 1545
-tags: [.NET]
+tags: [net]
 ---
 Let's say you have a Windows service written in .NET that you got from a
 third party. It doesn't really matter what it does - maybe it monitors

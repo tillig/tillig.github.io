@@ -4,7 +4,7 @@ title: "Setting DependentUpon File Properties on NuGet Package Install"
 date: 2013-05-15 -0800
 comments: true
 disqus_identifier: 1818
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 In working on some NuGet packages, one thing I wanted to do was set up
 some configuration files in preparation for

@@ -4,7 +4,7 @@ title: "C# Whidbey Preview"
 date: 2004-01-22 -0800
 comments: true
 disqus_identifier: 472
-tags: [.NET]
+tags: [net]
 ---
 I'm usually not too excited about programming stuff, but [Visual C\#
 Whidbey is just plain

@@ -4,7 +4,7 @@ title: "LOLCODE on .NET DLR"
 date: 2007-11-09 -0800
 comments: true
 disqus_identifier: 1297
-tags: [.NET]
+tags: [net]
 ---
 And you thought there were no good uses of the DLR.  [John
 Lam](http://www.iunknown.com/) and [Martin

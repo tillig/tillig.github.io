@@ -4,7 +4,7 @@ title: "Generation of Designer File Failed: Unknown Server Tag"
 date: 2007-08-02 -0800
 comments: true
 disqus_identifier: 1245
-tags: [GeekSpeak,Web Development,.NET]
+tags: [GeekSpeak,Web Development,net]
 ---
 I was doing some experimentation with custom web server controls in
 ASP.NET 2.0 so I created a quick [Web Application

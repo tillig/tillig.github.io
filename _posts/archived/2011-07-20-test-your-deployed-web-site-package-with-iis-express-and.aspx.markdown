@@ -4,7 +4,7 @@ title: "Test Your Deployed Web Site Package with IIS Express and Visual Studio"
 date: 2011-07-20 -0800
 comments: true
 disqus_identifier: 1726
-tags: [.NET,Visual Studio,Web Development]
+tags: [net,vs,Web Development]
 ---
 With [the ability to transform your web.config file when deploying your
 web site](http://msdn.microsoft.com/en-us/library/dd465318.aspx) came,

@@ -4,7 +4,7 @@ title: "WiX 3.5.2519.0 Incorrect Intermediate Object path for External Files"
 date: 2011-02-07 -0800
 comments: true
 disqus_identifier: 1696
-tags: [.NET,GeekSpeak]
+tags: [net,GeekSpeak]
 ---
 I'm upgrading a project to the released version of WiX and found an
 issue that causes .wixobj files to be created in your source tree in

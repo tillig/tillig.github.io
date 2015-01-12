@@ -4,7 +4,7 @@ title: "How to Switch Your Active DXCore Version"
 date: 2010-03-02 -0800
 comments: true
 disqus_identifier: 1620
-tags: [Visual Studio]
+tags: [vs]
 ---
 You may have noticed that every time you install the DevExpress
 DXCore/CodeRush/Refactor! products they go into a different install

@@ -4,7 +4,7 @@ title: "Testing Lists with Typemock Isolator"
 date: 2008-09-04 -0800
 comments: true
 disqus_identifier: 1443
-tags: [Code Snippets,.NET]
+tags: [Code Snippets,net]
 ---
 I've seen this question a few times in the [Typemock
 forums](http://www.typemock.com/community/index.php) so I figured I'd

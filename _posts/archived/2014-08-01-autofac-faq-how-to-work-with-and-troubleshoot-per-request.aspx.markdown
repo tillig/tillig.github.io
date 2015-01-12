@@ -4,7 +4,7 @@ title: "Autofac FAQ: How to Work With and Troubleshoot Per-Request Lifetime Scop
 date: 2014-08-01 -0800
 comments: true
 disqus_identifier: 1847
-tags: [.NET]
+tags: [net]
 ---
 One of the most frequent StackOverflow questions we see for Autofac
 involves some confusion over how to deal with components in applications

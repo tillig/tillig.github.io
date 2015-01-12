@@ -4,7 +4,7 @@ title: "CR_CodeTweet on DevExpress Blog"
 date: 2010-02-08 -0800
 comments: true
 disqus_identifier: 1613
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 [My CR\_CodeTweet plugin](http://cr-codetweet.googlecode.com) for
 tweeting code from Visual Studio is [getting a little publicity on the

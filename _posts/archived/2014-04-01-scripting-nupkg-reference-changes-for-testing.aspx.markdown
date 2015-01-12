@@ -4,7 +4,7 @@ title: "Scripting NuPkg Reference Changes for Testing"
 date: 2014-04-01 -0800
 comments: true
 disqus_identifier: 1840
-tags: [.NET]
+tags: [net]
 ---
 I was testing out some changes to versioning in
 [Autofac](https://github.com/autofac/Autofac). We have [a MyGet

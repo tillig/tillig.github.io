@@ -4,7 +4,7 @@ title: "Two Minute WF: Workflow Types"
 date: 2008-03-20 -0800
 comments: true
 disqus_identifier: 1362
-tags: [.NET]
+tags: [net]
 ---
 In this [Two Minute WF](/archive/2008/03/20/two-minute-wf.aspx), I'll
 tell you about the types of workflows you can run in Windows Workflow

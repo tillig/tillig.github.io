@@ -4,7 +4,7 @@ title: "Updated Autofac Assembly Versioning Strategy - New Package Releases"
 date: 2014-03-27 -0800
 comments: true
 disqus_identifier: 1838
-tags: [.NET]
+tags: [net]
 ---
 Until now, Autofac assemblies have changed version using a slow-changing
 assembly version but a standard [semantic version](http://semver.org/)

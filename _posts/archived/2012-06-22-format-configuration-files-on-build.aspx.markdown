@@ -4,7 +4,7 @@ title: "Format Configuration Files on Build"
 date: 2012-06-22 -0800
 comments: true
 disqus_identifier: 1783
-tags: [.NET,Code Snippets]
+tags: [net,Code Snippets]
 ---
 We have a large group of devs all working on a single web application.
 As part of that, we have different folks all working in different

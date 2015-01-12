@@ -4,7 +4,7 @@ title: "CR_Documentor Known Issue: JavaScript Security Warning"
 date: 2008-07-14 -0800
 comments: true
 disqus_identifier: 1417
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 There's [a known issue with the latest
 CR\_Documentor](http://code.google.com/p/cr-documentor/wiki/KnownIssues)

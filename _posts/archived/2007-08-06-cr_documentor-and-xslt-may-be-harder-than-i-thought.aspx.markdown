@@ -4,7 +4,7 @@ title: "CR_Documentor and XSLT May Be Harder Than I Thought"
 date: 2007-08-06 -0800
 comments: true
 disqus_identifier: 1249
-tags: [GeekSpeak,.NET,Visual Studio]
+tags: [GeekSpeak,net,vs]
 ---
 I started working on converting
 [CR\_Documentor](http://paraesthesia.com/archive/2004/11/15/cr_documentor---the-documentor-plug-in-for-dxcore.aspx)

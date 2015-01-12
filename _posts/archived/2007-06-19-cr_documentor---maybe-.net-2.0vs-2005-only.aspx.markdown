@@ -4,7 +4,7 @@ title: "CR_Documentor - Maybe .NET 2.0/VS 2005 Only"
 date: 2007-06-19 -0800
 comments: true
 disqus_identifier: 1217
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 I've been really struggling with the motivation to get CR\_Documentor
 updated for Sandcastle support.  The problem is threefold:

@@ -4,7 +4,7 @@ title: "GuidGenConsole - Generate GUIDs at the Command Line"
 date: 2007-01-24 -0800
 comments: true
 disqus_identifier: 1134
-tags: [Software / Downloads,Release Notices,.NET]
+tags: [Software / Downloads,Release Notices,net]
 ---
 For those who haven't jumped neck deep in
 [PowerShell](http://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx),

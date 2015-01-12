@@ -4,7 +4,7 @@ title: "Reading WCF Configuration from a Custom Location"
 date: 2008-11-26 -0800
 comments: true
 disqus_identifier: 1469
-tags: [Web Development,.NET]
+tags: [Web Development,net]
 ---
 Came across an issue today where we want to be able to read WCF service
 and client configuration from a custom location. That's actually more

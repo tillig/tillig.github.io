@@ -4,7 +4,7 @@ title: "Designing for Testability with TypeMock"
 date: 2008-01-14 -0800
 comments: true
 disqus_identifier: 1336
-tags: [GeekSpeak,.NET]
+tags: [GeekSpeak,net]
 ---
 Design for testability vs. API as a deliverable (or
 test-what's-designed) is something [I've blogged about

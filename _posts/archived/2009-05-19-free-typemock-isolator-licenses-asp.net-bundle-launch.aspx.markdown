@@ -4,7 +4,7 @@ title: "Free Typemock Isolator Licenses - ASP.NET Bundle Launch"
 date: 2009-05-19 -0800
 comments: true
 disqus_identifier: 1527
-tags: [Web Development,.NET]
+tags: [Web Development,net]
 ---
 Typemock has released a new package for unit testing ASP.NET which
 includes their Isolator mocking product and an add-on called "Ivonna"

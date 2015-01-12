@@ -4,7 +4,7 @@ title: "Using Portable Class Libraries - Update .NET Framework"
 date: 2013-01-21 -0800
 comments: true
 disqus_identifier: 1804
-tags: [.NET]
+tags: [net]
 ---
 We switched [Autofac](https://autofac.googlecode.com) 3.0 to be a
 Portable Class Library so we can target multiple platforms. In consuming

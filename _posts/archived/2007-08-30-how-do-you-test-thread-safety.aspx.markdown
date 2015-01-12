@@ -4,7 +4,7 @@ title: "How Do You Test Thread Safety?"
 date: 2007-08-30 -0800
 comments: true
 disqus_identifier: 1260
-tags: [GeekSpeak,.NET]
+tags: [GeekSpeak,net]
 ---
 I'm all about testing.  I do my best to adhere to test-driven
 development (though, admittedly, sometimes that's hard when you're doing

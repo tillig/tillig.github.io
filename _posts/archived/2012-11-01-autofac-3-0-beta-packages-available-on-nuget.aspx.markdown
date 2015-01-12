@@ -4,7 +4,7 @@ title: "Autofac 3.0 Beta Packages Available on NuGet"
 date: 2012-11-01 -0800
 comments: true
 disqus_identifier: 1793
-tags: [.NET,GeekSpeak,Release Notices]
+tags: [net,GeekSpeak,Release Notices]
 ---
 We're super close to having a final release of Autofac 3.0 with support
 for Windows Store apps and Windows Phone 8. **Beta packages are

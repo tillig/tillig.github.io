@@ -4,7 +4,7 @@ title: "What I'd Like to See in WiX Documentation"
 date: 2010-08-05 -0800
 comments: true
 disqus_identifier: 1659
-tags: [.NET]
+tags: [net]
 ---
 I've been ~~working~~ struggling with WiX for the last few days and I
 feel like it's mostly for two reasons:

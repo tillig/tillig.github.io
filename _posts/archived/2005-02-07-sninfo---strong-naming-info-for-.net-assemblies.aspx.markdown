@@ -4,7 +4,7 @@ title: "SNInfo - Strong-Naming Info for .NET Assemblies"
 date: 2005-02-07 -0800
 comments: true
 disqus_identifier: 742
-tags: [Software / Downloads,Release Notices,.NET]
+tags: [Software / Downloads,Release Notices,net]
 ---
 I've been working on tracking down different assemblies' strong naming
 information this morning and I've decided that `sn -T [assemblyname]` is

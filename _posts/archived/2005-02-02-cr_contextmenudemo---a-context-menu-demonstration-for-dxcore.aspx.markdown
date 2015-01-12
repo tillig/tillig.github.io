@@ -4,7 +4,7 @@ title: "CR_ContextMenuDemo - A Context Menu Demonstration for DXCore"
 date: 2005-02-02 -0800
 comments: true
 disqus_identifier: 738
-tags: [Software / Downloads,Release Notices,.NET,Visual Studio]
+tags: [Software / Downloads,Release Notices,net,vs]
 ---
 Use of context menus from within the [DXCore plugin
 framework](http://www.devexpress.com/dxcore) (used to extend Visual

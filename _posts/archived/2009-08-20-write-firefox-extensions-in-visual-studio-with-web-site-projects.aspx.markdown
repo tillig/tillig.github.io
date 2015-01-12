@@ -4,7 +4,7 @@ title: "Write Firefox Extensions in Visual Studio with Web Site Projects"
 date: 2009-08-20 -0800
 comments: true
 disqus_identifier: 1559
-tags: [Visual Studio,GeekSpeak]
+tags: [vs,GeekSpeak]
 ---
 Recently when I was working on [my first Firefox
 extension](http://code.google.com/p/firefox-ntlmauth/), I struggled for

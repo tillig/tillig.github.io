@@ -4,7 +4,7 @@ title: "InnoTech Presentations Posted"
 date: 2008-04-24 -0800
 comments: true
 disqus_identifier: 1380
-tags: [.NET]
+tags: [net]
 ---
 The presentations from the [InnoTech PDX
 conference](http://www.innotechconference.com/pdx/) I spoke at [have

@@ -4,7 +4,7 @@ title: "NuGet Doesn't Help Me"
 date: 2011-10-27 -0800
 comments: true
 disqus_identifier: 1745
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 There's been a lot of hoopla around [NuGet](http://nuget.codeplex.com/)
 and the whole .NET package management "thing." There's a lot of praise

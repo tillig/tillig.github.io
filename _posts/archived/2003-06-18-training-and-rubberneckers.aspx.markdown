@@ -4,7 +4,7 @@ title: "Training and Rubberneckers"
 date: 2003-06-18 -0800
 comments: true
 disqus_identifier: 274
-tags: [General Ramblings,.NET]
+tags: [General Ramblings,net]
 ---
 I'm home tonight, posting through the ever-speedy dial-up connection
 I've got here, freshly out of training. As is the emerging standard,

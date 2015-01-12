@@ -4,7 +4,7 @@ title: "Trying Out DevExpress MVC Extensions"
 date: 2011-03-24 -0800
 comments: true
 disqus_identifier: 1705
-tags: [.NET,Web Development,GeekSpeak]
+tags: [net,Web Development,GeekSpeak]
 ---
 I'm a [huge CodeRush and Refactor
 user](http://cr-documentor.googlecode.com) and

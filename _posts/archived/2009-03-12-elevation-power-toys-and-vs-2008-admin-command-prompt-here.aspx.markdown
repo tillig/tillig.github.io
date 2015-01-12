@@ -4,7 +4,7 @@ title: "Elevation Power Toys and VS 2008 Admin Command Prompt Here"
 date: 2009-03-12 -0800
 comments: true
 disqus_identifier: 1500
-tags: [GeekSpeak,Software / Downloads,Visual Studio]
+tags: [GeekSpeak,Software / Downloads,vs]
 ---
 **NOTE: I'm no longer maintaining the Command Prompt Round-Up. Instead,
 [visit the Command Prompt Here

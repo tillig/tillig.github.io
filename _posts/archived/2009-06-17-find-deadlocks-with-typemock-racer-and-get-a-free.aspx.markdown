@@ -4,7 +4,7 @@ title: "Find Deadlocks with Typemock Racer - And Get a FREE License!"
 date: 2009-06-17 -0800
 comments: true
 disqus_identifier: 1540
-tags: [.NET]
+tags: [net]
 ---
 [Typemock](http://www.typemock.com/) released a new tool you can use to
 identify potential deadlock conditions via unit tests called [Typemock

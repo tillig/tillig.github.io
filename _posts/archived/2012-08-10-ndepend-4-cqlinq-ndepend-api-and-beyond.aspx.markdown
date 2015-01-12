@@ -4,7 +4,7 @@ title: "NDepend 4 - CQLinq, NDepend.API, and Beyond"
 date: 2012-08-10 -0800
 comments: true
 disqus_identifier: 1789
-tags: [.NET,GeekSpeak]
+tags: [net,GeekSpeak]
 ---
 I recently updated to [NDepend 4](http://www.ndepend.com/). I got an
 early preview of the sweetness that is [CQLinq (code query using LINQ

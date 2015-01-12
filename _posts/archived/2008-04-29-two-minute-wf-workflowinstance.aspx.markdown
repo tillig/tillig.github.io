@@ -4,7 +4,7 @@ title: "Two Minute WF: WorkflowInstance"
 date: 2008-04-29 -0800
 comments: true
 disqus_identifier: 1382
-tags: [.NET]
+tags: [net]
 ---
 In this [Two Minute WF](/archive/2008/03/20/two-minute-wf.aspx), I'm
 going to tell you about

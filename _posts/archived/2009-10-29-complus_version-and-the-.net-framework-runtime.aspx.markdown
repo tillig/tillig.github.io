@@ -4,7 +4,7 @@ title: "COMPLUS_Version and the .NET Framework Runtime"
 date: 2009-10-29 -0800
 comments: true
 disqus_identifier: 1579
-tags: [.NET]
+tags: [net]
 ---
 I just spent a couple of days debugging a weird problem. We have a
 fairly large product that has several Visual Studio solutions in it, all

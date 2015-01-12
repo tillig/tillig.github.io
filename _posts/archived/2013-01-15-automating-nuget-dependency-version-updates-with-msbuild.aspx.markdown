@@ -4,7 +4,7 @@ title: "Automating NuGet Dependency Version Updates with MSBuild"
 date: 2013-01-15 -0800
 comments: true
 disqus_identifier: 1800
-tags: [.NET,Code Snippets]
+tags: [net,Code Snippets]
 ---
 Although [I wasn't a big fan of
 NuGet](/archive/2011/10/27/nuget-doesnt-help-me.aspx) when it started

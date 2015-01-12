@@ -4,7 +4,7 @@ title: "Performance Profiler Showdown for .NET"
 date: 2010-01-12 -0800
 comments: true
 disqus_identifier: 1606
-tags: [GeekSpeak,.NET,Web Development]
+tags: [GeekSpeak,net,Web Development]
 ---
 I recently had to do some performance profiler evaluation for .NET
 applications and I figured I'd share my results. Note that it's as

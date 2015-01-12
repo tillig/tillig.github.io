@@ -4,7 +4,7 @@ title: "Solvent - Power Toys for Visual Studio .NET"
 date: 2004-06-25 -0800
 comments: true
 disqus_identifier: 597
-tags: [Software / Downloads,Release Notices,Visual Studio]
+tags: [Software / Downloads,Release Notices,vs]
 ---
 Solvent is a set of simple but effective tools for Visual Studio .NET
 2003 packaged as an add-in. Why call it Solvent? All the tools work in

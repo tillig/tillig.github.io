@@ -4,7 +4,7 @@ title: "ASP.NET Testing with Ivonna"
 date: 2008-04-16 -0800
 comments: true
 disqus_identifier: 1376
-tags: [Web Development,.NET]
+tags: [Web Development,net]
 ---
 [Hmmm, that sort of sounds like a PBS show or something. Hehehe.]
 

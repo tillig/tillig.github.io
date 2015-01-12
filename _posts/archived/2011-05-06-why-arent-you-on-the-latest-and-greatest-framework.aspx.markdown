@@ -4,7 +4,7 @@ title: "Why Aren't You on the Latest and Greatest Framework?"
 date: 2011-05-06 -0800
 comments: true
 disqus_identifier: 1713
-tags: [.NET,GeekSpeak]
+tags: [net,GeekSpeak]
 ---
 I was watching some Twitter stream by and caught a bit of a discussion
 asking about why people haven't moved to

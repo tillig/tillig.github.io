@@ -4,7 +4,7 @@ title: "VerificationException During Coverage? Check Your Security Attributes"
 date: 2010-06-04 -0800
 comments: true
 disqus_identifier: 1647
-tags: [.NET]
+tags: [net]
 ---
 Ran into this yesterday and took a little bit to figure out:
 

@@ -4,7 +4,7 @@ title: "Online Seminar - Unit Testing Legacy Code in .NET"
 date: 2009-08-06 -0800
 comments: true
 disqus_identifier: 1553
-tags: [.NET]
+tags: [net]
 ---
 Typemock is hosting [a free online seminar on August
 11](http://blog.typemock.com/2009/08/unit-testing-legacy-code-in-net-live.html)

@@ -4,7 +4,7 @@ title: "Windows Workflow Foundation Wiki"
 date: 2008-03-12 -0800
 comments: true
 disqus_identifier: 1356
-tags: [.NET]
+tags: [net]
 ---
 While working on some Windows Workflow projects I was having some
 trouble getting

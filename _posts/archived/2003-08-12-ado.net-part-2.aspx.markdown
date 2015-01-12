@@ -4,7 +4,7 @@ title: "ADO.NET, Part 2"
 date: 2003-08-12 -0800
 comments: true
 disqus_identifier: 320
-tags: [GeekSpeak,.NET]
+tags: [GeekSpeak,net]
 ---
 *10:17a*
  

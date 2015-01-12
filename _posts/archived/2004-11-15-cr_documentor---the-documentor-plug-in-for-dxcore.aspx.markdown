@@ -4,7 +4,7 @@ title: "CR_Documentor - The Documentor Plug-In for DXCore"
 date: 2004-11-15 -0800
 comments: true
 disqus_identifier: 695
-tags: [Software / Downloads,.NET,Visual Studio]
+tags: [Software / Downloads,net,vs]
 ---
 **UPDATE:**[**CR\_Documentor has found a new home on Google
 Code.**](http://code.google.com/p/cr-documentor/)**Head over there to

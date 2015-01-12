@@ -4,7 +4,7 @@ title: "Typemock: Isolator 4.3 and a Sneak Peek at Racer"
 date: 2008-07-08 -0800
 comments: true
 disqus_identifier: 1411
-tags: [.NET]
+tags: [net]
 ---
 I'm a few days late on this (I was on vacation) but [Typemock Isolator
 4.3 has been

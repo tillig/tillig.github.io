@@ -4,7 +4,7 @@ title: "VS 2008 Now My Worst Install Experience EVAR"
 date: 2007-11-20 -0800
 comments: true
 disqus_identifier: 1305
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 I just got done with installing Visual Studio 2008.  It now is the
 installation experience that I will rank other installation experiences

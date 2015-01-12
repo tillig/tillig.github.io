@@ -4,7 +4,7 @@ title: "Windows Apps, Part 3"
 date: 2003-06-25 -0800
 comments: true
 disqus_identifier: 279
-tags: [General Ramblings,.NET,GeekSpeak]
+tags: [General Ramblings,net,GeekSpeak]
 ---
 We're just about done here. I'm going to post now and get things ready
 to go.

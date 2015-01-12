@@ -4,7 +4,7 @@ title: "SNInfo 1.1.0.0725 Released"
 date: 2007-07-25 -0800
 comments: true
 disqus_identifier: 1242
-tags: [Release Notices,.NET]
+tags: [Release Notices,net]
 ---
 For those using my little assembly strong name reading tool, I:
 

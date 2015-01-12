@@ -4,7 +4,7 @@ title: "Separating Metadata Classes from Model Classes in DataAnnotations Using 
 date: 2010-01-28 -0800
 comments: true
 disqus_identifier: 1609
-tags: [.NET,Web Development]
+tags: [net,Web Development]
 ---
 I haven't done much work with [ASP.NET Dynamic
 Data](http://www.asp.net/DynamicData/) but in a recent project I started

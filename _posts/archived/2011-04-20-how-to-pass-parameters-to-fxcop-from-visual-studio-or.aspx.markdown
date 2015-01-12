@@ -4,7 +4,7 @@ title: "How to Pass Parameters to FxCop from Visual Studio - OR - How to Fix the
 date: 2011-04-20 -0800
 comments: true
 disqus_identifier: 1709
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 If you've enabled FxCop to run on your projects in Visual Studio,
 chances are you've seen the dreaded CA0060 warning:

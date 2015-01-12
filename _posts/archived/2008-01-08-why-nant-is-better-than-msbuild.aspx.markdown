@@ -4,7 +4,7 @@ title: "Why NAnt Is Better Than MSBuild"
 date: 2008-01-08 -0800
 comments: true
 disqus_identifier: 1334
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 I've been writing a lot of build scripts and custom build tasks in both
 [NAnt](http://nant.sourceforge.net/) and

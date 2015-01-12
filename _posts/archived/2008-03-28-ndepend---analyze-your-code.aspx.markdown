@@ -4,7 +4,7 @@ title: "NDepend - Analyze Your Code"
 date: 2008-03-28 -0800
 comments: true
 disqus_identifier: 1366
-tags: [.NET]
+tags: [net]
 ---
 [**NDepend**](http://www.ndepend.com) **is a tool you can use to analyze
 your .NET code and find problem areas.**It's exceptionally helpful when

@@ -4,7 +4,7 @@ title: "DXCore Plugins May Be Blocked By Windows Security"
 date: 2010-03-29 -0800
 comments: true
 disqus_identifier: 1626
-tags: [Visual Studio,.NET]
+tags: [vs,net]
 ---
 **If you're using third-party plugins with DXCore (CodeRush/Refactor)
 from**[**DevExpress**](http://www.devexpress.com)**and you're moving to

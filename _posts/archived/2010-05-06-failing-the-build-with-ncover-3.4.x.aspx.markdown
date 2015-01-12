@@ -4,7 +4,7 @@ title: "Failing the Build with NCover 3.4.x"
 date: 2010-05-06 -0800
 comments: true
 disqus_identifier: 1639
-tags: [.NET]
+tags: [net]
 ---
 I've spent the last week working on getting NCover 3.4.2 (and, later,
 3.4.3) working in my environment. I was previously using the older free

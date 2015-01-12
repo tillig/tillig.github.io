@@ -4,7 +4,7 @@ title: "Select Current Item in Visual Studio Solution Explorer"
 date: 2009-08-12 -0800
 comments: true
 disqus_identifier: 1556
-tags: [Visual Studio]
+tags: [vs]
 ---
 UPDATE: BAH! I was sort of wrong about this. Turns out, as noted in
 comments, that if you use the solution I outline, then when you hit the

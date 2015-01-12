@@ -4,7 +4,7 @@ title: "Potential Typemock Gotcha: Allow Static Construction to Happen Before Mo
 date: 2012-02-10 -0800
 comments: true
 disqus_identifier: 1768
-tags: [.NET,GeekSpeak]
+tags: [net,GeekSpeak]
 ---
 I love [Typemock
 Isolator](http://www.plimus.com/jsp/redirect.jsp?contractId=1655929&referrer=tillig).

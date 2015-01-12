@@ -4,7 +4,7 @@ title: "Typemock Isolator 5.0 Released; Open Source Licensing Available"
 date: 2008-08-18 -0800
 comments: true
 disqus_identifier: 1432
-tags: [.NET]
+tags: [net]
 ---
 [Typemock Isolator 5.0 has been
 released](http://blog.typemock.com/2008/08/typemock-isolator-50-released.html)

@@ -4,7 +4,7 @@ title: "AutoMapper, Autofac, Web API, and Per-Request Dependency Lifetime Scopes
 date: 2014-03-25 -0800
 comments: true
 disqus_identifier: 1837
-tags: [.NET,Web Development]
+tags: [net,Web Development]
 ---
 I’m working on a new [Web API project](http://www.asp.net/web-api) where
 I want to use [AutoMapper](http://automapper.org/) for some type

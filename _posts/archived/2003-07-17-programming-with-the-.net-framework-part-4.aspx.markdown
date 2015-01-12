@@ -4,7 +4,7 @@ title: "Programming with the .NET Framework, Part 4"
 date: 2003-07-17 -0800
 comments: true
 disqus_identifier: 300
-tags: [General Ramblings,GeekSpeak,.NET]
+tags: [General Ramblings,GeekSpeak,net]
 ---
 *9:31a*
  

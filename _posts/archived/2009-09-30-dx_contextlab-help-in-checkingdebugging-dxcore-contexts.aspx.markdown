@@ -4,7 +4,7 @@ title: "DX_ContextLab - Help in Checking/Debugging DXCore Contexts"
 date: 2009-09-30 -0800
 comments: true
 disqus_identifier: 1569
-tags: [Visual Studio,Release Notices,Software / Downloads]
+tags: [vs,Release Notices,Software / Downloads]
 ---
 This is sort of a niche thing, so if you don't know what I'm talking
 about, don't worry. However, [people who write DXCore

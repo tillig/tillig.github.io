@@ -4,7 +4,7 @@ title: "Debugging Visual Studio Add-Ins and XmlSerialization Problems"
 date: 2009-11-03 -0800
 comments: true
 disqus_identifier: 1585
-tags: [.NET]
+tags: [net]
 ---
 The quick version:
 

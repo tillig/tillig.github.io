@@ -4,7 +4,7 @@ title: "Typemock Isolator Open Source Licenses"
 date: 2008-07-24 -0800
 comments: true
 disqus_identifier: 1423
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 Just got word from the folks over at [Typemock](http://www.typemock.com)
 - if you have an open source project and you want to use Typemock

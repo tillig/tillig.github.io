@@ -4,7 +4,7 @@ title: "Typemock Expert"
 date: 2008-05-27 -0800
 comments: true
 disqus_identifier: 1391
-tags: [GeekSpeak,.NET]
+tags: [GeekSpeak,net]
 ---
 [![Typemock
 Expert](https://hyqi8g.bl3302.livefilestore.com/y2pT-3wJ9xIiNTsiB-CjLCbRndeZMAy75i6ARz6GSIAlwcEf0a5D2cJQUjyG3w1WGFe9Qqzt2Gs_PaGUUtid4eos8ONv8eQItfzJMEh4qEtotI/typemockexperteg1.gif?psid=1)](http://www.typemock.com/experts.html)I

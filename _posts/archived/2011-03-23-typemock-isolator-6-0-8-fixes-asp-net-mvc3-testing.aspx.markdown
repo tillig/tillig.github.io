@@ -4,7 +4,7 @@ title: "Typemock Isolator 6.0.8 Fixes ASP.NET MVC3 Testing Issues"
 date: 2011-03-23 -0800
 comments: true
 disqus_identifier: 1704
-tags: [.NET,GeekSpeak,Web Development]
+tags: [net,GeekSpeak,Web Development]
 ---
 If you use [Typemock
 Isolator](http://www.plimus.com/jsp/redirect.jsp?contractId=1655929&referrer=tillig)

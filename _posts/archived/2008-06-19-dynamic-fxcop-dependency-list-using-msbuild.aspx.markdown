@@ -4,7 +4,7 @@ title: "Dynamic FxCop Dependency List Using MSBuild"
 date: 2008-06-19 -0800
 comments: true
 disqus_identifier: 1401
-tags: [Code Snippets,.NET]
+tags: [Code Snippets,net]
 ---
 When you're integrating
 [FxCop](http://msdn.microsoft.com/en-us/library/bb429476.aspx) into your

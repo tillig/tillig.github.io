@@ -4,7 +4,7 @@ title: "Windows Apps, Part 2"
 date: 2003-06-24 -0800
 comments: true
 disqus_identifier: 278
-tags: [General Ramblings,.NET,GeekSpeak]
+tags: [General Ramblings,net,GeekSpeak]
 ---
 Well, that's the end of day 2. This is a little tougher than I'd like,
 with five days packed into three. Here's the play by play.

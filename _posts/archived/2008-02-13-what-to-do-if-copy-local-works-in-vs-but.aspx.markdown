@@ -4,7 +4,7 @@ title: "What To Do If &quot;Copy Local&quot; Works In VS But Not MSBuild"
 date: 2008-02-13 -0800
 comments: true
 disqus_identifier: 1350
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 I'm in the process of updating a bunch of old Visual Studio 2003
 projects and solutions to, well, something a little newer. I found this

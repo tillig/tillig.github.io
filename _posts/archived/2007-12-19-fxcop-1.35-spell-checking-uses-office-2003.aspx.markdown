@@ -4,7 +4,7 @@ title: "FxCop 1.35 Spell Checking Uses Office 2003"
 date: 2007-12-19 -0800
 comments: true
 disqus_identifier: 1324
-tags: [.NET,Visual Studio]
+tags: [net,vs]
 ---
 One of my co-workers, Peter Wong, came across this issue and struggled
 for quite some time to figure it out.

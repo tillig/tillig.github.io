@@ -4,7 +4,7 @@ title: "log4net AppSettings Keys"
 date: 2010-11-12 -0800
 comments: true
 disqus_identifier: 1681
-tags: [.NET]
+tags: [net]
 ---
 There doesn't appear to be anywhere on the log4net site where the "magic
 app setting keys" are listed with their explanations and I always have

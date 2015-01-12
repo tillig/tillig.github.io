@@ -4,7 +4,7 @@ title: "Putting Controllers in Plugin Assemblies for ASP.NET MVC"
 date: 2013-01-21 -0800
 comments: true
 disqus_identifier: 1803
-tags: [.NET,Code Snippets,Web Development]
+tags: [net,Code Snippets,Web Development]
 ---
 With [Autofac](https://autofac.googlecode.com) (particularly the
 multitenant extensions) I see a lot of questions come through that boil

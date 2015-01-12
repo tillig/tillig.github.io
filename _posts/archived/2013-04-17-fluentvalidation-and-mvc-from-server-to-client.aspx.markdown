@@ -4,7 +4,7 @@ title: "FluentValidation and MVC - From Server to Client"
 date: 2013-04-17 -0800
 comments: true
 disqus_identifier: 1816
-tags: [.NET,Web Development,GeekSpeak]
+tags: [net,Web Development,GeekSpeak]
 ---
 We do a lot of interesting stuff with
 [FluentValidation](http://fluentvalidation.codeplex.com/) at work and

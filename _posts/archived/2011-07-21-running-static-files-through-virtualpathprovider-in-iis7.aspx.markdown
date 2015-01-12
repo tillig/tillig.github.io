@@ -4,7 +4,7 @@ title: "Running Static Files Through VirtualPathProvider in IIS7"
 date: 2011-07-21 -0800
 comments: true
 disqus_identifier: 1727
-tags: [.NET,Code Snippets,Web Development]
+tags: [net,Code Snippets,Web Development]
 ---
 We have a custom VirtualPathProvider that [serves some static files
 (\*.js, \*.css) from embedded resources in

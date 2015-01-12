@@ -4,7 +4,7 @@ title: "Charting Hanselminutes"
 date: 2009-10-30 -0800
 comments: true
 disqus_identifier: 1581
-tags: [GeekSpeak,.NET]
+tags: [GeekSpeak,net]
 ---
 Before I even get into this, let me preface it by saying
 [Scott's](http://www.hanselman.com) a friend of mine and he's a great
