@@ -106,7 +106,7 @@ var AUTHORS='Your Authors Here'
 use-standard-lifecycle
 k-standard-goals
 
-##generate-resx .resx description='Converts .resx files to .Designer.cs' target='initialize'
+#generate-resx .resx description='Converts .resx files to .Designer.cs' target='initialize'
 ```
 
 What that does is add a `generate-resx` build target to your build script that runs during the `initialize` phase of the standard lifecycle. The `generate-resx` target dependes on a target called `resx` which does the actual conversion to `.Designer.cs` files. The `resx` target comes from `KoreBuild` and is included when you include the `k-standard-goals` script, but it doesn't run by default, which is why you have to include it yourself.
@@ -190,7 +190,7 @@ var AUTHORS='Your Authors Here'
 use-standard-lifecycle
 k-standard-goals
 
-##xml-docs-test .clean .build-compile description='Check generated XML documentation files for errors' target='test'
+#xml-docs-test .clean .build-compile description='Check generated XML documentation files for errors' target='test'
   k-xml-docs-test
 ```
 
