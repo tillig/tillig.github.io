@@ -48,8 +48,8 @@ Obviously you'll have a whole bunch of other stuff in your web.config,
 but this is the relevant bit here. **Make sure the static file handlers
 are the last handler entries** in your web.config.
 
-**\*\*\*UPDATE/IMPORTANT\*\*\***: In the original post for this article
-I set a wildcard mapping to AspNetStaticFileHandler. That actually
+**UPDATE/IMPORTANT**: In the original post for this article
+I set a wildcard mapping to `AspNetStaticFileHandler`. That actually
 messes other things up. For example, it starts serving web form .aspx
 files as text files directly. Not good. Instead, **map the static file
 handler directly ONLY to the static file types you plan on serving**.
