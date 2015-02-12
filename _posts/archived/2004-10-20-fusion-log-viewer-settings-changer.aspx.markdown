@@ -25,48 +25,50 @@ but I find I do one of two things, always:
  
  To that end, I wrote a little script to handle that. From the command
 line (available by running the script with a "/?" parameter):
-> **FusLogVwSet**
->  This script "enables" and "disables" custom settings for the Fusion
-> Log Viewer tool.
->  
->  Enabling settings will:
->
-> -   Create a log folder (default: C:\\fusionlogs)
-> -   Add HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\LogPath and
->     set it to the log folder
-> -   Set HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\LogFailures
->     to 1
-> -   Optionally set
->     HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\ForceLog to 1
-> -   Optionally set
->     HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\LogResourceBinds
->     to 1
->
-> 
->  Disabling settings will:
->
-> -   Delete the log folder and its contents
-> -   Delete HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\LogPath
-> -   Set HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\LogFailures
->     to 0
-> -   Set HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\ForceLog to
->     0
-> -   Set
->     HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\LogResourceBinds
->     to 0
->
-> 
->  Usage: FusLogVwSet.wsf [/enable] [/all] [/disable] [/logpath:value]
->  
->  Options:
->  
->  enable : Enable custom fuslogvw.exe settings.
->  all : When used with /enable, logs both failures and successes. Only
-> valid with /enable.
->  disable : Disable custom fuslogvw.exe settings.
->  logpath : Sets the log path (default is C:\\fusionlogs). Only valid
-> with /enable.
 
+```
+FusLogVwSet
+This script "enables" and "disables" custom settings for the Fusion
+Log Viewer tool.
+
+Enabling settings will:
+
+-   Create a log folder (default: C:\\fusionlogs)
+-   Add HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\LogPath and
+    set it to the log folder
+-   Set HKEY_LOCAL_MACHINE\SOFTWAR\\Microsoft\Fusion\LogFailures
+    to 1
+-   Optionally set
+    HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\ForceLog to 1
+-   Optionally set
+    HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\LogResourceBinds
+    to 1
+
+
+Disabling settings will:
+
+-   Delete the log folder and its contents
+-   Delete HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\LogPath
+-   Set HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\LogFailures
+    to 0
+-   Set HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\ForceLog to
+    0
+-   Set
+    HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\LogResourceBinds
+    to 0
+
+
+Usage: FusLogVwSet.wsf [/enable] [/all] [/disable] [/logpath:value]
+
+Options:
+
+ enable : Enable custom fuslogvw.exe settings.
+ all : When used with /enable, logs both failures and successes. Only
+       valid with /enable.
+ disable : Disable custom fuslogvw.exe settings.
+ logpath : Sets the log path (default is C:\\fusionlogs). Only valid
+           with /enable.
+```
 
  If you use the Fusion Log Viewer to debug your .NET assembly bindings,
 this is pretty handy stuff.
