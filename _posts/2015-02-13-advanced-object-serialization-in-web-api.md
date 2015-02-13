@@ -375,6 +375,18 @@ public class PrincipalAwareJsonMediaTypeFormatter : JsonMediaTypeFormatter
 }
 ```
 
+You can register that at app startup with your `HttpConfiguration` like this:
+
+```csharp
+// Copy any custom settings from the current formatter
+// into a new formatter.
+var formatter = new PrincipalAwareJsonMediaTypeFormatter(config.Formatters.JsonFormatter);
+
+// Remove the old formatter, add the new one.
+config.Formatters.Remove(config.Formatters.JsonFormatter);
+config.Formatters.Add(formatter);
+```
+
 ## Conclusion
 
 I have to admit, I'm a little disappointed in the different ways the same things get handled here. Why do some things allow `IConvertible` but others require `TypeConverter`? It'd be nice if it was consistent.
