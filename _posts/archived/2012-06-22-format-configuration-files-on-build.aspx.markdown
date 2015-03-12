@@ -25,15 +25,15 @@ To address some of this, **I decided to add some automatic config file
 formatting to our build** so when you run the build, things
 automatically get cleaned up. Here’s how you can do this, too.
 
-First, **you’ll need a copy of**[**HTML
+First, **you’ll need a copy of** [**HTML
 Tidy**](http://tidy.sourceforge.net/). HTML Tidy actually does work on
 config file XML as well as HTML as long as you specify that it’s not
 processing HTML. [I grabbed this Windows
 executable](http://www.paehl.com/open_source/?HTML_Tidy_for_Windows)
 since the main installer site seems to be gone.
 
-Next, **get the**[**MSBuild Community
-Tasks**](https://github.com/loresoft/msbuildtasks)**in your build**.
+Next, **get the** [**MSBuild Community
+Tasks**](https://github.com/loresoft/msbuildtasks) **in your build**.
 There’s a nice `FileUpdate` task that will help during formatting and
 you’ll need it.
 
