@@ -12,14 +12,9 @@ sharing: false
 **My name is
 Travis Illig.** I'm a .NET developer lead for [Fiserv
 Corporation](http://www.fiserv.com) working on next-generation online
-banking web applications. You can see more of my online presence at
-these places:
+banking web applications.
 
--   [Twitter](http://twitter.com/tillig)
--   [Facebook](http://www.facebook.com/tillig)
--   [Google Plus](http://gplus.to/tillig)
--   [Google Profile](http://www.google.com/profiles/travis.illig)
--   [LinkedIn](http://www.linkedin.com/in/tillig)
+[Twitter](http://twitter.com/tillig) | [Facebook](http://www.facebook.com/tillig) | [GitHub](https://github.com/tillig) | [Google Plus](http://gplus.to/tillig) | [LinkedIn](http://www.linkedin.com/in/tillig)
 
 I believe there is a certain art in solving problems in the computer
 science world and I enjoy practicing that art. Note that while all
@@ -28,18 +23,13 @@ leadership and architecture. In animation terms, I prefer to be [a
 keyframer](http://en.wikipedia.org/wiki/Key_frame).
 
 When I am not programming for work, I contribute to some open source
-projects:
+projects. Some of the more popular ones include...
 
--   [Autofac](https://github.com/autofac/Autofac) (co-owner)
--   [CR\_Documentor](http://code.google.com/p/cr-documentor/) (owner)
--   [CR\_CodeTweet](http://code.google.com/p/cr-codetweet/) (owner)
--   [DXCore Community
-    Plugins](http://code.google.com/p/dxcorecommunityplugins/)
-    (contributor)
--   [Integrated Authentication for
-    Firefox](http://code.google.com/p/firefox-ntlmauth/) (owner)
--   [ImageShackWriterPlugin](http://code.google.com/p/imageshackwriterplugin/)
-    (owner)
+-   **[Autofac](https://github.com/autofac/Autofac)**, a popular .NET inversion-of-control container.
+-   **[CR\_Documentor](http://code.google.com/p/cr-documentor/)**, a plugin for Visual Studio that allows you to preview your XML API docs.
+-   **[SublimeMSBuild](https://github.com/tillig/SublimeMSBuild)**, a package for Sublime Text that enables statement completion and build using MSBuild.
+
+Most everything [is on GitHub](https://github.com/tillig) nowadays, so head over there for more.
 
 I also like [playing games](http://live.xbox.com/member/Paraesthesia), working on [my media
 center](/archive/2014/11/18/media-server-overview-2014/), and collecting [movies](http://www.invelos.com/dvdcollection.aspx/tillig) and [music](http://connect.collectorz.com/users/tillig/music/view).
