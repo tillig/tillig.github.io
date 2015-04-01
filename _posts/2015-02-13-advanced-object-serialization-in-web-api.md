@@ -81,6 +81,7 @@ By default, you'll get a link that looks like this, which isn't what you want:
 `http://server/api/value/MyNamespace.MyCustomObject`
 
 **We can fix that.** `UrlHelper` uses, in this order:
+
 - `IConvertible.ToString()`
 - `IFormattable.ToString()`
 - `object.ToString()`
