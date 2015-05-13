@@ -130,7 +130,7 @@ I'm still working out a few things and may change my setup as time goes on, but 
 Stuff I'd like to do next...
 
 - *Switch from PPTP to a different VPN type* (or maybe offer more than one VPN type so I can be compatible with devices requiring PPTP but offer better security for devices that can handle it).
-- *Figure out if caching helps.** I've found that some stuff is pretty fast, but other stuff is slow (or doesn't flow quite right through the proxy). I'm not sure why that is. Maybe additional proxy settings I'm not aware of yet?
+- *Figure out if caching helps.* I've found that some stuff is pretty fast, but other stuff is slow (or doesn't flow quite right through the proxy). I'm not sure why that is. Maybe additional proxy settings I'm not aware of yet?
 
 And, finally, again - **thanks to Cory Doctorow for prodding me into researching this**; and **thanks to Synology for making it easy**. Part of what Doctorow was saying at his visit is that Security is Hard, particularly the implementation of decent security for the lay person. Synology is as close to point-and-click easy setup as I've ever seen for this.
 
