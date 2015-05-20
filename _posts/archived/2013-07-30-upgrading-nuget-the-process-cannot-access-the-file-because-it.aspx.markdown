@@ -80,3 +80,8 @@ process seems to require you're actually running as an administrator
 account.** Simply providing credentials to elevate the privileges didn't
 work for me.
 
+**UPDATE FOR VS 2015 - THIS TRICK MAY OR MAY NOT ALWAYS WORK**: After installing VS 2015 RC1 I found this problem started happening with many more extensions besides just NuGet. I'm not sure if VS 2015 extensions install differently or if more extensions have just adopted the way NuGet installs. There's also the added challenge of add-in dependencies.
+
+For example, the "Powershell Tools" extension immediately had an update after install. I tried this, but found that "Powershell Tools" relies on another add-in also being installed, so having an empty extensions folder doesn't work. However, after locating the dependencies and making sure those were all in place, I still ended up with the file lock error. **I never did find a combination of actions that could work around it.**
+
+I effectively can't update any add-ins after they're installed in VS 2015 RC1 on the machine with the guilty antivirus software. Installing on a VM _without_ the antivirus software, everything works swimmingly.
