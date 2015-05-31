@@ -26,7 +26,7 @@ When I am not programming for work, I contribute to some open source
 projects. Some of the more popular ones include...
 
 -   **[Autofac](https://github.com/autofac/Autofac)**, a popular .NET inversion-of-control container.
--   **[CR\_Documentor](http://code.google.com/p/cr-documentor/)**, a plugin for Visual Studio that allows you to preview your XML API docs.
+-   **[CR\_Documentor](https://github.com/tillig/CR_Documentor)**, a plugin for Visual Studio that allows you to preview your XML API docs.
 -   **[SublimeMSBuild](https://github.com/tillig/SublimeMSBuild)**, a package for Sublime Text that enables statement completion and build using MSBuild.
 
 Most everything [is on GitHub](https://github.com/tillig) nowadays, so head over there for more.
