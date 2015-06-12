@@ -9,13 +9,10 @@ tags: [vs,coderush]
 
 [Head over to the gallery to get your copy](https://visualstudiogallery.msdn.microsoft.com/668a65b5-2468-4afa-b78d-8c369850e2b2) or get it through "Extensions and Updates" in the Visual Studio "Tools" menu.
 
-**Note:** In VS 2015 RC you may notice that after installing the add-in the _only add-in that shows up_ for CodeRush is CR\_Documentor. I'm not sure why this is, but it seems to be fixed by clearing out the files in your loader cache at
+**Note:** In VS 2015 RC you may notice that after installing the add-in the _only add-in that shows up_ for CodeRush is CR\_Documentor. I'm not sure why this is, but it seems to be fixed by clearing out the files in your loader cache in these folders:
 
-`%appdata%\CodeRush for VS .NET\1.1\Settings.xml\Loader`
-
-and
-
-`%appdata%\CodeRush for VS .NET\1.1\Settings.xml\_Scheme_FrictionFree\Loader`
+    %appdata%\CodeRush for VS .NET\1.1\Settings.xml\Loader
+    %appdata%\CodeRush for VS .NET\1.1\Settings.xml\_Scheme_FrictionFree\Loader
 
 **It is safe to delete these files because they will be re-created on the next restart of VS.** This will get all the CodeRush features to show up again.
 
