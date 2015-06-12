@@ -4,39 +4,39 @@ title: "ADO.NET, Part 3"
 date: 2003-08-13 -0800
 comments: true
 disqus_identifier: 321
-tags: [GeekSpeak,net]
+tags: [net,personal]
 ---
 *9:34a*
- 
+
 [Cankles.](http://stupidcollegekid.tripod.com/thestupidcollegekid/id29.html)
- 
+
  The bitch has cankles.
- 
+
  Last night Jenn and I went to Fred Meyer to check out pricing on the
 dining room set that we're going to get if we can offload this old one
 we're using. Of course, when we got there we found that they still had
 the chairs we like but the table wasn't there. I don't know if they were
 just out of stock or if they no longer carry them. Bah.
- 
+
  We just did an hour's worth of review, and now it's time to get
 moving.
- 
+
  *11:03a*
- 
+
  Okay, she just asked me what I've been typing, so I told her - my blog
 stuff. Then she wanted to know where my web site was, so I told her. I
 don't know if she'll ever get here, but if she does, here's my message
 to her:
- 
+
  *I don't necessarily think you're a \*bad person\* per se, but you are
 exceptionally demanding and attempt to cover up your annoying habits
 with faux kindness. The world does not revolve around you, and saying
 you're sorry about it doesn't make it better, it makes you bitchy.*
- 
+
  So. That's that.
- 
+
  We're skipping labs, so moving quickly. Maybe I can get out early.
- 
+
  *12:43p*
- 
+
  We're out early! Yay, me!

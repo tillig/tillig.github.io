@@ -4,7 +4,7 @@ title: "Enchanted Forest Pictures"
 date: 2003-10-03 -0800
 comments: true
 disqus_identifier: 375
-tags: [General Ramblings]
+tags: [personal]
 ---
 I've posted the pictures for the Enchanted Forest trip in the MildPeril
 Gallery. [Check them

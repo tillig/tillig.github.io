@@ -4,18 +4,18 @@ title: "Continued Upgrades"
 date: 2003-09-16 -0800
 comments: true
 disqus_identifier: 358
-tags: [General Ramblings]
+tags: [personal,blog]
 ---
 Lots of stuff getting upgraded. Let's see...
- 
+
  Jenn's birthday is today, so her age has been upgraded. We'll be
 getting together tonight with my parents and her sister and niece.
- 
+
  I got - free from [MSDN](http://msdn.microsoft.com) - a [ViewSonic V37
 PocketPC](http://www.viewsonic.com/products/pocket_pc_pocketpcv37.htm).
 Very nice, if I do say so myself. I've migrated the stuff from my old
 Compaq iPaq 3600 onto this new machine and I'm not looking back.
- 
+
  I've installed [pMachine](http://www.pmachine.com) so I can potentially
 provide some better blog features for you nameless masses who show up
 here to read about me every day. I've just got the base install
@@ -26,7 +26,7 @@ templates will change a bit, since I'd like to shake things up. My
 current idea is sort of a cobalt blue and black theme a la [*Mulholland
 Drive*](http://www.amazon.com/exec/obidos/ASIN/B00005JKJA/mhsvortex). So
 that's getting upgraded.
- 
+
  Speaking of cobalt blue, I somehow lost my [Fisher Space
 Pen](http://www.goldspot.com/fisherspacepens.cfm). My favorite pen,
 black with a gold "US Ski Team" logo on it (I could have done without
@@ -36,7 +36,7 @@ yesterday, and now... nothing. No idea where it went. So I ordered me up
 sort of like something you'd see out of *Mulholland Drive*. It's cool,
 and I'm looking forward to getting it. So my pen is getting upgraded
 (from "no pen" to "really cool pen").
- 
+
  Finally, I forgot to mention it, but a couple of days ago I broke down
 and ordered [my new dining room
 table](http://www.searshomecenter.com/homecenter/prod_display1.asp?PRODUCT=33497).

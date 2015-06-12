@@ -4,26 +4,26 @@ title: "ADO.NET, Part 1"
 date: 2003-08-11 -0800
 comments: true
 disqus_identifier: 319
-tags: [GeekSpeak,net]
+tags: [net,personal]
 ---
 *10:18a*
- 
+
  Okay, so I'm in the first day of a three day class on ADO.NET, and so
 far... it's okay. I think this first day's going to be pretty much
 review for me anyway, since I've done some ADO.NET stuff before, so I'm
 enjoying the review while it lasts.
- 
+
  This is the first course the instructor has taught on ADO.NET, so you
 can tell it's a learning experience for him, too, while he determines
 what people will expect to get out of the class. He's a good guy,
 though, and I think he's got it pretty much down.
- 
+
  It's a different training facility than I usually go to, and while it's
 only like 10 minutes from my house, the facility is not as good as the
 one I usually go to. There are free drinks, like the usual place I go,
 but it's your choice of four generic *caffeine free* drinks, which
 aren't helping me at all.
- 
+
  A quick rundown of the weekend: Went to see
 [*SWAT*](http://us.imdb.com/Title?0257076), which was a lot of fun that
 maybe I'll write a review on later if I'm so inclined. Spent a lot of
@@ -40,7 +40,7 @@ works there now, so took some time to catch up with him. Went to Krispy
 Kreme to get some donuts. Went out to eat with my friend Gerb, who just
 moved back to town, and met a really cool waitress at the place we ate.
 Other than that... nothing.
- 
+
  My parents are having a huge garage sale next weekend, so Jenn and I
 are going to try to sell off our dining room set because it's this huge
 wood menagerie that really doesn't fit our current tastes (or space).
@@ -50,72 +50,72 @@ style. We don't really eat at the table anyway; it's used mostly as a
 place to stash things that need a home. A smaller "stash area" just
 means we'll need to be more vigilant in putting things away, which is
 fine by me.
- 
+
  I should probably do the lab now.
- 
+
  *10:44a*
- 
+
  Lab's done. Five minutes, baby. Piece of cake.
- 
+
  *11:47a*
- 
+
  I've been wondering why these machines are so *slow*, but I went
 looking at the properties and they're single-processor, 500MHz machines
 with 256MB of RAM. Running Visual Studio .NET. And SQL Server 2000.
- 
+
  Let's just say there's a lot of *waiting* going on.
- 
+
  Mmmm. Caffeine-free generic lemon-lime soda. All of the calories, none
 of the waking up. Love it.
- 
+
  *11:58a*
- 
+
  Lunchtime.
- 
+
  *12:53p*
- 
+
  I went to [Pizzicato](http://www.pizzicatogourmetpizza.com/) for lunch,
 thinking, you know, that I'd like some pizza. It'd been a long time
 since I'd been to Pizzicato, but I remember there being some tasty pizza
 there. So I went.
- 
+
  I don't know when they stopped offering conventional pizza flavors like
 Canadian bacon and pineapple or whatever, but now you have your choice
 of cheese, pepperoni, or, like, "barbecued chicken and artichoke
 hearts." What?! Um, I'd like a slice of Hawaiian, my friend. Where's
 [Pizza Schmizza](http://www.schmizza.com/) when you need it?
- 
+
  I decided to bust out the ol' iPod while I was eating, which was cool,
 but I was using some cheap headphones that I got as a promotional
 giveaway item (they automatically wind themselves up, which is nice for
 travel). The headphones *suck*. No bass response, no power (you have to
 *crank* the volume to hear them), no left/right markings...
- 
+
  I will bring the iPod stock headphones tomorrow, but I do need those
 [in-the-ear
 jobs](http://www.amazon.com/exec/obidos/ASIN/B000092YQW/mhsvortex) I was
 looking at.
- 
+
  While I was in town heading for Pizzicato, I think I saw this girl
 Sarah that I used to go to high school with. I remember her telling me
 at the reunion that she worked in that area, so it was probably her. I
 didn't flag her down or anything, I just thought it interesting that I
 saw her.
- 
+
  *1:15p*
- 
+
  There's this lady in my class who... she *means well* and all, but
 she's kind of annoying.
- 
+
  See, this is a three-day class. There's probably four or five days'
 worth of material, but it's a three-day class. The teacher has told us
 that, due to the short time we have, we can *either* go through the...
- 
+
  OK, now I'm pissed.
- 
+
  She just sent me a little "note" to ask me to stop typing because it's
 hard to "concentrate on what the teacher's saying." Fuck this shit.
- 
+
  See, the thing is that there's not enough time to do all of the demos,
 practices, and labs, but since the labs are the same as the demos, the
 teacher has said we should do the labs rather than all of the demos.
@@ -124,16 +124,16 @@ so we can sit in here for 10 hours each day instead of the scheduled
 eight. For a while, I was thinking, "Well, okay, you know, you learn
 your way and I'll learn mine, but while you're learning yours, I'll type
 up my blog and whatever."
- 
+
  Then she passes me this fucking note because she "can't concentrate" or
 something. Sounds like a personal problem to me, the inability to
 multitask or function around - gasp - *keys clicking*. This bitch has
 stepped on my *last nerve*. I *really* want her to ask me for help now.
 Just ask, bitch. You'll be talkin' to the hand, *'cuz the ears ain't
 listening*. Fuck you and the horse you rode in on.
- 
+
  *2:56p*
- 
+
  I'm done with the lab, about 30 minutes ahead of schedule. Now I'm
 going to type my ass off to irritate this lady. I don't even have
 anything to say, but if it'll get me to type louder and longer, I'll
@@ -141,15 +141,15 @@ type it. I should, like, just find something online or whatever to copy,
 like some e-book or something. Or I could just do some stream of
 consciousness style writing, almost like I'm doing right now - just come
 up with crap off the top of my head to type.
- 
+
  Heh.
- 
+
  I won't bore you with that. Maybe I'll just pound keys or something,
 just mashing the keyboard in a pseudo-random fashion. But not here.
 (It's totally random here, not just pseudo-random.)
- 
+
  *3:06p*
- 
+
  Penny Arcade has a [brilliant
 discussion](http://www.penny-arcade.com/news.php3?date=2003-08-11) about
 the views of the uninformed when it comes to First Amendment rights in
@@ -161,31 +161,31 @@ parenting*](http://www.penny-arcade.com/view.php3?date=2003-08-11)
 argument. Folks, let's put it very simply: *Your kids will turn out OK
 if you pay attention to them.* It's not the game's fault if your child
 is unable to discern between fantasy and reality.
- 
+
  *3:15p*
- 
+
  [Here's an interesting
 thing](http://science.slashdot.org/science/03/08/11/1345228.shtml?tid=134)
 that I didn't know was possible - people can have different sets of DNA
 in different body parts. It's called "Chimera twins." Sort of throws a
 wrench in the works for
 [*CSI*](http://www.cbs.com/primetime/csi/main.shtml), doesn't it?
- 
+
  The Internet connection here is really shitty... or they have a slow
 proxy server. It takes around 15 seconds just to do a DNS lookup on a
 server, which doesn't count the time it takes to load a site.
- 
+
  *3:50p*
- 
+
  I've run out of random stuff to type. Bah. I've moved on to drawing in
 MS Paint:
 ![Witness the
 SKILLZ](https://hyqi8g.blu.livefilestore.com/y2po7-h7R2A3UTp8-eqb433PWLwx5WOleOQEjgLrstvvgGwf96RBXSF3oHtbjtg2qqi6f8wb-1dvxJPx7AAZ0f2z6INmkA94W622XU0UilqMDY/20030811artskillz.gif?psid=1).
- 
+
  *4:37p*
- 
+
  I think we'll be running late here. Thanks, bitch.
- 
+
  *4:48p*
- 
+
  That's it for today. Onward to tomorrow. Gotta go home and study.

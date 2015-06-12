@@ -4,7 +4,7 @@ title: "Ridiculous Mail"
 date: 2003-08-25 -0800
 comments: true
 disqus_identifier: 335
-tags: [General Ramblings]
+tags: [personal]
 ---
 I haven't been able to get my personal email at work all day today
 because they shut down POP access at the firewall (thanks,

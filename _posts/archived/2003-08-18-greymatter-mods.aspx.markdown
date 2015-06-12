@@ -4,7 +4,7 @@ title: "Greymatter Mods"
 date: 2003-08-18 -0800
 comments: true
 disqus_identifier: 326
-tags: [GeekSpeak]
+tags: [blog]
 ---
 So I just did a little hacking on the Greymatter source code so now I
 have some additional functionality:

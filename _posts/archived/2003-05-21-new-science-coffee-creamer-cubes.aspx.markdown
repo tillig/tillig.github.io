@@ -4,7 +4,7 @@ title: "New Science: Coffee Creamer Cubes"
 date: 2003-05-21 -0800
 comments: true
 disqus_identifier: 260
-tags: [General Ramblings]
+tags: [humor]
 ---
 Okay, here's an idea for you: non-dairy coffee creamer that comes in
 *cubes*. Sort of like sugar cubes, but powdered creamer. Easily
@@ -18,6 +18,6 @@ cream. You could even wrap each cube in a dissolving coating, sort of
 like pharmaceutical tablets, so you wouldn't get the "crumbling" effect
 that you get with a box of sugar cubes (where the last few cubes aren't
 even full cubes anymore).
- 
+
  I'm obviously in the wrong line of work. They should pay me to work in
 a think tank and come up with brilliance like this all day.

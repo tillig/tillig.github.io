@@ -4,7 +4,7 @@ title: "Shock Therapy"
 date: 2003-08-26 -0800
 comments: true
 disqus_identifier: 339
-tags: [General Ramblings]
+tags: [personal]
 ---
   ------------------------------------------------------------------------------------- -------------------------------
   ![Drs. Foster & Smith](http://www.drsfostersmith.com/images/cart/dfs_mag_logo.gif)\   August 26, 2003
@@ -12,7 +12,7 @@ tags: [General Ramblings]
    2253 Air Park Road, P.O. Box 100
    Rhinelander, WI 54501-0100
    Toll Free (800) 381-7179
-   Fax (800) 776-8872                                                                   
+   Fax (800) 776-8872
   ------------------------------------------------------------------------------------- -------------------------------
 
 
@@ -45,7 +45,7 @@ x
 **Subtotal**
 **=**
 **\$59.99**
-**Expedited 
+**Expedited
  (2-4 Business Days)**
 **=**
 **\$14.98**

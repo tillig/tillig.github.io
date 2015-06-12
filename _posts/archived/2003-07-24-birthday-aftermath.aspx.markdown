@@ -4,10 +4,10 @@ title: "Birthday Aftermath"
 date: 2003-07-24 -0800
 comments: true
 disqus_identifier: 305
-tags: [General Ramblings]
+tags: [personal]
 ---
 Being 27, I've found, is not terribly different from being 26.
- 
+
  Before we wax too philosophic, let's review the acknowledgements for
 the day yesterday. I got email greetings from:
 
@@ -22,12 +22,12 @@ Personal acknowledgements from about half of my department (there are
 nine people in my department) came in about half an hour before I left,
 when one of the guys was peeking over my shoulder and saw my calendar
 with my birthday clearly marked.
- 
+
  That's about it.
- 
+
  I wasn't, like, expecting a party, but I guess I feel a little gypped
 since everyone else's birthday around here gets remembered.
- 
+
  So, anyway, that was the day. That evening, my mom, dad, sister Tai and
 husband Dan, and grandfather (on Mom's side) came over and we had a
 little cheesecake. Gifts were the following:
@@ -44,7 +44,7 @@ I liked all the stuff I got, and it was good to see everyone over. My
 grandparents on my dad's side and my sister Tori in Utah were sort of
 MIA as far as birthday greetings, though, which I think is kinda
 crappy.
- 
+
  But oh well. It's not like I expected anything in particular, but I'm
 feeling a little disappointed nonetheless. I guess that's just how
 things go the longer time goes by.

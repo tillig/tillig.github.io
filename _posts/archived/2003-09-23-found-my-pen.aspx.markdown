@@ -4,7 +4,7 @@ title: "Found My Pen"
 date: 2003-09-23 -0800
 comments: true
 disqus_identifier: 364
-tags: [General Ramblings]
+tags: [personal]
 ---
 Remember the Space Pen I lost a while ago so I ended up buying a new
 one? Yeah, well, I found the one I lost. It was in my car, under the

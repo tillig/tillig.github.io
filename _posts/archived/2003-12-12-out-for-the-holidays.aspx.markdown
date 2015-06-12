@@ -4,7 +4,7 @@ title: "Out For The Holidays!"
 date: 2003-12-12 -0800
 comments: true
 disqus_identifier: 422
-tags: [General Ramblings]
+tags: [personal]
 ---
 I'm takin' off from work now. Next time you hear from me will probably
 be next week during training... after that, who knows?! If you email me

@@ -4,68 +4,68 @@ title: "ADO.NET, Part 2"
 date: 2003-08-12 -0800
 comments: true
 disqus_identifier: 320
-tags: [GeekSpeak,net]
+tags: [net,personal]
 ---
 *10:17a*
- 
+
  I'm back, and I'm still pissed off at this chick next to me, but she's
 playing it low-key today so I'm not going to have to throw down, at
 least, not yet.
- 
+
  I continue to study for my next test, but the material is feeling more
 and more comfortable to me, and I think that's a good thing.
- 
+
  I took our dining room table apart last night so it can be more readily
 transported to the garage sale. If you want a nice Ethan Allen table,
 come on by my parents' place this weekend. It's a \$1500 table with six
 \$250 chairs. Decent condition. I'm hoping to come out of this with
 enough for a table that's more *me*.
- 
+
  ![My pop
 can](https://hyqi8g.blu.livefilestore.com/y2pHXGJPOlgNUFCe5vqqXZVh99EyvXiUlkdFATaCKZENynSbyK_HJJ1O3ss1lnPsL2BaWli-HVU1g536uhYw80aGFa8VQm7Hprw1Q0F4rWAHCE/20030812popcan.gif?psid=1)I've
 gotten bored already this morning and decided to draw a picture of my
 pop can. Again, witness the skillz.
- 
+
  This class is coming pretty naturally to me. It's amazing the parallels
 between the other database classes I've taken and this class (which
 teaches how to access databases from your programs). All of the
 terminology and everything is the same, so it's a breeze to map this new
 stuff onto concepts I already understand.
- 
+
  Which means I'm done with the hour-long lab in like 20 minutes because
 it's easy. Fine by me - it enables me to chat with you fine folk.
- 
+
  *10:35*
- 
+
  My keyboard just froze up for no reason so I had to reboot. Bah.
- 
+
  We've got until 11:00 to finish the lab. Guess I've got some time to
 kill.
- 
+
  *11:49a*
- 
+
  Lunchtime!
- 
+
  *12:50p*
- 
+
  I went to lunch at a place called Fat Albert's Breakfast Cafe. I'd
 heard about it and driven past it a couple of times, but I'd never
 actually eaten there.
- 
+
  It's pretty darn good.
- 
+
  I ended up having a "Spanish Omelette," which basically means "cheese
 and jalapeños." I liked it. It was a little spendy for a lunch (I'm
 cheap, so \$7 for an omelette for lunch is spendy) but it was tasty and
 there was lots of it, so I'm not complaining.
- 
+
  *1:38p*
- 
+
  Finished the lab ahead of time again, but only due to my previously
 having taken the Windows Apps in C\# course. They're really throwing
 some advanced Windows apps concepts at folks who are just trying to
 learn a simple concept.
- 
+
  The bitch is piping up again, though. The teacher is trying to
 negotiate with us to determine how much time folks need to get the lab
 done, and while he's trying to figure that out, she's all, "I can't
@@ -73,33 +73,33 @@ done, and while he's trying to figure that out, she's all, "I can't
 chamber or something? It's called fucking *ignore it*, lady. There are
 three of us in class, and she's the only one not done with the damn lab.
 This is *bullshit*.
- 
+
  There are class prerequisites. She doesn't meet them.
- 
+
  *3:24p*
- 
+
  Lab's supposedly over at 4:00p, but we've got a lot to cover still
 today so I'm hoping the bitch can hurry her shit up. She wants us all to
 stay late (like, 5:30p or 6:00p) because she can't figure her shit out.
- 
+
  I found out that the instructor lives in the same apartment complex as
 I do, just a couple of buildings down. Plus, he used to work with a
 bunch of the guys that work with me now. Small world!
- 
+
  Actually, he's a really interesting guy. He's from Cambodia and was
 there during the whole Khmer Rouge thing. He's got stories about how
 he's gone two or three weeks without eating anything but roots and bugs.
 Crazy shit, man.
- 
+
  *4:25p*
- 
+
  The bitch complains that she doesn't get enough time to do the labs,
 then she leaves early. *Irritating.*
- 
+
  Well, I've finished with the last lab of the day, and thank goodness
 we've caught up to where we're supposed to be. We pretty much flew
 through the last chapter, but it was a good pace because the teacher
 skipped all the "if you *don't meet course prerequisites...*" crap. I
 like that. He's a good guy.
- 
+
  Time for me to fly...

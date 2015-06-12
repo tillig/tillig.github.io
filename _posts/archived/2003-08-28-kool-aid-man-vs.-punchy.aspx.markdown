@@ -4,7 +4,7 @@ title: "Kool-Aid Man vs. Punchy"
 date: 2003-08-28 -0800
 comments: true
 disqus_identifier: 342
-tags: [General Ramblings]
+tags: [food,humor]
 ---
 ![Kool Aid Man (4k
 image)](https://hyqi8g.blu.livefilestore.com/y2pS1uwy840NtAVU3ykBb60AldkZy3Elm8tt9kHhLr-mmajJX44EER6SfV8VsV8Uok_xkKae8yGii_CMwwSQZJmgXxvJzMHt5iEUYJG_rI2mrI/20030828koolaidman.gif?psid=1)
@@ -12,13 +12,13 @@ VS. ![Punchy (2k
 image)](https://hyqi8g.blu.livefilestore.com/y2piXnMy0Edd4HYiOnGKHPHQE29ShTRbRWbY8stuUTd8nRIKminwP49YjUx7-awKghCIXaTyQeeDCswg3tjRd-QFtOH_tiN7k0D7bueILYVxD8/20030828punchy.gif?psid=1)
 
 
- 
+
  I got a comment from a friend of mine about how Punchy creeps her out,
 and it made me think that it might be time to have a showdown: *Kool-Aid
 Man vs. Punchy*.
- 
+
  Once and for all, it's time to decide who's got the better juice.
- 
+
 PRO
 
 Kool-Aid Man
@@ -68,7 +68,7 @@ Punchy
     count)
 
 
- 
+
  You would think that looks pretty even, but if you closely analyze the
 pros and cons, you'll see that ***THE WINNER IS PUNCHY***. With his
 never-beaten red juice, keen hat, and Big Gulp opportunities, it's not

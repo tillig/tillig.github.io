@@ -4,12 +4,12 @@ title: "Small Bit of Photojournalism"
 date: 2003-08-14 -0800
 comments: true
 disqus_identifier: 322
-tags: [General Ramblings]
+tags: [personal]
 ---
 I took a couple of pictures over the last few days I thought might share
 with you folks. This being my first foray into photojournalism, don't
 expect much.
- 
+
  First, I took a picture of the extraordinarily meager drink selection
 that they offered at the training facility I attended the last few days.
 There were a couple of cans of orange and grape flavored pop, too, but

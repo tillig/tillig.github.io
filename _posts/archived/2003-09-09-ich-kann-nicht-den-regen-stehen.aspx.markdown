@@ -4,14 +4,14 @@ title: "Ich Kann Nicht Den Regen Stehen"
 date: 2003-09-09 -0800
 comments: true
 disqus_identifier: 350
-tags: [General Ramblings]
+tags: [personal]
 ---
 I was listening to my iPod this morning, set on random, and it only
 seemed to play either German music (in the original German, like Nena's
 *99 Luftballons* or Falco's *Vienna Calling*) or music about rain (like
 Tina Turner's *I Can't Stand The Rain* or Eurythmics' *Here Comes The
 Rain Again*). It was sort of eerie.
- 
+
  I passed my test yesterday, and it was sort of interesting because they
 had stopped giving scores on the Microsoft certification tests, but I
 got a score. I passed with a 913 (700 being the minimum passing score).
@@ -22,22 +22,22 @@ they also broke the score up into topic areas (like different points the
 test was trying to cover) and I got "strong" ratings on all of the areas
 (ratings range from "strong" to "needs development"), so I'm feeling
 pretty good.
- 
+
  That leaves me with one more test before I get my MCSD.NET
 certification. The next one, *Analyzing Requirements for .NET
 Applications* (or something like that), I haven't had the class for; I
 only have the practice test. I will have to look over the practice test
 to see how the questions look. From the title of the test, I'm thinking
 I may be able to muddle through.
- 
+
  But not tonight. Tonight, in celebration, I'm taking the night off from
 studying and, since Jenn's out at one of her meetings, I'll be playing
 Playstation. Oh, yeah.
- 
+
  You know, this morning driving in to work I had a lot more to say. I
 don't even remember what now. Man, such is the way my life's going
 anymore. I can't remember *shit*.
- 
+
  My boss was telling me that he may not be able to post his thoughts as
 cathartically on his blog as I do on mine because he "might say
 something he'll regret." I dunno about that. I mean, it's *your* site,
@@ -48,12 +48,12 @@ wants to fire me because I say something they don't like, well... I
 guess in that instance I'd decide that working for the Third Reich is
 not quite where I needed to be. But that hasn't happened (yet) so let's
 hope it never comes down to that. Right?
- 
+
  I've been getting random job-offer-related spam lately in my inbox (how
 can you take a job offer that gets mass-mailed seriously?). For those
 recruiters who are sifting through sites and wanting me to come work for
 you, here's the deal:
- 
+
  You have to offer equal or better benefits compared to what I'm getting
 now. You definitely have to offer better pay, and probably significantly
 so since changing jobs is a big pain. The position has to be a

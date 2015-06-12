@@ -4,14 +4,14 @@ title: "Blogworks"
 date: 2003-11-21 -0800
 comments: true
 disqus_identifier: 405
-tags: [General Ramblings]
+tags: [blog]
 ---
 I was looking at my blog this morning and I realized that there's still
 a lot of work to do. I have some keen ideas for fixing it up a bit that,
 pending on how much time I get this weekend, I may get around to doing.
 Then again, I may save it for next weekend when Jenn's at work so I can
 actually *concentrate* on it.
- 
+
  Things I want to do include:
 Get rid of the huge list of "date" links along the side navbar. That's
 nuts.
@@ -65,9 +65,9 @@ and put it back in the appropriate entries.
 Fix entries that link to other entries so they don't link into
 Greymatter.
 
- 
+
  I think that's it. At least for now.
- 
+
  In other news, I'm stewing a little over the whole [Playstation 2
 debacle](/archive/2003/11/20/the-myth-of-the-dre.aspx). I'm really
 hoping I don't run into trouble when I call them Saturday (and I *know*

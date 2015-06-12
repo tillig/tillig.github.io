@@ -4,7 +4,7 @@ title: "Almost Done"
 date: 2003-11-10 -0800
 comments: true
 disqus_identifier: 399
-tags: [GeekSpeak]
+tags: [blog]
 ---
 This is the first entry I've actually personally made in pMachine. I've
 finally gotten around to updating the templates on everything, and while

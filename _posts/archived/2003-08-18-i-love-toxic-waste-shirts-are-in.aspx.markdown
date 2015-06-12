@@ -4,7 +4,7 @@ title: "&quot;I Love Toxic Waste&quot; Shirts Are IN!"
 date: 2003-08-18 -0800
 comments: true
 disqus_identifier: 327
-tags: [General Ramblings]
+tags: [personal]
 ---
 Check out [the Junk
 Store](http://www.cafeshops.com/paraesthesia,like_to_help_01,hate_people_01,paraesthesia_02,tDt_01,toxicwaste_01)

@@ -4,17 +4,17 @@ title: "ASP.NET, Part 3"
 date: 2003-08-20 -0800
 comments: true
 disqus_identifier: 329
-tags: [GeekSpeak,Web Development,net]
+tags: [net,aspnet]
 ---
 *8:00a*
- 
+
  I forgot to mention earlier that this weekend I went to
 [Safeway](http://www.safeway.com) and picked up this soda called "Red
 Twist." It tastes *just like red licorice*. That may sound gross to some
 of you, but I'm sucked in. It's awesome.
- 
+
  *8:25a*
- 
+
  I got my credit report last night because Jenn had received a free one
 and saw a bunch of stuff that probably shouldn't be there, so I got
 concerned. I ordered the 3-in-1 version from
@@ -24,14 +24,14 @@ everything on mine was pretty much up-to-snuff. There are a couple of
 discrepancies I have which I will dispute - for example, I had a credit
 card with a company that ended up going out of business and that credit
 line still shows as "open."
- 
+
  Also, I scheduled my next test - *MS070-320 Developing XML Web Services
 and Serviced Components with Visual C\# and the .NET Framework* - for
 this coming Monday at 11:30a. It's scheduled for two and a half hours;
 let's hope it doesn't take that long.
- 
+
  *9:46a*
- 
+
  We're almost done with the first section of the day, which was an
 overview of ADO.NET. For those in the cheap seats, ADO.NET was the
 three-day in-depth class I took *last week*, so I can't say this wasn't
@@ -39,7 +39,7 @@ a bit slow for me. What really got me, though, was the guy in my class
 who was also in my class last week... I think he was sort of "playing
 dumb" because he was quiet whenever the teacher asked any question, and
 I know we went over this stuff.
- 
+
  It got me to thinking that in classrooms everywhere, there are two
 major roles that get played. There's the teacher, who will always ask
 questions of the class and actually expect to get an answer. Then
@@ -49,39 +49,39 @@ when they can answer the question. I don't; I'll answer, but then it
 seems like I'm the only one ever answering anything, so I start getting
 quieter and quieter so I can give the other students a chance... and
 they never take it. How irritating.
- 
+
  My mom emailed me and it seems that the table I thought [Fred
 Meyer](http://www.fredmeyer.com) carried - a bar-height table to go with
 some nice bar stools - was ony a figment of my imagination. So I guess
 I'll continue looking and will probably end up with the [Bordeaux Bistro
 Set](http://www.furniturefind.com/Hillsdale/HD-BordeauxBistro.htm) I saw
 this weekend online.
- 
+
  *10:10a*
- 
+
  Lab.
- 
+
  *10:22a*
- 
+
  Done.
- 
+
  Looking at the next section, I see that we've got another ADO.NET
 review. Well, I guess my game of Spider Solitaire will just be
 improving...
- 
+
  *11:57a*
- 
+
  We're finally done with the ADO.NET chapter, and it's lunch time before
 the lab. Whew. It's been pretty slow, and I'm ready to get up and go.
- 
+
  *12:39p*
- 
+
  Got the "nacho beef bake" at the store today. For being \$8 a pound,
 this is the best thing I've had from there so far. Pretty tasty. I only
 got half a pound, but I could probably have eaten a whole pound if it
 hadn't been so expensive. Maybe I'll have to get that again tomorrow. I
 think it's going to give me heartburn, though.
- 
+
  Something else I forgot to mention: I played the demo for [*Soul
 Calibur
 II*](http://www.amazon.com/exec/obidos/ASIN/B00008H2IW/mhsvortex) on PS2
@@ -91,44 +91,44 @@ combinations to get things done - you have "vertical attack,"
 "horizontal attack," "kick," and "block." I think I can figure that one
 out. I may have to pick it up. Folks say it's one of the best fighthing
 games ever, and from what I've seen I tend to agree.
- 
+
  *1:05p*
- 
+
  Done with the lab. Seems that several folks stayed through lunch and
 finished it up, so I guess I'm about even with them now. That's okay,
 maybe we'll get out early again...
- 
+
  Looks like the next chapter is more ADO.NET. I understand why they have
 an overview in every class - it's important stuff - but we seem to be
 dwelling on it in here WAY more than any other class (other than the
 dedicated ADO.NET class that I just took).
- 
+
  *1:23p*
- 
+
  Heeeeeartbuuuuuuurn.....
- 
+
  [This](http://www.whoisxiii.com/) looks like a *rockin'* game.
- 
+
  *2:10p*
- 
+
  We're a full chapter ahead today. We had the option of leaving early or
 going through another chapter, so we chose another chapter so we can try
 for a half-day Friday. I think we'll still get out pretty early, and
 that's *just fine*.
- 
+
  *2:21p*
- 
+
  Oh boy. This chapter starts out with "What Is XML?" The end gets into
 some good stuff, though.
- 
+
  *3:00p*
- 
+
  We're about halfway through this chapter and we're starting to get to
 the good stuff. We'll probably leave the really good stuff for tomorrow,
 though.
- 
+
  *3:28p*
- 
+
  We're at the last lab for the day. I guess we're going to do it
 tomorrow, so I'm outta here. Which is fine; it should take about 10
 minutes to do it.

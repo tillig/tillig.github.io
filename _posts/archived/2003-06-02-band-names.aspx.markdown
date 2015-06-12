@@ -4,7 +4,7 @@ title: "Band Names"
 date: 2003-06-02 -0800
 comments: true
 disqus_identifier: 266
-tags: [Media]
+tags: [music]
 ---
 I was sitting, bored, waiting to get into [*The Italian
 Job*](http://us.imdb.com/Title?0317740), when I thought of some names
