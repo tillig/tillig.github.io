@@ -117,7 +117,7 @@ has been constantly growing so you can actually see it in action doing
 pretty much anything.
 
 *Full disclosure: I got a free personal license
-from*[*Patrick*](http://codebetter.com/patricksmacchia/)*at NDepend.
+from [Patrick](http://codebetter.com/patricksmacchia/) at NDepend.
 However, we have also purchased several licenses at work and make use of
 it to great benefit.*
 
