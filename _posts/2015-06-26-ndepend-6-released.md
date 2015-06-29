@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NDepend 6 Released"
-date: 2016-06-26 11:00:00 -0800
+date: 2015-06-26 11:00:00 -0800
 comments: true
 tags: [net,vs,ndepend]
 ---
