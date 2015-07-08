@@ -4,8 +4,10 @@ title: "Overview of My Media Center Solution"
 date: 2008-09-30 -0800
 comments: true
 disqus_identifier: 1453
-tags: [Media]
+tags: [media,music,movies,hardware,home]
 ---
+**UPDATE 7/8/2015** - All current documentation for my media center and home network is at [illigmediacenter.readthedocs.org](http://illigmediacenter.readthedocs.org/).
+
 Now that I've solved my media center problem, let me do a review of what
 I was trying to do, what I did, and some of the lessons learned along
 the way.
@@ -28,13 +30,13 @@ the way.
     I'd like to be able to re-burn a disc if I have the original go bad.
     **UPDATE:** I've changed my position on this since the original
     setup and [I'm only storing the movie files
-    now](/archive/2014/03/18/switched-dvd-archiving-to-mp4.aspx).
+    now]({{ site.url }}/archive/2014/03/18/switched-dvd-archiving-to-mp4.aspx).
 3.  **Full quality, all features.** I want to be able to navigate and
     view the DVD as if I had put it into a DVD player - full menus, no
     reduced quality, all audio tracks, all extra features. **UPDATE:**
     I've changed my position on this since the original setup and [I'm
     only storing the movie files
-    now](/archive/2014/03/18/switched-dvd-archiving-to-mp4.aspx).
+    now]({{ site.url }}/archive/2014/03/18/switched-dvd-archiving-to-mp4.aspx).
 4.  **Wife acceptance factor.** I want it to be easy and accessible to
     Jenn so she can use it, too, without having to memorize the
     37-button-sequence to get it working.
@@ -63,9 +65,9 @@ the way.
     -   **Windows Home Server.** For music, home movies, photos, and
         documents I went with a Windows Home Server as the central
         storage mechanism. It gave me [some great first
-        impressions](/archive/2008/08/25/windows-home-server-first-impressions.aspx)
+        impressions]({{ site.url }}/archive/2008/08/25/windows-home-server-first-impressions.aspx)
         and [I learned a lot even two weeks
-        in](/archive/2008/09/08/two-weeks-in-with-windows-home-server-what-ive-learned.aspx),
+        in]({{ site.url }}/archive/2008/09/08/two-weeks-in-with-windows-home-server-what-ive-learned.aspx),
         but I've never looked back. WHS got a bad rap early on with some
         data corruption defects that have been fixed and I think people
         really need to give it a chance. It has a great form factor, is
@@ -77,31 +79,31 @@ the way.
         monitoring your network health and backing up your PCs. Dollar
         for dollar, I'd take this over a generic NAS any day. (That
         said, there are [some recommended
-        upgrades](/archive/2008/09/28/home-server-upgrades.aspx) you
+        upgrades]({{ site.url }}/archive/2008/09/28/home-server-upgrades.aspx) you
         might want to do to make the most of your server.) **UPDATE**: I
         originally used Windows Home Server as the single storage
         solution, but ended up adding the Synology NAS and switching the
         DVD images to that.
     -   **Synology NAS.** I went with the [Synology
-        DS1010+](/archive/2010/05/20/moving-to-a-synology-ds1010.aspx)
+        DS1010+]({{ site.url }}/archive/2010/05/20/moving-to-a-synology-ds1010.aspx)
         for movie storage. I did this because I ran into [some odd
         disk-related
-        issues](/archive/2010/02/05/working-through-perfectdisk-for-whs-issues.aspx)
+        issues]({{ site.url }}/archive/2010/02/05/working-through-perfectdisk-for-whs-issues.aspx)
         with the home server (bad drives) and since I didn't have enough
         disk space to turn on duplication for my DVD images, I wanted to
         figure out some sort of fault tolerance if a drive went out. The
         DS1010+ will let me run RAID 5 and is super fast, so I moved to
-        that for the DVDs. 
+        that for the DVDs.
 -   **Front-End Software - Windows 7 Media Center and XBMC.** I looked
-    at [MediaPortal](/archive/2006/09/18/dvd-iso-via-mediaportal.aspx),
+    at [MediaPortal]({{ site.url }}/archive/2006/09/18/dvd-iso-via-mediaportal.aspx),
     [TVersity](http://tversity.com/), [Front
-    Row](/archive/2007/03/15/i-need-to-think-outside-the-media-center-box.aspx),
+    Row]({{ site.url }}/archive/2007/03/15/i-need-to-think-outside-the-media-center-box.aspx),
     [Xbox Media Center](http://xbmc.org/), just using the Xbox 360 as a
     media extender, and several other front-end software packages, but
     Windows Media Center initially won out for several reasons. First,
     it comes bundled with the OS - fewer moving pieces (unlike an
     additional application you'd have to install, e.g., TVersity).
-    Second, it's handled VIDEO\_TS DVD rips for quite some time (unlike
+    Second, it's handled VIDEO_TS DVD rips for quite some time (unlike
     Front Row, which only just recently got it and has no real
     documentation out there available for it). Third, it handles almost
     all of the other formats I use for pictures, music, etc. (unlike
@@ -111,24 +113,24 @@ the way.
         playback, faster loading of the DVD Library, etc.
     -   **UPDATE 12/29/11:** [I have just started using XBMC as the
         front
-        end](/archive/2011/12/29/switching-from-windows-media-center-to-xbmc-for-my-media.aspx)
+        end]({{ site.url }}/archive/2011/12/29/switching-from-windows-media-center-to-xbmc-for-my-media.aspx)
         instead of Windows Media Center because the rendering of the DVD
         library is much faster than Windows Media Center, especially
         with a lot of movies. It also has a much nicer UI with art and
         info than the more sparse WMC UI.
 
--   **Video Format - VIDEO\_TS.** I [blogged about the pros and cons of
+-   **Video Format - VIDEO_TS.** I [blogged about the pros and cons of
     various video
-    formats](/archive/2008/09/23/choosing-a-format-for-your-dvd-library.aspx),
-    and in the end I picked VIDEO\_TS as the format I'd rip my DVDs into
+    formats]({{ site.url }}/archive/2008/09/23/choosing-a-format-for-your-dvd-library.aspx),
+    and in the end I picked VIDEO_TS as the format I'd rip my DVDs into
     since it was most compatible with the various software packages and
     didn't require any additional tweaking in Media Center to use. Plus,
     it gives full access to the disc features (menus, etc.), you don't
-    lose any quality, and you can re-burn VIDEO\_TS to a DVD and have a
-    watchable disc just like the original. 
+    lose any quality, and you can re-burn VIDEO_TS to a DVD and have a
+    watchable disc just like the original.
 -   **Front-End Hardware - Dell Studio Hybrid PC.** [I picked up a Dell
     Studio Hybrid
-    PC](/archive/2008/09/29/dell-studio-hybrid-media-center-installed.aspx)
+    PC]({{ site.url }}/archive/2008/09/29/dell-studio-hybrid-media-center-installed.aspx)
     to be the hardware sitting in my living room. It has a great form
     factor and all the right connections (DVI, HDMI, [S/PDIF
     audio](http://en.wikipedia.org/wiki/SPDIF)) to make it a perfect
@@ -140,7 +142,7 @@ the way.
 **How it works:**
 
 [I set up the "DVD Library" in Windows Media
-Center](/archive/2008/09/12/how-to-set-up-a-dvd-library-in-windows-media.aspx)
+Center]({{ site.url }}/archive/2008/09/12/how-to-set-up-a-dvd-library-in-windows-media.aspx)
 rather than using the popular [My Movies
 plugin](http://www.mymovies.name) because, again, I really wanted as few
 "moving pieces" as possible and My Movies didn't seem to offer me
@@ -161,7 +163,7 @@ free out-of-the-box with my Windows Home Server.
 
 My music is accessible to DLNA compliant devices (Xbox 360, PS3) through
 [Asset UPnP on the Windows Home
-Server](/archive/2009/08/11/stream-more-music-from-windows-home-server-with-asset-upnp.aspx).
+Server]({{ site.url }}/archive/2009/08/11/stream-more-music-from-windows-home-server-with-asset-upnp.aspx).
 Windows Media Center doesn't natively play Apple Lossless (though with
 Windows 7 it does play AAC) so I don't have it running through the Media
 Center.
@@ -186,12 +188,12 @@ layout.](http://lh3.googleusercontent.com/-G5PEJBcHe48/ThctV8V092I/AAAAAAAACSg/E
     forums, making it hard to pick through and figure out what's going
     on. When you ask questions, people assume you already know a bunch
     of stuff you don't know, so you get very cryptic answers, which you
-    then have to go research and ask more questions about. 
+    then have to go research and ask more questions about.
 -   **Format wars are a pain.** I'm specifically looking at you, WMA vs.
     AAC. There's no good reason I can find that the Apple formats aren't
     supported out of the box by Media Center other than the desire to
     remain proprietary. Garbage. (With Windows 7, AAC is supported but
-    Apple Lossless still isn't.) 
+    Apple Lossless still isn't.)
 -   **Even in a simple environment, things are fiddly.** Getting
     everything stored centrally, updated properly, displaying right,
     with correct access... it's trivial, annoying, fiddly stuff. Tweak
@@ -206,28 +208,28 @@ next?
 
 -   **Music access:** I'm looking at
     [MCETunes](http://www.mcetunes.com/) to enable access to my iTunes
-    content in Media Center. 
+    content in Media Center.
      [**UPDATE**: I found [you can get Media Center playing iTunes files
-    natively](/archive/2009/05/19/getting-itunes-music-to-play-in-windows-media-center.aspx)
+    natively]({{ site.url }}/archive/2009/05/19/getting-itunes-music-to-play-in-windows-media-center.aspx)
     by adding some codecs and metadata tag parser support. I also found
     [you can use Windows Home Server
-    add-ins](/archive/2009/08/11/stream-more-music-from-windows-home-server-with-asset-upnp.aspx)
-    to stream music to Xbox 360 and PS3 that wouldn't normally work.] 
+    add-ins]({{ site.url }}/archive/2009/08/11/stream-more-music-from-windows-home-server-with-asset-upnp.aspx)
+    to stream music to Xbox 360 and PS3 that wouldn't normally work.]
      [**UPDATE 2**: I'm using Asset UPnP for DLNA streaming/transcoding
     of Apple Lossless, etc., to Xbox 360 and other DLNA compatible
     devices.]
 -   **Front-end upstairs:** I have a spare desktop (the ThinkCentre)
     that I may put upstairs so we can access the same DVD content in
     another room. It's not as nice of a form factor, but that's less
-    concerning in the game room. 
+    concerning in the game room.
      [**UPDATE**: I did end up moving that ThinkCentre upstairs and it's
     working well.]
 -   **Finish ripping movies:** I have 90 movies on the server right now,
     but 500+ titles. I've gotta get these things ripped. I won't rip
     every single one of them, and probably won't rip the "extended
-    features" discs, but that's still a lot of work left to do. 
+    features" discs, but that's still a lot of work left to do.
      [**UPDATE**: I finished ripping all of my movie discs - no extra
-    features discs - and have 770 VIDEO\_TS folders taking up 4.91TB of
+    features discs - and have 770 VIDEO_TS folders taking up 4.91TB of
     space on the Windows Home Server. That's about 6.7GB per image.]
 -   **Upgrade my MPEG2 codec:** The built-in DVD player for Media Center
     is notoriously mediocre. It looks decent enough, but by upgrading
@@ -240,7 +242,7 @@ next?
     PowerDVD](http://www.cyberlink.com/multi/products/main_1_ENU.html).
     [**UPDATE:**: XBMC uses FFmpeg to play DVDs and [I've had some
     better luck with XBMC as the front
-    end](/archive/2011/12/29/switching-from-windows-media-center-to-xbmc-for-my-media.aspx).
+    end]({{ site.url }}/archive/2011/12/29/switching-from-windows-media-center-to-xbmc-for-my-media.aspx).
     Some discs that looked exceptionally bad... still don't look
     awesome, but are at least better.]
 -   **Fix the video resolution:** The TV in the living room is a native
@@ -252,7 +254,7 @@ next?
     DTDCalc](http://www.clevertec.co.uk/productsfree.htm#dtdcalc).
     [**UPDATE**: [Connecting the PC through HDMI to a newer TV yielded
     full 1080p resolution with no
-    letterboxing](/archive/2008/09/29/dell-studio-hybrid-media-center-installed.aspx).]
+    letterboxing]({{ site.url }}/archive/2008/09/29/dell-studio-hybrid-media-center-installed.aspx).]
     [**UPDATE 2**: I upgraded the TV in the living room to a 1920 x 1080
     set and still have no problems.]
 
@@ -265,30 +267,30 @@ are some highlights.)
 
 -   Setting up your DVD library:
     -   [Switched DVD Archiving to
-        MP4](/archive/2014/03/18/switched-dvd-archiving-to-mp4.aspx) (I
+        MP4]({{ site.url }}/archive/2014/03/18/switched-dvd-archiving-to-mp4.aspx) (I
         changed from my [originally selected
-        format](/archive/2008/09/23/choosing-a-format-for-your-dvd-library.aspx))
+        format]({{ site.url }}/archive/2008/09/23/choosing-a-format-for-your-dvd-library.aspx))
     -   [How to Set Up a DVD Library in Windows Media
-        Server](/archive/2008/09/12/how-to-set-up-a-dvd-library-in-windows-media.aspx)
+        Server]({{ site.url }}/archive/2008/09/12/how-to-set-up-a-dvd-library-in-windows-media.aspx)
     -   [Switching from Windows Media Center to XBMC for my Media Center
         Front
-        End](/archive/2011/12/29/switching-from-windows-media-center-to-xbmc-for-my-media.aspx)
+        End]({{ site.url }}/archive/2011/12/29/switching-from-windows-media-center-to-xbmc-for-my-media.aspx)
 
 -   Windows Home Server:
     -   [Windows Home Server First
-        Impressions](/archive/2008/08/25/windows-home-server-first-impressions.aspx)
+        Impressions]({{ site.url }}/archive/2008/08/25/windows-home-server-first-impressions.aspx)
     -   [Two Weeks In with Windows Home Server: What I've
-        Learned](/archive/2008/09/08/two-weeks-in-with-windows-home-server-what-ive-learned.aspx)
+        Learned]({{ site.url }}/archive/2008/09/08/two-weeks-in-with-windows-home-server-what-ive-learned.aspx)
     -   [Home Server
-        Upgrades](/archive/2008/09/28/home-server-upgrades.aspx)
+        Upgrades]({{ site.url }}/archive/2008/09/28/home-server-upgrades.aspx)
 
 -   [Dell Studio Hybrid Media Center
-    Installed](/archive/2008/09/29/dell-studio-hybrid-media-center-installed.aspx)
+    Installed]({{ site.url }}/archive/2008/09/29/dell-studio-hybrid-media-center-installed.aspx)
 -   [Getting iTunes Music to Play in Windows Media
-    Center](/archive/2009/05/19/getting-itunes-music-to-play-in-windows-media-center.aspx)
+    Center]({{ site.url }}/archive/2009/05/19/getting-itunes-music-to-play-in-windows-media-center.aspx)
 -   [Stream More Music From Windows Home Server with Asset
-    UPnP](/archive/2009/08/11/stream-more-music-from-windows-home-server-with-asset-upnp.aspx)
+    UPnP]({{ site.url }}/archive/2009/08/11/stream-more-music-from-windows-home-server-with-asset-upnp.aspx)
 -   [Moving to a Synology
-    DS1010+](/archive/2010/05/20/moving-to-a-synology-ds1010.aspx)
+    DS1010+]({{ site.url }}/archive/2010/05/20/moving-to-a-synology-ds1010.aspx)
 
 
