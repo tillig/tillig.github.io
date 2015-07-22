@@ -25,9 +25,10 @@ keyframer](http://en.wikipedia.org/wiki/Key_frame).
 When I am not programming for work, I contribute to some open source
 projects. Some of the more popular ones include...
 
--   **[Autofac](https://github.com/autofac/Autofac)**, a popular .NET inversion-of-control container.
--   **[CR\_Documentor](https://github.com/tillig/CR_Documentor)**, a plugin for Visual Studio that allows you to preview your XML API docs.
--   **[SublimeMSBuild](https://github.com/tillig/SublimeMSBuild)**, a package for Sublime Text that enables statement completion and build using MSBuild.
+- **[Autofac](https://github.com/autofac/Autofac)**, a popular .NET inversion-of-control container.
+- **[CR\_Documentor](https://github.com/tillig/CR_Documentor)**, a plugin for Visual Studio that allows you to preview your XML API docs.
+- **[SublimeMSBuild](https://github.com/tillig/SublimeMSBuild)**, a package for Sublime Text that enables statement completion and build using MSBuild.
+- **[app.paraesthesia.com](http://app.paraesthesia.com)** hosts a few little web apps I've put up, like the [Command Prompt Here Generator](http://app.paraesthesia.com/CommandPromptHere/) and [LoyaltyCard](http://app.paraesthesia.com/LoyaltyCard/).
 
 Most everything [is on GitHub](https://github.com/tillig) nowadays, so head over there for more.
 
