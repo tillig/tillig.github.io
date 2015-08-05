@@ -164,7 +164,13 @@ The key important bits there are:
 
 Again, a lot of assumptions seem to be built in that you're using that structure. You can save a lot of headaches by switching.
 
-**I can see this may cause some long-path problems.** Particularly if you are checking out code into a deep file folder and have a long assembly name, you could have trouble. Think `C:\users\myusername\Documents\GitHub\project\src\MyProject.MyAssembly.SubNamespace1.SubNamespace2\MyProject.MyAssembly.SubNamespace1.SubNamespace2.kproj`. That's 152 characters right there. Add in those crazy WCF-generated `.datasource` files and things are going to start exploding.
+**I can see this may cause some long-path problems.** Particularly if you are checking out code into a deep file folder and have a long assembly name, you could have trouble. Think...
+
+```
+C:\users\myusername\Documents\GitHub\project\src\MyProject.MyAssembly.SubNamespace1.SubNamespace2\MyProject.MyAssembly.SubNamespace1.SubNamespace2.kproj
+```
+
+That's 152 characters right there. Add in those crazy WCF-generated `.datasource` files and things are going to start exploding.
 
 ##Assembly/Package Versioning in `project.json`
 Part of what you put in `project.json` is your project/package version:
