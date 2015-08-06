@@ -11,8 +11,10 @@ tags: [autofac,net,testing]
 To use your own key, you need to add it to the `compilationOptions` section of your `project.json` file:
 
 ``` json
-"compilationOptions": {
-   "keyFile": "myApp.snk"
+{
+  "compilationOptions": {
+    "keyFile": "myApp.snk"
+  }
 }
 ```
 
