@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Automatically Connect to OpenVPN on Synology with Android"
-date: 2015-01-01 -0800
+date: 2015-08-14 -0800
 comments: true
 tags: [synology,security]
 ---
