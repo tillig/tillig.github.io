@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Autofac.Wcf, Autofac.Mef, Autofac.Extras.AttributeMetadata, Autofac.Multitenant.Wcf 4.0.0 Released"
-date: 2015-09-15 -0800
+date: 2015-09-11 -0800
 comments: true
 tags: [autofac,net]
 ---
