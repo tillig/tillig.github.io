@@ -20,14 +20,12 @@ here's how it goes from acquisition to "in the system."
             -   Clean up artist or album name data if needed.
             -   Synchronize collection with [Music Collector
                 Online](http://connect.collectorz.com/users/tillig/music/view).
-
         2.  Add to iTunes.
             -   Rip CD as Apple Lossless. Files end up on Windows Home
                 Server for later serving via [Asset
                 UPnP](http://www.dbpoweramp.com/asset-upnp-dlna.htm).
             -   Clean up metadata as needed - artist, album, cover art,
                 etc.
-
         3.  Synchronize iPod.
         4.  File the disc.
             -   Pull the disc, front cover, and back cover out of the
@@ -36,7 +34,6 @@ here's how it goes from acquisition to "in the system."
                 box](/archive/2011/05/20/media-storage.aspx).
             -   File the back cover in an expanding folder.
             -   Recycle the plastic box.
-
     -   Digital (MP3, AAC)
         1.  Download from original source ([usually Amazon
             MP3](http://www.amazon.com/MP3-Music-Download/b/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&node=163856011&redirect=true&tag=mhsvortex)).
@@ -46,7 +43,6 @@ here's how it goes from acquisition to "in the system."
                 UPnP](http://www.dbpoweramp.com/asset-upnp-dlna.htm).
             -   Clean up metadata as needed - artist (last, first),
                 album, etc.
-
         3.  Synchronize iPod.
         4.  Add to [Music Collector](http://www.collectorz.com/music/).
             -   Add the digital files to Music Collector.
@@ -54,7 +50,6 @@ here's how it goes from acquisition to "in the system."
             -   Link to a Music Collector album profile.
             -   Synchronize collection with [Music Collector
                 Online](http://connect.collectorz.com/users/tillig/music/view).
-
 -   **Video (Movies, TV Shows)**
     -   Blu-ray
         1.  Add to [DVD Profiler](http://www.invelos.com/).
@@ -64,7 +59,6 @@ here's how it goes from acquisition to "in the system."
             -   Synchronize collection with [DVD Profiler
                 Online](http://www.invelos.com/dvdcollection.aspx/tillig).
             -   Backup the local profile database.
-
         2.  File the disc.
             -   Pull the disc cover, discs, and inserts out of the
                 plastic box.
@@ -72,7 +66,6 @@ here's how it goes from acquisition to "in the system."
                 storage
                 set](/archive/2011/08/30/discsox-blu-ray-storage.aspx).
             -   Recycle the plastic box.
-
     -   DVD
         1.  Add to [DVD Profiler](http://www.invelos.com/).
             -   Update the local profile database for my existing
@@ -81,7 +74,6 @@ here's how it goes from acquisition to "in the system."
             -   Synchronize collection with [DVD Profiler
                 Online](http://www.invelos.com/dvdcollection.aspx/tillig).
             -   Backup the local profile database.
-
         2.  Rip the disc and add to media center.
             -   Rip the disc with [DVDFab HD
                 Decrypter](http://www.dvdfab.com).
@@ -89,7 +81,6 @@ here's how it goes from acquisition to "in the system."
                 scrape data.
                 -   [IMDb](http://www.imdb.com) format for movies.
                 -   [TheTVDB](http://thetvdb.com/) format for TV shows.
-
             -   Update the DVDID XML file if needed for Windows Media
                 Center.
             -   Copy the disc image onto my NAS (Synology DS1010+) for
@@ -103,7 +94,6 @@ here's how it goes from acquisition to "in the system."
                 system.
             -   Correct the metadata using DVD Library Manager including
                 better cover scans.
-
         3.  File the disc.
             -   Pull the disc cover, discs, and inserts out of the
                 plastic box.
@@ -112,10 +102,8 @@ here's how it goes from acquisition to "in the system."
             -   File the cover in an expandable folder.
             -   File the inserts in a small photo box.
             -   Recycle the plastic box.
-
         4.  Optional: Convert for Mobile Use (via Handbrake). If I do
             this, I put it into iTunes and then sync iPod and iPad.
-
     -   Digital
         1.  Redeem the "digital copy" code (in iTunes).
         2.  Update any metadata as needed.
