@@ -4,6 +4,8 @@ title: "LEGO Dimensions Review"
 date: 2016-01-04 -0800
 comments: true
 tags: [personal,gaming,toys,xbox]
+description: "I got LEGO Dimensions for Christmas this year and decided to post a review."
+image: http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VMB5RDQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mhsvortex
 ---
 This year for Christmas, Jenn and I decided to get a larger "joint gift" for each other since neither of us really needed anything. That gift ended up being an [Xbox One (the Halo 5 bundle)](http://www.amazon.com/gp/product/B0136JP9OS/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0136JP9OS&linkCode=as2&tag=mhsvortex&linkId=D32EKWMYHG3BUMS7), the [_LEGO Dimensions_ starter pack](http://www.amazon.com/gp/product/B00VMB5RDQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB5RDQ&linkCode=as2&tag=mhsvortex&linkId=TWJH7IS4ZHXXGXPU), and a few expansion packs.
 
