@@ -18,7 +18,7 @@
 	<meta name="og:description" content="{{ description }}">
 	<meta name="twitter:description" content="{{ description }}">
 	{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
-	{% capture pageurl %}{% if page.url %}{{ page.url }}{% else %}{{ site.url }}{% endif %}{% endcapture %}
+	{% capture pageurl %}{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}{% endcapture %}
 	<meta name="twitter:url" content="{{ pageurl }}">
 	<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Search Paraesthesia">
 	{% if page.image %}<meta name="twitter:image" content="{{ page.image }}"><meta property="og:image" content="{{ page.image }}">{% endif %}
