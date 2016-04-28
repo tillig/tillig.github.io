@@ -5,7 +5,7 @@ date: 2014-11-18 -0800
 comments: true
 tags: [media,music,movies,hardware,home,synology]
 ---
-**UPDATE 7/8/2015** - All current documentation for my media center and home network is at [illigmediacenter.readthedocs.org](http://illigmediacenter.readthedocs.org/).
+**UPDATE 7/8/2015** - All current documentation for my media center and home network is at [illigmediacenter.readthedocs.io](http://illigmediacenter.readthedocs.io/).
 
 [Way back in 2008 I put up an overview of my media server solution]({{ site.url }}/archive/2008/09/30/overview-of-my-media-center-solution.aspx) based on the various requirements I had at the time - what I wanted out of it, what I wasn't so interested in.
 

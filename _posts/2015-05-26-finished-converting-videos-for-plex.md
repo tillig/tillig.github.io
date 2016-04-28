@@ -27,8 +27,8 @@ I'm pretty pleased with how everything has come together. Seeing it all in Plex,
 
 Anyway, if you're looking to convert a bunch of video, it's worth investing in some hefty CPU power. It'll save you tons of time.
 
-**Finally, as part of this, I'd like to introduce [my media center documentation on ReadTheDocs](http://illigmediacenter.readthedocs.org).**
+**Finally, as part of this, I'd like to introduce [my media center documentation on ReadTheDocs](http://illigmediacenter.readthedocs.io).**
 
 It's a work in progress, so this is sort of a "soft launch," but I think it's fleshed out enough to be of some use. I will probably do a more dedicated blog entry for it when I've got more of it filled out.
 
-Information about [how I converted my stuff with Handbrake](http://illigmediacenter.readthedocs.org/en/latest/software/convert/handbrake.html), including the script I used to pull the report data above, as well as the [specs for my behemoth conversion/Plex server](http://illigmediacenter.readthedocs.org/en/latest/hardware/server/megaplex.html), is all [over there](http://illigmediacenter.readthedocs.org).
+Information about [how I converted my stuff with Handbrake](http://illigmediacenter.readthedocs.io/en/latest/software/convert/handbrake.html), including the script I used to pull the report data above, as well as the [specs for my behemoth conversion/Plex server](http://illigmediacenter.readthedocs.io/en/latest/hardware/server/megaplex.html), is all [over there](http://illigmediacenter.readthedocs.io).

@@ -18,7 +18,7 @@ Previous Autofac.Configuration packages relied on `web.config` or `app.config` i
 
 While this makes for a cleaner configuration story with a lot of great flexibility, it means if you want to switch to the new Autofac.Configuration, you have some migration to perform.
 
-[**There is a lot of documentation with examples on the Autofac doc site showing how new configuration works.**](http://autofac.readthedocs.org/en/latest/configuration/xml.html)
+[**There is a lot of documentation with examples on the Autofac doc site showing how new configuration works.**](http://autofac.readthedocs.io/en/latest/configuration/xml.html)
 
 A nice benefit is you can now use JSON to configure Autofac, which can make things a bit easier to read. A simple configuration file might look like this:
 
@@ -84,6 +84,6 @@ var builder = new ContainerBuilder();
 builder.RegisterModule(module);
 ```
 
-Again, [check out the documentation for some additional detail including some of the differences and new things we're supporting](http://autofac.readthedocs.org/en/latest/configuration/xml.html) using this model.
+Again, [check out the documentation for some additional detail including some of the differences and new things we're supporting](http://autofac.readthedocs.io/en/latest/configuration/xml.html) using this model.
 
 Finally, big thanks to the Microsoft.Framework.Configuration team [for working to get collection/array support into the configuration model](https://github.com/aspnet/Configuration/issues/115).

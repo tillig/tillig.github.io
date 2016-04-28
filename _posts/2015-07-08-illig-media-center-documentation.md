@@ -11,12 +11,12 @@ The problem with this sort of periodic summary is that it's hard to get an accur
 
 I was keeping my media center and home networking notes in a personal wiki on [PBworks](http://www.pbworks.com/) but I figured it was time to make things a bit more official.
 
-**[My media center and home network documentation is now live at illigmediacenter.readthedocs.org](http://illigmediacenter.readthedocs.org/)**
+**[My media center and home network documentation is now live at illigmediacenter.readthedocs.io](http://illigmediacenter.readthedocs.io/)**
 
-[![Diagram of my home network](http://illigmediacenter.readthedocs.org/en/latest/_images/diagram_small.png)](http://illigmediacenter.readthedocs.org/)
+[![Diagram of my home network](http://illigmediacenter.readthedocs.io/en/latest/_images/diagram_small.png)](http://illigmediacenter.readthedocs.io/)
 
-This is the place I'll add notes or tips on how my media center setup works. I've got everything from [the hardware I use](http://illigmediacenter.readthedocs.org/en/latest/hardware/index.html) to [my process for getting video content into the system](http://illigmediacenter.readthedocs.org/en/latest/processes/video.html). I've got my [plan and analysis for how I cut cable](http://illigmediacenter.readthedocs.org/en/latest/plans/cuttingthecable.html) including cost breakdowns and options. It's all on this site.
+This is the place I'll add notes or tips on how my media center setup works. I've got everything from [the hardware I use](http://illigmediacenter.readthedocs.io/en/latest/hardware/index.html) to [my process for getting video content into the system](http://illigmediacenter.readthedocs.io/en/latest/processes/video.html). I've got my [plan and analysis for how I cut cable](http://illigmediacenter.readthedocs.io/en/latest/plans/cuttingthecable.html) including cost breakdowns and options. It's all on this site.
 
 My biggest problem in getting my media center going was that I didn't know what I didn't know. Information about all this stuff - hardware, software, how to get things done - is spread out all over the place. I never found a complete guide to help me on my way.
 
-**[I hope this documentation can help you jump start your media center or improve the one you have.](http://illigmediacenter.readthedocs.org/)** As things change in my system, I'll be keeping the documentation here up to date so it should always have the latest info.
+**[I hope this documentation can help you jump start your media center or improve the one you have.](http://illigmediacenter.readthedocs.io/)** As things change in my system, I'll be keeping the documentation here up to date so it should always have the latest info.

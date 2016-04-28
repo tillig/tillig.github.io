@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 1453
 tags: [media,music,movies,hardware,home]
 ---
-**UPDATE 7/8/2015** - All current documentation for my media center and home network is at [illigmediacenter.readthedocs.org](http://illigmediacenter.readthedocs.org/).
+**UPDATE 7/8/2015** - All current documentation for my media center and home network is at [illigmediacenter.readthedocs.io](http://illigmediacenter.readthedocs.io/).
 
 Now that I've solved my media center problem, let me do a review of what
 I was trying to do, what I did, and some of the lessons learned along

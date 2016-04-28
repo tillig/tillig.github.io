@@ -33,7 +33,7 @@ projects. Some of the more popular ones include...
 Most everything [is on GitHub](https://github.com/tillig) nowadays, so head over there for more.
 
 I also like [playing games](http://live.xbox.com/member/Paraesthesia), working on [my media
-center](http://illigmediacenter.readthedocs.org/en/latest/index.html), and collecting [movies](http://www.invelos.com/dvdcollection.aspx/tillig) and [music](http://connect.collectorz.com/users/tillig/music/view).
+center](http://illigmediacenter.readthedocs.io/en/latest/index.html), and collecting [movies](http://www.invelos.com/dvdcollection.aspx/tillig) and [music](http://connect.collectorz.com/users/tillig/music/view).
 
 I am open to hearing about new opportunities, but only:
 

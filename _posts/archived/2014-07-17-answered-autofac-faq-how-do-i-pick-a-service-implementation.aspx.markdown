@@ -7,7 +7,7 @@ disqus_identifier: 1846
 tags: [net]
 ---
 Over at Autofac we’re trying to get [a more robust set of documentation
-out](http://autofac.readthedocs.org/) to help folks. The wiki is nice,
+out](http://autofac.readthedocs.io/) to help folks. The wiki is nice,
 but it leaves a lot to be desired.
 
 As part of that, we’re also trying to get some answers published to some
@@ -16,5 +16,5 @@ StackOverflow.
 
 [Today I pushed out the doc answering that timeless question, “How do I
 pick a service implementation based on a particular context or consuming
-object?”](http://autofac.readthedocs.org/en/latest/faq/select-by-context.html)
+object?”](http://autofac.readthedocs.io/en/latest/faq/select-by-context.html)
 
