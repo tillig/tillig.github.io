@@ -19,6 +19,7 @@ Assumptions:
 - The treasure is pure, 24k gold to make the math easier rather than the 22k gold [that doubloons are actually made from](https://en.wikipedia.org/wiki/Doubloon).
 - [Gold weighs **19.3g per cubic centimeter**.](https://www.uu.edu/dept/physics/scienceguys/2000Aug.cfm)
 - [The highest packing density you can get for circular objects is **90.6%**](https://en.wikipedia.org/wiki/Circle_packing) but given the [various ratos we could use](http://mathworld.wolfram.com/CirclePacking.html) and the notion we're throwing coins into a chest we're probably looking at closer to... oh, **35% packing efficiency**.
+- The chest weighs **nothing**. Or, at least, for the purposes of my little math fun here, I'm just ignoring the weight of the treasure chest proper.
 
 Now, let's say the treasure chest is like 90cm x 60cm x 60cm on the inside. A little large-ish, but not unheard of in a pirate movie.
 
