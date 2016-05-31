@@ -5,7 +5,7 @@ date: 2016-05-31 -0800
 comments: true
 tags: [personal,movies,humor]
 description: "In watching a pirate movie recently, I thought about what it really means to cart around a treasure chest full of gold."
-image: {{ site.url }}/images/20160531_treasure.jpg
+image: /images/20160531_treasure.jpg
 ---
 
 I was watching _[Cutthroat Island](http://www.amazon.com/Cutthroat-Island-DVD-Geena-Davis/dp/B000NQRR1G/tag=mhsvortex)_ this weekend with my daughter, who loves pirate movies, when I started thinking about these giant treasure chests full of gold you see in such films.
