@@ -10,14 +10,16 @@ As we all saw, [ASP.NET Core and .NET Core went RTM this past Monday](https://bl
 
 Every time an RC (or, now, RTM) comes out, questions start flooding in [on Autofac](https://github.com/autofac/Autofac), sometimes literally within minutes of the go-live, asking when Autofac will be coming out with an update. While [we have an issue you can track](https://github.com/autofac/Autofac/issues/594) if you want to watch the progress, I figured I'd give a status update on where we are and where we're going with respect to RTM. I'll also explain why we are where we are.
 
-#Where's Autofac?
+#Current Status
+
 **We have an RC build of core Autofac out on NuGet that is compatible with .NET Core RTM.** That includes a version of `Autofac.Extensions.DependencyInjection`, the Autofac implementation against `Microsoft.Extensions.DependencyInjection`. We'll be calling this version 4.0.0. We are working hard to get a "stable" version released, but we've hit a few snags at the last minute, which I'll go into shortly.
 
 **About half of the non-portable projects have been updated to be compatible with Autofac 4.0.0.** For the most part this was just an update to the NuGet packages, but with Autofac 4.0.0 we also changed to stop using the old code access security model (remember `[AllowPartiallyTrustedCallers]` ?) and some of these projects needed to be updated accordingly.
 
 **We are working hard to get the other half of the integration projects updated.** Portable projects are being converted to use the new `project.json` structure and target `netstandard` framework monikers. Non-portable projects are sticking with `.csproj` but are being verified for compatibility with Autofac 4.0.0, getting updated as needed.
 
-#What's the Holdup?
+#Why It's Taking So Long
+
 Oh, where do I begin.
 
 Let me preface this by saying it's going to sound like a rant. And in some ways it is. I do love what the .NET Core and ASP.NET Core teams have out there now, but it's been a bumpy ride to get here and many of the bumps are what caused the delay.
