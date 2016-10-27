@@ -4,7 +4,7 @@ title: "Choosing a Format for Your DVD Library"
 date: 2008-09-23 -0800
 comments: true
 disqus_identifier: 1448
-media
+tags: [media]
 ---
 **UPDATE 3/18/2014**: I've re-analyzed my needs and the available
 technology and [I've switched to MP4 movie

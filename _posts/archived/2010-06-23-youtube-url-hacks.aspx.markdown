@@ -4,7 +4,7 @@ title: "YouTube URL Hacks"
 date: 2010-06-23 -0800
 comments: true
 disqus_identifier: 1652
-media
+tags: [media]
 ---
 I went looking for a list of [YouTube](http://www.youtube.com) URL hacks
 so I could send a link to a video and have it start at a particular

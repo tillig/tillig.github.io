@@ -4,7 +4,7 @@ title: "Network Issues and Netflix Streaming"
 date: 2010-02-18 -0800
 comments: true
 disqus_identifier: 1616
-media
+tags: [media]
 ---
 I have [Netflix](http://www.netflix.com) and it's pretty awesome, but
 sometimes there are just problems getting the streaming to work well.

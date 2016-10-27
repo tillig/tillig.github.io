@@ -4,7 +4,7 @@ title: "The Cataloging Process"
 date: 2012-09-15 -0800
 comments: true
 disqus_identifier: 1791
-media
+tags: [media]
 ---
 As [part of my media center
 solution](/archive/2008/09/30/overview-of-my-media-center-solution.aspx),

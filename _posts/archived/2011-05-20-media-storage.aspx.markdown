@@ -4,7 +4,7 @@ title: "Media Storage"
 date: 2011-05-20 -0800
 comments: true
 disqus_identifier: 1717
-media
+tags: [media]
 ---
 After doing [that Hanselminutes on network attached storage, Synology,
 and Windows Home

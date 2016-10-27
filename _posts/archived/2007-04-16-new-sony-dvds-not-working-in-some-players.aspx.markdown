@@ -4,7 +4,7 @@ title: "New Sony DVDs Not Working In Some Players"
 date: 2007-04-16 -0800
 comments: true
 disqus_identifier: 1180
-media
+tags: [media]
 ---
 Remember how [I just bought a new DVD
 player](/archive/2007/04/16/electronics-dying.aspx) because my old one

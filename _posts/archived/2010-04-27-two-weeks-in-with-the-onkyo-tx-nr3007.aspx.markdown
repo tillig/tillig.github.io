@@ -4,7 +4,7 @@ title: "Two Weeks In with the Onkyo TX-NR3007"
 date: 2010-04-27 -0800
 comments: true
 disqus_identifier: 1633
-media
+tags: [media]
 ---
 A couple of weeks back [I blogged about setting up my Onkyo TX-NR3007
 receiver](/archive/2010/04/12/the-great-receiver-install-of-10.aspx).

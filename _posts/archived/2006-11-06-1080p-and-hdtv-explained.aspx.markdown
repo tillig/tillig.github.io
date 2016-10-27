@@ -4,7 +4,7 @@ title: "1080p and HDTV Explained"
 date: 2006-11-06 -0800
 comments: true
 disqus_identifier: 1096
-media
+tags: [media]
 ---
 eCoustics has [a great article on
 HDTV](http://forum.ecoustics.com/bbs/messages/34579/284986.html) that

@@ -4,7 +4,7 @@ title: "Media Center Storage Win"
 date: 2008-09-02 -0800
 comments: true
 disqus_identifier: 1440
-media
+tags: [media]
 ---
 I got a "prototype system" up and running for [a media center
 solution](/archive/2008/08/21/more-media-server-options.aspx) using [my

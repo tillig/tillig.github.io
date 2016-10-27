@@ -4,7 +4,7 @@ title: "More Media Server Options"
 date: 2008-08-21 -0800
 comments: true
 disqus_identifier: 1434
-media
+tags: [media]
 ---
 I still haven't solved my media server problem, mostly because I know
 it's going to be a time-suck to set it all up and rip all the DVDs and

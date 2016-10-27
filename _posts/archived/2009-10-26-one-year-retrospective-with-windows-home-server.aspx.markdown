@@ -7,7 +7,7 @@ disqus_identifier: 1578
 tags: [media,windows]
 ---
 A little over a year ago I was looking for a storage solution for [my
-media
+tags: [media]
 center](/archive/2008/09/30/overview-of-my-media-center-solution.aspx)
 and [landed on Windows Home
 Server](/archive/2008/08/25/windows-home-server-first-impressions.aspx).

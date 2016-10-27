@@ -4,7 +4,7 @@ title: "Comcast/Motorola Firmware Update Breaks DVI"
 date: 2006-11-10 -0800
 comments: true
 disqus_identifier: 1099
-media
+tags: [media]
 ---
 For the last week we've been fighting with the Comcast HD digital cable
 box. The video will come on and then disappear after three or four

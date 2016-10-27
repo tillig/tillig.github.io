@@ -4,7 +4,7 @@ title: "DVD Ripping Guide from Tested.com"
 date: 2010-03-23 -0800
 comments: true
 disqus_identifier: 1625
-media
+tags: [media]
 ---
 The folks over at Tested.com have created a nice guide to show you [how
 to rip your DVDs to play on any

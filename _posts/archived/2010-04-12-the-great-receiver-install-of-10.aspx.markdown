@@ -4,7 +4,7 @@ title: "The Great Receiver Install of '10"
 date: 2010-04-12 -0800
 comments: true
 disqus_identifier: 1628
-media
+tags: [media]
 ---
 This weekend I took Saturday from about 11:00a to 7:00p installing and
 configuring my new [Onkyo TX-NR3007

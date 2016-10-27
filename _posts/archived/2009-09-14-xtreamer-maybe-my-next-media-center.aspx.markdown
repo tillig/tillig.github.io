@@ -4,7 +4,7 @@ title: "Xtreamer - Maybe My Next Media Center?"
 date: 2009-09-14 -0800
 comments: true
 disqus_identifier: 1562
-media
+tags: [media]
 ---
 I was reading some reviews of [the Xtreamer media streaming
 device](http://www.thextreamer.com/) over on [the MS Windows Home Server

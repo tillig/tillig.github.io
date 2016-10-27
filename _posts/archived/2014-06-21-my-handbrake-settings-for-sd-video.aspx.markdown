@@ -4,7 +4,7 @@ title: "My Handbrake Settings for SD Video"
 date: 2014-06-21 -0800
 comments: true
 disqus_identifier: 1845
-media
+tags: [media]
 ---
 I've been ripping a lot of SD video lately, converting my full-disc
 VIDEO\_TS folder images to .m4v files for use with Plex, and I've

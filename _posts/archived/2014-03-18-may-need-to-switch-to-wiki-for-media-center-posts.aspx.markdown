@@ -4,7 +4,7 @@ title: "May Need to Switch to Wiki for Media Center Posts"
 date: 2014-03-18 -0800
 comments: true
 disqus_identifier: 1836
-media
+tags: [media]
 ---
 Looking at the list of media center posts I’ve got and the
 updates/changes over time [just to the main

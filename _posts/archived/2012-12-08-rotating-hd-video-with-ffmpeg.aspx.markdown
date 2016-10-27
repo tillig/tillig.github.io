@@ -4,7 +4,7 @@ title: "Rotating HD Video with FFmpeg"
 date: 2012-12-08 -0800
 comments: true
 disqus_identifier: 1796
-media
+tags: [media]
 ---
 I've seen a ton of forum posts and blog posts trying to explain how to
 use [mencoder](http://www.mplayerhq.hu) or [FFmpeg](http://ffmpeg.org/)

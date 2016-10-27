@@ -4,7 +4,7 @@ title: "DiscSox Blu-Ray Storage"
 date: 2011-08-30 -0800
 comments: true
 disqus_identifier: 1735
-media
+tags: [media]
 ---
 I have [a lot of DVDs and they get stored in
 binders](/archive/2011/05/20/media-storage.aspx), but I don't have so

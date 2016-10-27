@@ -4,7 +4,7 @@ title: "Storage Option - Drobo"
 date: 2008-08-22 -0800
 comments: true
 disqus_identifier: 1435
-media
+tags: [media]
 ---
 A potential storage alternative to Windows Home Server for my media
 center: [Drobo](http://www.drobo.com). Looks like a cool, affordable

@@ -4,7 +4,7 @@ title: "Switched DVD Archiving to MP4"
 date: 2014-03-18 -0800
 comments: true
 disqus_identifier: 1835
-media
+tags: [media]
 ---
 Back in 2008 when I originally was looking at the various solutions for
 archiving my movies, [I weighed the pros and cons of things and decided
