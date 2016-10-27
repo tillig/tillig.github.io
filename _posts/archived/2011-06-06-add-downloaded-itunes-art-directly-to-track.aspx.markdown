@@ -4,7 +4,7 @@ title: "Add Downloaded iTunes Art Directly to Track"
 date: 2011-06-06 -0800
 comments: true
 disqus_identifier: 1719
-tags: [Code Snippets,Media]
+tags: [media,windows,music,javascript,downloads]
 ---
 In iTunes, if you have a track that is missing artwork you have the
 ability to right-click the track and opt to automatically download
@@ -27,6 +27,7 @@ artwork directly into the track.
 FILES UP BEFORE RUNNING IT.** That seems obvious, but just in case it
 wasn't clear, there you go.
 
+```js
     // Add-DownloadedCoverArtToFile.js
     // By Travis Illig - http://www.paraesthesia.com
     // THIS SCRIPT MODIFIES YOUR ITUNES TRACKS TO EMBED DOWNLOADED
@@ -63,10 +64,10 @@ wasn't clear, there you go.
     var numProcessed = 0;
 
     // Process the tracks.
-    for (var i = 1; i <= numTracks; i++) 
+    for (var i = 1; i <= numTracks; i++)
     {
       var currentTrack = allTracks.Item(i);
-      
+
       // Only handle local tracks that aren't podcasts and that have downloaded art.
       if(
         currentTrack.URL != null ||
@@ -76,7 +77,7 @@ wasn't clear, there you go.
       {
         continue;
       }
-      
+
       // Only handle tracks with ONE piece of artwork. If a track has multiple pieces
       // of art, the order can be important and that's not something we want to deal with.
       if(currentTrack.Artwork.Count > 1)
@@ -101,7 +102,7 @@ wasn't clear, there you go.
       {
         WScript.Echo("Error processing " + currentTrack.Artist + " - " + currentTrack.Name + ": " + ex);
       }
-        
+
 
       // Provide a percent complete status message.
       var currentComplete = Math.floor((i / numTracks) * 100);
@@ -110,7 +111,7 @@ wasn't clear, there you go.
         completePercent = currentComplete;
         WScript.Echo("Processed: " + completePercent + "% of library.");
       }
-      
+
       // Bail early if we hit the max tracks to process.
       numProcessed++;
       if(numProcessed >= MAX_TRACKS_TO_PROCESS)
@@ -148,6 +149,7 @@ wasn't clear, there you go.
       var scriptTypeLib = new ActiveXObject("Scriptlet.TypeLib");
       return scriptTypeLib.GUID.substr(1, 36);
     }
+```
 
 I've run this pretty extensively in a test environment and I'll be
 running it on my 15K track library shortly. Again, though, **BACK UP

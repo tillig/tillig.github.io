@@ -4,7 +4,7 @@ title: "24 Hours with Kindle"
 date: 2011-02-02 -0800
 comments: true
 disqus_identifier: 1694
-tags: [Media,General Ramblings]
+tags: [media,books]
 ---
 [![Amazon Kindle - 6" - Wi-Fi and
 3G](http://ecx.images-amazon.com/images/I/41NbGMoQL5L._SL160.jpg)](http://www.amazon.com/dp/B002FQJT3Q?tag=mhsvortex)I

@@ -4,7 +4,7 @@ title: "GTA4 In The House"
 date: 2008-04-29 -0800
 comments: true
 disqus_identifier: 1383
-tags: [Gaming]
+tags: [gaming,playstation]
 ---
 [![GTA4 Unboxed - Click for
 photos.](http://farm4.static.flickr.com/3260/2452596934_09207986d4_m.jpg)](http://www.flickr.com/photos/tillig/sets/72157604794236934/t)Picked

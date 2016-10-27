@@ -4,7 +4,7 @@ title: "Time On My Hands Could Be Time Spent With You"
 date: 2002-11-18 -0800
 comments: true
 disqus_identifier: 167
-tags: [gaming,ps2,music]
+tags: [gaming,playstation,music]
 ---
 Last week was, for lack of a better word, *paradise*. Short story even
 shorter, except for Tuesday, I pretty much just stayed home and played

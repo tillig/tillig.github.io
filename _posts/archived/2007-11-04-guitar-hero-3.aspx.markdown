@@ -4,7 +4,7 @@ title: "Guitar Hero 3"
 date: 2007-11-04 -0800
 comments: true
 disqus_identifier: 1289
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I picked up my copy of *[Guitar Hero
 3](http://www.redoctane.com/guitarhero3xbox360bundle.html)* at Costco

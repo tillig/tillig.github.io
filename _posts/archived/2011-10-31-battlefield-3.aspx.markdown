@@ -4,7 +4,7 @@ title: "Battlefield 3"
 date: 2011-10-31 -0800
 comments: true
 disqus_identifier: 1747
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I finally got a chance to crack open [*Battlefield
 3*](http://www.amazon.com/dp/B003O6G5TW?tag=mhsvortex) this weekend. I

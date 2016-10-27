@@ -4,7 +4,7 @@ title: "Xbox 360 Maintenance Secrets"
 date: 2007-12-10 -0800
 comments: true
 disqus_identifier: 1318
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 Well, maybe not secrets, but lesser known troubleshooting steps and help
 for Xbox 360.  I'm learning way too much about this

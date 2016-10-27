@@ -4,7 +4,7 @@ title: "Laser Hair Removal 11, Reed College, Professor Layton, and Outlook Catas
 date: 2008-06-09 -0800
 comments: true
 disqus_identifier: 1396
-tags: [General Ramblings,Gaming]
+tags: [personal,gaming]
 ---
 I'm going to do a lot of very small personal updates all in one fell
 swoop. Here we go!

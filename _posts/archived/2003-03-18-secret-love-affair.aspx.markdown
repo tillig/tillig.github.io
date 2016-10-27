@@ -4,7 +4,7 @@ title: "Secret Love Affair"
 date: 2003-03-18 -0800
 comments: true
 disqus_identifier: 231
-tags: [gaming,ps2,gameboy]
+tags: [gaming,playstation,gameboy]
 ---
 I realized while on vacation - er, training - last week that I am having
 an affair behind Jenn's back.

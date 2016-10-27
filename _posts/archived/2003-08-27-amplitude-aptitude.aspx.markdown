@@ -4,7 +4,7 @@ title: "Amplitude Aptitude"
 date: 2003-08-27 -0800
 comments: true
 disqus_identifier: 341
-tags: [gaming,ps2]
+tags: [gaming,playstation]
 ---
 I've been living up the
 [*Amplitude*](http://www.amazon.com/exec/obidos/ASIN/B0000859TM/mhsvortex),

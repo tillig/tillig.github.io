@@ -4,7 +4,7 @@ title: "Solution to Dell Studio Hybrid HDMI Sleep Problems?"
 date: 2009-04-05 -0800
 comments: true
 disqus_identifier: 1511
-tags: [Media]
+tags: [media,windows]
 ---
 Something I'd noticed in recent times: [My Dell Studio Hybrid media
 center

@@ -4,7 +4,7 @@ title: "Windows 7 Supported Audio/Video Formats"
 date: 2009-11-04 -0800
 comments: true
 disqus_identifier: 1586
-tags: [Media]
+tags: [media,windows]
 ---
 In researching potential video formats for switching my DVD library from
 VIDEO\_TS to something else ([due to file access time

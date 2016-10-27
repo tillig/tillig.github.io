@@ -4,7 +4,7 @@ title: "24: Season 6"
 date: 2007-12-17 -0800
 comments: true
 disqus_identifier: 1322
-tags: [Media,General Ramblings]
+tags: [media,tv]
 ---
 Saturday marked the fifth annual *24* marathon at my house, this year
 for [season

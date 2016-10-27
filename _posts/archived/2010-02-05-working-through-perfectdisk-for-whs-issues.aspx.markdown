@@ -4,7 +4,7 @@ title: "Working Through PerfectDisk for WHS Issues"
 date: 2010-02-05 -0800
 comments: true
 disqus_identifier: 1612
-tags: [Media,GeekSpeak]
+tags: [media,windows]
 ---
 Back in June 2009 I picked up a copy of PerfectDisk for Windows Home
 Server as a solution for defragmenting the system. At the time I hadn't
@@ -34,10 +34,10 @@ access any file shares. You had to power down hard and reboot to get
 things responding again. Looking in the event logs, I saw what looked
 like hardware issues:
 
-> Source: disk 
+> Source: disk
 > Error: The device, \\Device\\Harddisk5, is not ready for access yet.
 >
-> Source: mv61xx 
+> Source: mv61xx
 > Error: The device, \\Device\\Scsi\\mv61xx1, did not respond within the
 > timeout period.
 

@@ -4,7 +4,7 @@ title: "Cheap Way to get Warner Brothers Blu-Ray Discs"
 date: 2009-04-23 -0800
 comments: true
 disqus_identifier: 1517
-tags: [Media]
+tags: [media,movies,tv]
 ---
 Warner Brothers has [created a service called
 Red2Blu](http://www.red2blu.com) that lets you convert your HD DVD

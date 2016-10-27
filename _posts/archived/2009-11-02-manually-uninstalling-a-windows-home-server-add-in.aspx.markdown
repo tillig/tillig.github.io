@@ -4,7 +4,7 @@ title: "Manually Uninstalling a Windows Home Server Add-In"
 date: 2009-11-02 -0800
 comments: true
 disqus_identifier: 1582
-tags: [Media,GeekSpeak]
+tags: [media,windows]
 ---
 I just had a bit of a scare with a misbehaving Windows Home Server
 add-in where the upgrade process went frightfully wrong. As such, I

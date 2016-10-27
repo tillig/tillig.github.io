@@ -4,7 +4,7 @@ title: "PS3: Echochrome and Soul Calibur IV"
 date: 2008-08-04 -0800
 comments: true
 disqus_identifier: 1426
-tags: [Gaming]
+tags: [gaming,playstation]
 ---
 Had a bit of a PS3 weekend this weekend. Realized I had the PS3 but
 really hadn't played any games on it, using it primarily as a Blu-ray

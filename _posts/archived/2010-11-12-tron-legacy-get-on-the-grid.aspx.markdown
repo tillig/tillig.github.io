@@ -4,7 +4,7 @@ title: "Tron: Legacy - Get on the Grid"
 date: 2010-11-12 -0800
 comments: true
 disqus_identifier: 1680
-tags: [General Ramblings,Media]
+tags: [media,movies]
 ---
 This is the coolest thing I've seen all day: [Disney released this
 application on Facebook](http://apps.facebook.com/tron-facemap-us/)

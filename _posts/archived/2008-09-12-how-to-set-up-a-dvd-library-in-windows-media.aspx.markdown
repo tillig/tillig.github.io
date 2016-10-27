@@ -4,7 +4,7 @@ title: "How To Set Up a DVD Library in Windows Media Server"
 date: 2008-09-12 -0800
 comments: true
 disqus_identifier: 1446
-tags: [Media]
+tags: [media,windows]
 ---
 Getting a DVD library going in Windows Media Server is not quite as
 straightforward as you might think. The information is out there on how

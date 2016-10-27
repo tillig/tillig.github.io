@@ -4,7 +4,7 @@ title: "Cats + Audio = Expensive"
 date: 2007-08-07 -0800
 comments: true
 disqus_identifier: 1251
-tags: [Media,General Ramblings]
+tags: [media,music,home,cats]
 ---
 ![Jack and Xev are friends, aren't
 they?](https://hyqi8g.dm2301.livefilestore.com/y2p-2UjWg-YCsoL1nOnihhlREHHPIxNv4ISS77erCNxbULxIfD7sKKlY9Fl7H4eefxdKMZiGGM8m31FrFP3yqHmtACS8ySs6Yw85awpRShKiY0/20070807catfriends.jpg?psid=1)I

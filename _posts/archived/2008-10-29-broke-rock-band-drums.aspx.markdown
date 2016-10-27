@@ -4,7 +4,7 @@ title: "Broke Rock Band Drums"
 date: 2008-10-29 -0800
 comments: true
 disqus_identifier: 1459
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I finally wore out my original Rock Band drums last night:
 

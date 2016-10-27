@@ -4,7 +4,7 @@ title: "Beware the WD Green Drives"
 date: 2010-06-16 -0800
 comments: true
 disqus_identifier: 1650
-tags: [Media,GeekSpeak]
+tags: [media,windows,synology]
 ---
 That headline sounds a little foreboding, but this is important: **If
 you are expanding your storage at home, be careful of choosing WD Green

@@ -4,7 +4,7 @@ title: "Wall-E"
 date: 2008-07-02 -0800
 comments: true
 disqus_identifier: 1407
-tags: [Media]
+tags: [media,movies]
 ---
 ![Wall-E](https://hyqi8g.dm2304.livefilestore.com/y2pRgkABz_lKW3sAUGH7vuWYiRiju0Wh13WGZDZqRYFbywQCB04eS5YY7Ci6A4biK2EQ7NVJ-QH0JQh9uFRVIfwle1hGZjH3B_1uzVvWCz3d5Y/20080702wall-e.gif?psid=1)Jenn
 and I went with some friends on Sunday to see

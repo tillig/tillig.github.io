@@ -4,7 +4,7 @@ title: "Little Advertised Playstation 3 Features"
 date: 2008-06-17 -0800
 comments: true
 disqus_identifier: 1399
-tags: [Gaming]
+tags: [gaming,playstation]
 ---
 [![Playstation 3 80GB bundle with Metal Gear Solid
 4](https://hyqi8g.dm2304.livefilestore.com/y2pNtO0CTWdAPy_a0g6GM-LX4BfROGCGxoahSQpeVq5UPXa6mTnF4soJoFvYR9PSsnBcbeDCaldbYOivKcdvy5uriDclociOAwblF-liiU1zRM/20080617ps3bundle.jpg?psid=1)](http://www.amazon.com/gp/product/B0014WJ78E?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0014WJ78E)Jenn

@@ -4,7 +4,7 @@ title: "Lifelong Swansong for Y'all"
 date: 2002-09-20 -0800
 comments: true
 disqus_identifier: 127
-tags: [tv,gaming,ps2]
+tags: [tv,gaming,playstation]
 ---
 Yesterday started out great but long about 4:00p turned into the *\$2
 sucky-sucky*.

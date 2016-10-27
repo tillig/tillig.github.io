@@ -4,7 +4,7 @@ title: "Editing Creative Vado HD Video in Sony Vegas"
 date: 2011-01-19 -0800
 comments: true
 disqus_identifier: 1689
-tags: [Media]
+media
 ---
 In Christmas 2009 I got [a Creative Vado HD
 camera](http://www.amazon.com/gp/product/B001LK8P14?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001LK8P14).

@@ -4,7 +4,7 @@ title: "Gizmocafe - Xbox 360 and Media Center"
 date: 2007-06-27 -0800
 comments: true
 disqus_identifier: 1223
-tags: [Media,Gaming]
+tags: [media,gaming,xbox]
 ---
 I haven't gotten a chance to put [my media
 center](http://paraesthesia.com/archive/2007/03/23/media-center-2005-and-xbox-360---success.aspx)

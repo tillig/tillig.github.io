@@ -4,7 +4,7 @@ title: "Stream More Music From Windows Home Server with Asset UPnP"
 date: 2009-08-11 -0800
 comments: true
 disqus_identifier: 1555
-tags: [Media]
+tags: [media,windows,music]
 ---
 When setting up [my Windows Media Center
 solution](/archive/2008/09/30/overview-of-my-media-center-solution.aspx)

@@ -4,7 +4,7 @@ title: "Mysto & Pizzi"
 date: 2009-04-18 -0800
 comments: true
 disqus_identifier: 1515
-tags: [Media]
+tags: [media,music]
 ---
 I won't lie - I'm a sucker for heavily produced electronic dance music.
 [The new Lady GaGa

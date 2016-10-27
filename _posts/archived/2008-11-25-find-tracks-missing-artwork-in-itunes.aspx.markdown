@@ -4,7 +4,7 @@ title: "Find Tracks Missing Artwork in iTunes"
 date: 2008-11-25 -0800
 comments: true
 disqus_identifier: 1468
-tags: [Media,Code Snippets]
+tags: [media,music,windows,vbscript]
 ---
 I'm a huge stickler for metadata in my iTunes library and for the most
 part, I can find incorrect or missing data by using the iTunes smart
@@ -22,6 +22,7 @@ Just ran it myself on my library and it works like a champ. **Standard
 disclaimers apply: use at your own risk, YMMV, I'm not responsible for
 what happens if something goes awry, etc.**
 
+```vbscript
     var ITTrackKindFile = 1;
     var iTunesApp = WScript.CreateObject("iTunes.Application");
     var numTracksWithoutArtwork = 0;
@@ -34,7 +35,7 @@ what happens if something goes awry, etc.**
     while (numTracks != 0)
     {
       var  currTrack = tracks.Item(numTracks);
-      
+
       if (currTrack.Kind == ITTrackKindFile)
       {
         if(currTrack.Artwork == null || currTrack.Artwork.Count == 0)
@@ -43,14 +44,14 @@ what happens if something goes awry, etc.**
           foundTracks.push(currTrack);
         }
       }
-      
+
       numTracks--;
     }
 
     if (numTracksWithoutArtwork > 0)
     {
       WScript.Echo("Found " + numTracksWithoutArtwork + " tracks missing artwork. Creating playlist...");
-      
+
       var playList = iTunesApp.CreatePlaylist("Missing Artwork");
       for(var trackIndex in foundTracks)
       {
@@ -63,4 +64,4 @@ what happens if something goes awry, etc.**
     {
       WScript.Echo("No tracks missing artwork were found.");
     }
-
+```

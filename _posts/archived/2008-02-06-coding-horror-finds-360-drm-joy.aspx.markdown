@@ -4,7 +4,7 @@ title: "Coding Horror Finds 360 DRM Joy"
 date: 2008-02-06 -0800
 comments: true
 disqus_identifier: 1343
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 Looks like [Atwood is seeing the ugly Xbox 360 DRM beast for the first
 time](http://www.codinghorror.com/blog/archives/001052.html). This is

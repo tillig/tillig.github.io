@@ -4,7 +4,7 @@ title: "Two of Hearts"
 date: 2002-12-03 -0800
 comments: true
 disqus_identifier: 178
-tags: [gaming,ps2,tv]
+tags: [gaming,playstation,tv]
 ---
 Now that this [*Kingdom
 Hearts*](http://www.amazon.com/exec/obidos/ASIN/B000066TS5/mhsvortex)

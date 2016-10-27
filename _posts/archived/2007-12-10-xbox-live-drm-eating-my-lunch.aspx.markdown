@@ -4,7 +4,7 @@ title: "Xbox Live DRM Eating My Lunch"
 date: 2007-12-10 -0800
 comments: true
 disqus_identifier: 1317
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 Way, way back on September 21, [my third Xbox 360 crapped out on
 me](/archive/2007/09/21/on-to-xbox-360-number-four.aspx) and I had to

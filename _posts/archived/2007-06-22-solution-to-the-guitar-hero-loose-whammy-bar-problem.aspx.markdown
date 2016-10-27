@@ -4,7 +4,7 @@ title: "Solution To The Guitar Hero Loose Whammy Bar Problem"
 date: 2007-06-22 -0800
 comments: true
 disqus_identifier: 1222
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 ![O-rings around the base of the whammy
 bar](https://hyqi8g.dm2303.livefilestore.com/y2pdEPfprHTQi3RkQOmsck-seDW9tOPQqiZaWVngUL9OOrXZmwyQU5q6L1UVc3UE1ug_GngJSiO2vuBTFLJICSYuYaMPD9s2ckHg1aMt4CtEgg/20070622whammyfix.jpg?psid=1)**Problem:**

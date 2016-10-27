@@ -4,7 +4,7 @@ title: "Hanselminutes 265 - Synology Network Attached Storage and Windows Home S
 date: 2011-05-06 -0800
 comments: true
 disqus_identifier: 1714
-tags: [GeekSpeak,Media]
+tags: [media,windows,synology]
 ---
 I recently had the opportunity to chat with [Scott
 Hanselman](http://www.hanselman.com) about our experiences with Synology

@@ -4,7 +4,7 @@ title: "Grand Theft Auto 4 Radio Stations on AmazonMP3"
 date: 2008-05-15 -0800
 comments: true
 disqus_identifier: 1386
-tags: [Media,Gaming]
+tags: [media,music,gaming,playstation]
 ---
 Rockstar has released the tracks from the radio stations in Grand Theft
 Auto 4 as MP3 downloads from Amazon. 256kbps, which is decent quality,

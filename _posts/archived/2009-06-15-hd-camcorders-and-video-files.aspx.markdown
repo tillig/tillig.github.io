@@ -4,7 +4,7 @@ title: "HD Camcorders and Video Files"
 date: 2009-06-15 -0800
 comments: true
 disqus_identifier: 1537
-tags: [Media]
+media
 ---
 [![Canon VIXIA HF200 HD Flash Memory
 Camcorder](http://ecx.images-amazon.com/images/I/41zLPwMJ7KL._SL500_AA280_.jpg)](http://www.amazon.com/gp/product/B001OI2Z2I?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B001OI2Z2I)Jenn

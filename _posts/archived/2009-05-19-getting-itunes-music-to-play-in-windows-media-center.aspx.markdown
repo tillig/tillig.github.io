@@ -4,7 +4,7 @@ title: "Getting iTunes Music to Play in Windows Media Center"
 date: 2009-05-19 -0800
 comments: true
 disqus_identifier: 1528
-tags: [Media]
+tags: [media,music,windows]
 ---
 While it was not my primary goal, one of the things I thought would be a
 "nice to have" in [my Windows Media Center

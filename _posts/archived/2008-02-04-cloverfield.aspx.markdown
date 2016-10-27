@@ -4,7 +4,7 @@ title: "Cloverfield"
 date: 2008-02-04 -0800
 comments: true
 disqus_identifier: 1342
-tags: [Media]
+tags: [media,movies]
 ---
 Went to see *[Cloverfield](http://www.imdb.com/title/tt1060277/)* this
 weekend.

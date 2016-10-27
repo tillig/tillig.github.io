@@ -4,7 +4,7 @@ title: "Drum Comparison: Ion vs. Rock Band vs. Guitar Hero World Tour"
 date: 2008-11-07 -0800
 comments: true
 disqus_identifier: 1463
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I got my [Ion Drum Rocker](http://www.drumrocker.com) drum set delivered
 yesterday and set it up last night. It occurred to me after I'd played

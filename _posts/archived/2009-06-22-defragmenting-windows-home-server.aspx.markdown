@@ -4,7 +4,7 @@ title: "Defragmenting Windows Home Server"
 date: 2009-06-22 -0800
 comments: true
 disqus_identifier: 1542
-tags: [Media]
+tags: [media,windows]
 ---
 I was noticing some of the disk access on my Windows Home Server was
 running a bit sluggish and I thought about how usually when this happens

@@ -4,7 +4,7 @@ title: "iTunes Crashes on One Bad Track"
 date: 2010-10-13 -0800
 comments: true
 disqus_identifier: 1674
-tags: [Media]
+tags: [media,music]
 ---
 My iTunes library is currently around 160GB, much of which is stored in
 Apple Lossless format. I also have podcasts, TV shows, and movies in the

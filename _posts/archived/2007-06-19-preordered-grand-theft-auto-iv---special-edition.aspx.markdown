@@ -4,7 +4,7 @@ title: "Preordered Grand Theft Auto IV - Special Edition"
 date: 2007-06-19 -0800
 comments: true
 disqus_identifier: 1219
-tags: [Gaming]
+tags: [gaming,playstation]
 ---
 [![Grand Theft Auto IV - Special
 Edition](http://ecx.images-amazon.com/images/I/51hXYswZDHL._SL220.jpg)](http://www.gamestop.com/product.asp?product%5Fid=200338)I

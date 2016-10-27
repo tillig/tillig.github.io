@@ -4,7 +4,7 @@ title: "Finished Ripping Movies"
 date: 2009-05-06 -0800
 comments: true
 disqus_identifier: 1521
-tags: [Media]
+tags: [media,movies]
 ---
 Yesterday I finally finished ripping [all of the DVDs I
 own](http://www.invelos.com/dvdcollection.aspx/tillig) to date. I didn't

@@ -4,7 +4,7 @@ title: "iTunes COM for Windows SDK - Now in ADC"
 date: 2009-05-20 -0800
 comments: true
 disqus_identifier: 1529
-tags: [Media,GeekSpeak]
+tags: [media,music,windows]
 ---
 The iTunes COM for Windows SDK seems to have been moved from the
 location they originally had it -

@@ -4,7 +4,7 @@ title: "Switching from Windows Media Center to XBMC for my Media Front End"
 date: 2011-12-29 -0800
 comments: true
 disqus_identifier: 1759
-tags: [Media]
+tags: [media,windows]
 ---
 I’ve had [my media center running for a while using standard Windows
 Media
@@ -304,7 +304,7 @@ This file will not exist – you have to create it.
         <remove>.dat|.bin</remove>
       </videoextensions>
 
-      <!-- Database Sharing/Synchronization -->  
+      <!-- Database Sharing/Synchronization -->
       <videodatabase>
         <type>mysql</type>
         <host>192.168.xxx.xxx</host>

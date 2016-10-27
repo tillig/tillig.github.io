@@ -4,7 +4,7 @@ title: "Review: Transformers"
 date: 2007-07-24 -0800
 comments: true
 disqus_identifier: 1237
-tags: [Media]
+tags: [media,movies]
 ---
 We went out last night to see
 *[Transformers](http://us.imdb.com/title/tt0418279/)* for my birthday. 

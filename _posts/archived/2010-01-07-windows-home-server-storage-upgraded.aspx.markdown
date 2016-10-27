@@ -4,7 +4,7 @@ title: "Windows Home Server Storage Upgraded"
 date: 2010-01-07 -0800
 comments: true
 disqus_identifier: 1603
-tags: [Media,GeekSpeak]
+tags: [media,windows]
 ---
 I found I was running out of space with all of my DVDs and such, even
 after [adding an eSATA port

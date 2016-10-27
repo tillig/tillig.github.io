@@ -4,7 +4,7 @@ title: "Birthday In The Lost Room"
 date: 2007-07-22 -0800
 comments: true
 disqus_identifier: 1236
-tags: [Media,General Ramblings]
+tags: [personal,tv]
 ---
 We celebrated my 31st birthday this weekend.
 

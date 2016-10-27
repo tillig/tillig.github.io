@@ -4,7 +4,7 @@ title: "Dr. Horrible's Sing-Along Blog"
 date: 2008-06-30 -0800
 comments: true
 disqus_identifier: 1404
-tags: [Media]
+tags: [media,movies,music]
 ---
 I'm not sure what to make of this, but it's from Joss Whedon and stars
 Neil Patrick Harris and Nathan Fillion, so that's really all I need to

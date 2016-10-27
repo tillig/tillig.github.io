@@ -4,7 +4,7 @@ title: "GTA4 100%"
 date: 2008-08-27 -0800
 comments: true
 disqus_identifier: 1438
-tags: [Gaming]
+tags: [gaming,playstation]
 ---
 Finally completed *Grand Theft Auto 4* 100% this morning!
 

@@ -4,7 +4,7 @@ title: "WHS v1 End of Life – What’s Next?"
 date: 2013-01-07 -0800
 comments: true
 disqus_identifier: 1799
-tags: [GeekSpeak,Media]
+tags: [media,windows]
 ---
 Windows Home Server v1 is end of mainstream support tomorrow and some
 folks have asked me what I'm going to do.

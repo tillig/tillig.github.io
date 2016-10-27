@@ -4,7 +4,7 @@ title: "Getting Xbox 360 Number Five"
 date: 2008-05-15 -0800
 comments: true
 disqus_identifier: 1387
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 Over the past few weeks I've noticed that, more and more often, my Xbox
 360 will hang and give me an error message saying "the disc is

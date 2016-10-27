@@ -4,7 +4,7 @@ title: "Multi-User Picasa"
 date: 2008-01-04 -0800
 comments: true
 disqus_identifier: 1332
-tags: [Media]
+tags: [media,windows]
 ---
 When I was [setting up multi-user
 iTunes](/archive/2005/04/10/multi-user-itunes.aspx) on my new Windows

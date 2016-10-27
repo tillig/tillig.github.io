@@ -4,7 +4,7 @@ title: "Updated Multi-User iTunes Instructions for Vista"
 date: 2008-01-03 -0800
 comments: true
 disqus_identifier: 1331
-tags: [Media]
+tags: [media,windows,music]
 ---
 A fairly popular article I posted a couple years back is on setting up
 iTunes for multiple users on Windows. I just updated that article so it

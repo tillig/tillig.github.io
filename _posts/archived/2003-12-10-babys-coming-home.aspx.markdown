@@ -4,7 +4,7 @@ title: "Baby's Coming Home"
 date: 2003-12-10 -0800
 comments: true
 disqus_identifier: 417
-tags: [ps2]
+tags: [playstation]
 ---
 I got an email just now telling me that my Playstation 2 is on the way
 home from the repair facility, and it has a 90 day warranty. Woohoo!

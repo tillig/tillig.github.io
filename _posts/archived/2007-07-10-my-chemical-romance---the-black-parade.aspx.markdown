@@ -4,7 +4,7 @@ title: "My Chemical Romance - The Black Parade"
 date: 2007-07-10 -0800
 comments: true
 disqus_identifier: 1228
-tags: [Media]
+tags: [media,music]
 ---
 [![My Chemical Romance - The Black
 Parade](http://g-ec2.images-amazon.com/images/I/313S2AyMEyL._AA160_.jpg)](http://www.amazon.com/gp/product/B000I5Y8ZU?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000I5Y8ZU)

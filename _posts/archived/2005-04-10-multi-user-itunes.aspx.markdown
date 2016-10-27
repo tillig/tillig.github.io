@@ -4,7 +4,7 @@ title: "Multi-User iTunes"
 date: 2005-04-10 -0800
 comments: true
 disqus_identifier: 785
-tags: [Media]
+tags: [media,music,windows]
 ---
 **1/3/08**: Updated for Windows Vista and clarified the instruction set
 so it's easier to see the intention of each step.

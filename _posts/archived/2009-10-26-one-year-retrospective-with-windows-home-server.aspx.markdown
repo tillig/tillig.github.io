@@ -4,7 +4,7 @@ title: "One Year Retrospective with Windows Home Server"
 date: 2009-10-26 -0800
 comments: true
 disqus_identifier: 1578
-tags: [Media,GeekSpeak]
+tags: [media,windows]
 ---
 A little over a year ago I was looking for a storage solution for [my
 media

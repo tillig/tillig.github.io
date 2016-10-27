@@ -4,7 +4,7 @@ title: "Find Unused Radio Stations"
 date: 2007-01-29 -0800
 comments: true
 disqus_identifier: 1137
-tags: [Media]
+tags: [media,music]
 ---
 Neither my wife nor I have our iPods directly integrated through a
 line-in to the car. I have a tape deck adapter; Jenn uses a radio

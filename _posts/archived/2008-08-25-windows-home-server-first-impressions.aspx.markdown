@@ -4,7 +4,7 @@ title: "Windows Home Server First Impressions"
 date: 2008-08-25 -0800
 comments: true
 disqus_identifier: 1437
-tags: [Media,GeekSpeak]
+tags: [media,windows]
 ---
 [![HP EX475 MediaSmart
 Server](http://ecx.images-amazon.com/images/I/51yjoKfxx2L._SL500_AA180_.jpg)](http://www.amazon.com/gp/product/B000UXZUZC?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000UXZUZC)After

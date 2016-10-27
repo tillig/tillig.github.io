@@ -4,7 +4,7 @@ title: "The Buff is Back"
 date: 2002-09-25 -0800
 comments: true
 disqus_identifier: 129
-tags: [tv,gaming,ps2]
+tags: [tv,gaming,playstation]
 ---
 I watched the season premiere to [*Buffy the Vampire
 Slayer*](http://www.buffy.com) last night, and I have to say I'm glad

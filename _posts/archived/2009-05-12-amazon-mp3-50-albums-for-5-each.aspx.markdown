@@ -4,7 +4,7 @@ title: "Amazon MP3 - 50 Albums for $5 Each"
 date: 2009-05-12 -0800
 comments: true
 disqus_identifier: 1523
-tags: [Media]
+tags: [media,music]
 ---
 Looks like this month Amazon is running a special on some of their MP3
 albums. [There are a few good ones in there, and all of them are \$5

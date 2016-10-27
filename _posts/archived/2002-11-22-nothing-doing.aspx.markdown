@@ -4,7 +4,7 @@ title: "Nothing Doing"
 date: 2002-11-22 -0800
 comments: true
 disqus_identifier: 171
-tags: [gaming,ps2,movies]
+tags: [gaming,playstation,movies]
 ---
 ...Or maybe "doing nothing."
 

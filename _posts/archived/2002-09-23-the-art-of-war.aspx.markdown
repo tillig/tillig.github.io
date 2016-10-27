@@ -4,7 +4,7 @@ title: "The Art of War"
 date: 2002-09-23 -0800
 comments: true
 disqus_identifier: 128
-tags: [personal,gaming,ps2]
+tags: [personal,gaming,playstation]
 ---
 Friday being Fred Meyer employee double-discount day, a few purchases
 were made:

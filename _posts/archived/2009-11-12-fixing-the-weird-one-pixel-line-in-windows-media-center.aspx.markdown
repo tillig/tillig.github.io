@@ -4,7 +4,7 @@ title: "Fixing the Weird One-Pixel Line in Windows Media Center"
 date: 2009-11-12 -0800
 comments: true
 disqus_identifier: 1588
-tags: [Media]
+tags: [media,windows]
 ---
 In both Vista and Windows 7, when running at full 1920 x 1080
 resolution, I found that I would occasionally see a one or two pixel

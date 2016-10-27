@@ -4,7 +4,7 @@ title: "Zuma's Revenge"
 date: 2009-10-19 -0800
 comments: true
 disqus_identifier: 1574
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I ended up getting a copy of [Zuma's
 Revenge](http://www.popcap.com/games/zumasrevenge/), the sequel to [the

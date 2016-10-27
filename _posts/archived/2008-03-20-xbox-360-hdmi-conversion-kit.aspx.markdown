@@ -4,7 +4,7 @@ title: "Xbox 360 HDMI Conversion Kit"
 date: 2008-03-20 -0800
 comments: true
 disqus_identifier: 1363
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I've got the original Xbox 360 (not the Elite) so I don't have an HDMI
 port on it. I'd upgrade to the Elite (maybe) except it would bring on

@@ -4,7 +4,7 @@ title: "Xbox DRM Transfer Tool Launched"
 date: 2008-06-27 -0800
 comments: true
 disqus_identifier: 1403
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 They finally released a tool on xbox.com that allows you to [transfer
 your downloadable content licenses from one console to

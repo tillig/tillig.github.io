@@ -4,7 +4,7 @@ title: "Xbox 360 Sign-in Delay Fix"
 date: 2008-07-02 -0800
 comments: true
 disqus_identifier: 1406
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 For the last, oh, two or three weeks, my Xbox 360 has been sluggish when
 signing me in to Xbox Live. I'd start the console, the logo screen would

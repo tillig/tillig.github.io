@@ -4,7 +4,7 @@ title: "New Sony DVDs Not Working In Some Players"
 date: 2007-04-16 -0800
 comments: true
 disqus_identifier: 1180
-tags: [Media]
+media
 ---
 Remember how [I just bought a new DVD
 player](/archive/2007/04/16/electronics-dying.aspx) because my old one
@@ -13,7 +13,7 @@ having trouble with were *Casino Royale* and *Stranger Than Fiction*.
 The symptoms were basically the same as a bad disc - you put the disc
 in, the player tries and tries to read it to no avail, and you end up
 ejecting the disc.
- 
+
  From [Slashdot](http://slashdot.org/article.pl?sid=07/04/15/1914248)...
 
 > "It seems that the most recent DVDs released by Sony — specifically
@@ -30,5 +30,5 @@ ejecting the disc.
 
 
  Did I just buy a new DVD player *because Sony screwed me*?
- 
+
  At least I didn't buy a new *Sony* DVD player. It's a Samsung. :)

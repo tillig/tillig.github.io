@@ -4,7 +4,7 @@ title: "Backing Up Windows Home Server to MozyHome"
 date: 2009-08-17 -0800
 comments: true
 disqus_identifier: 1558
-tags: [GeekSpeak,Media]
+tags: [media,windows]
 ---
 **UPDATE 7/8/2011: MozyHome has changed their pricing so [I'm using
 CrashPlan to back up my Home Server
@@ -49,12 +49,12 @@ was time to do a price comparison. Not counting any "startup costs"
 
 \* backupanytime.com and IBackup support Windows Server 2003 (which WHS
 is based on) so you might be able to hack around and get it to work. I
-couldn't find anyone who'd blogged success with that. 
+couldn't find anyone who'd blogged success with that.
  \*\* MozyHome specifically does not support Windows Server 2003, nor
 does it support WHS. You have to use MozyPro for server-class OS backup.
 Yeah, that's dumb, and I've told them so. I'm not a business so I don't
 understand why I'd be charged business prices just because I happen to
-store my data centrally. 
+store my data centrally.
  \*\*\* iDrive jumps from 150GB personal plan (\$49.50/yr) to a 500GB
 business plan (\$499.50). Since I have 200GB to back up, I listed the
 500GB plan cost.

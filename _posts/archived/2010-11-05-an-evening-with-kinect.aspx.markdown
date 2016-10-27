@@ -4,7 +4,7 @@ title: "An Evening with Kinect"
 date: 2010-11-05 -0800
 comments: true
 disqus_identifier: 1679
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 We pre-ordered ourselves [a
 Kinect](http://www.amazon.com/dp/B002BSA298?tag=mhsvortex) and it

@@ -4,7 +4,7 @@ title: "Xbox Content Successfully Re-licensed"
 date: 2008-02-18 -0800
 comments: true
 disqus_identifier: 1351
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 This weekend [finally] brought an end to [my latest struggles with Xbox
 Live digital rights

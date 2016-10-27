@@ -4,7 +4,7 @@ title: "Fixing Windows Vista Media Center Sleep Problems"
 date: 2008-10-31 -0800
 comments: true
 disqus_identifier: 1461
-tags: [Media]
+tags: [media,windows]
 ---
 Since [I've set up my Windows Vista Media
 Center](/archive/2008/09/30/overview-of-my-media-center-solution.aspx),

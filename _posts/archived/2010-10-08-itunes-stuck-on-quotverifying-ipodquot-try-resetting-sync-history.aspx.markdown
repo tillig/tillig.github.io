@@ -4,7 +4,7 @@ title: "iTunes Stuck on &quot;Verifying iPod&quot; - Try Resetting Sync History"
 date: 2010-10-08 -0800
 comments: true
 disqus_identifier: 1671
-tags: [Media]
+tags: [media,music,windows]
 ---
 ![DJ cases full of
 CDs.](https://hyqi8g.blu.livefilestore.com/y2pNgWdspUW_6kXSF_KlAK2VsOyllSawWdONti3qeW43ING_cbDUD3iasp9UNESdUI3qnumjMAy8K-n8lx-C815YyCFwMUIVkKFEMrGV9wLvJE/20101008cdcases.jpg?psid=1 "DJ cases full of CDs.")I
@@ -50,19 +50,19 @@ But I did find something that seems to get me up and running, past the
 1.  Plug in the iPod and wait until the "Verifying iPod" message shows
     up.
 2.  Eject the iPod. It'll warn you that the sync's not done, and that's
-    fine. Eject and disconnect the iPod. 
-     
+    fine. Eject and disconnect the iPod.
+
     **Steps 1 and 2 are important. If you skip them and go straight for
-    the reset sync history bit, things don't get fixed.** 
-3.  Go into Edit -\> Preferences and look at the "Devices" tab. 
+    the reset sync history bit, things don't get fixed.**
+3.  Go into Edit -\> Preferences and look at the "Devices" tab.
     ![Devices tab in iTunes
     preferences.](https://hyqi8g.bl3301.livefilestore.com/y2pSAFnXpYQUV0phsZfWIHkTdZM11a9kGgnH9wFzhVpRS1t7PJaVfE3C8aDEa-rOSMn8l4D7YWlXT7W1yQ8WCtZwW3lixbrBcSufFrpGd7QsZU/20101008deviceoptions.png?psid=1 "Devices tab in iTunes preferences.")
-    
+
 4.  Click the "Reset Sync History" button. You'll get a little warning.
-    
+
     ![Reset sync history
     warning.](https://hyqi8g.bl3301.livefilestore.com/y2pOIRh5-Q6i_ubSa5waz_6pZZZe9ygYpXsStbyf_TshPkAyWL95maLDkpCkEF-ze18tFRVMB5NIJ2Yod5Jg23nbiXw1M0PraTwIzI0pf-jBbo/20101008resethistory.png?psid=1 "Reset sync history warning.")
-    
+
 5.  Click the "Reset Sync History" button on the warning.
 6.  Plug the iPod back in. It will start syncing again.
 

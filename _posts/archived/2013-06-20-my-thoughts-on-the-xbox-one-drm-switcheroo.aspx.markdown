@@ -4,7 +4,7 @@ title: "My Thoughts on the Xbox One DRM Switcheroo"
 date: 2013-06-20 -0800
 comments: true
 disqus_identifier: 1820
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 When Xbox One was first announced [the whole game licensing
 thing](http://news.xbox.com/2013/06/license), admittedly, had me a

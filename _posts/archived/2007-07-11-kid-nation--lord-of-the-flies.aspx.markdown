@@ -4,7 +4,7 @@ title: "Kid Nation == Lord of the Flies"
 date: 2007-07-11 -0800
 comments: true
 disqus_identifier: 1232
-tags: [Media]
+tags: [media,tv]
 ---
 Saw a preview for a new CBS show called *[Kid
 Nation](http://www.cbs.com/primetime/kid_nation/)* last night.  The idea

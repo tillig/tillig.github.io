@@ -4,7 +4,7 @@ title: "The Problem with UltraViolet Digital Copy"
 date: 2011-11-28 -0800
 comments: true
 disqus_identifier: 1755
-tags: [Media]
+media
 ---
 I have, so far, mostly enjoyed the whole "digital copy" thing movies
 provide. It saves me time ripping DVDs and running them through

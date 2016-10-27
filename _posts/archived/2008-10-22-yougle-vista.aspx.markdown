@@ -4,7 +4,7 @@ title: "Yougle Vista"
 date: 2008-10-22 -0800
 comments: true
 disqus_identifier: 1458
-tags: [Media]
+tags: [media,windows]
 ---
 I have been considering ways to add to my Vista Media Center experience
 and one of the things I'm interested in doing is adding YouTube and

@@ -4,7 +4,7 @@ title: "iTunes Sharing options"
 date: 2011-01-06 -0800
 comments: true
 disqus_identifier: 1688
-tags: [Media]
+tags: [media,music,windows]
 ---
 Being the Family Tech Support Guy, I got a question from my cousin about
 sharing music in iTunes and rather than answer it in email (since it’s

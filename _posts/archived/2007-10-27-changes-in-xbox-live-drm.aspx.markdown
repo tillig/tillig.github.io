@@ -4,7 +4,7 @@ title: "Changes in Xbox Live DRM"
 date: 2007-10-27 -0800
 comments: true
 disqus_identifier: 1281
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I got my fourth Xbox (the results of [the third
 repair](/archive/2007/09/21/on-to-xbox-360-number-four.aspx)) and

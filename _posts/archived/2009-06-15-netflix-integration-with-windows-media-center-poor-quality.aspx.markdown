@@ -4,7 +4,7 @@ title: "Netflix Integration with Windows Media Center - Poor Quality"
 date: 2009-06-15 -0800
 comments: true
 disqus_identifier: 1538
-tags: [Media]
+tags: [media,windows]
 ---
 I finally got a chance to try out the Netflix integration with Windows
 Media Center last night, and I have to say - the playback quality is

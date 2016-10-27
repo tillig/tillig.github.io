@@ -4,7 +4,7 @@ title: "Samsung LN52A750 52&quot; LCD TV: Fan-freaking-tastic!"
 date: 2009-02-18 -0800
 comments: true
 disqus_identifier: 1496
-tags: [Media]
+tags: [media,tv]
 ---
 [![Samsung
 LN52A750](http://ecx.images-amazon.com/images/I/51NBBpuBdVL._SL500_AA280_.jpg)](http://www.amazon.com/gp/product/B001418WF4?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B001418WF4)We

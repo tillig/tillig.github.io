@@ -4,7 +4,7 @@ title: "MCE Tunes"
 date: 2007-09-17 -0800
 comments: true
 disqus_identifier: 1269
-tags: [Media]
+tags: [media,windows,music]
 ---
 Continuing my quest for a decent media center approach, I noticed that
 [Brad

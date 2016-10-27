@@ -4,7 +4,7 @@ title: "GRAND THEFT AUTO IV Coming April 29, 2008"
 date: 2008-01-24 -0800
 comments: true
 disqus_identifier: 1339
-tags: [Gaming]
+tags: [gaming,playstation]
 ---
 This is the best email I've received all week. A date, and some images:
 

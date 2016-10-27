@@ -4,7 +4,7 @@ title: "My (Current) Top 10 Work Albums"
 date: 2011-04-25 -0800
 comments: true
 disqus_identifier: 1710
-tags: [Media]
+tags: [media,music]
 ---
 When I'm working (coding) I generally like some sort of music that
 either doesn't have any words or is otherwise reasonably peaceful so I'm

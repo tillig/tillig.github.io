@@ -4,7 +4,7 @@ title: "A Hypothesis on Xbox Netflix Streaming"
 date: 2010-02-24 -0800
 comments: true
 disqus_identifier: 1618
-tags: [Media,Gaming]
+tags: [media,gaming,xbox]
 ---
 Two nights ago I did the full network reset *again* after having [more
 trouble with Netflix

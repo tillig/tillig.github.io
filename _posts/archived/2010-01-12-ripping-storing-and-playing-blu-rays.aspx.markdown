@@ -4,7 +4,7 @@ title: "Ripping, Storing, and Playing Blu-Rays"
 date: 2010-01-12 -0800
 comments: true
 disqus_identifier: 1605
-tags: [Media]
+media
 ---
 Great post by Media Center MVP Pete Stagman on [how he handles ripping
 and playing Blu-ray discs with Media Center and Windows Home

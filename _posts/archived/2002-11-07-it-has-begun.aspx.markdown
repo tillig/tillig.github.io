@@ -4,7 +4,7 @@ title: "It Has Begun"
 date: 2002-11-07 -0800
 comments: true
 disqus_identifier: 165
-tags: [gaming,ps2,music]
+tags: [gaming,playstation,music]
 ---
 Jenn sent me the following note just now...
 

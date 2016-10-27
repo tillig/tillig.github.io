@@ -4,7 +4,7 @@ title: "The Myth of the DRE"
 date: 2003-11-20 -0800
 comments: true
 disqus_identifier: 403
-tags: [gaming,ps2]
+tags: [gaming,playstation]
 ---
 After badgering my boss (Greg - I'll name him by name this time because
 he's been bitching about how I refer to him here like he's two different

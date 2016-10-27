@@ -4,7 +4,7 @@ title: "On to Xbox 360 Number Four"
 date: 2007-09-21 -0800
 comments: true
 disqus_identifier: 1270
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 It happened again last night.
 

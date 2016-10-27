@@ -4,7 +4,7 @@ title: "Xbox &quot;Tool&quot; To Fix DRM Issues?"
 date: 2008-05-23 -0800
 comments: true
 disqus_identifier: 1390
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I read this just now and, assuming it's true, it made my morning. From
 Joystiq: "[Xbox.com 'tool' to fix XBLA DRM fiasco next

@@ -4,7 +4,7 @@ title: "GTA4 95%; Tropic Thunder"
 date: 2008-08-25 -0800
 comments: true
 disqus_identifier: 1436
-tags: [Media]
+tags: [media,movies,gaming,playstation]
 ---
 Two things happened this weekend from an entertainment perspective.
 

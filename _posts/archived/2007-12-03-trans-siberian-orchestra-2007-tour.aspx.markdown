@@ -4,7 +4,7 @@ title: "Trans-Siberian Orchestra 2007 Tour"
 date: 2007-12-03 -0800
 comments: true
 disqus_identifier: 1313
-tags: [Media,General Ramblings]
+tags: [media,music,activities]
 ---
 [![Trans-Siberian
 Orchestra](https://hyqi8g.dm2302.livefilestore.com/y2pC0CkInLjbwhjPSx4FjPHbNvHU0oUH5dZZ9-LLtivfaZFIBgRrrMZcm4PLTy7sXOZmQ0xvZ3gfbqyXTgXsze1J9yofVj42WCwGka53oOd-mI/20071203transsiberian.jpg?psid=1)](http://www.trans-siberian.com)Yesterday

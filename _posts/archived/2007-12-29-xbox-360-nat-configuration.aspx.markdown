@@ -4,7 +4,7 @@ title: "Xbox 360 NAT Configuration"
 date: 2007-12-29 -0800
 comments: true
 disqus_identifier: 1330
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 Amid the other problems I'm having with my Xbox 360 and Xbox Live, this
 morning I seemed unable to recover my gamertag. When I did the network

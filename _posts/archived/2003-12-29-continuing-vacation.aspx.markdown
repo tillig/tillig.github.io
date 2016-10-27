@@ -4,7 +4,7 @@ title: "Continuing Vacation"
 date: 2003-12-29 -0800
 comments: true
 disqus_identifier: 433
-tags: [personal,ps2,music]
+tags: [personal,playstation,music]
 ---
 I woke up this morning distinctly glad that I still don't have to go
 back to work quite yet. I've finally reached a decent state of

@@ -4,7 +4,7 @@ title: "Xbox Live Blocked by Wireless Bridge"
 date: 2011-11-14 -0800
 comments: true
 disqus_identifier: 1751
-tags: [Gaming,Media]
+tags: [gaming,xbox,media]
 ---
 I spent far more time than I'd like to admit in troubleshooting this
 issue so I figured I'd at least blog it.

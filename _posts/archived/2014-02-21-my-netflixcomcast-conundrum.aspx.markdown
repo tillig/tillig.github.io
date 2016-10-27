@@ -4,7 +4,7 @@ title: "My Netflix/Comcast Conundrum"
 date: 2014-02-21 -0800
 comments: true
 disqus_identifier: 1834
-tags: [Media]
+media
 ---
 Over the last six months, give or take, I’ve noticed that my Netflix
 streaming performance over my Comcast internet has taken a dive.

@@ -4,7 +4,7 @@ title: "Cheap As Free: Amazon MP3 Links"
 date: 2009-05-29 -0800
 comments: true
 disqus_identifier: 1534
-tags: [Media]
+tags: [media,music]
 ---
 A couple of links I need to remember that might also help some other
 folks out:

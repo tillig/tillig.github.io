@@ -4,7 +4,7 @@ title: "Grand Theft Auto 4 - Episodes from Liberty City"
 date: 2010-01-11 -0800
 comments: true
 disqus_identifier: 1604
-tags: [Gaming]
+tags: [gaming,playstation]
 ---
 [![GTA: Episodes from Liberty
 City](http://ecx.images-amazon.com/images/I/61JvN6p5JsL._SL500_AA200_.jpg "GTA: Episodes from Liberty City")](http://www.amazon.com/gp/product/B002DC8GMM?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002DC8GMM)

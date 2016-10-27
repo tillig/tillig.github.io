@@ -4,7 +4,7 @@ title: "Playstation Still Not Working"
 date: 2003-12-14 -0800
 comments: true
 disqus_identifier: 423
-tags: [gaming,ps2]
+tags: [gaming,playstation]
 ---
 I got home on Friday night to find that FedEx had dropped my Playstation
 off... with my *neighbors*. And not just any neighbors, but the ones who

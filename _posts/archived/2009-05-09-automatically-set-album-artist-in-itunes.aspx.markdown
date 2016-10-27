@@ -4,7 +4,7 @@ title: "Automatically Set Album Artist in iTunes"
 date: 2009-05-09 -0800
 comments: true
 disqus_identifier: 1522
-tags: [Media,Code Snippets]
+tags: [media,music,windows,vbscript]
 ---
 I'm working on getting my Windows Media Center to play my iTunes files
 (by installing codecs and tag readers) and one of the things I'm doing
@@ -26,6 +26,7 @@ not smart, it just sets "artist = album artist" for tracks missing album
 artist. Once you've taken care of all of your "Various Artists" tracks,
 run this script:
 
+```vbscript
     var ITTrackKindFile  = 1;
     var iTunesApp = WScript.CreateObject("iTunes.Application");
     var numTracksWithoutAlbumArtist = 0;
@@ -38,7 +39,7 @@ run this script:
     while (numTracks != 0)
     {
       var  currTrack = tracks.Item(numTracks);
-      
+
       if (currTrack.Kind == ITTrackKindFile && !currTrack.Podcast)
       {
         if(currTrack.AlbumArtist == null || currTrack.AlbumArtist.length == 0)
@@ -47,7 +48,7 @@ run this script:
           foundTracks.push(currTrack);
         }
       }
-      
+
       numTracks--;
       if(numTracks % 1000 == 0)
       {
@@ -58,7 +59,7 @@ run this script:
     if (numTracksWithoutAlbumArtist > 0)
     {
       WScript.Echo("Found " + numTracksWithoutAlbumArtist + " tracks missing album artist. Creating playlist and updating artists...");
-      
+
       var playList = iTunesApp.CreatePlaylist("Fixed Album Artists");
       for(var trackIndex in foundTracks)
       {
@@ -72,6 +73,7 @@ run this script:
     {
       WScript.Echo("No tracks missing album artist were found.");
     }
+```
 
 What it does is:
 

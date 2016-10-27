@@ -4,7 +4,7 @@ title: "Pre-Ordered Windows 7"
 date: 2009-10-19 -0800
 comments: true
 disqus_identifier: 1573
-tags: [GeekSpeak,Media]
+tags: [media,windows]
 ---
 [![](http://ecx.images-amazon.com/images/I/41mqYLz8fKL._SL160_.jpg)](http://www.amazon.com/gp/product/B002MV2MG0?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002MV2MG0)I
 went ahead and pre-ordered my upgrades for Windows 7 today. I opted to

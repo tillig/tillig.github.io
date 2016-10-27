@@ -4,7 +4,7 @@ title: "It's Almost Here..."
 date: 2002-11-07 -0800
 comments: true
 disqus_identifier: 164
-tags: [gaming,ps2]
+tags: [gaming,playstation]
 ---
   ----------------------- --- --------------------------
   Status:                     **In Transit**
@@ -96,7 +96,7 @@ US
  
 BILLING INFORMATION RECEIVED
   -----------------------------------------------------------------------------
-  
+
    Tracking results provided by UPS: Nov 7, 2002 2:03 P.M. Eastern Time (USA)
   -----------------------------------------------------------------------------
 

@@ -4,7 +4,7 @@ title: "My Daemon: The Golden Compass"
 date: 2007-08-27 -0800
 comments: true
 disqus_identifier: 1258
-tags: [Media]
+tags: [media,movies,books]
 ---
 For those who haven't read the [*His Dark
 Materials*](http://www.amazon.com/gp/product/0440238609?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=0440238609)

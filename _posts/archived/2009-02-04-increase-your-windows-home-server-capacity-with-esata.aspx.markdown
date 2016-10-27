@@ -4,7 +4,7 @@ title: "Increase Your Windows Home Server Capacity With eSATA"
 date: 2009-02-04 -0800
 comments: true
 disqus_identifier: 1494
-tags: [Media,GeekSpeak]
+tags: [media,windows]
 ---
 For [my media center
 solution](/archive/2008/09/30/overview-of-my-media-center-solution.aspx),

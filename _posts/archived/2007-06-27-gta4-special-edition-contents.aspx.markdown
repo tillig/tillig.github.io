@@ -4,7 +4,7 @@ title: "GTA4 Special Edition Contents"
 date: 2007-06-27 -0800
 comments: true
 disqus_identifier: 1224
-tags: [Gaming]
+tags: [gaming,playstation]
 ---
 [IGN has posted some great
 pictures](http://xbox360.ign.com/articles/799/799813p1.html) revealing

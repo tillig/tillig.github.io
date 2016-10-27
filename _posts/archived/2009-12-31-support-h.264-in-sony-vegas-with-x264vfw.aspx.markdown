@@ -4,7 +4,7 @@ title: "Support H.264 in Sony Vegas with x264vfw"
 date: 2009-12-31 -0800
 comments: true
 disqus_identifier: 1600
-tags: [Media]
+media
 ---
 [![Creative Vado
 HD](http://ecx.images-amazon.com/images/I/31vF3J7gDML._AA200_.jpg "Creative Vado HD")](http://www.amazon.com/gp/product/B001LK8P14?ie=UTF8&amp;tag=mhsvortex&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001LK8P14)I

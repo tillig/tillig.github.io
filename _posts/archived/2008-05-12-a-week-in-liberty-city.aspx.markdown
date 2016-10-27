@@ -4,7 +4,7 @@ title: "A Week in Liberty City"
 date: 2008-05-12 -0800
 comments: true
 disqus_identifier: 1385
-tags: [Gaming]
+tags: [gaming,playstation]
 ---
 Today's my first day back after a full week in Liberty City. I took all
 of last week off specifically to play *[Grand Theft Auto

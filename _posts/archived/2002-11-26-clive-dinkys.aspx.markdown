@@ -4,7 +4,7 @@ title: "Clive Dinky's"
 date: 2002-11-26 -0800
 comments: true
 disqus_identifier: 175
-tags: [gaming,ps2]
+tags: [gaming,playstation]
 ---
 ...The Home of the No-Splinter, Full-Woody Tropical Dream Vacation (and
 Spa Salon).

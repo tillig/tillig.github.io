@@ -4,7 +4,7 @@ title: "Great Drummer Stool"
 date: 2008-04-18 -0800
 comments: true
 disqus_identifier: 1377
-tags: [General Ramblings,Gaming]
+tags: [personal,gaming]
 ---
 [![](https://hyqi8g.dm2303.livefilestore.com/y2p_btwj2wrWVC8161-wO1W5-SXHdcjM6qaRht2vlqDpYeYLohGUlwNURXas2sZokhxhL79IAK2Sg7ZTWQ12_Lph5X2hM1t86dV_EmuhwBa44M/20080418vitaminstool.jpg?psid=1)](http://www.ikea.com/us/en/catalog/products/90118811)I
 play [fake

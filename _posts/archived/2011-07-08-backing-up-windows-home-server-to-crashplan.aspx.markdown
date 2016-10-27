@@ -4,7 +4,7 @@ title: "Backing Up Windows Home Server to CrashPlan"
 date: 2011-07-08 -0800
 comments: true
 disqus_identifier: 1724
-tags: [GeekSpeak,Media]
+tags: [media,windows]
 ---
 For a while [I've been using MozyHome in a sort of weird, confusing
 fashion](/archive/2009/08/17/backing-up-windows-home-server-to-mozyhome.aspx)

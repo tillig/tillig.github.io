@@ -4,7 +4,7 @@ title: "Updated Home Network Diagram"
 date: 2011-07-08 -0800
 comments: true
 disqus_identifier: 1723
-tags: [Media,GeekSpeak]
+tags: [media,home]
 ---
 We recently switched from Frontier back to Comcast because we were
 having issues with Frontier's customer service and pricing. Plus,

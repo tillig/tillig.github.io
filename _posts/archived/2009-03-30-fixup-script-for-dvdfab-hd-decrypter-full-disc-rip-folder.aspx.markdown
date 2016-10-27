@@ -4,7 +4,7 @@ title: "Fixup Script for DVDFab HD Decrypter Full Disc Rip Folder Structure"
 date: 2009-03-30 -0800
 comments: true
 disqus_identifier: 1509
-tags: [Media,Code Snippets]
+tags: [media]
 ---
 This is, admittedly, a bit of a niche thing, but it's helpful for me so
 I figured someone might be interested.
@@ -40,6 +40,7 @@ It requires manual file moves to get things rearranged. Not a big deal,
 but do it 100 times and it's a pain in the ass. This script fixes that
 up:
 
+```
     @echo off
     if .%1. == .. goto :help
     pushd %1
@@ -57,6 +58,7 @@ up:
     echo This script fixes up DVDFab rip folder structures.
     echo fixmovie [moviefolder]
     goto :eof
+```
 
 Copy that into a batch file called "fixmovie.bat" and save it in your
 movies folder. Then you can just run it and pass the folder name of the

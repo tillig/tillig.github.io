@@ -4,7 +4,7 @@ title: "Finally A Good Day"
 date: 2003-11-24 -0800
 comments: true
 disqus_identifier: 406
-tags: [personal,ps2]
+tags: [personal,playstation]
 ---
 I woke up Saturday morning around 8:00a and finished reading my book,
 [*Artemis

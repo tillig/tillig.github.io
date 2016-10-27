@@ -4,7 +4,7 @@ title: "Skyrim, Borderlands 2, BioShock Infinite"
 date: 2013-09-23 -0800
 comments: true
 disqus_identifier: 1824
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I haven’t blogged much about games I’m playing recently, so given I’m
 “between games” at the moment, I figured I’d talk a bit.

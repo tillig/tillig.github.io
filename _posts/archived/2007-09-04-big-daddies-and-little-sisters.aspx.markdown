@@ -4,7 +4,7 @@ title: "Big Daddies and Little Sisters"
 date: 2007-09-04 -0800
 comments: true
 disqus_identifier: 1262
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I basically spent the weekend [playing
 *Bioshock*](http://paraesthesia.com/archive/2007/08/16/bioshock-john-woos-stranglehold-overlord-and-other-demos.aspx),

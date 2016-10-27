@@ -4,7 +4,7 @@ title: "Filing Music: Dealing with Artist Names"
 date: 2009-11-24 -0800
 comments: true
 disqus_identifier: 1591
-tags: [Media,General Ramblings]
+tags: [media,music]
 ---
 A few days ago I was listening to some music on my iPod and noticed that
 a couple of tracks had metadata filed as "Firstname Lastname," which is

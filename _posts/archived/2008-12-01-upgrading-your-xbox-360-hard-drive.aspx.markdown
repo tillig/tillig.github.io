@@ -4,7 +4,7 @@ title: "Upgrading Your Xbox 360 Hard Drive"
 date: 2008-12-01 -0800
 comments: true
 disqus_identifier: 1471
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I've been considering upgrading my hard drive from my 20GB drive to
 something larger in the potentially near future because I'm starting to

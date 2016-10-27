@@ -4,7 +4,7 @@ title: "First 100% on Drums!"
 date: 2008-12-16 -0800
 comments: true
 disqus_identifier: 1477
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I blogged a while ago (in [my drum comparison
 entry](/archive/2008/11/07/drum-comparison-ion-vs.-rock-band-vs.-guitar-hero-world.aspx))

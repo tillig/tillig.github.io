@@ -4,7 +4,7 @@ title: "I Might Just Suck As A Drummer"
 date: 2007-11-25 -0800
 comments: true
 disqus_identifier: 1308
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 Okay, so for a while I thought it might be that I got [a bum set of
 drums](http://www.youtube.com/watch?v=EAWd7nTAK0Y) with my copy of

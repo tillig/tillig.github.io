@@ -4,7 +4,7 @@ title: "Status on Xbox Live DRM and Dashboard Problems"
 date: 2008-01-28 -0800
 comments: true
 disqus_identifier: 1341
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I realized that I hadn't posted any update on my Xbox Live DRM problems
 or the dashboard update issues I was having, so here you go.

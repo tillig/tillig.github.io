@@ -4,7 +4,7 @@ title: "Attilla"
 date: 2002-09-26 -0800
 comments: true
 disqus_identifier: 130
-tags: [gaming,ps2]
+tags: [gaming,playstation]
 ---
 Call me Attilla, for I am the King of the Huns.
 

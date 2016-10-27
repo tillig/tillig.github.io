@@ -4,7 +4,7 @@ title: "Drum Rocker"
 date: 2008-08-14 -0800
 comments: true
 disqus_identifier: 1429
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 [![Drum Rocker drum set from
 Ion](https://hyqi8g.dm2301.livefilestore.com/y2pSsOlPttXnjey3Sn3v6LaEuXEdeX0WRzatgA3QCJzbRfOgJvv8vtUoY_96ryFwm44qakD3p0GNG9i_eWZTKYCHKaa3snX1mTHcE_jT1AMkuk/20080814drumrocker.jpg?psid=1)](http://drumrocker.com/products/index.php)I

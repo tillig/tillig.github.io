@@ -4,7 +4,7 @@ title: "Rocking Out to Rock Band"
 date: 2007-11-22 -0800
 comments: true
 disqus_identifier: 1307
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 My copy of *[Rock
 Band](http://www.amazon.com/gp/product/B000TT4GBG?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000TT4GBG)*

@@ -4,7 +4,7 @@ title: "Moving Your iTunes Library"
 date: 2007-12-24 -0800
 comments: true
 disqus_identifier: 1327
-tags: [Media]
+tags: [media,music,windows]
 ---
 I bought a new laptop and I want to sync my iPod from the laptop now,
 not from the desktop in the other room. Unfortunately, moving your

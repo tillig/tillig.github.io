@@ -4,7 +4,7 @@ title: "Dell Studio Hybrid Media Center Installed"
 date: 2008-09-29 -0800
 comments: true
 disqus_identifier: 1452
-tags: [Media]
+tags: [media,windows]
 ---
 I had the [Windows Media Center DVD
 Library](/archive/2008/09/12/how-to-set-up-a-dvd-library-in-windows-media.aspx)
@@ -53,7 +53,7 @@ are showstoppers so much as generally annoying.
     can tweak the card into displaying a full resolution, but then, the
     half-inch letterbox on either side of the screen really isn't
     killing us, either.
-     
+
      **UPDATE**: Several forums report PowerStrip doesn't work with
     Intel integrated graphics cards, which the Hybrid has. There is [a
     tool called
@@ -63,7 +63,7 @@ are showstoppers so much as generally annoying.
     hackiness much) and involves knowing about VESA standard timings and
     such. Yow. Anyway, for those bold enough to take that leap, there it
     is.
-     
+
      UPDATE 2: I tested out connecting the Hybrid to the TV using an
     HDMI cable rather than the DVI cable I was using. When doing that, I
     had several new resolution options to choose from including
@@ -73,7 +73,7 @@ are showstoppers so much as generally annoying.
     in from the TV is what tells the PC the resolutions it supports.
     It's an older TV and I'm planning on getting an upgrade soon, so
     hopefully the new TV will better support the signal.
-     
+
      **UPDATE 3**: [I got a Samsung
     LN52A750](/archive/2009/02/18/samsung-ln52a750-52-lcd-tv-fan-freaking-tastic.aspx),
     hooked the PC up via HDMI, and instantly got full 1080p high-def
@@ -94,11 +94,11 @@ are showstoppers so much as generally annoying.
     PC up. Unfortunately, it isn't going back to sleep after that. I
     need to work on the power settings so it goes back to sleep when
     it's done backing up.
-     
+
      **UPDATE**: I fixed this by changing the sleep time to a lower
     number (10 minutes) and switching the screen saver to one of the
-    simpler ones like "Windows Logo." 
-     
+    simpler ones like "Windows Logo."
+
      **UPDATE 2**: I had some issues getting the HDMI signal to come
     back if I put the PC to sleep while the TV was off. It looks
     like [getting a little HDMI switchbox fixes

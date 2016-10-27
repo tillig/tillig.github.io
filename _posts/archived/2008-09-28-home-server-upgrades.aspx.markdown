@@ -4,7 +4,7 @@ title: "Home Server Upgrades"
 date: 2008-09-28 -0800
 comments: true
 disqus_identifier: 1451
-tags: [Media,GeekSpeak]
+tags: [media,windows]
 ---
 I took the plunge today and decided to do a little upgrading on my
 Windows Home Server. I was already going to have to add some drives, and

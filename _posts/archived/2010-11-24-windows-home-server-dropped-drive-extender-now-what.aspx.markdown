@@ -4,7 +4,7 @@ title: "Windows Home Server Dropped Drive Extender - Now What?"
 date: 2010-11-24 -0800
 comments: true
 disqus_identifier: 1682
-tags: [GeekSpeak,Media]
+tags: [media,windows]
 ---
 A couple years back when I was researching storage solutions for [my
 media

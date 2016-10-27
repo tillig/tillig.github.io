@@ -4,7 +4,7 @@ title: "Component Video Selector"
 date: 2004-02-10 -0800
 comments: true
 disqus_identifier: 503
-tags: [Media,Gaming]
+tags: [gaming,playstation,media]
 ---
 I found that [Pelican](http://www.pelicanperformance.com) makes an [A/V
 selector/switcher](http://www.pelicanperformance.com/universal/popup/pl_957_pro_system_selector_pop.html)

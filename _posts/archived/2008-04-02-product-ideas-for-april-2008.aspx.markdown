@@ -4,7 +4,7 @@ title: "Product Ideas for April 2008"
 date: 2008-04-02 -0800
 comments: true
 disqus_identifier: 1369
-tags: [General Ramblings,Gaming]
+tags: [gaming,personal]
 ---
 Okay, folks, here are your million-dollar product ideas for April 2008.
 If you implement these, remember to send me a t-shirt or something.

@@ -4,7 +4,7 @@ title: "Time For A New PS2"
 date: 2003-12-15 -0800
 comments: true
 disqus_identifier: 424
-tags: [gaming,ps2]
+tags: [gaming,playstation]
 ---
 I played around with my PS2 some more last night and it turns out I'm
 not only having trouble with *Time Crisis 3*, but also *SSX3* and *SSX

@@ -4,7 +4,7 @@ title: "New Car Stereo - Alpine iDA-X001"
 date: 2007-07-30 -0800
 comments: true
 disqus_identifier: 1243
-tags: [Media,General Ramblings]
+tags: [media,music,auto]
 ---
 For my birthday, my lovely wife Jenn saved up and got me a new car
 stereo - an [Alpine

@@ -4,7 +4,7 @@ title: "Move Up, Ladies"
 date: 2007-12-06 -0800
 comments: true
 disqus_identifier: 1316
-tags: [Gaming]
+tags: [gaming,playstation]
 ---
 ![Grand Theft Auto
 4](https://hyqi8g.dm2304.livefilestore.com/y2pdhsck2NZolOcOGvYFW6chLXznTfleN8TS5zpztnFAIN6PG_bpRtGbRdZV_JzNHMQzm_JIArN-ZT6GZYxVxw7zw7pUrbwnc_h3O6SR6-L22k/20071206gta4boxart.jpg?psid=1)[The

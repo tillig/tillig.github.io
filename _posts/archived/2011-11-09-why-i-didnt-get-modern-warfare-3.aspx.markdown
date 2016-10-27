@@ -4,7 +4,7 @@ title: "Why I Didn't Get Modern Warfare 3"
 date: 2011-11-09 -0800
 comments: true
 disqus_identifier: 1750
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 Now that [*Call of Duty: Modern Warfare
 3*](http://www.amazon.com/dp/B00503E8S2?tag=mhsvortex) is out, I've had

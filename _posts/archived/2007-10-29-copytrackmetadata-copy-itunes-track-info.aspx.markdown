@@ -4,7 +4,7 @@ title: "CopyTrackMetadata - Copy iTunes Track Info"
 date: 2007-10-29 -0800
 comments: true
 disqus_identifier: 1282
-tags: [Media,Software / Downloads]
+tags: [media,music,windows,net,downloads]
 ---
 I'm in the process of re-ripping a lot of my CD collection in a higher
 quality format and I noticed that iTunes doesn't necessarily detect that

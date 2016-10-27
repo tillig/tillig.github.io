@@ -4,7 +4,7 @@ title: "Xbox 360 Fall 2007 Update Locks Users Out of Xbox Live"
 date: 2007-12-11 -0800
 comments: true
 disqus_identifier: 1319
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 After a long, heated discussion with an Xbox Live support technician
 last night, it turns out that my latest issue - [where I'm unable to get

@@ -4,7 +4,7 @@ title: "Creating Playlists in Asset UPnP"
 date: 2010-09-26 -0800
 comments: true
 disqus_identifier: 1668
-tags: [Media,GeekSpeak]
+tags: [media,music]
 ---
 I use [Asset UPnP on my Windows Home
 Server](/archive/2009/08/11/stream-more-music-from-windows-home-server-with-asset-upnp.aspx)
@@ -56,7 +56,7 @@ find them in your "My Music" folder. To export the playlist as .M3U...
     original .WPL list and the .M3U list. You should save it somewhere
     you can find later but not right in your "My Music" folder or
     anywhere WMP indexes.
-5.  In the "Save As Type" dropdown, select "M3U Playlist." 
+5.  In the "Save As Type" dropdown, select "M3U Playlist."
     ![Save as type:
     M3U](https://hyqi8g.bl3302.livefilestore.com/y2pnuMU-DpPbuCfd8uWnPidQg6cgqUohMuyqXxnMw8kOslHO7GVUefr4I5T37yhmNL9MGE-7RH7K0wFemKL1o8w5bwSz7dWK5fnJ8nlV5TDWN4/20100926wmpsaveasm3u.png?psid=1 "Save as type: M3U")
 6.  Click OK to save the playlist.
@@ -99,17 +99,17 @@ lifting](http://www.ericdaugherty.com/dev/itunesexport/).
     locking that file and that the very latest has been written to disk
     so the exporter gets the right data.
 3.  Run the iTunes exporter.
-4.  Select the iTunes library XML file location. 
+4.  Select the iTunes library XML file location.
     ![Select the library XML
     file.](https://hyqi8g.bl3301.livefilestore.com/y2pcyMZ1s_d3Wf94kW1jop8KBUyHN1iJICXI3vNm1Pirs1V47SLOdBjQE5maa2jcz_K0kncjL0CIbaJ5mDTYtQauofGYtU0Loh2KY6Xy3SHhvc/20100926itunesexport1.png?psid=1 "Select the library XML file.")
-    
+
 5.  Wait while the application loads the iTunes library and discovers
     your playlists.
 6.  Select the playlists that you want to export, then click "Next."
-    (The selected playlists will turn blue.) 
+    (The selected playlists will turn blue.)
     ![Select the playlists to
     export.](https://hyqi8g.bl3301.livefilestore.com/y2puadjyo9kN-2mzlMZyyUeY2Yn8S1bc0_X6pEqcu292h1qrV1QVsTB68Sis0j1tgYJAWhn2pAYBVmMK-YPApTiFLBlgrQfZkGdcSzyrrksxGs/20100926itunesexport2.png?psid=1 "Select the playlists to export.")
-    
+
 7.  Select your various export options and click "Next." Make sure
     you...
     -   Choose "M3U" as the playlist format.
@@ -126,7 +126,7 @@ lifting](http://www.ericdaugherty.com/dev/itunesexport/).
         Setting that "Music Folder (Prefix)" field makes it so you don't
         have to do any search-and-replace later.
     -   Make a note of the "Output Directory" setting because this is
-        where the playlists will end up. 
+        where the playlists will end up.
         ![Select export options in iTunes
         Export](https://hyqi8g.blu.livefilestore.com/y2pT37mSblih2jbFHeuEjS78DOJaOZVDd_5bmVAM5BmzW6ZgnpXkn0WYbZPnpWts-AVm8UDBy8QMIWBoPUTXttYxUPox74N8MoVSW4bV92F49I/20100926itunesexport3.png?psid=1 "Select export options in iTunes Export")
 
@@ -171,7 +171,7 @@ just put on the server.
     I selected to "D:\\Shares\\Public\\Playlists"
 7.  By default, Asset sets the folder to contain music. Click the
     "Contains: Audio Tracks" text next to the playlist folder and a
-    dropdown will appear. Select "Contains: Playlists" from there. 
+    dropdown will appear. Select "Contains: Playlists" from there.
     ![](https://hyqi8g.bl3302.livefilestore.com/y2pS16OZBsil-t3rF_vcAi-7NhGSUa7-cL0gXyI2whskmHg4nAc2iCoyiU2ZpY746u1ZlfULrzWTjL4ra-xzQRHofP_rWiTkOHp-sZMminfddA/20100926assetupnpfolderlocation.png?psid=1)
 8.  Click OK. Asset will tell you it needs to restart. That's OK. It
     will then rescan the library and your playlists will be included.

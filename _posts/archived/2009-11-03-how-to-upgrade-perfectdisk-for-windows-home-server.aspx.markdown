@@ -4,7 +4,7 @@ title: "How to Upgrade PerfectDisk for Windows Home Server"
 date: 2009-11-03 -0800
 comments: true
 disqus_identifier: 1584
-tags: [Media,GeekSpeak]
+tags: [media,windows]
 ---
 UPDATE 11/4/2009: I got some feedback on this process from Raxco
 (PerfectDisk) Support. They say:

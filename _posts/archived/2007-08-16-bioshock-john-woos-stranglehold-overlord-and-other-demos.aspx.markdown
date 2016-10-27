@@ -4,7 +4,7 @@ title: "Bioshock, John Woo's Stranglehold, Overlord, and Other Demos"
 date: 2007-08-16 -0800
 comments: true
 disqus_identifier: 1256
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I've tried out a bunch of game demos over the last few days on Xbox Live
 Marketplace and thought I'd share some feedback and maybe save you some

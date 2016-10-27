@@ -4,7 +4,7 @@ title: "Xbox 360 Compatible USB Flash Drives"
 date: 2010-07-29 -0800
 comments: true
 disqus_identifier: 1656
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 My Xbox 360 profile was on a 512MB memory unit and with the USB flash
 drive update to the system, I figured it was time to move on up.
@@ -42,12 +42,12 @@ Prices listed are current as of the day I added the drive to the list.
   16GB   Lexar JumpDrive TwistTurn 16 GB USB 2.0 Flash Drive LJDTT16GASBNA   \$22.99   [Amazon](http://www.amazon.com/dp/B0021AG2AE?tag=mhsvortex)                  8/8/2011
 
   16GB   Kingston DataTraveler C10                                           \$30.99   [Amazon](http://www.amazon.com/dp/B002ZBQ76S?tag=mhsvortex)\                 7/29/2010
-                                                                                        [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16820139103)   
+                                                                                        [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16820139103)
 
   16GB   Lexar JumpDrive Firefly LJDFF16GASBNA                               \$39.22   [Amazon](http://www.amazon.com/dp/B0027VT6OG?tag=mhsvortex)                  7/29/2010
 
   16GB   Patriot Xporter XT Boost PEF16GUSB                                  \$42.99   [Amazon](http://www.amazon.com/dp/B000W1RV0Y?tag=mhsvortex)\                 7/29/2010
-                                                                                        [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16820220253)   
+                                                                                        [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16820220253)
 
   16GB   SanDisk Xbox 360 Drive                                              \$57.85   [Amazon](http://www.amazon.com/dp/B003EV7ED8?tag=mhsvortex)                  7/29/2010
 
@@ -58,7 +58,7 @@ Prices listed are current as of the day I added the drive to the list.
   8GB    Kingston Digital DataTraveler 100 Generation2 DT100G2/8GBZ          \$7.99    [Amazon](http://www.amazon.com/dp/B0044XTJ4C?tag=mhsvortex)                  2/6/2012
 
   4GB    Kingston DataTraveler 101 DT101Y/4GB                                \$9.99    [Amazon](http://www.amazon.com/dp/B001C9P5T4?tag=mhsvortex)\                 7/29/2010
-                                                                                        [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16820134714)   
+                                                                                        [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16820134714)
 
   2GB    Sandisk Cruzer Micro SDCZ4-2048-A11                                 \$25.00   [Amazon](http://www.amazon.com/dp/B0009FTMK0?tag=mhsvortex)                  5/20/2011
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -85,7 +85,7 @@ Prices listed are current as of the day I added the drive to the list.
   4GB                PNY Attache P-FD4GBATT03-EFM1                          \$7.99           [Amazon](http://www.amazon.com/dp/B003SGN9YW?tag=mhsvortex)                                                                         5/24/2011
 
   4GB                SanDisk Cruzer SDCZ36-004G-A11                         \$9.99           [Amazon](http://www.amazon.com/dp/B001T9EYFI?tag=mhsvortex) \                                                                       7/29/2010
-                                                                                              [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16820171398)                                                          
+                                                                                              [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16820171398)
 
   4GB                Geek Squad GS-4GB10                                    \$27.99          [Best Buy](http://www.bestbuy.com/site/Geek+Squad%26%23174%3B+-+4GB+USB+2.0+Flash+Drive/9331975.p?id=1218086238726&skuId=9331975)   8/19/2010
 

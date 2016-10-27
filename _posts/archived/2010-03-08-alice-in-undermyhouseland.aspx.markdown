@@ -4,7 +4,7 @@ title: "Alice in Undermyhouseland"
 date: 2010-03-08 -0800
 comments: true
 disqus_identifier: 1623
-tags: [General Ramblings,Media]
+tags: [media,home]
 ---
 Busy weekend this weekend, but got a lot done and had some fun, so it
 was one of the better ones.

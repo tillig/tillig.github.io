@@ -4,7 +4,7 @@ title: "The Cake Is A Lie"
 date: 2008-01-07 -0800
 comments: true
 disqus_identifier: 1333
-tags: [Gaming]
+tags: [gaming,xbox]
 ---
 I am, I'm sure, somewhere around the last person to get on board with
 this, but still. I got [The Orange

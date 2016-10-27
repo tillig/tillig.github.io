@@ -4,7 +4,7 @@ title: "Nothing Lasts Forever"
 date: 2003-11-25 -0800
 comments: true
 disqus_identifier: 407
-tags: [personal,ps2]
+tags: [personal,playstation]
 ---
 Well, I knew my good mood couldn't last forever, and after Sunday's
 beating, it didn't have much left to it. Today pretty much killed it

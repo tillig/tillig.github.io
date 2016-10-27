@@ -4,22 +4,22 @@ title: "Cirque Rocks!"
 date: 2002-06-17 -0800
 comments: true
 disqus_identifier: 73
-tags: [activities,movies,music,gaming,ps2]
+tags: [activities,movies,music,gaming,playstation]
 ---
 Jenn and I saw the [Cirque du Soleil](http://www.cirquedusoleil.com/)
 show,
 *[Dralion](http://www.cirquedusoleil.com/CirqueDuSoleil/en/shows/touring/dralion)*,
 on Friday night and it was *fantastic*. The music was beautiful, the
 stage effects were great, and the performers were wonderful.
- 
+
  Thinking about it, though, I really don't know how to *describe* it. If
 you've never *seen* a Cirque show, you really won't understand what it's
 *like*. Sort of like saying something tastes like chicken - if a
 person's never had chicken, what does chicken taste like?
- 
+
  For the people who *have* seen a Cirque show, this will make more
 sense.
- 
+
  The feel of *Dralion* is very Asian. While the other Cirque shows I've
 seen have a distinct French feel to them, the art, costumes, and music
 on this one have a very Oriental spin, and it was a Good Thing. There
@@ -33,15 +33,15 @@ The clowns in the other shows I've seen were not "clowns" so much as
 *Dralion*](http://www.cirquedusoleil.com/CirqueDuSoleil/en/shows/touring/dralion_t/clowns.htm)
 were actually human, resembling... well, Drunk Italians. I'm not sure
 how that fit in, exactly, but they were very funny.
- 
+
  Anyway, it was an excellent show, and anyone interested in a wonderful
 night out should definitely consider this show. Beauty beyond
 description.
- 
+
  We also saw *[The Bourne Identity](http://us.imdb.com/Title?0258463)*
 this weekend and it was very cool. I'll try to fix up a review on it a
 little later.
- 
+
  I got my copy of *[Real
 Genius](http://www.amazon.com/exec/obidos/ASIN/B000065U1Q/mhsvortex)*
 this weekend - *finally* - and got to watch it on Sunday afternoon. It
@@ -52,7 +52,7 @@ for the movie*; and there was no commentary, behind-the-scenes
 featurettes, or any other special features. You get the movie, trailers
 to *Hook* and *Jumanji*, and that's it. I suppose for what it is, that's
 okay, but it would have been nice to see more to it.
- 
+
  I redid our hallway and it now contains all of my *[Fifth
 Element](http://www.amazon.com/exec/obidos/ASIN/0800195175/mhsvortex)*
 posters and merchandise. It looks nice in there. So that's one more area
@@ -60,7 +60,7 @@ of the place down. Next stop, the dining room. It's totally a holding
 area for our extra stuff, and it needs to be cleaned out and
 redecorated. We're going with a
 *[Buffy](http://us.imdb.com/Title?0118276)* theme in there.
- 
+
  Finally got a chance to listen to the new *[Dirty
 Vegas](http://www.amazon.com/exec/obidos/ASIN/B000066HP6/mhsvortex)*
 album and I was honestly less than impressed. It was okay, but it didn't
@@ -70,7 +70,7 @@ Minogue](http://www.kylie.com) album,
 *[Fever](http://www.amazon.com/exec/obidos/ASIN/B00005Y228/mhsvortex)*,
 does stick in my head, so I may pick that up. Doesn't hurt that she's a
 little hottie.
- 
+
  Oh, and I got *way* too pissed off at the PS2 game *[Devil May
 Cry](http://www.amazon.com/exec/obidos/ASIN/B00005NCCR/mhsvortex)*.
 **WAY** too pissed off. There's something that doesn't click between my

@@ -4,7 +4,7 @@ title: "Two Weeks In With Windows Home Server: What I've Learned"
 date: 2008-09-08 -0800
 comments: true
 disqus_identifier: 1445
-tags: [Media,GeekSpeak]
+tags: [media,windows]
 ---
 ![HP MediaSmart
 Server](http://ecx.images-amazon.com/images/I/51yjoKfxx2L._SL500_AA180_.jpg)It

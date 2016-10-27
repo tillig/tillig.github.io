@@ -4,7 +4,7 @@ title: "See You Next Week!"
 date: 2002-11-08 -0800
 comments: true
 disqus_identifier: 166
-tags: [gaming,ps2]
+tags: [gaming,playstation]
 ---
 Well, gang, I'm out of here for a week (I'll be at home playing [*Grand
 Theft Auto: Vice
