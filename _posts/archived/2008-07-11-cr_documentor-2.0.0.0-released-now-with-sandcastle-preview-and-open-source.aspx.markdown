@@ -4,7 +4,7 @@ title: "CR_Documentor 2.0.0.0 Released: Now With Sandcastle Preview and Open Sou
 date: 2008-07-11 -0800
 comments: true
 disqus_identifier: 1415
-tags: [Software / Downloads,Release Notices,net,vs]
+tags: [downloads,vs,coderush]
 ---
 I know it's bad news to release things on Friday right before the day is
 out, but I can't hold it in any longer:

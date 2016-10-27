@@ -4,7 +4,7 @@ title: "CR_Documentor 3.0.0.0 Released"
 date: 2012-02-14 -0800
 comments: true
 disqus_identifier: 1769
-tags: [net,vs,GeekSpeak,Release Notices]
+tags: [downloads,vs,coderush]
 ---
 The latest version of CR\_Documentor, 3.0.0.0,  [has been
 released](http://code.google.com/p/cr-documentor/downloads/list).

@@ -4,7 +4,7 @@ title: "Open Letter to the Stop Light Idler"
 date: 2011-04-04 -0800
 comments: true
 disqus_identifier: 1707
-tags: [Traffic]
+tags: [traffic]
 ---
 Dear Stop Light Idler:
 

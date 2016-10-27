@@ -4,7 +4,7 @@ title: "2010 Retrospective"
 date: 2010-12-22 -0800
 comments: true
 disqus_identifier: 1686
-tags: [General Ramblings]
+tags: [personal]
 ---
 It's that time of year again - time to look back and see how productive
 I've been (or not, as the case may be).

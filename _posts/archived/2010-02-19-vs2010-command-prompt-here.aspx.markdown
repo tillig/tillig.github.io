@@ -4,7 +4,7 @@ title: "VS2010 Command Prompt Here"
 date: 2010-02-19 -0800
 comments: true
 disqus_identifier: 1617
-tags: [vs,Release Notices,Software / Downloads]
+tags: [downloads,vs,windows,net]
 ---
 **NOTE: I'm no longer maintaining the Command Prompt Round-Up. Instead,
 [visit the Command Prompt Here

@@ -4,17 +4,17 @@ title: "Solvent 1.1.1 Released - With Source"
 date: 2005-04-21 -0800
 comments: true
 disqus_identifier: 797
-tags: [Release Notices]
+tags: [downloads,vs,net]
 ---
 Solvent 1.1.1 is out with a minor bug fix allowing for "Command Prompt
 Here" to open the command prompt to drives other than the one VS.NET is
 installed. (Oops!)
- 
+
  I've also (finally) put the Solvent source out there for folks curious
 how it works. You'll see a lot of stubbed-in stuff where I was/am trying
 to get the Windows "Send To" menu to show up in there, but it'll
 probably just forever be stubbed since there's no great way to interface
 with "Send To," particularly in a managed code world.
- 
+
  Anyway, the update's out, so [go get
 it](/archive/2004/06/25/solvent---power-toys-for-visual-studio-.net.aspx).

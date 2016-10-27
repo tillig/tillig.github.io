@@ -4,53 +4,53 @@ title: "BlogML 2.0 Impressions"
 date: 2007-04-25 -0800
 comments: true
 disqus_identifier: 1186
-tags: [GeekSpeak]
+tags: [subtext,blog,xml]
 ---
 I've been looking for a while to migrate off this infernal pMachine blog
 engine I'm on. The major problem is how to migrate my data to the new
 platform. [Enter
 BlogML.](http://codeplex.com/Wiki/View.aspx?ProjectName=BlogML)
- 
+
  BlogML is an XML format for the contents of a blog. You can read about
 it and download it on [the CodePlex BlogML
 site](http://codeplex.com/Wiki/View.aspx?ProjectName=BlogML). They're
 currently at version 2.0, which implies there was a 1.0 somewhere along
 the lines that I missed.
- 
+
  Anyway, the general idea is that you can export blog contents in BlogML
 from one blog engine and import into another blog engine, effectively
 migrating your content. Thus began my journey down the BlogML road.
- 
+
  If you [download BlogML from the
 site](http://www.codeplex.com/BlogML/Release/ProjectReleases.aspx) it
 comes with an XSD schema for BlogML, a sample BlogML export file, a .NET
 API, and a schema validator.
- 
+
  I didn't use the .NET API because pMachine is in PHP and all of the
 routines for extracting data are already in PHP, so I wrote my pMachine
 BlogML exporter in - *wait for it* - PHP. As such, I can't really lend
 any commentary to the quality of the API's functionality. That said, a
 quick perusal of the source shows that there are almost no comments and
 the rest looks a lot like generated XmlSerializable style code.
- 
+
  The schema validator is a pretty basic .NET application that can
 validate any XML against any schema - you select the schema and the XML
 files manually and it just runs validation. This actually makes it
 troublesome to use; you'd think the schema would be embedded by default.
 If you have some other schema validation tool, feel free to ignore the
 one that comes with BlogML.
- 
+
  The real meat of BlogML is the schema. That's where the value of BlogML
 is - in defining the standard format for the blog contents.
- 
+
  The overall format of things seems to have been thought out pretty
 well. The schema accounts for posts, comments and trackbacks on each
 post, categories, attachments, and authors. I was pretty easily able to
 map the blog contents of pMachine into the requisite structure for
 BlogML.
- 
+
  There are three downsides with the schema:
- 
+
  First, the schema could really stand to be cleaned up. This may not be
 obvious if you're editing the thing in a straight text editor, but when
 you throw it into something like [XMLSpy](http://www.altova.com/), you
@@ -58,20 +58,20 @@ can see the issues. Things could be made simpler by better use of common
 base types that get extended. There are odd things like an empty,
 hanging element sequence in one of the types. Generally speaking, a good
 tidy-up might make it a lot easier to use, because...
- 
+
  Second, the documentation is super duper light. I think there are like
 10 lines of documentation in the schema, tops, and there's nothing
 outside the schema that explains it, either. Without going back and
 forth between the schema and the sample document, I'd have no idea what
 exactly was supposed to be where, what the format of things needed to
 be, etc.
- 
+
  Third, and admittedly this may be more pMachine-specific, there's no
 notion of distinguishing between a "trackback" and a "pingback." There's
 only a "trackback" entity in the schema, so if your blog supports the
 notion of a "pingback," you will lose the differentiation when you
 export.
- 
+
  Anyway, I planned on importing my blog into
 [Subtext](http://www.subtextproject.com), so I set up a test site on my
 development machine, ran the export on my pMachine blog (through a
@@ -79,7 +79,7 @@ utility I wrote; I'm going to do some fine-tuning and release it for all
 you stranded pMachine users) and did the import. This is where I started
 noticing the real shortcomings in BlogML proper. These fall into two
 categories:
- 
+
  **Shortcoming 1: Links.**
  If you've had a blog for any length of time, you've got posts that link
 to other posts. That works great if your link format doesn't change. If
@@ -93,7 +93,7 @@ response from an import engine to be able to say "Here's the old post
 ID, here's the new one" so you can write your own redirection setup
 (which you *will* have to do, regardless of whether you update the links
 inside the posts).
- 
+
  I think there needs to be a little more with respect to link and post
 ID handling. BlogML might be great for defining the contents of a blog
 from an exported standpoint, but it doesn't really help from an imported
@@ -102,7 +102,7 @@ standpoint. Maybe offering a second schema for old-ID-to-new-ID mapping
 when they finish importing... something to address the mapping issue. As
 it stands, I'm going to be doing some manual calculation and post-import
 work.
- 
+
  **Shortcoming 2: Non-Text Content**
  If you've got images or downloads or other non-text content on your
 blog posts, it's most likely stored in some proprietary folder hierarchy
@@ -110,7 +110,7 @@ for the blog engine you're on... and if you're moving, you won't be
 having that hierarchy anymore, will you? That means you've got to not
 only move the text content, but the rest of the content into the new
 blog engine.
- 
+
  There is a notion of attachments in BlogML, but it's not clear that
 solves the issue. You can apparently even embed "attachments" for each
 entry as a base64 encoded entity right in the BlogML. It's unclear,
@@ -118,14 +118,14 @@ however, how this attachment relates back to the entry and, further,
 unclear how the BlogML import will handle it. This could probably be
 remedied with some documentation, but like I said, there really isn't
 any.
- 
+
  This sort of leaves you with one of two options: You can leave the
 non-text content where it is and leave the proprietary folder structure
 in place... or you can move the non-text content and process all of the
 links in all of your posts to point to the new location. One way is less
 work but also less clean; the other is cleaner but a lot of work.
 Lose-lose.
- 
+
  Anyway, the end result of my working with BlogML: I like the idea and
 I'll be using it as a part of a fairly complex multi-step process to
 migrate off pMachine. That said, I think it's got a long way to go for

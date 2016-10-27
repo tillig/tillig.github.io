@@ -4,7 +4,7 @@ title: "The Subtext 2.5.2.0 Email Debacle - Solved"
 date: 2010-11-03 -0800
 comments: true
 disqus_identifier: 1678
-tags: [Subtext]
+tags: [subtext,blog]
 ---
 As mentioned [in an earlier
 article](/archive/2010/11/03/upgraded-to-subtext-2-5-2-0.aspx), I

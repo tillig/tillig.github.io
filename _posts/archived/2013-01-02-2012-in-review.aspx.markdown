@@ -4,7 +4,7 @@ title: "2012 in Review"
 date: 2013-01-02 -0800
 comments: true
 disqus_identifier: 1797
-tags: [GeekSpeak,General Ramblings]
+tags: [personal]
 ---
 2012 has come and gone, and it's time to look back at what happened.
 Because if I don't, well… my memory isn't quite what it used to be, you

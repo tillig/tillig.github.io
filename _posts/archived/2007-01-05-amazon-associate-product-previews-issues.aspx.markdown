@@ -4,7 +4,7 @@ title: "Amazon Associate &quot;Product Previews&quot; Issues"
 date: 2007-01-05 -0800
 comments: true
 disqus_identifier: 1124
-tags: [GeekSpeak]
+tags: [javascript]
 ---
 I updated [the DHTML tooltip
 script](/archive/2004/09/29/amazon-associate-dhtml-image-tooltips.aspx)
@@ -18,6 +18,6 @@ titles of my articles look different; the Product Preview that pops up
 is entirely missing the product title and sometimes other things; and a
 JavaScript error pops up telling me that there's a "syntax error" (but
 doesn't provide much information beyond that).
- 
+
  I've sent a note to Amazon to ask for help. Hopefully they can hook me
 up.

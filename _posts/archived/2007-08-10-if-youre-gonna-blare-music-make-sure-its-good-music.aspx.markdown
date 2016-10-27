@@ -4,7 +4,7 @@ title: "If You're Gonna Blare Music, Make Sure It's Good Music"
 date: 2007-08-10 -0800
 comments: true
 disqus_identifier: 1252
-tags: [Traffic]
+tags: [traffic]
 ---
 Coming out of the grocery store yesterday, I swore I heard an ice cream
 truck.

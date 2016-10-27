@@ -4,7 +4,7 @@ title: "CR_Documentor 2.2.0.0 Released"
 date: 2008-09-05 -0800
 comments: true
 disqus_identifier: 1444
-tags: [Release Notices,net,vs]
+tags: [downloads,vs,coderush]
 ---
 [CR\_Documentor 2.2.0.0 has been
 released](http://code.google.com/p/cr-documentor/) and includes several

@@ -4,7 +4,7 @@ title: "Subtext 2.1.0.5 Staged Upgrade Complete"
 date: 2009-02-27 -0800
 comments: true
 disqus_identifier: 1497
-tags: [Web Development,Subtext]
+tags: [subtext,blog,aspnet]
 ---
 It's been a long time in the making, but since the last time I tried to
 upgrade my blog to the latest Subtext [failed so

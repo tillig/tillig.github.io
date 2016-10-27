@@ -4,7 +4,7 @@ title: "CR_Documentor 2.4.0.0 Released"
 date: 2010-02-01 -0800
 comments: true
 disqus_identifier: 1611
-tags: [Release Notices]
+tags: [downloads,vs,coderush]
 ---
 It's been almost a year, but I've finally got [the new
 CR\_Documentor](http://cr-documentor.googlecode.com) out the door.

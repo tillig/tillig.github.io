@@ -4,7 +4,7 @@ title: "CR_JoinLines and CR_SortLines Join DXCore Community Plugins"
 date: 2008-07-10 -0800
 comments: true
 disqus_identifier: 1414
-tags: [Software / Downloads,Release Notices,net,vs]
+tags: [downloads,vs,coderush]
 ---
 My
 [CR\_JoinLines](/archive/2005/08/30/cr_joinlines---join-lines-in-visual-studio-code-editor-via.aspx)

@@ -4,23 +4,23 @@ title: "Paraesthesia.Tools.NAntTasks - Custom NAnt Tasks"
 date: 2007-01-29 -0800
 comments: true
 disqus_identifier: 1139
-tags: [Software / Downloads,Release Notices,net]
+tags: [downloads,vs,build,net]
 ---
 I use NAnt to do my automated builds both at home and at work. As such,
 I decided to start keeping a little library of custom NAnt tasks that
 help me get things done. I'll add to this library of custom tasks as
 things get fixed and new things get added.
- 
+
  To use the tasks, add a standard `<loadtasks />` line to your NAnt
 build script and reference the custom task assembly. After that, you can
 use the tasks just like you would any other built-in NAnt task. It'll
 look like this:
- 
+
  `<loadtasks assembly="Paraesthesia.Tools.NAntTasks.dll" />`
- 
+
  The available tasks include:
 
-> 
+>
 >  **alpharesx**: The `<alpharesx />` task is used to alphabetize
 > resource files (\*.resx) by resource ID. This is helpful in an
 > environment where automated tools are used to merge resource file
@@ -32,8 +32,8 @@ look like this:
 > and makes automated merging much simpler and more reliable. It also
 > helps when hand-editing the .resx file to be able to find what you're
 > looking for in an easier fashion.
->  
->  
+>
+>
 >  **lintrelativepaths**: When you add a reference to an assembly from a
 > project, a "HintPath" is added to point to the location of that
 > assembly. If it's a standard .NET Framework assembly, that "HintPath"
@@ -49,12 +49,12 @@ look like this:
 > `..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll`, I put
 > `\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll`. (Not
 > foolproof, but far more reliable.)
->  
+>
 >  This task searches specified files using a regular expression and
 > fails the build if you have relative paths to common locations like
 > `WINDOWS`, `Inetpub`, or `Program Files`.
->  
->  
+>
+>
 >  **nunitexec**: The `<nunitexec />` task is a replacement for the
 > built-in `<nunit2 />` task. With NAnt and NUnit versions changing,
 > there's all nature of trouble in getting the built-in task to work
@@ -62,15 +62,15 @@ look like this:
 > over to use the NUnit console application to avoid the issue, but the
 > `<exec />` task doesn't allow the nice syntax of the built-in
 > `<nunit2 />` task and changing working build scripts over is a pain.
->  
+>
 >  `<nunitexec />` has identical syntax to the built-in `<nunit2 />`
 > task, it just runs the console app. An option is included to allow you
 > to specify the location of the NUnit console application. Refer to
 > [the `<nunit2 />`
 > documentation](http://nant.sourceforge.net/release/latest/help/tasks/nunit2.html)
 > for a description of how to specify formatters and tests to run.
->  
->  
+>
+>
 >  **propertydelete**: NAnt lets you create properties, change property
 > values... but not delete them. That makes the `property::exists` test
 > fairly limited. There are times when you might want to make a property
@@ -84,12 +84,12 @@ distribution (or as XML doc in the code). It includes syntax
 descriptions and examples. You can get the source to the tasks as well.
 If you find a bug, send me email or leave a comment and give me a way to
 reproduce the issue.
- 
+
  [Download Paraesthesia.Tools.NAntTasks
 2.0.0.0](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45411&authkey=!ALMe903OOYTQhoU&ithint=file%2czip)
  [Download Paraesthesia.Tools.NAntTasks 2.0.0.0
 Source](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45410&authkey=!AM6wM4J2TLcyATY&ithint=file%2czip)
- 
+
  **Version History:**
  **1.0.0.0**: First release. Includes nunitexec task.
  **1.1.0.0**: Added alpharesx, lintrelativepaths, and propertydelete.

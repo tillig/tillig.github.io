@@ -4,7 +4,7 @@ title: "Junction Shell Extensions - Update (Obsolete?)"
 date: 2006-03-13 -0800
 comments: true
 disqus_identifier: 962
-tags: [Release Notices]
+tags: [downloads,windows]
 ---
 [Hermann Schinagl has a great shell
 extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html)
@@ -15,7 +15,7 @@ but while mine is more of a "visual cue" sort of thing, his actually
 overlay, and I'm gathering that he's going to put the property sheet in,
 too, when he gets time. **[UPDATE: As of March 26, 2007, Hermann has
 integrated the property sheet into his extension. Woohoo!]**
- 
+
  [Check this thing
 out](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html)
 - it's the bomb. Plus, once he's got the property sheet in there, it

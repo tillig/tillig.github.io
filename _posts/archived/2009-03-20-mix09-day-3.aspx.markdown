@@ -4,7 +4,7 @@ title: "MIX09 - Day 3"
 date: 2009-03-20 -0800
 comments: true
 disqus_identifier: 1505
-tags: [GeekSpeak,Web Development,net]
+tags: [conferences,aspnet,net]
 ---
 **ASP.NET Ninjas On Fire Black Belt Tips**
 

@@ -4,7 +4,7 @@ title: "Subtext 2.1.0.5 Production Upgrade Complete"
 date: 2009-03-02 -0800
 comments: true
 disqus_identifier: 1498
-tags: [Subtext]
+tags: [subtext,blog,aspnet]
 ---
 This is my first post on the upgraded blog using [Subtext
 2.1.0.5](http://www.subtextproject.com). After [a failed

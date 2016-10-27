@@ -4,7 +4,7 @@ title: "2009 Retrospective"
 date: 2009-12-29 -0800
 comments: true
 disqus_identifier: 1599
-tags: [General Ramblings]
+tags: [personal]
 ---
 I just finished upgrading the last of our computers at home to Windows 7
 and now that I have Windows Live Writer installed I figured I'd do my

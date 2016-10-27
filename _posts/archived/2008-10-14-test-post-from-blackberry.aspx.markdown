@@ -4,7 +4,7 @@ title: "Test Post From Blackberry"
 date: 2008-10-14 -0800
 comments: true
 disqus_identifier: 1456
-tags: [General Ramblings]
+tags: [blog]
 ---
 Just downloaded a MetaWeblogAPI blog client for Blackberry. Here's
 hoping it works!

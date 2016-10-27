@@ -4,7 +4,7 @@ title: "Updated Subtext Database Maintenance Page 2.5.2.0 &ndash; Enable/Disable
 date: 2012-02-20 -0800
 comments: true
 disqus_identifier: 1771
-tags: [net,Release Notices,Subtext]
+tags: [subtext,blog,sql,downloads]
 ---
 [Tim Heuer figured out the right stored
 procedure](http://timheuer.com/blog/archive/2012/02/20/reducing-unnecessary-referral-logging-in-subtext.aspx)

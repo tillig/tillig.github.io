@@ -4,7 +4,7 @@ title: "So Close to Subtext I Can Taste It"
 date: 2007-06-15 -0800
 comments: true
 disqus_identifier: 1214
-tags: [GeekSpeak]
+tags: [blog,subtext]
 ---
 I've been working pretty hard on getting things ready to migrate this
 pMachine piece of crap blog over to

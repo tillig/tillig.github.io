@@ -4,7 +4,7 @@ title: "CopyTrackMetadata 1.2.0.0 Released"
 date: 2009-09-18 -0800
 comments: true
 disqus_identifier: 1565
-tags: [Media,Release Notices]
+tags: [media,music,downloads]
 ---
 [A while ago I wrote a little
 app](/archive/2007/10/29/copytrackmetadata-copy-itunes-track-info.aspx)

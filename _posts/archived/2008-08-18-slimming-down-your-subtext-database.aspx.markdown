@@ -4,14 +4,14 @@ title: "Slimming Down Your Subtext Database"
 date: 2008-08-18 -0800
 comments: true
 disqus_identifier: 1431
-tags: [Subtext]
+tags: [subtext,blog,net,sql]
 ---
 While I was [attempting my
 upgrade](/archive/2008/08/16/failed-to-upgrade-to-subtext-2.0.aspx), I
 figured I'd also look and see where my database space was going since
 I've had to have a size increase a couple of times now and I'm not
 generating tens-of-megabytes worth of content. The culprits: the
-subtext\_URLs and subtext\_Referrals tables. Which is to say, my list of
+`subtext_URLs` and `subtext_Referrals` tables. Which is to say, my list of
 referral sites and the links to the associated blog entries. The URLs
 table was in the 40MB range, which is pretty out of hand.
 

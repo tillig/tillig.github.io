@@ -4,7 +4,7 @@ title: "Updated Emotifier"
 date: 2005-09-29 -0800
 comments: true
 disqus_identifier: 900
-tags: [Release Notices]
+tags: [downloads,vs,coderush]
 ---
 I updated the [Emotifier
 script](/archive/2005/05/19/emotifier-msn-messenger-emoticon-text.aspx)

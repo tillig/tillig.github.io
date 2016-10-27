@@ -4,7 +4,7 @@ title: "ContactCard - DHTML Contact Information"
 date: 2006-06-06 -0800
 comments: true
 disqus_identifier: 1013
-tags: [Software / Downloads,Release Notices]
+tags: [downloads,javascript]
 ---
 Recently inspired by a trip through [*Pragmatic
 Ajax*](http://www.amazon.com/exec/obidos/ASIN/0976694085/mhsvortex) and
@@ -13,7 +13,7 @@ Script](http://haacked.com/archive/2006/04/05/MakingMicroformatsMoreVisibleAnnou
 I decided to play around with [the prototype JavaScript
 library](http://prototype.conio.net/) and create a little pop-up contact
 information script.
- 
+
  What this allows you to do is specify the contact information for a
 given person including their name, email address, web site URL, a short
 description of them, and their Xbox Live Gamertag and have the contact
@@ -25,32 +25,32 @@ library to the \<head /\> of your page. Then you define your list of
 contacts and related information in a separate script and add that -
 whenever you need to add, remove, or change contact info, you then just
 modify that separate script.
- 
+
  By adding the CSS class `contactcard` followed by a period and the ID
 of the given contact, the ContactCard script will automatically rewrite
 the page with the popup. If it's a link, including XFN relationship
 information will automatically have that added to the contact card:
- 
+
  `<a href="/" rel="me" class="contactcard.tillig">Travis Illig</a>`
- 
+
  This works on any HTML element, not just links:
- 
+
  `<span class="contactcard.tillig">Travis Illig</span>`
- 
+
  The script will also automatically find links that have URLs matching
 those you have defined for contacts and will attach a contact's card to
 those links without you having to do anything. (You can disable this
 behavior if you want.)
- 
+
  Full usage instructions, including how to customize the look of the
 popup card, are included. Check out the test page that is included for
 working examples.
 
 **Note 8/22/2014:** There are better ways to do this with jQuery and Bootstrap now, but I've not bothered updating this script. You can still grab it if you like, but it's totally unsupported.
- 
+
  [**Download ContactCard
 1.2.0**](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!44196&authkey=!AMW8zelRgj5TkvI&ithint=file%2c.zip)
- 
+
  **Version History:**
  **1.0.0:** First release.
  **1.1.0:**

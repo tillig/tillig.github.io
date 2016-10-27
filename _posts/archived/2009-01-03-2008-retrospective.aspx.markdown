@@ -4,7 +4,7 @@ title: "2008 Retrospective"
 date: 2009-01-03 -0800
 comments: true
 disqus_identifier: 1483
-tags: [General Ramblings]
+tags: [personal]
 ---
 Well, Christmas is over, it's the New Year, and it's time once again to
 look back and see what went on for me in the last 365 days or so.

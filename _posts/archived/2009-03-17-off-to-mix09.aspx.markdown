@@ -4,7 +4,7 @@ title: "Off to MIX09"
 date: 2009-03-17 -0800
 comments: true
 disqus_identifier: 1502
-tags: [GeekSpeak]
+tags: [conferences]
 ---
 I've got some work to do this morning, but come noon, I'm off to [the
 MIX09 conference](http://visitmix.com/). I don't travel much, and rarely

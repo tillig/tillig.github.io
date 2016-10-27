@@ -4,7 +4,7 @@ title: "CR_CodeTweet: Tweet Code Snippets from Visual Studio"
 date: 2009-12-11 -0800
 comments: true
 disqus_identifier: 1596
-tags: [vs,Release Notices,Software / Downloads]
+tags: [downloads,vs,coderush]
 ---
 Sometimes you have a snippet of code in Visual Studio that you'd like to
 share over [Twitter](http://twitter.com). You used to have to post the

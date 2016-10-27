@@ -4,7 +4,7 @@ title: "ImageShackWriterPlugin - Upload to ImageShack from Windows Live Writer"
 date: 2009-12-15 -0800
 comments: true
 disqus_identifier: 1597
-tags: [Release Notices,Software / Downloads,GeekSpeak]
+tags: [downloads,net,blog]
 ---
 I have to admit - I'm a [Windows Live
 Writer](http://windowslivewriter.spaces.live.com/) convert. I tried

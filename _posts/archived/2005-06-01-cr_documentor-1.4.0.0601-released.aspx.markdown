@@ -4,10 +4,10 @@ title: "CR_Documentor 1.4.0.0601 Released"
 date: 2005-06-01 -0800
 comments: true
 disqus_identifier: 830
-tags: [Release Notices]
+tags: [downloads,vs,coderush]
 ---
 The new version has been released and provides the following updates:
- 
+
 Added logging to the DXCore "Messages" window.
 
 Fixed bug where nested lists weren't rendering correctly.
@@ -25,6 +25,6 @@ as well as in relation to the XML comment begin/end.)
 Fixed bug where attributes on unrecognized tags weren't passing through
 to be rendered.
 
- 
+
  **[Go get
 it!](/archive/2004/11/15/cr_documentor---the-documentor-plug-in-for-dxcore.aspx)**

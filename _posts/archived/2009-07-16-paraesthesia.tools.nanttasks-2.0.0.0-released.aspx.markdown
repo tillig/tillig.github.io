@@ -4,7 +4,7 @@ title: "Paraesthesia.Tools.NAntTasks 2.0.0.0 Released"
 date: 2009-07-16 -0800
 comments: true
 disqus_identifier: 1550
-tags: [Release Notices,net]
+tags: [downloads,build,net]
 ---
 It's been a while since I touched these, particularly since I don't use
 NAnt much anymore, but I got spurred into action by one of my readers

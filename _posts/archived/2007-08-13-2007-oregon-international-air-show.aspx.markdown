@@ -4,7 +4,7 @@ title: "2007 Oregon International Air Show"
 date: 2007-08-13 -0800
 comments: true
 disqus_identifier: 1254
-tags: [Traffic,General Ramblings]
+tags: [traffic,personal,activities]
 ---
 ![The Blue Angels do their famous delta
 formation.](https://hyqi8g.dm2301.livefilestore.com/y2pDT-HmKuQt9xsF80XW_fhj12pb0MZFsMlDZru5g2KXSYdSfYS2J3-HSk70_3RF1v4J0WZCanqZVNOzIMLreV3OeXl5dslRf_dzUkO36z35C0/20070813blueangels.jpg?psid=1)The

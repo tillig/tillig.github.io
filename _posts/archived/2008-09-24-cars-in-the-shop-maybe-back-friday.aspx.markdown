@@ -4,7 +4,7 @@ title: "Car's In The Shop, Maybe Back Friday"
 date: 2008-09-24 -0800
 comments: true
 disqus_identifier: 1449
-tags: [Traffic,General Ramblings]
+tags: [traffic]
 ---
 Took my car in to the shop this morning to get it fixed from [my
 one-way-grid

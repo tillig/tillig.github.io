@@ -4,12 +4,12 @@ title: "Solvent - Power Toys for Visual Studio .NET"
 date: 2004-06-25 -0800
 comments: true
 disqus_identifier: 597
-tags: [Software / Downloads,Release Notices,vs]
+tags: [downloads,vs]
 ---
 Solvent is a set of simple but effective tools for Visual Studio .NET
 2003 packaged as an add-in. Why call it Solvent? All the tools work in
 the Solution Explorer.
- 
+
  Bad science puns aside, here's a list of what Solvent provides:
 -   **Recursive Expand/Contract**: Ever notice when you click the +/-
     icon next to a folder (or double click on a Solution/Project file),
@@ -28,25 +28,25 @@ the Solution Explorer.
     prompt to that folder).
 
 
- 
+
  Solvent adds itself to the Tools menu and to the context menu for items
 in the Solution Explorer.
- 
+
  Tools Menu:
  ![Solvent Tools
 Menu](https://hyqi8g.blu.livefilestore.com/y2p2XpE0qZNmHBcBrP88MjkIvRXWY23c0Gpk_WWtRuCiGNWSwfU3yn43Vxpn2eskx4rgJ-2hJqY0LOA46dDKoHJrzg_kWF18JaLUKmn3nJFGaI/20040625solventtoolsmenu.gif?psid=1)
- 
+
  Context Menu (On a Project):
  ![Solvent [Project] Context
 Menu](https://hyqi8g.blu.livefilestore.com/y2pFoM50LtX3ZNYV5L8qfofDFfxNiNMRw1FNURkQpMIVRviOjdBrMTwy1M5g8J9albzdMgU1bafgAQNpNPbSLjaI8TglmaqRkKI3J3C-37PRmQ/20040625solventcontextmenu.gif?psid=1)
- 
+
  It's free, so come and get it!
- 
+
  **[Download Solvent 1.1.1 (Setup -
 MSI)](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45403&authkey=!ABLyja07P6_qyeM&ithint=file%2cmsi)**
  **[Download Solvent 1.1.1 (Source -
 ZIP)](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45402&authkey=!AHNK1SA76npqzGg&ithint=file%2czip)**
- 
+
  **Installation Note: Be sure to shut down Visual Studio BEFORE you
 install!** If you don't, you may see the UI elements of the add-in
 disappear. If you install the add-in and find that the UI has
@@ -57,12 +57,12 @@ enter:
 any customizations you make to the standard menu bars, though (like
 adding/removing buttons on bars). I'll add a check for VS.NET on install
 for the next release.
- 
+
  **NOTE:** Gaston Milano has [a similar product for VS 2005 called
 CoolCommands](http://weblogs.asp.net/gmilano/archive/2006/05/10/446010.aspx).
 As Solvent does not support VS 2005, you may be interested in checking
 that out.
- 
+
  **Version History:**
  1.0.0: First public release.
  1.1.1: Updated "Command Prompt Here" to use "cd /d [path]" rather than

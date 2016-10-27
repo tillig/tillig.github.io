@@ -4,7 +4,7 @@ title: "MIX09 - Day 1"
 date: 2009-03-18 -0800
 comments: true
 disqus_identifier: 1503
-tags: [GeekSpeak,Web Development,net]
+tags: [aspnet,net,conferences]
 ---
 **Keynote**
 

@@ -4,7 +4,7 @@ title: "Updated SNInfo"
 date: 2005-02-15 -0800
 comments: true
 disqus_identifier: 749
-tags: [Release Notices]
+tags: [downloads,net]
 ---
 I updated the
 [SNInfo](/archive/2005/02/07/sninfo---strong-naming-info-for-.net-assemblies.aspx)
@@ -17,6 +17,6 @@ program and it'll open up with the information directly (rather than
 having to open SNInfo and then drag the assembly onto it). Oh, and you
 can click on a "copy" button next to each field to copy that respective
 information to the clipboard.
- 
+
  Full source and compiled executable available. [Have at
 it.](/archive/2005/02/07/sninfo---strong-naming-info-for-.net-assemblies.aspx)

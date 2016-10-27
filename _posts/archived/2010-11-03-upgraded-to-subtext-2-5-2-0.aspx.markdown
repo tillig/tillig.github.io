@@ -4,7 +4,7 @@ title: "Upgraded to Subtext 2.5.2.0"
 date: 2010-11-03 -0800
 comments: true
 disqus_identifier: 1677
-tags: [Subtext]
+tags: [subtext,blog]
 ---
 After some unfortunate problems with the handling of medium trust,
 [Subtext has released a new

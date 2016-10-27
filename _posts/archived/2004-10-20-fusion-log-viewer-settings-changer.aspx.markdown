@@ -4,7 +4,7 @@ title: "Fusion Log Viewer Settings Changer"
 date: 2004-10-20 -0800
 comments: true
 disqus_identifier: 681
-tags: [Software / Downloads,Release Notices,net]
+tags: [downloads,net]
 ---
 The Fusion Log Viewer (in pre-.NET-2.0) is a great tool but is a pain to
 work with if you're working with ASP.NET apps. The built-in ASP.NET log
@@ -15,15 +15,13 @@ which means if you're going to debug ASP.NET, you need to use the
 setting. [MSDN talks about how to do
 this](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cptools/html/cpgrffusionlogviewerfuslogvwexe.asp),
 but I find I do one of two things, always:
- 
+
 1.  Enable logging in a custom folder (sometimes logging everything,
     sometimes logging only failures
 2.  Disable logging to the custom folder (and, in most, if not all
     cases, logging of binding in general, including failures)
 
-
- 
- To that end, I wrote a little script to handle that. From the command
+To that end, I wrote a little script to handle that. From the command
 line (available by running the script with a "/?" parameter):
 
 ```
@@ -72,12 +70,12 @@ Options:
 
  If you use the Fusion Log Viewer to debug your .NET assembly bindings,
 this is pretty handy stuff.
- 
+
  Note that since it writes to your registry, you need rights to do that.
 It'll fail if it can't write the appropriate keys.
- 
+
  [**[Download
 FusLogVwSet.wsf](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45406&authkey=!AFKLuFqmu16o_iU&ithint=file%2ctxt)**]
- 
+
  (Of course, no warranty, expressed nor implied... use at your own risk,
 etc.)

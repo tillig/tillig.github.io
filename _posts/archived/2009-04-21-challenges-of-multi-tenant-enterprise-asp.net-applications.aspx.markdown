@@ -4,7 +4,7 @@ title: "Challenges of Multi-Tenant, Enterprise ASP.NET Applications"
 date: 2009-04-21 -0800
 comments: true
 disqus_identifier: 1516
-tags: [Web Development,net]
+tags: [aspnet,net]
 ---
 I've been doing ASP.NET for a while, mostly at my current employer where
 we make large-scale online banking web sites. During that, what I've

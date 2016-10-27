@@ -4,7 +4,7 @@ title: "Testing Out UrlAbsolutifierModule"
 date: 2007-11-07 -0800
 comments: true
 disqus_identifier: 1294
-tags: [Web Development]
+tags: [aspnet,subtext,blog]
 ---
 I figured out the problem with my URL absolutifier HttpModule (which I'm
 calling "UrlAbsolutifierModule" - gasp).  I was hooking into things too

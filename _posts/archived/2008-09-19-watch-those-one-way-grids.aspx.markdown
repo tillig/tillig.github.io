@@ -4,7 +4,7 @@ title: "Watch Those One-Way Grids"
 date: 2008-09-19 -0800
 comments: true
 disqus_identifier: 1447
-tags: [Traffic,General Ramblings]
+tags: [traffic]
 ---
 My car got hit last night while I was on my way to get my allergy shot.
 No big deal, just some paint scratches (as far as I can tell), and no

@@ -4,7 +4,7 @@ title: "EmbeddedResourcePathProvider - Binary-Only ASP.NET 2.0"
 date: 2007-07-13 -0800
 comments: true
 disqus_identifier: 1233
-tags: [Software / Downloads,Web Development,Release Notices,net]
+tags: [downloads,aspnet,net]
 ---
 [I posted before about an ASP.NET 1.1 way to deploy in a
 close-to-binary-only

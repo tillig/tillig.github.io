@@ -4,14 +4,14 @@ title: "MIX07 Day 1 Keynote - Ray Ozzie, Scott Guthrie, and Cross-Platform Debug
 date: 2007-04-30 -0800
 comments: true
 disqus_identifier: 1189
-tags: [GeekSpeak]
+tags: [conferences,aspnet,net]
 ---
 Ray Ozzie opened the keynotes today and gave a general intro to
 [MIX07](http://visitmix.com). This was a pretty general overview and
 focused a lot on the release of
 [Silverlight](http://www.microsoft.com/silverlight/), Microsoft's Flash
 competitor. It was an interesting talk, but was mostly benign.
- 
+
  After that, Scott Guthrie came up and that's when the really good stuff
 started. Lots of great announcements:
 

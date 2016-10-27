@@ -4,7 +4,7 @@ title: "Subtext Project Moved to Google Code"
 date: 2009-03-27 -0800
 comments: true
 disqus_identifier: 1508
-tags: [Subtext]
+tags: [subtext,blog,aspnet]
 ---
 The Subtext blog project has moved its home from SourceForge [over to
 Google Code](http://code.google.com/p/subtext/). The code finished

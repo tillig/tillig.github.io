@@ -4,7 +4,7 @@ title: "Autofac 3.0 Released"
 date: 2013-01-30 -0800
 comments: true
 disqus_identifier: 1806
-tags: [net,Release Notices]
+tags: [net,autofac]
 ---
 The final version of [Autofac](https://autofac.googlecode.com) 3.0.0 is
 released and you can [get it on

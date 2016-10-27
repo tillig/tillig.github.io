@@ -4,7 +4,7 @@ title: "EmbeddedPageHandlerFactory - Binary-Only ASP.NET 1.1"
 date: 2007-05-31 -0800
 comments: true
 disqus_identifier: 1209
-tags: [Software / Downloads,Web Development,Release Notices,net]
+tags: [downloads,aspnet,net]
 ---
 I'm constantly looking for ways to make deployment of ASP.NET
 applications easier. One of the things that makes it difficult is the
@@ -12,7 +12,7 @@ ASPX markup files that have to be deployed with the app. Wouldn't it be
 nice not to have those? Wouldn't it be nice to be able to drop the
 application .dll into the bin folder, pop in your web.config file, and
 let 'er rip?
- 
+
  Since I work primarily in ASP.NET 1.1 right now, the solution I came up
 with is for ASP.NET 1.1. [**There is a different/better way to do this
 in ASP.NET
@@ -21,14 +21,14 @@ and I will be writing/posting that as I get time.
 
 **UPDATE:** [The ASP.NET 2.0 version is here - based on
 System.Web.Hosting.VirtualPathProvider.](http://paraesthesia.com/archive/2007/07/13/embeddedresourcepathprovider---binary-only-asp.net-2.0.aspx)
- 
+
  The idea: Embed your ASPX files in your ASP.NET application assembly.
 To deploy the app, drop your .dll in the bin folder and set up your
 web.config file. At runtime, embedded ASPX pages get extracted to a
 temporary location and get served up from there. When the app shuts
 down, the temporary fileset gets cleaned up. Easy deployment, easy
 upgrades.
- 
+
  The solution: An HttpModule that does exactly that. You set your
 application web.config file to use the EmbeddedPageHandlerFactory and in
 your ASP.NET project set your ASPX files from "Content" to "Embedded
@@ -38,9 +38,9 @@ temporary location. A replacement for the standard PageHandlerFactory
 redirects requests to the temporary location so pages get served up just
 like usual. When the application shuts down, the temporary files get
 cleaned up.
- 
+
  Here's a snippet of the relevant bits in web.config:
- 
+
     <?xml version="1.0" encoding="utf-8" ?>
     <configuration>
       <configSections>
@@ -96,26 +96,26 @@ called "MyApp.Web" where the default namespace is "MyApp.Web" and you
 have a file at "\~/Admin/Default.aspx" then when it gets embedded as a
 resource, it'll be called "MyApp.Web.Admin.Default.aspx" - notice the
 namespace, then the path, then the file, all delimited by periods.
- 
+
  What the module does is look for resources that end with ".aspx" and,
 if it finds them, removes the namespace from the front (as specified in
 web.config) and substitutes out / for . to convert back to a path. In
 this example, "MyApp.Web.Admin.Default.aspx" would become
 "Admin.Default.aspx" and then "Admin/Default.aspx."
- 
+
  Once the mapping is done, a temporary location is generated and the
 page is extracted to that location with the full relative path intact.
 As requests come in, the EmbeddedPageHandlerFactory will look at the
 request, map it into the temporary location, and serve the temporary
 file.
- 
+
  Using the `appSettings` key, you can specify that you'd like to allow
 pages in the actual ASP.NET filesystem to override the extracted pages.
 In this case, the actual ASP.NET filesystem would be searched for
 "Admin/Default.aspx" and if it is found, serve it from there just like a
 standard ASP.NET application. If it isn't found, then it'll fall back to
 look in the temporary location.
- 
+
  Caveats:
 -   This won't work for sites that rely on file system security. I
     primarily work with forms authentication, so this isn't a problem

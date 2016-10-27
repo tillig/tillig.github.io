@@ -4,7 +4,7 @@ title: "The Documentation Missing Link"
 date: 2007-06-27 -0800
 comments: true
 disqus_identifier: 1225
-tags: [GeekSpeak]
+tags: [subtext,process]
 ---
 I've been working on several different projects where I'm learning new
 stuff from scratch.  For example, I'm trying to write my own

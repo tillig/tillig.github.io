@@ -4,7 +4,7 @@ title: "Easier Subtext 2.1.0.5 Maintenance"
 date: 2009-12-10 -0800
 comments: true
 disqus_identifier: 1595
-tags: [Subtext]
+tags: [subtext,blog,aspnet,sql,downloads]
 ---
 Last year about this time [I posted a database maintenance
 page](/archive/2008/12/05/easier-subtext-1.9.5b-database-maintenance.aspx)

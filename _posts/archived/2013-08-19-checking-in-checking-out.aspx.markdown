@@ -4,7 +4,7 @@ title: "Checking In, Checking Out"
 date: 2013-08-19 -0800
 comments: true
 disqus_identifier: 1823
-tags: [General Ramblings]
+tags: [personal,blog,gaming]
 ---
 It’s been a while since I’ve checked in on stuff I do in my off-time, so
 I figured I’d do a round-up entry to catch up.

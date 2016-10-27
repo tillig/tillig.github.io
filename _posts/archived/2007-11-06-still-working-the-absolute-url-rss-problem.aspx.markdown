@@ -4,7 +4,7 @@ title: "Still Working the Absolute URL RSS Problem"
 date: 2007-11-06 -0800
 comments: true
 disqus_identifier: 1291
-tags: [Web Development,Subtext]
+tags: [subtext,xml,blog]
 ---
 I'm still working on a decent solution to the absolute URL problem I'm
 seeing in my RSS feed (which is why the images in my RSS feed appear

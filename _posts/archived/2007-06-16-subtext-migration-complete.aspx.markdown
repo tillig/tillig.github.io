@@ -4,7 +4,7 @@ title: "Subtext Migration Complete!"
 date: 2007-06-16 -0800
 comments: true
 disqus_identifier: 1215
-tags: [GeekSpeak,Web Development,Subtext,net]
+tags: [blog,subtext,net,aspnet]
 ---
 [![Subtext](https://hyqi8g.bl3301.livefilestore.com/y2pojvSSVNaltHHU3oWOT_SXuYfAqVg9xkGF4YNQOVG0GN276eBA96RwuMcsLLep6m6EPIeCK01cYiYoyI9YXiUbQPPspupv0Q7w97Bm8uM_O0/20070616subtextwo1.png?psid=1)](http://www.subtextproject.com)I
 just finished converting over to Subtext, and, all things considered, it
@@ -68,7 +68,7 @@ Oh, and **if anyone knows how to write a PHP page that will not only
 send the "Location" header but also let me change the status code,
 that'd be awesome**.  I'm trying to do that in PHP
 4-point-something-or-other so I don't have the ability to do much.  I've
-tried the http\_redirect method and that doesn't work.  Right now I'm
+tried the http_redirect method and that doesn't work.  Right now I'm
 using `header("Location: $newlocation")` which is supposed to
 automatically throw out a 302 redirect status, but I'll be damned if I
 see anything other than a 200 come through when I watch in Fiddler.  The

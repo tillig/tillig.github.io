@@ -4,7 +4,7 @@ title: "Autofac 3.0.1 Released"
 date: 2013-02-08 -0800
 comments: true
 disqus_identifier: 1809
-tags: [Release Notices,net]
+tags: [autofac,net]
 ---
 We had to roll out [a minor
 feature](https://code.google.com/p/autofac/issues/detail?id=397)

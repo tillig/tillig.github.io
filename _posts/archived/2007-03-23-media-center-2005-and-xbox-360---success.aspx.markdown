@@ -4,7 +4,7 @@ title: "Media Center 2005 and Xbox 360 - Success!"
 date: 2007-03-23 -0800
 comments: true
 disqus_identifier: 1168
-tags: [GeekSpeak]
+tags: [media,xbox]
 ---
 I got my Windows XP Media Center 2005 virtual machine to stream a movie
 stored in [VIDEO\_TS
@@ -12,7 +12,7 @@ format](/archive/2007/01/29/iso-vs.-video_ts-storage-for-media-center.aspx)
 to my Xbox 360 last night. The picture was sort of choppy due to the
 virtual machine overhead and limitations, but I saw it work, proving the
 concept.
- 
+
  Here's what I had to do:
 1.  Install Windows XP Media Center Edition 2005.
 2.  Activate Windows XP. You have to do this to get all the updates you
@@ -73,7 +73,7 @@ original language (or whether you see subtitles). You also don't get to
 choose which feature you watch, so if you have, say, an episodic TV DVD,
 you'll only really be able to watch the first episode on the disc. But
 for the 80% case, you should be set.
- 
+
  Now I have some decisions to make. It turns out my wife isn't quite as
 hot on the media center idea as I am, but since she only saw the proof
 of concept and it was jumpy and sort of sucked, I don't think she's
@@ -81,7 +81,7 @@ fully realized the coolness (sort of how the coolness of DVR is still
 setting in - we still end up watching "appointment TV" even though we
 know things are getting recorded). That means I need to be super frugal
 about how I go about this.
- 
+
  I can start getting storage together and using [the standard Windows XP
 UPnP file sharing
 deal](http://www.microsoft.com/windows/windowsmedia/devices/wmconnect/default.aspx)
@@ -89,7 +89,7 @@ to get movies to my Xbox, storing two copies - the VIDEO\_TS and a
 compressed Xbox version. Not optimal, but it would get us in the habit
 of using the Xbox for movies and would be a cheap way to see if we like
 it.
- 
+
  If we do like it, the question will be whether we have a single media
 center and several extenders or whether we have a network attached
 storage/file server setup with several full media centers. I think that,
@@ -101,5 +101,5 @@ full media center. If we get to a point where we want the full menus or
 the streaming just isn't enough, we can get [a cheap media center PC for
 the living room](http://www.cyberpowerpc.com/r07/ri07.asp) and have it
 get movies over the network.
- 
+
  Anyway, I'm glad to see it works. Time to determine next steps.

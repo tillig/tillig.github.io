@@ -4,7 +4,7 @@ title: "2007 Retrospective"
 date: 2007-12-27 -0800
 comments: true
 disqus_identifier: 1328
-tags: [General Ramblings,GeekSpeak]
+tags: [personal]
 ---
 Another year come and gone, so it's time again to throw up a bit of a
 retrospective of highlights for the past 365. (For reference, [here's

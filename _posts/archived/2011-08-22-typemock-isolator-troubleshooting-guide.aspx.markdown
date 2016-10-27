@@ -4,7 +4,7 @@ title: "Typemock Isolator Troubleshooting Guide"
 date: 2011-08-22 -0800
 comments: true
 disqus_identifier: 1732
-tags: [net]
+tags: [net,testing]
 ---
 [Typemock
 Isolator](http://www.plimus.com/jsp/redirect.jsp?contractId=1655929&referrer=tillig)

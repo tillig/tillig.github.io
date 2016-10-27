@@ -4,7 +4,7 @@ title: "At Least Go Somewhere Close to the Speed Limit"
 date: 2010-06-07 -0800
 comments: true
 disqus_identifier: 1648
-tags: [Traffic]
+tags: [traffic]
 ---
 It's been a while since [my last traffic-related
 posting](/archive/2008/09/19/watch-those-one-way-grids.aspx), mostly

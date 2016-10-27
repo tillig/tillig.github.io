@@ -4,7 +4,7 @@ title: "Copy Amazon Associates Product URL Bookmarklet"
 date: 2007-07-10 -0800
 comments: true
 disqus_identifier: 1230
-tags: [Software / Downloads,Release Notices]
+tags: [downloads,javascript]
 ---
 I'm a member of the [Amazon Associates
 program](http://associates.amazon.com) and when I put links to products

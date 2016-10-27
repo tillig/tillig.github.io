@@ -4,7 +4,7 @@ title: "Failed to Upgrade to Subtext 2.0"
 date: 2008-08-16 -0800
 comments: true
 disqus_identifier: 1430
-tags: [Subtext]
+tags: [subtext,blog]
 ---
 Well, I gave it the old college try, but I ended up pretty well trashing
 my site in the course of my attempt to upgrade to Subtext 2.0, so I had
