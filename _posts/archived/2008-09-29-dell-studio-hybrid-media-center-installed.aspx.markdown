@@ -15,10 +15,9 @@ living room so I could play the DVD images off the network. (This is all
 part of [my overall media center
 solution](/archive/2008/09/30/overview-of-my-media-center-solution.aspx).)
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Dell Studio Hybrid Media Center PC - sits right next to my Xbox 360.](http://lh5.ggpht.com/travis.illig/SOEN0gV1hBI/AAAAAAAAAmE/sV3_UA3DvJg/s144/IMG00187.jpg)](http://picasaweb.google.com/lh/photo/6FVVob_6yHJv-rHbtV3N8g)
-  The Dell Studio Hybrid is the little black box under the Xbox 360 HD DVD drive. [From [Studio Hybrid Media Center](http://picasaweb.google.com/travis.illig/StudioHybridMediaCenter)]
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Dell Studio Hybrid Media Center PC - sits right next to my Xbox 360.](http://lh5.ggpht.com/travis.illig/SOEN0gV1hBI/AAAAAAAAAmE/sV3_UA3DvJg/s144/IMG00187.jpg)](http://picasaweb.google.com/lh/photo/6FVVob_6yHJv-rHbtV3N8g)
+
+The Dell Studio Hybrid is the little black box under the Xbox 360 HD DVD drive. [From [Studio Hybrid Media Center](http://picasaweb.google.com/travis.illig/StudioHybridMediaCenter)]
 
 After some research and pricing, I ended up getting [a Dell Studio
 Hybrid PC from Best

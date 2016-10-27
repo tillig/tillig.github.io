@@ -4,12 +4,9 @@ title: "Sandy Fireworks 2009"
 date: 2009-07-07 -0800
 comments: true
 disqus_identifier: 1547
-tags: [General Ramblings]
+tags: [personal,activities]
 ---
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![](http://lh3.ggpht.com/_P1NCAbHEm2Q/SlIGuJVd-_E/AAAAAAAABEk/LNpTHnIp6Bg/s160-c/2009SandyFireworksShoot.jpg)](http://picasaweb.google.com/travis.illig/2009SandyFireworksShoot?feat=embedwebsite)
-  [2009 Sandy Fireworks Shoot](http://picasaweb.google.com/travis.illig/2009SandyFireworksShoot?feat=embedwebsite)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![](http://lh3.ggpht.com/_P1NCAbHEm2Q/SlIGuJVd-_E/AAAAAAAABEk/LNpTHnIp6Bg/s160-c/2009SandyFireworksShoot.jpg)](http://picasaweb.google.com/travis.illig/2009SandyFireworksShoot?feat=embedwebsite)<br />[2009 Sandy Fireworks Shoot](http://picasaweb.google.com/travis.illig/2009SandyFireworksShoot?feat=embedwebsite)
 
 Jenn and I normally go work on a professional fireworks shoot each year,
 but this year was special - we were in charge of our own show in Sandy,
@@ -68,4 +65,3 @@ Definitely a good show to work. It could have been a little cooler, but
 only having to drive an hour or so and easy clean up? Can't be beat.
 
 **UPDATE:** Here's a video of the show from the crew perspective:
-

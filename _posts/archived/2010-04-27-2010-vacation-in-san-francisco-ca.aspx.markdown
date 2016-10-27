@@ -149,10 +149,7 @@ Francisco. Very similar atmosphere, similar kinds of shops, etc.
 The [full picture album is
 here](http://picasaweb.google.com/travis.illig/2010SanFranciscoVacation?feat=directlink):
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![](http://lh6.ggpht.com/_P1NCAbHEm2Q/S9Tp_xo_h9E/AAAAAAAABho/1urYrUMQOcA/s160-c/2010SanFranciscoVacation.jpg)](http://picasaweb.google.com/travis.illig/2010SanFranciscoVacation?feat=embedwebsite)
-  [2010 San Francisco Vacation](http://picasaweb.google.com/travis.illig/2010SanFranciscoVacation?feat=embedwebsite)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![](http://lh6.ggpht.com/_P1NCAbHEm2Q/S9Tp_xo_h9E/AAAAAAAABho/1urYrUMQOcA/s160-c/2010SanFranciscoVacation.jpg)](http://picasaweb.google.com/travis.illig/2010SanFranciscoVacation?feat=embedwebsite)<br />[2010 San Francisco Vacation](http://picasaweb.google.com/travis.illig/2010SanFranciscoVacation?feat=embedwebsite)
 
 Check it out to see more of the trip. We didn't get as many photos this
 time because most of the trip was on video, but you'll get the idea.

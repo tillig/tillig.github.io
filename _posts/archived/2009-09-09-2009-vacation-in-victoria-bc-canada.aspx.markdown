@@ -6,10 +6,7 @@ comments: true
 disqus_identifier: 1561
 tags: [General Ramblings]
 ---
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![](http://lh6.ggpht.com/_P1NCAbHEm2Q/Spx9nsMw12E/AAAAAAAABQU/sUqFsLtWQjM/s160-c/2009VictoriaBCVacation.jpg)](http://picasaweb.google.com/travis.illig/2009VictoriaBCVacation?feat=embedwebsite)
-  [2009 Victoria BC Vacation](http://picasaweb.google.com/travis.illig/2009VictoriaBCVacation?feat=embedwebsite)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![](http://lh6.ggpht.com/_P1NCAbHEm2Q/Spx9nsMw12E/AAAAAAAABQU/sUqFsLtWQjM/s160-c/2009VictoriaBCVacation.jpg)](http://picasaweb.google.com/travis.illig/2009VictoriaBCVacation?feat=embedwebsite)<br />[2009 Victoria BC Vacation](http://picasaweb.google.com/travis.illig/2009VictoriaBCVacation?feat=embedwebsite)
 
 It was time to take another vacation, so this time Jenn and I set our
 sights on a non-Vegas destination: Victoria, British Columbia. We headed

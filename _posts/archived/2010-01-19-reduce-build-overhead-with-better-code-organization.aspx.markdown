@@ -17,11 +17,11 @@ For example, I threw together a set of three test codebases. Each has
 100 (empty) classes, but they're organized in different ways. I then
 built them a few times and compared the average times.
 
-  Project Format                                                        Time to Rebuild (Clean/Build)   Working Copy Size Post-Build
-  --------------------------------------------------------------------- ------------------------------- ------------------------------
-  100 separate solutions, 1 project per solution, 1 class per project   42s                             4.29MB
-  1 solution with 100 projects, 1 class per project                     42s                             3.52MB
-  1 solution with 1 project, 100 classes in the project                 1s                              256KB
+| Project Format | Time to Rebuild (Clean/Build)| Working Copy Size Post-Build
+| --- | --- | --- |
+| 100 separate solutions, 1 project per solution, 1 class per project | 42s | 4.29MB |
+| 1 solution with 100 projects, 1 class per project | 42s | 3.52MB |
+| 1 solution with 1 project, 100 classes in the project | 1s | 256KB |
 
 I noticed two interesting things here:
 

@@ -135,10 +135,7 @@ experiences are my own.
 **If you want to see more pictures**, I posted [a full
 gallery](http://picasaweb.google.com/travis.illig/2010BirthOfPhoenixAeralynnIllig).
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Travis and Phoenix](https://lh3.googleusercontent.com/-MpmuX62SM6g/TqOKR_BQkPI/AAAAAAAAGEg/5l5OVXe-0DE/s400/20101128_135756.jpg)](http://picasaweb.google.com/lh/photo/rhZbivcEmwIcaYrEEb8TEQ?feat=embedwebsite)
-  From [2010 Birth of Phoenix Aeralynn Illig](http://picasaweb.google.com/travis.illig/2010BirthOfPhoenixAeralynnIllig?feat=embedwebsite)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Travis and Phoenix](https://lh3.googleusercontent.com/-MpmuX62SM6g/TqOKR_BQkPI/AAAAAAAAGEg/5l5OVXe-0DE/s400/20101128_135756.jpg)](http://picasaweb.google.com/lh/photo/rhZbivcEmwIcaYrEEb8TEQ?feat=embedwebsite)<br />From [2010 Birth of Phoenix Aeralynn Illig](http://picasaweb.google.com/travis.illig/2010BirthOfPhoenixAeralynnIllig?feat=embedwebsite)
 
 
 

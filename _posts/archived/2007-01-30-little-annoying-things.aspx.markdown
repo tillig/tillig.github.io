@@ -4,7 +4,7 @@ title: "Little Annoying Things"
 date: 2007-01-30 -0800
 comments: true
 disqus_identifier: 1140
-tags: [General Ramblings]
+tags: [personal,process]
 ---
 This is going to be one of those entries that sounds like I'm whining
 about a bunch of little insignificant things, and you're probably right.
@@ -60,12 +60,10 @@ Not Disturb" because you're trying to get stuff done.
 
  Here's a quick primer for the people in the cheap seats:
 
-                                                 Windows Live Communicator                                                                                                                                                                                                                            Google Talk
-  ---------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  DO talk to me - I'm available                  ![Windows Live Communicator online status indicators](https://hyqi8g.dm2302.livefilestore.com/y2pdg4D-kR1VgJyRdApkbgBCR140UQ0sRcnKVVkS9d3VB_jwMLk_NQVsux0ssprq-F2NTUF-o2u1AMsOR7X2JwYeYxt-i_08uMzBkL7W3kXWG8/20070130wlc_online_status.jpg?psid=1)   ![Google Talk online status indicators](https://hyqi8g.dm1.livefilestore.com/y2pBVqO-JPcunSWr9xiEXBU7wkD3hm6sXWrNnCBvbf00c9upVoL9MBVMDebhCsVSNMo-6GF4bOttexbY14R3rfHeLo7nLktTE1IZS07kvZjKBg/20070130gt_online_status.jpg?psid=1)
-  DON'T talk to me unless it's super important   ![Windows Live Communicator busy status indicators](https://hyqi8g.dm2301.livefilestore.com/y2p-pJCVSfLw9zueacKOtgnrI4D19IJNT2k9aTKxstzct6V_pcMC1lH-_2fs2xisUe_zB217jVKwhqOr1_ChmEtcCa66ma9BqyNWEO2vYg4uxw/20070130wlc_busy_status.jpg?psid=1)       ![Google Talk busy status indicators](https://hyqi8g.dm2301.livefilestore.com/y2pP-VtWfHuQoappd9HrYRqpUEo1m9MPGVBlI-3jiGQfHEcGNnEMeQteLbs3mmMyPxdjxTwot2dCjlPx6iKxfXdhyhArIaHwDS0MVYQqrWbZZs/20070130gt_busy_status.jpg?psid=1)
-
-
+| Status | Windows Live Communicator | Google Talk |
+| --- | --- | --- |
+| DO talk to me - I'm available | ![Windows Live Communicator online status indicators](https://hyqi8g.dm2302.livefilestore.com/y2pdg4D-kR1VgJyRdApkbgBCR140UQ0sRcnKVVkS9d3VB_jwMLk_NQVsux0ssprq-F2NTUF-o2u1AMsOR7X2JwYeYxt-i_08uMzBkL7W3kXWG8/20070130wlc_online_status.jpg?psid=1) | ![Google Talk online status indicators](https://hyqi8g.dm1.livefilestore.com/y2pBVqO-JPcunSWr9xiEXBU7wkD3hm6sXWrNnCBvbf00c9upVoL9MBVMDebhCsVSNMo-6GF4bOttexbY14R3rfHeLo7nLktTE1IZS07kvZjKBg/20070130gt_online_status.jpg?psid=1) |
+| DON'T talk to me unless it's super important | ![Windows Live Communicator busy status indicators](https://hyqi8g.dm2301.livefilestore.com/y2p-pJCVSfLw9zueacKOtgnrI4D19IJNT2k9aTKxstzct6V_pcMC1lH-_2fs2xisUe_zB217jVKwhqOr1_ChmEtcCa66ma9BqyNWEO2vYg4uxw/20070130wlc_busy_status.jpg?psid=1) | ![Google Talk busy status indicators](https://hyqi8g.dm2301.livefilestore.com/y2pP-VtWfHuQoappd9HrYRqpUEo1m9MPGVBlI-3jiGQfHEcGNnEMeQteLbs3mmMyPxdjxTwot2dCjlPx6iKxfXdhyhArIaHwDS0MVYQqrWbZZs/20070130gt_busy_status.jpg?psid=1) |
 
  Yeah, this makes me look like a big dumb antisocial jerk, and I guess
 I'm going to have to live with that. But when I'm at work, I'm generally
@@ -166,7 +164,7 @@ and add a delay to the sound. But it's not - there's no way I can add a
 "video delay." It's gotta be bad ADR. And just about the time I'm really
 annoyed by it, the scene changes and there's no issue anymore.
 
- 
+
  Anyway, I'm just annoyed by a lot of little things lately. No one of
 them is very big, and they all sound stupid and petty, but it doesn't
 make them less annoying. Here's to turning things around, eh?

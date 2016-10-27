@@ -4,12 +4,9 @@ title: "CaBiN fEvEr"
 date: 2008-12-22 -0800
 comments: true
 disqus_identifier: 1482
-tags: [General Ramblings]
+tags: [personal]
 ---
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![The snow on the bush shows how deep it is - that bush is flat on top.](http://lh4.ggpht.com/_P1NCAbHEm2Q/SU_MNwix5wI/AAAAAAAAAvU/Nbt9Ilq60_U/s288/IMG00087.jpg)](http://picasaweb.google.com/lh/photo/l-7VNAgmOIh-Gs-7xPjQWA?feat=embedwebsite)
-  From [Arctic Blast 2008](http://picasaweb.google.com/travis.illig/ArcticBlast2008?feat=embedwebsite)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![The snow on the bush shows how deep it is - that bush is flat on top.](http://lh4.ggpht.com/_P1NCAbHEm2Q/SU_MNwix5wI/AAAAAAAAAvU/Nbt9Ilq60_U/s288/IMG00087.jpg)](http://picasaweb.google.com/lh/photo/l-7VNAgmOIh-Gs-7xPjQWA?feat=embedwebsite)<br />From [Arctic Blast 2008](http://picasaweb.google.com/travis.illig/ArcticBlast2008?feat=embedwebsite)
 
 I am going *out of my fucking mind* with this snow. [I hate
 snow.](/archive/2005/12/01/why-i-hate-snow.aspx)
@@ -89,10 +86,7 @@ but they did break a piece of one off.) Jenn put gifts under the tree
 and the kitties have been helping by chewing the living crap out of the
 bows. I'm surprised the packages are still wrapped.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Kai and Stan learn about snow.](http://lh3.ggpht.com/_P1NCAbHEm2Q/SU_MNFRfwiI/AAAAAAAAAvE/Fm-hfL4i344/s144/IMG00073.jpg)](http://picasaweb.google.com/lh/photo/-plorqlpCGL4qWTICi3LMw?feat=embedwebsite)
-  From [Arctic Blast 2008](http://picasaweb.google.com/travis.illig/ArcticBlast2008?feat=embedwebsite)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Kai and Stan learn about snow.](http://lh3.ggpht.com/_P1NCAbHEm2Q/SU_MNFRfwiI/AAAAAAAAAvE/Fm-hfL4i344/s144/IMG00073.jpg)](http://picasaweb.google.com/lh/photo/-plorqlpCGL4qWTICi3LMw?feat=embedwebsite)<br />From [Arctic Blast 2008](http://picasaweb.google.com/travis.illig/ArcticBlast2008?feat=embedwebsite)
 
 We introduced the kittens to snow, which was pretty funny. They're
 indoor kittens so they really don't get to experience some of that stuff
@@ -119,10 +113,7 @@ server](/archive/2008/09/30/overview-of-my-media-center-solution.aspx),
 just proving the functionality, which is really cool. Having access to
 the movies is really nice and super convenient.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Cookies, cookies everywhere!](http://lh5.ggpht.com/_P1NCAbHEm2Q/SU_gBFolO6I/AAAAAAAAAws/GGhreTU0Os8/s288/IMG00091.jpg)](http://picasaweb.google.com/lh/photo/t5iK4rntEya2ZwuCx7xX9Q?feat=embedwebsite)
-  From [Arctic Blast 2008](http://picasaweb.google.com/travis.illig/ArcticBlast2008?feat=embedwebsite)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Cookies, cookies everywhere!](http://lh5.ggpht.com/_P1NCAbHEm2Q/SU_gBFolO6I/AAAAAAAAAws/GGhreTU0Os8/s288/IMG00091.jpg)](http://picasaweb.google.com/lh/photo/t5iK4rntEya2ZwuCx7xX9Q?feat=embedwebsite)<br />From [Arctic Blast 2008](http://picasaweb.google.com/travis.illig/ArcticBlast2008?feat=embedwebsite)
 
 Jenn's been making a lot of cookies and baked goods while we're stuck at
 home. A lot of cookies. They're freaking everywhere. Counters,

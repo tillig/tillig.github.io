@@ -22,10 +22,10 @@ my photos, my music collection, and my documents. I don't need to back
 up my 5TB of DVD images because it'd take longer to restore over the
 network than it would to just rip the original source material.
 
-When I originally signed up for KeepVault, I got in for \$100/year with
+When I originally signed up for KeepVault, I got in for $100/year with
 unlimited storage. That's perfectly in line with my expectations. I
 previously had MozyHome to back up all of my computers and that has
-unlimited storage as well, and that ran \$60/year per computer. With the
+unlimited storage as well, and that ran $60/year per computer. With the
 Windows Home Server doing the computer backup, I needed to switch to
 backing up the Windows Home Server. (Assuming the important documents
 are all kept on the Windows Home Server and not on the computers, that's
@@ -36,27 +36,29 @@ KeepVault is, unfortunately, raising its prices. As such, I figured it
 was time to do a price comparison. Not counting any "startup costs"
 (some of them have a one-time fee to license software)...
 
-  Service                                                                    Price for 1 year of 200GB Backup          Support for WHS?
-  -------------------------------------------------------------------------- ----------------------------------------- --------------------------------
-  [Carbonite](http://www.carbonite.com)                                      \$55                                      Terminal Service installation.
-  [MozyHome](http://mozy.com/home)                                           \$55                                      No.\*\*
-  [KeepVault](http://www.keepvault.com)                                      \$188                                     Plugin for WHS Console.
-  [backupanytime.com](http://www.backupanytime.com)                          \$300                                     No.\*
-  [Jungle Disk/Amazon S3](http://www.jungledisk.com/homeserver/index.aspx)   \$360 + data transfer and request costs   Plugin for WHS Console.
-  [iDrive](http://www.idrive.com/)                                           \$499.50\*\*\*                            Terminal Service installation.
-  [MozyPro](http://www.mozy.com)                                             \$1200                                    Terminal Service installation.
-  [IBackup](http://www.ibackup.com)                                          \$1999.50                                 No.\*
+| Service | Price for 1 year of 200GB Backup | Support for WHS? |
+| --- | --- | --- |
+| [Carbonite](http://www.carbonite.com) | $55 | Terminal Service installation. |
+| [MozyHome](http://mozy.com/home) | $55 | No.\*\* |
+| [KeepVault](http://www.keepvault.com) | $188 | Plugin for WHS Console. |
+| [backupanytime.com](http://www.backupanytime.com) | $300 | No.\* |
+| [Jungle Disk/Amazon S3](http://www.jungledisk.com/homeserver/index.aspx) | $360 + data transfer and request costs | Plugin for WHS Console. |
+| [iDrive](http://www.idrive.com/) | $499.50\*\*\* | Terminal Service installation. |
+| [MozyPro](http://www.mozy.com) | $1200 | Terminal Service installation. |
+| [IBackup](http://www.ibackup.com) | $1999.50 | No.\* |
 
 \* backupanytime.com and IBackup support Windows Server 2003 (which WHS
 is based on) so you might be able to hack around and get it to work. I
 couldn't find anyone who'd blogged success with that.
- \*\* MozyHome specifically does not support Windows Server 2003, nor
+
+\*\* MozyHome specifically does not support Windows Server 2003, nor
 does it support WHS. You have to use MozyPro for server-class OS backup.
 Yeah, that's dumb, and I've told them so. I'm not a business so I don't
 understand why I'd be charged business prices just because I happen to
 store my data centrally.
- \*\*\* iDrive jumps from 150GB personal plan (\$49.50/yr) to a 500GB
-business plan (\$499.50). Since I have 200GB to back up, I listed the
+
+\*\*\* iDrive jumps from 150GB personal plan ($49.50/yr) to a 500GB
+business plan ($499.50). Since I have 200GB to back up, I listed the
 500GB plan cost.
 
 So. **From a *cost* perspective, Carbonite and MozyHome are the clear
@@ -71,7 +73,7 @@ chain reaction of having to maintain it forever. For Carbonite and
 MozyHome, that means I wouldn't be trying to install them on the WHS
 directly. The question then comes down to:
 
-Is it worth an extra \$133/year to get the KeepVault support for WHS or
+Is it worth an extra $133/year to get the KeepVault support for WHS or
 can I figure out a better way to get a client backup program to do the
 work for less?
 
@@ -87,18 +89,8 @@ pretty simple.
 
 **First, some startup costs.** Get yourself...
 
--   **An external USB drive big enough to hold the data you want to back
-    up.** It doesn't have to be the same size as your full Home Server
-    storage; it just has to be enough to hold the important stuff you
-    want to have backed up. You may not need everything on your Windows
-    Home Server backed up, and in some cases you're probably using the
-    file doubling offered by WHS, so you need to do some calculations on
-    space. For example, you probably don't need to back up your recorded
-    TV episodes. **I picked up**[**a 1TB USB drive for \$93 from
-    NewEgg**](http://www.newegg.com/Product/Product.aspx?Item=N82E16822101121).
--   **A copy of**[**Allway Sync**](http://www.allwaysync.com/)**for
-    \$20**. You're going to use that to get your WHS data onto the
-    external drive.
+-  **An external USB drive big enough to hold the data you want to back up.** It doesn't have to be the same size as your full Home Server storage; it just has to be enough to hold the important stuff you want to have backed up. You may not need everything on your Windows Home Server backed up, and in some cases you're probably using the file doubling offered by WHS, so you need to do some calculations on space. For example, you probably don't need to back up your recorded TV episodes. **I picked up**[**a 1TB USB drive for $93 from NewEgg**](http://www.newegg.com/Product/Product.aspx?Item=N82E16822101121).
+- **A copy of [Allway Sync](http://www.allwaysync.com/) for $20**. You're going to use that to get your WHS data onto the external drive.
 
 **Now set up the backup:**
 
@@ -144,11 +136,10 @@ pretty simple.
     things stored elsewhere.
 
 I have this set up and running now and it works like a champ. No
-maintenance required - the sync job runs, the Mozy software backs it up
-- appliance-style, just like I want. From a cost perspective, it's a
-no-brainer: \$113 startup (drive and sync program), \$55/year for backup
-space - beats the next best thing, KeepVault, by \$20 the first year
-(including startup costs) and \$133 each subsequent year. It's
+maintenance required - the sync job runs, the Mozy software backs it up - appliance-style, just like I want. From a cost perspective, it's a
+no-brainer: $113 startup (drive and sync program), $55/year for backup
+space - beats the next best thing, KeepVault, by $20 the first year
+(including startup costs) and $133 each subsequent year. It's
 potentially a little convoluted, but for the price and the results, I
 can't complain.
 

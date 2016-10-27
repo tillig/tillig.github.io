@@ -6,10 +6,7 @@ comments: true
 disqus_identifier: 1408
 tags: [General Ramblings]
 ---
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![](http://lh3.ggpht.com/travis.illig/SHGTWlysgoE/AAAAAAAAAW0/qPT5KNA4vIE/s160-c/WallaWallaFireworks2008.jpg)](http://picasaweb.google.com/travis.illig/WallaWallaFireworks2008)
-  [Walla Walla Fireworks 2008](http://picasaweb.google.com/travis.illig/WallaWallaFireworks2008)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![](http://lh3.ggpht.com/travis.illig/SHGTWlysgoE/AAAAAAAAAW0/qPT5KNA4vIE/s160-c/WallaWallaFireworks2008.jpg)](http://picasaweb.google.com/travis.illig/WallaWallaFireworks2008)<br />[Walla Walla Fireworks 2008](http://picasaweb.google.com/travis.illig/WallaWallaFireworks2008)
 
 The fireworks shoot this year was [once again in sunny Walla Walla,
 Washington](/archive/2007/07/06/walla-walla-fireworks-2007.aspx).

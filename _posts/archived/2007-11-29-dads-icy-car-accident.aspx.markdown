@@ -6,10 +6,8 @@ comments: true
 disqus_identifier: 1310
 tags: [General Ramblings]
 ---
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Dad's Car Accident](http://lh3.google.com/travis.illig/R07WnVrMtiE/AAAAAAAAAP8/R5gDlmvzpfw/s160-c/DadSCarAccident.jpg)](http://picasaweb.google.com/travis.illig/DadSCarAccident)
-  [Dad's Car Accident](http://picasaweb.google.com/travis.illig/DadSCarAccident)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Dad's Car Accident](http://lh3.google.com/travis.illig/R07WnVrMtiE/AAAAAAAAAP8/R5gDlmvzpfw/s160-c/DadSCarAccident.jpg)](http://picasaweb.google.com/travis.illig/DadSCarAccident)<br />[Dad's Car Accident](http://picasaweb.google.com/travis.illig/DadSCarAccident)
 
 My dad was headed to work yesterday and hit an icy patch in the road. 
 His car spun 180 degrees, went into the ditch, and hit a tree.

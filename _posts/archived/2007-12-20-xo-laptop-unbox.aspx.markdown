@@ -4,12 +4,9 @@ title: "XO Laptop Unbox"
 date: 2007-12-20 -0800
 comments: true
 disqus_identifier: 1325
-tags: [GeekSpeak]
+tags: [personal]
 ---
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![](http://lh3.google.com/travis.illig/R2nlZJJGnvE/AAAAAAAAATE/6Pi_Rqwf_7w/s160-c/XOLaptopUnbox.jpg)](http://picasaweb.google.com/travis.illig/XOLaptopUnbox)
-  [XO Laptop Unbox](http://picasaweb.google.com/travis.illig/XOLaptopUnbox)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![](http://lh3.google.com/travis.illig/R2nlZJJGnvE/AAAAAAAAATE/6Pi_Rqwf_7w/s160-c/XOLaptopUnbox.jpg)](http://picasaweb.google.com/travis.illig/XOLaptopUnbox)<br />[XO Laptop Unbox](http://picasaweb.google.com/travis.illig/XOLaptopUnbox)
 
 Yesterday I received [my XO
 laptop](/archive/2007/11/14/bought-my-xo-laptop.aspx) from [the One

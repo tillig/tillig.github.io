@@ -20,10 +20,7 @@ likely buy something; if you take the sign-up sheet to work and stick it
 on the break area table and expect me to register... well, good luck
 with that. Hard work gets rewarded.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![](http://lh6.ggpht.com/_P1NCAbHEm2Q/Swojt-N1ojE/AAAAAAAABTE/h2oTbUEjNq4/s160-c/2009TransSiberianOrchestra.jpg)](http://picasaweb.google.com/travis.illig/2009TransSiberianOrchestra?feat=embedwebsite)
-  [2009 Trans-Siberian Orchestra](http://picasaweb.google.com/travis.illig/2009TransSiberianOrchestra?feat=embedwebsite)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![](http://lh6.ggpht.com/_P1NCAbHEm2Q/Swojt-N1ojE/AAAAAAAABTE/h2oTbUEjNq4/s160-c/2009TransSiberianOrchestra.jpg)](http://picasaweb.google.com/travis.illig/2009TransSiberianOrchestra?feat=embedwebsite)<br />[2009 Trans-Siberian Orchestra](http://picasaweb.google.com/travis.illig/2009TransSiberianOrchestra?feat=embedwebsite)
 
 Second, we went to the [Trans-Siberian
 Orchestra](http://www.trans-siberian.com/) concert on Sunday. Not the
