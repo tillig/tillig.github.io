@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 {% if site.lang %}
 <html lang="{{ site.lang }}">
 {% else %}
@@ -31,5 +31,16 @@
 	<link href="/css/code.css" rel="stylesheet" type="text/css">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script src="/js/slash.js" async></script>
+	<script>
+	(function() {
+		var cx = '004389900776703329383:u0qlz8kixay';
+		var gcse = document.createElement('script');
+		gcse.type = 'text/javascript';
+		gcse.async = true;
+		gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(gcse, s);
+	})();
+	</script>
 	{% include google_analytics.html %}
 </head>
