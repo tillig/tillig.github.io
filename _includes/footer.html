@@ -5,3 +5,16 @@
 
 {% include disqus.html %}
 {% include twitter_sharing.html %}
+<script>
+  (function() {
+    // Liquid/Jekyll issue - nav pages (eg home) strip the "gcse:" prefix during render of includes.
+    document.getElementById("searchbox").innerHTML = "<gcse:searchbox-only></gcse:searchbox-only>";
+    var cx = '004389900776703329383:u0qlz8kixay';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
