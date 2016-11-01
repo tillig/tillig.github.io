@@ -5,20 +5,14 @@
 
 {% include disqus.html %}
 {% include twitter_sharing.html %}
-<script src="//www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript">
-google.load('search', '1', {language: 'en', style: google.loader.themes.MINIMALIST});
-google.setOnLoadCallback(function() {
-  var customSearchOptions = {};
-  var orderByOptions = {};
-  orderByOptions['keys'] = [{label: 'Relevance', key: ''} , {label: 'Date', key: 'date'}];
-  customSearchOptions['enableOrderBy'] = true;
-  customSearchOptions['orderByOptions'] = orderByOptions;
-  var customSearchControl =   new google.search.CustomSearchControl('004389900776703329383:u0qlz8kixay', customSearchOptions);
-  customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-  var options = new google.search.DrawOptions();
-  options.enableSearchboxOnly('https://', 'q');
-  options.setAutoComplete(true);
-  customSearchControl.draw('cse-search-form', options);
-}, true);
+<script>
+  (function() {
+    var cx = '004389900776703329383:u0qlz8kixay';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
 </script>
