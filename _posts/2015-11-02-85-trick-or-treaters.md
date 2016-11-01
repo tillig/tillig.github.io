@@ -7,7 +7,7 @@ tags: [halloween,costumes]
 ---
 It was raining again this year and that _definitely_ took down the number of visitors. Again this year we also didn't put out our "Halloween projector" that puts a festive image on our garage. In general, it was pretty slow all around. I took Phoenix out this year while Jenn answered the door so I got to see what was out there firsthand. Really hardly anyone out there this year.
 
-##Trick-or-Treaters
+## Trick-or-Treaters
 
 ![2015: 85
 trick-or-treaters.]({{ site.url }}/images/20151102_trickortreatcount.png)
@@ -118,7 +118,7 @@ Cumulative data:
     </tbody>
 </table>
 
-##Costumes
+## Costumes
 
 My costume this year was Robin Hood. Jenn was Merida from _Brave_ so we were both archers. Phoenix had two costumes - for trick-or-treating at Jenn's work she was a bride with a little white dress and veil; for going out in the neighborhood she was a ninja.
 
@@ -130,7 +130,7 @@ I posted some in-progress pictures of my costume on social media, but as part of
 
 On my costume, I made the shirt, the doublet, the pants, and the cape. I bought the boots, the tights, and the bow.
 
-###Accessories and Props
+### Accessories and Props
 
 Let's start with the pieces I bought:
 
@@ -140,7 +140,7 @@ Let's start with the pieces I bought:
 
 **Total: $99.10**
 
-###The Shirt
+### The Shirt
 The shirt is made of a gauzy fabric that was pretty hard to work with. The pattern was also not super helpful because you'd see "a step" in the pattern consisting of several actions.
 
 ![Confusing shirt pattern]({{ site.url }}/images/20151102_shirt1.jpg)
@@ -157,7 +157,7 @@ I did learn how to use an "even foot" (sometimes called a "walking foot") on our
 
 **Total: $26.66**
 
-###The Pants
+### The Pants
 
 I don't have any in-progress shots of the pants being made, but they were pretty simple pants. I will say I thought I should make the largest size due to my height... but then the waist turned out pretty big so I had to do some adjustments to make them fit. Even after adjusting they were pretty big. I should probably have done more but ran out of time.
 
@@ -171,7 +171,7 @@ I don't have any in-progress shots of the pants being made, but they were pretty
 
 **Total: $33.51**
 
-###The Doublet
+### The Doublet
 
 The doublet was interesting to make. It had a lot of pieces, but they came together really well and I learned a lot while doing it. Did you know those little "flaps" on the bottom are called "peplum?" I didn't.
 
@@ -210,7 +210,7 @@ Here's the finished doublet.
 
 **Total: $70.85**
 
-###The Cape
+### The Cape
 
 The cape was the least _complex_ of the things to make but took the most _time_ due to the size. Just laying out and cutting the pattern pieces took a couple of evenings.
 
@@ -256,7 +256,7 @@ One of the big learning things for me with this cape was that with a thicker fab
 
 **Total: $133.75**
 
-###Total
+### Total
 - Accessories and props - $99.10
 - Shirt - $26.66
 - Pants - $33.51
