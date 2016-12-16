@@ -46,11 +46,5 @@ And, [please, *don't call me* - send email
 instead](/archive/2006/11/02/recruiter-pet-peeves.aspx).
 I cannot take your calls during the work day.
 
-**Certifications/Affiliations:**
-
--   Microsoft Certified Solutions Developer (MCSD) in .NET
--   Microsoft Certified Database Administrator (MCDBA) in SQL Server 2000
--   Typemock MVP
-
 You can get [my resume in PDF format here](resume.pdf).
 
