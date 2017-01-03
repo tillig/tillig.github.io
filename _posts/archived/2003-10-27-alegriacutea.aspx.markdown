@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alegr&iacutea!"
+title: "Alegría!"
 date: 2003-10-27 -0800
 comments: true
 disqus_identifier: 389
