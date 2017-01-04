@@ -10,7 +10,7 @@ tags: [downloads,windows,net,vs]
 Generator](http://app.paraesthesia.com/CommandPromptHere/).**
 
 I got a comment on [my Solvent
-entry](/archive/2004/06/25/solvent---power-toys-for-visual-studio-.net.aspx)
+entry](/archive/2004/06/25/solvent-power-toys-for-visual-studio-.net.aspx)
 about how a VS.NET command prompt would be a handy thing to have on the
 right-click menu.
 
@@ -24,7 +24,7 @@ hack that will automatically run the vsvars32.bat file when you get a
 command prompt. Note that there is a similar article out there
 advocating the use of the "/k" option to run the file. I don't use that;
 instead, I use the "AutoRun" registry key so regardless of how you
-access the command prompt - even if you do a Start -\> Run and type
+access the command prompt - even if you do a Start -> Run and type
 "cmd" and click OK - you'll always get a VS.NET command prompt. (It'll
 even fix it so if you have the [Command Prompt Here power
 toy](http://www.microsoft.com/windowsxp/downloads/powertoys/xppowertoys.mspx)
@@ -37,5 +37,4 @@ installed, that command prompt is a VS.NET command prompt, too.)
  Or you can download a text file with that already set. Rename it to
 have a ".reg" extension, then merge it with your registry.
 
- [Download
-vsnetcmd.reg](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!44172&authkey=!ABZAAm6rmWX6L90&v=3&ithint=photo%2cgif)
+[Download vsnetcmd.reg](https://gist.github.com/tillig/38f4383c4f0878cd9e9d7550ea058a5c/archive/b8188961cf0617c361d090777522fe777c298f08.zip)
