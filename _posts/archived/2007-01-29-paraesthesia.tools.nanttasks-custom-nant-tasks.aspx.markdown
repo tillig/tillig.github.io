@@ -91,9 +91,13 @@ reproduce the issue.
 Source](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45410&authkey=!AM6wM4J2TLcyATY&ithint=file%2czip)
 
  **Version History:**
+ 
  **1.0.0.0**: First release. Includes nunitexec task.
+ 
  **1.1.0.0**: Added alpharesx, lintrelativepaths, and propertydelete.
+ 
  **2.0.0.0**:
+ 
 -   Updated to .NET 2.0.
 -   Updated to NAnt 0.86 beta 1.
 -   Fixed nunitexec task to no longer output the "framework" parameter.
