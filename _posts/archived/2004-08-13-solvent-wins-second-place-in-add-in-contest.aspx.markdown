@@ -8,7 +8,7 @@ tags: [GeekSpeak]
 ---
 I entered [Roy Osherove's Add-In
 Contest](http://dev.magen.com/AddinContest/default.aspx) with my add-in,
-[Solvent](/archive/2004/06/25/solvent---power-toys-for-visual-studio-.net.aspx).
+[Solvent](/archive/2004/06/25/solvent-power-toys-for-visual-studio-.net.aspx).
  
  I just found out this morning that [I won second place with
 it](http://dev.magen.com/AddinContest/pages/Winners.aspx)! Very cool,
