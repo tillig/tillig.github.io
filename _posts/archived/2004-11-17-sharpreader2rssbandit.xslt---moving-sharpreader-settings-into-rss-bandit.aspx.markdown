@@ -31,4 +31,4 @@ format. Time to write a conversion...
 SharpReader settings, renders an XML document that you can import into
 RSS Bandit.
 
-[SharpReader2RSSBandit.xslt](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45407&authkey=!AM6uLNOE7wo_UWc&ithint=file%2cxslt)
+[SharpReader2RSSBandit.xslt](https://gist.github.com/tillig/c2ad71a7c6cb65603269a3185ed3f6dd/archive/3b49cd0fca6d96b91b8d9741417636fb56168fdf.zip)
