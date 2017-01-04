@@ -74,8 +74,7 @@ this is pretty handy stuff.
  Note that since it writes to your registry, you need rights to do that.
 It'll fail if it can't write the appropriate keys.
 
- [**[Download
-FusLogVwSet.wsf](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45406&authkey=!AFKLuFqmu16o_iU&ithint=file%2ctxt)**]
+[**[Download FusLogVwSet.wsf](https://gist.github.com/tillig/3a91c3379395fe0752d59f297868e784/archive/cb1d7fadd2b6d54b8ccaf812fb86eb957ceeb16f.zip)**]
 
  (Of course, no warranty, expressed nor implied... use at your own risk,
 etc.)
