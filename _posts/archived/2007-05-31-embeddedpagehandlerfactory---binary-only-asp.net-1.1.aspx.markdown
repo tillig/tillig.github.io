@@ -20,7 +20,7 @@ in ASP.NET
 and I will be writing/posting that as I get time.
 
 **UPDATE:** [The ASP.NET 2.0 version is here - based on
-System.Web.Hosting.VirtualPathProvider.](http://paraesthesia.com/archive/2007/07/13/embeddedresourcepathprovider---binary-only-asp.net-2.0.aspx)
+System.Web.Hosting.VirtualPathProvider.](http://www.paraesthesia.com/archive/2007/07/13/embeddedresourcepathprovider-binary-only-asp.net-2.0.aspx)
 
  The idea: Embed your ASPX files in your ASP.NET application assembly.
 To deploy the app, drop your .dll in the bin folder and set up your
