@@ -81,7 +81,7 @@ the backup script in console mode (as shown in the screen shot):
 `cscript "M4P Backup.vbs"`
 
  [**Download M4PBackup
-1.0**](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45408&authkey=!AFymbO9RjnQF-qw&ithint=file%2czip)
+1.0**](https://gist.github.com/tillig/60138a69606729705deeb4505ee9a39d/archive/d597773da1facbcdd36a49bdd7faa556e521d4c3.zip)
 
  **Version History:**
  1.0: First release. Tested with hymn 0.7.1.
