@@ -13,7 +13,7 @@ might not be as easy for the lay user, but it is certainly better than
 manually scripting it.
 
  First, download
-[itunes2html.xsl](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45399&authkey=!AF9UiQVmyJO_DrY&ithint=file%2cxsl)
+[itunes2html.xsl](https://gist.github.com/tillig/a9f1aeb445bc5e63b8050da15a98096c)
 and put it in the same folder as the exported library XML file.
 
  That's it. If you open the document in a browser that knows XML (like

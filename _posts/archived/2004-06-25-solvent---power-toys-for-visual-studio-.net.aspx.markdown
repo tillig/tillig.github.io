@@ -42,10 +42,10 @@ Menu](https://hyqi8g.blu.livefilestore.com/y2pFoM50LtX3ZNYV5L8qfofDFfxNiNMRw1FNU
 
  It's free, so come and get it!
 
- **[Download Solvent 1.1.1 (Setup -
-MSI)](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45403&authkey=!ABLyja07P6_qyeM&ithint=file%2cmsi)**
- **[Download Solvent 1.1.1 (Source -
-ZIP)](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45402&authkey=!AHNK1SA76npqzGg&ithint=file%2czip)**
+- **[Download Solvent 1.1.1 (Setup -
+MSI)](https://github.com/tillig/solvent/releases/download/v1.1.1/SolventSetup_1.1.1.msi)**
+- **[Download Solvent 1.1.1 (Source -
+ZIP)](https://github.com/tillig/solvent/archive/v1.1.1.zip)**
 
  **Installation Note: Be sure to shut down Visual Studio BEFORE you
 install!** If you don't, you may see the UI elements of the add-in
@@ -64,7 +64,7 @@ As Solvent does not support VS 2005, you may be interested in checking
 that out.
 
  **Version History:**
- 1.0.0: First public release.
- 1.1.1: Updated "Command Prompt Here" to use "cd /d [path]" rather than
+- 1.0.0: First public release.
+- 1.1.1: Updated "Command Prompt Here" to use "cd /d [path]" rather than
 just "cd [path]" to allow for opening command prompt to drives other
 than the one VS.NET is installed on. Also released source for download.
