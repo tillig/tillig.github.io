@@ -30,4 +30,4 @@ Here you go - try it for yourself:
 
 Like it? Want it? Get it.
 
-Get it: **[emotifier.js](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45409&authkey=!AK1EZrbgxIjDluQ&ithint=file%2cjs)**
+Get it: **[emotifier.js](https://github.com/tillig/messenger-emotifier/blob/master/emotifier.js)**
