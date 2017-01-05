@@ -24,11 +24,11 @@ Form](https://hyqi8g.dm1.livefilestore.com/y2pDGesONhNw_6MfSwS6KC134Bp0kjgSVxQb-
  I wouldn't want them to just put this in the properties on the assembly
 or anything.
 
- [**Download SNInfo
-1.1.0.0725**](https://skydrive.live.com/redir?resid=C2CB832A5EC9B707%2138710)
+[**Download SNInfo
+1.1.0.0725**](https://github.com/tillig/sninfo/archive/v1.1.0.zip)
 
- [**Download SNInfo 1.1.0.0725
-source**](https://skydrive.live.com/redir?resid=C2CB832A5EC9B707%2138711)
+[**Download SNInfo 1.1.0.0725
+source**](https://github.com/tillig/sninfo/releases/download/v1.1.0/SNInfo_1.1.0.0725.zip)
 
  **Version History:**
 
