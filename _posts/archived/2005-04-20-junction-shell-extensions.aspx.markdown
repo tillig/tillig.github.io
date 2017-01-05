@@ -74,10 +74,11 @@ more concerned with junctions than CVS status).
  You will have to reboot after you install before the shell extensions
 will show up.
 
- **[Download Junction Shell Extensions 1.1.0 (Setup -
-MSI)](https://skydrive.live.com/redir?resid=C2CB832A5EC9B707%2138713)**
- **[Download Junction Shell Extensions 1.1.0 (Source -
-ZIP)](https://skydrive.live.com/redir?resid=C2CB832A5EC9B707%2138714)**
+**[Download Junction Shell Extensions 1.1.0 (Setup -
+MSI)](https://github.com/tillig/JunctionShellExtensions/releases/download/v1.1.0/JunctionShellExtSetup_1.1.0.msi)**
+
+**[Download Junction Shell Extensions 1.1.0 (Source -
+ZIP)](https://github.com/tillig/JunctionShellExtensions/archive/v1.1.0.zip)**
 
 
  For more on how icon overlays work, check out [lallous's article on
