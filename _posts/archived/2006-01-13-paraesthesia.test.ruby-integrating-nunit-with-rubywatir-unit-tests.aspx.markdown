@@ -20,10 +20,10 @@ similar testing frameworks like the VS 2005 test suite - just use the VS
 change to the Ruby/Watir test executor needed!)
 
  ![NUnit and Ruby tests living side by
-side](https://jushww.dm2302.livefilestore.com/y2ppyFXqUv57g_p8nFWJt6pQv2eKia22jaIt1S3tAZ9s906lrPlIvTGHkv7-0QUciKRP8HcseHR0AC66aBkUyzmKH4HhbWyZHDxTLwblZrb50g/Paraesthesia.Test.Ruby_nunitgui.gif?psid=1)
+side](https://cloud.githubusercontent.com/assets/1156571/21693187/d1ace466-d334-11e6-841e-3771bb6709b2.gif)
 
 **[View the CodeProject
-Article](http://www.codeproject.com/cpnet/RubyTestExecutor.asp)**
+Article](https://www.codeproject.com/Articles/12696/Integrated-ASP-NET-Web-Application-Testing-with-NU)**
 
 **[Download Paraesthesia.Test.Ruby 1.1.3.0
 Installer](https://github.com/tillig/RubyTestExecutor/releases/download/v1.1.3/Paraesthesia.Test.Ruby_1.1.3.0_install.zip)**
