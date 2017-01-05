@@ -73,8 +73,8 @@ the program; YMMV; use at your own risk; etc.
 **Download now - free!**
 
 [[EnableTypemockForNonAdmin - 1.0.1.0
-(zip)](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45433&authkey=!APNvUzWhIUwo1RM&ithint=file%2czip)]
+(zip)](https://github.com/tillig/EnableTypemockForNonAdmin/releases/download/v1.0.1/EnableTypemockForNonAdmin-1.0.1.0.zip)]
 
 [[EnableTypemockForNonAdmin Source - 1.0.1.0
-(zip)](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45432&authkey=!ABLGLaKg-ihyudY&ithint=file%2czip)]
+(zip)](https://github.com/tillig/EnableTypemockForNonAdmin/archive/v1.0.1.zip)]
 
