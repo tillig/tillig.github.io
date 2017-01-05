@@ -63,10 +63,11 @@ source*](/archive/2004/06/18/how-to-figure-out-sharepoint-portal-server-2003-ful
  Also, I'll be updating the app as I learn more about the search
 functionality so I can offer more flexibility in the querying.
 
- [**Download SPSSearchTest 1.1.0
-(MSI)**](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45401&authkey=!AJl3tkXo3_sWocc&ithint=file%2cmsi)
- [**Download SPSSearchTest Source 1.1.0
-(ZIP)**](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45400&authkey=!ACdYYvrAT1WFx7c&ithint=file%2czip)
+[**Download SPSSearchTest 1.1.0
+(MSI)**](https://github.com/tillig/SharePointSearchTest/releases/download/v1.1.0/SearchTestSetup_1.1.0.msi)
+
+[**Download SPSSearchTest Source 1.1.0
+(ZIP)**](https://github.com/tillig/SharePointSearchTest/archive/v1.1.0.zip)
 
  **Version History**
  1.1.0:
