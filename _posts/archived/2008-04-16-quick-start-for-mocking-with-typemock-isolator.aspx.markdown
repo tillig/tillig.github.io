@@ -28,8 +28,7 @@ take-away points so you'll have something to move forward with.
 You can get the source for the finished solution here (minus the answers
 to the exercises - that's for the reader), but it's recommended you
 create your solution and walk through the work and not just get the
-finished deal: [[Download Source -
-TypeMockQuickStart.zip](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45420&authkey=!AMWhc3sQy_xwI8o&ithint=file%2czip)]
+finished deal: [[View Complete Source](https://github.com/tillig/TypemockQuickStart)]
 
 Required Tools
 ==============
