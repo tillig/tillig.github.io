@@ -100,7 +100,8 @@ Caveats:
 -   It's totally free and open-source. Do whatcha like.
 
 [Download EmbeddedResourcePathProvider Compiled
-Package](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45417&authkey=!AAc7EeVmY1tV184&ithint=file%2czip)
- [Download EmbeddedResourcePathProvider
-Source](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45416&authkey=!AAnKG5RcSsY-2W4&ithint=file%2czip)
+Package](https://github.com/tillig/EmbeddedResourcePathProvider/releases/download/v1.0.0/Paraesthesia.Web.Hosting.EmbeddedResourcePathProvider.zip)
+
+[Download EmbeddedResourcePathProvider
+Source](https://github.com/tillig/EmbeddedResourcePathProvider/archive/v1.0.0.zip)
 
