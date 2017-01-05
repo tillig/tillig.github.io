@@ -10,4 +10,4 @@ The new version has been released fixing a bug where, when used in later
 versions of DXCore, joining selections was functioning incorrectly.
 
  [**Go get
-it!**](/archive/2005/08/30/cr_joinlines---join-lines-in-visual-studio-code-editor-via.aspx)
+it!**](/archive/2005/08/30/cr_joinlines-join-lines-in-visual-studio-code-editor-via.aspx)

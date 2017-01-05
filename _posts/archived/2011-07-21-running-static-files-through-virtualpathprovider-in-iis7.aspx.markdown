@@ -8,7 +8,7 @@ tags: [net,Code Snippets,Web Development]
 ---
 We have a custom VirtualPathProvider that [serves some static files
 (\*.js, \*.css) from embedded resources in
-assemblies](/archive/2007/07/13/embeddedresourcepathprovider---binary-only-asp.net-2.0.aspx).
+assemblies](/archive/2007/07/13/embeddedresourcepathprovider-binary-only-asp.net-2.0.aspx).
 It is similar in function to the WebResource.axd that ships with
 ASP.NET, but instead of having some crazy URL, you just access the file
 directly and the VPP finds it in embedded resources and serves it just

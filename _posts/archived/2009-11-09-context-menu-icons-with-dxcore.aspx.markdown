@@ -8,7 +8,7 @@ tags: [Code Snippets,net,vs]
 ---
 A long time ago [I posted a little sample showing how to get context
 menus working with your DXCore
-plugin](/archive/2005/02/02/cr_contextmenudemo---a-context-menu-demonstration-for-dxcore.aspx).
+plugin](/archive/2005/02/02/cr_contextmenudemo-a-context-menu-demonstration-for-dxcore.aspx).
 As part of a new plugin I'm working on, I wanted to get an icon to show
 up in the context menu next to my entry in the menu, something like the
 icon you see for the Refactor! menu.

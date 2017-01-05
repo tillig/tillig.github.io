@@ -27,7 +27,7 @@ stage.
 Saturday and picked up a [Platt heavy-duty polyethelene case with custom
 foam cutout](http://www.plattcases.com/Products-A-New.asp?ProductID=6)
 to store [my GBA
-SP](/archive/2003/03/21/ladies-ladies-ladies--gameboy-advance-sp-is-in-da.aspx)
+SP](/archive/2003/03/21/ladies-ladies-ladies-gameboy-advance-sp-is-in-da.aspx)
 in. I got the foam all punched out and all the parts are in the case
 with plenty of growing room in the event I get other accessories that
 need storage. I've always wanted one of those cases (sort of like the

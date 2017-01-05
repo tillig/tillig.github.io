@@ -11,5 +11,5 @@ published an article in their new "Ask The Pros" series called "[Ask The
 Pros: Visual Studio .NET
 Addins.](http://www.visualstudiohacks.com/atpAddins)" In that article,
 [Scott Hanselman](http://www.hanselman.com/blog/) gave some props to
-[CR\_Documentor](/archive/2004/11/15/cr_documentor---the-documentor-plug-in-for-dxcore.aspx)
+[CR\_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
 as his favorite DXCore plugin. Thanks, Scott!

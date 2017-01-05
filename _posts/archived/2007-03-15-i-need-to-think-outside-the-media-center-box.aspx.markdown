@@ -7,14 +7,14 @@ disqus_identifier: 1163
 tags: [GeekSpeak]
 ---
 I've been locked into a way of thinking - that [for my media center
-solution](/archive/2007/03/15/vista-ultimate-media-center-in-virtual-pc-form---not.aspx)
+solution](/archive/2007/03/15/vista-ultimate-media-center-in-virtual-pc-form-not.aspx)
 I need to get a Windows Media Center with some network attached storage
 and connect all of that up so I can use the Xbox 360 as a Media Center
 Extender to watch movies.
- 
+
  I'm starting to think maybe I've been barking up the wrong tree and
 it's time to re-examine my requirements and assumptions.
- 
+
  There are a lot of limitations to Media Center Extender technology, not
 the least of which is that they don't support playback of movies ripped
 in either ISO or VIDEO\_TS format, which is one of my primary goals. I
@@ -22,7 +22,7 @@ not only want easy access to my movies, but I want no quality lost when
 I put them on the server, I want no features lost (extras, audio tracks,
 etc.), and I want to be able to re-create a watchable DVD from it should
 my original die.
- 
+
  So I need to open myself to new possible solutions:
 
 -   Would it be better to have a dedicated home theater PC for each room

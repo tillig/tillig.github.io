@@ -7,7 +7,7 @@ disqus_identifier: 1828
 tags: [net]
 ---
 I’ve been using [NDepend](http://www.ndepend.com) for a while – [since
-version 2.7](/archive/2008/03/28/ndepend---analyze-your-code.aspx) – and
+version 2.7](/archive/2008/03/28/ndepend-analyze-your-code.aspx) – and
 each release is always noticeably better than the last. [Version 4 last
 year brought with it some of the best stuff with
 CQLinq](/archive/2012/08/10/ndepend-4-cqlinq-ndepend-api-and-beyond.aspx)

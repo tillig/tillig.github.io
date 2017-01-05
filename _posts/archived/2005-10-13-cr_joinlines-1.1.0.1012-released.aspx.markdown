@@ -14,4 +14,4 @@ delimiter when cleaning up XML elements whose attributes span several
 lines.
 
  [**Go get
-it!**](/archive/2005/08/30/cr_joinlines---join-lines-in-visual-studio-code-editor-via.aspx)
+it!**](/archive/2005/08/30/cr_joinlines-join-lines-in-visual-studio-code-editor-via.aspx)

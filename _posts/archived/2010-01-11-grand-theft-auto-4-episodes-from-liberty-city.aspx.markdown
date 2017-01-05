@@ -22,7 +22,7 @@ comes out, [I take a whole week off
 work](/archive/2008/05/12/a-week-in-liberty-city.aspx) and dedicate the
 entire week just to playing the game. I get [the expensive edition with
 all the bells and
-whistles](/archive/2007/06/19/preordered-grand-theft-auto-iv---special-edition.aspx).
+whistles](/archive/2007/06/19/preordered-grand-theft-auto-iv-special-edition.aspx).
 [I finished GTA4 with 100%
 completion](/archive/2008/08/27/gta4-100.aspx). I am, as far as I can
 tell, the target market for Grand Theft Auto.

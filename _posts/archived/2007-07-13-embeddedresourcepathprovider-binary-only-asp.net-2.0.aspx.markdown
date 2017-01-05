@@ -8,7 +8,7 @@ tags: [downloads,aspnet,net]
 ---
 [I posted before about an ASP.NET 1.1 way to deploy in a
 close-to-binary-only
-format](http://paraesthesia.com/archive/2007/05/31/embeddedpagehandlerfactory---binary-only-asp.net-1.1.aspx),
+format](http://paraesthesia.com/archive/2007/05/31/embeddedpagehandlerfactory-binary-only-asp.net-1.1.aspx),
 embedding ASPX files as resources in your assemblies.  That way doesn't
 work in .NET 2.0... but it turns out they added something better in .NET
 2.0 that lets you create a more complete solution -

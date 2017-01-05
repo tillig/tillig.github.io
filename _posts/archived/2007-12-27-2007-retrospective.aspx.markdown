@@ -20,9 +20,9 @@ software](/archive/2007/01/24/clipboard-manager-software.aspx) and ended
 up with [ClipX as the
 winner](/archive/2007/01/25/clipboard-follow-up-clipx.aspx) of that
 showdown. I also pumped out [a little command-line GUID
-generator](/archive/2007/01/24/guidgenconsole---generate-guids-at-the-command-line.aspx) and
+generator](/archive/2007/01/24/guidgenconsole-generate-guids-at-the-command-line.aspx) and
 [a custom NAnt task
-assembly](/archive/2007/01/29/paraesthesia.tools.nanttasks---custom-nant-tasks.aspx)
+assembly](/archive/2007/01/29/paraesthesia.tools.nanttasks-custom-nant-tasks.aspx)
 with some helpful stuff in it.
 
 In February, we got [a new little terrorist cat named
@@ -38,7 +38,7 @@ styling when including code
 snippets](/archive/2007/03/08/switch-to-inline-styles-for-code-formatting.aspx)
 because they don't format right in RSS otherwise. I'm still fighting
 that one. I got [Media Center working with my Xbox
-360](/archive/2007/03/23/media-center-2005-and-xbox-360---success.aspx)
+360](/archive/2007/03/23/media-center-2005-and-xbox-360-success.aspx)
 in a test environment (but I'm still trying to determine the right way
 to go to serve up DVDs and [meet all of my
 requirements](/archive/2007/03/26/my-media-center-goal.aspx)).
@@ -57,16 +57,16 @@ I also got into the design for testability vs. design for usability
 debate [with respect to static helper
 utilities](/archive/2007/04/20/design-for-testability-vs.-static-utilities.aspx).
 Oh, and I attended MIX07, which I blogged a lot about
-[[1](/archive/2007/04/29/mix07---day-0.aspx),
-[2](/archive/2007/04/30/mix07-day-1-keynote---ray-ozzie-scott-guthrie-and.aspx),
-[3](/archive/2007/04/30/mix07---developing-silverlight-applications-with-javascript.aspx),
-[4](/archive/2007/04/30/mix07---developing-ajax-applications-with-visual-studio-orcas.aspx),
-[5](/archive/2007/04/30/mix07---ajax-patterns.aspx),
-[6](/archive/2007/05/01/mix07---front-ending-the-web-with-microsoft-office.aspx),
-[7](/archive/2007/05/01/mix07---designing-for-ajaxria.aspx),
-[8](/archive/2007/05/01/mix07---developing-asp.net-ajax-controls-with-silverlight.aspx),
-[9](/archive/2007/05/01/mix07---labs-and-day-2-keynotes.aspx),
-[10](/archive/2007/05/02/mix07---the-pure-party-and-the-morning-after.aspx)].
+[[1](/archive/2007/04/29/mix07-day-0.aspx),
+[2](/archive/2007/04/30/mix07-day-1-keynote-ray-ozzie-scott-guthrie-and.aspx),
+[3](/archive/2007/04/30/mix07-developing-silverlight-applications-with-javascript.aspx),
+[4](/archive/2007/04/30/mix07-developing-ajax-applications-with-visual-studio-orcas.aspx),
+[5](/archive/2007/04/30/mix07-ajax-patterns.aspx),
+[6](/archive/2007/05/01/mix07-front-ending-the-web-with-microsoft-office.aspx),
+[7](/archive/2007/05/01/mix07-designing-for-ajaxria.aspx),
+[8](/archive/2007/05/01/mix07-developing-asp.net-ajax-controls-with-silverlight.aspx),
+[9](/archive/2007/05/01/mix07-labs-and-day-2-keynotes.aspx),
+[10](/archive/2007/05/02/mix07-the-pure-party-and-the-morning-after.aspx)].
 
 May saw [CheckFree acquiring
 Corillian](/archive/2007/05/15/im-a-checkfree-associate-now.aspx). It
@@ -76,7 +76,7 @@ Corillian](/archive/2007/05/17/typemock-case-study-in-corillian.aspx). I
 types can be added
 together](/archive/2007/05/24/how-do-you-tell-if-two-objects-can-be-added.aspx),
 but never did get an answer. Just at the end of the month, [I posted the
-EmbeddedPageHandlerFactory](/archive/2007/05/31/embeddedpagehandlerfactory---binary-only-asp.net-1.1.aspx)
+EmbeddedPageHandlerFactory](/archive/2007/05/31/embeddedpagehandlerfactory-binary-only-asp.net-1.1.aspx)
 - a way to serve up ASP.NET 1.1 from embedded resources.
 
 In June [*The Sopranos* ended with a
@@ -84,7 +84,7 @@ whimper](/archive/2007/06/12/sopranos-what-the-hell-was-that.aspx) and
 [I migrated my blog to
 Subtext](/archive/2007/06/16/subtext-migration-complete.aspx). I
 [preordered
-*GTA4*](/archive/2007/06/19/preordered-grand-theft-auto-iv---special-edition.aspx)
+*GTA4*](/archive/2007/06/19/preordered-grand-theft-auto-iv-special-edition.aspx)
 (which still hasn't shipped), posted [a CodeSmith template for
 generating generic KeyedCollection
 derivatives](/archive/2007/06/19/system.collections.objectmodel.keyedcollection-codesmith-template.aspx) and
@@ -100,7 +100,7 @@ and made [a bookmarklet to automatically copy an Amazon Associates URL
 to your
 clipboard](/archive/2007/07/10/copy-amazon-associates-product-url-bookmarklet.aspx) while
 browsing Amazon. [I published the
-EmbeddedResourcePathProvider](/archive/2007/07/13/embeddedresourcepathprovider---binary-only-asp.net-2.0.aspx)
+EmbeddedResourcePathProvider](/archive/2007/07/13/embeddedresourcepathprovider-binary-only-asp.net-2.0.aspx)
 - a way to serve up ASP.NET 2.0 from embedded resources. Oh, and [I
 turned 31](/archive/2007/07/22/birthday-in-the-lost-room.aspx).
 
@@ -122,7 +122,7 @@ update](/archive/2007/09/21/on-to-xbox-360-number-four.aspx) so I got to
 send it in for repair, making this the third time I've had to get things
 fixed. I found [an odd issue where ISAPI filters were causing problems
 with
-.NET](/archive/2007/09/25/app-domain-could-not-be-created---check-your-isapi-filters.aspx) and
+.NET](/archive/2007/09/25/app-domain-could-not-be-created-check-your-isapi-filters.aspx) and
 showed you how to [optimize your TortoiseSVN cache for better disk
 I/O](/archive/2007/09/26/optimize-tortoise-svn-cache-tsvncache.exe-disk-io.aspx).
 
@@ -135,14 +135,14 @@ some havoc. I got hit by [some changes in the Xbox Live DRM
 model](/archive/2007/10/27/changes-in-xbox-live-drm.aspx), which, two
 months later, I'm still fighting. I also posted a program to help you
 [copy iTunes track metadata from one track to
-another](/archive/2007/10/29/copytrackmetadata---copy-itunes-track-info.aspx).
+another](/archive/2007/10/29/copytrackmetadata-copy-itunes-track-info.aspx).
 
 In November I went to the Microsoft Patterns and Practices Summit (Days
-[1](/archive/2007/11/06/microsoft-patterns--practices-summit-2007---day-1.aspx),
-[2](/archive/2007/11/06/microsoft-patterns--practices-summit-2007---day-2.aspx),
-[3](/archive/2007/11/07/microsoft-patterns--practices-summit-2007---day-3.aspx),
-[4](/archive/2007/11/09/microsoft-patterns--practices-summit-2007---day-4.aspx),
-[5](/archive/2007/11/09/microsoft-patterns--practices-summit-2007---day-5.aspx))
+[1](/archive/2007/11/06/microsoft-patterns-practices-summit-2007-day-1.aspx),
+[2](/archive/2007/11/06/microsoft-patterns-practices-summit-2007-day-2.aspx),
+[3](/archive/2007/11/07/microsoft-patterns-practices-summit-2007-day-3.aspx),
+[4](/archive/2007/11/09/microsoft-patterns-practices-summit-2007-day-4.aspx),
+[5](/archive/2007/11/09/microsoft-patterns-practices-summit-2007-day-5.aspx))
 and [met Lutz Roeder](/archive/2007/11/09/pp-nerd-dinner.aspx) while up
 there. I posted some [tips on writing good XML doc comments in your
 code](/archive/2007/11/14/on-writing-good-xml-documentation-comments.aspx).
@@ -166,7 +166,7 @@ lunch](/archive/2007/12/10/xbox-live-drm-eating-my-lunch.aspx) so I
 posted [some maintenance
 secrets](/archive/2007/12/10/xbox-360-maintenance-secrets.aspx) that
 might help you avoid a call to Xbox Support. I posted
-[UrlAbsolutifierModule](/archive/2007/12/14/urlabsolutifiermodule---convert-urls-in-asp.net-output-to-absolute.aspx)
+[UrlAbsolutifierModule](/archive/2007/12/14/urlabsolutifiermodule-convert-urls-in-asp.net-output-to-absolute.aspx)
 - an HttpModule that helps you convert URLs from relative to absolute
 format in ASP.NET. I watched [the sixth season of *24* all in one
 day](/archive/2007/12/17/24-season-6.aspx), found that [FxCop 1.35 uses

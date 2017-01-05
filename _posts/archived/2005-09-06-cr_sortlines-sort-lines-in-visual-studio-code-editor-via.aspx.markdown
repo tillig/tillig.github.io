@@ -12,7 +12,7 @@ over there to get the latest and read more!**
  
 
 Just like [I use the "Join Lines" function a
-lot](/archive/2005/08/30/cr_joinlines---join-lines-in-visual-studio-code-editor-via.aspx),
+lot](/archive/2005/08/30/cr_joinlines-join-lines-in-visual-studio-code-editor-via.aspx),
 I also sort lines a lot in text editing. That's another feature Visual
 Studio didn't have that I wanted - the ability to sort lines.
 

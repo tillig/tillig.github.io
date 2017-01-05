@@ -17,7 +17,7 @@ social event and a [piroshky](http://www.piroshkybakery.com/)?  *Hellz*
 yeah.
 
 Oh, I bugged Lutz about it again, and **he's letting me
-release**[**CR\_Documentor**](/archive/2004/11/15/cr_documentor---the-documentor-plug-in-for-dxcore.aspx)**as
+release**[**CR\_Documentor**](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)**as
 open source**.  Apparently there was some political hoopla going on
 before that would have been bad had I released it, but that seems to
 have passed so it's cool now.  All you folks wanting new features and

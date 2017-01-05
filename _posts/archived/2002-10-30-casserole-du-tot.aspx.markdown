@@ -56,7 +56,7 @@ screwed.
 
  In the end, Jenn and I went to [Starbucks](http://www.starbucks.com)
 and I got me a [Venti<sup>tm</sup> Mocha
-Frappuccino®](/archive/2002/04/18/coffee--a-primer.aspx). So it wasn't a
+Frappuccino®](/archive/2002/04/18/coffee-a-primer.aspx). So it wasn't a
 *total loss*, but I was admittedly a little peeved.
 
  [Bitches, man.

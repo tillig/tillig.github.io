@@ -35,7 +35,7 @@ into which the package is being installed.
 
 EnvDTE is the way you automate Visual Studio for things like custom
 tools and add-ins. [I've messed around with EnvDTE
-before](/archive/2004/06/25/solvent---power-toys-for-visual-studio-.net.aspx)
+before](/archive/2004/06/25/solvent-power-toys-for-visual-studio-.net.aspx)
 (though lately [I prefer using CodeRush for my automation
 tasks](http://www.devexpress.com/Products/Visual_Studio_Add-in/Coding_Assistance/))
 so this wasn't too hard to get back into. Here's the script for

@@ -12,4 +12,4 @@ isn't visible. (And you all wondered why things were running slow. So
 was I!)
 
  **[Go get
-it!](/archive/2004/11/15/cr_documentor---the-documentor-plug-in-for-dxcore.aspx)**
+it!](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)**

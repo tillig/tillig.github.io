@@ -12,4 +12,4 @@ just link to various contacts, and their contact card will automatically
 be associated with that link.
 
  [Go get
-it!](/archive/2006/06/06/contactcard---dhtml-contact-information.aspx)
+it!](/archive/2006/06/06/contactcard-dhtml-contact-information.aspx)

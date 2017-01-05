@@ -22,4 +22,4 @@ Added CR\_Documentor to the DXCore "About" box.
 
 
  [Go get
-it!](/archive/2004/11/15/cr_documentor---the-documentor-plug-in-for-dxcore.aspx)
+it!](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)

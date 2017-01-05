@@ -11,17 +11,16 @@ framework](http://www.devexpress.com/dxcore) (used to extend Visual
 Studio .NET) is not very well documented within the DXCore developer
 documentation.
 
- I have a need to use context menus in some planned enhancements to my
+I have a need to use context menus in some planned enhancements to my
 [CR_Documentor
-plugin](/archive/2004/11/15/cr_documentor---the-documentor-plug-in-for-dxcore.aspx).
+plugin](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx).
 I got an example of generallly how it works, but nothing that compiles
 and actually does anything... so I wrote one myself.
 
- Enter CR\_ContextMenuDemo: Source for a compilable DXCore plugin that
+Enter CR_ContextMenuDemo: Source for a compilable DXCore plugin that
 illustrates how context menus can be used from within the DXCore plugin
 framework. The source is well commented to illustrate precisely what is
 happening in each place. You'd be surprised how easy it is to use
 context menus in DXCore.
 
- [**Download CR\_ContextMenuDemo
-source**](https://skydrive.live.com/redir?resid=C2CB832A5EC9B707%2138712)
+[**Download CR_ContextMenuDemo source**](https://github.com/tillig/CR_ContextMenuDemo/archive/master.zip)

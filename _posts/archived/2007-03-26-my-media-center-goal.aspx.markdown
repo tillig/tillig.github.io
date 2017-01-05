@@ -7,7 +7,7 @@ disqus_identifier: 1171
 tags: [GeekSpeak]
 ---
 I've gotten some emails about my [recent rounds with Windows Media
-Center](/archive/2007/03/23/media-center-2005-and-xbox-360---success.aspx)
+Center](/archive/2007/03/23/media-center-2005-and-xbox-360-success.aspx)
 with various suggestions and concerns and it made me realize that I may
 not have been clear about what I'm trying to accomplish with the media
 center. As such, here's what I'm trying to achieve:

@@ -49,7 +49,7 @@ Somehow I don't think that I'll be as rested after that week as I'd
 like, but we can always hope.
 
  I added [one more
-category](/archive/2002/10/23/new-feature---categories--sort-of.aspx) to
+category](/archive/2002/10/23/new-feature-categories-sort-of.aspx) to
 the list of paraesthesia entries: *New Science*. These articles are the
 theories I have on why stuff does what it does. My favorite thus far
 (hey, there are only two right now) is my [*Theory of Indefinite

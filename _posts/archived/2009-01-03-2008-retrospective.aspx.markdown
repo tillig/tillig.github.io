@@ -29,7 +29,7 @@ which is not uncommon for me.
 
 Lots of interesting developments happened with Typemock Isolator in
 February, particularly [the addition of debugger
-integration](/archive/2008/02/06/typemock-isolator---now-with-debugging-goodness.aspx),
+integration](/archive/2008/02/06/typemock-isolator-now-with-debugging-goodness.aspx),
 which is awesome. In the spirit of that, I blogged about [how to get
 Isolator, NCover, and NUnit all playing nicely in
 MSBuild](/archive/2008/02/07/typemock-nunit-and-ncover-together-in-msbuild.aspx) as

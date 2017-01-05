@@ -17,4 +17,4 @@ probably just forever be stubbed since there's no great way to interface
 with "Send To," particularly in a managed code world.
 
  Anyway, the update's out, so [go get
-it](/archive/2004/06/25/solvent---power-toys-for-visual-studio-.net.aspx).
+it](/archive/2004/06/25/solvent-power-toys-for-visual-studio-.net.aspx).

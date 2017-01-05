@@ -7,30 +7,30 @@ disqus_identifier: 804
 tags: [GeekSpeak]
 ---
 I've heard that the [CR\_Documentor
-plugin](/archive/2004/11/15/cr_documentor---the-documentor-plug-in-for-dxcore.aspx)
+plugin](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
 is a little sluggish on some folks' machines so I decided to run a
 profiler on it and see what's slowing me down.
- 
+
  The profilers out there for .NET suck. A lot.
- 
+
  The problem with the majority of them is that they only profile
 executables. You can't just profile a satellite assembly that you've
 written that gets used by an executable, and you can't just attach to a
 process that's already running and using your assembly.
- 
+
  Well, as an add-in, my assembly's technically running under Visual
 Studio itself - devenv.exe. So there's your host app...
- 
+
  I tried [DevPartner Profiler Community
 Edition](http://www.compuware.com/products/devpartner/profiler/default.asp?cid=3019X36&focus=DevPartner&source=Web+%2D+Evaluation+Request&desc=Download+%2D+%27DevPartner+Profiler+Community+Edition%27&offering=DevPartner&sf=1&p=0).
 It blue-screened my box twice before I gave up. I never successfully
 even got VS started up to be profiled.
- 
+
  I tried [nprof](http://nprof.sourceforge.net/), the [Red-Gate ANTS
 profiler](http://www.red-gate.com/code_profiling.htm), and the [CLR
 Profiler](http://www.microsoft.com/downloads/details.aspx?FamilyId=86CE6052-D7F4-4AEB-9B7A-94635BEEBDDA&displaylang=en).
 No luck.
- 
+
  [DevExpress](http://www.devexpress.com) tech support recommended
 [AQtime](http://www.automatedqa.com/products/aqtime/index.asp), since
 that's what they use. It seemed the best of the bunch, being able to
@@ -39,11 +39,11 @@ profile, but it wouldn't allow me to attach to an existing running
 instance of Visual Studio, nor was it able to start one up for me (I got
 a bunch of Access Violations and VS would puke). So the best of the
 bunch (that I tried out) never worked.
- 
+
  Long and short of it is, I never got the thing profiled. I'm thinking I
 may have to add some sort of trace-style instrumentation and/or
 performance counters to get this done. Hmmm.
- 
+
  In other news, I made a few Amazon purchases today: [*C++ Primer, 4th
 Ed.*](http://www.amazon.com/exec/obidos/ASIN/0201721481/mhsvortex) (I
 need to re-learn C++... it's been too long); [*Joel On
@@ -51,7 +51,7 @@ Software*](http://www.amazon.com/exec/obidos/ASIN/1590593898/mhsvortex);
 and [*Red
 Dwarf*](http://www.amazon.com/exec/obidos/ASIN/B0006Z2L10/mhsvortex),
 series 5 and 6 (can't get enough of the *Red Dwarf*).
- 
+
  I've also made quite a bit of progress in my pMachine-to-dasBlog
 conversion program and may try to transfer over in the reasonably near
 future. Of course, after having experienced what I have thus far with

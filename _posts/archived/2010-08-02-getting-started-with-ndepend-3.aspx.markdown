@@ -8,7 +8,7 @@ tags: [net]
 ---
 I was fortunate enough to get my hands on a license for NDepend 3 so I
 decided to take it for a spin. I'd had [some experience with NDepend
-2](/archive/2008/03/28/ndepend---analyze-your-code.aspx) and thought it
+2](/archive/2008/03/28/ndepend-analyze-your-code.aspx) and thought it
 would be interesting to see the new, cool stuff.
 
 **Install is still reasonably easy.** It's still just a zip file -

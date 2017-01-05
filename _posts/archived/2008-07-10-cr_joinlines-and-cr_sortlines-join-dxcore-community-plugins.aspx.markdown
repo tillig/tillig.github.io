@@ -7,9 +7,9 @@ disqus_identifier: 1414
 tags: [downloads,vs,coderush]
 ---
 My
-[CR\_JoinLines](/archive/2005/08/30/cr_joinlines---join-lines-in-visual-studio-code-editor-via.aspx)
+[CR\_JoinLines](/archive/2005/08/30/cr_joinlines-join-lines-in-visual-studio-code-editor-via.aspx)
 and
-[CR\_SortLines](/archive/2005/09/06/cr_sortlines---sort-lines-in-visual-studio-code-editor-via.aspx)
+[CR\_SortLines](/archive/2005/09/06/cr_sortlines-sort-lines-in-visual-studio-code-editor-via.aspx)
 plugins for DXCore have been joined up with the [DXCore Community
 Plugins project](http://code.google.com/p/dxcorecommunityplugins/)
 headed by [Rory Becker](http://rorybecker.blogspot.com). Complete

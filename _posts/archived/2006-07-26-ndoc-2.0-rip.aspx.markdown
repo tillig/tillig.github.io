@@ -10,7 +10,7 @@ Just got wind that [Kevin Downs](http://sourceforge.net/users/kdowns/)
 of the [NDoc](http://sourceforge.net/projects/ndoc/) project is removing
 himself from the development of NDoc, leaving no one actively developing
 NDoc. Further, that means there's no NDoc 2.0 on the way.
- 
+
  That's bad news in a lot of ways. First, I feel bad for Kevin since it
 sounds like he's done a lot of widely used but not-directly-appreciated
 work and got a lot of abuse for not moving faster on NDoc 2.0. Second,
@@ -18,10 +18,10 @@ that means folks who currently use NDoc in a lot of extended ways - via
 NAnt build scripts, in other automated utilities, etc. - are screwed for
 .NET 2.0 functionality. In a particularly personal bit of bad news, that
 means I've got to figure out what will happen with
-[CR\_Documentor](/archive/2004/11/15/cr_documentor---the-documentor-plug-in-for-dxcore.aspx)
+[CR\_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
 - if .NET 2.0 isn't supported in NDoc, what do I render? (Input on that
 topic is welcome...)
- 
+
  I guess Microsoft has some sort of [less-feature-complete documentation
 rendering engine codenamed
 "Sandcastle"](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=517576&SiteID=1&PageID=0)
@@ -29,14 +29,14 @@ they're coming out with that will generate MSDN style documentation
 similar to NDoc but in a more cumbersome-sounding process. It obviously
 won't have instant NAnt support, meaning there's going to be some
 hacking around to get that to work.
- 
+
  I feel like MS is showing up late to the party on this one. If you're
 going to release a product, at least make it full-featured enough to be
 competitive with similar products. I've thought about writing my own
 blog engine for a while now and I wouldn't release it until it did all
 the stuff standard blog packages do today; if you couldn't leave
 comments, for example, it's not a full blog package.
- 
+
  Of course, it will most likely become the de-facto standard with the
 vacuum that NDoc will be leaving. Which is unfortunate, but c'est la
 vie.

@@ -13,7 +13,7 @@ left in the navigation column, I've put two more links: "Reviews" and
  The Reviews link will (should) get you to my reviews of movies and
 such. The What If? link should get you to my more random "What if the
 world was like..." style articles. Like my [People
-Pellets](/archive/2002/10/23/what-if--people-pellets.aspx) article.
+Pellets](/archive/2002/10/23/what-if-people-pellets.aspx) article.
 
  I'm hoping to make both of those sorts of items more frequently, so
 I've added faster access to them.

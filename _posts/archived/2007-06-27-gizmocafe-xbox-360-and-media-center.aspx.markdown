@@ -7,7 +7,7 @@ disqus_identifier: 1223
 tags: [media,gaming,xbox]
 ---
 I haven't gotten a chance to put [my media
-center](http://paraesthesia.com/archive/2007/03/23/media-center-2005-and-xbox-360---success.aspx)
+center](http://paraesthesia.com/archive/2007/03/23/media-center-2005-and-xbox-360-success.aspx)
 together yet, but I got a comment that points to [a pretty decent
 article about using the Xbox 360 as a media center
 extender](http://www.gizmocafe.com/tv-video/xbox360.aspx).  It may be

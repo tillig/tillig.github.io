@@ -23,7 +23,7 @@ and the kids come in far too fast for any accuracy beyond a basic
 count.
 
  I wore [my *Joust*
-costume](/archive/2006/10/31/halloween-2006---joust.aspx) and the kids
+costume](/archive/2006/10/31/halloween-2006-joust.aspx) and the kids
 seemed to like it, but *the parents loved it*. Comments included "You're
 my hero!" and "That's the greatest costume ever!" One dad stooped down
 to address his kids and explain the merits of classic arcade games right

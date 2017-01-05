@@ -11,7 +11,7 @@ I want to do and I'm finding that there's really just no shortage. So
 far, the top three are:
 1.  **Add 'Send To' to Solvent**: I want to add the Windows Explorer
     'Send To' menu to my add-in,
-    [Solvent](/archive/2004/06/25/solvent---power-toys-for-visual-studio-.net.aspx).
+    [Solvent](/archive/2004/06/25/solvent-power-toys-for-visual-studio-.net.aspx).
     I have the part that builds the UI for the context menus done, I
     just need to get a decent class library to read items from the Send
     To folder and send them in. I found [something that almost does what
@@ -46,7 +46,7 @@ and I'm getting fed up with the way shell stuff is handled in Windows.
 One would think that with .NET they'd have introduced some sort of
 "Microsoft.Windows.Shell" namespace with some methods you can access
 from managed code that does all the low-level crap I'm having to learn.
- 
+
  I'll get it done, it'll just take a little longer. I tried doing the
 [pInvoke route](http://www.pinvoke.net/), but I got to a point where I
 was trying to marshal pointers to pointers and things fell apart (I know
@@ -60,6 +60,6 @@ figure out how to get it done via IJW. If *that* doesn't work, I think
 I'll learn how to write a COM object and just suffer the COM interop
 overhead (which, thinking about the work the COM object will have to
 provide, should be reasonably minimal).
- 
+
  Unless someone out there wants to write it for me? I have an interface
 description... :)

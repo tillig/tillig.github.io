@@ -7,7 +7,7 @@ disqus_identifier: 1249
 tags: [GeekSpeak,net,vs]
 ---
 I started working on converting
-[CR\_Documentor](http://paraesthesia.com/archive/2004/11/15/cr_documentor---the-documentor-plug-in-for-dxcore.aspx)
+[CR\_Documentor](http://paraesthesia.com/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
 over to use XSLT for its documentation transformations this morning and
 soon realized that it may not be that easy.  The goal was to be able to
 just take the XSLT from the various documentation generation engines

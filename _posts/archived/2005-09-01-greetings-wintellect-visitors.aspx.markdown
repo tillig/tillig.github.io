@@ -10,8 +10,8 @@ For folks coming in from
 [Wintellect](http://wintellect.com/WEBLOGS/wintellect/archive/2005/09/02/2251.aspx)
 (and people new to the site)... here are some things you might be
 looking for:
- 
-[CR\_Documentor](/archive/2004/11/15/cr_documentor---the-documentor-plug-in-for-dxcore.aspx):
+
+[CR\_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx):
 The XML code comment preview add-in for Visual Studio.
 
 [My Other Tools](/): A list of other tools I've written that might help

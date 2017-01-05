@@ -13,5 +13,5 @@ For those using my little assembly strong name reading tool, I:
     for the assembly you're looking at.
 
 [Free for the
-taking!](http://paraesthesia.com/archive/2005/02/07/sninfo---strong-naming-info-for-.net-assemblies.aspx)
+taking!](http://paraesthesia.com/archive/2005/02/07/sninfo-strong-naming-info-for-.net-assemblies.aspx)
 

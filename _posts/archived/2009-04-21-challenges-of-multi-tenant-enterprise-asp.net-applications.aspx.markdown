@@ -142,7 +142,7 @@ you can't even move the locations.
 Things in the filesystem that aren't binary end up being problematic
 from a deployment and upgrade standpoint. You can address some of this
 with [a custom VirtualPathProvider that serves things from embedded
-resources](/archive/2007/07/13/embeddedresourcepathprovider---binary-only-asp.net-2.0.aspx),
+resources](/archive/2007/07/13/embeddedresourcepathprovider-binary-only-asp.net-2.0.aspx),
 but there are still some things you can't hide behind a VPP -
 web.config, for example, and skins.
 

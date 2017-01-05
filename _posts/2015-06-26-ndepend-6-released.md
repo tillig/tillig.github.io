@@ -5,7 +5,7 @@ date: 2015-06-26 11:00:00 -0800
 comments: true
 tags: [net,vs,ndepend]
 ---
-[NDepend 6 was recently released with a ton of new features.](http://www.ndepend.com/ndepend-v6) I've been working with NDepend for quite some time ([my earliest blog entry on it was for version 2.7](/archive/2008/03/28/ndepend---analyze-your-code.aspx)) and every release gets better. [It's been a couple of years since version 5 came out.](/archive/2013/10/28/ndepend-5-new-ui-new-features.aspx/) What's new?
+[NDepend 6 was recently released with a ton of new features.](http://www.ndepend.com/ndepend-v6) I've been working with NDepend for quite some time ([my earliest blog entry on it was for version 2.7](/archive/2008/03/28/ndepend-analyze-your-code.aspx)) and every release gets better. [It's been a couple of years since version 5 came out.](/archive/2013/10/28/ndepend-5-new-ui-new-features.aspx/) What's new?
 
 The first thing you notice that's new when you start things up is **the additional integrations** they've added. It used to be just "install the extension for Visual Studio" but now there are icons for [TFS](http://www.ndepend.com/Docs/tfs-integration-ndepend), [TeamCity](http://www.ndepend.com/Docs/teamcity-integration-ndepend), [SonarQube](http://www.ndepend.com/Docs/sonarqube-integration-ndepend), and Reflector integration.
 
