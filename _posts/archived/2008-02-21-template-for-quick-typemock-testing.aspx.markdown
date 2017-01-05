@@ -24,12 +24,12 @@ with tests. When you run the app, the NUnit console runner will execute
 any test fixtures you put in the current assembly.
 
 ![Snippet Compiler showing the TypeMock
-template.](https://jushww.dm1.livefilestore.com/y2p2QlwHr4FWlMonwn9p35hkDLHYErJvwM5BEXfqkAEOcZUFjZxMMt3R6rLIdkEwBiuhOg_t_lt4HzZZXwfrnGOb_O-JoYe_3RrF4KbGAAmz-s/TypeMockSnippetTemplate.gif?psid=1)
+template.](https://cloud.githubusercontent.com/assets/1156571/21692775/43723134-d333-11e6-9168-e61f4c5204df.gif)
 
 Instructions on how to set up Snippet Compiler with this template are
 included. Basically, drop the template into your Snippet Compiler
 templates folder and add references to NUnit and TypeMock.
 
 [**[Download
-TypeMockSnippetTemplate.zip](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45030&authkey=!AH_lO5v3eI8Ee94&ithint=file%2c.zip)**]
+TypeMockSnippetTemplate.zip](https://gist.github.com/tillig/c4c6c547b065ebf768a9b7fb45d8a102)**]
 
