@@ -29,5 +29,6 @@ that.
 
 If you're a CodeSmith user and you find yourself creating a lot of
 simple KeyedCollection implementations, [grab the template and go to
-it](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45435&authkey=!AG1w6CwaJpd_yi0&ithint=file%2czip).
+it](https://gist.github.com/tillig/9539ec9ef6078e65243f776d910d9535).
 
+<script src="https://gist.github.com/tillig/9539ec9ef6078e65243f776d910d9535.js"></script>
