@@ -22,12 +22,14 @@ change to the Ruby/Watir test executor needed!)
  ![NUnit and Ruby tests living side by
 side](https://jushww.dm2302.livefilestore.com/y2ppyFXqUv57g_p8nFWJt6pQv2eKia22jaIt1S3tAZ9s906lrPlIvTGHkv7-0QUciKRP8HcseHR0AC66aBkUyzmKH4HhbWyZHDxTLwblZrb50g/Paraesthesia.Test.Ruby_nunitgui.gif?psid=1)
 
- **[View the CodeProject
+**[View the CodeProject
 Article](http://www.codeproject.com/cpnet/RubyTestExecutor.asp)**
- **[Download Paraesthesia.Test.Ruby 1.1.3.0
-Installer](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!44174&authkey=!ABNAAx10fyMOhBE&ithint=file%2c.zip)**
- **[Download Paraesthesia.Test.Ruby 1.1.3.0
-Source](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!44173&authkey=!AA_YJINiIdjJZBs&ithint=file%2c.zip)**
+
+**[Download Paraesthesia.Test.Ruby 1.1.3.0
+Installer](https://github.com/tillig/RubyTestExecutor/releases/download/v1.1.3/Paraesthesia.Test.Ruby_1.1.3.0_install.zip)**
+
+**[Download Paraesthesia.Test.Ruby 1.1.3.0
+Source](https://github.com/tillig/RubyTestExecutor/archive/v1.1.3.zip)**
 
  **Version History:**
  **1.1.3.0**: First version with release of CodeProject article.
