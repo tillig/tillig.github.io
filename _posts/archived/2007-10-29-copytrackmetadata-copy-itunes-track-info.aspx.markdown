@@ -26,22 +26,24 @@ source and destination tracks, and click "Copy."  Done.
 Here's the main window:
 
 ![CopyTrackMetadata main
-window](https://jushww.dm2303.livefilestore.com/y2ppBuZocY_l4-4wcEoaSRbWidED38m8J53GPTHyAk4ZDl0zb9eWXE_QLh2kB5OK_dUG23WuDW6Wt6YFuc5iWhbAB5vbwZjrU2RTg7Vfcse19o/CopyTrackMetadata_main.png?psid=1)
+window](https://cloud.githubusercontent.com/assets/1156571/21692345/303fe84c-d331-11e6-8872-2246f6262966.png)
 
 And the myriad options you have on which metadata to copy:
 
 ![CopyTrackMetadata options
-dialog](https://jushww.dm2304.livefilestore.com/y2p9E-2MJ8r8Ddo9ilWSBWFOc83JszEPYxslekgH79HS1DodH1webPQHpUx0ZiYjioXZ8QtJDNQpMSXeS3g_wZJnSd6TdN2_GO-p7kBWRqQWAc/CopyTrackMetadata_options.png?psid=1)
+dialog](https://cloud.githubusercontent.com/assets/1156571/21692353/39ba778e-d331-11e6-9235-254283ffa1a1.png)
 
 It's totally free, and it works great for me, but if it somehow destroys
 your music collection, you're on your own - this is totally unsupported.
 
 [**Download CopyTrackMetadata
-1.2.0.0**](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45009&authkey=!AAaR5egvF23YEN4&ithint=file%2c.zip)
- [**Download CopyTrackMetadata 1.2.0.0
-Source**](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45008&authkey=!AFLzAHxn6LiHRHw&ithint=file%2c.zip)
+1.2.0**](https://github.com/tillig/CopyTrackMetadata/releases/download/v1.2.0/CopyTrackMetadata_1.2.0.zip)
+
+[**Download CopyTrackMetadata 1.2.0
+Source**](https://github.com/tillig/CopyTrackMetadata/archive/v1.2.0.zip)
 
 **Version History:**
- **1.0.0.0:** First release.
- **1.2.0.0:** Updated for .NET 3.5 and fixed a breaking change in the
+
+- **1.0.0:** First release.
+- **1.2.0:** Updated for .NET 3.5 and fixed a breaking change in the
 way tracks get selected in iTunes 9.

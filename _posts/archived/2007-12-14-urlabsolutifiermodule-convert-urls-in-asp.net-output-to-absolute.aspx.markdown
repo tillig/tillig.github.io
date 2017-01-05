@@ -63,11 +63,12 @@ Included in the source package:
 Want it? Need it? Come and get it. Yours, free, at (of course) your own
 risk.
 
-[**[Download UrlAbsolutifierModule 1.0.0.0
-Compiled](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45419&authkey=!AEsf7c0FnUQWcWw&ithint=file%2czip)**]
- [**[Download UrlAbsolutifierModule 1.0.0.0
-Source](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45418&authkey=!AGYw08hMf1SF9yc&ithint=file%2czip)**]
+[**[Download UrlAbsolutifierModule 1.0.0
+Compiled](https://github.com/tillig/UrlAbsolutifierModule/releases/download/v1.0.0/UrlAbsolutifierModule_1.0.0.zip)**]
+
+[**[Download UrlAbsolutifierModule 1.0.0
+Source](https://github.com/tillig/UrlAbsolutifierModule/archive/v1.0.0.zip)**]
 
 **Version History**:
- **1.0.0.0**: First release.
+ **1.0.0**: First release.
 
