@@ -63,5 +63,5 @@ YMMV, I'm not responsible for if this truncates every table in your
 database and kicks your mom, etc.
 
 [[**Download
-SubtextDatabaseMaintenance195.zip**](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45427&authkey=!AKusTJz7oa2xhu0&ithint=file%2czip)]
+SubtextDatabaseMaintenance195.zip**](https://gist.github.com/tillig/73b0d5c676189f9d70dce65ba44ca9d1/archive/d58a94ea492c29419bbd58382ea43e329c4d5f9f.zip)]
 

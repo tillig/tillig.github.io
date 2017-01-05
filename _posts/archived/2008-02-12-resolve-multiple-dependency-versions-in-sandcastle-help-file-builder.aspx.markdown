@@ -67,9 +67,10 @@ Grab the compiled version, the source (with unit tests), or both. Free,
 as usual.
 
 [**[Download Paraesthesia.SandcastleHelpFileBuilder.Plugin 1.0.0.0
-Compiled](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45033&authkey=!AGc4PLOktrQ0qt0&ithint=file%2c.zip)**]
- [**[Download Paraesthesia.SandcastleHelpFileBuilder.Plugin 1.0.0.0
-Source](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45032&authkey=!AKXWxpuD0QUVgzM&ithint=file%2c.zip)**]
+Compiled](https://github.com/tillig/shfb-plugins/releases/download/v1.0.0/Paraesthesia.SandcastleHelpFileBuilder.Plugin_1.0.0.0.zip)**]
+
+[**[Download Paraesthesia.SandcastleHelpFileBuilder.Plugin 1.0.0.0
+Source](https://github.com/tillig/shfb-plugins/archive/v1.0.0.zip)**]
 
 **Version History**:
  1.0.0.0: First release.

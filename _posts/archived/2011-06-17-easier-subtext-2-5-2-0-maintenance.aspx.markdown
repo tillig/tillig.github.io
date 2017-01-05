@@ -46,7 +46,7 @@ maintenance page. Click the appropriate button and the referral stored
 proc will be modified to track referrals (or not).
 
 [[**Download
-SubtextDatabaseMaintenance2520.zip**](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45334&authkey=!AHeM-M-ebaeaoYI&ithint=file%2czip)]
+SubtextDatabaseMaintenance2520.zip**](https://gist.github.com/tillig/73b0d5c676189f9d70dce65ba44ca9d1/archive/b4d6f940d0375245288c8b53dd50636d78d05463.zip)]
 
 I'm hoping that Subtext enables the ability to either stop tracking
 referrals altogether or enables some sort of spam filter on referrals so

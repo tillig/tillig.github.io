@@ -41,5 +41,5 @@ admin site, so you do need to manually enter the URL to the page to get
 to it.
 
 [[**Download
-SubtextDatabaseMaintenance2105.zip**](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45431&authkey=!AKzAoQHxKmFOVKc&ithint=file%2czip)]
+SubtextDatabaseMaintenance2105.zip**](https://gist.github.com/tillig/73b0d5c676189f9d70dce65ba44ca9d1/archive/833a2d830ea1f7884b39876df5313e2bab2bc1f7.zip)]
 
