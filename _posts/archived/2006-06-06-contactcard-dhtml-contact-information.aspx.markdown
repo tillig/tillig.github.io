@@ -48,8 +48,8 @@ working examples.
 
 **Note 8/22/2014:** There are better ways to do this with jQuery and Bootstrap now, but I've not bothered updating this script. You can still grab it if you like, but it's totally unsupported.
 
- [**Download ContactCard
-1.2.0**](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!44196&authkey=!AMW8zelRgj5TkvI&ithint=file%2c.zip)
+[**Download ContactCard
+1.2.0**](https://github.com/tillig/ContactCard/archive/v1.2.0.zip)
 
  **Version History:**
  **1.0.0:** First release.
