@@ -22,7 +22,7 @@ look like this:
 
 >
 >  **alpharesx**: The `<alpharesx />` task is used to alphabetize
-> resource files (\*.resx) by resource ID. This is helpful in an
+> resource files (`*.resx`) by resource ID. This is helpful in an
 > environment where automated tools are used to merge resource file
 > contents (like the built-in merge facilities in many source control
 > products). Since many diff products don't do XML data differencing,
@@ -85,19 +85,20 @@ descriptions and examples. You can get the source to the tasks as well.
 If you find a bug, send me email or leave a comment and give me a way to
 reproduce the issue.
 
- [Download Paraesthesia.Tools.NAntTasks
-2.0.0.0](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45411&authkey=!ALMe903OOYTQhoU&ithint=file%2czip)
- [Download Paraesthesia.Tools.NAntTasks 2.0.0.0
-Source](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45410&authkey=!AM6wM4J2TLcyATY&ithint=file%2czip)
+[Download Paraesthesia.Tools.NAntTasks
+2.0.0](https://github.com/tillig/nant-tasks/releases/download/v2.0.0/Paraesthesia.Tools.NAntTasks_2.0.0.0.zip)
+
+[Download Paraesthesia.Tools.NAntTasks 2.0.0
+Source](https://github.com/tillig/nant-tasks/archive/v2.0.0.zip)
 
  **Version History:**
- 
- **1.0.0.0**: First release. Includes nunitexec task.
- 
- **1.1.0.0**: Added alpharesx, lintrelativepaths, and propertydelete.
- 
- **2.0.0.0**:
- 
+
+ **1.0.0**: First release. Includes nunitexec task.
+
+ **1.1.0**: Added alpharesx, lintrelativepaths, and propertydelete.
+
+ **2.0.0**:
+
 -   Updated to .NET 2.0.
 -   Updated to NAnt 0.86 beta 1.
 -   Fixed nunitexec task to no longer output the "framework" parameter.
