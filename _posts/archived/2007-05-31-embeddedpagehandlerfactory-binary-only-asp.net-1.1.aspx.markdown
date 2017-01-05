@@ -137,6 +137,7 @@ look in the temporary location.
 -   It's totally free and open-source. Do whatcha like.
 
 [Download EmbeddedPageHandlerFactory Compiled
-Assembly](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45413&authkey=!ABecYtDsPb2Lf48&ithint=file%2czip)
- [Download EmbeddedPageHandlerFactory
-Source](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45412&authkey=!AMY3tJyWNqJVjnE&ithint=file%2czip)
+Assembly](https://github.com/tillig/EmbeddedPageHandlerFactory/releases/download/v1.0.0/EmbeddedPageHandlerFactory.zip)
+
+[Download EmbeddedPageHandlerFactory
+Source](https://github.com/tillig/EmbeddedPageHandlerFactory/archive/v1.0.0.zip)
