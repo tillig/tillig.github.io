@@ -4,7 +4,7 @@ title: "Controlling NuGet Packaging Version with TeamCity Variables"
 date: 2013-01-18 -0800
 comments: true
 disqus_identifier: 1801
-tags: [net,gists,build]
+tags: [net,gists,build,teamcity]
 ---
 We use [TeamCity](http://www.jetbrains.com/teamcity/) as our build
 server and one of the cool things TeamCity has built in is the ability
