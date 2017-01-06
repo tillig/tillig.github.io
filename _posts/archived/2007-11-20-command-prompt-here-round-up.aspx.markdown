@@ -4,7 +4,7 @@ title: "&quot;Command Prompt Here&quot; Round-Up"
 date: 2007-11-20 -0800
 comments: true
 disqus_identifier: 1306
-tags: [vs,GeekSpeak,Software / Downloads]
+tags: [vs,downloads,windows]
 ---
 **NOTE: I'm no longer maintaining the Command Prompt Round-Up. Instead,
 [visit the Command Prompt Here

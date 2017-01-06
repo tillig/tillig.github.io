@@ -4,11 +4,11 @@ title: "DX_FormatOnSave - Format Documents in Visual Studio When You Save"
 date: 2010-04-13 -0800
 comments: true
 disqus_identifier: 1629
-tags: [vs,Software / Downloads]
+tags: [vs,downloads,coderush]
 ---
 Visual Studio allows you to specify different code formatting rules for
 different languages it understands, but in many cases the formatting
-only applies to new code you're writing. For example, C\# lines
+only applies to new code you're writing. For example, C# lines
 generally get formatted when you hit the end of the line and type the
 semicolon... but the only line that gets formatted is the one you just
 completed.

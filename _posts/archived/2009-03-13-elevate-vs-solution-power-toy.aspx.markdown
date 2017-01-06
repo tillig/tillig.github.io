@@ -4,7 +4,7 @@ title: "Elevate VS Solution Power Toy"
 date: 2009-03-13 -0800
 comments: true
 disqus_identifier: 1501
-tags: [GeekSpeak,Software / Downloads,vs]
+tags: [downloads,vs,windows]
 ---
 I found that being able to right-click a .sln file and open it as
 Administrator in Visual Studio is a huge help because I always open

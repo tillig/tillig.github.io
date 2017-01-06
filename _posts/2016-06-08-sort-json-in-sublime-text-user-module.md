@@ -3,7 +3,7 @@ layout: post
 title: "Sort JSON in Sublime Text (User Package)"
 date: 2016-06-08 -0800
 comments: true
-tags: [json,sublime]
+tags: [json,sublime,javascript,gists]
 description: "You might have JSBeautify running in Sublime, but can you sort your JSON objects? Now you can."
 ---
 I wanted to be able to not only _tidy_ my JSON objects, but also _sort by property_. I wanted to do this so I could unify my `project.json` and `config.json` files while working in .NET Core. Figuring out where people were adding keys, finding redundant things added to files, and so on... having a predictable order makes it all that much easier.

@@ -3,7 +3,7 @@ layout: post
 title: "XML Tidy in Sublime Text"
 date: 2015-03-12 -0800
 comments: true
-tags: [sublime,xml]
+tags: [sublime,xml,gists]
 ---
 I already have my [build scripts tidy up my XML configuration files](/archive/2012/06/22/format-configuration-files-on-build.aspx/) but sometimes I'm working on something outside the build and need to tidy up my XML.
 

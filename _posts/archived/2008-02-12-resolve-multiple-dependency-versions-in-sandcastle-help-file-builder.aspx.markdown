@@ -4,7 +4,7 @@ title: "Resolve Multiple Dependency Versions in Sandcastle Help File Builder"
 date: 2008-02-12 -0800
 comments: true
 disqus_identifier: 1349
-tags: [Software / Downloads,net]
+tags: [downloads,build,net]
 ---
 Anymore, if you want to generate documentation, you're using
 [Sandcastle](http://blogs.msdn.com/sandcastle/default.aspx) along with,

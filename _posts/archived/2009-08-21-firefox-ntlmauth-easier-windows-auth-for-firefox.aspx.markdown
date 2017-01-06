@@ -4,7 +4,7 @@ title: "Firefox NTLMAuth - Easier Windows Auth for Firefox"
 date: 2009-08-21 -0800
 comments: true
 disqus_identifier: 1560
-tags: [GeekSpeak,Software / Downloads]
+tags: [downloads,javascript]
 ---
 Most people don't realize it, but Firefox will do NTLM (Windows
 pass-through) authentication just like Internet Explorer. Some people

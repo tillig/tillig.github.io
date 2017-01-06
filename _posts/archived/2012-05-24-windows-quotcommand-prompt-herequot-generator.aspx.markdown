@@ -4,7 +4,7 @@ title: "Windows &quot;Command Prompt Here&quot; Generator"
 date: 2012-05-24 -0800
 comments: true
 disqus_identifier: 1782
-tags: [Web Development,vs,net,Software / Downloads]
+tags: [downloads,vs,net,powershell,windows]
 ---
 **I love context menu "command prompt here" shortcuts.** Every time a
 new VS version comes out, or a different prompt is available that I

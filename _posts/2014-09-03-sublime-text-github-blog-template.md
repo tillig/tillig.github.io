@@ -3,7 +3,7 @@ layout: post
 title: "Sublime Text Template for GitHub Blog Posts"
 date: 2014-09-03 -0800
 comments: true
-tags: [blog]
+tags: [blog,sublime,gists]
 ---
 Now that I've [moved to GitHub Pages for my blog]({% post_url 2014-08-22-moved-blog-to-github-pages %}) I find that I sometimes forget what all the YAML front matter should be for a blog entry so I end up copy/pasting.
 
