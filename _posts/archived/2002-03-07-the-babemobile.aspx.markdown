@@ -12,7 +12,7 @@ to the shop to [get the key scratch
 fixed](/archive/2002/03/04/punk-bitch-keyers.aspx) today. I'm not sure
 when it'll be done. I hope it will be soon, because instead of my car
 (which I love), I'm driving *The Babemobile*.
- 
+
  The Babemobile earned its name because that is precisely what it is
 *not*. It's a 1988(?) Plymouth Voyager. There are several issues with
 it:
@@ -34,14 +34,14 @@ it:
     and squeaks like a small herd of lab rats.
 
 
- 
+
  That's not a comprehensive list by any means, but you get the idea.
- 
+
  Anyway, all that totals up to is that I really just want my car back so
 we can donate this thing to the [Humane Society](http://www.hsus.org/)
-or something. Maybe that \$500 can feed some
+or something. Maybe that $500 can feed some
 [kitties](http://www.hsus.org/ace/13315) or something.
- 
+
  I suppose I shouldn't complain. If the van didn't exist, I'd be renting
 a car right now, which *costs money*. Free is [negligibly] better than
 not free.

@@ -42,7 +42,7 @@ good and overall just relaxed.
 [*Elf*](http://www.imdb.com/title/tt0319343/). That movie was *too
 funny*. I love [Will Ferrell](http://www.imdb.com/name/nm0002071/)
 anyway, but in this he was too much. I laughed totally hard and felt
-completely justified in spending my \$8 to see it. I'll be getting it
+completely justified in spending my $8 to see it. I'll be getting it
 when it comes out on DVD and will add it to my standard holiday
 rotation.
 

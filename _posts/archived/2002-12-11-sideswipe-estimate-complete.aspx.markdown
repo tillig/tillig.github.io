@@ -14,9 +14,9 @@ nicked on the rear driver's side panel, too) and let out a low whistle.
 I didn't find that a good sign. My tail light on the driver's side was
 also cracked.
 
- In the end, the repair cost tallied up to **\$1067.38**. Thank goodness
+ In the end, the repair cost tallied up to **$1067.38**. Thank goodness
 for insurance, is all I have to say. The tail light alone cost like
-\$200 to replace.
+$200 to replace.
 
  I'll take it in Monday to have them start work on it. I'll be getting a
 rental car, which is good. [Last time I had to get my car

@@ -36,7 +36,7 @@ wrong buttons.
 Evolution Pad](http://www.buynshop.com/productinfophp3/VG-DDR-MPD). It's
 a metal pad with the arcade dimensions (so it's bigger than the pad I
 currently have, I think), weighs 35 pounds (so it won't slide around)
-and is made of *metal* so it's durable. It also costs \$150, so I don't
+and is made of *metal* so it's durable. It also costs $150, so I don't
 think I'll be ordering one instantly, but it's something I'll be
 thinking about. DDR's a great workout and it's a lot of fun. I'd like to
 think that the only reason I don't play much lately is that I get

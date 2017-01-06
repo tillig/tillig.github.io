@@ -34,7 +34,7 @@ tragic. But it's *over now* and it's *time to move on*. Watching a
 "feature" story on the news about "how America's coping since September
 11th" every month is not helping. Maybe that's just me.
 
- I guess some idiot stole like \$12,000 worth of [Cirque du
+ I guess some idiot stole like $12,000 worth of [Cirque du
 Soleil](http://www.cirquedusoleil.com) costumes a couple of days ago
 from their tent here in Portland. That's just wonderful promotion for
 the arts, right there. I don't know this person, but I think I hate

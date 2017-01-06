@@ -40,7 +40,7 @@ site](http://www.mccall.com/) be *any slower*?), but no luck.
 costume](http://www.badplanet.com/asp/items.asp?I=5375&R=) from
 [BadPlanet.com](http://www.badplanet.com) that is under the "Officially
 Licensed Disney" section, but... "one size fits most" sort of rules it
-out for tall, long-armed folks. \$49 isn't a bad price, though. (They
+out for tall, long-armed folks. $49 isn't a bad price, though. (They
 also have an [Alice
 costume](http://www.badplanet.com/asp/items.asp?I=5373&R=), by the way.
 Did I not tell you Alice is a hottie?) I'm not big on the satin thing,

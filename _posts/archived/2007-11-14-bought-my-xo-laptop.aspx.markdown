@@ -12,8 +12,8 @@ program.](https://hyqi8g.dm2302.livefilestore.com/y2puULua-ySfbyc3Ny_j6zFLqcALHI
 ["Give One, Get One"
 program](http://www.laptopgiving.org/en/give-one-get-one.php) going on
 where you buy two of these little XO laptops and one comes to your
-house, one gets donated to a child in a developing country.  It's \$400,
-and \$200 of that is tax-deductible (the cost of the laptop that gets
+house, one gets donated to a child in a developing country.  It's $400,
+and $200 of that is tax-deductible (the cost of the laptop that gets
 sent to the developing country).  The rest goes toward the laptop that
 hits your hot little hands.  (Ostensibly to give to a child in your
 life, but for me it's more likely a toy to hack.)

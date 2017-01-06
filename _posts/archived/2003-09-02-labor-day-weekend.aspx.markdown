@@ -100,7 +100,7 @@ episode and turned in.
 
  Speaking of *Xena*, when you buy the DVD box set of the episodes, you
 get a little coin. Each season has a coin that goes with it. You can
-order a "free" (with \$5 shipping) coin display holder thing to put the
+order a "free" (with $5 shipping) coin display holder thing to put the
 coins in. You have the option of calling a toll-free number or sending
 your check in the mail. I wanted to make sure my info was received, so
 this morning I called.
@@ -114,7 +114,7 @@ swords, for the next 45 minutes. Seriously. Every time I told her no, or
 that I'd call her back later for stuff, she would make a last plea for
 that item to be bought and then move on to give me the "next special
 offer." I got the *Hercules* coin holder just to shut her up (an
-additional whopping \$5), but she was worse than a Kinney Shoes
+additional whopping $5), but she was worse than a Kinney Shoes
 salesman. Fuckin' vultures. Terrible. Next time I know to just mail the
 damn check and hope for the best.
 

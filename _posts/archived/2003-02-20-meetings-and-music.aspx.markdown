@@ -39,8 +39,8 @@ Wherehouse charges *too damn much*. I appreciate that they maintain a
 brick-and-mortar shop so they can't very well lower prices enough to
 beat online stores, but in many cases I can find albums for which The
 Wherehouse will charge 50% more than other brick-and-mortar shops. I
-mean, starting price over there was like \$17 for a new CD. That's
-crazy! I can get that same disc for \$12 online, or maybe \$14 at some
+mean, starting price over there was like $17 for a new CD. That's
+crazy! I can get that same disc for $12 online, or maybe $14 at some
 other store. Forget it.
 
  That said, they do have a decent used section, so that's where I
@@ -70,7 +70,7 @@ someone's house for a party and everyone's walking around with wine
 glasses and the entire house is decorated like a [Pottery
 Barn](http://www.potterybarn.com/) catalog? You ever listen to the music
 playing on the ultra-high-fidelity low-profile stereo? It's Simply Red.
-I just felt like picking that up for the bargain price of \$8.99.
+I just felt like picking that up for the bargain price of $8.99.
 
  Most people don't know who Michael Penn is. Besides the fact that he's
 [Sean Penn's](http://us.imdb.com/Name?Penn,+Sean) younger brother, he
@@ -84,9 +84,9 @@ put out a song around 1989 called "No Myth" with a chorus that goes:
 
 The thing is, I think it was a pretty popular song, but no one ever
 knows who sang it. Anyway, I found the album that it's on (which is hard
-to find as it is unless you order it online) and got it for *\$1.48*.
+to find as it is unless you order it online) and got it for *$1.48*.
 Can't beat that. I'm still making my way through the other songs on
-there, but I figured, even if they all suck, that's \$1.48 for a single
+there, but I figured, even if they all suck, that's $1.48 for a single
 to a song that rocks. I can handle that.
 
  (By the way, I had to [look up who Heathcliff
@@ -96,4 +96,4 @@ Heights*](http://www.amazon.com/exec/obidos/ASIN/0553212583/mhsvortex).
 Never had to read that, don't think I'm going to now.)
 
  So I got out of The Wherehouse with two albums for a grand total of
-\$10.47. Can't beat that, can ya?
+$10.47. Can't beat that, can ya?

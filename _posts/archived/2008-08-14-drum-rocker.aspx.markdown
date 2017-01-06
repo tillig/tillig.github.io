@@ -25,6 +25,6 @@ the noise the standard drums generate plus the sometimes questionable
 accuracy plus the fact that I've always wanted a drum kit... sort of
 sounds like it adds up to this.
 
-I damn near clicked that pre-order button just now. Just the \$300 price
+I damn near clicked that pre-order button just now. Just the $300 price
 tag stopped me. It may not stop me for long.
 

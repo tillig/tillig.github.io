@@ -390,7 +390,7 @@ rounded everywhere and reminds me of those safety scissors you get when
 you're in kindergarten. If this car is safety scissors, my car is a
 stiletto. I like my car. I hate this one.
 
- That said, it's only going to cost me \$22/day for the thing, and since
+ That said, it's only going to cost me $22/day for the thing, and since
 it's not covered by insurance, that's about right for my budget. I'll be
 giving it back on Friday - not a day too soon - so for the money, I
 guess I'm getting what I'm paying for.
@@ -433,12 +433,12 @@ stuff anyway.
  *2:50p*
 
  Just got a call from Progressive. The minor scratches on my bumper?
-\$634.62 in damage. I'm loving my \$250 deductible right about now. It's
+$634.62 in damage. I'm loving my $250 deductible right about now. It's
 amazing the cost of car repair. I mean, sure, it's a lot of work, but I
 watch Discovery Channel's [*American
 Chopper*](http://dsc.discovery.com/fansites/amchopper/amchopper.html),
 I've seen how this stuff works, and I am pretty sure I saw the extent of
-my damage... \$600 is a bit on the high side, but, well, I guess that's
+my damage... $600 is a bit on the high side, but, well, I guess that's
 why I pay insurance.
 
 

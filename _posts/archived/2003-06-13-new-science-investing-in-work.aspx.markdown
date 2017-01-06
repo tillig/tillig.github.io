@@ -35,7 +35,7 @@ to the value of your WORK stock. Kind of like the idea of
 [whuffie](http://www.craphound.com/down/), but based on how much people
 value the work you do.
 
- I figure if I bought 100 shares of WORK at \$1 in the morning, I'd be a
+ I figure if I bought 100 shares of WORK at $1 in the morning, I'd be a
 millionaire by 5:00p.
 
  Then again, I could name you off a few people who'd be dead broke, too.

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 127
 tags: [tv,gaming,playstation]
 ---
-Yesterday started out great but long about 4:00p turned into the *\$2
+Yesterday started out great but long about 4:00p turned into the *$2
 sucky-sucky*.
 
  I've been getting up early lately since Jenn's gone back to school to
@@ -21,7 +21,7 @@ controllers. There wasn't anything *functionally wrong* with them, but
 the pad that sat on top of the left analog stick wasn't glued down
 anymore and would spin around while you moved the stick. I can't handle
 that. It doesn't bug Jenn, but my thumb just seems to slip off if that's
-the case. So I traded in the two controllers for a total of \$18 of
+the case. So I traded in the two controllers for a total of $18 of
 store credit. That's a good portion of the cost of a used game, so I
 started looking at those. I narrowed the decision down to [Dynasty
 Warriors 3](http://www.amazon.com/exec/obidos/ASIN/B00005RL4E/mhsvortex)

@@ -17,11 +17,11 @@ is officially gone. Enter the locksmith.
 
  I called one of those 24-hour places just to price stuff out. Turned
 out I had two options - either I could have them come to my place and
-make a key for the display case at a cost of \$85 - \$125, or I could
-take the display case to them and they could make a key for \$25 -
-\$35.
+make a key for the display case at a cost of $85 - $125, or I could
+take the display case to them and they could make a key for $25 -
+$35.
 
- No way was I paying \$85+ for a new damn key. But it was also equally
+ No way was I paying $85+ for a new damn key. But it was also equally
 unlikely that I could get the display case down to the locksmith shop.
 
  Some ginger work with a screwdriver and some pliers, and one of the
@@ -30,7 +30,7 @@ in its original shape.
 
  I took the lock into the [locksmith's
 shop](http://www.yellowpages-ads.com/01233384) this morning. Ten minutes
-and \$17 later, I had two keys that worked *better than the originals*.
+and $17 later, I had two keys that worked *better than the originals*.
 (Of course, I could have bought new locks for *cheaper* than it cost me
 to get a new keys made, but that would mean I'd have to pry the display
 case apart... nah.)

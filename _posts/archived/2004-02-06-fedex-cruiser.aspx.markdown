@@ -36,6 +36,6 @@ tails of it. I'm running a test on the new copy I got now - it's already
 gotten farther than the last copy.
 
  Can anyone tell me why ginger ale is always so expensive at the store?
-Every other 2-liter product on the market can be on sale for \$1, but
-the ginger ale is always like \$2.50. Why is that? Is the demand so high
+Every other 2-liter product on the market can be on sale for $1, but
+the ginger ale is always like $2.50. Why is that? Is the demand so high
 that it never needs to go on sale? Bah.

@@ -167,9 +167,9 @@ Philip Churchill has [a great writeup of various online backup solutions
 for Windows Home
 Server](http://mswhs.com/2007/06/25/online-offsite-whs-backup-solutions/).
 I wanted to stick with Mozy, but they require you to get a Mozy Pro
-account to back up your Home Server, which costs \$0.50/GB per month...
-and with 110GB of music alone, that's \$55/month to back up something I
-can back up for \$50/year from my laptop. Disqualified. I also
+account to back up your Home Server, which costs $0.50/GB per month...
+and with 110GB of music alone, that's $55/month to back up something I
+can back up for $50/year from my laptop. Disqualified. I also
 considered [Carbonite](http://www.carbonite.com/) but really wanted
 something that's officially supported, and while they say it should
 work, they won't support you backing up Windows Home Server. I'm also
@@ -179,7 +179,7 @@ work](http://trevinchow.com/blog/2008/02/12/mozy-to-carbonite-oh-no-you-dont/)
 simplicity. I'm not eager to break that. Disqualified.
 
 In the end, I picked [KeepVault](http://www.keepvault.com). It's
-\$100/year for unlimited storage and has [a really nice Windows Home
+$100/year for unlimited storage and has [a really nice Windows Home
 Server add-in](http://www.keepvault.com/tour_2_whs.htm) so you can see
 your backup status and do restores right from the console. You tell it
 which shares you want to keep backed up and it does the rest. The only

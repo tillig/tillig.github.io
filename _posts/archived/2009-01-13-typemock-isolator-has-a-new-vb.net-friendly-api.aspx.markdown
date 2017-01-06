@@ -35,7 +35,7 @@ just let them say it?
 >
 > Note that the first 25 bloggers who blog this text in their blog and
 > tell us about it, will get a **Free Full Isolator license** (worth
-> \$139). If you post this in a **VB.NET dedicated blog**, you'll get a
+> $139). If you post this in a **VB.NET dedicated blog**, you'll get a
 > license automatically (even if more than 25 submit) during the first
 > week of this announcement.
 >

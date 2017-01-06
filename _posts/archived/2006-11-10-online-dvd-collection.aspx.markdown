@@ -12,11 +12,11 @@ of the DVDs I have. It's nice to have an easy to browse catalog, and
 it's great to print off periodic reports for insurance purposes. Plus
 there's an ad-supported free version that does pretty much everything
 you want it to do.
- 
- I've had it for a while and dig it, so I registered it for the \$30.
+
+ I've had it for a while and dig it, so I registered it for the $30.
 It's a one-time thing with no upgrade cost, so I figured what the heck -
 I use it and like it, right?
- 
+
  Registering allows you to upload your DVD collection to their site.
 [Now you can see which movies I
 have](http://www.intervocative.com/dvdcollection.aspx/tillig), and I can

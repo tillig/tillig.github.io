@@ -10,7 +10,7 @@ I picked up the [*American Idol Greatest
 Moments*](http://www.amazon.com/exec/obidos/ASIN/B00006JL4I/mhsvortex)
 CD this morning after my allergy shots and I'm reasonably pleased.
 Besides the fact that [Fred Meyer](http://www.fredmeyer.com) had it on
-sale for \$12.97, it's got some pretty good stuff on it. But I do have a
+sale for $12.97, it's got some pretty good stuff on it. But I do have a
 tiny gripe.
 
  The music itself seems somehow... underprocessed. Or something. Have
@@ -18,7 +18,7 @@ you ever heard a low-budget Christian album? Or maybe someone singing a
 song along with the demo on a [Casio
 keyboard](http://www.casio.com/musicalinstruments/)? The songs sound
 like that. Like the music in the background is slightly overproduced
-while the singer got a \$10 microphone and a maximum of two takes in the
+while the singer got a $10 microphone and a maximum of two takes in the
 studio. Maybe the mixing is off or something. But it's bugging me like
 nobody's business.
 

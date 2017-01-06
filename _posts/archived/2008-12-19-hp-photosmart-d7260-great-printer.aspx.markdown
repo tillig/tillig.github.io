@@ -19,7 +19,7 @@ D7260](http://ecx.images-amazon.com/images/I/41kwMgVQG9L._SL500_AA280_.jpg)](htt
 the printer, I ended up getting an [HP Photosmart
 D7260](http://www.amazon.com/gp/product/B000SNNIQM?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000SNNIQM).
 
-The quality on it is amazing, just like the C7280 was, but for \$70
+The quality on it is amazing, just like the C7280 was, but for $70
 cheaper and with a better LCD screen on it. The D7260 can connect
 directly to your network over ethernet, which is how I have it hooked
 up, and it lets me sit in the living room with the laptop and print

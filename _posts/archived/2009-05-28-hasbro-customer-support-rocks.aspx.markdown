@@ -19,8 +19,8 @@ parts order
 forms](http://www.hasbro.com/customer-service/replacement_parts.cfm), so
 I ordered a new set of pegs (in case it was actually the pegs that were
 too small) and a new set of grids (in case the grid holes were too big).
-I figured, like \$7 total to fix the thing would be worth it since it
-was a \$40 game anyway.
+I figured, like $7 total to fix the thing would be worth it since it
+was a $40 game anyway.
 
 I got the parts and the pegs didn't fit into the grid holes any better,
 so I figured it was definitely the grids. I looked at the replacement

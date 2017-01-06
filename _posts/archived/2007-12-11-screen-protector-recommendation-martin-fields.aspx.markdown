@@ -20,7 +20,7 @@ They're not too expensive, either.  At the time of this writing, both
 PSP](http://www.martinfields.com/US/dis_product.asp?model=sonypsp&modeln=PSP%20(black/white/pink)&prod_type=screen)
 and [the iPod
 Classic](http://www.martinfields.com/US/dis_product.asp?model=iPod_Classic&modeln=Classic&prod_type=screen)
-protectors are \$12.99.
+protectors are $12.99.
 
 Interestingly, I always forget the name of the place, then I go research
 whenever I get a new device and end up getting one of these.  I figured

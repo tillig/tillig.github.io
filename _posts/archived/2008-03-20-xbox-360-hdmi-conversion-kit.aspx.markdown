@@ -22,7 +22,7 @@ you'd get from the Elite.
 I saw this bad boy the other day in the [Buy
 More](http://www.buy-more.net/) and thought it looked interesting, so I
 mentioned it to my dad, who is also interested in stuff like this. It's
-\$90 so it's a little more expensive than an impulse buy.
+$90 so it's a little more expensive than an impulse buy.
 
 Dad promptly went out and bought it and says it is awesome. He says he
 and my mom both can see a very obvious visual difference from using the

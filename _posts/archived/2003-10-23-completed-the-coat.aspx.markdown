@@ -30,7 +30,7 @@ Figure out how to drive in it.
 
  I saw that the [*Indiana Jones* trilogy is out on
 DVD](http://www.amazon.com/exec/obidos/ASIN/B00003CXC5/mhsvortex). I've
-got a \$10 off coupon for it at Costco; I'll have to go this weekend and
+got a $10 off coupon for it at Costco; I'll have to go this weekend and
 pick it up.
 
  I'm really digging [iTunes](http://www.apple.com/itunes/) for Windows.

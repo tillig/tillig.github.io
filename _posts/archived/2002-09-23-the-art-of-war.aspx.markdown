@@ -68,11 +68,11 @@ asses.)
 
  That actually worked out for the best because Saturday we were in
 Hollywood Video and I found these coupons for "20% off any used game"
-and "\$2 additional trade-in value on any game" at Game Crazy. Hell,
+and "$2 additional trade-in value on any game" at Game Crazy. Hell,
 yeah. I went in today, traded in [*The Adventures of Cookie and
 Cream*](http://www.amazon.com/exec/obidos/ASIN/B00005B70U/mhsvortex) for
-\$8 plus the \$2 coupon (for a total of \$10), and, with the 20% off
-coupon, I got *Virtua Fighter 4* for \$4. Not too shabby.
+$8 plus the $2 coupon (for a total of $10), and, with the 20% off
+coupon, I got *Virtua Fighter 4* for $4. Not too shabby.
 
  Why did I trade in *Cookie and Cream*? Poor planning, I think.
 

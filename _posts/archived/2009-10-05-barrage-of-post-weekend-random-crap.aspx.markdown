@@ -42,7 +42,7 @@ all those good scores, noted above) so maybe that fixed it.
 
 Now that I've typed that out, I've jinxed it, but still.
 
-I picked up a Rubik's Cube this weekend with this \$5 Target gift card
+I picked up a Rubik's Cube this weekend with this $5 Target gift card
 that was burning a hole in my pocket. I got the guts up this morning to
 mix it up. We'll see how long it takes me to figure it out. Haven't ever
 solved a Rubik's Cube before so we'll see.

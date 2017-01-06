@@ -24,12 +24,12 @@ neighbors' car, which would be altogether *too enriching* for the lives
 of my readers. I like that.
 
  I got my Amazon Associates kickback gift certificate in email - a
-whopping \$11.05 this quarter, mostly generated from me ordering things
+whopping $11.05 this quarter, mostly generated from me ordering things
 through my own damn site *thank you very much* - and I do have to say
 that free money in the mail is never frowned upon in my household. Rock
 on.
 
- Of course, I promptly used that \$11.05 while pre-ordering [*Alias:
+ Of course, I promptly used that $11.05 while pre-ordering [*Alias:
 Season 2*](http://www.amazon.com/exec/obidos/ASIN/B0000ALF8I/mhsvortex)
 and [*Angel: Season
 2*](http://www.amazon.com/exec/obidos/ASIN/B00008YGRT/mhsvortex), both

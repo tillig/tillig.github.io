@@ -19,7 +19,7 @@ is *the playing of the game*.
 check out [this product from
 Avon](http://shop.avon.com/avonshop/product.asp?pf_id=3870&department=search&find_spec=atari).
 10 classic Atari games, all packed into an Atari joystick that plugs
-right into your TV! And *only \$20!!!*
+right into your TV! And *only $20!!!*
 
  I may have to get one of these.
 

@@ -16,7 +16,7 @@ switch](http://www.intermatic.com/Default.asp?action=prod&pid=9232&did=3&cid=43&
 for the house that turns the exterior lights on and off. We wanted it
 timed so we wouldn't have to have someone watching the house. Home Depot
 had two models - one was this sort of bulky-looking analog deal, and one
-was this slick, clean digital one. For \$1 extra, we bought the slick
+was this slick, clean digital one. For $1 extra, we bought the slick
 digital one.
 
  I'm not a big handyman around the house, but aside from some fairly

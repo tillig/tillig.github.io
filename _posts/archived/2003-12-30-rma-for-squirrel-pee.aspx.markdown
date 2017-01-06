@@ -22,7 +22,7 @@ Haze](https://hyqi8g.blu.livefilestore.com/y2pbSMf3YGi_PjXEmmlGdLrhWdlYURLoWtwn9
  I've also been working on staining a wooden shelf that I bought at the
 craft store the other day. I thought that buying a raw shelf and then
 staining it myself would be a money-saver, but if time is money, then
-I've wasted about \$2000 on this thing already. Woodworking projects,
+I've wasted about $2000 on this thing already. Woodworking projects,
 including staining and painting, are generally bad ideas if you live in
 an apartment without a garage. I need to remember that.
 

@@ -65,6 +65,6 @@ are originally filmed in IMAX don't have this problem because the
 filming accounts for the curvature.)
 
  All in all, I liked it, and recommend seeing it. Maybe at matinee
-prices, or rental - it wasn't \$10-a-seat-in-a-regular-theater worthy,
+prices, or rental - it wasn't $10-a-seat-in-a-regular-theater worthy,
 but if you get a chance to check it out on IMAX, do it. Pretty cool
 stuff.

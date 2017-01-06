@@ -54,7 +54,7 @@ sort of hard to tell where the restaurant ended and the reunion began.
 
  I tracked down the "organizer" (since I have known her for years I did
 recognize her) to get my refund (enough people responded that I only had
-to pay \$25 per person instead of \$35 per person). It was good to see
+to pay $25 per person instead of $35 per person). It was good to see
 her - she looked drastically different, though good - and I said hi as I
 got my money back from her.
 

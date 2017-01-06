@@ -20,10 +20,10 @@ Burninator*](http://www.homestarrunner.com/sbemail58.html).
 
  So that's over. They're auctioning off props and costumes from the show
 at [BuffyAuction.com](http://www.buffyauction.com), but I think that
-paying upwards of \$600 for a faux potted flower that had a cameo
+paying upwards of $600 for a faux potted flower that had a cameo
 appearance in an episode is a little much, so I won't be getting
 anything from there. I'd have liked to have gotten a costume or
-something, but the costumes are selling for \$1500 and over, so no go
+something, but the costumes are selling for $1500 and over, so no go
 there. Some people have too much money on their hands.
 
  Speaking of auctions, I won an [eBay](http://www.ebay.com) auction for

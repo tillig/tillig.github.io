@@ -12,19 +12,19 @@ since she's spent the most time with me and has spelled things out in an
 easy-to-understand fashion. Beth has been tough to get ahold of. That
 said, I'm actually meeting Beth in person later today so she can go over
 her Good Faith Estimate with me.
- 
+
  Yesterday I got a Good Faith Estimate from Ann, and it's looking pretty
 decent. If I go that route, I only have to come up with the appraisal
-(\$300) and credit report (\$18) fees up front; everything else goes
+($300) and credit report ($18) fees up front; everything else goes
 into closing costs.
- 
+
  (That's how you compare brokers - you get Good Faith Estimates with the
 same loan types and parameters and then you can see how their closing
 costs and fees stack up. I'm thinking if Beth beats Ann's numbers, I'm
 going to contact Ann to see if she'll meet or beat Beth's estimate. I
 have to keep in mind, though, that it *is* only an estimate, not a
 quote. The big part is going to be locking in a loan rate.)
- 
+
  I learned from her that there are two ways brokers can bill fees
 (generally): They either list them separately or bundle them together in
 one big fee. Apparently, if you see one broker list "administration
@@ -38,7 +38,7 @@ determination, etc.) make up your closing costs. I'm going to have to
 find out how negotiable that stuff is; basically, that seems to me like
 it's just money I'm paying them for the courtesy of getting me a loan
 that they'll already be making money on.
- 
+
  Yesterday I also contacted Gregory, a realtor I was recommended by a
 friend of mine, Colin. I told Gregory all of the things I wanted in a
 house, and after about two hours he called me back and said he was going

@@ -35,7 +35,7 @@ etc., than it does to straight up junk.)
  Anyway, I used to have a silver Pez gun. I wish I still did. I just
 looked them up on eBay, and for a gun like that, loose (not on the card
 or with packaging), in good condition (not as good as I had my Pez gun
-in), you can get between \$125 and \$200.
+in), you can get between $125 and $200.
 
  I will not *even* get into how much money my other toys would be worth.
 I had lots of good stuff. No *Star Wars* stuff, mind you, but lots of

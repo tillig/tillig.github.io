@@ -126,7 +126,7 @@ really remember exactly when. This time, though, the show had lost its
 magic. She didn't have the repoire with the audience she had with *Under
 The Pink* and, honestly, I was bored because the songs all started to
 sound the same. I promised myself I wouldn't go see her again because it
-was a waste of \$40. But I didn't give up on her music; I thought she
+was a waste of $40. But I didn't give up on her music; I thought she
 still had some promise.
 
  Then I get *Strange Little Girls*. This should have been called *Bad

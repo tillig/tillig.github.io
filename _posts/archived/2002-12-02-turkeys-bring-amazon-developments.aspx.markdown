@@ -93,11 +93,11 @@ change.
  This morning brought some interesting news: The Amazon.com people have
 finally received their own taste of [my
 irritation](/archive/2002/11/22/amazon-irritation.aspx). While shopping
-there on Friday, I found that I had like \$100 worth of gift
+there on Friday, I found that I had like $100 worth of gift
 certificates on my account. Hey, no problem for me! I did my shopping
 and it all came out of the gift certificates. Well, they finally got
 around to looking at my account in the depth I wanted them to, and they
-realize that they owe me \$11 and that they miscredited me \$120 on my
+realize that they owe me $11 and that they miscredited me $120 on my
 account. They further asked for me to authorize them to charge my card
 for the amount of my order. Interesting how they want immediate action
 when the shoe's on the other foot, isn't it?

@@ -33,9 +33,9 @@ desk offered to print my airplane boarding pass for me when I checked
 out. Both times. No charge. It's a little thing, but so nice and
 convenient it definitely makes a difference. **The Paris Las Vegas
 insists you use either their business office** or one of the myriad
-internet kiosks they have around so they can charge you \$5. Is \$5 a
+internet kiosks they have around so they can charge you $5. Is $5 a
 huge amount? No, but then, it's just two pieces of stupid paper. Do they
-really need to nickel-and-dime me for \$5? It's the little things like
+really need to nickel-and-dime me for $5? It's the little things like
 that which make a "good" hotel into a "great" hotel. I talked to the
 front desk about that and "that's the policy." Needless to say, I filed
 a complaint about that. I'll update this entry if I hear something back,
@@ -59,23 +59,23 @@ then.
  **Bellhop**: I won't be here at 5:00 when you come back.
  **Travis**: Uh... [*thinking: So what? I just need to... OH. He's
 asking for a tip. Wow, that's a little forward.*] Right. Um...
-[*thinking: All I have is a \$20 bill. I'm not giving this guy \$20 to
+[*thinking: All I have is a $20 bill. I'm not giving this guy $20 to
 check two carry-on bags.*] Can I get some change?
  **Bellhop**: I can give you change.
- **Travis**: OK, I need change for \$20. [hands the bellhop the \$20
+ **Travis**: OK, I need change for $20. [hands the bellhop the $20
 bill]
- **Bellhop**: [*hands me two \$5 bills and stops*] How much did you
+ **Bellhop**: [*hands me two $5 bills and stops*] How much did you
 need?
- **Travis**: [*thinking: What? You seriously think I'm giving you \$10
-to hold two stupid carry-on bags? Seriously?*] Um, \$18. [*thinking: \$2
+ **Travis**: [*thinking: What? You seriously think I'm giving you $10
+to hold two stupid carry-on bags? Seriously?*] Um, $18. [*thinking: $2
 is way more than enough for you, asshole, considering I'm going to also
 have to tip the guy I pick this up from.*]
- **Bellhop**: [*glaring at me*] \$18?
+ **Bellhop**: [*glaring at me*] $18?
  **Travis**: [*thinking: You know what, shithead? Why not give me all
-\$20 back and take a different tip - don't be an asshole. I don't owe
+$20 back and take a different tip - don't be an asshole. I don't owe
 you shit. You're a fucking bellhop. You get paid to take my God damn
-bags. Take them and shut the fuck up.*] Yes, \$18. [*taking the last
-\$8*] Thanks.
+bags. Take them and shut the fuck up.*] Yes, $18. [*taking the last
+$8*] Thanks.
 
 Now, I know it's a tip-oriented culture down there, but this guy was
 pretty demanding and blunt about the whole thing.

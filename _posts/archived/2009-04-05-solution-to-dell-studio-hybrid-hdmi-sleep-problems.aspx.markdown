@@ -56,7 +56,7 @@ I updated all the drivers, no luck. I messed around with different
 driver settings, no luck. After searching around, I found several
 workarounds.
 
-**What worked for me**: I bought a little \$20 HDMI switchbox [based on
+**What worked for me**: I bought a little $20 HDMI switchbox [based on
 this blog entry here](http://www.edbott.com/weblog/?p=2480). Putting
 that between the TV and the PC seems to have cleared up my signal loss
 issue.

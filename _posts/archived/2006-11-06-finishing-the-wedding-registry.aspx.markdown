@@ -14,17 +14,17 @@ items for the wedding, but three dishes and a couple of bowls really
 didn't equal "complete dish set," so we finished out the 12-person place
 setting list we had put together (minus the platter and serving bowl).
 It was a little on the spendy side (I think we came out with a total of
-around \$830) but we had a lot of Macy's gift cards to contribute to
+around $830) but we had a lot of Macy's gift cards to contribute to
 that so it wasn't that much out of pocket. Thanks to all the folks who
 got us dishes and Macy's gift cards - you are contributing to the "Stop
 Eating on Mom's Hand-Me-Down 1970's Corelle-ware" cause.
- 
+
  Actually, I like [the new
 plates](http://www1.macys.com/catalog/product/index.ognc?ID=111027&PseudoMasterProdID=111108)
 a *lot*. Enough that I'm almost scared to eat on them. They're microwave
 and dishwasher safe, but... well, I've never had nice plates. It's a new
 thing.
- 
+
  While we were at Macy's, Jenn picked up a new outfit and I started
 thinking maybe I need some new stuff. You know, change it up a little.
 I'm not sure what I want, but while I like a casual dress look, it's not
@@ -39,7 +39,7 @@ skater she can handle. So I'm not sure what I'm going to do. I just know
 I'm not a chain wallet guy (even though I secretly want to be) and
 [Stu](http://www.stuartthompson.net) is a golf hat guy (even though he
 really doesn't want to be).
- 
+
  Speaking of Stu, he came over on Sunday and we put in our final units
 against
 [*Oblivion*](http://www.amazon.com/exec/obidos/ASIN/B000GE7O9K/mhsvortex),
@@ -48,7 +48,7 @@ at just under 61 hours. My dad bought that game and hasn't even started
 yet. I'm pretty sure he'll never get it finished. Anyway, now that we're
 done with *Oblivion* we'll have to look for a new game to put in units
 on.
- 
+
  Saw that [*Contra* is coming to Xbox Live Arcade on
 Wednesday](http://gamerscoreblog.com/team/archive/2006/11/06/538730.aspx),
 so I'm pretty stoked about that. I remember playing that when I was a
@@ -58,7 +58,7 @@ out](http://gamerscoreblog.com/team/archive/2006/11/06/538734.aspx) that
 I might have to check out. Not really sure how well *Missile Command*
 will translate without that roller-ball controller it had in the arcade,
 but I'll give it a run.
- 
+
 [![image](https://hyqi8g.dm2303.livefilestore.com/y2p_PR67jQMrHaRfFCJCKQ0djxN2fkKgYgG7W5TPYJS3meA7nWp36dOzqKxgvTRhR2wsCQDfIfyYTeBzIwKqdacAtmR66IWgdHEnSZtKGmMKqQ/20061106uno.jpg?psid=1)](http://www.xbox.com/en-US/games/u/unolivearcadexbox360/default.htm)I've
 become an [Xbox Live
 *Uno*](http://www.xbox.com/en-US/games/u/unolivearcadexbox360/default.htm)
@@ -71,7 +71,7 @@ level ground - you don't pop into the game to get your ass kicked by the
 all day than practice the game and yell profanity at you while shooting
 you dead. Jenn's liking *Uno*, too, and has doubled her friends list
 since starting. It's a load of fun.
- 
+
  *Uno* has the [Xbox Live Vision
 Camera](http://www.amazon.com/exec/obidos/ASIN/B000GCGB3M/mhsvortex)
 enabled in it so you can see who you're playing with online (if they

@@ -35,7 +35,7 @@ small to solder yourself, so I started looking for spare parts.
  Good luck finding spare parts for a 20 year old turntable.
 
  I *did*, however, find the same model turntable that a guy was selling
-online for \$55 (which is a real bargain if you've ever priced
+online for $55 (which is a real bargain if you've ever priced
 turntables). I decided to buy it since that way I'll have spare parts
 for the *next time* this thing goes dead.
 

@@ -30,7 +30,7 @@ was great!”) and some of the titles I’ve been subscribing to seem to
 have jumped the shark, so I’ve been trimming up the list. I’ve canceled
 *Witchblade*, *The Darkness*, and all of my *Buffy the Vampire Slayer*
 titles. I’ve been in on those from the beginning, but the stories are
-feeling played out and stale, and at \$3 – \$5 a pop, I can find other
+feeling played out and stale, and at $3 – $5 a pop, I can find other
 titles. I’m trying out a couple of new ones like *Ten Grand*, and I’m
 keeping *Daredevil*, *Powers*, and the myriad *Grimm Fairy Tales*
 titles.

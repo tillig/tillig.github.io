@@ -86,13 +86,13 @@ answer them.
     popular belief, I do *not* have any credit problems or any
     difficulties in planning out my budget to make ends meet. But, since
     you asked, it broke down like this:
-     \$2835 - Sony KV40XBR800 TV, with stand
-     \$200 - Magnolia Four-Year Performance Guarantee
-     \$47 - Middle-tier component video cables
-     **\$3082 - TOTAL**
+     $2835 - Sony KV40XBR800 TV, with stand
+     $200 - Magnolia Four-Year Performance Guarantee
+     $47 - Middle-tier component video cables
+     **$3082 - TOTAL**
 2.  **Q: Why would you spend that much on a TV?**
      A: I like TV. I like my PS2. I like DVDs. Maybe you just bought a
-    computer for \$3000. Maybe you just bought a car stereo for \$3000.
+    computer for $3000. Maybe you just bought a car stereo for $3000.
     I bought a TV. I like TV.
 3.  **Q: Why wouldn't you just buy a rear projection TV like everyone
     else?**

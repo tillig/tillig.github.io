@@ -23,7 +23,7 @@ my TV is digital connection (a shared input that can be HDMI, DVI, or
 VGA), so now I have to go get the Xbox 360 VGA cable and swap the inputs
 - Xbox 360 for cable box.
 
- Oh, did I mention that's a \$75 custom-made DVI cable out the door? And
+ Oh, did I mention that's a $75 custom-made DVI cable out the door? And
 all of my cables are totally custom wrapped and organized, so all of it
 has to be torn up so I can put in new/different cables? Thanks, Comcast.
 Even with the free month you're giving us, it doesn't make up for the

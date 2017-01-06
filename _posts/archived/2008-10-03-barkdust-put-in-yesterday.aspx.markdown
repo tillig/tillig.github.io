@@ -15,7 +15,7 @@ it's always a pain to get it scheduled for the next time. This time,
 I'll blog it - so I can find it again later!
 
 We got **one unit of medium fresh fir**, which is enough to cover all
-the beds we have. It cost \$295 this year, up from \$215 three years
+the beds we have. It cost $295 this year, up from $215 three years
 ago. (Price of gas, I guess.)
 
 We used [**Grimm's Advanced Bark

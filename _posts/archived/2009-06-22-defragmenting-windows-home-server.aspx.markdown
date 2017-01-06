@@ -25,10 +25,10 @@ Served](http://www.wegotserved.com/2009/02/03/head-to-head-diskeeper-2009-home-s
 The end result? It's a tie - they are comparable products.
 
 **I ended up choosing PerfectDisk** based on the price point. It
-costs just over half of what Diskeeper costs (\$50 vs. \$80) and I found
+costs just over half of what Diskeeper costs ($50 vs. $80) and I found
 this coupon code (*SUMMERFUN20* - expires June 30) [over at Philip
 Churchill's site](http://mswhs.com/2009/06/18/defrag-whs-and-save-10/)
-that got me \$10 off that so I've got WHS defrag for \$40. Can't beat
+that got me $10 off that so I've got WHS defrag for $40. Can't beat
 that.
 
 UPDATE 1/26/2010: I noticed after about a couple of weeks of PerfectDisk

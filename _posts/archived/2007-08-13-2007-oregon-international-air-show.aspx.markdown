@@ -59,7 +59,7 @@ Now, I'm glad that they pulled off the road rather than trying to drive
 and watch at the same time.  (We passed a totalled car that was pretty
 obviously the result of the driver trying to watch and drive at the same
 time.)  But I feel pretty strongly that if you're going to watch the
-show, maybe you should go pay your \$20 and *support the show*.  I
+show, maybe you should go pay your $20 and *support the show*.  I
 realize it sounds sort of hypocritical considering I parked my butt out
 on my front porch, but then, the airport has a noise easement over my
 house for this sort of thing, so I kind of feel like my property taxes

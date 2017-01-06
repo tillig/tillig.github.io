@@ -25,7 +25,7 @@ admission.
 
 We took full advantage of the [Las Vegas
 Monorail](http://www.lvmonorail.com/), even having a stop right at our
-hotel.  If you head down there, you'll find the \$9 day ticket well
+hotel.  If you head down there, you'll find the $9 day ticket well
 worth the money.  Of course, that didn't stop us from walking our asses
 off and getting all grumpy because of the overall pain of
 one-foot-in-front-of-the-other.  At the end of the second day, we were
@@ -42,7 +42,7 @@ While we were down at that end of the strip, we stopped in at [The
 Sahara](http://www.saharavegas.com/) and rode "[Speed: The
 Ride](http://www.nascarcafelasvegas.com/speed.php)."  It's a roller
 coaster only 40 seconds long, but it's a hell of a 40 seconds and worth
-the \$10 to ride.  Jenn, Dad, and I rode that and got off the train all
+the $10 to ride.  Jenn, Dad, and I rode that and got off the train all
 weak-legged and wobbly.  Good times.
 
 After all was said and done, we got back home safe and sound, ready for

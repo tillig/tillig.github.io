@@ -8,7 +8,7 @@ tags: [hockey,movies]
 ---
 I called the [Portland Winter Hawks](http://www.winterhawks.com) office
 this morning and paid for the remaining balance on my two front-row
-season tickets. \$468 each! Unbelieveable. I suppose I'd be really
+season tickets. $468 each! Unbelieveable. I suppose I'd be really
 hurting if they were NHL tickets. Oh, well. Jenn and I have a ton of fun
 at the Hawks games, so it's worth it. Besides, it keeps me out of
 trouble. I think.

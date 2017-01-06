@@ -12,7 +12,7 @@ night. After fighting through 1067 odd pages and reaching the
 conclusion, I feel pretty cheated. I'm of a mind to write Mr. Clancy and
 tell him that if he wants me to work that hard to get through a book, he
 really needs to make the payoff worthwhile. As it is, I'm having a tough
-time justifying the \$6.98 bargain table price on that one.
+time justifying the $6.98 bargain table price on that one.
 
  I was [thinking a couple of days
 ago](/archive/2003/07/01/post-lunch-update.aspx) about friends moving in

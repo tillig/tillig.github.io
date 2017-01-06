@@ -14,7 +14,7 @@ coordinated. But we'll blame the pad for my shortcomings and move on.)
  To that end, I think I need to get a [metal dance
 pad](http://www.buynshop.com/productinfo/44/VG-DDR-MPD/). Arcade feel,
 no slipping around (which is the biggest problem I have with the soft
-pad)... might be a good thing. Costs \$139 plus shipping, but I'd wager
+pad)... might be a good thing. Costs $139 plus shipping, but I'd wager
 if you're going to actually PLAY the game, this is probably the way to
 go.
 

@@ -52,7 +52,7 @@ play session goes more like this for us:
 > get you!
 
 At this point, I grab this giant stuffed shark we bought at Ikea for
-\$15. It's the best \$15 I've ever spent. Phoenix wrestles this shark
+$15. It's the best $15 I've ever spent. Phoenix wrestles this shark
 and screams and runs and then comes back to wrestle it some more. I
 attack her with the shark, and she screams and giggles.
 

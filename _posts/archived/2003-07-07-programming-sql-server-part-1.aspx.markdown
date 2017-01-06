@@ -34,7 +34,7 @@ to do that. I hope I do well.
 
  This is the last SQL Server class I've got scheduled, so I'm going to
 try to get the self-test software, study up a bit, and [schedule the
-test](http://www.prometric.com/). I only get reimbursed the \$125 for
+test](http://www.prometric.com/). I only get reimbursed the $125 for
 the test if I pass... I'd best pass.
 
  Thank God they're multiple choice tests.

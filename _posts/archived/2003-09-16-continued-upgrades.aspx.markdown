@@ -41,6 +41,6 @@ and I'm looking forward to getting it. So my pen is getting upgraded
 and ordered [my new dining room
 table](http://www.searshomecenter.com/homecenter/prod_display1.asp?PRODUCT=33497).
 I had found it at a different site, but then at the last minute I saw it
-on the Sears web site, for \$55 cheaper. Can't beat that. So my dining
+on the Sears web site, for $55 cheaper. Can't beat that. So my dining
 room is getting an upgrade. Of course, that's not going to be here until
 October 13 or so. Shipping. Bah.

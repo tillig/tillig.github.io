@@ -43,7 +43,7 @@ so I didn't get a chance to say hi.
  Around 9:45p they opened the club up to the general public, and while I
 planned on staying, the way they did it was by locking different
 sections down so if you left the section you couldn't get back in, and
-drinks started costing upwards of \$10 for a \$5 drink. Thanks, but no
+drinks started costing upwards of $10 for a $5 drink. Thanks, but no
 thanks. Hanselman left, I left, and several other folks left (though I
 got a [Twitter](http://www.twitter.com) from Haack at 2:30a saying he
 was just then leaving).

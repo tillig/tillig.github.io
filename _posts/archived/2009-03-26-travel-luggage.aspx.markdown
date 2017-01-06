@@ -48,7 +48,7 @@ you're not carting that around, right?
 
 To that end, I got some recommendations for various backpacks (lots of
 folks like the [Spire](http://www.spireusa.com/products/ME6.htm) series)
-but I didn't want to spend another \$200 on a backpack. This \$30 model
+but I didn't want to spend another $200 on a backpack. This $30 model
 I found at Costco has all the same stuff - a padded area for your
 computer, looooots of pockets, fully adjustable straps... it was
 perfect. I wore that thing for three days with no problems at all. If

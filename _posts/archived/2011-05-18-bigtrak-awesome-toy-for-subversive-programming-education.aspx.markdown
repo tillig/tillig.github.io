@@ -35,8 +35,8 @@ The one I had as a kid was sort of a behemoth. The new version is
 ThinkGeek.](http://www.dpbolvw.net/click-4317610-10746449?url=http%3A%2F%2Fwww.thinkgeek.com%2Fgeektoys%2Frc%2Fde2e%2F%3Fref%3Dc&cjsku=8DE2E)
 I picked one up and got a couple of guys at work hooked, too. My
 daughter's not old enough for this yet, but... I'll keep it handy for
-her. They're normally \$40 but right now (as I write this) they're on
-sale for \$25. If you're looking for a pretty cool gift for a kid that
+her. They're normally $40 but right now (as I write this) they're on
+sale for $25. If you're looking for a pretty cool gift for a kid that
 will teach them something, I totally recommend picking one of these up.
 They're pretty sweet.
 

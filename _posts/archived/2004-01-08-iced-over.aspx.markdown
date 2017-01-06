@@ -16,27 +16,27 @@ establish is seriously *killing me*. I used to justify not getting a
 cable modem because we never got online at home due to our computer
 being too slow. Now that I've got a faster computer we seem to be on it
 (and online) a lot more often.
- 
+
  In fact, I just finished with an IM chat with my boss (and good friend,
 [Greg](http://www.greghughes.net)) who provided a few helpful
 recommendations, and I just bought me a [Linksys WRT54G Wireless-G
 Router](http://www.amazon.com/exec/obidos/ASIN/B00007KDVI/mhsvortex) so
 I can network the cable modem service when I get it. He knows how to do
 that (and secure it) and will help me out. Plus, at Amazon it was like
-\$17 cheaper than everywhere else, *and* had an additional \$10 rebate.
+$17 cheaper than everywhere else, *and* had an additional $10 rebate.
 Ordering it through my own site, I will get a 5% kickback on my own
 purchase, and using my Yahoo! Visa card, I'll get 1% back there. So,
 like, a great deal. Now all I have to do is call
 [Comcast](http://www.comcast.com).
- 
+
  Jenn is stuck at home today, too, which really sucks since she's not
 getting paid and can't work from home. No good a-tall.
- 
+
  I'm starting to get stir-crazy. I haven't been outside the apartment in
 three days and I need to *go somewhere*. I don't know how my
 grandparents do it - just sitting around their apartment day after day,
 never really going anywhere or doing anything.
- 
+
  In other sort-of-work-related-news, I've almost finished writing a web
 part for [SharePoint Portal Server 2003 and/or Windows SharePoint
 Services](http://www.microsoft.com/sharepoint/) that will allow users to
@@ -49,11 +49,11 @@ workspace](http://www.gotdotnet.com/community/workspaces/) for it and
 release the source code. Maybe let the open source thing do a little
 work for me - have people contribute to it or at least provide ideas for
 enhancements. Might be fun.
- 
+
  Now that I'm thinking about it, I should probably split it off into its
 own assembly. (I have other web parts in the same assembly right now.)
 If that doesn't make any sense to you, don't worry about it.
- 
+
  Reading over what I've written so far, I realize that this is the sort
 of thing that goes through my head a lot of the time - how to program or
 configure things, how to solve problems in code, etc. - and that further
@@ -65,7 +65,7 @@ ramblings. Huh. Maybe I should start a second blog for my geekiness, or
 at least add a new category like "Geek Moments" or something where I can
 blast out crap that folks other than me don't care about. Something to
 chew on.
- 
+
  In the meantime, I should probably get to work. I've gotta write some
 documentation for my RSS Reader web part and ping Microsoft Developer
 Support for some code they're supposed to have provided me but didn't.

@@ -7,7 +7,7 @@ disqus_identifier: 302
 tags: [net,personal]
 ---
 I'm still a little panicky about my certification tests. I know I sound
-like a broken record, but at \$125 a pop, pass or fail, it's pretty
+like a broken record, but at $125 a pop, pass or fail, it's pretty
 important that I pass the first time.
 
  I went to the bookstore to check out some books in a series called

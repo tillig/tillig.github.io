@@ -45,13 +45,13 @@ A guy came out of the back and we went through the whole
 aisle, but he went much faster, emulating "purpose." After visiting each
 of the three aisles a couple of times, we finally ended in the middle
 aisle where, lo and behold, they had not one but *two* models available
-- a digital (\$50) and an analog (\$15).
+- a digital ($50) and an analog ($15).
 
 "What's the difference between these two models?" I asked.
 
 Two blank faces. "Um..."
 
-"You know what? \$15. Done." I bought the analog meter (which, by the
+"You know what? $15. Done." I bought the analog meter (which, by the
 way, worked perfectly for my purposes) and that was that.
 
 Thing is, if I was looking for something more technical than a sound

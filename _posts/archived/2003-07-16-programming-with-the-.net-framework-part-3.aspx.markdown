@@ -76,7 +76,7 @@ back into your config file.
 
  [Check this
 out](http://babelfish.altavista.com/babelfish/urltrurl?lp=ja_en&url=http%3A%2F%2Fwww.watch.impress.co.jp%2Fakiba%2Fhotline%2F20030719%2Fetc_et128m.html)
-- 128MB USB drive for \$37, and it's smaller than other USB drives. I
+- 128MB USB drive for $37, and it's smaller than other USB drives. I
 may have to splurge on this.
 
  *11:56a*

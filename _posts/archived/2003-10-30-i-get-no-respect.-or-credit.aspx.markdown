@@ -29,7 +29,7 @@ because there's a hockey game tomorrow night and we won't have time.
  The company all-hands quarterly meeting happened today. Among other
 things during the meeting, they recognize certain individuals who give
 an outstanding effort towards the betterment of the company. Recognized
-people get a \$50 gift certificate to a local restaurant (or wherever
+people get a $50 gift certificate to a local restaurant (or wherever
 they happen to get certificates from this quarter). After they
 recognized several engineers who helped out with different efforts, the
 VP of marketing got up there and said he had one person he'd like to
@@ -66,8 +66,8 @@ recognition, though.
  Our department, Corporate IT, got recognized very briefly for "all the
 good work we do keeping things together" and we're going to get to go to
 lunch at a "reasonable place." Cool. So they recognize this other guy
-for accomplishments he didn't even do and he gets \$50, and our
-department gets recognized *en masse* and gets a \$7.50 lunch. Sounds
+for accomplishments he didn't even do and he gets $50, and our
+department gets recognized *en masse* and gets a $7.50 lunch. Sounds
 fair to me. What do you guys think?
 
  Anyway, I'd be lying if I said I wasn't stewing over this one. I'd like

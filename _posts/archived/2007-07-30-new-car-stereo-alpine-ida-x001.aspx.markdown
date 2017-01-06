@@ -38,10 +38,10 @@ plugin for Windows Media Player.
 It also has the ability to plug into a bajillion external devices and
 control them - Bluetooth, XM Radio, HD Radio... it seems like it can
 control just about anything.  Only downside is that each of the boxes
-that you have to get to enable these features run around the \$200 -
-\$250 range.  So, like, if I want to control my phone through Bluetooth,
-I have to buy a \$220 box.  If I want to listen to HD Radio, that's
-another \$250.  You get the idea.  They really get you coming and going
+that you have to get to enable these features run around the $200 -
+$250 range.  So, like, if I want to control my phone through Bluetooth,
+I have to buy a $220 box.  If I want to listen to HD Radio, that's
+another $250.  You get the idea.  They really get you coming and going
 on that stuff, but I can't really complain - the modularity of the thing
 makes it such that you only really have to buy the bits you want and
 ignore the stuff you don't.  I'd consider getting the Bluetooth box, for

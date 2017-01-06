@@ -99,5 +99,5 @@ case, I'd say Bond has outdone himself. I could easily compare this to
 other action/intrigue movies and feel pleased about it. If only they
 could come up with Bond movies this well done all the time.
 
- Anyway, I'd say see this on the big screen. I'd pay the full \$7.50 for
+ Anyway, I'd say see this on the big screen. I'd pay the full $7.50 for
 it - it's well worth the watch.

@@ -49,9 +49,9 @@ with my parents' stuff, and came up with actually quite a decent sized
 sale. We ran it until around 3:00p. My mom was sort of disappointed with
 the turnout for it; I guess more people usually show up. We choose to
 blame it on Oktoberfest - too many people out eating wienerschnitzel and
-not enough garage saling. Oh well. I came out \$41.15 ahead and a lot
-lighter on the junk, Jenn got \$9.00 and didn't get rid of as much junk.
-My parents did all right with somewhere around \$285 of garage sale
+not enough garage saling. Oh well. I came out $41.15 ahead and a lot
+lighter on the junk, Jenn got $9.00 and didn't get rid of as much junk.
+My parents did all right with somewhere around $285 of garage sale
 proceeds. I wonder what it would have been like if we had a better
 turnout.
 
@@ -90,7 +90,7 @@ those, but I haven't gotten around to it, mostly due to price. They're
 so *exorbitantly expensive!* But they had a pretty decent deal on a
 Panasonic 42" one, so I got motivated to research them since this Friday
 is employee double-discount day and I could potentially get 20% off the
-*already low* \$5500 price tag.
+*already low* $5500 price tag.
 
  After researching the sets, though, they don't look like they're all I
 thought they were cracked up to be. Most are just monitors, which means

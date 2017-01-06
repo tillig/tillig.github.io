@@ -27,9 +27,9 @@ seeing it, and I think Jenn was pretty excited, too. But I say
 
  Here's how it went down: I signed up for a contest to get a free movie
 pass to see the movie. I got the pass. Jenn and I met up at home around
-6:00p and we were downtown, parked (for *\$5*, no less, because God
+6:00p and we were downtown, parked (for *$5*, no less, because God
 forbid they have the preview at a theater with a parking lot; of course,
-my logic was that the movie was free, so \$5 for parking was no biggie),
+my logic was that the movie was free, so $5 for parking was no biggie),
 and in the theater by 6:15p. The movie was set to start at 7:00p.
 
  We got in line and there were, oh, 100 people in line, give or take,

@@ -15,9 +15,9 @@ Friend](http://live.xbox.com/member/jbat1). I realize I'm like a week
 late and several dollars short on this, but I have to hand it to
 Microsoft - they did a pretty snazzy job getting the network thing set
 up. I don't anticipate I'll be entering into any online tournaments, but
-just so I can play against folks I know I'll probably chip in the \$50 a
+just so I can play against folks I know I'll probably chip in the $50 a
 year for the Gold.
- 
+
  I noticed that Xbox 360 shows your wireless controller battery level on
 the dashboard and mine's already getting low. It's looking like you can
 get about 12 hours or so of play from a set of double-A batteries. (I
@@ -36,7 +36,7 @@ track in [*Project Gotham Racing
 3*](http://www.amazon.com/exec/obidos/ASIN/B000B6ML28/mhsvortex). (I
 totally suck at that game. I think I might have beaten one or two things
 on "normal" mode, but the rest? Easy mode, baby.)
- 
+
  I [joined Jenn up to Xbox Live](http://live.xbox.com/member/Jennlady),
 too, at the Silver level, so she can go buy little games and stuff from
 the Xbox Live Marketplace. She's addicted to those damn [Pop Cap

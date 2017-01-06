@@ -351,7 +351,7 @@ hungry now and pretty bored.
 
  I went out to the [Car Toys](http://www.cartoys.com) web site to get
 general pricing estimates and it looks like for a new deck, changer,
-amp, and a couple of subwoofers, it'll cost me around \$1200. I'll
+amp, and a couple of subwoofers, it'll cost me around $1200. I'll
 probably need some custom installation, though, so that'll be extra.
 
  Put that on the list of "things to get when I have money to spend
@@ -387,17 +387,17 @@ and when I look back at the code I see where things are happening.
 
  For those not in the know, a "transaction" is when you have a series of
 things that have to either all succeed or they all fail. For example,
-say you request \$100 be transferred from your savings account to your
-checking account. Two things happen - you withdraw \$100 from your
-savings account and you deposit \$100 to your checking account. If I try
-to withdraw the \$100 from your savings account and you don't have
-\$100, the transaction fails - nothing is deposited, and the money in
+say you request $100 be transferred from your savings account to your
+checking account. Two things happen - you withdraw $100 from your
+savings account and you deposit $100 to your checking account. If I try
+to withdraw the $100 from your savings account and you don't have
+$100, the transaction fails - nothing is deposited, and the money in
 your savings account is left alone. If you DO have the money in your
-savings account, but your checking account is frozen, then the \$100
+savings account, but your checking account is frozen, then the $100
 can't be deposited... but you don't want to lose it, so the transaction
 has to be "rolled back" so the money can be put back in your savings
 account. If everything works properly, then the transaction is
-"committed" and the \$100 will be debited from savings and credited to
+"committed" and the $100 will be debited from savings and credited to
 checking.
 
  Anyway, we're learning how to do that inside programs, and the code and
@@ -695,8 +695,8 @@ just me or if these chairs just really suck.
 stimulant addict. This early morning shit is killing me. Killing me, I
 tell you!
 
- Oh, I figured it out and I have like \$6 in my checking account. That's
-just fucking great. Good thing I have that \$20 in my wallet or I
+ Oh, I figured it out and I have like $6 in my checking account. That's
+just fucking great. Good thing I have that $20 in my wallet or I
 wouldn't be eating lunch. I *so* can't wait until Jenn gets a paying
 job. My salary was not made to support two people. At least, not with
 the lifestyle I lead (or would like to). As it is, I'm not really buying
@@ -704,7 +704,7 @@ anything (not the way I once was) and I'm *still* dipping into savings
 every month to make ends meet.
 
  Maybe those hockey tickets this year just aren't going to work out. I'd
-hate to lose our seats, but that's \$400 - per seat - I don't have right
+hate to lose our seats, but that's $400 - per seat - I don't have right
 now.
 
  *10:42a*
@@ -786,15 +786,15 @@ good for example code, but it doesn't make logical sense in some cases.
 the web, then there's a Windows program that allows administrative users
 to approve or deny orders for processing. The idea they're trying to
 illustrate in the completed app is that only managers can approve orders
-over \$1000 (which shows us security principles), that orders placed for
+over $1000 (which shows us security principles), that orders placed for
 items that are not currently in stock need to be ordered (which shows us
 instantaneous/synchronous messaging) and that completed/approved orders
 need to be pushed into the Accounting database for billing purposes
 (which shows delayed/asynchronous messaging).
 
  The logic in the app, though, basically was saying "If we need to order
-offsite, do it. Now, is the order over \$1000? If so, are you a manager?
-If it's over \$1000 and you're not a manager - SORRY! Otherwise, all's
+offsite, do it. Now, is the order over $1000? If so, are you a manager?
+If it's over $1000 and you're not a manager - SORRY! Otherwise, all's
 well, go ahead and approve the order." From the security standpoint, the
 order is wrong. It should check to see if you have rights to approve
 FIRST, then it should do the order offsite, then the order is completed

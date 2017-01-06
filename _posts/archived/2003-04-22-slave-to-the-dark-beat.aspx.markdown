@@ -62,7 +62,7 @@ effort to push all of our shit around while eating and running up to the
 theater.
 
  We got to the theater entrance at which point I had to throw my food
-out to get in. I spent \$5.50 on McNuggets and got to eat fucking
+out to get in. I spent $5.50 on McNuggets and got to eat fucking
 *four*. But to my chagrin, there was still more coming...
 
  I got in, and Jenn got stopped at the door. Being stopped at the door,
@@ -113,8 +113,8 @@ aboard the [Portland Spirit](http://www.portlandspirit.com/). Jenn was
 tasked to chaperone, so I sort of "got" to go, too.
 
  We got there and there were probably 200 or so people ready to go on
-this thing. At something like \$12 a head, that's a pretty hefty sum of
-money raised, especially considering they only paid \$800 to rent the
+this thing. At something like $12 a head, that's a pretty hefty sum of
+money raised, especially considering they only paid $800 to rent the
 boat.
 
  Anyway, I'm standing there, scanning the crowd, and as I'm looking at
@@ -345,7 +345,7 @@ me back on the freeway. \*sigh\* What an ordeal.
  Thursday was pretty much uneventful. Kristen and I attended lectures,
 then when the whole thing was said and done we went over to the
 Microsoft Company Store and bought some trinkets. I got a wireless
-optical mouse for \$30, which is a pretty good deal if I do say so
+optical mouse for $30, which is a pretty good deal if I do say so
 myself, and a couple of shirts. Kristen bought some pens and a copy of
 Visio (or was it Project?). I dropped her off at her car and started the
 long drive home.

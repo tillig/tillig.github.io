@@ -13,7 +13,7 @@ or something. It also makes me realize I have no idea how to work with
 materials of pretty much any substance. To that end, I've always thought
 about learning how to vacuum form plastic. There's [a great site I
 found](http://www.vacuumformerplans.blogspot.com/) on creating a cheap
-(\<\$50) vacuum former you can use at home. Might make some of these
+(\<$50) vacuum former you can use at home. Might make some of these
 crafts achievable. There's [a great walkthrough on Instructables for
 it](http://www.instructables.com/id/Make-a-good%2c-cheap%2c-upgradeable-sheet-plastic-vacu/)
 (by the same guy). Here's the vacuum former in action:

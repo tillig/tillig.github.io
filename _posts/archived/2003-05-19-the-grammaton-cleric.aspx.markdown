@@ -35,7 +35,7 @@ it still wouldn't start up again. How irritating is that?
 better) model of Dremel tool for a reasonable price. After going to
 several stores I discovered that you really can't buy *just* the Dremel
 tool; you have to buy it in a "kit" with attachments. The cheapest kit I
-found with the tool I wanted was \$50 at Home Depot, but they didn't
+found with the tool I wanted was $50 at Home Depot, but they didn't
 have it in stock.
 
  So I bought it [online](http://www.homedepot.com).

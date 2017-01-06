@@ -87,8 +87,8 @@ resulted in having to repaint the entire bathroom.
 
 All of the patching and retexturing and painting and everything was
 another hour or two each night for a week. Two weeks, many hours, and
-around \$100... and we're back to square one. **Maybe I could have just
-handed someone \$100 to come over and kick me in the nuts and we could
+around $100... and we're back to square one. **Maybe I could have just
+handed someone $100 to come over and kick me in the nuts and we could
 have called it a day.**
 
 What this boils down to is: **Call *The Guy***.
@@ -106,7 +106,7 @@ right. Oh, and look over there, in the middle of the back porch there's
 a river rock the size of a baseball. How the heck did that get there?
 (Putting two and two together, I'm guessing someone threw it, so I'm
 glad it just hit my screen door and not the glass, *but still*.) So now
-I have to get a new screen door (\$45) which is not a huge deal except
+I have to get a new screen door ($45) which is not a huge deal except
 that I can't actually fit a screen door into my car, so I have to get
 some help trucking that home. It's never simple.
 

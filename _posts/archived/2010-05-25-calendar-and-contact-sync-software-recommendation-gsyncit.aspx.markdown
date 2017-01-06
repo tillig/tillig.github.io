@@ -100,7 +100,7 @@ unclear answer about design problems or something.
 Anyway, I reported all of these issues over four months ago and have had
 no resolution on any of them. I can't really turn on two-way
 synchronization if neither calendar nor contact sync actually works.
-There goes \$25.
+There goes $25.
 
 **Failure 3:**[**Google Calendar
 Sync**](http://www.google.com/support/calendar/bin/answer.py?hl=en&answer=89955)
@@ -184,5 +184,5 @@ do is look at the debug/error log, but it's not straightforward.
 
 Anyway, if you're looking for sync software, [check out
 gSyncit](http://www.daveswebsite.com/software/gsync/). I really like it,
-and for \$15 (at the time of this writing), you can't really beat it.
+and for $15 (at the time of this writing), you can't really beat it.
 

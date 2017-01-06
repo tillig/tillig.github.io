@@ -25,7 +25,7 @@ decent - about halfway back.
 The only real problem was the rain. Between, say, 5:00p and 7:15p it was
 raining like a torrential downpour, so Jenn and I were sitting on these
 little lawn chairs we brought, huddled under a blue plastic tarp,
-sucking down a \$25 pizza and a \$6 drink. Not a big deal since the
+sucking down a $25 pizza and a $6 drink. Not a big deal since the
 opening band, [The 88](http://www.the88.net/), was okay... but not
 awesome. (It reminded us a little of [the Paul and Storm song "Opening
 Band."](http://www.paulandstorm.com/lyrics/opening-band))

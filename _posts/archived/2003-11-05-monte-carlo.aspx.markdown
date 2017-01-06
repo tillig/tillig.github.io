@@ -50,7 +50,7 @@ was sharking me at bowling, though, because he'd bowl two or three
 gutterballs, then get like six strikes in a row. Huh.
 
  They had a Monte Carlo bowling thing going for a while, too, and I won
-\$25. Not bad for an afternoon at work, eh?
+$25. Not bad for an afternoon at work, eh?
 
  My average ended up around the 130 range and my high was 180. Can't
 complain about that, except today my wrist is a little sore and my left

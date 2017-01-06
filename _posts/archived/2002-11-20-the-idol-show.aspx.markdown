@@ -36,7 +36,7 @@ great rendition of Fleetwood Mac's *Rhiannon*. Watching her there made
 me realize why she was my original favorite at the start of the show.
 
  Anyway, it was a blast, and well worth the money. Also, the merchandise
-was affordable - \$15 for a t-shirt rather than the typical \$40 you see
+was affordable - $15 for a t-shirt rather than the typical $40 you see
 at concerts nowadays. I got a program and Jenn got a shirt.
 
  Something else that was nice about the concert: When we went, we got

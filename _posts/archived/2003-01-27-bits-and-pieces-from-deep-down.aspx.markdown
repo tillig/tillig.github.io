@@ -64,7 +64,7 @@ good time with it and loved the performance from [Cedric the
 Entertainer](http://us.imdb.com/Name?Cedric+the+Entertainer).
 
  On Saturday we went down to one of those storage places and got a 5'x5'
-closet for \$40/month. So far we've been able to move the bed out of the
+closet for $40/month. So far we've been able to move the bed out of the
 spare bedroom and several boxes of unused items into the closet. I'm
 really excited to be able to reclaim a little space around our
 apartment. I'm really feeling cramped and exceptionally frustrated with
@@ -83,6 +83,6 @@ I'm sort of interested in... maybe it's time?)
 
  My parents are thinking of going to Hawaii at the end of this summer.
 We were invited to go along, but it's looking like it'll cost around
-\$2000 to go for a week (for both Jenn and I). That's a little rich for
+$2000 to go for a week (for both Jenn and I). That's a little rich for
 my blood, so it's not looking like it's going to happen. Maybe I should
 look at the higher paying job after all...?

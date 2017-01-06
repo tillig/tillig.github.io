@@ -39,7 +39,7 @@ front room.  All put together, it's got a really nice lounge sort of
 feel to it, and it's nice to get some furniture in that room.  We've
 been in the house for a few years now and have been looking for the
 right stuff.  I think a key factor here was price - we got all that for
-less than \$750.  Not bad.
+less than $750.  Not bad.
 
 Of course, less than 24 hours went by before Jenn's cat peed on the
 ottoman and the rug.  Maybe the low cost paid off.  (As far as I can

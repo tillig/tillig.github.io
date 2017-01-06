@@ -18,7 +18,7 @@ pistol.
 Day](http://www.sysadminday.com/).
 
  And let me say that I have the *coolest boss ever*, because he got me a
-\$50 gift certificate to [ThinkGeek](http://www.thinkgeek.com) in honor
+$50 gift certificate to [ThinkGeek](http://www.thinkgeek.com) in honor
 of said day.
 
  So I clicked over to my [ThinkGeek Wish
@@ -35,7 +35,7 @@ in here.
 
  I still haven't decided what I should get with the money from the
 [other fridge](/archive/2002/07/24/the-cue.aspx). I figure I've got
-about \$80 to work with, so I could get lots of small things - DVDs,
+about $80 to work with, so I could get lots of small things - DVDs,
 CDs, etc. - or I could get one big thing. I'm leaning towards one big
 thing. But what? Options include...
 -   [Ottawa Senators home

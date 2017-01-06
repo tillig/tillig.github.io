@@ -48,7 +48,7 @@ wiped out by a single person.
 and feeling like we got ripped off. Except for the "Milla Factor" (she
 was hot - the whole time, Milla was *just hot*), I want my money back.
 
- Skip this one, folks, lest you feel duped out of your \$7.50. Instead,
+ Skip this one, folks, lest you feel duped out of your $7.50. Instead,
 go buy a copy of
 [**Equilibrium**](http://www.amazon.com/exec/obidos/ASIN/B00005JLWN/mhsvortex)
 and soak up what **UltraViolet** could have been.

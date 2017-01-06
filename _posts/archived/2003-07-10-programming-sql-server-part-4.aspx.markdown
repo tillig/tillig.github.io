@@ -33,7 +33,7 @@ work on some of the labwork from the [Programming
 Windows](/archive/2003/06/23/windows-apps-part-1.aspx) class I took a
 while back.
 
- I ordered, for \$3.75 shipping, the [BMWFilms
+ I ordered, for $3.75 shipping, the [BMWFilms
 DVD](http://usa.bmwfilms.com/clap.asp?template=dvdlanding&country=usa&film=).
 Good stuff there. If you haven't seen the films, check them out.
 

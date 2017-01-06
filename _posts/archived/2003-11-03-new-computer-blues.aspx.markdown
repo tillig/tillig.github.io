@@ -27,8 +27,8 @@ showed up. I was taking the money and I couldn't keep up with it! It
 didn't help that my parents didn't have half of the stuff marked.
 
  When all was said and done there, I got rid of a bunch of crap and
-raked in around \$20. Not the most colossal haul ever, but it's more
-room in my apartment and \$20 I didn't have before. Maybe I can buy,
+raked in around $20. Not the most colossal haul ever, but it's more
+room in my apartment and $20 I didn't have before. Maybe I can buy,
 like, a Coke at the hockey game.
 
  Saturday night I went to a Halloween party over at my friends Jason and
@@ -74,14 +74,14 @@ controller](http://www.scsi4me.com/?menu=menu_scsi&pid=265&display=LSI22902.htm)
 drive](http://www.westerndigital.com/en/products/products.asp?DriveID=60)
 so I have loads of space to store all of my media files and documents.
 Why didn't I get another internal drive? Only enough room for one drive
-in the low profile box. I got it for \$200 after rebate, though, and
+in the low profile box. I got it for $200 after rebate, though, and
 that's not too bad considering the price of 160GB drives and the price
 of external drive enclosures. It even comes with different faceplates so
 you can customize the colors and stuff on it.
 
  Today I ordered an [external USB 2.0 DVD+/-RW/CD-RW drive from Best
 Buy](http://www.bestbuy.com/site/olspage.jsp?j=1&id=1055388009751&skuId=5551495&type=product&productCategoryId=cat01041).
-\$200 after mail-in rebate and I'm good to go. That should be here in
+$200 after mail-in rebate and I'm good to go. That should be here in
 the next couple of weeks.
 
  I'm kinda digging this whole low-profile-and-external-drive-combo

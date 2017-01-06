@@ -33,7 +33,7 @@ I chose this one for a few reasons:
     too into the way it handled messaging.
 -   I wanted to try something a little different than I was used to -
     break out of my little Windows Mobile world.
--   The BlackBerry plan was \$15/month cheaper than the corresponding
+-   The BlackBerry plan was $15/month cheaper than the corresponding
     Windows Mobile or Palm device plan. Go figure.
 
 So far I like it, but there are some things I wish someone told me while
@@ -94,14 +94,14 @@ things smooth:**
 -   **Get the unlimited data plan for your phone.** I shouldn't even
     have to say this, but once you start playing with BlackBerry, you're
     going to get pounded on data charges if you don't just pony up the
-    extra \$10/month or whatever for unlimited data. Plus, this way you
+    extra $10/month or whatever for unlimited data. Plus, this way you
     can let your email and such constantly check and alert you when
     there are new messages. Isn't that the point?
 -   **Talk to your carrier about GPS options.** It turns out that
     Verizon locks the GPS down on these things so it only works with
     their proprietary
     [VZNavigator](http://www.verizonwireless.com/b2c/splash/turnbyturn.jsp)
-    app (which is an additional \$10/month). It's not a bad app, but I
+    app (which is an additional $10/month). It's not a bad app, but I
     don't have any other options - even mobile Google Maps can't detect
     it because the signal's blocked. If you're going to use the GPS,
     find out if there are any restrictions.

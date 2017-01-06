@@ -74,11 +74,11 @@ they just suck it up and eat the costs.
 **Pricing on Kindle books is odd.** Sometimes they're really
 competitive, like [*The Hunger
 Games*](http://www.amazon.com/dp/B002MQYOFW?tag=mhsvortex) being only
-\$5 on Kindle, but \$9 in paperback - Kindle version's about half price.
+$5 on Kindle, but $9 in paperback - Kindle version's about half price.
 Other times, you wonder about the cost, like [*Catching
 Fire*](http://www.amazon.com/dp/B003O86FMW?tag=mhsvortex) (the sequel to
-The Hunger Games) being \$8.52 on Kindle but \$8.97 in hardcover - the
-electronic version costs only \$0.45 less than a hardcover physical
+The Hunger Games) being $8.52 on Kindle but $8.97 in hardcover - the
+electronic version costs only $0.45 less than a hardcover physical
 book? One would think if I'm not taking up the resources of the printing
 process, the savings could be passed along to me.
 

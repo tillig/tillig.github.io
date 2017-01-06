@@ -26,7 +26,7 @@ figured I'd expand on it a bit and give a better walkthrough.
     are trying this in version 2 or earlier, I can't guarantee it works.
 -   As of version 3, playlists are a paid feature in Asset UPnP. If you
     want to do this, you need to register your copy of Asset for, at the
-    time of this article, \$26. I've definitely gotten my \$26 worth of
+    time of this article, $26. I've definitely gotten my $26 worth of
     use out of it, so it was a no-brainer for me.
 
 Now...

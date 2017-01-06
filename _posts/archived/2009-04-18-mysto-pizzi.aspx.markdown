@@ -29,7 +29,7 @@ And, like I said, free. Can't beat that.
 Slightly off topic, but sort of not - I've noticed some of these newer
 artists (like Lady GaGa and Mysto & Pizzi) going a different direction
 with how they handle downloads and such. Like, when the Lady GaGa album
-came out, it was the Amazon MP3 deal of the day for like \$5. Mysto &
+came out, it was the Amazon MP3 deal of the day for like $5. Mysto &
 Pizzi aren't putting crap tracks from some band you've never heard of
 out there, they're putting out stuff from well-known artists. Free. And
 you know how often I see stuff for these folks online and hear stuff

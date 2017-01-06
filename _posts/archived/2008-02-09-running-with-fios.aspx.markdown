@@ -36,5 +36,5 @@ but I can't really speak to it much since I've only written this blog
 entry and gotten things basically connected. We'll see how she goes
 soon.
 
-Oh, and it's like \$50/month cheaper, which doesn't hurt.
+Oh, and it's like $50/month cheaper, which doesn't hurt.
 

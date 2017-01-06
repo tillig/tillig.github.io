@@ -187,15 +187,15 @@ get used to.
 **Summary**
 
 -   I like, in order of best kit to worst kit: Ion, *GHWT*, *Rock Band*.
--   If you have the choice (and the \$300 to spend), go for the Ion. It
+-   If you have the choice (and the $300 to spend), go for the Ion. It
     is, without a doubt, the superior drumming experience. Especially if
     you primarily play the drums in the game.
 -   If you don't have the choice but can afford to get the whole *GHWT*
     band set (again, at the time of this writing, they don't sell the
-    kit by itself), do that. Even the whole band kit is only \$180 or
+    kit by itself), do that. Even the whole band kit is only $180 or
     something, which will save you some cash and get you yet another
     plastic guitar.
 -   If you're really going budget, the *Rock Band 2* kit sells
-    standalone for \$50. It's not great, but it works.
+    standalone for $50. It's not great, but it works.
 
 

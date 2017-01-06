@@ -18,9 +18,9 @@ electronically and using the helpful wizards the software provides.
 
  In prior years, I have normally gotten quite a bit back at the end of
 the year because I overpaid over the course of that year. Often the
-amount is between \$100 and \$500.
+amount is between $100 and $500.
 
- Last year, I got about \$50 total back. Not great, but at least I
+ Last year, I got about $50 total back. Not great, but at least I
 didn't owe.
 
  Now, keeping that in mind, I went to [the
@@ -31,15 +31,15 @@ Us](http://www.amazon.com/exec/obidos/redirect?tag=mhsvortex&path=tg/browse/-/17
 and bought the [*Lord of the Rings* version of the game
 Risk](http://www.amazon.com/exec/obidos/ASIN/B00006653W/mhsvortex). (I
 didn't already have a Risk game, and this looked cool.) That cost me
-\$25. I then went to the GameStop store and put \$25 down towards the
+$25. I then went to the GameStop store and put $25 down towards the
 pre-order of a [Game Boy Advance
 SP](http://pocket.ign.com/articles/382/382062p1.html). (Total purchase
-price will be \$100, but I don't have to cough the rest up until
+price will be $100, but I don't have to cough the rest up until
 March.)
 
- \$50 - that was my limit, and that's what I spent.
+ $50 - that was my limit, and that's what I spent.
 
- This year I owe \$336 in taxes.
+ This year I owe $336 in taxes.
 
  Okay, so that's not going to bankrupt me or anything, but looking at it
 very roughly, it looks like I'm getting hit with about a 30% tax rate on

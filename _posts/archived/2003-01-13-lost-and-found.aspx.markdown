@@ -35,7 +35,7 @@ D'Arby*](http://www.amazon.com/exec/obidos/ASIN/B0000026DG/mhsvortex) at
 the local [Wherehouse](http://www.wherehousemusic.com/) and am
 reasonably pleased with the purchase. I am trying to conserve funds now
 that I've gotten my Visa bills from the holiday season, so I admit to
-having my fair share of buyer's remorse over the \$8 purchase. I'm
+having my fair share of buyer's remorse over the $8 purchase. I'm
 enjoying the music, though, so I can't be too hard on myself.
 
  Speaking of buyer's remorse, Jenn and I went to the new [Whole
@@ -45,7 +45,7 @@ and uncommon foods there that were fun to look at, though the pricing on
 them made it unreasonable to shop there on a regular basis. In order to
 get our parking validated we had to buy something, so I bought a jar of
 mango salsa and a macadamia nut candy bar. The candy bar, we knew, was
-\$2, but it was something new to try so we ignored the ridiculous cost
+$2, but it was something new to try so we ignored the ridiculous cost
 for an item probably 2"x1"x1" in size. The mango salsa was another
 story.
 
@@ -53,8 +53,8 @@ story.
 pick up a jar... but there was no price on it. I'm normally smart enough
 to know the "if you have to ask, you can't afford it" rule, but I was
 blinded by flavor. (Figure *that* one out!) At checkout, I found the jar
-of salsa cost me *\$6*! *Holy shit!*
+of salsa cost me *$6*! *Holy shit!*
 
- So we left the store with our candy bar and our salsa, \$8 lighter but
+ So we left the store with our candy bar and our salsa, $8 lighter but
 with validated parking. All in all, a rather successful trip. I still
-can't believe it was \$6 for that salsa, though.
+can't believe it was $6 for that salsa, though.

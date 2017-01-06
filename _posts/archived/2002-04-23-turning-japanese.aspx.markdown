@@ -7,7 +7,7 @@ disqus_identifier: 47
 tags: [gaming,medical]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 21]
- 
+
  Not to sound like a whiny grandmother, but my sinuses have been acting
 up something awful lately. I've noticed it slowly getting worse over the
 last couple of years and I've turned into an antihistamine junkie, which
@@ -15,7 +15,7 @@ I'm sure is damaging my liver or some other critical organ, so I've made
 a doctor's appointment on Wednesday to get some
 [Allegra-D](http://www.allegra.com/) or something similar that might be
 able to relieve this trauma.
- 
+
  My copy of [Dance Dance
 Revolution](http://www.amazon.com/exec/obidos/ASIN/B00005A774/mhsvortex)
 came in the mail yesterday. The [dance
@@ -33,13 +33,13 @@ Considering I was having a hard time just keeping up with the buttons I
 can only imagine the terror I'm going to bring into the apartment when I
 bust out my oh-so-coordinated dance skillz. I suppose practice makes
 perfect.
- 
+
  That all said, I am *not* going out to get [Mr.
 Mosquito](http://www.amazon.com/exec/obidos/ASIN/B0000639VQ/mhsvortex)
 or any of the other "fascinating" [life-fantasy
 games](http://www.salon.com/tech/feature/2001/01/23/ddr/) the Japanese
 people come up with. I have my limits.
- 
+
  In other news, and it's not so much *news* as a general realization
 I've made and feel like sharing, I have gotten to a point in my career
 where I am unable to explain what I am currently working on to anyone
@@ -53,7 +53,7 @@ explain what I'm doing or how it works to my boss; he's a web developer
 like myself, but more into the administrative side of things, so when I
 get into [XML and Web Services](http://www.gotdotnet.com/) and such, I
 just get a blank look...
- 
+
  Another poor segue: I think I want a
 [SoundBug](http://www.thinkgeek.com/stuff/computing/5a15.shtml). It's
 this cool device that you can affix to any hard surface and turn that
@@ -61,6 +61,6 @@ surface into a speaker. Connect two together - stereo. Apparently, it
 [sounds a lot like notebook computer
 speakers](http://www.lockergnome.com/issues/techspecialist/20020412.html),
 which isn't too bad. The novelty of the whole thing is really what gets
-me. The only thing stopping me is they're \$50. Each. I really don't
+me. The only thing stopping me is they're $50. Each. I really don't
 have *that* kind of disposable income, especially after my DDR
 investment. I guess we'll see.

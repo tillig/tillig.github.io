@@ -58,7 +58,7 @@ Wonderland](https://hyqi8g.blu.livefilestore.com/y2pzxcRKh2r5yKC5eKG3VmJjlSAeT2R
 
 I am an *Alice in Wonderland* freak, so I've been looking forward to
 this movie for a long time. That's actually one of the reasons I paid
-the \$15-per-seat to get the IMAX 3D.
+the $15-per-seat to get the IMAX 3D.
 
 Unfortunately, I didn't anticipate this to be quite as huge as *Avatar*
 was, so I figured getting to the theater a half hour early would be

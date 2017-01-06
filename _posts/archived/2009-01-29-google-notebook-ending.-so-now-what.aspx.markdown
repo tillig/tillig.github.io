@@ -36,7 +36,7 @@ things seem to fit the bill. Here's my criteria, in no particular order.
     BlackBerry," not some mobile note app I have to install, but the
     actual crappy BlackBerry browser.
 -   Free. I'm a single user who wants to keep some crap in a central
-    spot. I'll roll my own solution before I pay you \$100/year for a
+    spot. I'll roll my own solution before I pay you $100/year for a
     notebook service. Yes, it's OK if you throw unobtrusive ads into it
     the way GMail does.
 -   Private. I'm not interested in making my private notebook into a

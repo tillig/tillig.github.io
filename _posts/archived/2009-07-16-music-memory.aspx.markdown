@@ -32,10 +32,10 @@ tending the shop solo. I wasn't running the equipment, but after the
 folks doing the actual cleaning and pressing had gone home, I'd stick
 around and handle the customers coming in to drop off or pick up clothes
 - write up the order tickets for people, play cashier, that sort of
-thing. I can still remember the general pricing structure - \$3.80 for a
-shirt/blouse to be dry cleaned, \$0.50 extra for silk or rayon because
+thing. I can still remember the general pricing structure - $3.80 for a
+shirt/blouse to be dry cleaned, $0.50 extra for silk or rayon because
 they needed to run in a separate load and took extra care when spot
-cleaning; \$1 for a washed/starched/pressed men's dress shirt.
+cleaning; $1 for a washed/starched/pressed men's dress shirt.
 
 When folks weren't coming in, I'd clean the place - sweep up the lint
 that accumulated on the floor, mop, wipe down the equipment - and

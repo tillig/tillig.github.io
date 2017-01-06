@@ -34,7 +34,7 @@ we can act on these home improvement whims that strike us after watching
 Spaces*](http://tlc.discovery.com/fansites/tradingspaces/tradingspaces.html).
 The problem is that we'd like something in the 1500 - 2000 square foot
 range so we've got plenty of space, but right now we could *maybe*
-afford something in the \$150,000 range. (Trust me - I've sliced and
+afford something in the $150,000 range. (Trust me - I've sliced and
 diced the budget a thousand ways, talked to people about it, calculated
 it across different loan lengths, interest rates, and down payments, but
 that's about as good as it gets right now.) If I want something that
@@ -49,7 +49,7 @@ apartments panned out mediocre at best. We decided "better the devil you
 know" and we're staying where we're at. To free up some space, we're
 going to get a storage closet at one of those storage places and move
 some of the stuff we don't need into that. That'll only cost us like
-\$35/month and will be worth it to have the extra space in the house.
+$35/month and will be worth it to have the extra space in the house.
 
  Went to see [*Harry Potter and the Chamber of
 Secrets*](http://us.imdb.com/Title?0295297) again this weekend (I had a
@@ -70,4 +70,4 @@ I won't be running out to buy it or anything.
 
  The [Winter Hawks](http://www.winterhawks.com) have been on a losing
 streak lately and I just got the invoice for playoff tickets in the
-mail. \$248 a piece! I don't think I'll be ordering.
+mail. $248 a piece! I don't think I'll be ordering.

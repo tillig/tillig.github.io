@@ -41,7 +41,7 @@ than the
 and it's even got a color screen and runs Windows, right on the machine.
 How messed up is that? Not that I'm a huge tailor or anything, but I
 could get into the whole "sewing thing" if I had a machine running like
-that. A little on the expensive side, though, at nearly \$4000 for the
+that. A little on the expensive side, though, at nearly $4000 for the
 180E. I can only imagine how much the 200E costs.
 
  We also saw a pretty cool cheese grating gizmo that will grate both

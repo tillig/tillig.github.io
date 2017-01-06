@@ -13,10 +13,10 @@ tasty. In fact, I don't think I even know how to order anything else at
 might try something new, maybe one of those fruity tea-based things, but
 the only words I could speak when I reached the register were, "[Venti
 Mocha Frappuccino](http://www.eeggs.com/items/3067.html)."
- 
+
  And then, before I could think twice about it, there it was, in all its
 splendor. Mmmm.
- 
+
  I'm feeling a little nostalgic today, streaming my mix of 80's MP3s on
 my [ShoutCast](http://www.shoutcast.com) server at work. (No, it's not
 available outside our firewall. Sorry.) The
@@ -24,15 +24,15 @@ available outside our firewall. Sorry.) The
 Me](http://www.wcafe.com/poison/catlyrc.htm#dirty)* just came on. Bad
 hair band? Of course. Remind me of a pleasant time gone by? Hell, yeah.
 Sometimes you just need a little hair band music to put things right.
- 
+
  I took a test on [emode.com](http://www.emode.com/) today that
 supposedly was going to tell me what my ultimate career would be. It
 told me my ideal job would allow me to be "Analytical and Creative." No
 shit. But to tell me actual careers that fit the profile, they wanted
-\$15. I think not. Besides, my current job lets me be analytical and
+$15. I think not. Besides, my current job lets me be analytical and
 creative aplenty, even if it is programming. I think I'll stick with
 what I've got.
- 
+
  I set up my [Tron light
 cycles](http://www.emerchandise.com/browse/TRON/ACTIONFI/) today in a
 cool action-oriented way on my desk. A pack-and-a-half of the [small

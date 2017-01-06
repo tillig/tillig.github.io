@@ -50,7 +50,7 @@ tops to cut all that out.
 
  It took us probably a good two hours to get those cuts made. The big
 problem was that the wood I bought wasn't perfectly square (I paid like
-\$3 a pop for it; I didn't expect precision furniture-quality), and even
+$3 a pop for it; I didn't expect precision furniture-quality), and even
 though I told him so, I think it bugged him that the final cuts didn't
 fit precisely together like a machined product. It's good enough for me,
 but he puzzled over that forever, trying to *make* it square.
@@ -131,7 +131,7 @@ movies:
 -   **3 Stars**: Rent it when it's a new release; it's not good enough
     for the theater, but you'll want to see it when it's out on video
 -   **2 Stars**: Rent it once it's off "new release" status; you might
-    want to see it, but it's worth closer to \$0.99/week than \$3.49/day
+    want to see it, but it's worth closer to $0.99/week than $3.49/day
 -   **1 Star**: Don't bother. Not even worth the rental.
 
 Most movies fit into the 3- or 4-Star range if I bother to see them. But

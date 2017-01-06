@@ -100,5 +100,5 @@ past... quarter? Year? Whatever. Free lunch, man. I got a New York
 Peppersteak and had tiramisu for dessert. It was pretty good, but after
 seeing the prices on the menu, I don't know that it was worth the price.
 I suppose the point is moot since I didn't pay for it, but I didn't feel
-like the steak I ate was a \$35 steak. Maybe I'm just not the food
+like the steak I ate was a $35 steak. Maybe I'm just not the food
 connoisseur I'd like to think I am.

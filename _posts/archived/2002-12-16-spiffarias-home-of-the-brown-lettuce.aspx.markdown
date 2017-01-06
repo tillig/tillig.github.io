@@ -42,7 +42,7 @@ well, what's up with the back one?
 
  Turns out, that's the standard functionality for the thing. Dribbling.
 The service guy was surprised by this, too, but such is life. About
-\$150 later I was on my way.
+$150 later I was on my way.
 
  Saturday night the [Winter Hawks](http://www.winterhawks.com/) put on
 [quite a show](http://www.winterhawks.com/news/files/121402.shtml),

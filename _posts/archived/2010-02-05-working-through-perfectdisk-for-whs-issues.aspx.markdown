@@ -85,7 +85,7 @@ nicely with my eSATA setup.
 
 I'll update this post if I find out anything new. Until then, I've got
 PerfectDisk disabled and I'm thinking, worst-case-scenario, I'm out the
-\$40 I paid for the license.
+$40 I paid for the license.
 
 **UPDATE 6/16/2010**: It appears that the WD Green drives I was using
 were not performing well. [Removing them from the system allowed

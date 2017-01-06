@@ -43,7 +43,7 @@ Definitely an upgrade that was well worth doing.
 I also bought two [1TB Western Digital Caviar GreenPower
 drives](http://www.wdc.com/en/products/products.asp?DriveID=336) to put
 in. Admittedly, the "green" aspect of the drives is nice, but the simple
-fact is that they were on sale for \$155 each at Fry's (limit one per
+fact is that they were on sale for $155 each at Fry's (limit one per
 customer, so I had Jenn buy one) and I didn't have to take my chances
 with NewEgg's shoddy OEM drive packaging... plus, since it's a retail
 package, I get the full retail warranty.

@@ -63,8 +63,8 @@ availability with me. That conversation went something like this:
 >  **Me:** Yes, a drink. It's called "Bawls Guarana."
 >  **Pedro:** Okay... yes, we have it.
 >  **Me:** You do carry it? Good. Is it in stock?
->  **Pedro:** Yes. It's \$16.
->  **Me:** Is that for a case? I'm sure it's not \$16 a bottle.
+>  **Pedro:** Yes. It's $16.
+>  **Me:** Is that for a case? I'm sure it's not $16 a bottle.
 >  **Pedro:** Yes, it's for a case of 12.
 >  **Me:** Perfect. And that's definitely in stock at the store by
 > Washington Square?
@@ -94,6 +94,6 @@ squarely in the shins.
 
  So, no Bawls Guarana for me. [ThinkGeek](http://www.thinkgeek.com) lets
 you [order cases](http://www.thinkgeek.com/caffeine/drinks/2818/), but
-the shipping is a killer and brings the price of the drink up to \$2.10
+the shipping is a killer and brings the price of the drink up to $2.10
 per 10oz. bottle, a little rich for my blood. I guess I'll keep
 looking.

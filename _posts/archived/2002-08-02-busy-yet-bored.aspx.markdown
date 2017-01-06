@@ -66,7 +66,7 @@ pretty decent. We'll see.
 
  The last issue from our [soot
 incident](/archive/2002/06/25/smoke-on-the-water.aspx) is that they
-still owe us \$348.39 for expenses (food to be replaced, damaged
+still owe us $348.39 for expenses (food to be replaced, damaged
 lampshades to be replaced, etc.) and *they won't answer my phone calls*.
 I've called once a day, every day for a week now and I always seem to
 get voicemail. My irritation level is building rapidly.

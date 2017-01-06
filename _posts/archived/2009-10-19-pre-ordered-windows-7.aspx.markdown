@@ -10,8 +10,8 @@ tags: [media,windows]
 went ahead and pre-ordered my upgrades for Windows 7 today. I opted to
 get the "family pack" upgrade - [three licenses to upgrade to Windows 7
 Home Premium for
-\$150](http://www.amazon.com/gp/product/B002MV2MG0?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002MV2MG0).
-At \$50/license, I couldn't say no. I'll start the upgrade with [my
+$150](http://www.amazon.com/gp/product/B002MV2MG0?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002MV2MG0).
+At $50/license, I couldn't say no. I'll start the upgrade with [my
 Media Center front
 ends](/archive/2008/09/30/overview-of-my-media-center-solution.aspx) and
 do our primary laptop last, just so if anything happens to go south I'll
@@ -23,8 +23,8 @@ Anyway, if you're looking to upgrade more than one computer, [that
 three-pack](http://www.amazon.com/gp/product/B002MV2MG0?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002MV2MG0)
 might be the way to go. Considering [a single upgrade license for
 Windows 7 Home Premium is
-\$120](http://www.amazon.com/gp/product/B002DHLUWK?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002DHLUWK),
-three licenses for \$150 is a steal.
+$120](http://www.amazon.com/gp/product/B002DHLUWK?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002DHLUWK),
+three licenses for $150 is a steal.
 
 ![](http://www.assoc-amazon.com/e/ir?t=mhsvortex&l=as2&o=1&a=B002MV2MG0)
 

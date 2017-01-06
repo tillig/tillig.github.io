@@ -40,13 +40,13 @@ shooting thing, and this is a damn fun game. Hell yeah.
  I bought a few movies at Costco. I got the 1963 edition of [*The
 Italian
 Job*](http://www.amazon.com/exec/obidos/ASIN/B0000AUHPB/mhsvortex) for
-\$12.99. I also got a two-pack of movies for \$20:
+$12.99. I also got a two-pack of movies for $20:
 [*Payback*](http://www.amazon.com/exec/obidos/ASIN/B00000JDIQ/mhsvortex)
 and
 [*Face/Off*](http://www.amazon.com/exec/obidos/ASIN/630512762X/mhsvortex).
-And the two-pack has a \$10 off coupon for the [Indiana Jones
+And the two-pack has a $10 off coupon for the [Indiana Jones
 Trilogy](http://www.amazon.com/exec/obidos/ASIN/B00003CXC5/mhsvortex)
-coming out on the 21st. So, basically, I got two movies for \$5 each.
+coming out on the 21st. So, basically, I got two movies for $5 each.
 Not bad.
 
  That's about it. It doesn't sound like a lot got accomplished, but the

@@ -58,11 +58,11 @@ program gets shit-canned.
  So I went to the [pledge site](https://nrgmusic.com/c89/) (which I
 encourage *you* to do, as well), checked out the different things you
 get for different pledge levels, and really wanted the custom dance mix
-CD... but didn't want to pledge the \$89.50 for it. I like the station,
+CD... but didn't want to pledge the $89.50 for it. I like the station,
 but I'm not going to single-handedly support the place.
 
- Instead, I threw in \$50 to get the t-shirt. You can get a "can-cozy"
-for \$35, but... I don't need a can-cozy. I'll wear the shirt with
+ Instead, I threw in $50 to get the t-shirt. You can get a "can-cozy"
+for $35, but... I don't need a can-cozy. I'll wear the shirt with
 pride, though. So a shirt it is.
 
  I'm sure I'll hear about this when I get home. We really are pretty

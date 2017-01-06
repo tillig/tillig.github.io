@@ -32,7 +32,7 @@ go, and I'm a happy camper.
 
  Speaking of birthdays and unbirthdays (sort of): let it be known that I
 hate cards. I hate 'em. Cards are the sappiest, most meaningless show of
-feeling ever. It's \$3 you'll never reclaim - you get the card, you sign
+feeling ever. It's $3 you'll never reclaim - you get the card, you sign
 your name, you hand it to the recipient, they read it, they pitch it.
 There's the life cycle. If they're environmentally conscious, they might
 recycle it. However, there are two exceptions that I have found thus far

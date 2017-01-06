@@ -21,7 +21,7 @@ to have one of these (same color and everything) but my mom sold it out
 from under me at a garage sale, as she did with all of my
 [He-Man](http://www.he-man.org/) figures. I'm still a little bitter over
 that (as she's well aware) so I feel vindicated after getting the Tron
-light cycle, like I've reclaimed a piece of my lost childhood for \$25.
+light cycle, like I've reclaimed a piece of my lost childhood for $25.
 
  The [Winter Hawks](http://www.winterhawks.com/) lost last night, though
 I'm sure they'll make it up in the playoffs. It was disappointing to

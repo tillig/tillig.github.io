@@ -28,7 +28,7 @@ well, I think maybe I'll just go to Home Depot.
 
 Things we figure might be worth something really aren't.  The set of
 plastic "Disney's Hercules" plates from McDonald's that I've been
-carting around for years goes for \$10 - \$30 on eBay.  It's \$10 worth
+carting around for years goes for $10 - $30 on eBay.  It's $10 worth
 of time and effort just to list the thing for sale and pack it up for
 shipping if it sells.  They're not worth anything.
 

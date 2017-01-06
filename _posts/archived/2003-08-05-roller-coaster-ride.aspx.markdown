@@ -12,7 +12,7 @@ the new server, and then I got home and got the mail.
 
  Remember a while back I [tapped a lady's
 bumper](/archive/2003/06/18/training-and-rubberneckers.aspx)? Well, I
-got my insurance bill. It went from \$800 every six months to \$1300
+got my insurance bill. It went from $800 every six months to $1300
 every six months. That's right, *nearly doubled*. Fucking ridiculous,
 that. I've got a totally clean record except for that one incident. And,
 of course, the insurance company's got me over a barrel on that one for

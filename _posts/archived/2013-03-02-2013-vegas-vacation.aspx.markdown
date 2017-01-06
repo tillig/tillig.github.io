@@ -26,16 +26,16 @@ The first night we were there we hit the Fremont Street Experience. We
 had heard about it a lot, but hadn’t ever made it down there. It was
 well worth it – there was a lot to see. We rode the zip lines down the
 street, watched like three or four bands perform, and found where they
-hid the \$5 blackjack tables ([the Golden
+hid the $5 blackjack tables ([the Golden
 Gate](http://goldengatecasino.com/)). We don’t really gamble, but we had
-a lot of fun playing. (I think I rode \$20 for like an hour. I lost, but
+a lot of fun playing. (I think I rode $20 for like an hour. I lost, but
 I got my money’s worth.)
 
 [![Travis riding the zip
 line](https://lh5.googleusercontent.com/-dvR0z8ttQ4k/UTKO8iY2grI/AAAAAAAAH7M/QnwkAZ36SjM/s400/20130224_193500.jpg)](https://plus.google.com/photos/100275637557074554059/albums/5850895904343810865/5850896036582032050)
 
 Only downside to the Fremont Street thing is how far away it is from the
-strip. We took a taxi and it was like \$25 each way (not counting tip).
+strip. We took a taxi and it was like $25 each way (not counting tip).
 If you plan on checking that out, you either need to figure out public
 transportation, rent a car, or actually stay down there.
 

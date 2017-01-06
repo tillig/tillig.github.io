@@ -23,9 +23,9 @@ shot.
 
 -   **MP3 Player** - This actually comes in two varieties: the
     [SongPro](http://www.ebgames.com/ebx/categories/products/product.asp?pf_id=232091)
-    (\$100) and the
+    ($100) and the
     [Innovation](http://www.ebgames.com/ebx/categories/products/product.asp?pf_id=228110)
-    (\$60). The SongPro is better with more features and higher quality
+    ($60). The SongPro is better with more features and higher quality
     sound, so obviously that's the way I'd like to go.
 -   **[TV
     Converter](http://www.ebgames.com/ebx/categories/products/product.asp?pf_id=219897)**
@@ -37,7 +37,7 @@ shot.
 -   **[Macro
     Kit](http://www.ebgames.com/ebx/categories/products/product.asp?pf_id=234083)**
     - A kit with a small carrying case, a headphone adapter, headphones,
-    and a car charger. At \$15, I think I'll probably just order this
+    and a car charger. At $15, I think I'll probably just order this
     and call it a day.
 -   **[Ergo
     Grips](http://www.ebgames.com/ebx/categories/products/product.asp?pf_id=234008)**

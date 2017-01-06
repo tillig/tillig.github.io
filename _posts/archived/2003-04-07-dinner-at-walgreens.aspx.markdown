@@ -32,7 +32,7 @@ PS2. All in all, a pretty relaxing day, being what it was.
  At 6:30p we packed up our stuff and left to go to the Skate World in
 Gresham. Jenn's in charge of a [Job's Daughters](http://www.iojd.org/)
 group and the activity that evening was a two hour skate-a-thon for
-\$2.
+$2.
 
  I'm down with the skating thing. I'm not terribly coordinated or
 anything, but there's something I dig about throwing some old-school

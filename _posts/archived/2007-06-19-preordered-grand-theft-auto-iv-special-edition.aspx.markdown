@@ -26,7 +26,7 @@ This version comes with (from the GameStop site)...
     been designed especially for this Special Edition
 -   An exclusive Rockstar Games keychain to hold your lock box keys.
 
-Yeah, I'm crazy, and yeah, it did cost me \$90... \$30 more than the
+Yeah, I'm crazy, and yeah, it did cost me $90... $30 more than the
 game alone.  But I'm a GTA junkie, and they make this crap *targeting me
 personally*.  I can't say no.  I'm just as bad as the *Halo* junkies who
 will be paying megabucks for the version of *Halo 3* with the mini

@@ -18,9 +18,9 @@ problems with this setup:
     etc. A lot of indirection and moving pieces to get around the
     MozyHome shortcoming that it won't install on Windows Home Server.
 2.  **MozyHome's pricing is changing.** They're moving away from the
-    \$55/year unlimited storage plans and going to a tiered storage
+    $55/year unlimited storage plans and going to a tiered storage
     plan. Probably not so bad for most folks, but for the 250GB of data
-    I have, it'd cost me around \$350/year - seven times what I'm
+    I have, it'd cost me around $350/year - seven times what I'm
     already paying. For that I can definitely find a different solution,
     even if it's buying a bunch of 1TB USB drives.
 
@@ -36,8 +36,8 @@ solution:**[**CrashPlan**](http://www.crashplan.com/)**.**
 I'm not sure why these guys didn't come up in my initial research, but
 they seriously solved all my problems.
 
--   **\$50/year for unlimited storage.** And if you get multiple years'
-    worth of storage, *you can get it down to \$35/year*. For unlimited
+-   **$50/year for unlimited storage.** And if you get multiple years'
+    worth of storage, *you can get it down to $35/year*. For unlimited
     storage. That addresses the pricing problem.
 -   **Installs directly on Windows Home Server.** Technically it's not
     "officially supported" but it works like a charm. [They even have a

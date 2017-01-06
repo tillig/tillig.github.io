@@ -8,7 +8,7 @@ tags: [tv,media]
 ---
 I continue to research large screen televisions. The biggest problem I
 was having for a while there is that, frankly, I'm a cheapskate. If I
-don't *need* it and it costs over, say, \$20, I probably won't buy it.
+don't *need* it and it costs over, say, $20, I probably won't buy it.
 So when I started getting jazzed about the [possibility of a plasma
 screen](/archive/2002/09/16/warm-thrill-of-confusion.aspx), that
 excitement carried over into the big screen TVs. We really don't *need*

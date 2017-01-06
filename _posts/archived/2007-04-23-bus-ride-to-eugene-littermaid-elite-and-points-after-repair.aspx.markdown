@@ -54,7 +54,7 @@ Elite](http://www.amazon.com/exec/obidos/ASIN/B000F2E1S0/mhsvortex)
 after looking at a lot of these things because not only did it seem to
 be the most popular model, but it also didn't lock us into proprietary
 refills or materials beyond the little litter receptacle (which runs
-about \$0.30 each and last around five days - so maybe \$2/month, which
+about $0.30 each and last around five days - so maybe $2/month, which
 is better than some of the ongoing costs of the other boxes). The only
 thing we were afraid of was whether they'd use it.
 

@@ -43,15 +43,15 @@ doesn't like it as much as I do, but that's just too bad for her.)
  Thus ensued a trip to [Cost Plus](http://www.costplus.com).
 
  Cost Plus has Limonata for significantly cheaper than any other store
-locally that stocks it. Seriously, like \$1 cheaper per six pack. They
+locally that stocks it. Seriously, like $1 cheaper per six pack. They
 also carry other interesting San Pellegrino drinks including Aranciata,
 Chinotto, and Sanbittèr. The Aranciata and Chinotto at Cost Plus are
-like \$2.50 cheaper per six pack.
+like $2.50 cheaper per six pack.
 
  I've had Aranciata before, so bought some of that. I had never had
 Chinotto or Sanbittèr before, so I bought a six pack of the Chinotto.
-Sanbittér comes in packs of (10) 100mL bottles for \$7.99. Not knowing
-if I liked it or not, I only bought two bottles at \$0.80 each.
+Sanbittér comes in packs of (10) 100mL bottles for $7.99. Not knowing
+if I liked it or not, I only bought two bottles at $0.80 each.
 
  Sanbittèr is a "non-alcoholic aperitif soda." Being the world traveler
 that I am, I had to look up what "aperitif" means. Apparently it's *an

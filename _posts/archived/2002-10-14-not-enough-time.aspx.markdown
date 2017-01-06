@@ -44,14 +44,14 @@ fit more like skin-tight culottes and the shirt made me look like an
 organ grinder monkey. I've packed the thing up and sent it back via
 [UPS](http://www.ups.com) as of today, but I was thinking about this...
 
- It cost me \$9.90 to ship the \$30 uniform and a \$6 fake sword. Let's
-assume, for the sake of argument, that the wooden sword cost \$4.90 to
-ship. That means the uniform cost a total of \$35. Well, to ship it
-back, it cost me \$8.90 because they request you ship things via UPS,
+ It cost me $9.90 to ship the $30 uniform and a $6 fake sword. Let's
+assume, for the sake of argument, that the wooden sword cost $4.90 to
+ship. That means the uniform cost a total of $35. Well, to ship it
+back, it cost me $8.90 because they request you ship things via UPS,
 RPS, or some other insured shipping method, and that's the UPS charge.
-They also charge you a 15% restocking fee - in my case, that's \$4.50.
-So that means it cost me (\$5 original shipping + \$8.90 return shipping
-+ \$4.50 restocking fee) a total of \$18.40 to *try on a costume that
+They also charge you a 15% restocking fee - in my case, that's $4.50.
+So that means it cost me ($5 original shipping + $8.90 return shipping
++ $4.50 restocking fee) a total of $18.40 to *try on a costume that
 didn't fit*. Web shopping is not all it's cracked up to be, at least
 when clothing is involved. Now you know why brick-and-mortar stores will
 never go out of style.

@@ -29,7 +29,7 @@ apparent reason in rush hour traffic and not carry insurance*.
  Jenn has followed up with the police and got the insurance information
 they have on file for the lady, which is also incorrect. We've gotten no
 call back from the lady, either, so it seems Jenn's going to be paying
-the \$200 deductible and filing the uninsured motorist claim.
+the $200 deductible and filing the uninsured motorist claim.
 
  The real kicker - as if you hadn't already read it - is that this bitch
 had the *outright balls* to file an at-fault claim *against Jenn*. The

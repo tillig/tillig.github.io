@@ -22,7 +22,7 @@ escape.  I couldn't put it down, my dad couldn't put it down... it's
 amazing and compelling.  I found a Barnes & Noble gift certificate I had
 and just now pre-ordered [the Gamestop Limited
 Edition](http://www.gamestop.com/product.asp?product%5Fid=200317) of
-this for the additional \$10, which comes with a soundtrack CD, behind
+this for the additional $10, which comes with a soundtrack CD, behind
 the scenes DVD, and action figure.
 
 **UPDATE 9/5/07:** The availability of the limited edition changes so
@@ -38,7 +38,7 @@ you "construct your evil empire" by ordering your minions about to carry
 out your nefarious deeds.  You run around in third-person as the
 "overlord" and send your minions to fight, overcome obstacles, etc.  I
 was struck by the humor in this one and had a blast with the demo.  Not
-sure I'll pay a full \$60 for it, but if I find it used for cheaper,
+sure I'll pay a full $60 for it, but if I find it used for cheaper,
 I'll certainly look twice.
 
 **[John Woo's
@@ -53,7 +53,7 @@ shooting the bad guys is fun, and the special powers you get and the
 interactions with the environment make it cool to watch and play.  Even
 Jenn was commenting on how cool it looked as I showed her the demo. 
 Very easy to pick up and play and even comes with a "Casual" difficulty
-so you can just have fun with it.  Again, maybe not \$60, but definitely
+so you can just have fun with it.  Again, maybe not $60, but definitely
 on the list.
 
 **The Not-So-Good Ones...**
@@ -78,9 +78,9 @@ ran around confused and disoriented, not really knowing where to go or
 what to do.  I got to a point in the demo where I was running around
 outside some sort of compound and ended up just quitting the demo
 because I couldn't figure out what to do next.  The idea was neat, but
-the execution... not so much.  I think if I saw it for like \$20 I'd
+the execution... not so much.  I think if I saw it for like $20 I'd
 consider it because when I was able to figure out what to do, it was
-fun.  Can't imagine putting myself through that torture for \$60,
+fun.  Can't imagine putting myself through that torture for $60,
 though.
 
 **[Track and

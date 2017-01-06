@@ -24,7 +24,7 @@ over-the-ear headphones that don't pinch your ears. I got a few good
 suggestions, but I should have explained requirements. Of course, that's
 hard to do over Twitter in 140 characters, so:
 
--   I'll be using them (and leaving them) at work, so a \$300 pair of
+-   I'll be using them (and leaving them) at work, so a $300 pair of
     headphone is out. People can't keep their hands off my stuff. I just
     found one of my action figures on another guy's desk last week. I
     don't need some spendy headphones getting "borrowed."
@@ -35,7 +35,7 @@ hard to do over Twitter in 140 characters, so:
 [![Sony MDR-XD200
 Headphones](http://ecx.images-amazon.com/images/I/41WE4T67BSL._SL500_AA200_.jpg)](http://www.amazon.com/dp/B0007N55NW?tag=mhsvortex)I
 ended up getting a cheap pair of [Sony MDR-XD200
-headphones](http://www.amazon.com/dp/B0007N55NW?tag=mhsvortex). \$22 at
+headphones](http://www.amazon.com/dp/B0007N55NW?tag=mhsvortex). $22 at
 Amazon at the time of this writing. I'm wearing them now, as I write
 this, and they seem reasonably comfortable. The bass is a little light
 in them, which, I'm sure, could be rectified by purchasing a more

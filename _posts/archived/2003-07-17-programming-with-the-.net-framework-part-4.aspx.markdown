@@ -43,13 +43,13 @@ out.
 
  I feel like I'm a good programmer. I think there are people out there
 who would agree with that. I also think that I'm really going to have
-problems with these tests, and at \$125 a pop, I really can't afford to
+problems with these tests, and at $125 a pop, I really can't afford to
 fail.
 
  *10:52a*
 
  I went cruising Amazon to see what sorts of study aids they have in
-print. There are all sorts of books, priced \$25 - \$40, none of which
+print. There are all sorts of books, priced $25 - $40, none of which
 looked like they were "foolproof" or "all-inclusive." I then see random
 boot camps and schools that promise certification "in 8 days -
 *guaranteed*." It makes me wonder if that would have been a better

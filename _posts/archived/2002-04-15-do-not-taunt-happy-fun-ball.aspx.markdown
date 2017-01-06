@@ -56,9 +56,9 @@ cool.)
  For those who care about my [turntable
 issues](/archive/2002/03/25/through-the-whirlwind.aspx), I ended up
 having to take the stupid thing in for professional service at [Fred's
-Sound of Music](http://www.fredsoundofmusic.com). It'll cost me \$30 for
-a new stylus and between \$45 and \$75 for the repairs. That figures.
-But, after all is said and done, even with the \$55 I spent on getting a
+Sound of Music](http://www.fredsoundofmusic.com). It'll cost me $30 for
+a new stylus and between $45 and $75 for the repairs. That figures.
+But, after all is said and done, even with the $55 I spent on getting a
 like model to cannibalize (that didn't work, either), I'm still getting
 out spending less than it would cost for a brand new turntable of that
 quality. So I suppose I can't complain. Too much.

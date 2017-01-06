@@ -16,7 +16,7 @@ pretty feisty, so I figured the name worked.
 [Petco](http://www.petco.com/) ("Where the pets go") to pick out a bed
 and a scratching post.
 
- \$80 later, we came out with a new litter box (we realized the one we
+ $80 later, we came out with a new litter box (we realized the one we
 have isn't big enough for two kitties), a scratching post/"cat condo"
 thing, an Iams kitten starter kit (food, toy, bowls), and a couple of
 toys she can play with.

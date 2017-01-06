@@ -71,20 +71,20 @@ What my ultimate plan would be to save me time and frustration...
 
 1.  [Get a 1TB Windows Home
     Server](http://www.costco.com/Browse/Product.aspx?Prodid=11273362&search=mediasmart&Mo=1&cm_re=1_en-_-Top_Left_Nav-_-Top_search&lang=en-US&Nr=P_CatalogName:BC&Sp=S&N=5000043&whse=BC&Dx=mode+matchallpartial&Ntk=Text_Search&Dr=P_CatalogName:BC&Ne=4000000&D=mediasmart&Ntt=mediasmart&No=1&Ntx=mode+matchallpartial&Nty=1&topnav=&s=1)
-    (\$730).
+    ($730).
 2.  [Get a Mac
     Mini](http://store.apple.com/us/browse/home/shop_mac/family/mac_mini)
-    (\$600).
+    ($600).
 3.  [Get a Media Center remote control and
     receiver](http://www.microsoft.com/hardware/mouseandkeyboard/productdetails.aspx?pid=065)
-    for the Mac Mini (\$30).
+    for the Mac Mini ($30).
 4.  Install my copy of Vista Ultimate on the Mac Mini using Boot Camp.
 5.  Install My Movies on the Mac Mini.
 6.  Rip DVDs to the Windows Home Server.
 7.  Play through Mac Mini/Vista/My Movies.
 
 That sounds simple and doesn't require any stressful decision making...
-but it does run \$1360 (plus, in some cases, shipping). Is it worth the
+but it does run $1360 (plus, in some cases, shipping). Is it worth the
 extra cost for reduced hassle? (It might be.)
 
 **UPDATE 8/25/08:** I ended up [getting a Windows Home

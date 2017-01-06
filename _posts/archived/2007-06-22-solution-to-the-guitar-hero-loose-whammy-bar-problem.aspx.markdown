@@ -44,13 +44,13 @@ site, put "AS568A" and it'll get you to the o-ring page. From there,
 select the "AS568A Dash Number" as "8" to get the ring size set.
 Finally, select "Neoprene" as the material. As of this writing, they
 only carry one product that matches those criteria. It's a bag of 100
-o-rings that costs \$2.48 (no, you can't get a smaller pack or buy
+o-rings that costs $2.48 (no, you can't get a smaller pack or buy
 individual rings - they're an industrial supply store, not a consumer
-goods shop). Shipping was about \$5 via UPS ground for me.
+goods shop). Shipping was about $5 via UPS ground for me.
 
 We tried this out last night in a feverish game of *GH2* and it works
 pretty well. The rings never had to be pushed down or adjusted, it just
-worked. A sub-\$10 solution and not having to actually open up the
+worked. A sub-$10 solution and not having to actually open up the
 guitar? Can't ask for much more than that.
 
 **UPDATE:** While I'm happy to help folks out, I'm not in the o-ring

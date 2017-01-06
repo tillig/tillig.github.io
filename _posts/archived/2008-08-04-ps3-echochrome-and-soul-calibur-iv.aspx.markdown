@@ -20,7 +20,7 @@ explain - watch the video.
 
 What I like about it is that it makes you think in a different way. A
 level that looks impossible to traverse is actually pretty simple if you
-think in perspective. It's definitely worth the \$10 I paid for it.
+think in perspective. It's definitely worth the $10 I paid for it.
 
 ![Darth Vader in Soul Calibur
 IV](https://hyqi8g.dm2304.livefilestore.com/y2plF4TbWouXdHofGuKwQcY1tZ-S4jOHzfQmNOd3IiaOFh3YvhlkHSIGCUD67KigzS7tt3GDIfmzkXnvjZEyGSZd76oMALyUeAfLOOHoE_azok/20080804scvader.jpg?psid=1)The

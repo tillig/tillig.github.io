@@ -24,8 +24,8 @@ blogosphere](http://www.elilopian.com/2008/11/24/isolator-for-sharepoint-free-li
 so if you want one, check out [how to get
 one](http://www.elilopian.com/2008/11/24/isolator-for-sharepoint-free-license/).
 (If you don't get one of the free ones, the full retail price of
-Isolator for SharePoint is \$149, and they're offering a discount for a
-while so you can get it for \$99 - a great deal.)
+Isolator for SharePoint is $149, and they're offering a discount for a
+while so you can get it for $99 - a great deal.)
 
 I did quite a bit of SharePoint development in my last job and something
 like this would have been amazing to have. If you're doing SharePoint

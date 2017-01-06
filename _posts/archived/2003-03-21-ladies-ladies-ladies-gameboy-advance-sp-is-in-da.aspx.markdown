@@ -39,7 +39,7 @@ optical reader on it. You get cards, sort of like baseball trading
 cards, with this ultra-fine "dot code" on the edges that this thing
 reads and then lets you play games. It came with Donkey Kong Jr. on a
 series of five cards. The reader is the only real expense; the game
-cards only cost like \$5 a set. SWEET!
+cards only cost like $5 a set. SWEET!
 
  Anyway, loving it. Now I may have to get a GameCube in order to connect
 the two. I guess you can unlock stuff between the two when they're

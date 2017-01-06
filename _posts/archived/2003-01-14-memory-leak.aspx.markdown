@@ -38,7 +38,7 @@ mail. I ended up buying:
 -   [*The Osbournes* Season
     1](http://www.amazon.com/exec/obidos/ASIN/B00005JLBW/mhsvortex)
 
-I even still had a [\$5 promotional gift certificate in my
+I even still had a [$5 promotional gift certificate in my
 account](/archive/2002/12/02/turkeys-bring-amazon-developments.aspx).
 How sweet is that? Free shipping, and I'm good to go. I should be
 getting something fun and new in the mail every, like, week or two

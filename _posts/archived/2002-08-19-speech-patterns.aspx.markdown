@@ -69,7 +69,7 @@ Mucha](http://www.allposters.com/gallery.asp?aid=273632&search=alphonse+mucha).
 
  I also bought a ratcheting screwdriver with a set of bits because we
 have tools around work but... no one can ever find them. It cost me all
-of \$6 for the thing, so I can't really complain. Now I'll have my *own*
+of $6 for the thing, so I can't really complain. Now I'll have my *own*
 screwdriver, so I'll always know where it is.
 
  No, you can't borrow it. It's *mine*.

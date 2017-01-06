@@ -15,7 +15,7 @@ We're putting this thing together at home for our cat box to sit on. It
 involves cutting a board, and I noticed that I don't really have a
 saw. To remedy that, when we bought the board, I got a decent
 mid-to-low-end circular saw. (I obviously don't have a ton of call for
-such a thing, so spending more than, say, \$50 would have been wasted.)
+such a thing, so spending more than, say, $50 would have been wasted.)
 
 During my first-ever-in-my-lifetime use of a circular saw, I learned a
 few things I thought I'd share to help out the other less-than-handy

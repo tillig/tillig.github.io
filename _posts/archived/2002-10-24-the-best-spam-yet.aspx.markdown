@@ -12,7 +12,7 @@ I'm sure all of you get porn spam just like everyone else.
 
  Anyway, I just got what I think is the best porn spam yet:
 
- ***Ever see a \$1 COKE WHORE? Now is your chance. Click HERE.***
+ ***Ever see a $1 COKE WHORE? Now is your chance. Click HERE.***
 
  (Obviously, I removed the link so folks won't actually go there, and
 no, I didn't go there, either. I just thought the message was funny.)

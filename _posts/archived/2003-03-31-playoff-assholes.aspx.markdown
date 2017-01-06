@@ -7,11 +7,11 @@ disqus_identifier: 237
 tags: [hockey]
 ---
 The [Winter Hawks](http://www.winterhawks.com) never cease to piss me
-off. I pay like \$500/seat for the regular season and they suck ass. All
-season long they lose. Then they try to gouge me for another \$300/seat
+off. I pay like $500/seat for the regular season and they suck ass. All
+season long they lose. Then they try to gouge me for another $300/seat
 for the playoff tickets, after just barely making it to playoffs by the
 skin of their teeth. Thinking to outsmart them (and because I wasn't
-keen to invest the \$600 for more losing game tickets), I declined the
+keen to invest the $600 for more losing game tickets), I declined the
 offer. I'll be going to the entire next regular season, though.
 
  Now, of course, the bastards are *winning* - who'd have thought? - and

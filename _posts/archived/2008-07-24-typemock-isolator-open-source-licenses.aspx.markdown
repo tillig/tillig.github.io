@@ -12,8 +12,8 @@ Isolator, they're going to be coming out with a new (free) license type
 that allows your open source project to use it. Here's the new licensing
 structure I've seen:
 
--   Commercial - \$449 (same as today)
--   Personal - \$200 (will include one year maintenance)
+-   Commercial - $449 (same as today)
+-   Personal - $200 (will include one year maintenance)
 -   Open Source Project - Free
 -   21-Day Trial - Free
 

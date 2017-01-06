@@ -25,8 +25,8 @@ music-over-Bluetooth on any level "super-awesome." Just be aware.
 
 First, get a Bluetooth audio dongle receiver like [the TaoTronics
 BTI-005](http://www.amazon.com/dp/B006IJGEGQ?tag=mhsvortex). That's the
-one I got and it seems to work pretty well. This runs between \$20 and
-\$30 at the time of this writing. There are a few of these dongles out
+one I got and it seems to work pretty well. This runs between $20 and
+$30 at the time of this writing. There are a few of these dongles out
 there, but on Amazon right now this one is the most popular and is one
 of the few that doesn't also require you to plug it in.
 

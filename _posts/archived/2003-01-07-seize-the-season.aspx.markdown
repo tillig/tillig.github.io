@@ -176,11 +176,11 @@ annoying shirts we receive.
  The rest of Christmas week played out very light. I played a bit of
 PS2, renting a game called [*Burnout
 2*](http://www.amazon.com/exec/obidos/ASIN/B00006JC46/mhsvortex). That
-game was a lot of fun, but it wasn't worth \$50. I like winning and all,
+game was a lot of fun, but it wasn't worth $50. I like winning and all,
 but there was so little challenge that I was near to unstoppable at the
 game. I won way too easily. Then again, if I wasn't winning and the
 challenge was there, I would have thought the game pretty repetetive.
-Either way, if it was a \$20 game I'd have snapped it up, but at \$50,
+Either way, if it was a $20 game I'd have snapped it up, but at $50,
 it's only worth the rent.
 
  At some point between Christmas and New Year's, Jenn and I went to see
@@ -222,13 +222,13 @@ happenings. Plus, Christopher Walken was in that as the kid's dad, and I
 love Christopher Walken.
 
  At the same time we saw that movie, we found that the theaters in our
-area jacked up the ticket prices. It used to be \$5.50 to see a matinee
-and \$7.50 to see a prime time show; now it's \$6 to see a matinee and
-\$8 to see a prime time show. Sure, that's not a lot in the scheme of
+area jacked up the ticket prices. It used to be $5.50 to see a matinee
+and $7.50 to see a prime time show; now it's $6 to see a matinee and
+$8 to see a prime time show. Sure, that's not a lot in the scheme of
 things (especially considering that's low compared to the national
 average, from what I can tell), but it's a lot from my frame of
 reference. Not to sound like an old miser, but I can remember when you
-could get into the prime time picture for \$6. I'm not so sure that
+could get into the prime time picture for $6. I'm not so sure that
 upping the price of movies in a down economy is the smartest way to go,
 especially when, in times of depression, the first portion of a person's
 budget to get cut is the entertainment part. I guess I will invest more

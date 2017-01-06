@@ -17,7 +17,7 @@ player, since I have an iPod and use iTunes to manage my music library
 I took her to the local Apple store and after seeing all the options,
 she determined she wanted a player with a UI (which I can't really blame
 her for). The problem is, the first player up from the Shuffle is the
-iPod Mini, which isn't a bad little player, but for \$50 more you can
+iPod Mini, which isn't a bad little player, but for $50 more you can
 get a straight-up iPod with five times more space, so why go for the
 small one? Then Jenn says she'll kick in some money to offset, which
 puts us into a new price bracket...

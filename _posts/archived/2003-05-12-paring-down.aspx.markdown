@@ -39,10 +39,10 @@ the case - Dad doesn't like the maintenance that comes with a house.
 will solve all of his living situation issues. Moving will force him to
 throw stuff out, and moving into a condo will mean he doesn't have to
 mow the lawn. However, the place he's looking at will charge him around
-\$200 per month for home owner association fees that pay for the mowing
+$200 per month for home owner association fees that pay for the mowing
 of the lawn and other grounds maintenance. I think it also covers water
 and sewer or something. Fine. The thing I don't get about that is,
-though, if you're going to shell out \$200 more per month than you're
+though, if you're going to shell out $200 more per month than you're
 already paying for a house payment, and you're getting a smaller place,
 why not just hire a lawn service to do your yardwork for you at half the
 price?
@@ -121,7 +121,7 @@ unemployed - she's working a six-week externship (reads: "volunteering")
 that could turn into \*gasp\* a permanent position with the same
 suck-ass hours. (No, she can't park at work; they don't give employees
 parking permits unless they carpool.) Her last unemployment check for a
-whopping \$130 or something comes in on Wednesday and we've got four
+whopping $130 or something comes in on Wednesday and we've got four
 weeks left of this volunteer work. After the externship, she's got to
 find a permanent position somewhere (preferably not at ridiculous
 hours), so God only knows how long that will take.

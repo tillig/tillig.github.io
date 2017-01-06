@@ -20,7 +20,7 @@ to "find," but I couldn't sneak away. Somehow I think Angela would have
 known anyway and probably given me a stern talking-to.
 
 Next time I think I want to [blow my own glass
-float](http://www.oregoncoast.org/foundry/), though it costs like \$65
+float](http://www.oregoncoast.org/foundry/), though it costs like $65
 to do it. I think it'd be a pretty neat experience and you'd get to take
 something cool home. I've never blown glass before. I did get myself
 some [Mo's clam chowder](http://www.moschowder.com), which is always

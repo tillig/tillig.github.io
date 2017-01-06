@@ -26,7 +26,7 @@ Dollar for dollar, I got more horsepower than if I had gone with a Mac
 Mini, and I didn't have to get a separate Windows Vista license. It came
 with Vista Home Premium (which includes Media Center), a dual core
 2.1GHz processor, 3GB RAM, wireless-N built-in, DVI and HDMI output...
-basically, it was set to go as a Media Center, and it was \$50 less than
+basically, it was set to go as a Media Center, and it was $50 less than
 the better of the two currently offered Mac Mini models.
 
 Installation was a snap. There were (obviously) a few fiddly things to

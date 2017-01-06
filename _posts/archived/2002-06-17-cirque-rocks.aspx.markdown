@@ -76,10 +76,10 @@ Cry](http://www.amazon.com/exec/obidos/ASIN/B00005NCCR/mhsvortex)*.
 **WAY** too pissed off. There's something that doesn't click between my
 brain, my fingers, and the way the camera moves in that game. Try as I
 might, it was just too damn difficult. So I packed it up, strategy guide
-and all, and have sold it to a guy here at work for \$25. Maybe I got
+and all, and have sold it to a guy here at work for $25. Maybe I got
 ripped off; maybe I just wanted free of it. It looked brilliant, the
 idea was great, I just sucked at the game and couldn't take it anymore.
-I'm gonna take the \$25 and reinvest it in *[Medal of Honor:
+I'm gonna take the $25 and reinvest it in *[Medal of Honor:
 Frontline](http://www.amazon.com/exec/obidos/ASIN/B00005V6BB/mhsvortex)*.
 I played the demo of that this weekend and loved every second of it. Of
 course, the demo had a time limit on it, so I would get like halfway

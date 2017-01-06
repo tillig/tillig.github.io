@@ -17,7 +17,7 @@ save you a trip.
 you can just replace the screen. New screen and spline (the cord-like
 stuff that holds the screen in) and maybe a spline tool (the tool to
 push the cord in between the screen and the frame) will run you less
-than \$20. It's not a five-minute repair job, but it's not too bad and
+than $20. It's not a five-minute repair job, but it's not too bad and
 will save you some money. In our case, the frame of the door was messed
 up, so we actually needed a new door.
 
@@ -33,7 +33,7 @@ It'll either be metal or vinyl. This is important because...
 hard way and had it confirmed by the guys in the door department at
 Lowe's. You might find a door that is the proper height and width (I
 did) but when you try to put it into the track you'll find it's just a
-little too thick to properly sit in there. There went \$45 and now I
+little too thick to properly sit in there. There went $45 and now I
 have a "spare" door in my garage that I can't use.
 
 **For doors in vinyl tracks, you'll probably have to custom order.**

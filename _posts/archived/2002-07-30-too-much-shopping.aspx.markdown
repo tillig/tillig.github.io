@@ -34,7 +34,7 @@ and [a
 book](http://www.amazon.com/exec/obidos/ASIN/0552999067/mhsvortex) from
 the [Barnes and Noble site](http://www.bn.com) because they're offering
 free shipping on any two items you order, which I find more acceptable
-than Amazon's current promotion of free shipping for orders over \$49.
+than Amazon's current promotion of free shipping for orders over $49.
 Barnes and Noble was more expensive for each item, but with the free
 shipping thing I saved, like, a buck or two.
 

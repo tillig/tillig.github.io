@@ -28,7 +28,7 @@ extra charge! Too funny.
  I got my copy of the [*Alias* Season 2 DVD
 set](http://www.amazon.com/exec/obidos/ASIN/B0000ALF8I/mhsvortex) last
 night. Six discs this time. I'll have stuff to watch while I'm on
-vacation at the end of this month. They have a \$10 rebate offer where
+vacation at the end of this month. They have a $10 rebate offer where
 you get a refund for buying both Season 1 and Season 2 (which I did).
 Time to send away for that.
 

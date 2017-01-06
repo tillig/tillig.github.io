@@ -129,7 +129,7 @@ do. So it's the best of all worlds. Anyway, here you go:
     -   Tito Puente - Manbo Gozon
 
 Okay, I'll admit that I don't know too many on discs 5 and 7, but hey -
-for \$50, that's seven discs of some of the best 80's out there. Plus,
+for $50, that's seven discs of some of the best 80's out there. Plus,
 each disc allows you to go online and get a cheat code for the game.
 Hey, everybody wins.
 
