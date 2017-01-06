@@ -4,20 +4,20 @@ title: "Housewarming Gift Guide"
 date: 2004-03-17 -0800
 comments: true
 disqus_identifier: 541
-tags: [Homeownership]
+tags: [home]
 ---
 As [requested in comments](/archive/2004/03/05/an-end-to-suspense.aspx),
 here's the Official Housewarming Gift Guide. Buy me stuff! We will be
 having a party at some point once we're unpacked, and the price of
 admission is a gift.
- 
+
  (Okay, I'm joking about all that, but for the people who actually do
 want to know what we need, here's a list. I'll keep this constantly
 updated with new and changing things, so check back before you get
 anything. I'll also be updating the registries constantly.)
- 
+
  **THE LIST**
- 
+
  **Gift Certificates**
 
 -   [Home Depot](http://www.homedepot.com/) (I think I'm going to become

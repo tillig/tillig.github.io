@@ -4,7 +4,7 @@ title: "Siphoning Awnings"
 date: 2005-03-24 -0800
 comments: true
 disqus_identifier: 771
-tags: [Homeownership]
+tags: [home]
 ---
 I worked from home for a while today because my [Sunsetter
 awning](http://www.sunsetter.com) was being delivered. That came in a

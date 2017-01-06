@@ -4,7 +4,7 @@ title: "Trane Zoned Heating System"
 date: 2011-12-19 -0800
 comments: true
 disqus_identifier: 1758
-tags: [Homeownership]
+tags: [home]
 ---
 When we moved into our house one of the things we noticed was that
 things didn't quite heat or cool evenly. Certain rooms would be hotter

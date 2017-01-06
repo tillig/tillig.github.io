@@ -4,7 +4,7 @@ title: "Working The Realtor; Getting GFEs"
 date: 2004-01-30 -0800
 comments: true
 disqus_identifier: 484
-tags: [Homeownership]
+tags: [home]
 ---
 I continue to search for the "perfect" mortgage broker. The jury's
 technically still out, but I'm definitely leaning towards Ann right now,

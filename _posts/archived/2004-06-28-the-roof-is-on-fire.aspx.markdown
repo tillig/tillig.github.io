@@ -4,7 +4,7 @@ title: "The Roof Is On Fire"
 date: 2004-06-28 -0800
 comments: true
 disqus_identifier: 600
-tags: [Homeownership]
+tags: [home]
 ---
 Jenn and I had the housewarming on Saturday. Started that up about 4:00p
 (we figured a nice afternoon/evening barbecue, get together hang out,

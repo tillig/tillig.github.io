@@ -4,7 +4,7 @@ title: "An End To Suspense"
 date: 2004-03-05 -0800
 comments: true
 disqus_identifier: 528
-tags: [Homeownership]
+tags: [home]
 ---
 Here's my day, play by play.
 

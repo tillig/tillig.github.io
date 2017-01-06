@@ -4,7 +4,7 @@ title: "Home Inspection Scheduled"
 date: 2004-03-09 -0800
 comments: true
 disqus_identifier: 530
-tags: [Homeownership]
+tags: [home]
 ---
 I've scheduled the home inspection for this coming Friday, March 12th.
 It'll end up costing me $270 for that (I have a coupon for $35 off),

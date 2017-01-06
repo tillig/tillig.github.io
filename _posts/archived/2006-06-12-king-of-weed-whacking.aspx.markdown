@@ -4,7 +4,7 @@ title: "King of Weed Whacking"
 date: 2006-06-12 -0800
 comments: true
 disqus_identifier: 1016
-tags: [Homeownership]
+tags: [home]
 ---
 We bought a weed whacker this weekend, [a $50 Black and Decker
 special](http://www.amazon.com/exec/obidos/ASIN/B000087QVV/mhsvortex)

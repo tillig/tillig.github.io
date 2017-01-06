@@ -4,7 +4,7 @@ title: "Fixing Baseboards"
 date: 2011-03-28 -0800
 comments: true
 disqus_identifier: 1706
-tags: [Homeownership]
+tags: [home]
 ---
 Had a bit of a home improvement weekend.
 

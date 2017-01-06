@@ -4,7 +4,7 @@ title: "Screen Doors"
 date: 2011-05-09 -0800
 comments: true
 disqus_identifier: 1715
-tags: [Homeownership]
+tags: [home]
 ---
 A few weeks back we had a rock [somehow/magically] hit the frame of the
 screen door that sits in front of our sliding glass back door. It

@@ -4,7 +4,7 @@ title: "Cable Woes, or, I'm An Anal Videophile"
 date: 2004-04-08 -0800
 comments: true
 disqus_identifier: 559
-tags: [Homeownership]
+tags: [home]
 ---
 I spend a lot of my spare time (what little there is) watching movies,
 playing video games, or watching TV. I love my home theater with a love

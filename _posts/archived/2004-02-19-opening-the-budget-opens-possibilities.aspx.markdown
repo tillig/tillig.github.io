@@ -4,7 +4,7 @@ title: "Opening The Budget Opens Possibilities"
 date: 2004-02-19 -0800
 comments: true
 disqus_identifier: 516
-tags: [Homeownership]
+tags: [home]
 ---
 I called my mortgage broker who said it was no issue to raise my budget
 for houses, so I'm doing just that. I found a good rule of thumb is for

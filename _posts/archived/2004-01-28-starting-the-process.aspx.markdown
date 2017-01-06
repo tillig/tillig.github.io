@@ -4,7 +4,7 @@ title: "Starting The Process"
 date: 2004-01-28 -0800
 comments: true
 disqus_identifier: 483
-tags: [Homeownership]
+tags: [home]
 ---
 Starting the process of buying a home has been stressful. As
 [Greg](http://www.greghughes.net/) put it, "You never really know when

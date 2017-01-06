@@ -4,7 +4,7 @@ title: "Now The Fun Begins"
 date: 2004-03-08 -0800
 comments: true
 disqus_identifier: 529
-tags: [Homeownership]
+tags: [home]
 ---
 It's turning out that, while searching for the house was the most
 grueling part of the process, the coordination of all of the post-offer

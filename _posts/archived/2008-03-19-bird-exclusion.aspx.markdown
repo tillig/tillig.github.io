@@ -4,7 +4,7 @@ title: "Bird Exclusion"
 date: 2008-03-19 -0800
 comments: true
 disqus_identifier: 1360
-tags: [Homeownership]
+tags: [home]
 ---
 A couple of weeks back we had some birds move into the walls of the
 house.

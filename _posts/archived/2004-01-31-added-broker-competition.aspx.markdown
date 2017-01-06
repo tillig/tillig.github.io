@@ -4,7 +4,7 @@ title: "Added Broker Competition"
 date: 2004-01-31 -0800
 comments: true
 disqus_identifier: 486
-tags: [Homeownership]
+tags: [home]
 ---
 I met with Beth on Friday afternoon and was... hmmm... less than
 impressed. I'm not sure what it was. I guess I felt like she was selling

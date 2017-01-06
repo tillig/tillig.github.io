@@ -4,33 +4,33 @@ title: "Leak Saga"
 date: 2004-05-28 -0800
 comments: true
 disqus_identifier: 576
-tags: [Homeownership]
+tags: [home]
 ---
 I have learned far more about toilets than in the past 24 hours than any
 programmer should ever know.
- 
+
  I went to the [Toiletology 101](http://www.toiletology.com/index.shtml)
 site to see how to determine which part in the toilet is leaking and how
 to fix it. I figured out that it's the [flush
 valve](http://www.toiletology.com/howtofix.shtml), usually the fault of
 the flapper/tank-ball thing.
- 
+
  I investigated the existing flapper and didn't see anything wrong with
 it, but I was sure it was just making a bad seal or something, so I went
 to the store and picked up a new one.
- 
+
  Installed the new one, tested again. The leak is still there, but a lot
 slower now (about half a centimeter of water drains from the tank every
 hour; before it was doing that in about 15 minutes). I think I'm on the
 right track, but I think the seal still isn't the greatest.
- 
+
  I went this morning to [Home Depot](http://www.homedepot.com) and
 picked up a [Flusher Fixer
 Kit](http://www.fluidmaster.com/flush_products_555c.html). That fixes
 the seal that the flapper connects to, which I think is also part of the
 problem. I drained the tank and dried it out this morning in
 anticipation of that project tonight.
- 
+
  If that doesn't fix it, then it's the gasket beneath the flush valve,
 which means I need to take the tank off the back of the toilet. At that
 point, I'm going to have to debate with myself whether it might be an
@@ -38,7 +38,7 @@ idea to actually call a plumber. After reading the box on the
 replacement flush valve products at Home Depot, it *sounds* easy enough,
 but there are reasons that *professional plumbers* exist. If it was so
 easy everyone could do it, we wouldn't need them, would we?
- 
+
  Oh, and a follow-up on my [dishwasher
 issues](/archive/2004/05/21/cut-again.aspx): After removing the rubber
 band and the broken glass from the mechanism in the bottom of the

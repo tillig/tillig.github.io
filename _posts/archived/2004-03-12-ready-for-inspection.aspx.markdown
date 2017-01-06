@@ -4,7 +4,7 @@ title: "Ready For Inspection"
 date: 2004-03-12 -0800
 comments: true
 disqus_identifier: 536
-tags: [Homeownership]
+tags: [home]
 ---
 My house inspection is at 1:00p today, so I'll be leaving pretty soon to
 go do that. I guess it'll take about three hours, though I'm not sure

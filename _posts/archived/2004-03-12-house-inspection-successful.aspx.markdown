@@ -4,7 +4,7 @@ title: "House Inspection Successful!"
 date: 2004-03-12 -0800
 comments: true
 disqus_identifier: 537
-tags: [Homeownership]
+tags: [home]
 ---
 My house inspection was successful except for some pretty minor
 cosmetics:
@@ -24,12 +24,12 @@ cosmetics:
     the crawl space that need to be bundled up and properly terminated
 
 
- 
+
  Since that all went according to plan and I was able to go back there
 and spend some time taking pictures, as promised, [I posted some
 pictures in my photo gallery for those curious to see what the house
 looks like](http://www.mildperil.net/pix/categories.php?cat_id=6).
- 
+
  I also promised some specs/stats, so here you go:
 
 -   2315 square feet (1151 upstairs, 1164 downstairs)
@@ -49,7 +49,7 @@ looks like](http://www.mildperil.net/pix/categories.php?cat_id=6).
 -   Two-car garage with automatic opener
 
 
- 
+
  I hope that's enough for those of you craving more info. Again, I
 highly encourage you to [check out the
 pictures](http://www.mildperil.net/pix/categories.php?cat_id=6) and see

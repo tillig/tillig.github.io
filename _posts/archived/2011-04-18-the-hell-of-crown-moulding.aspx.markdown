@@ -4,7 +4,7 @@ title: "The Hell of Crown Moulding"
 date: 2011-04-18 -0800
 comments: true
 disqus_identifier: 1708
-tags: [Homeownership]
+tags: [home]
 ---
 I'm pissed off with home improvement.
 

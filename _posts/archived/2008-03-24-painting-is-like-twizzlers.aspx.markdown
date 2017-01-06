@@ -4,7 +4,7 @@ title: "Painting Is Like Twizzlers"
 date: 2008-03-24 -0800
 comments: true
 disqus_identifier: 1365
-tags: [Homeownership]
+tags: [home]
 ---
 We painted the master bathroom this weekend and I realized that
 painting, for me, is a lot like Twizzlers. Stick with me.

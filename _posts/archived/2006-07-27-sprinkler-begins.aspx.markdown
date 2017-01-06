@@ -4,7 +4,7 @@ title: "Sprinkler Begins"
 date: 2006-07-27 -0800
 comments: true
 disqus_identifier: 1041
-tags: [Homeownership]
+tags: [home]
 ---
 We got this voicemail last night from [Dennis' Seven
 Dees](http://www.sevendees.com/), the folks we contracted with to get
