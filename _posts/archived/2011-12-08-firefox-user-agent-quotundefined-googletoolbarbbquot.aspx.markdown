@@ -4,7 +4,7 @@ title: "Firefox User Agent &quot;undefined GoogleToolbarBB&quot;"
 date: 2011-12-08 -0800
 comments: true
 disqus_identifier: 1756
-tags: [Web Development,GeekSpeak]
+tags: [web]
 ---
 At some random point today, I started going to various web sites and
 they seemed to be falling back to basic views without anything dynamic

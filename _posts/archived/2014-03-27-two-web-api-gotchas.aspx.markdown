@@ -4,7 +4,7 @@ title: "Two Web API Gotchas"
 date: 2014-03-27 -0800
 comments: true
 disqus_identifier: 1839
-tags: [net,Web Development]
+tags: [net,aspnet]
 ---
 I just spent a day fighting these so I figured I’d share. You may or may
 not run into them. They do get pretty low-level, like, “not the common
@@ -16,10 +16,12 @@ I had set up my media formatters so the XML formatter would kick in and
 provide some clean looking XML when I provided a querystring parameter,
 like `http://server/api/something?format=xml`. I did it like this:
 
-    var fmt = configuration.Formatters.XmlFormatter;
-    fmt.MediaTypeMappings.Add(new QueryStringMapping("format", "xml", "text/xml"));
-    fmt.UseXmlSerializer = true;
-    fmt.WriterSettings.Indent = true;
+```csharp
+var fmt = configuration.Formatters.XmlFormatter;
+fmt.MediaTypeMappings.Add(new QueryStringMapping("format", "xml", "text/xml"));
+fmt.UseXmlSerializer = true;
+fmt.WriterSettings.Indent = true;
+```
 
 It seemed to work on super simple stuff, but then it seemed to
 arbitrarily just stop - I'd get XML for some things, but others would

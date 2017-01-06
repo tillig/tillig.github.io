@@ -4,7 +4,7 @@ title: "Book Review: Professional ASP.NET MVC 1.0"
 date: 2009-09-22 -0800
 comments: true
 disqus_identifier: 1566
-tags: [GeekSpeak,Web Development,net]
+tags: [aspnet,books,net]
 ---
 [*![](http://ecx.images-amazon.com/images/I/41vsFoLZq9L._SL160_.jpg)*](http://www.amazon.com/gp/product/0470384611?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470384611 "Professional ASP.NET MVC 1.0")*[Professional
 ASP.NET MVC

@@ -4,7 +4,7 @@ title: "Generation of Designer File Failed: Unknown Server Tag"
 date: 2007-08-02 -0800
 comments: true
 disqus_identifier: 1245
-tags: [GeekSpeak,Web Development,net]
+tags: [aspnet,net]
 ---
 I was doing some experimentation with custom web server controls in
 ASP.NET 2.0 so I created a quick [Web Application
@@ -39,16 +39,18 @@ inside a Content control, you may still see weirdness about unrecognized
 server tags.  In that case, add the tag prefix registration to
 web.config, again omitting the assembly:
 
-    <?xml version="1.0"?>
-    <configuration>
-      <system.web>
-        <pages>
-          <controls>
-            <add tagPrefix="cc1" namespace="MyTestNamespace"/>
-          </controls>
-        </pages>
-      </system.web>
-    </configuration>
+```xml
+<?xml version="1.0"?>
+<configuration>
+  <system.web>
+    <pages>
+      <controls>
+        <add tagPrefix="cc1" namespace="MyTestNamespace"/>
+      </controls>
+    </pages>
+  </system.web>
+</configuration>
+```
 
 One thing I noticed was that this seems to be... maybe a little flakey. 
 Depending on the circumstances, you may get a page that says your

@@ -4,7 +4,7 @@ title: "Tip Of The Week"
 date: 2004-01-26 -0800
 comments: true
 disqus_identifier: 475
-tags: [GeekSpeak,Web Development]
+tags: [sharepoint]
 ---
 I just got this week's [MSD2D
 SharePoint](http://msd2d.com/default_section.aspx?section=sharepoint)

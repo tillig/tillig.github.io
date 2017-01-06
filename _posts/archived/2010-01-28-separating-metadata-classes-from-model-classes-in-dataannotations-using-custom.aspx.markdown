@@ -4,7 +4,7 @@ title: "Separating Metadata Classes from Model Classes in DataAnnotations Using 
 date: 2010-01-28 -0800
 comments: true
 disqus_identifier: 1609
-tags: [net,Web Development]
+tags: [net,aspnet,gists,csharp]
 ---
 I haven't done much work with [ASP.NET Dynamic
 Data](http://www.asp.net/DynamicData/) but in a recent project I started
@@ -56,7 +56,7 @@ Here's what a standard scenario looks like:
       // property on the LINQ to SQL model class.
       // This declaration says 'render this as a
       // ResourceValue type.'
-      
+
       [UIHint("ResourceValue")]
       public object Value;
     }
@@ -315,7 +315,7 @@ RegisterContext, add a MetadataProviderFactory**:
           return new DisconnectedMetadataTypeDescriptionProvider(type);
         }
       });
-      
+
       // ...and the rest of the method as usual.
     }
 

@@ -4,7 +4,7 @@ title: "Tag Soup"
 date: 2008-07-21 -0800
 comments: true
 disqus_identifier: 1420
-tags: [Web Development]
+tags: [web]
 ---
 [Jeff Atwood posts about the exact thing I
 thought](http://www.codinghorror.com/blog/archives/001155.html) when I

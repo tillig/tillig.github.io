@@ -4,7 +4,7 @@ title: "FluentValidation and MVC - From Server to Client"
 date: 2013-04-17 -0800
 comments: true
 disqus_identifier: 1816
-tags: [net,Web Development,GeekSpeak]
+tags: [net,aspnet]
 ---
 We do a lot of interesting stuff with
 [FluentValidation](http://fluentvalidation.codeplex.com/) at work and
@@ -369,7 +369,7 @@ validator here.** That's probably another article since this is already
 way, way too long without enough pictures to break up the monotony.
 Instead, I'll just mention a couple of gotchas.
 
-**GOTCHA: DERIVING FROM OUT-OF-THE-BOX VALIDATORS 
+**GOTCHA: DERIVING FROM OUT-OF-THE-BOX VALIDATORS
 **Say you have a custom email validator. You decide you want to shortcut
 a few things by just deriving from the original email validator and
 overriding a couple of things. Sounds fine, right?
@@ -409,7 +409,7 @@ to totally replace everything about client and server validation for
 `IEmailValidator`, then implement `IEmailValidator `on your server-side
 validator and don't use the standard email validator anymore.)
 
-**GOTCHA: CUSTOM VALIDATION LAMBDAS ONLY RUN ON THE SERVER** 
+**GOTCHA: CUSTOM VALIDATION LAMBDAS ONLY RUN ON THE SERVER**
 Say you don't want to implement a whole custom validator and would
 rather use the FluentValidation lambda syntax like this:
 
@@ -422,7 +422,7 @@ functionality for translating the lambdas into script, nor is there an
 automatic facility for converting this into an AJAX remote validation
 call. (But that's a pretty neat idea.)
 
-**GOTCHA: MVC CLIENT-SIDE VALIDATION ADAPTERS OVERLAP TYPES** 
+**GOTCHA: MVC CLIENT-SIDE VALIDATION ADAPTERS OVERLAP TYPES**
 If you dive deep enough, you'll notice that certain server-side
 FluentValidation validators boil down to the same
 `ModelClientValidationRule `values when it's time to emit the

@@ -4,7 +4,7 @@ title: "Review: ASP.NET 3.5 Enterprise Application Development with Visual Studi
 date: 2009-05-15 -0800
 comments: true
 disqus_identifier: 1524
-tags: [Web Development,net]
+tags: [books,net]
 ---
 I just got finished reading through [*ASP.NET 3.5 Enterprise Application
 Development with Visual Studio

@@ -4,7 +4,7 @@ title: "Developing as a Non-Admin: Testing WCF Services"
 date: 2010-06-11 -0800
 comments: true
 disqus_identifier: 1649
-tags: [net,vs,Web Development]
+tags: [net,vs,testing,wcf]
 ---
 If you're developing as a non-admin user and writing WCF services (or
 supporting entities like behaviors, etc.), you probably not only are

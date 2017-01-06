@@ -4,7 +4,7 @@ title: "Adding Custom Files to an MSDeploy Package"
 date: 2013-03-08 -0800
 comments: true
 disqus_identifier: 1813
-tags: [net,Web Development]
+tags: [net,build]
 ---
 As part of some of my web projects I have "plugin assemblies" that
 aren't directly referenced by the project but are things I want included

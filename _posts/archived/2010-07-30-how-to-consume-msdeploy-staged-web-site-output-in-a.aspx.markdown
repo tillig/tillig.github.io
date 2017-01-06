@@ -4,7 +4,7 @@ title: "How to Consume MSDeploy Staged Web Site Output in a Wix Installer"
 date: 2010-07-30 -0800
 comments: true
 disqus_identifier: 1657
-tags: [net,Web Development]
+tags: [net,build,aspnet]
 ---
 MSDeploy is a pretty cool installer technology, but it's not what
 everyone uses, and my personal experience so far is it's not flexible
@@ -154,15 +154,15 @@ Let's walk through that:
     we make sure to only run this for web projects.
 -   **The ItemGroup sets up an item for Wix.** Wix needs to know where
     the staged output base path is. The Package target builds its staged
-    output by convention. It goes in a folder called: 
-    obj\\[Configuration]\\Package\\PackageTmp 
+    output by convention. It goes in a folder called:
+    obj\\[Configuration]\\Package\\PackageTmp
     under your web application. (Again, sticking with "AnyCPU" as the
     platform value means you'll have a predictable output location.)
     "Configuration" gets substituted in with the "Configuration"
     variable you passed into the MSBuild task. So if you were building
     the Debug configuration of an application in C:\\MyWebApp, the
-    Package target would build to: 
-    C:\\MyWebApp\\obj\\Debug\\Package\\PackageTmp 
+    Package target would build to:
+    C:\\MyWebApp\\obj\\Debug\\Package\\PackageTmp
     The crazy long MSBuild-script-variable string you see there builds
     up the location of the Package output using that convention.
 -   **The HeatDirectory task builds the Wix source from the Package

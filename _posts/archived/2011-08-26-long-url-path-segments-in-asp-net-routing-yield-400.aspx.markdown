@@ -4,7 +4,7 @@ title: "Long URL Path Segments in ASP.NET Routing Yield 400 Errors"
 date: 2011-08-26 -0800
 comments: true
 disqus_identifier: 1734
-tags: [net,Web Development]
+tags: [net,aspnet]
 ---
 Ran into an interesting gotcha while working with routing and a handler
 on a web site. We had a route set up like this:

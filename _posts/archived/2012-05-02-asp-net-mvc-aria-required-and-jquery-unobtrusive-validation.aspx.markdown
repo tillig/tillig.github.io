@@ -4,7 +4,7 @@ title: "ASP.NET MVC, aria-required, and jQuery Unobtrusive Validation"
 date: 2012-05-02 -0800
 comments: true
 disqus_identifier: 1780
-tags: [Web Development]
+tags: [aspnet,javascript]
 ---
 I saw [this interesting
 article](https://blogs.msdn.com/b/stuartleeks/archive/2012/05/01/asp-net-mvc-adding-aria-required-attribute-for-required-fields.aspx?Redirected=true)

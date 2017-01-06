@@ -4,7 +4,7 @@ title: "Typemock Isolator for SharePoint Released"
 date: 2008-11-25 -0800
 comments: true
 disqus_identifier: 1467
-tags: [Web Development,net]
+tags: [sharepoint,testing,net]
 ---
 The folks over at Typemock have done something special to help address
 the needs of the SharePoint development community and have released a

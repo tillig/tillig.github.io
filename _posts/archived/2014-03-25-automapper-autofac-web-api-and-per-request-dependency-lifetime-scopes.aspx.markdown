@@ -4,7 +4,7 @@ title: "AutoMapper, Autofac, Web API, and Per-Request Dependency Lifetime Scopes
 date: 2014-03-25 -0800
 comments: true
 disqus_identifier: 1837
-tags: [net,Web Development]
+tags: [net,aspnet,autofac]
 ---
 I’m working on a new [Web API project](http://www.asp.net/web-api) where
 I want to use [AutoMapper](http://automapper.org/) for some type
@@ -18,11 +18,13 @@ injection [using the `ConstructServicesUsing`
 method](https://github.com/AutoMapper/AutoMapper/wiki/Containers) and
 some sort of global dependency resolver, like:
 
-    Mapper.Initialize(cfg =>
-    {
-      cfg.ConstructServicesUsing(t => DependencyResolver.Current.GetService(t));
-      cfg.CreateMap();
-    });
+```csharp
+Mapper.Initialize(cfg =>
+{
+  cfg.ConstructServicesUsing(t => DependencyResolver.Current.GetService(t));
+  cfg.CreateMap();
+});
+```
 
 That works great in MVC or in other applications where there's a global
 static like that. In those cases, the “request lifetime scope” either
@@ -86,93 +88,95 @@ change is that `ServiceCtor` property, but that’s not a settable
 property, so **let’s write a quick wrapper around an
 `IConfigurationProvider` that lets us override it with our own method.**
 
-    public class ConfigurationProviderProxy : IConfigurationProvider
-    {
-      private IComponentContext _context;
-      private IConfigurationProvider _provider;
-      
-      // Take in a configuration provider we're going to wrap
-      // and an Autofac context from which we can resolve things.
-      public ConfigurationProviderProxy(IConfigurationProvider provider, IComponentContext context)
-      {
-        this._provider = provider;
-        this._context = context;
-      }
-      
-      // This is the important bit - we use the passed-in
-      // Autofac context to resolve dependencies.
-      public Func<Type, object> ServiceCtor
-      {
-        get
-        {
-          return this._context.Resolve;
-        }
-      }
-      
-      //
-      // EVERYTHING ELSE IN THE CLASS IS JUST WRAPPER/PROXY
-      // CODE TO PASS THROUGH TO THE BASE PROVIDER.
-      //
-      public bool MapNullSourceCollectionsAsNull { get { return this._provider.MapNullSourceCollectionsAsNull; } }
-      
-      public bool MapNullSourceValuesAsNull { get { return this._provider.MapNullSourceValuesAsNull; } }
-      
-      public event EventHandler<TypeMapCreatedEventArgs> TypeMapCreated
-      {
-        add { this._provider.TypeMapCreated += value; }
-        remove { this._provider.TypeMapCreated -= value; }
-      }
-      
-      public void AssertConfigurationIsValid()
-      {
-        this._provider.AssertConfigurationIsValid();
-      }
-      
-      public void AssertConfigurationIsValid(TypeMap typeMap)
-      {
-        this._provider.AssertConfigurationIsValid(typeMap);
-      }
-      
-      public void AssertConfigurationIsValid(string profileName)
-      {
-        this._provider.AssertConfigurationIsValid(profileName);
-      }
+```csharp
+public class ConfigurationProviderProxy : IConfigurationProvider
+{
+  private IComponentContext _context;
+  private IConfigurationProvider _provider;
 
-      public TypeMap CreateTypeMap(Type sourceType, Type destinationType)
-      {
-        return this._provider.CreateTypeMap(sourceType, destinationType);
-      }
-      
-      public TypeMap FindTypeMapFor(ResolutionResult resolutionResult, Type destinationType)
-      {
-        return this._provider.FindTypeMapFor(resolutionResult, destinationType);
-      }
-      
-      public TypeMap FindTypeMapFor(Type sourceType, Type destinationType)
-      {
-        return this._provider.FindTypeMapFor(sourceType, destinationType);
-      }
-      
-      public TypeMap FindTypeMapFor(object source, object destination, Type sourceType, Type destinationType)
-      {
-        return this._provider.FindTypeMapFor(source, destination, sourceType, destinationType);
-      }
-      
-      public TypeMap[] GetAllTypeMaps()
-      {
-        return this._provider.GetAllTypeMaps();
-      }
-      
-      public IObjectMapper[] GetMappers()
-      {
-        return this._provider.GetMappers();
-      }
-      
-      public IFormatterConfiguration GetProfileConfiguration(string profileName)
-      {
-        return this._provider.GetProfileConfiguration(profileName);
-      }
+  // Take in a configuration provider we're going to wrap
+  // and an Autofac context from which we can resolve things.
+  public ConfigurationProviderProxy(IConfigurationProvider provider, IComponentContext context)
+  {
+    this._provider = provider;
+    this._context = context;
+  }
+
+  // This is the important bit - we use the passed-in
+  // Autofac context to resolve dependencies.
+  public Func<Type, object> ServiceCtor
+  {
+    get
+    {
+      return this._context.Resolve;
     }
+  }
+
+  //
+  // EVERYTHING ELSE IN THE CLASS IS JUST WRAPPER/PROXY
+  // CODE TO PASS THROUGH TO THE BASE PROVIDER.
+  //
+  public bool MapNullSourceCollectionsAsNull { get { return this._provider.MapNullSourceCollectionsAsNull; } }
+
+  public bool MapNullSourceValuesAsNull { get { return this._provider.MapNullSourceValuesAsNull; } }
+
+  public event EventHandler<TypeMapCreatedEventArgs> TypeMapCreated
+  {
+    add { this._provider.TypeMapCreated += value; }
+    remove { this._provider.TypeMapCreated -= value; }
+  }
+
+  public void AssertConfigurationIsValid()
+  {
+    this._provider.AssertConfigurationIsValid();
+  }
+
+  public void AssertConfigurationIsValid(TypeMap typeMap)
+  {
+    this._provider.AssertConfigurationIsValid(typeMap);
+  }
+
+  public void AssertConfigurationIsValid(string profileName)
+  {
+    this._provider.AssertConfigurationIsValid(profileName);
+  }
+
+  public TypeMap CreateTypeMap(Type sourceType, Type destinationType)
+  {
+    return this._provider.CreateTypeMap(sourceType, destinationType);
+  }
+
+  public TypeMap FindTypeMapFor(ResolutionResult resolutionResult, Type destinationType)
+  {
+    return this._provider.FindTypeMapFor(resolutionResult, destinationType);
+  }
+
+  public TypeMap FindTypeMapFor(Type sourceType, Type destinationType)
+  {
+    return this._provider.FindTypeMapFor(sourceType, destinationType);
+  }
+
+  public TypeMap FindTypeMapFor(object source, object destination, Type sourceType, Type destinationType)
+  {
+    return this._provider.FindTypeMapFor(source, destination, sourceType, destinationType);
+  }
+
+  public TypeMap[] GetAllTypeMaps()
+  {
+    return this._provider.GetAllTypeMaps();
+  }
+
+  public IObjectMapper[] GetMappers()
+  {
+    return this._provider.GetMappers();
+  }
+
+  public IFormatterConfiguration GetProfileConfiguration(string profileName)
+  {
+    return this._provider.GetProfileConfiguration(profileName);
+  }
+}
+```
 
 That was long, but there's not much logic to it. You could probably do
 some magic to make this smaller with Castle.DynamicProxy but I'm keeping
@@ -186,53 +190,57 @@ it simple here.
 
 That’s actually pretty easy:
 
-    // Register your mappings here, but don't set any
-    // ConstructServicesUsing settings.
-    Mapper.Initialize(cfg =>
-    {
-      cfg.AddProfile<SomeProfile>();
-      cfg.AddProfile<OtherProfile>();
-    });
+```csharp
+// Register your mappings here, but don't set any
+// ConstructServicesUsing settings.
+Mapper.Initialize(cfg =>
+{
+  cfg.AddProfile<SomeProfile>();
+  cfg.AddProfile<OtherProfile>();
+});
 
-    // Start your Autofac container.
-    var builder = new ContainerBuilder();
+// Start your Autofac container.
+var builder = new ContainerBuilder();
 
-    // Register your custom type converters and other dependencies.
-    builder.RegisterType<DemoConverter>().InstancePerApiRequest();
-    builder.RegisterApiControllers(Assembly.GetExecutingAssembly());
+// Register your custom type converters and other dependencies.
+builder.RegisterType<DemoConverter>().InstancePerApiRequest();
+builder.RegisterApiControllers(Assembly.GetExecutingAssembly());
 
-    // Register the mapping engine to use the base configuration but
-    // a per-request lifetime scope for dependencies.
-    builder.Register(c =>
-    {
-      var context = c.Resolve<IComponentContext>();
-      var config = new ConfigurationProviderProxy(Mapper.Configuration as IConfigurationProvider, context);
-      return new MappingEngine(config);
-    }).As<IMappingEngine>()
-    .InstancePerApiRequest();
+// Register the mapping engine to use the base configuration but
+// a per-request lifetime scope for dependencies.
+builder.Register(c =>
+{
+  var context = c.Resolve<IComponentContext>();
+  var config = new ConfigurationProviderProxy(Mapper.Configuration as IConfigurationProvider, context);
+  return new MappingEngine(config);
+}).As<IMappingEngine>()
+.InstancePerApiRequest();
 
-    // Build the container.
-    var container = builder.Build();
+// Build the container.
+var container = builder.Build();
+```
 
 **Now all you have to do is take an `IMappingEngine` as a
 dependency**and use that rather than `AutoMapper.Mapper` for mapping.
 
-    public class MyController : ApiController
-    {
-      private IMappingEngine _mapper;
+```csharp
+public class MyController : ApiController
+{
+  private IMappingEngine _mapper;
 
-      public MyController(IMappingEngine mapper)
-      {
-        this._mapper = mapper;
-      }
+  public MyController(IMappingEngine mapper)
+  {
+    this._mapper = mapper;
+  }
 
-      [Route("api/myaction")]
-      public SomeValue GetSomeValue()
-      {
-        // Do some work and use the IMappingEngine for maps.
-        return this._mapper.Map<SomeValue>(otherValue);
-      }
-    }
+  [Route("api/myaction")]
+  public SomeValue GetSomeValue()
+  {
+    // Do some work and use the IMappingEngine for maps.
+    return this._mapper.Map<SomeValue>(otherValue);
+  }
+}
+```
 
 **Following that pattern, any mapping dependencies will be resolved out
 of the per-request lifetime scope rather than the application root

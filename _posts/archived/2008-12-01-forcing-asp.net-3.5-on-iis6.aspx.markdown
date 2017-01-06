@@ -4,7 +4,7 @@ title: "Forcing ASP.NET 3.5 on IIS6"
 date: 2008-12-01 -0800
 comments: true
 disqus_identifier: 1470
-tags: [Web Development]
+tags: [aspnet]
 ---
 I realize I'm probably a bit behind the times on this one, but there was
 just something I wasn't *getting* until now.

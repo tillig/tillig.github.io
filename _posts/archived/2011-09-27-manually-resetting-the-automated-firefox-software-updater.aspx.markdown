@@ -4,7 +4,7 @@ title: "Manually Resetting the Automated Firefox Software Updater"
 date: 2011-09-27 -0800
 comments: true
 disqus_identifier: 1736
-tags: [Web Development,GeekSpeak]
+tags: [web,gists,windows]
 ---
 I run in Windows as a non-admin user. Whenever I need to install
 something and Windows prompts for credentials, I have a whole separate
@@ -40,12 +40,12 @@ cache.
 Per [this Mozillazine
 article](http://kb.mozillazine.org/Software_update), to do this:
 
-1.  **Close Firefox. 
+1.  **Close Firefox.
     **
 2.  **Open the temporary application data folder for Firefox**. In
-    Windows Vista and above, this is: 
+    Windows Vista and above, this is:
     `C:\Users\your-username-here\AppData\Local\Mozilla\Firefox\Mozilla Firefox`
-    
+
 3.  Inside that folder, you'll see a folder called "updates" and two
     files "active-update.xml" and "updates.xml" - **delete the "updates"
     folder and the two XML files**.

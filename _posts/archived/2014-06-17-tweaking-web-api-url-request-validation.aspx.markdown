@@ -4,7 +4,7 @@ title: "Tweaking Web API URL Request Validation"
 date: 2014-06-17 -0800
 comments: true
 disqus_identifier: 1844
-tags: [net,Web Development]
+tags: [net,aspnet]
 ---
 In working with a REST API project I’m on, I was tasked to create a
 DELETE operation that would take the resource ID in the URL path, like:

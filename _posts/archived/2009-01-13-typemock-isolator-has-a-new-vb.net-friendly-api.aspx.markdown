@@ -4,7 +4,7 @@ title: "Typemock Isolator Has a New VB.NET Friendly API"
 date: 2009-01-13 -0800
 comments: true
 disqus_identifier: 1485
-tags: [net]
+tags: [net,testing]
 ---
 Typemock Isolator 5.2 is out, and they've updated their mocking API to
 be more Visual Basic friendly. If you're quick about it, you may even be

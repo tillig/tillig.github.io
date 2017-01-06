@@ -4,7 +4,7 @@ title: "Book Review: Testing ASP.NET Web Applications"
 date: 2010-08-06 -0800
 comments: true
 disqus_identifier: 1660
-tags: [net,Web Development]
+tags: [net,aspnet,testing,books]
 ---
 [![Testing ASP.NET Web Applications by Jeff McWherter and Ben
 Hall](http://ecx.images-amazon.com/images/I/51X2nhpR2-L._SL160_.jpg "Testing ASP.NET Web Applications by Jeff McWherter and Ben Hall")](http://www.amazon.com/gp/product/0470496649?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470496649)I

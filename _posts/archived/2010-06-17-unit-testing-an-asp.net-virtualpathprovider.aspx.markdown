@@ -4,7 +4,7 @@ title: "Unit Testing an ASP.NET VirtualPathProvider"
 date: 2010-06-17 -0800
 comments: true
 disqus_identifier: 1651
-tags: [net,Web Development]
+tags: [net,aspnet,testing,gists,csharp]
 ---
 [The VirtualPathProvider
 class](http://msdn.microsoft.com/en-us/library/system.web.hosting.virtualpathprovider.aspx)
@@ -53,10 +53,10 @@ Here's a sample test fixture that does just that:
           this._hostingEnvironmentDomain.SetData(".appPath", Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
           this._hostingEnvironmentDomain.SetData(".appVPath", "/");
           this._hostingEnvironmentDomain.SetData(".domainId", "HostingEnvironmentTests");
-          
+
           // Initialize the hosting environment.
           HostingEnvironment environment = this._hostingEnvironmentDomain.CreateInstanceAndUnwrap(typeof(HostingEnvironment).Assembly.FullName, typeof(HostingEnvironment).FullName) as HostingEnvironment;
-          
+
           // Finally, register your VPP instance so you can test.
           this.Execute(() =>
             {

@@ -4,7 +4,7 @@ title: "ASP.NET 404 and Windows Server 2003"
 date: 2007-09-25 -0800
 comments: true
 disqus_identifier: 1273
-tags: [Web Development]
+tags: [aspnet]
 ---
 Ran into this today and it'd been so long since I'd fought with this
 issue, it took me some time to re-figure it out.  So, as a reminder to

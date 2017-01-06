@@ -4,7 +4,7 @@ title: "Mozilla Firefox with Hanselman"
 date: 2011-10-26 -0800
 comments: true
 disqus_identifier: 1744
-tags: [GeekSpeak,Web Development]
+tags: [web,downloads]
 ---
 Bing released a [Firefox With Bing
 addon](http://www.firefoxwithbing.com/), which prompted Scott Hanselman

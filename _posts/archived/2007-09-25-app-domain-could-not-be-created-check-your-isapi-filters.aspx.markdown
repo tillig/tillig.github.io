@@ -4,7 +4,7 @@ title: "&quot;App-Domain could not be created&quot; - Check Your ISAPI Filters"
 date: 2007-09-25 -0800
 comments: true
 disqus_identifier: 1272
-tags: [Web Development,net]
+tags: [aspnet,net]
 ---
 Ran into an issue this morning where I was working on an IIS instance
 that just could not for the life of it create an AppDomain to run any

@@ -4,7 +4,7 @@ title: "IIS Express Adds a (Possibly Duplicate) Certificate During Install"
 date: 2011-03-17 -0800
 comments: true
 disqus_identifier: 1702
-tags: [net,GeekSpeak,vs,Web Development]
+tags: [net,web,vs]
 ---
 **When you install IIS Express it also installs a self-signed
 certificate that it will use for SSL.** This is not normally a problem,

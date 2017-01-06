@@ -4,7 +4,7 @@ title: "ASP.NET Testing with Ivonna"
 date: 2008-04-16 -0800
 comments: true
 disqus_identifier: 1376
-tags: [Web Development,net]
+tags: [aspnet,net,testing,csharp,gists]
 ---
 [Hmmm, that sort of sounds like a PBS show or something. Hehehe.]
 
@@ -21,87 +21,91 @@ Say you have a web form that takes in two numbers and adds them
 together. Yes, your typical overused calculator application. The page
 probably looks like this:
 
-    <%@ Page Language="C#" Inherits="System.Web.UI.Page" %>
-    <html>
-      <head runat="server">
-        <title>Calculator</title>
-      </head>
-      <body>
-        <form id="form1" runat="server">
-          <table>
-            <tr>
-              <td>First number:</td>
-              <td><asp:TextBox ID="FirstNumber" runat="server"/></td>
-            </tr>
-            <tr>
-              <td>Second number:</td>
-              <td><asp:TextBox ID="SecondNumber" runat="server"/></td>
-            </asp:TableRow>
-            <tr>
-              <td ColumnSpan="2">
-                <asp:Button
-                 ID="SubmitButton"
-                 runat="server"
-                 Text="Calculate"
-                 OnClick="SubmitButton_Click" />
-              </td>
-            </tr>
-            <tr>
-              <td ColumnSpan="2" HorizontalAlign="Right">
-                Total: <asp:Label ID="Sum" runat="server"/>
-              </td>
-            </tr>
-          <table>
-        </form>
-      </body>
-    </html>
-    <script runat="server">
-    void SubmitButton_Click(object sender, EventArgs e)
-    {
-      this.Sum.Text = (
-        Double.Parse(this.FirstNumber.Text) +
-        Double.Parse(this.SecondNumber.Text)
-        ).ToString();
-    }
-    </script>
+```html
+<%@ Page Language="C#" Inherits="System.Web.UI.Page" %>
+<html>
+  <head runat="server">
+    <title>Calculator</title>
+  </head>
+  <body>
+    <form id="form1" runat="server">
+      <table>
+        <tr>
+          <td>First number:</td>
+          <td><asp:TextBox ID="FirstNumber" runat="server"/></td>
+        </tr>
+        <tr>
+          <td>Second number:</td>
+          <td><asp:TextBox ID="SecondNumber" runat="server"/></td>
+        </asp:TableRow>
+        <tr>
+          <td ColumnSpan="2">
+            <asp:Button
+             ID="SubmitButton"
+             runat="server"
+             Text="Calculate"
+             OnClick="SubmitButton_Click" />
+          </td>
+        </tr>
+        <tr>
+          <td ColumnSpan="2" HorizontalAlign="Right">
+            Total: <asp:Label ID="Sum" runat="server"/>
+          </td>
+        </tr>
+      <table>
+    </form>
+  </body>
+</html>
+<script runat="server">
+void SubmitButton_Click(object sender, EventArgs e)
+{
+  this.Sum.Text = (
+    Double.Parse(this.FirstNumber.Text) +
+    Double.Parse(this.SecondNumber.Text)
+    ).ToString();
+}
+</script>
+```
 
 A couple of text boxes, a submit button, and a label to take in the
 result. You want to test that entering the numbers into the boxes
 and clicking the button actually puts the right text into the label.
 Check this out - it doesn't get much simpler:
 
-    using System;
-    using System.Web.UI;
-    using System.Web.UI.WebControls;
-    using Ivonna.Core;
-    using Ivonna.Framework;
-    using NUnit.Framework;
-    using TypeMock;
+```csharp
+using System;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using Ivonna.Core;
+using Ivonna.Framework;
+using NUnit.Framework;
+using TypeMock;
 
-    namespace UnitTests
+namespace UnitTests
+{
+  [TestFixture]
+  [VerifyMocks]
+  [RunOnWeb(@"C:\Path\To\WebApplication", @"/")]
+  public class DefaultPageTestFixture : WebFixture
+  {
+    [Test]
+    public void AddTwoNumbers()
     {
-      [TestFixture]
-      [VerifyMocks]
-      [RunOnWeb(@"C:\Path\To\WebApplication", @"/")]
-      public class DefaultPageTestFixture : WebFixture
-      {
-        [Test]
-        public void AddTwoNumbers()
-        {
-          TestSession session = this.InitSession();
-          Page page = session.GetPage("Default.aspx");
-          TextBox firstNumber = (TextBox)page.FindControl("FirstNumber");
-          firstNumber.Text = "15";
-          TextBox secondNumber = (TextBox)page.FindControl("SecondNumber");
-          secondNumber.Text = "20";
+      TestSession session = this.InitSession();
+      Page page = session.GetPage("Default.aspx");
+      TextBox firstNumber = (TextBox)page.FindControl("FirstNumber");
+      firstNumber.Text = "15";
+      TextBox secondNumber = (TextBox)page.FindControl("SecondNumber");
+      secondNumber.Text = "20";
 
-          page = session.ProcessPostback("SubmitButton");
-          Label sum = (Label)page.FindControl("Sum");
-          Assert.AreEqual("35", sum.Text);
-          this.EndSession();
-        }
-      }
+      page = session.ProcessPostback("SubmitButton");
+      Label sum = (Label)page.FindControl("Sum");
+      Assert.AreEqual("35", sum.Text);
+      this.EndSession();
     }
+  }
+}
+```
 
 That looks a lot like ASP.NET codebehind, doesn't it? Familiar syntax?
 And you didn't have to automate a browser, fire up a web server

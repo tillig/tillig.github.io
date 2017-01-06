@@ -4,7 +4,7 @@ title: "Test Your Deployed Web Site Package with IIS Express and Visual Studio"
 date: 2011-07-20 -0800
 comments: true
 disqus_identifier: 1726
-tags: [net,vs,Web Development]
+tags: [net,vs,testing,gists]
 ---
 With [the ability to transform your web.config file when deploying your
 web site](http://msdn.microsoft.com/en-us/library/dd465318.aspx) came,
@@ -184,7 +184,7 @@ Machine!** Have fun!
         </ProjectReference>
       </ItemGroup>
       <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-      <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+      <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
            Other similar extension points exist, see Microsoft.Common.targets.
       <Target Name="BeforeBuild">
       </Target>  -->

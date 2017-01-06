@@ -4,7 +4,7 @@ title: "Trying Out DevExpress MVC Extensions"
 date: 2011-03-24 -0800
 comments: true
 disqus_identifier: 1705
-tags: [net,Web Development,GeekSpeak]
+tags: [net,coderush,aspnet]
 ---
 I'm a [huge CodeRush and Refactor
 user](http://cr-documentor.googlecode.com) and
@@ -214,7 +214,7 @@ creation. Same thing with adding a little delete link column -
 reasonably simple. Here's the code we end up with...
 
     <%@ Control Language="C#" Inherits="System.Web.Mvc.ViewUserControl<IEnumerable<Person>>" %>
-    <% 
+    <%
       Html.DevExpress().GridView(
         settings =>
         {

@@ -4,7 +4,7 @@ title: "Unfortunate Things with JSON, jQuery UI Datepicker, and Dates"
 date: 2013-02-06 -0800
 comments: true
 disqus_identifier: 1808
-tags: [Web Development]
+tags: [javascript]
 ---
 I’m trying to write an HtmlHelper extension that lets you dump out
 options that build a [jQuery UI
@@ -34,7 +34,7 @@ consistent format.
     because I’m using a compatible mechanism on the server and perf
     isn’t really a necessity given you’ve only got a couple of date
     pickers on a page generally, each of which only have a couple of
-    date-oriented options. 
+    date-oriented options.
 -   **jQuery UI datepicker has its own date formatting mechanism**. It
     doesn’t use the same format strings as .NET, sprintf, strftime, or
     anything else I can figure. Same goes for parsing. That means
@@ -48,7 +48,7 @@ consistent format.
     extensions](http://msdn.microsoft.com/en-us/library/bb310850%28v=vs.100%29.aspx)
     because then I can also let the default MVC model binder do whatever
     it needs to do in a locale-aware manner without having to
-    special-case stuff. 
+    special-case stuff.
 -   **jQuery UI datepicker localization is lacking.** In .NET resources,
     you have this sort of fallback mechanism where “en-US” falls back to
     “en” which falls back to invariant culture. You provide the most
@@ -59,13 +59,13 @@ consistent format.
     (String.Format style) will potentially be inconsistent with dates
     formatted on the client side. I ended up generating all of the
     localized options on the server and piping them to the client rather
-    than using the script-based localization. 
+    than using the script-based localization.
 -   **jQuery.data() hates camelCase attributes.** Yeah, I know HTML
     attributes are all supposed to be lowercase. But try this with
-    jQuery 1.9.0: Set up an HTML element like this: 
+    jQuery 1.9.0: Set up an HTML element like this:
     `<div id=”test” data-someDataHere=”1”>Content</div>       `now try
-    and get that using jQuery.data(): 
-    `var data = $(“#test”).data().someDataHere;` 
+    and get that using jQuery.data():
+    `var data = $(“#test”).data().someDataHere;`
     It won’t work. You’ll get some sort of exception down in the bowels
     of things because it’s looking for an attribute that’s all
     lower-case-dashes like `data-some-data-here `rather than the actual

@@ -4,7 +4,7 @@ title: "Book Review: Professional ASP.NET 3.5 Security, Membership, and Role Man
 date: 2009-01-06 -0800
 comments: true
 disqus_identifier: 1484
-tags: [Web Development]
+tags: [aspnet,books]
 ---
 [![Professional ASP.NET 3.5 Security, Membership, and Role Management
 with C\# and
