@@ -4,7 +4,7 @@ title: "Parsing Currency Values with ASP.NET AJAX"
 date: 2009-09-30 -0800
 comments: true
 disqus_identifier: 1570
-tags: [Web Development,Code Snippets]
+tags: [Web Development,gists]
 ---
 I had to parse a culture-sensitive currency value from a string and
 couldn't figure out how to do it. I'm using ASP.NET AJAX to do
@@ -32,8 +32,8 @@ What it's doing:
     comes back as not-a-number, chances are that's what you're hitting.
 4.  If the parsed value comes back as not-a-number, we know there are
     five pre-defined negative number formats that are possible in
-    ASP.NET AJAX: 
-     `["(n)","-n","- n","n-","n -"]` 
+    ASP.NET AJAX:
+     `["(n)","-n","- n","n-","n -"]`
      For each of those possible formats...
     1.  Create a temporary culture, based on the Invariant culture, that
         uses the selected negative number pattern. (When you ask for the

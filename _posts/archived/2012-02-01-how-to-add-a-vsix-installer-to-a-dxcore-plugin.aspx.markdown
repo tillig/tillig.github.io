@@ -4,7 +4,7 @@ title: "How to Add a VSIX Installer to a DXCore Plugin"
 date: 2012-02-01 -0800
 comments: true
 disqus_identifier: 1766
-tags: [net,vs,GeekSpeak,Code Snippets]
+tags: [net,vs,GeekSpeak,gists]
 ---
 [As of CodeRush/Refactor/DXCore
 11.2](http://www.skorkin.com/2011/10/deploying-dxcore-coderush-or-community-plug-ins-using-a-vsix-extension/),
@@ -82,10 +82,10 @@ to the project properties.
 -   **Switch the target framework to .NET 4.0.** You need to do this
     because VSIX only supports .NET 4.0. It does mean you'll be giving
     up support in your plugin for versions of Visual Studio before 2010.
-    
+
     ![Set the target framework to .NET
     4.0](https://hyqi8g.bl3301.livefilestore.com/y2pUoRzmo2mCUgthrYegUCyg748HaeowaucYS8JcpwsLr6JF7BMdzwsCvYwm5CdNTPidakYlV_naTATzNncTAWfYUGv5cc4un-HC_hzNkUFzI4/20120201apptab.png?psid=1) 
-    
+
 -   **Switch your build output paths to `bin\Debug\` and
     `bin\Release\`** for the Debug and Release build configurations,
     respectively. Most plugin projects have the build output set so the
@@ -94,7 +94,7 @@ to the project properties.
     different way, so you don't want the plugin going into the Community
     Plugins folder anymore. You do need to have a build output location,
     though, so switch it back to the standard `bin\Debug\` or
-    `bin\Release\` location. 
+    `bin\Release\` location.
 -   **Remove any post-build copy/deployment tasks.** In my plugins,
     rather than change the build output paths, I use post-build copy
     tasks to copy the plugin into my Community Plugins folder. Again,
@@ -120,9 +120,9 @@ the top-level `PropertyGroup` node, which appears just below the root
 `Project` node, you need to:
 
 -   **Add a `ProjectTypeGuids` node** that has the VSIX project GUIDs in
-    it. 
+    it.
     `<ProjectTypeGuids>{82b43b9b-a64c-4715-b499-d71e9ca2bd60};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>        `
--   **Add the VSIX properties** that help direct the VSIX build. 
+-   **Add the VSIX properties** that help direct the VSIX build.
     `<GeneratePkgDefFile>false</GeneratePkgDefFile>        <IncludeAssemblyInVSIXContainer>true</IncludeAssemblyInVSIXContainer>         <IncludeDebugSymbolsInVSIXContainer>true</IncludeDebugSymbolsInVSIXContainer>         <IncludeDebugSymbolsInLocalVSIXDeployment>false</IncludeDebugSymbolsInLocalVSIXDeployment>         <CopyBuildOutputToOutputDirectory>true</CopyBuildOutputToOutputDirectory>         <CopyOutputSymbolsToOutputDirectory>true</CopyOutputSymbolsToOutputDirectory>`
 
 My top-level PropertyGroup node in CR\_Documentor now looks like this.
@@ -154,7 +154,7 @@ I've made the additions **bold**.
 build successfully. For example, early on I forgot to add the
 `GeneratePkgDefFile` property over and set it to `false`. For quite some
 time I got an odd error that I couldn't figure out and stopped the build
-from finishing: 
+from finishing:
 `CreatePkgDef : error : No Visual Studio registration attribute found in this assembly.`
 
 Adding the property fixed the build. I was able to find my error by
@@ -163,10 +163,10 @@ created. That's why I mentioned that as an optional step at the top –
 it's good to have something working to compare against.
 
 **Now add the build targets that allow VSIX to compile.** At the bottom
-of your project file, locate the following line: 
+of your project file, locate the following line:
 `<Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />`
 
-Just below that, add this line to reference the VS SDK targets: 
+Just below that, add this line to reference the VS SDK targets:
 `<Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v10.0\VSSDK\Microsoft.VsSDK.targets" />`
 
 **If there's any additional project cleanup you want to do, now's a
@@ -266,10 +266,10 @@ environment.
 > VS. It's just the user profile that's considered "experimental."
 >
 > An interesting side note is that you can actually see where VS is
-> deploying your plugin for debugging if you look in 
+> deploying your plugin for debugging if you look in
 > `%USERPROFILE%\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions`
-> 
-> which is something like 
+>
+> which is something like
 > `C:\Users\yourusername\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions`
 >
 > If you run into issues where you have to manually remove your
@@ -277,8 +277,8 @@ environment.
 > folder.
 
 **On the Debug tab**, set the "Start external program" value to start
-Visual Studio (devenv.exe). Under "Command line arguments," put 
-`/rootsuffix Exp` 
+Visual Studio (devenv.exe). Under "Command line arguments," put
+`/rootsuffix Exp`
 to instruct Visual Studio to use the "experimental" instance of Visual
 Studio.
 
@@ -358,29 +358,29 @@ for your project.
 -   **Supported VS Editions**: Open this and select all of the standard
     VS 2010 editions as well as all Express editions. Since DXCore can
     run on any of these, you want your plugin for DXCore to also be
-    discoverable by people with any of these versions. 
-     
+    discoverable by people with any of these versions.
+
     Note that you may start getting a build warning once you select the
-    Express Editions of Visual Studio: 
+    Express Editions of Visual Studio:
     `source.extension.vsixmanifest : warning : VSIX targets Express Versions of Visual Studio but VSIX contains non-template content.`
-    
+
     From what I can tell, [this warning is erroneous and can be
     ignored](http://social.msdn.microsoft.com/Forums/en-NZ/vsx/thread/264c4a1f-a550-4d2b-8d59-a896f47312ca).
     On the other hand,**if you choose the Express Editions and see this
     warning, you won't be able to upload your VSIX to the Visual Studio
     Extension Gallery**. The Gallery auto-checks the uploaded VSIX and
     rejects any VSIX with non-template content targeted to VS Express
-    SKUs. 
+    SKUs.
     ![Select all of the VS
     editions](https://hyqi8g.blu.livefilestore.com/y2p51UUgg1CkmgyM33LZoixKxc1iPqQEQJUAbAdntw_MYdpWzn-Oos8ELXjPXzAiIEfGcqq3MW_SUHDSZ4AMkixUeIuihcqCsuAZOgUl1N3ZI4/20120201vseditions.png?psid=1)
-    
+
 -   **License Terms**: This is a small text file that will contain
     license information for your plugin. You'll see this information
     when you install the plugin. I called mine "license.txt" because
-    it's easy. 
+    it's easy.
     ![License content shows up in the
     installer](https://hyqi8g.bl3302.livefilestore.com/y2pia8npYhKK1QpHf82fqlokKornfFHFIE7T3k4XaP9fmQHOJFVnZ-ujXlDzGYPfIKpONWMhz3IRbNYjuz7pH4phAL_SAdmEsKbr68S6sxmsLk/20120201license.png?psid=1)
-    
+
 -   **Icon**: A 32x32 image (png/bmp/jpg/ico) that will appear in the
     Extension Manager and the Gallery next to your plugin's name and
     description.

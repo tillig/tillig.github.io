@@ -4,7 +4,7 @@ title: "Combining Skins and Localized Strings in ASP.NET"
 date: 2007-11-29 -0800
 comments: true
 disqus_identifier: 1311
-tags: [Code Snippets,Web Development,net]
+tags: [gists,Web Development,net]
 ---
 Let's say you have some text on your web site that has an image inline. 
 Something like this:

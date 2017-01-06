@@ -4,7 +4,7 @@ title: "Html.DemoPartial - Side-by-Side Render and Code for Partial Views"
 date: 2012-05-09 -0800
 comments: true
 disqus_identifier: 1781
-tags: [net,Code Snippets,Web Development]
+tags: [net,gists,Web Development]
 ---
 I was working on an ASP.NET MVC site for demonstrating some internal
 concepts recently. One of the things I wanted to show was how to use

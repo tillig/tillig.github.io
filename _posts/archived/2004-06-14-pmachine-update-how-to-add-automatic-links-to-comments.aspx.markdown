@@ -4,7 +4,7 @@ title: "pMachine Update: How To Add Automatic Links To Comments"
 date: 2004-06-14 -0800
 comments: true
 disqus_identifier: 585
-tags: [Code Snippets]
+tags: [gists]
 ---
 I had a problem where I wanted to add a pMCode tag in pMachine to allow
 me to automatically link to other pages on my site. For example,

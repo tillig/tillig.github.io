@@ -4,7 +4,7 @@ title: "Replace jQuery Validation Message Formatting with ASP.NET AJAX String.fo
 date: 2009-09-29 -0800
 comments: true
 disqus_identifier: 1568
-tags: [Web Development,Code Snippets]
+tags: [Web Development,gists]
 ---
 I'm working on a site where we're using both ASP.NET AJAX and jQuery to
 get things done. This includes [jQuery

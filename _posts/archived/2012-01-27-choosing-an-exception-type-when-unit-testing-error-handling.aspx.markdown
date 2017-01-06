@@ -4,7 +4,7 @@ title: "Choosing an Exception Type When Unit Testing Error Handling"
 date: 2012-01-27 -0800
 comments: true
 disqus_identifier: 1763
-tags: [net,Code Snippets]
+tags: [net,gists]
 ---
 When I'm testing exception handling code, I have tests for exceptions I
 know I need to handle and tests for exceptions I'm not expecting.

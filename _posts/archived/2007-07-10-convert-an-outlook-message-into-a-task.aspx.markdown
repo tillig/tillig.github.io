@@ -4,7 +4,7 @@ title: "Convert An Outlook Message Into A Task"
 date: 2007-07-10 -0800
 comments: true
 disqus_identifier: 1229
-tags: [Code Snippets]
+tags: [gists]
 ---
 **UPDATED 7/11/2007:** Added handling for email subject line or first
 line of body to be the task subject; also added Outlook security
@@ -35,7 +35,7 @@ other scripts going, it might not be empty.  In that window, paste this:
     Sub ProcessMailItemIntoTask(Item As Outlook.MailItem)
         Dim strTaskName As String
         strTaskName = Trim(Item.Subject)
-        
+
         If Len(strTaskName) < 1 Then
             ' No subject - use the first line of the body
             strTaskName = Trim(Item.Body)
@@ -45,14 +45,14 @@ other scripts going, it might not be empty.  In that window, paste this:
                 strTaskName = Trim(Left(strTaskName, intCrLfPos - 1))
             End If
         End If
-        
+
         ' Trim TASK: off the line
         Dim intKeyWordPos As Integer
         intKeyWordPos = InStr(1, strTaskName, "TASK:", vbTextCompare)
         If intKeyWordPos = 1 Then
             strTaskName = Trim(Right(strTaskName, Len(strTaskName) - 5))
         End If
-        
+
         ' Create the task
         Dim objTask As Outlook.TaskItem
         Set objTask = Application.CreateItem(olTaskItem)

@@ -4,7 +4,7 @@ title: "The Old Enum Switcharoo"
 date: 2007-10-18 -0800
 comments: true
 disqus_identifier: 1279
-tags: [Code Snippets,net]
+tags: [gists,net]
 ---
 Some friends of mine at work, Vish and Peter, found this one.  It's
 tasty.

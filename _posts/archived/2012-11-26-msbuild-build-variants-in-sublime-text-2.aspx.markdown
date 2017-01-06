@@ -4,7 +4,7 @@ title: "MSBuild Build Variants in Sublime Text 2"
 date: 2012-11-26 -0800
 comments: true
 disqus_identifier: 1795
-tags: [net,Code Snippets]
+tags: [net,gists]
 ---
 Sublime Text 2 has a nice feature where you can hit "Ctrl+B" or select
 "Tools -\> Build" from the menus and, based on the current file type, a
@@ -16,8 +16,8 @@ I recently released an update to [my MSBuild package for Sublime Text
 variants" for MSBuild that specifically set Debug or Release
 configuration during the build. Basically:
 
-`msbuild yourscript.proj /p:Configuration=Debug` 
-or 
+`msbuild yourscript.proj /p:Configuration=Debug`
+or
 `msbuild yourscript.proj /p:Configuration=Release`
 
 I didn't know [this was

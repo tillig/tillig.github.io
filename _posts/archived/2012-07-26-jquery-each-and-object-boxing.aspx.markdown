@@ -4,7 +4,7 @@ title: "jQuery.each and Object Boxing"
 date: 2012-07-26 -0800
 comments: true
 disqus_identifier: 1786
-tags: [Web Development,Code Snippets]
+tags: [Web Development,gists]
 ---
 I just spent like six hours trying to figure this out, so profit from my
 experience.

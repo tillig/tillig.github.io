@@ -4,7 +4,7 @@ title: "Simplest Embedded Web Server Ever with HttpListener"
 date: 2008-07-16 -0800
 comments: true
 disqus_identifier: 1418
-tags: [Code Snippets,Web Development,net]
+tags: [gists,Web Development,net]
 ---
 While working on solving [a CR\_Documentor known
 issue](/archive/2008/07/14/cr_documentor-known-issue-javascript-security-warning.aspx),
@@ -228,7 +228,7 @@ CR\_Documentor.
           this._connectionManagerThread = null;
         }
       }
-      
+
       public class HttpRequestEventArgs : EventArgs
       {
         public HttpListenerContext RequestContext { get; private set; }
@@ -274,12 +274,12 @@ it looks like in a simple console program host:
               }
               System.Threading.Thread.Sleep(1000);
             }
-            
+
           }
           Console.WriteLine("Done. Press any key to exit.");
           Console.ReadLine();
         }
-        
+
         public static void WebServer_IncomingRequest(object sender, HttpRequestEventArgs e)
         {
           HttpListenerResponse response = e.RequestContext.Response;

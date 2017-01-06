@@ -4,7 +4,7 @@ title: "Putting Presence Info Into Web Parts"
 date: 2004-02-09 -0800
 comments: true
 disqus_identifier: 498
-tags: [Code Snippets,Web Development]
+tags: [gists,Web Development]
 ---
 I threw together a quick tip that I posted to MSD2D about [how to
 integrate user presence information into web
@@ -18,7 +18,7 @@ displays a list of the current WSS site administrators (so users know
 who to contact to get more than just reader permissions) and threw their
 presence info in there so if someone wanted to request permissions or
 ask a question, it was right there for them.
- 
+
  I'm thinking I should put together a series of articles talking about
 how to build that "list site admins" web part. It's actually not as easy
 as you might think, since you have to run the part as an administrator

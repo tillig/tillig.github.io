@@ -4,7 +4,7 @@ title: "Getting the Windows OS Version in MSBuild"
 date: 2009-07-06 -0800
 comments: true
 disqus_identifier: 1546
-tags: [Code Snippets,net]
+tags: [gists,net]
 ---
 I saw [a tweet come
 across](http://twitter.com/chadmyers/status/2502153625) asking how to

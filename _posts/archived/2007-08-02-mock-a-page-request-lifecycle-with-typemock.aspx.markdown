@@ -4,7 +4,7 @@ title: "Mock a Page Request Lifecycle with TypeMock"
 date: 2007-08-02 -0800
 comments: true
 disqus_identifier: 1246
-tags: [GeekSpeak,Code Snippets,Web Development,net]
+tags: [GeekSpeak,gists,Web Development,net]
 ---
 Let's say you're writing a service like an
 [HttpModule](http://msdn2.microsoft.com/en-us/library/system.web.ihttpmodule.aspx) that
@@ -34,22 +34,22 @@ did during Load... here's what that looks like:
     public void MyPageServiceTest()
     {
       Page page = new Page();
-      
+
       MockObject<HttpBrowserCapabilities> mockBrowser = MockManager.MockObject<HttpBrowserCapabilities>(Constructor.NotMocked);
       mockBrowser.ExpectGetAlways("PreferredRenderingMime", "text/html");
       mockBrowser.ExpectGetAlways("PreferredResponseEncoding", "UTF-8");
       mockBrowser.ExpectGetAlways("PreferredRequestEncoding", "UTF-8");
       mockBrowser.ExpectGetAlways("SupportsMaintainScrollPositionOnPostback", false);
-      
+
       MockObject<HttpRequest> mockRequest = MockManager.MockObject<HttpRequest>(Constructor.Mocked);
       mockRequest.ExpectGetAlways("FilePath", "/default.aspx");
       mockRequest.ExpectGetAlways("HttpMethod", "GET");
       mockRequest.ExpectGetAlways("Browser", mockBrowser.Object);
-      
+
       MockObject<HttpResponse> mockResponse = MockManager.MockObject<HttpResponse>(Constructor.Mocked);
-      
+
       HttpContext mockContext = new HttpContext(mockRequest.Object, mockResponse.Object);
-      
+
       using (StringWriter stringWriter = new StringWriter())
       using (HtmlTextWriter htmlWriter = new HtmlTextWriter(stringWriter))
       {

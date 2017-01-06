@@ -4,7 +4,7 @@ title: "Explore From Here - Command Line"
 date: 2012-01-30 -0800
 comments: true
 disqus_identifier: 1764
-tags: [GeekSpeak,Code Snippets]
+tags: [GeekSpeak,gists]
 ---
 I'm [a big fan of the "command prompt here" context menu
 extensions](/archive/2007/11/20/command-prompt-here-round-up.aspx) for

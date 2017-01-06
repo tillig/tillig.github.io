@@ -4,7 +4,7 @@ title: "Putting log4net.config Outside of Application Configuration"
 date: 2009-11-20 -0800
 comments: true
 disqus_identifier: 1589
-tags: [net,Code Snippets]
+tags: [net,gists]
 ---
 I use [log4net](http://logging.apache.org/log4net/) for logging in
 various applications, but every time I start a new app I forget this and

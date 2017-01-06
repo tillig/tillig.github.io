@@ -4,7 +4,7 @@ title: "Convert a Relative Path to Absolute Path with jQuery and ASP.NET AJAX"
 date: 2009-10-02 -0800
 comments: true
 disqus_identifier: 1571
-tags: [Web Development,Code Snippets]
+tags: [Web Development,gists]
 ---
 I was messing around with relative paths to files (e.g.,
 "../images/error.gif") and needed to convert them to absolute paths
@@ -43,10 +43,10 @@ converts that to an absolute path for you. At least, Firefox 3.5.3 and
 IE 7 do, which is what I was testing with at the time.
 
 The path.startsWith and path.endsWith checks are because sometimes the
-URL comes back like: 
-url("http://server/images/error.gif") 
-...with the url("") wrapper, and sometimes it comes back like: 
-http://server/images/error.gif 
+URL comes back like:
+url("http://server/images/error.gif")
+...with the url("") wrapper, and sometimes it comes back like:
+http://server/images/error.gif
 ...without the wrapper at all.
 
 Note the String.startsWith and String.endsWith methods come from ASP.NET

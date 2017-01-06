@@ -4,7 +4,7 @@ title: "Testing Lists with Typemock Isolator"
 date: 2008-09-04 -0800
 comments: true
 disqus_identifier: 1443
-tags: [Code Snippets,net]
+tags: [gists,net]
 ---
 I've seen this question a few times in the [Typemock
 forums](http://www.typemock.com/community/index.php) so I figured I'd
@@ -31,10 +31,10 @@ to handle the situations using Typemock Isolator.
     {
       // Publicly accessible list field
       public List<string> PublicList = new List<string>();
-      
+
       // Private list that gets "wrapped" by methods/properties
       private List<string> _privateList = new List<string>();
-      
+
       // Wraps the indexer of the private list
       public string this[int index]
       {
@@ -47,7 +47,7 @@ to handle the situations using Typemock Isolator.
           _privateList[index] = value;
         }
       }
-      
+
       // Wraps the Add method on the private list
       public void Add(string value)
       {
@@ -69,7 +69,7 @@ to handle the situations using Typemock Isolator.
         // in mscorlib, we have it pretty easy because the
         // mocks get set up against the members on the ListExample
         // type, not against the List<T> object.
-        
+
         ListExample example = new ListExample();
         using(RecordExpectations recorder = RecorderManager.StartRecording())
         {
@@ -79,12 +79,12 @@ to handle the situations using Typemock Isolator.
           recorder.Return("expected");
           recorder.RepeatAlways();
         }
-        
+
         // Put these values into the list...
         example.Add("a");
         example.Add("b");
         example.Add("c");
-        
+
         // ...But what we get out is the mock value.
         // We can even ask for out of range indices.
         Assert.AreEqual("expected", example[0]);
@@ -93,7 +93,7 @@ to handle the situations using Typemock Isolator.
         Assert.AreEqual("expected", example[3]);
         Assert.AreEqual("expected", example[4]);
       }
-      
+
       [Test]
       public void FieldListMocks()
       {
@@ -101,7 +101,7 @@ to handle the situations using Typemock Isolator.
         // members on the ListExample object that wrap
         // the list so we've actually got to "mock" the
         // list proper.
-        
+
         // To accomplish the mock, we'll modify the object's
         // state by poking in our expected field value.
         ListExample example = new ListExample();
@@ -109,18 +109,18 @@ to handle the situations using Typemock Isolator.
         List<string> expectedList = new List<string>();
         expectedList.Add("expected");
         state.SetField("PublicList", expectedList);
-        
+
         // Now when we ask for the list, we're getting the
         // expected list, not the original member.
         Assert.AreEqual("expected", example.PublicList[0]);
-        
+
         // When we're done, we can reset things back to the
         // original values, which means the real PublicList
         // will be back - and will still be empty.
         state.ResetState();
         Assert.IsEmpty(example.PublicList);
       }
-      
+
       [Test]
       public void FieldListReflection()
       {
@@ -132,12 +132,12 @@ to handle the situations using Typemock Isolator.
         ListExample example = new ListExample();
         List<string> expectedList = new List<string>();
         expectedList.Add("expected");
-        
+
         typeof(ListExample)
           .GetField("PublicList",
             BindingFlags.GetField | BindingFlags.Instance | BindingFlags.Public)
           .SetValue(example, expectedList);
-        
+
         // Now when we ask for the list, we're getting the
         // expected list, not the original member.
         Assert.AreEqual("expected", example.PublicList[0]);

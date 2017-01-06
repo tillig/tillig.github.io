@@ -4,7 +4,7 @@ title: "SharePoint Tip Of The Week - Viewing Site Administrators"
 date: 2004-02-23 -0800
 comments: true
 disqus_identifier: 519
-tags: [Code Snippets,Web Development]
+tags: [gists,Web Development]
 ---
 My [*Viewing SharePoint Site
 Administrators*](http://msd2d.com/Content/Tip_viewitem.aspx?section=Sharepoint&id=1c555ddc-518a-4025-9d14-3c37afb4cfb6)
@@ -17,7 +17,7 @@ It walks through the creation of a web part that you can put on a
 SharePoint site (WSS or SPS) and see the list of administrators for that
 site (a handy thing if you have a lot of sites and people want to know
 who to contact for help).
- 
+
  I will be following this up with an additional tutorial at some point
 because there are some security foibles you have to work around in
 SharePoint that the web part doesn't address. For example, *My Sites*
@@ -26,7 +26,7 @@ administrator - by default, there are no common administrators on WSS
 sites you create under *My Site*, and the web part I wrote about uses
 the site administration group to get access to the list of users and
 determine Administrators for the site.
- 
+
  What I ended up having to do to get around it was create a "helper web
 service" that I could call from the part such that I could run the web
 service as the ASP.NET process user (thus having full access to all

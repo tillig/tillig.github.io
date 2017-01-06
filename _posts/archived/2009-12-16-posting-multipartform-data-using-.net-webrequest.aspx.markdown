@@ -4,7 +4,7 @@ title: "Posting multipart/form-data Using .NET WebRequest"
 date: 2009-12-16 -0800
 comments: true
 disqus_identifier: 1598
-tags: [net,Code Snippets]
+tags: [net,gists]
 ---
 While making my [ImageShack plugin for Windows Live
 Writer](/archive/2009/12/15/imageshackwriterplugin-upload-to-imageshack-from-windows-live-writer.aspx)
@@ -33,11 +33,11 @@ least I] understand.
 
 -   **Generate a "boundary."** A boundary is a unique string that serves
     as a delimiter between each of the form values you'll be sending in
-    your request. Usually these boundaries look something like 
-    `---------------------------7d01ecf406a6` 
+    your request. Usually these boundaries look something like
+    `---------------------------7d01ecf406a6`
     with a bunch of dashes and a unique value.
 -   **Set the request content type** to `multipart/form-data; boundary=`
-    and your boundary, like: 
+    and your boundary, like:
     `multipart/form-data; boundary=---------------------------7d01ecf406a6`
 -   **Any time you write a standard form value** to the request stream,
     you'll write:
@@ -45,7 +45,7 @@ least I] understand.
     -   Your boundary.
     -   One CRLF (\\r\\n).
     -   A content-disposition header that tells the name of the form
-        field you'll be inserting. That looks like: 
+        field you'll be inserting. That looks like:
         `Content-Disposition: form-data; name="yourformfieldname"`
     -   Two CRLFs.
     -   The value of the form field - not URL encoded.
@@ -58,11 +58,11 @@ least I] understand.
     -   One CRLF (\\r\\n).
     -   A content-disposition header that tells the name of the form
         field corresponding to the file and the name of the file. That
-        looks like: 
+        looks like:
         `Content-Disposition: form-data; name="yourformfieldname"; filename="somefile.jpg"` 
     -   One CRLF.
     -   A content-type header that says what the MIME type of the file
-        is. That looks like: 
+        is. That looks like:
         `Content-Type: image/jpg`
     -   Two CRLFs.
     -   The entire contents of the file, byte for byte. It's OK to

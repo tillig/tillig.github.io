@@ -4,7 +4,7 @@ title: "Closed Generic Types Have Their Own Statics"
 date: 2008-07-17 -0800
 comments: true
 disqus_identifier: 1419
-tags: [Code Snippets,net]
+tags: [gists,net]
 ---
 You really have to be careful when you use generic types. Say you have a
 generic type Foo\<T\> like this:

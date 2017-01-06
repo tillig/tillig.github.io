@@ -4,30 +4,30 @@ title: "Using System.Web.Caching From The Console Or Windows Forms"
 date: 2005-11-22 -0800
 comments: true
 disqus_identifier: 920
-tags: [Code Snippets]
+tags: [gists]
 ---
 I'm looking at different ways to provide caching from within an
 application so I can read in some information from a file, keep it in
 memory, and have cache dependencies perform a callback to update the
 cache whenever the file changes.
- 
+
  This is simple to do in an ASP.NET app using the
 [System.Web.Caching.Cache](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpref/html/frlrfsystemwebcachingcacheclasstopic.asp)
 object that you find in
 [HttpRequest](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpref/html/frlrfSystemWebHttpContextClassCacheTopic.asp).
 Just add something to the cache with a cache dependency and you're set.
 But what about if you're working in a console or Windows Forms app?
- 
+
  I did an experiment and it looks like you can access the cache from any
 application as long as you access it through HttpRuntime directly. I
 haven't tested to see if this works on a machine that doesn't have IIS
 installed, but I don't see why it wouldn't.
- 
+
  Below is my experiment code. It's a console app that reads/writes the
 cache with a file dependency that constantly changes. Running it, you
 can see that the cache is doing what you expect, just like in a web
 app.
- 
+
     using System;
     using System.Diagnostics;
     using System.IO;
@@ -102,6 +102,6 @@ app.
     }
 
 
- 
+
  If anyone finds a problem with it, do leave me a comment with
 reproduction info. Seems to work, though, which is pretty cool.

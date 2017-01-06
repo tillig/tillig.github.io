@@ -4,7 +4,7 @@ title: "Working with Windows Identity Foundation in ASP.NET MVC"
 date: 2011-02-01 -0800
 comments: true
 disqus_identifier: 1693
-tags: [net,Code Snippets]
+tags: [net,gists]
 ---
 If you've worked with [Windows Identity
 Foundation](http://msdn.microsoft.com/en-us/security/aa570351), you'll

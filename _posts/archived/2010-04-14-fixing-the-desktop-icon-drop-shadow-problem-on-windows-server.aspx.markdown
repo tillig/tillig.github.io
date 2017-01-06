@@ -4,7 +4,7 @@ title: "Fixing the Desktop Icon Drop Shadow Problem on Windows Server 2008"
 date: 2010-04-14 -0800
 comments: true
 disqus_identifier: 1630
-tags: [Code Snippets,GeekSpeak]
+tags: [gists,GeekSpeak]
 ---
 **I develop on a daily basis on a Windows Server 2008 R2 machine.** I do
 that because that's my target deployment environment and it's really

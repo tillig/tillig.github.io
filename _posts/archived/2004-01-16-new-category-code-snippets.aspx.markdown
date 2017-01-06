@@ -4,7 +4,7 @@ title: "New Category - Code Snippets"
 date: 2004-01-16 -0800
 comments: true
 disqus_identifier: 459
-tags: [General Ramblings,Code Snippets]
+tags: [General Ramblings,gists]
 ---
 I've added another new category - Code Snippets - for little pieces of
 code I come across or use that I think might be helpful to folks. Not
