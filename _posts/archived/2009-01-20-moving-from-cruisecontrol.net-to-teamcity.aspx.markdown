@@ -4,7 +4,7 @@ title: "Moving From CruiseControl.NET to TeamCity"
 date: 2009-01-20 -0800
 comments: true
 disqus_identifier: 1489
-tags: [GeekSpeak,gists,net]
+tags: [gists,net,build]
 ---
 I admit to loving me some good ol'
 [CruiseControl.NET](http://confluence.public.thoughtworks.org/display/CCNET/Welcome+to+CruiseControl.NET)
@@ -29,10 +29,10 @@ TeamCity than if you're working in CruiseControl.NET. Here's what I've
 found so far. (Note - I'm using MSBuild in my code snippets. If you're
 using NAnt or something else, you get to translate.)
 
-**\$(CCNetLabel) becomes \$(BUILD\_NUMBER)**. In CruiseControl.NET you
+**`$(CCNetLabel)` becomes `$(BUILD_NUMBER)`**. In CruiseControl.NET you
 access the current build number (e.g., "1.5.10.1234") with the variable
-\$(CCNetLabel). In TeamCity, it's \$(BUILD\_NUMBER). Something we've
-done to make this easier is creating a variable \$(BuildLabel) that we
+`$(CCNetLabel)`. In TeamCity, it's `$(BUILD_NUMBER)`. Something we've
+done to make this easier is creating a variable `$(BuildLabel)`` that we
 copy the appropriate value into at the beginning of the script. Doing
 that allows you to separate your build script from the build server
 proprietary variables.
@@ -41,34 +41,36 @@ proprietary variables.
 want to run a private build you drop to the command line and build it
 yourself. In TeamCity, you can ship your changes off to the server to
 run a personal build. There is a variable provided
-\$(BUILD\_IS\_PERSONAL) that will equal "true" if the build is running
+`$(BUILD_IS_PERSONAL)` that will equal "true" if the build is running
 for an individual rather than as part of the "official" process. You'll
 want to update your build script to accommodate both personal builds via
 agent and via command line.
 
-This sample shows some MSBuild logic that sets a \$(BuildLabel) property
+This sample shows some MSBuild logic that sets a `$(BuildLabel)` property
 based on whether a build is personal or not. It also sets a
-\$(CCNetLabel) property for backwards compatibility with scripts that
+`$(CCNetLabel)` property for backwards compatibility with scripts that
 might be using that.
 
-    <Project
-      InitialTargets="__EnvironmentSetup"
-      xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-      <Target Name="__EnvironmentSetup">
-        <CreateProperty Condition="'$(BUILD_NUMBER)' == ''" Value="true">
-          <Output TaskParameter="Value" PropertyName="BUILD_IS_PERSONAL"/>
-        </CreateProperty>
-        <CreateProperty Condition="'$(BUILD_IS_PERSONAL)' == 'true'" Value="0.0.0.0">
-          <Output TaskParameter="Value" PropertyName="BuildLabel"/>
-        </CreateProperty>
-        <CreateProperty Condition="'$(BUILD_IS_PERSONAL)' != 'true'" Value="$(BUILD_NUMBER)">
-          <Output TaskParameter="Value" PropertyName="BuildLabel"/>
-        </CreateProperty>
-        <CreateProperty Value="$(BuildLabel)">
-          <Output TaskParameter="Value" PropertyName="CCNetLabel"/>
-        </CreateProperty>
-      </Target>
-    </Project>
+```xml
+<Project
+  InitialTargets="__EnvironmentSetup"
+  xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Target Name="__EnvironmentSetup">
+    <CreateProperty Condition="'$(BUILD_NUMBER)' == ''" Value="true">
+      <Output TaskParameter="Value" PropertyName="BUILD_IS_PERSONAL"/>
+    </CreateProperty>
+    <CreateProperty Condition="'$(BUILD_IS_PERSONAL)' == 'true'" Value="0.0.0.0">
+      <Output TaskParameter="Value" PropertyName="BuildLabel"/>
+    </CreateProperty>
+    <CreateProperty Condition="'$(BUILD_IS_PERSONAL)' != 'true'" Value="$(BUILD_NUMBER)">
+      <Output TaskParameter="Value" PropertyName="BuildLabel"/>
+    </CreateProperty>
+    <CreateProperty Value="$(BuildLabel)">
+      <Output TaskParameter="Value" PropertyName="CCNetLabel"/>
+    </CreateProperty>
+  </Target>
+</Project>
+```
 
 **Use the TeamCity test runner for better integration.** While you can
 still use a straight call to, say, NUnit-Console.exe, you get very rich
@@ -80,16 +82,18 @@ and use the appropriate runner.
 This sample shows some MSBuild logic that builds an appropriate test
 runner command line for running NUnit 2.4.8 tests based on the
 environment. It assumes you have a list of test assemblies in a
-@(TestAsemblies) collection.
+`@(TestAsemblies)` collection.
 
-    <PropertyGroup Condition="'$(BuildLabel)'!='0.0.0.0'">
-      <TestCommandLineExe>$(teamcity_dotnet_nunitlauncher)</TestCommandLineExe>
-      <TestCommandLineArgs>v2.0 x86 NUnit-2.4.8 @(TestAssemblies->'%(FullPath)', ' ')</TestCommandLineArgs>
-    </PropertyGroup>
-    <PropertyGroup Condition="'$(BuildLabel)'=='0.0.0.0'">
-      <TestCommandLineExe>path\to\NUnit-Console.exe</TestCommandLineExe>
-      <TestCommandLineArgs>@(TestAssemblies->'%(FullPath)', ' ') /xml:TestResults.xml</TestCommandLineArgs>
-    </PropertyGroup>
+```xml
+<PropertyGroup Condition="'$(BuildLabel)'!='0.0.0.0'">
+  <TestCommandLineExe>$(teamcity_dotnet_nunitlauncher)</TestCommandLineExe>
+  <TestCommandLineArgs>v2.0 x86 NUnit-2.4.8 @(TestAssemblies->'%(FullPath)', ' ')</TestCommandLineArgs>
+</PropertyGroup>
+<PropertyGroup Condition="'$(BuildLabel)'=='0.0.0.0'">
+  <TestCommandLineExe>path\to\NUnit-Console.exe</TestCommandLineExe>
+  <TestCommandLineArgs>@(TestAssemblies->'%(FullPath)', ' ') /xml:TestResults.xml</TestCommandLineArgs>
+</PropertyGroup>
+```
 
 **There are two ways to integrate FxCop into the build.** The first is
 to use [the built-in FxCop build
@@ -105,9 +109,11 @@ to get the report.
 This sample shows what a service message to get FxCop command line
 output into TeamCity might look like.
 
-    <Message
-      Text="##teamcity[importData id='FxCop' file='fxcop-report.xml']"
-      Condition="'$(BuildLabel)'!='0.0.0.0'" />
+```xml
+<Message
+  Text="##teamcity[importData id='FxCop' file='fxcop-report.xml']"
+  Condition="'$(BuildLabel)'!='0.0.0.0'" />
+```
 
 **NCover support is manual.** The stock TeamCity code coverage support
 is for [EMMA](http://emma.sourceforge.net/). If you want NCover
@@ -126,7 +132,9 @@ shows a great in-depth how-to, but the simple version boils down to:
 For example, if you publish the report as "CoverageReport.html" then
 your main-config.xml file might have a line in it like:
 
-    <report-tab title="Code Coverage" basePath="" startPage="CoverageReport.html" />
+```xml
+<report-tab title="Code Coverage" basePath="" startPage="CoverageReport.html" />
+```
 
 You will probably also want to see a trend report of code coverage over
 time. To do that, you need to have your build script publish the data to
@@ -138,17 +146,21 @@ TeamCity looks like this. Note that in this example, it's assumed that
 the output from NCoverExplorer has been written to "CoverageReport.xml"
 - adjust your paths as needed.
 
-    <XmlRead XPath="//coverageReport/project/@coverage" XmlFileName="CoverageReport.xml" Condition="Exists('CoverageReport.xml')">
-      <Output TaskParameter="Value" PropertyName="CoveragePercent"/>
-    </XmlRead>
-    <Message Text="##teamcity[buildStatisticValue key='coveragePercent' value='$(CoveragePercent)']" Condition="'$(BuildLabel)'!='0.0.0.0'" />
+```xml
+<XmlRead XPath="//coverageReport/project/@coverage" XmlFileName="CoverageReport.xml" Condition="Exists('CoverageReport.xml')">
+  <Output TaskParameter="Value" PropertyName="CoveragePercent"/>
+</XmlRead>
+<Message Text="##teamcity[buildStatisticValue key='coveragePercent' value='$(CoveragePercent)']" Condition="'$(BuildLabel)'!='0.0.0.0'" />
+```
 
 In your main-config.xml file, you then need to add the custom graph so
 it shows up in the build statistics page:
 
-    <graph title="Code Coverage">
-      <valueType key="coveragePercent" title="% Coverage" />
-    </graph>
+```xml
+<graph title="Code Coverage">
+  <valueType key="coveragePercent" title="% Coverage" />
+</graph>
+```
 
 The important bit there is that the value of "key" in the "service
 message" matches the value of "key" in the graph description.
@@ -178,7 +190,7 @@ are there - it's not a working copy, it's an exported checkout. This is
 important if your build script tries to do anything with the version
 control system like inspect the location from which the current working
 copy was checked out. You can mitigate this in TeamCity by providing a
-custom environment variable (e.g., \$(BUILD\_VCS\_ROOT)) that contains
+custom environment variable (e.g., `$(BUILD_VCS_ROOT)`) that contains
 this information. It won't be dynamic, but it's the best you can do.
 
 **You can't serialize builds.** In CruiseControl.NET there's [a notion

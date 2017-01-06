@@ -4,7 +4,7 @@ title: "Convert An Outlook Message Into A Task"
 date: 2007-07-10 -0800
 comments: true
 disqus_identifier: 1229
-tags: [gists]
+tags: [gists,vbscript]
 ---
 **UPDATED 7/11/2007:** Added handling for email subject line or first
 line of body to be the task subject; also added Outlook security
@@ -24,7 +24,7 @@ Outlook, I can do that with a rule that runs a script.  Here's how to do
 this in Outlook 2003.  Not sure, but it might also work in 2007. 
 Haven't tried.
 
-First, go to "Tools -\> Macro -\> Visual Basic Editor." This gets you to
+First, go to "Tools -> Macro -> Visual Basic Editor." This gets you to
 the script editor.  In the "Project Explorer" open up "Project1" and you
 should see a folder called "Microsoft Office Outlook."  Open that up and
 you'll see "ThisOutlookSession."  Double-click that to open it.
@@ -32,35 +32,37 @@ you'll see "ThisOutlookSession."  Double-click that to open it.
 You should be looking at a VBA editor window.  If you've already got
 other scripts going, it might not be empty.  In that window, paste this:
 
-    Sub ProcessMailItemIntoTask(Item As Outlook.MailItem)
-        Dim strTaskName As String
-        strTaskName = Trim(Item.Subject)
+```vbs
+Sub ProcessMailItemIntoTask(Item As Outlook.MailItem)
+    Dim strTaskName As String
+    strTaskName = Trim(Item.Subject)
 
-        If Len(strTaskName) < 1 Then
-            ' No subject - use the first line of the body
-            strTaskName = Trim(Item.Body)
-            Dim intCrLfPos As Integer
-            intCrLfPos = InStr(1, strTaskName, Constants.vbCrLf, vbTextCompare)
-            If intCrLfPos > 0 Then
-                strTaskName = Trim(Left(strTaskName, intCrLfPos - 1))
-            End If
+    If Len(strTaskName) < 1 Then
+        ' No subject - use the first line of the body
+        strTaskName = Trim(Item.Body)
+        Dim intCrLfPos As Integer
+        intCrLfPos = InStr(1, strTaskName, Constants.vbCrLf, vbTextCompare)
+        If intCrLfPos > 0 Then
+            strTaskName = Trim(Left(strTaskName, intCrLfPos - 1))
         End If
+    End If
 
-        ' Trim TASK: off the line
-        Dim intKeyWordPos As Integer
-        intKeyWordPos = InStr(1, strTaskName, "TASK:", vbTextCompare)
-        If intKeyWordPos = 1 Then
-            strTaskName = Trim(Right(strTaskName, Len(strTaskName) - 5))
-        End If
+    ' Trim TASK: off the line
+    Dim intKeyWordPos As Integer
+    intKeyWordPos = InStr(1, strTaskName, "TASK:", vbTextCompare)
+    If intKeyWordPos = 1 Then
+        strTaskName = Trim(Right(strTaskName, Len(strTaskName) - 5))
+    End If
 
-        ' Create the task
-        Dim objTask As Outlook.TaskItem
-        Set objTask = Application.CreateItem(olTaskItem)
-        objTask.Subject = strTaskName
-        objTask.StartDate = Item.ReceivedTime
-        objTask.Save
-        Set objTask = Nothing
-    End Sub
+    ' Create the task
+    Dim objTask As Outlook.TaskItem
+    Set objTask = Application.CreateItem(olTaskItem)
+    objTask.Subject = strTaskName
+    objTask.StartDate = Item.ReceivedTime
+    objTask.Save
+    Set objTask = Nothing
+End Sub
+```
 
 What that script does is process any message into a task. It uses the
 subject line of the mail (or the first line of the body if there is no
@@ -70,7 +72,7 @@ start time for the task.  You'll notice it also pulls off the word
 our rule.
 
 Now that you've got the script, save it and close the VB editor.  Now,
-back in Outlook, go to "Tools -\> Rules and Alerts..."
+back in Outlook, go to "Tools -> Rules and Alerts..."
 
 Select the "New Rule..." option and start from a blank rule.  Select
 "Check messages when they arrive" and click Next.  Select the conditions
@@ -108,7 +110,7 @@ some reason Outlook needs to shut down and restart to take macro changes
 into effect.
 
 Second, you may need to change your macro security level.  Go to "Tools
--\> Macro -\> Security..." to see your security level.  This will only
+-> Macro -> Security..." to see your security level.  This will only
 run in "Medium" or "Low" setting because it's not signed.  **If you
 change your security level, you do so at your own peril.**  I'm not
 responsible if you get hit by the next big Internet worm.  If you don't

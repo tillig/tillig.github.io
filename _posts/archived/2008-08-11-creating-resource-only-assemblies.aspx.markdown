@@ -4,7 +4,7 @@ title: "Creating Resource-Only Assemblies"
 date: 2008-08-11 -0800
 comments: true
 disqus_identifier: 1428
-tags: [gists,net]
+tags: [gists,net,build]
 ---
 Working on some localization stuff, I've come across the need for
 resource assemblies to be created from [.resx
@@ -29,8 +29,10 @@ compile and you're not linking resources into existing assemblies.
 
 For a culture-neutral (default) resource-only assembly, you'll use:
 
-    resgen.exe "Path\To\Culture\Neutral\Strings.resx" "Path\To\Output\Folder\Strings.resources"
-    al.exe /embed:"Path\To\Output\Folder\Strings.resources" /out:"Path\To\Bin\Strings.dll"
+```cmd
+resgen.exe "Path\To\Culture\Neutral\Strings.resx" "Path\To\Output\Folder\Strings.resources"
+al.exe /embed:"Path\To\Output\Folder\Strings.resources" /out:"Path\To\Bin\Strings.dll"
+```
 
 The first command line generates the .resources file from .resx and puts
 it in an output folder. It doesn't really matter where the output folder
@@ -42,8 +44,10 @@ you can start to consume it.
 For a culture-specific resource-only assembly, you add culture-specific
 parameters and output locations into the mix:
 
-    resgen.exe "Path\To\Culture\Specific\Strings.es.resx" "Path\To\Output\Folder\Strings.es.resources"
-    al.exe /c:es /embed:"Path\To\Output\Folder\Strings.es.resources" /out:"Path\To\Bin\es\Strings.resources.dll"
+```cmd
+resgen.exe "Path\To\Culture\Specific\Strings.es.resx" "Path\To\Output\Folder\Strings.es.resources"
+al.exe /c:es /embed:"Path\To\Output\Folder\Strings.es.resources" /out:"Path\To\Bin\es\Strings.resources.dll"
+```
 
 In the above example, we're compiling general Spanish resources, as
 noted by the "es" in there. If we wanted Spanish specific to Mexico,
@@ -63,10 +67,12 @@ we'd use "es-MX" as the culture. The key differences to note:
 This is pretty easy to do in a Visual Studio project post-build step,
 too:
 
-    "$(VS80COMNTOOLS)..\..\SDK\v2.0\Bin\resgen.exe" "$(ProjectDir)\Strings.resx" "$(TargetDir)Strings.resources"
-    "$(WINDIR)\Microsoft.NET\Framework\v2.0.50727\al.exe" /embed:"$(TargetDir)Strings.resources" /out:"$(TargetDir)Strings.dll"
-    "$(VS80COMNTOOLS)..\..\SDK\v2.0\Bin\resgen.exe" "$(ProjectDir)\Strings.es.resx" "$(TargetDir)Strings.es.resources"
-    "$(WINDIR)\Microsoft.NET\Framework\v2.0.50727\al.exe" /c:es /embed:"$(TargetDir)Strings.es.resources" /out:"$(TargetDir)es\Strings.resources.dll"
+```cmd
+"$(VS80COMNTOOLS)..\..\SDK\v2.0\Bin\resgen.exe" "$(ProjectDir)\Strings.resx" "$(TargetDir)Strings.resources"
+"$(WINDIR)\Microsoft.NET\Framework\v2.0.50727\al.exe" /embed:"$(TargetDir)Strings.resources" /out:"$(TargetDir)Strings.dll"
+"$(VS80COMNTOOLS)..\..\SDK\v2.0\Bin\resgen.exe" "$(ProjectDir)\Strings.es.resx" "$(TargetDir)Strings.es.resources"
+"$(WINDIR)\Microsoft.NET\Framework\v2.0.50727\al.exe" /c:es /embed:"$(TargetDir)Strings.es.resources" /out:"$(TargetDir)es\Strings.resources.dll"
+```
 
 Note we had to specify some paths to `resgen.exe` and `al.exe` because
 the post-build step isn't run as part of a Visual Studio 2008 command

@@ -4,7 +4,7 @@ title: "Controlling NuGet Packaging Version with TeamCity Variables"
 date: 2013-01-18 -0800
 comments: true
 disqus_identifier: 1801
-tags: [net,gists]
+tags: [net,gists,build]
 ---
 We use [TeamCity](http://www.jetbrains.com/teamcity/) as our build
 server and one of the cool things TeamCity has built in is the ability
@@ -35,9 +35,7 @@ define a “System Property” with your calculated NuGet package semantic
 version. I called mine “CalculatedSemanticVersion” so it ends up showing
 in the TeamCity UI as “system.CalculatedSemanticVersion” like this:
 
-![system.CalculatedSemanticVersion =
-0.0.0](https://hyqi8g.bl3301.livefilestore.com/y2pFeg7An8kClAI_VWKJNDJ4SYJzPdeeUmPufvsU38-zu8b72Rp5qP2YR_3DoSefJCoF5FIaPL_qjIQToo1aE2nLlbYZx_GXsGxLqxq6mFWiA8/20130118_systemproperty.png?psid=1)
-
+![system.CalculatedSemanticVersion = 0.0.0](https://hyqi8g.bl3301.livefilestore.com/y2pFeg7An8kClAI_VWKJNDJ4SYJzPdeeUmPufvsU38-zu8b72Rp5qP2YR_3DoSefJCoF5FIaPL_qjIQToo1aE2nLlbYZx_GXsGxLqxq6mFWiA8/20130118_systemproperty.png?psid=1)
 Set it to some simple, default value. It won’t stay that value so it
 doesn’t matter; it’s more for when you come back later and look at your
 configuration – this way it’ll make a little more sense.
@@ -46,8 +44,7 @@ configuration – this way it’ll make a little more sense.
 “system.CalculatedSemanticVersion” property as the NuGet package version
 you’re building.
 
-![On the NuGet Pack step use the new version
-variable.](https://hyqi8g.bl3302.livefilestore.com/y2pRui-FHnBIFxxD31O_5-C8SRIYlT8UYi6TG7UBSyy6xwL-wOmJdjGshYff0bTb7hVB39-bvJgGoshBOHT-ckdIozRWOLPIAy7D7jeDLkM-6w/20130118_nugetpackstep.png?psid=1)
+![On the NuGet Pack step use the new version variable.](https://hyqi8g.bl3302.livefilestore.com/y2pRui-FHnBIFxxD31O_5-C8SRIYlT8UYi6TG7UBSyy6xwL-wOmJdjGshYff0bTb7hVB39-bvJgGoshBOHT-ckdIozRWOLPIAy7D7jeDLkM-6w/20130118_nugetpackstep.png?psid=1)
 
 **Finally, insert a build script step before all of your NuGet Pack
 steps.** In that build script step, calculate the version you really
@@ -59,24 +56,26 @@ console, like this:
 
 In MSBuild, you might have something that looks like this:
 
-    <?xml version="1.0" encoding="utf-8"?>
-    <Project
-      DefaultTargets="SetVersion"
-      xmlns="http://schemas.microsoft.com/developer/msbuild/2003"
-      ToolsVersion="4.0">
-      <Target Name="SetVersion">
-        <!--
-          Calculate your semantic version however you like.
-          This example uses a made-up build task, but you
-          could do anything.
-        -->
-        <CalculateMySemanticVersion>
-          <Output TaskParameter="Version" PropertyName="SemanticVersion" />
-        </CalculateMySemanticVersion>
-        <!-- The message task here is the important part. -->
-        <Message Text="##teamcity[setParameter name='system.CalculatedSemanticVersion' value='$(SemanticVersion)']" />
-      </Target>
-    </Project>
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<Project
+  DefaultTargets="SetVersion"
+  xmlns="http://schemas.microsoft.com/developer/msbuild/2003"
+  ToolsVersion="4.0">
+  <Target Name="SetVersion">
+    <!--
+      Calculate your semantic version however you like.
+      This example uses a made-up build task, but you
+      could do anything.
+    -->
+    <CalculateMySemanticVersion>
+      <Output TaskParameter="Version" PropertyName="SemanticVersion" />
+    </CalculateMySemanticVersion>
+    <!-- The message task here is the important part. -->
+    <Message Text="##teamcity[setParameter name='system.CalculatedSemanticVersion' value='$(SemanticVersion)']" />
+  </Target>
+</Project>
+```
 
 Now when your build configuration runs, the script will calculate your
 NuGet package version and update the value of the property before the

@@ -4,7 +4,7 @@ title: "Putting Presence Info Into Web Parts"
 date: 2004-02-09 -0800
 comments: true
 disqus_identifier: 498
-tags: [gists,Web Development]
+tags: [gists,sharepoint]
 ---
 I threw together a quick tip that I posted to MSD2D about [how to
 integrate user presence information into web

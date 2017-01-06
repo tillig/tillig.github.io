@@ -4,7 +4,7 @@ title: "Testing Lists with Typemock Isolator"
 date: 2008-09-04 -0800
 comments: true
 disqus_identifier: 1443
-tags: [gists,net]
+tags: [gists,net,testing,csharp]
 ---
 I've seen this question a few times in the [Typemock
 forums](http://www.typemock.com/community/index.php) so I figured I'd
@@ -13,7 +13,7 @@ post a little something on it:
 **How do you mock a list using Typemock Isolator?**
 
 The challenge we currently have is that Isolator can't mock types that
-are declared in mscorlib, which includes things like List\<T\>, so if
+are declared in mscorlib, which includes things like `List<T>`, so if
 you expose a list in your class, you have some potentially interesting
 mocking challenges, depending on how you choose to expose it.
 
@@ -27,122 +27,124 @@ it has a method and a property that "wrap" a list, and it has a public
 list field. Below that, you'll see tests that illustrate different ways
 to handle the situations using Typemock Isolator.
 
-    public class ListExample
+```csharp
+public class ListExample
+{
+  // Publicly accessible list field
+  public List<string> PublicList = new List<string>();
+
+  // Private list that gets "wrapped" by methods/properties
+  private List<string> _privateList = new List<string>();
+
+  // Wraps the indexer of the private list
+  public string this[int index]
+  {
+    get
     {
-      // Publicly accessible list field
-      public List<string> PublicList = new List<string>();
+      return _privateList[index];
+    }
+    set
+    {
+      _privateList[index] = value;
+    }
+  }
 
-      // Private list that gets "wrapped" by methods/properties
-      private List<string> _privateList = new List<string>();
+  // Wraps the Add method on the private list
+  public void Add(string value)
+  {
+    _privateList.Add(value);
+  }
+}
 
-      // Wraps the indexer of the private list
-      public string this[int index]
-      {
-        get
-        {
-          return _privateList[index];
-        }
-        set
-        {
-          _privateList[index] = value;
-        }
-      }
+[TestFixture]
+[VerifyMocks]
+public class ListTestFixture
+{
+  // The problem we have is you can't mock types in mscorlib
+  // so you need to either wrap the list or mock the field.
 
-      // Wraps the Add method on the private list
-      public void Add(string value)
-      {
-        _privateList.Add(value);
-      }
+  [Test]
+  public void WrappedList()
+  {
+    // If the list is "wrapped" in members of a type not
+    // in mscorlib, we have it pretty easy because the
+    // mocks get set up against the members on the ListExample
+    // type, not against the List<T> object.
+
+    ListExample example = new ListExample();
+    using(RecordExpectations recorder = RecorderManager.StartRecording())
+    {
+      // No matter what index we ask for, we always want
+      // the "expected" value to come back.
+      string dummy = example[0];
+      recorder.Return("expected");
+      recorder.RepeatAlways();
     }
 
-    [TestFixture]
-    [VerifyMocks]
-    public class ListTestFixture
-    {
-      // The problem we have is you can't mock types in mscorlib
-      // so you need to either wrap the list or mock the field.
+    // Put these values into the list...
+    example.Add("a");
+    example.Add("b");
+    example.Add("c");
 
-      [Test]
-      public void WrappedList()
-      {
-        // If the list is "wrapped" in members of a type not
-        // in mscorlib, we have it pretty easy because the
-        // mocks get set up against the members on the ListExample
-        // type, not against the List<T> object.
+    // ...But what we get out is the mock value.
+    // We can even ask for out of range indices.
+    Assert.AreEqual("expected", example[0]);
+    Assert.AreEqual("expected", example[1]);
+    Assert.AreEqual("expected", example[2]);
+    Assert.AreEqual("expected", example[3]);
+    Assert.AreEqual("expected", example[4]);
+  }
 
-        ListExample example = new ListExample();
-        using(RecordExpectations recorder = RecorderManager.StartRecording())
-        {
-          // No matter what index we ask for, we always want
-          // the "expected" value to come back.
-          string dummy = example[0];
-          recorder.Return("expected");
-          recorder.RepeatAlways();
-        }
+  [Test]
+  public void FieldListMocks()
+  {
+    // Here the challenge is that there aren't any
+    // members on the ListExample object that wrap
+    // the list so we've actually got to "mock" the
+    // list proper.
 
-        // Put these values into the list...
-        example.Add("a");
-        example.Add("b");
-        example.Add("c");
+    // To accomplish the mock, we'll modify the object's
+    // state by poking in our expected field value.
+    ListExample example = new ListExample();
+    ObjectState state = new ObjectState(example);
+    List<string> expectedList = new List<string>();
+    expectedList.Add("expected");
+    state.SetField("PublicList", expectedList);
 
-        // ...But what we get out is the mock value.
-        // We can even ask for out of range indices.
-        Assert.AreEqual("expected", example[0]);
-        Assert.AreEqual("expected", example[1]);
-        Assert.AreEqual("expected", example[2]);
-        Assert.AreEqual("expected", example[3]);
-        Assert.AreEqual("expected", example[4]);
-      }
+    // Now when we ask for the list, we're getting the
+    // expected list, not the original member.
+    Assert.AreEqual("expected", example.PublicList[0]);
 
-      [Test]
-      public void FieldListMocks()
-      {
-        // Here the challenge is that there aren't any
-        // members on the ListExample object that wrap
-        // the list so we've actually got to "mock" the
-        // list proper.
+    // When we're done, we can reset things back to the
+    // original values, which means the real PublicList
+    // will be back - and will still be empty.
+    state.ResetState();
+    Assert.IsEmpty(example.PublicList);
+  }
 
-        // To accomplish the mock, we'll modify the object's
-        // state by poking in our expected field value.
-        ListExample example = new ListExample();
-        ObjectState state = new ObjectState(example);
-        List<string> expectedList = new List<string>();
-        expectedList.Add("expected");
-        state.SetField("PublicList", expectedList);
+  [Test]
+  public void FieldListReflection()
+  {
+    // Of course, you can always do it the brute
+    // force way, too, through reflection. It doesn't
+    // look much different from the ObjectState version,
+    // above, but we can't "return to the original
+    // value" at the end of the test.
+    ListExample example = new ListExample();
+    List<string> expectedList = new List<string>();
+    expectedList.Add("expected");
 
-        // Now when we ask for the list, we're getting the
-        // expected list, not the original member.
-        Assert.AreEqual("expected", example.PublicList[0]);
+    typeof(ListExample)
+      .GetField("PublicList",
+        BindingFlags.GetField | BindingFlags.Instance | BindingFlags.Public)
+      .SetValue(example, expectedList);
 
-        // When we're done, we can reset things back to the
-        // original values, which means the real PublicList
-        // will be back - and will still be empty.
-        state.ResetState();
-        Assert.IsEmpty(example.PublicList);
-      }
-
-      [Test]
-      public void FieldListReflection()
-      {
-        // Of course, you can always do it the brute
-        // force way, too, through reflection. It doesn't
-        // look much different from the ObjectState version,
-        // above, but we can't "return to the original
-        // value" at the end of the test.
-        ListExample example = new ListExample();
-        List<string> expectedList = new List<string>();
-        expectedList.Add("expected");
-
-        typeof(ListExample)
-          .GetField("PublicList",
-            BindingFlags.GetField | BindingFlags.Instance | BindingFlags.Public)
-          .SetValue(example, expectedList);
-
-        // Now when we ask for the list, we're getting the
-        // expected list, not the original member.
-        Assert.AreEqual("expected", example.PublicList[0]);
-      }
-    }
+    // Now when we ask for the list, we're getting the
+    // expected list, not the original member.
+    Assert.AreEqual("expected", example.PublicList[0]);
+  }
+}
+```
 
 As you can see, testing with the list solely as a backing data store and
 exposing the values only through members on your own class is far easier

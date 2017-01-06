@@ -4,7 +4,7 @@ title: "SharePoint Tip Of The Week - Viewing Site Administrators"
 date: 2004-02-23 -0800
 comments: true
 disqus_identifier: 519
-tags: [gists,Web Development]
+tags: [gists,sharepoint]
 ---
 My [*Viewing SharePoint Site
 Administrators*](http://msd2d.com/Content/Tip_viewitem.aspx?section=Sharepoint&id=1c555ddc-518a-4025-9d14-3c37afb4cfb6)

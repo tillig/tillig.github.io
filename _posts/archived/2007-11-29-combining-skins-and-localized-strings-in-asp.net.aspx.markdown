@@ -4,7 +4,7 @@ title: "Combining Skins and Localized Strings in ASP.NET"
 date: 2007-11-29 -0800
 comments: true
 disqus_identifier: 1311
-tags: [gists,Web Development,net]
+tags: [gists,aspnet,net]
 ---
 Let's say you have some text on your web site that has an image inline. 
 Something like this:
@@ -36,13 +36,13 @@ runtime so your app can be localized.  Now what?
 
 There are a few ideas you could try, but they don't work (or not well):
 
--   **String.Format** - You could leave a {0} in the page text and try
+-   **String.Format** - You could leave a `{0}` in the page text and try
     to String.Format the image into place.  That might work if you
     weren't skinning, but you need to take advantage of ASP.NET skins...
     so that won't work.
 -   **Client-side script** - You could try some client-side script to
     render the image to a hidden place on the page and then place it
-    into a \<span /\> or something in in the instructions, but that's
+    into a `<span />` or something in in the instructions, but that's
     kind of painful.
 -   **Break the text up into separate controls** - You could make the
     text three controls: the text before the image, the image, and the
@@ -62,18 +62,34 @@ create a control hierarchy on the fly.  Then just swap the parsed
 control hierarchy into your page where you want the text to display. 
 Put a Literal in your ASPX and do your string lookup...
 
-> `<asp:Literal ID="pageText" runat="server" Text="<%$Resources: MyResources, PageText %>"/>`
+`<asp:Literal ID="pageText" runat="server" Text="<%$Resources: MyResources, PageText %>"/>`
 
 And in your resx file, put the entire text, *including the image
 markup*:
 
-> `<data name="PageText" xml:space="preserve">   <value>Fields with a &lt;asp:Image ID="icon" runat="server" SkinID="validationIcon" /&gt; indicate failed validation.</value> </data>`
+```xml
+<data name="PageText" xml:space="preserve">
+  <value>Fields with a &lt;asp:Image ID="icon" runat="server" SkinID="validationIcon" /&gt; indicate failed validation.</value>
+</data>`
+```
 
 See how that looks just like ASPX page markup?  Perfect.  Now in the
 codebehind of your page class, replace the Literal with the control
 hierarchy that gets parsed from the text in that very Literal:
 
-> `public partial class MyPage : System.Web.UI.Page  {   protected void Page_Load(object sender, EventArgs e)   {     Control parsed = this.ParseControl(this.pageText.Text);     Control parent = this.pageText.Parent;     int index = parent.Controls.IndexOf(this.pageText);     parent.Controls.AddAt(index, parsed);     parent.Controls.Remove(this.pageText);   } } `
+```csharp
+public partial class MyPage : System.Web.UI.Page
+{
+  protected void Page_Load(object sender, EventArgs e)
+  {
+    Control parsed = this.ParseControl(this.pageText.Text);
+    Control parent = this.pageText.Parent;
+    int index = parent.Controls.IndexOf(this.pageText);
+    parent.Controls.AddAt(index, parsed);
+    parent.Controls.Remove(this.pageText);
+  }
+}
+```
 
 In that example code, we:
 
@@ -113,6 +129,6 @@ can see the obvious difference in the amount of time the page Load event
 ![Timings for parsing inline
 controls.](https://hyqi8g.dm2302.livefilestore.com/y2p3UTr5wlVeq5q325o1nho1-F2-1vHHJSPUdL7KWmIJjiAQtjY6OIAj1se1t4GK_cykZAR6T-ugidZwRa0nLB3qOquVuLCVdQCwZmIyGv7Gu8/20071129parsetimings.gif?psid=1)
 
-It's only \~0.01 seconds, but you wouldn't want to, say, put this in the
+It's only ~0.01 seconds, but you wouldn't want to, say, put this in the
 middle of a big databinding block.
 

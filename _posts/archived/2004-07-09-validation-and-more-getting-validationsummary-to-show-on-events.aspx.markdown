@@ -4,7 +4,7 @@ title: "Validation And More: Getting ValidationSummary To Show On Events"
 date: 2004-07-09 -0800
 comments: true
 disqus_identifier: 610
-tags: [gists]
+tags: [gists,aspnet,csharp]
 ---
 In creating various web apps, I use [Peter Blum's Professional
 Validation and More](http://www.peterblum.com/VAM/Home.aspx) controls
@@ -25,4 +25,25 @@ use on your controls to make the page execute validation on a control
 event. Just pass in your control and the name of the event ("onclick,"
 "onchange," etc.) and this will handle the rest.
 
-`/// <summary> /// Adds a call to the VAM page validation to a specified control's event. /// </summary> /// <param name="control">The control that should call validation.</param> /// <param name="eventName">The event that should fire validation (onClick, onChange, etc.)</param> protected void AddPageValidationEvent(WebControl control, string eventName){      string scriptKey = control.ClientID + "_" + eventName + "_VAMValidate";      if(!Page.IsStartupScriptRegistered(scriptKey)){           string scriptBase =                "<script type="text/javascript" language="javascript">\n" +                "<!-- \n" +                "VAM_AttachEvent(VAM_GetById("{0}"), "{1}", "{2}");\n" +                "-->\n" +                "</script>";           string eventAction = "VAM_ValidateGroup('', true);";           string completeScript = String.Format(scriptBase, control.ClientID, eventName, eventAction);           Page.RegisterStartupScript(scriptKey, completeScript);      } }`
+```csharp
+/// <summary>
+/// Adds a call to the VAM page validation to a specified control's event.
+/// </summary>
+/// <param name="control">The control that should call validation.</param>
+/// <param name="eventName">The event that should fire validation (onClick, onChange, etc.)</param>
+protected void AddPageValidationEvent(WebControl control, string eventName)
+{
+    var scriptKey = (string)control.ClientID + "_" + eventName + "_VAMValidate";
+    if (!Page.IsStartupScriptRegistered(scriptKey))
+    {
+        var scriptBase = "<script type=\"text/javascript\" language=\"javascript\">\n" +
+            "<!-- \n" +
+            "VAM_AttachEvent(VAM_GetById(\"{0}\"), \"{1}\", \"{2}\");\n" +
+            "-->\n" +
+            "</script>";
+        var eventAction = "VAM_ValidateGroup('', true);";
+        var completeScript = string.Format(scriptBase, control.ClientID, eventName, eventAction);
+        Page.RegisterStartupScript(scriptKey, completeScript);
+    }
+}
+```
