@@ -3,7 +3,7 @@ layout: post
 title: "Exclude Anonymous Types in NDepend"
 date: 2014-10-29 -0800
 comments: true
-tags: [ndepend]
+tags: [net,ndepend]
 ---
 [NDepend](http://www.ndepend.com) is awesome and [I use it](/archive/2013/10/28/ndepend-5-new-ui-new-features.aspx) to analyze all sorts of different projects.
 

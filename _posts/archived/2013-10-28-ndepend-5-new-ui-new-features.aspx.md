@@ -4,7 +4,7 @@ title: "NDepend 5 - New UI, New Features"
 date: 2013-10-28 -0800
 comments: true
 disqus_identifier: 1828
-tags: [net]
+tags: [net,ndepend]
 ---
 I’ve been using [NDepend](http://www.ndepend.com) for a while – [since
 version 2.7](/archive/2008/03/28/ndepend-analyze-your-code.aspx) – and

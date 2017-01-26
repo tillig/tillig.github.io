@@ -4,7 +4,7 @@ title: "NDepend 4 - CQLinq, NDepend.API, and Beyond"
 date: 2012-08-10 -0800
 comments: true
 disqus_identifier: 1789
-tags: [net,GeekSpeak]
+tags: [net,ndepend]
 ---
 I recently updated to [NDepend 4](http://www.ndepend.com/). I got an
 early preview of the sweetness that is [CQLinq (code query using LINQ
@@ -69,12 +69,12 @@ see some great uses. Here's the built-in query that checks to see if
 your constructor is calling any virtual methods:
 
     warnif count > 0
-    from t in Application.Types where 
+    from t in Application.Types where
        t.IsClass &&
       !t.IsGeneratedByCompiler &&
       !t.IsSealed
 
-    from ctor in t.Constructors 
+    from ctor in t.Constructors
     let virtualMethodsCalled = from mCalled in ctor.MethodsCalled
                                where mCalled.IsVirtual &&
                                     (mCalled.ParentType == t ||
@@ -82,7 +82,7 @@ your constructor is calling any virtual methods:
                                select mCalled
     where virtualMethodsCalled.Count() > 0
 
-    select new { ctor , 
+    select new { ctor ,
                  virtualMethodsCalled,
                  t.DerivedTypes }
 
