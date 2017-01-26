@@ -41,7 +41,7 @@ I can also look at a prioritized list of types to fix - places I might get the b
 
 Simple enough, just update your Issue and Debt settings to show both time _and_ money...
 
-![Change value format]({{ site.url }}/images/20170126_typepriority.gif)
+![Change value format]({{ site.url }}/images/20170126_timemoney.gif)
 
 ...and the report automatically updates to reflect that:
 
