@@ -4,7 +4,7 @@ title: "Lockergnome IT Pro Redemption"
 date: 2004-01-16 -0800
 comments: true
 disqus_identifier: 456
-tags: [GeekSpeak]
+tags: [personal]
 ---
 [Lockergnome](http://www.lockergnome.com) finally [posted my security
 column

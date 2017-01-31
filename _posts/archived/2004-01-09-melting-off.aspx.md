@@ -4,7 +4,7 @@ title: "Melting Off"
 date: 2004-01-09 -0800
 comments: true
 disqus_identifier: 443
-tags: [GeekSpeak]
+tags: [personal]
 ---
 The ice looks like it's starting to melt off, but I just watched a 4x4
 spin all of its wheels trying to get through our parking lot. I saw that

@@ -4,7 +4,7 @@ title: "iTunes Art Importer"
 date: 2005-04-10 -0800
 comments: true
 disqus_identifier: 786
-tags: [GeekSpeak]
+tags: [media,music]
 ---
 Just a quick note: I'm working with [iTunes Art Importer
 0.9.2](http://www.yvg.com/itunesartimporter.shtml) and I gotta say, it

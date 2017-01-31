@@ -4,7 +4,7 @@ title: "Blog Package Survey"
 date: 2005-05-18 -0800
 comments: true
 disqus_identifier: 817
-tags: [GeekSpeak]
+tags: [blog]
 ---
 I'm looking at different blog packages and trying to determine what
 people like and don't like about their current blog software. If you

@@ -4,7 +4,7 @@ title: "Monster Cables"
 date: 2004-04-02 -0800
 comments: true
 disqus_identifier: 556
-tags: [GeekSpeak]
+tags: [home]
 ---
 As part of the re-setting-up of my home theater system, I've decided I
 want to do away with all the crappy, chintzy cables that hold everything

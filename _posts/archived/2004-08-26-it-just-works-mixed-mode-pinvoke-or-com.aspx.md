@@ -4,17 +4,17 @@ title: "It Just Works, Mixed-Mode, pInvoke, or COM?"
 date: 2004-08-26 -0800
 comments: true
 disqus_identifier: 648
-tags: [GeekSpeak]
+tags: [net,windows]
 ---
 I [mentioned
 earlier](/archive/2004/08/26/programming-projects-piling-up.aspx) that
 I'm trying to create a library to interface with the Windows "Send To"
 menu.
- 
+
  I'm not getting too far with it.
- 
+
  Here's what I want:
- 
+
  Two classes - SendToMenu and SendToMenuItem. They implement the
 following public members, as noted:
 -   SendToMenu
@@ -30,9 +30,9 @@ following public members, as noted:
         "sending" the file to the item via the Explorer menu.
 
 
- 
+
  It shouldn't be that hard. Right?
- 
+
  It seems I have four choices of how to get this done, none of which are
 easy.
 -   It Just Works, or "IJW": Supposedly you can intermingle managed and
@@ -55,7 +55,7 @@ easy.
     rather not take that time for something I'll only use this once.
 
 
- 
+
  So there it sits. I have to decide whether I need to do a mixed-mode
 DLL or COM. Or I need to find someone who knows how to do one of the
 other two methods and get them to help out. Or maybe I just [farm it

@@ -4,7 +4,7 @@ title: "Scott Hanselman's 2005 Ultimate Developer and Power Users Tool List"
 date: 2005-06-20 -0800
 comments: true
 disqus_identifier: 844
-tags: [GeekSpeak]
+tags: [vs,personal]
 ---
 Looks like [Scott's posted his updated tool
 list](http://www.hanselman.com/blog/PermaLink,guid,cbb7f3df-b9dd-4a4a-8cc6-83d87c117d26.aspx),
@@ -13,7 +13,7 @@ and there's some great stuff on there if I do say so myself.
  I noticed I got a shout-out, which is all too kind of him, and a few of
 my tools made it on the list, including:
 
-[CR\_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
+[CR_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
 
 [SNInfo](/archive/2005/02/07/sninfo-strong-naming-info-for-.net-assemblies.aspx)
 

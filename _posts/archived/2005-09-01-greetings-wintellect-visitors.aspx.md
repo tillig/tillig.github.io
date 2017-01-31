@@ -4,7 +4,7 @@ title: "Greetings Wintellect Visitors"
 date: 2005-09-01 -0800
 comments: true
 disqus_identifier: 882
-tags: [GeekSpeak]
+tags: [personal,net,vs]
 ---
 For folks coming in from
 [Wintellect](http://wintellect.com/WEBLOGS/wintellect/archive/2005/09/02/2251.aspx)

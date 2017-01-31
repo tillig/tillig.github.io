@@ -4,7 +4,7 @@ title: "HOWTO: Change Roomba Into Raceba"
 date: 2005-07-13 -0800
 comments: true
 disqus_identifier: 858
-tags: [GeekSpeak]
+tags: [personal]
 ---
 I was joking a while ago talking about
 [Nuttba](/archive/2005/05/26/nuttba.aspx) - a hypothetical modified

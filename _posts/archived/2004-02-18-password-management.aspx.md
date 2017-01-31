@@ -4,7 +4,7 @@ title: "Password Management"
 date: 2004-02-18 -0800
 comments: true
 disqus_identifier: 514
-tags: [GeekSpeak]
+tags: [personal]
 ---
 I've realized for quite some time that I just have too much stuff to
 remember so things end up falling through the cracks. The latest issue

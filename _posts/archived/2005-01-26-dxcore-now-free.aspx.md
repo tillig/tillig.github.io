@@ -4,7 +4,7 @@ title: "DXCore - Now FREE!"
 date: 2005-01-26 -0800
 comments: true
 disqus_identifier: 734
-tags: [GeekSpeak]
+tags: [coderush,vs]
 ---
 DXCore, the core engine behind [CodeRush for Visual Studio
 .NET](http://www.devexpress.com/products/net/coderush/), has been
@@ -18,7 +18,7 @@ make Visual Studio add-ins, it's easy to create graphic assistance
 within the Visual Studio editor, it's easy to do great things to enhance
 your productivity.
 
- Plus, that's what my [CR\_Documentor
+ Plus, that's what my [CR_Documentor
 add-in](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
 is based on, and you all want that, right?
 

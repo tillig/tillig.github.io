@@ -4,13 +4,13 @@ title: "Loving Wireless At Home"
 date: 2004-01-22 -0800
 comments: true
 disqus_identifier: 471
-tags: [GeekSpeak]
+tags: [home]
 ---
 I forgot to mention earlier that I was able to successfully spend
 several hours on the wireless network at home last night without any
 connection issues. I think the hard reset on the router fixed my
 problems.
- 
+
  I enabled Remote Desktop on the machine in the computer room and was
 able to connect to it from my laptop in the living room and work on my
 iTunes music library while watching TV. I can't begin to tell you how

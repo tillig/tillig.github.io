@@ -4,7 +4,7 @@ title: "Trip To Devscovery: Day 0"
 date: 2005-08-30 -0800
 comments: true
 disqus_identifier: 877
-tags: [GeekSpeak]
+tags: [personal,net]
 ---
 We call it "Day 0" because technically all I did today as far as
 [Devscovery](http://www.devscovery.com) is concerned is travel. Tomorrow

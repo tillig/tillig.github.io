@@ -4,7 +4,7 @@ title: "Programming Projects Piling Up"
 date: 2004-08-26 -0800
 comments: true
 disqus_identifier: 647
-tags: [GeekSpeak]
+tags: [personal,net]
 ---
 So I'm coming up with a list of all of the various programming projects
 I want to do and I'm finding that there's really just no shortage. So

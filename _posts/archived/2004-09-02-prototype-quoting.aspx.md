@@ -4,7 +4,7 @@ title: "Prototype Quoting"
 date: 2004-09-02 -0800
 comments: true
 disqus_identifier: 652
-tags: [GeekSpeak]
+tags: [personal]
 ---
 Looks like I'm [getting quoted over at Hanselman's
 site](http://www.hanselman.com/blog/PermaLink.aspx?guid=b82d92bd-66da-4660-9341-b043fde57c0b).

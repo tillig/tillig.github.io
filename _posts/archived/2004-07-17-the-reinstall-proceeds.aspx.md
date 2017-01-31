@@ -4,7 +4,7 @@ title: "The Reinstall Proceeds"
 date: 2004-07-17 -0800
 comments: true
 disqus_identifier: 620
-tags: [GeekSpeak]
+tags: [personal,home,windows]
 ---
 I ran into this ridiculous chicken-and-egg scenario while trying to
 repair my Windows installation.
