@@ -4,7 +4,7 @@ title: "Setting Up my iPad 2"
 date: 2011-12-12 -0800
 comments: true
 disqus_identifier: 1757
-tags: [GeekSpeak]
+tags: [media]
 ---
 I won an iPad 2 at a raffle recently (a 16GB wifi-only that I upgraded
 to 32GB wifi-only) and finally got around to setting it up this weekend.

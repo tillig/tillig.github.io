@@ -4,7 +4,7 @@ title: "Looking at Moving to Android"
 date: 2010-06-03 -0800
 comments: true
 disqus_identifier: 1646
-tags: [GeekSpeak]
+tags: [android]
 ---
 Now that I've got [my calendar/contact sync issues pretty much
 resolved](/archive/2010/05/25/calendar-and-contact-sync-software-recommendation-gsyncit.aspx),

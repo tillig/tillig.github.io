@@ -4,7 +4,7 @@ title: "Six Reasons Not to Use Guard Classes"
 date: 2011-09-30 -0800
 comments: true
 disqus_identifier: 1738
-tags: [net,GeekSpeak]
+tags: [net,csharp]
 ---
 "Guard" classes - those little "convenience wrappers" around common
 argument checking and exception throwing. You know what I'm talking

@@ -4,7 +4,7 @@ title: "Unblocking Multiple Files at Once"
 date: 2010-05-19 -0800
 comments: true
 disqus_identifier: 1642
-tags: [GeekSpeak]
+tags: [windows]
 ---
 When you download a file from the internet and save it to your Windows
 computer, it "knows" where it came from and you have to right-click it
@@ -21,7 +21,7 @@ need to unblock?**You don't want to do that manually.
     utility](http://technet.microsoft.com/en-us/sysinternals/bb897440.aspx).
 2.  Run it on the files you want to unblock using the "-d" option and
     delete the alternate filestreams. It will look something like this
-    if you're unblocking a ton of help documents: 
+    if you're unblocking a ton of help documents:
     `streams -d *.chm`
 
 The reason this works is that the information about where you downloaded

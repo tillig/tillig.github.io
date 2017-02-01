@@ -4,7 +4,7 @@ title: "Why Radio Shack is Failing"
 date: 2011-06-15 -0800
 comments: true
 disqus_identifier: 1720
-tags: [GeekSpeak,General Ramblings]
+tags: [personal]
 ---
 I associate [Radio Shack](http://www.radioshack.com/) with the DIY crowd
 - folks who probably know more than average about electronic

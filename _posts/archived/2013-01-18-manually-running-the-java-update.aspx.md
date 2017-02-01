@@ -4,7 +4,7 @@ title: "Manually Running the Java Update"
 date: 2013-01-18 -0800
 comments: true
 disqus_identifier: 1802
-tags: [GeekSpeak]
+tags: [windows]
 ---
 I swear every time I change the Java settings to stop auto-updating it
 still pops up that stupid "A Java Update is Available" toast in the

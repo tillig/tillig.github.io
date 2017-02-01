@@ -4,7 +4,7 @@ title: "Tips for New Higher Speed Verizon FiOS Subscribers"
 date: 2010-03-01 -0800
 comments: true
 disqus_identifier: 1619
-tags: [GeekSpeak]
+tags: [home,network]
 ---
 As part of our contract renegotiation with Verizon, we upgraded our
 network speed to 35/35 (35Mbps download and upload). When we did a speed

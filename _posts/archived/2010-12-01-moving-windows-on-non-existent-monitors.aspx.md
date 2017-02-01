@@ -4,7 +4,7 @@ title: "Moving Windows on Non-Existent Monitors"
 date: 2010-12-01 -0800
 comments: true
 disqus_identifier: 1683
-tags: [GeekSpeak]
+tags: [windows]
 ---
 More of a mental note than anything: I have a laptop that I dock and
 undock. When it's docked, it has a second monitor. Sometimes I dock,

@@ -4,7 +4,7 @@ title: "Autofac Project Update - Ownership Changes; 3.0 Coming Soon"
 date: 2012-10-12 -0800
 comments: true
 disqus_identifier: 1792
-tags: [net,GeekSpeak]
+tags: [net,autofac]
 ---
 For those of you who use [Autofac](http://autofac.googlecode.com), I
 thought I'd provide a bit of a project update to let you know what's

@@ -4,34 +4,34 @@ title: "Switch to Inline Styles for Code Formatting"
 date: 2007-03-08 -0800
 comments: true
 disqus_identifier: 1161
-tags: [GeekSpeak]
+tags: [blog]
 ---
 Every once in a while I'll be reading a blog entry and I'll come across
 a place where someone has inserted a block of code. On the blog site, it
 looks like this:
- 
+
  ![Formatted code on a web
 site.](https://hyqi8g.dm2304.livefilestore.com/y2p0OP69uSRil235G7HnsQSkO6VTAv7SRGqqa4uBigiY2yqYyy1cfHTYnPPJRjj-t3iNGAL5GMkTElqz_NaNkdcBahKGoXKukynLOKGUCSaUCs/20070308site.png?psid=1)
- 
+
  But in the RSS reader, it looks like this:
- 
+
  ![Formatting displayed incorrectly for code in an RSS
 feed.](https://hyqi8g.dm1.livefilestore.com/y2pD_WYKgDakREZF8FNJNVsH1GLH_TwC_lv0qzZlNfouRJa16Ez4vCz5Un93BGHkP0ip0znapqYyDK38PRFFNMviu86Jo0w8RQfMxVTzVbJiGA/20070308rss.png?psid=1)
- 
+
  Not so great. I mean, the code is reasonably legible, but the style
 sheet renders literally in the reader. I shouldn't see that CSS - it
 should be formatting the code, not appearing in the view window.
- 
+
  I also see RSS feeds that do display a nicely formatted block of code:
- 
+
  ![Code displaying correctly in
 RSS.](https://hyqi8g.dm2303.livefilestore.com/y2pV-b2zGU6J40m-8fDinUWCEOIoMi58pa0rHbK-Z5U-z2luQdFXjSXCHVGbzXmjSmIPCF6Swr5cvM0FOXKmlosL6nF7G5nWoY4RByH2fV0LXE/20070308correctformat.png?psid=1)
- 
+
  At first I thought it was a bug in my reader, so I tried some other
 readers and got the same result.
- 
+
  So what's the difference?
- 
+
  The one that appears with the styles displayed literally in the feed
 uses an inline style sheet to do the formatting. Something like this:
     <pre class="csharpcode">
@@ -52,7 +52,7 @@ uses an inline style sheet to do the formatting. Something like this:
  While that sort of thing works well on a web site, it turns out that
 [most RSS readers today don't support inline style
 sheets](http://itmanagement.earthweb.com/columns/executive_tech/article.php/3617901).
- 
+
  The ones that look correct on the web site and in RSS use code like
 this:
     <pre style="background-color:#FFFFB9;;overflow: auto;"><div><span style="color: #000000; ">@Test
@@ -68,10 +68,10 @@ style application is that not only is the HTML huge and horrible
 (usually it's generated, and we all know how bad generated HTML gets),
 but if you want to change the look of the code on your site or in your
 RSS feed, there's no simple way to do it.
- 
+
  Two recommendations for folks posting inline code snippets who want
 formatting and a good looking RSS feed:
- 
+
  If you're going with a style sheet and not inline styles, move the
 style sheet to somewhere outside the actual entry being syndicated.
 Include it with a
@@ -81,7 +81,7 @@ entry proper, folks visiting your site will see the nice formatting, and
 at the very least the syndicated version will be legible and won't
 include a bunch of clutter. On the other hand, it won't look as pretty
 in RSS as it does on your site.
- 
+
  If you want people to see nicely formatted code on your site and in
 RSS, you'll need to switch to the inline styles applied directly to
 tags. The [Actipro CodeHighlighter control for

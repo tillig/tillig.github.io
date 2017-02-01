@@ -4,7 +4,7 @@ title: "Windows 8 Navigation and Hyper-V"
 date: 2012-08-01 -0800
 comments: true
 disqus_identifier: 1787
-tags: [GeekSpeak]
+tags: [windows]
 ---
 I had a tiny breakdown yesterday where I *finally* got Windows 8
 installed (on a Hyper-V VM) and hit a massive "[someone moved my

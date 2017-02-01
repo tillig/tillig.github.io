@@ -4,7 +4,7 @@ title: "Need Input: CR_Documentor Features In Use"
 date: 2009-04-16 -0800
 comments: true
 disqus_identifier: 1514
-tags: [GeekSpeak]
+tags: [coderush]
 ---
 I'm trying to figure out what people are using in
 [CR_Documentor](http://cr-documentor.googlecode.com) (and what they're

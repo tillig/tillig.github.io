@@ -4,7 +4,7 @@ title: "Error 1625 with Adobe Reader Update on Windows Server 2008 R2"
 date: 2010-08-23 -0800
 comments: true
 disqus_identifier: 1663
-tags: [GeekSpeak]
+tags: [windows]
 ---
 I'm running Windows Server 2008 R2 as a non-admin user with User Account
 Control turned on. The stupid Adobe Reader update thing pops up in the

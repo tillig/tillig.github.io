@@ -4,7 +4,7 @@ title: "Holiday Fun at ThinkGeek"
 date: 2011-11-21 -0800
 comments: true
 disqus_identifier: 1753
-tags: [GeekSpeak,General Ramblings]
+tags: [personal]
 ---
 I'm going to be doing most of my holiday shopping online (again) because
 crowded Black Friday malls stress me out (still).

@@ -4,7 +4,7 @@ title: "My Media Center Goal"
 date: 2007-03-26 -0800
 comments: true
 disqus_identifier: 1171
-tags: [GeekSpeak]
+tags: [media]
 ---
 I've gotten some emails about my [recent rounds with Windows Media
 Center](/archive/2007/03/23/media-center-2005-and-xbox-360-success.aspx)

@@ -4,7 +4,7 @@ title: "Four Types of Code Examples and How to Escape Their Traps"
 date: 2011-03-18 -0800
 comments: true
 disqus_identifier: 1703
-tags: [GeekSpeak]
+tags: [personal,process]
 ---
 If you're writing a programming article or an email to your team, many
 times you'll probably try to provide an example code snippet to

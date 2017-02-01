@@ -4,7 +4,7 @@ title: "Does Automation Create Laziness?"
 date: 2011-11-03 -0800
 comments: true
 disqus_identifier: 1749
-tags: [GeekSpeak]
+tags: [process]
 ---
 I'm working on this theory that the more automation you wrap around a
 development environment - testing, static analysis, etc. - the lazier

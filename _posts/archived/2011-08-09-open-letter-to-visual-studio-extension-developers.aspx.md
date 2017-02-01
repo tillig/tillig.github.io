@@ -4,7 +4,7 @@ title: "Open Letter to Visual Studio Extension Developers"
 date: 2011-08-09 -0800
 comments: true
 disqus_identifier: 1729
-tags: [vs,GeekSpeak]
+tags: [vs]
 ---
 Dear Visual Studio Extension Developers:
 
@@ -82,6 +82,6 @@ champ and are, in fact, *double-plus-awesome*.
 
 Anyway, thanks, VS Extension Developers, for hearing me out.
 
-Sincerely, 
+Sincerely,
 Me
 

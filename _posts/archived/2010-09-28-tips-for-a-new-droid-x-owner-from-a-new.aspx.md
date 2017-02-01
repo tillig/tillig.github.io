@@ -4,7 +4,7 @@ title: "Tips for a New Droid X Owner from a New Droid X Owner"
 date: 2010-09-28 -0800
 comments: true
 disqus_identifier: 1669
-tags: [GeekSpeak]
+tags: [android]
 ---
 A few weeks ago I got [a Motorola Droid
 X](http://www.motorola.com/Consumers/US-EN/Consumer-Product-and-Services/Mobile-Phones/Motorola-DROID-X-US-EN).

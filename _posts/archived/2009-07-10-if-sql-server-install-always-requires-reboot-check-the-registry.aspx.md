@@ -4,7 +4,7 @@ title: "If SQL Server Install Always Requires Reboot, Check the Registry"
 date: 2009-07-10 -0800
 comments: true
 disqus_identifier: 1548
-tags: [GeekSpeak]
+tags: [sql,windows]
 ---
 More a reminder note for myself than anything... I always - *always* -
 run into this problem when I'm trying to uninstall SQL Server. The

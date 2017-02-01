@@ -4,7 +4,7 @@ title: "The Difference Between a Workaround and a Fix"
 date: 2010-01-29 -0800
 comments: true
 disqus_identifier: 1610
-tags: [GeekSpeak]
+tags: [process]
 ---
 I just had an interesting [to me] interaction on Twitter that got me
 thinking:

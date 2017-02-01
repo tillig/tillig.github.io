@@ -4,7 +4,7 @@ title: "Pop-Under Dialogs are Killing Me"
 date: 2009-10-21 -0800
 comments: true
 disqus_identifier: 1576
-tags: [GeekSpeak]
+tags: [web]
 ---
 I've had to delete a few large directory trees in the last week or so
 and every time I do there's trouble. Let me walk you through it.

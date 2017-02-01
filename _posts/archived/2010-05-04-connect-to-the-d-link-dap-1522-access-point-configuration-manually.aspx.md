@@ -4,7 +4,7 @@ title: "Connect to the D-Link DAP-1522 Access Point Configuration Manually"
 date: 2010-05-04 -0800
 comments: true
 disqus_identifier: 1637
-tags: [GeekSpeak]
+tags: [home,network]
 ---
 I had a problem this morning where my D-Link DAP-1522 access point had
 to be reset to factory defaults. After clicking the reset button on the

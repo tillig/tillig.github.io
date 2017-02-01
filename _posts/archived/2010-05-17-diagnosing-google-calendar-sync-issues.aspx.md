@@ -4,7 +4,7 @@ title: "Diagnosing Google Calendar Sync Issues"
 date: 2010-05-17 -0800
 comments: true
 disqus_identifier: 1641
-tags: [GeekSpeak]
+tags: [windows]
 ---
 I'm using Google Calendar Sync to keep my Outlook calendar and Google
 calendar synchronized and I've noticed a couple of meetings that don't

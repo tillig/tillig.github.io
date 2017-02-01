@@ -4,7 +4,7 @@ title: "Convert Any Set of Headphones to Bluetooth/Wireless"
 date: 2012-03-13 -0800
 comments: true
 disqus_identifier: 1774
-tags: [GeekSpeak,General Ramblings]
+tags: [media,music]
 ---
 When I'm at work I like listening to music... but I hate being tethered
 to my computer (or iPod dock, or whatever) by the headphone cord. If I

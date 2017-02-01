@@ -4,7 +4,7 @@ title: "My Two Biggest Issues with StackOverflow"
 date: 2011-08-17 -0800
 comments: true
 disqus_identifier: 1731
-tags: [GeekSpeak]
+tags: [personal]
 ---
 I don't really participate on [StackOverflow](http://stackoverflow.com).
 Don't get me wrong, I've asked a couple of questions and I've answered a

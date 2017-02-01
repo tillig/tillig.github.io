@@ -4,7 +4,7 @@ title: "Mac as Home Theater PC"
 date: 2007-03-15 -0800
 comments: true
 disqus_identifier: 1164
-tags: [GeekSpeak]
+tags: [media]
 ---
 ...and in a continued run on the home theater PC thread...
 

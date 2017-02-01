@@ -4,7 +4,7 @@ title: "Mercurial Introductions"
 date: 2010-10-12 -0800
 comments: true
 disqus_identifier: 1673
-tags: [GeekSpeak]
+tags: [process]
 ---
 I'm a contributor to the [Autofac](http://autofac.googlecode.com)
 project and recently they switched their repository from Subversion to

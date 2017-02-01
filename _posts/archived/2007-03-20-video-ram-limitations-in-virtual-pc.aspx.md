@@ -4,7 +4,7 @@ title: "Video RAM Limitations in Virtual PC"
 date: 2007-03-20 -0800
 comments: true
 disqus_identifier: 1166
-tags: [GeekSpeak]
+tags: [media,windows]
 ---
 I think my [virtual machine trials for Windows Media
 Center](/archive/2007/03/15/vista-ultimate-media-center-in-virtual-pc-form-not.aspx)

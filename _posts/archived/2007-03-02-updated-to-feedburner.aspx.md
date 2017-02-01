@@ -4,7 +4,7 @@ title: "Updated to FeedBurner"
 date: 2007-03-02 -0800
 comments: true
 disqus_identifier: 1158
-tags: [GeekSpeak]
+tags: [blog]
 ---
 I updated my RSS feed to go through FeedBurner, so if you want all the
 coolness that gives you, [update your subscription to point

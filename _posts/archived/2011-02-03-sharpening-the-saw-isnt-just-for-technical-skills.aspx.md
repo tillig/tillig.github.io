@@ -4,7 +4,7 @@ title: "Sharpening the Saw Isn't Just for Technical Skills"
 date: 2011-02-03 -0800
 comments: true
 disqus_identifier: 1695
-tags: [GeekSpeak]
+tags: [process]
 ---
 There have been a lot of developer-related "[sharpening the
 saw](https://www.stephencovey.com/7habits/7habits-habit7.php)" articles
@@ -43,7 +43,7 @@ ideas:
     social networking day-and-age where spelling and grammar are pitched
     out the window in favor of shortcuts and 140-character limits,
     having a good set of solid, basic writing skills will help you
-    long-term. 
+    long-term.
 -   **Learn about UI design and user experience.** It's pretty well
     known that developers generally create some pretty horrible UI out
     of the box. It's not because developers are incompetent, but because
@@ -56,7 +56,7 @@ ideas:
     user experience. At the very least, **this will allow you to take
     part in conversations about the UI in a more meaningful fashion**
     and understand not just *what* you're doing when the UX team asks
-    you to fix something, but also *why you're doing it*. 
+    you to fix something, but also *why you're doing it*.
 -   **Take a class on being a mentor.** [Hanselman mentions in his
     post](http://www.hanselman.com/blog/SharpenTheSawForDevelopers.aspx)
     that one idea to help sharpen technical skills is to create a
@@ -73,7 +73,7 @@ ideas:
     mentoring](http://www.peermentoring.com/) and I honestly can't
     recommend it enough. It's one of the best courses I've ever taken
     and it totally changed the way I approach helping and teaching
-    people. 
+    people.
 -   **Improve your interpersonal communication skills.** If you've
     worked in any sort of team, you'll have run into a situation where
     there was a confrontation between two team members that probably

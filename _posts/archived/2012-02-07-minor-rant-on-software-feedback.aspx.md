@@ -4,7 +4,7 @@ title: "Minor Rant on Software Feedback"
 date: 2012-02-07 -0800
 comments: true
 disqus_identifier: 1767
-tags: [GeekSpeak]
+tags: [personal]
 ---
 I think getting feedback on your software is valuable. It's nice to know
 people are using what you put out there and it's interesting to see what

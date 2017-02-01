@@ -4,7 +4,7 @@ title: "Make Your Sandcastle Help File Builder Project Dynamic with MSBuild"
 date: 2011-09-28 -0800
 comments: true
 disqus_identifier: 1737
-tags: [net,GeekSpeak]
+tags: [net,build]
 ---
 When building a [Sandcastle Help File
 Builder](http://shfb.codeplex.com/) (SHFB) project in the GUI, you

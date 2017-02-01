@@ -4,7 +4,7 @@ title: "I Need To Think Outside The Media Center Box"
 date: 2007-03-15 -0800
 comments: true
 disqus_identifier: 1163
-tags: [GeekSpeak]
+tags: [media]
 ---
 I've been locked into a way of thinking - that [for my media center
 solution](/archive/2007/03/15/vista-ultimate-media-center-in-virtual-pc-form-not.aspx)

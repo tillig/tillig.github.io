@@ -4,7 +4,7 @@ title: "The Extended Right-Click Menu in Windows 7"
 date: 2011-01-20 -0800
 comments: true
 disqus_identifier: 1690
-tags: [GeekSpeak]
+tags: [windows]
 ---
 I'm probably the only person who didn't realize that if you hold down
 Shift and right-click a folder in Windows 7, you get additional commands
@@ -19,7 +19,7 @@ all the time.
 
 The "Open command window here" item is listed in your registry under
 `HKCR\Directory\shell\cmd` and `HKCR\Drive\shell\cmd`. If you look in
-those keys, you'll see a REG\_SZ value called "Extended" that is
+those keys, you'll see a REG_SZ value called "Extended" that is
 floating there without any actual value assigned.
 
 ![The "Extended" registry

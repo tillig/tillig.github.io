@@ -4,7 +4,7 @@ title: "Star Wars Drink Time"
 date: 2011-08-23 -0800
 comments: true
 disqus_identifier: 1733
-tags: [GeekSpeak,General Ramblings]
+tags: [personal,movies]
 ---
 ThinkGeek has got some pretty cool stuff I may need to get to put
 together a little *Star Wars* cocktail party.

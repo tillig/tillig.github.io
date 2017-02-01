@@ -4,7 +4,7 @@ title: "What I Want in a Twitter Client"
 date: 2010-02-09 -0800
 comments: true
 disqus_identifier: 1615
-tags: [GeekSpeak,General Ramblings]
+tags: [personal]
 ---
 To date my favorite desktop client for [Twitter](http://www.twitter.com)
 has been [Twhirl](http://www.twhirl.org/) because it's so simple. Since

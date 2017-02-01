@@ -4,7 +4,7 @@ title: "Android and the Red Compass Calibration Problem"
 date: 2010-10-08 -0800
 comments: true
 disqus_identifier: 1672
-tags: [GeekSpeak]
+tags: [android]
 ---
 After you update Android on your phone (or whatever) you should
 recalibrate the compass so it, literally, knows which end is up. This

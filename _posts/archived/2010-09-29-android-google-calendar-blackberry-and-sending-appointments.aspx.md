@@ -4,7 +4,7 @@ title: "Android, Google Calendar, BlackBerry, and Sending Appointments"
 date: 2010-09-29 -0800
 comments: true
 disqus_identifier: 1670
-tags: [GeekSpeak]
+tags: [android]
 ---
 My wife has a BlackBerry and I used to as well until [I switched to a
 Droid

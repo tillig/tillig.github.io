@@ -4,19 +4,19 @@ title: "Disaster Recovery and Trouble-Free Continuous Integration"
 date: 2007-02-07 -0800
 comments: true
 disqus_identifier: 1147
-tags: [GeekSpeak]
+tags: [process]
 ---
 We've all got our source code in source code control systems (right?)
 that get backed up on a regular basis (*right?*) so we can reasonably
 easily recover from any issues and get right back to coding. You might
 even have a backup program running on your development workstation so
 you can restore corrupted files or settings.
- 
+
  **Are you backing up your continuous integration server?**
- 
+
  "Why," you might ask, "would I back that up? If I have all of my source
 in the backed-up source code control system, what else is there?"
- 
+
  It's something I know I take for granted - the continuous integration
 build server just being there and working. But ask yourself some
 questions:
@@ -31,7 +31,7 @@ questions:
 
 Sure, some of those don't sound like disaster recovery issues, but by
 solving some of the issues, you can make your life easier on others.
- 
+
  Here are some tips that might help you make your continuous integration
 server experience a little more trouble-free. (We use
 [CruiseControl.NET](http://ccnet.thoughtworks.com/) at Corillian, so

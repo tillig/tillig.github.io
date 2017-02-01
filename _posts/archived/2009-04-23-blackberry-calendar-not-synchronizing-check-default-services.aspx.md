@@ -4,7 +4,7 @@ title: "BlackBerry Calendar Not Synchronizing? Check Default Services"
 date: 2009-04-23 -0800
 comments: true
 disqus_identifier: 1518
-tags: [GeekSpeak]
+tags: [personal]
 ---
 I noticed this morning that my BlackBerry Curve, using the BlackBerry
 Desktop Manager software, was not synchronizing my calendar. It'd sync

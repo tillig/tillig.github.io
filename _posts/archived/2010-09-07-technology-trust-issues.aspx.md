@@ -4,7 +4,7 @@ title: "Technology Trust Issues"
 date: 2010-09-07 -0800
 comments: true
 disqus_identifier: 1664
-tags: [General Ramblings,GeekSpeak]
+tags: [personal,gaming]
 ---
 I know technology is fallible and I know my standards are probably far
 too high for things, but I find that once a technology or gadget has

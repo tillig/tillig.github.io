@@ -4,7 +4,7 @@ title: "Bigtrak: Awesome Toy for Subversive Programming Education"
 date: 2011-05-18 -0800
 comments: true
 disqus_identifier: 1716
-tags: [GeekSpeak]
+tags: [personal]
 ---
 [*Bigtrak*](http://www.dpbolvw.net/click-4317610-10746449?url=http%3A%2F%2Fwww.thinkgeek.com%2Fgeektoys%2Frc%2Fde2e%2F%3Fref%3Dc&cjsku=8DE2E).![](http://www.lduhtrp.net/image-4317610-10746449)
 I had one of these when I was a kid, but I'm not sure where it went.

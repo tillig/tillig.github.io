@@ -4,7 +4,7 @@ title: "My Problem Is I Can't Leave Well Enough Alone"
 date: 2010-05-27 -0800
 comments: true
 disqus_identifier: 1645
-tags: [GeekSpeak,General Ramblings]
+tags: [personal]
 ---
 It's not my *only* problem by any means, but it's a big one.
 

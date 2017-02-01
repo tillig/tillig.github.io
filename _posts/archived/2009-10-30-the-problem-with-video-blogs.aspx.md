@@ -4,7 +4,7 @@ title: "The Problem with Video Blogs"
 date: 2009-10-30 -0800
 comments: true
 disqus_identifier: 1580
-tags: [GeekSpeak,General Ramblings]
+tags: [process]
 ---
 A few blogs I read have started experimenting with video blogging and
 it's made me realize that I'm not a video blog... watcher(?).

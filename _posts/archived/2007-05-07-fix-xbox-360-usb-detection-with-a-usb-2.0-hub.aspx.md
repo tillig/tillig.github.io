@@ -4,7 +4,7 @@ title: "Fix Xbox 360 USB Detection With a USB 2.0 Hub"
 date: 2007-05-07 -0800
 comments: true
 disqus_identifier: 1199
-tags: [GeekSpeak]
+tags: [xbox]
 ---
 I have the HD DVD drive, the Xbox Live Vision camera, and the wireless
 network adapter - all USB devices - for my Xbox 360. I had them set up

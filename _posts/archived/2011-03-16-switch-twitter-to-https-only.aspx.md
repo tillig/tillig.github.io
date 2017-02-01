@@ -4,7 +4,7 @@ title: "Switch Twitter to HTTPS-Only"
 date: 2011-03-16 -0800
 comments: true
 disqus_identifier: 1701
-tags: [GeekSpeak]
+tags: [web]
 ---
 [Twitter recently added the ability to force
 HTTPS](http://www.securityweek.com/twitter-enables-option-https-default),
