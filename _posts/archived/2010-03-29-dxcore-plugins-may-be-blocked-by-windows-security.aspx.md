@@ -11,9 +11,9 @@ from**[**DevExpress**](http://www.devexpress.com)**and you're moving to
 Windows 7 or Windows Server 2008, this will affect you.**
 
 I had an issue filed recently on
-[CR\_Documentor](http://cr-documentor.googlecode.com) where a user was
+[CR_Documentor](http://cr-documentor.googlecode.com) where a user was
 correctly deploying the plugin but DXCore wouldn't load it (and, thus,
-the user couldn't see the CR\_Documentor tool window link or anything).
+the user couldn't see the CR_Documentor tool window link or anything).
 
 Looking in the DevExpress message log, the exception message seen was
 like this:

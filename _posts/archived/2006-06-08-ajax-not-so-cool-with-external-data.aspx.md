@@ -4,7 +4,7 @@ title: "AJAX Not So Cool With External Data"
 date: 2006-06-08 -0800
 comments: true
 disqus_identifier: 1015
-tags: [GeekSpeak]
+tags: [web,javascript]
 ---
 In my [feverish realization
 yesterday](/archive/2006/06/07/contact-information-foaf-microformats-and-microtemplates.aspx)

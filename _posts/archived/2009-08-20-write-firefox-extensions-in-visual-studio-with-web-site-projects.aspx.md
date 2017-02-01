@@ -66,7 +66,7 @@ template.** Under "Location," select "File System" and **point to the
 folder that contains the extension code** ("extension"). It doesn't
 really matter which language you select, since you're not going to be
 really making a web site, so select what you want. (I selected Visual
-C\#.)
+C#.)
 
 [![](http://lh6.ggpht.com/_P1NCAbHEm2Q/So2mkh7qpbI/AAAAAAAABLs/iFTkpi1RIso/s288/New%20Web%20Site%20for%20Extension.png)](http://picasaweb.google.com/lh/photo/p8X36XBjOe2vGQVK4RloLQ?feat=embedwebsite)
 

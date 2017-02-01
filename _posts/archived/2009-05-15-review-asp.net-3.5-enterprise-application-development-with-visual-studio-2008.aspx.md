@@ -54,7 +54,7 @@ practice.
     enterprise business objects derive from. The names only get worse
     and more unintelligible and distracting from there. When cruising
     through the method bodies presented you sometimes wonder if he's
-    using Hungarian notation in C\# and then you realize that it's just
+    using Hungarian notation in C# and then you realize that it's just
     bad naming.
 -   **Almost every exception that gets thrown in the code is the generic
     System.Exception type.** Even if a more specific exception type

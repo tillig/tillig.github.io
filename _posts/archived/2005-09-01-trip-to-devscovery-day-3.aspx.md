@@ -25,21 +25,21 @@ Modeling*](http://www.amazon.com/exec/obidos/ASIN/0735619913/mhsvortex).
 
  Just before the third lecture, which was on .NET development tools, I
 sidelined the lecturer (again, John Robbins) and showed him
-[CR\_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx).
+[CR_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx).
 I had looked at the lecture slides ahead of time and noticed he was
 going to talk about NDoc. I figured he might be interested in the
-preview feature CR\_Documentor offers.
+preview feature CR_Documentor offers.
 
  He was pretty psyched - enough so that I got a quick "guest lecturer"
-spot to present CR\_Documentor in front of everyone at the lecture. This
+spot to present CR_Documentor in front of everyone at the lecture. This
 marks my first ever lecture appearance, and while I was a bit nervous,
-it felt good to get CR\_Documentor out and about. Plus I got a free copy
+it felt good to get CR_Documentor out and about. Plus I got a free copy
 of [*Writing Secure
 Code*](http://www.amazon.com/exec/obidos/ASIN/0735617228/mhsvortex).
 That rocked.
 
  I sent the link and info over to John who will be putting
-CR\_Documentor up on the [Wintellect
+CR_Documentor up on the [Wintellect
 blog](http://www.wintellect.com/weblogs/wintellect/) ([actual entry
 here](http://wintellect.com/WEBLOGS/wintellect/archive/2005/09/02/2251.aspx)).
 So if you're coming in from Wintellect, hello!

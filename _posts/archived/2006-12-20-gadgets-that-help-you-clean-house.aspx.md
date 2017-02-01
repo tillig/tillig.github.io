@@ -4,7 +4,7 @@ title: "Gadgets That Help You Clean House"
 date: 2006-12-20 -0800
 comments: true
 disqus_identifier: 1118
-tags: [GeekSpeak]
+tags: [personal,home]
 ---
 I'm always on the lookout for tools, tips, and tricks to make my life
 easier. I read [Life Hacker](http://www.lifehacker.com). I follow
@@ -13,7 +13,7 @@ think I'm *on* the list). The thing is, I hate cleaning but I haven't
 seen anyone provide a list of ways to help me so I don't have to clean
 my house. I've found a few things I use and like, so here's my list of
 things I use to make it easier to keep a clean place.
- 
+
  ![Roomba
 Discovery](https://hyqi8g.dm1.livefilestore.com/y2p-scqcjDf9R8oDVlmzwdfpvB1nc4Miv-PLeVOLayVCbmVTe38aJQfaPh0sV0G7daZIuz_nqjusVU4E4WKLH9bpiGk-lWQ_FOcOB-oxSOXSL4/20061220roomba.jpg?psid=1)[**Roomba**](http://www.amazon.com/exec/obidos/ASIN/B00022HYJ6/mhsvortex)
 - Roomba is my \#1 weapon in my passive-aggressive fight for a clean
@@ -61,7 +61,7 @@ toilet doesn't get used (never gets flushed, or doesn't get flushed
 often), then water won't be running through the filter and stuff will
 eventually start to grow. We have one bathroom that rarely gets used; we
 flush the toilet once or twice a week to make sure it stays clean.
- 
+
  Caution: if you have pets that like to drink out of the toilet, this
 isn't for you (or you'll have to make sure you keep the lid closed).
 
@@ -73,14 +73,14 @@ Cleaner**](http://www.amazon.com/exec/obidos/ASIN/B000GCPZC0/mhsvortex)
 Fifteen seconds later, it sprays a cleaning solution around in the
 shower that gets rid of soap scum and mold. Do this daily and it'll
 clean up a dirty shower or keep a clean shower clean.
- 
+
  Placement on this is key - if you put it somewhere so the spray head
 can't shoot solution to one area of the shower, it won't get clean; if
 you place it too low, it won't reach everywhere because the spray head
 isn't a fire hose. It generally is supposed to hang from your shower
 head, but we have one of those removable massage heads so I put a
 plastic hook in the shower.
- 
+
  I've found that, while it keeps the orange soap scum out, you do
 occasionally have to give the shower a good scrub to get rid of some of
 the more built-up scum. We have glass doors on the shower and still have

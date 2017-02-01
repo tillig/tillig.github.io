@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 1769
 tags: [downloads,vs,coderush]
 ---
-The latest version of CR\_Documentor, 3.0.0.0,  [has been
+The latest version of CR_Documentor, 3.0.0.0,  [has been
 released](http://code.google.com/p/cr-documentor/downloads/list).
 
 This version is an update to .NET 4 in preparation for [a VSIX-based

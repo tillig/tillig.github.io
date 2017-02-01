@@ -17,6 +17,6 @@ Reflector](https://hyqi8g.dm2302.livefilestore.com/y2pgUtqQ8d9VS7KrGDrBylNkti-NW
 
 Wow. This is huge. I'm interested to see what his next move is. (This is
 particularly interesting to me since I started
-[CR\_Documentor](http://cr-documentor.googlecode.com) based on his
+[CR_Documentor](http://cr-documentor.googlecode.com) based on his
 original Documentor project.)
 

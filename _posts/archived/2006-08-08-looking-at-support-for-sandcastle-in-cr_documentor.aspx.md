@@ -4,16 +4,16 @@ title: "Looking at Support for Sandcastle in CR_Documentor"
 date: 2006-08-08 -0800
 comments: true
 disqus_identifier: 1052
-tags: [GeekSpeak]
+tags: [coderush]
 ---
 I'm looking at ways I can update
-[CR\_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
+[CR_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
 to add Sandcastle support. I think it can be done, but it's not going to
 be cheap. I think there's actually quite a bit of refactoring to do
 since the thing has evolved in a way that the rendering engine is pretty
 ingrained into how things work. That'll have to get isolated so I can
 determine how to write a rendering engine as a more pluggable entity. I
-started doing some of that in the last version of CR\_Documentor and it
+started doing some of that in the last version of CR_Documentor and it
 looks like it's time to finish that job.
 
  I think the hardest thing is going to be figuring out how Sandcastle
@@ -23,7 +23,7 @@ the preview window? That was the hardest part of getting NDoc emulation
 up to speed, too - reverse engineering the XSL transformation that NDoc
 does in order to stream HTML. Keep in mind that when NDoc or Sandcastle
 renders the HTML, they have complete, ready-to-run XML they can just
-transform via XSLT; when I render the doc in CR\_Documentor, I have to
+transform via XSLT; when I render the doc in CR_Documentor, I have to
 query the code and do a lot of processing to get the information the
 compiler gives those other products for free. (I *wish* it was as simple
 as an XSLT transformation!)
@@ -32,7 +32,7 @@ as an XSLT transformation!)
 querying the code and creating all of the various elements and such -
 then doing a straight transformation, but it's *really slow*. The true
 source of performance trouble is the fact that every time DXCore
-reparses the current document, CR\_Documentor updates the preview
+reparses the current document, CR_Documentor updates the preview
 (that's the beauty, right? real-time previews?)... but if I have to do a
 lot of re-generation of XML and re-transformation every time that
 happens, there's a lot of slowdown and a significant delay in the

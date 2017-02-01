@@ -22,7 +22,7 @@ When I created my DVD Library, I had three primary goals:
 -   Backup of movie that can be re-ripped to DVD if the original gets
     damaged.
 
-I ended up selecting VIDEO\_TS format for my movies. Based on your
+I ended up selecting VIDEO_TS format for my movies. Based on your
 requirements, you may choose a different format. The following table
 outlines some common format choices and their relative pros/cons.
 
@@ -30,7 +30,7 @@ outlines some common format choices and their relative pros/cons.
 
 ISO
 
-VIDEO\_TS
+VIDEO_TS
 
 WMV
 
@@ -120,17 +120,17 @@ by burning the WMV back to a video disc.
 
 File size was omitted because for the lossy formats, you can adjust the
 amount of size the movie takes on disk by compromising quality. The ISO
-and VIDEO\_TS formats will take between 4GB and 8GB per disc, regardless
+and VIDEO_TS formats will take between 4GB and 8GB per disc, regardless
 of movie length, because they're basically the whole kit-and-kaboodle.
 I've found some discs only use 3GB, but most are between 4 and 8.
 
 **A note on quality**: When I say there's a quality difference between
-ISO/VIDEO\_TS and WMV/MPEG-2/DivX, it's not just a little bit. You
+ISO/VIDEO_TS and WMV/MPEG-2/DivX, it's not just a little bit. You
 will immediately notice that there are more video artifacts and lower
 quality sound than if you'd ripped the full movie without additional
 compression. The more you try to keep the quality, the larger the file
 size gets until you almost may as well have ripped the full
-ISO/VIDEO\_TS... and even then, you still may notice quality issues. In
+ISO/VIDEO_TS... and even then, you still may notice quality issues. In
 some cases, you may not care - as long as it's "watchable" it may be
 good enough for you. I'm a quality freak so I have a really difficult
 time with compressed video in my home theater, and my wife, who is far
@@ -140,9 +140,9 @@ Given that...
 
 **The quick recommendations:**
 
--   **VIDEO\_TS**: If you want a backup with menus, no lost quality, and
+-   **VIDEO_TS**: If you want a backup with menus, no lost quality, and
     don't mind watching your movies through a Windows Media Center (or
-    Front Row, for you Mac people), then VIDEO\_TS is the way to go.
+    Front Row, for you Mac people), then VIDEO_TS is the way to go.
     It's the easiest of the two full-rip formats to set up and is most
     compatible with media center style software.
 -   **MPEG-2**: If you want just the main movie, don't mind losing a

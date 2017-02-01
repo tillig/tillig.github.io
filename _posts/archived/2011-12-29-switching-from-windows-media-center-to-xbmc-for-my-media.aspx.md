@@ -36,7 +36,7 @@ have things set up, what my goals are, and so on,**[**please take a
 moment to check out my overview
 post**](/archive/2008/09/30/overview-of-my-media-center-solution.aspx)**.**
 You’ll see that my use cases are common but not necessarily the most
-common – for example, all of my movies are in DVD rip (VIDEO\_TS)
+common – for example, all of my movies are in DVD rip (VIDEO_TS)
 format. When I explain how I got things set up it will be helpful to
 understand these things since I won’t be explaining, say, how to set up
 your music… since that’s not one of my use cases. Nor will I cover
@@ -80,23 +80,23 @@ looked like this:
 
 -   \\\\server\\DVD
     -   Alias 1.1
-        -   VIDEO\_TS
+        -   VIDEO_TS
         -   AUDIO\_TS
 
     -   Alias 1.2
-        -   VIDEO\_TS
+        -   VIDEO_TS
         -   AUDIO\_TS
 
     -   Aliens
-        -   VIDEO\_TS
+        -   VIDEO_TS
         -   AUDIO\_TS
 
     -   Blade Runner
-        -   VIDEO\_TS
+        -   VIDEO_TS
         -   AUDIO\_TS
 
     -   Die Hard
-        -   VIDEO\_TS
+        -   VIDEO_TS
         -   AUDIO\_TS
 
 **Again, that's the OLD structure** so don't use that if you're starting
@@ -120,26 +120,26 @@ looked like this:
     -   Movies
         -   Aliens (1986)
             -   AUDIO\_TS
-            -   VIDEO\_TS
+            -   VIDEO_TS
 
         -   Blade Runner (1982)
             -   AUDIO\_TS
-            -   VIDEO\_TS
+            -   VIDEO_TS
 
         -   Die Hard (1988)
             -   AUDIO\_TS
-            -   VIDEO\_TS
+            -   VIDEO_TS
 
     -   TV
         -   Alias
             -   Season 01
                 -   s01e01e02e03
                     -   AUDIO\_TS
-                    -   VIDEO\_TS
+                    -   VIDEO_TS
 
                 -   s01e04e05e06e07
                     -   AUDIO\_TS
-                    -   VIDEO\_TS
+                    -   VIDEO_TS
 
 **That is the NEW structure – use that.**
 
@@ -182,7 +182,7 @@ As you can see, there are some differences.
 allows automatic metadata scrapers to work. You can read more about how
 XBMC uses scrapers and how to avoid wrong title matches on the XBMC
 site. These pages will also tell you how to handle Movies and TV that
-are in ripped files rather than DVD VIDEO\_TS folders – something I
+are in ripped files rather than DVD VIDEO_TS folders – something I
 don’t cover.
 
 -   [Movie library
@@ -199,7 +199,7 @@ top-level movie list and when you select it, you want to see the list of
 Harry Potter movies in the correct order.
 
 **To do that, you need to put a file called “movie.nfo” into the
-VIDEO\_TS folder** for each movie you want in a set. The file is
+VIDEO_TS folder** for each movie you want in a set. The file is
 literally called “movie.nfo,” not named after the movie (so, not “Die
 Hard.nfo” or anything like that).
 
@@ -228,7 +228,7 @@ movie on IMDb. You link to IMDb because that’s the metadata scraper
 you’re going to use (remember?). If you want to use a different scraper,
 you need to put a link to the movie in the appropriate site.
 
-Again, that movie.nfo file goes **inside the VIDEO\_TS folder**.
+Again, that movie.nfo file goes **inside the VIDEO_TS folder**.
 
 **You need to do the movie.nfo setup before you index your movies with
 XBMC** or it will be painful to fix later.
@@ -346,7 +346,7 @@ There's a lot there, but I'll explain it:
     things as played or unplayed.” I don’t want checkmarks to show up by
     movies based on what I’ve watched.
 -   The videoextensions setting is set to ignore some files that show up
-    in VIDEO\_TS rips but aren’t actually video files. In this case, I
+    in VIDEO_TS rips but aren’t actually video files. In this case, I
     don’t have any .dat or .bin files that are actually video files, so
     I don’t want them indexed as videos.
 -   The last few bits – videodatabase, musicdatabase, pathsubstitution –

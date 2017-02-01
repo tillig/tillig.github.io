@@ -8,7 +8,7 @@ tags: [media]
 ---
 Back in 2008 when I originally was looking at the various solutions for
 archiving my movies, [I weighed the pros and cons of things and decided
-to rip my movies to VIDEO\_TS
+to rip my movies to VIDEO_TS
 format](/archive/2008/09/30/overview-of-my-media-center-solution.aspx).
 I did that for a few reasons:
 

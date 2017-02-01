@@ -11,7 +11,7 @@ For folks coming in from
 (and people new to the site)... here are some things you might be
 looking for:
 
-[CR\_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx):
+[CR_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx):
 The XML code comment preview add-in for Visual Studio.
 
 [My Other Tools](/): A list of other tools I've written that might help

@@ -4,7 +4,7 @@ title: "Feynman Interviews"
 date: 2006-08-01 -0800
 comments: true
 disqus_identifier: 1045
-tags: [GeekSpeak]
+tags: [personal]
 ---
 Richard Feynman was, by any measure, The Man. Full stop. [This video of
 several interviews with him just proves

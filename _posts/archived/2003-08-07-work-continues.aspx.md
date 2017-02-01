@@ -8,7 +8,7 @@ tags: [sharepoint,net]
 ---
 I've started studying for the next test I have to take, MS 070-320,
 which is entitled *Developing XML Web Services and Server Components
-with Microsoft Visual C\# and the Microsoft .NET Framework*. what it
+with Microsoft Visual C# and the Microsoft .NET Framework*. what it
 should really be called is *Everything You Don't Know*.
 
  I mean, I've taken *loads* of classes, including the classes that they

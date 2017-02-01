@@ -27,7 +27,7 @@ come out with a structure like this:
               +-AUDIO_TS
               +-VIDEO_TS
 
-The problem is, I want the AUDIO\_TS and VIDEO\_TS folders up in the
+The problem is, I want the AUDIO\_TS and VIDEO_TS folders up in the
 "C:\\Movies\\Really Cool Movie" folder, not two levels down in some
 generated hierarchy:
 

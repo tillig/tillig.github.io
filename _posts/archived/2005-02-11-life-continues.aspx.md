@@ -14,7 +14,7 @@ stoked for that. It sort of legitimizes what we've been working on for
 the past few months.
 
  I've also been working on
-[CR\_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
+[CR_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
 some, adding some fun new features to help folks edit their XML comments
 (like inserting documentation templates and embedding selected text in
 XML comment structures). That's coming along nicely and should be out

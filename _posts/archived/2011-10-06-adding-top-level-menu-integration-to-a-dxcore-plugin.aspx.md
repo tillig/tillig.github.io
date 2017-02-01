@@ -7,7 +7,7 @@ disqus_identifier: 1739
 tags: [net,vs]
 ---
 Most of the DXCore/CodeRush plugins I write are Tool Window plugins like
-[CR\_Documentor](http://cr-documentor.googlecode.com) or are plugins
+[CR_Documentor](http://cr-documentor.googlecode.com) or are plugins
 you'd bind to a hot key like
 [CR\_JoinLines](http://code.google.com/p/dxcorecommunityplugins/wiki/CR_JoinLines).
 For Tool Windows, DXCore automatically gives you menu integration...

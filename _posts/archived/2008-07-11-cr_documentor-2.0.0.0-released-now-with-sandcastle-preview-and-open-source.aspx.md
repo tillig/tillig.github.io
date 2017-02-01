@@ -10,7 +10,7 @@ I know it's bad news to release things on Friday right before the day is
 out, but I can't hold it in any longer:
 
 I am pleased to announce that after a far-too-long silence,
-[**CR\_Documentor 2.0.0.0 has been released and is now available for
+[**CR_Documentor 2.0.0.0 has been released and is now available for
 download**](http://code.google.com/p/cr-documentor/).
 
 Three major things to report in this release:
@@ -30,7 +30,7 @@ Three major things to report in this release:
     how it works under the hood, feel free to grab the code.
 
 All the info - FAQ, known issues, etc. - is all on [the new
-CR\_Documentor site at Google
+CR_Documentor site at Google
 Code](http://code.google.com/p/cr-documentor/), as is the download. Head
 on over and check it out!
 

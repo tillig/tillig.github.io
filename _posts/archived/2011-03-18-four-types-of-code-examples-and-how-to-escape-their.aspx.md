@@ -36,7 +36,7 @@ This example is intentionally obscured from a naming perspective so that
 people ignore the names and focus on what the code is actually doing.
 [The names "foo" and "bar" are commonly used as
 placeholders.](http://en.wikipedia.org/wiki/Foobar) For example, if you
-wanted to demonstrate automatically implemented properties in C\#, you
+wanted to demonstrate automatically implemented properties in C#, you
 might show a class like this:
 
     public class Foo

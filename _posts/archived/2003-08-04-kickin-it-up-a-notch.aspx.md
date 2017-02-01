@@ -9,7 +9,7 @@ tags: [net,blog]
 Well, folks, things seem to have worked out reasonably well for me
 today. I have:
 
--   Passed my Windows Application Programming in C\# test
+-   Passed my Windows Application Programming in C# test
 -   Moved my site over to my friend [Marty's](http://www.mildperil.net)
     box
 -   Not eaten anything but [Sour

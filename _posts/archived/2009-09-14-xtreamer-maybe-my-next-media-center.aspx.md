@@ -13,11 +13,11 @@ and [on We Got
 Served](http://www.wegotserved.com/2009/09/13/hands-on-xtreamer-media-player-and-streamer/)
 and it appears this may be an affordable alternative to getting a full
 Windows Media Center front end in every room. I need something that'll
-play AAC music as well as DVD rips in VIDEO\_TS format. (More important
-are the VIDEO\_TS rips.)
+play AAC music as well as DVD rips in VIDEO_TS format. (More important
+are the VIDEO_TS rips.)
 
 Turns out this little device [does, in fact, handle
-VIDEO\_TS](http://shop.xtreamer.net/Support/questions/93/How+do+I+backup+and+play+my+DVDs%3F),
+VIDEO_TS](http://shop.xtreamer.net/Support/questions/93/How+do+I+backup+and+play+my+DVDs%3F),
 just like Windows Media Center. [I confirmed
 that](http://mswhs.com/2009/09/13/xtreamer-media-player-and-streamer/#comment-17818)
 with one of the reviewers, too. I don't have access to our DVD library

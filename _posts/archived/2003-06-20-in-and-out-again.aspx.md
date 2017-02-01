@@ -16,6 +16,6 @@ and legitimately listen at the same time and I'm getting the feeling
 that she's pissed off about it. Can't win for losing, man.
 
  Just so you all know, I'm out of town next week for training - Windows
-apps in C\# - so I probably won't be posting but will hopefully have a
+apps in C# - so I probably won't be posting but will hopefully have a
 play-by-play from the class. And I'll try to make it more exciting than
 last time.

@@ -4,7 +4,7 @@ title: "EZShellExtensions.Net"
 date: 2006-03-22 -0800
 comments: true
 disqus_identifier: 971
-tags: [GeekSpeak]
+tags: [windows,net]
 ---
 After fighting shell extensions for my [Junction Shell
 Extension](/archive/2005/04/20/junction-shell-extensions.aspx) project,

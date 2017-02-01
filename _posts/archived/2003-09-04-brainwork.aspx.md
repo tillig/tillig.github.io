@@ -7,7 +7,7 @@ disqus_identifier: 347
 tags: [personal]
 ---
 I scheduled my next test, *MS 070-315: Developing and Implementing Web
-Applications with Microsoft Visual C\#.NET and Microsoft Visual
+Applications with Microsoft Visual C#.NET and Microsoft Visual
 Studio.NET*, for this coming Monday at 2:00p. It's scheduled to run for
 two-and-a-half hours, but I'm hoping it doesn't actually take that long.
 The last few have been like that - scheduled for a long time but only

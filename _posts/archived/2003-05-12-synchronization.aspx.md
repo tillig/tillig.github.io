@@ -715,7 +715,7 @@ don't use very often. I pretty much understand it, but thank goodness
 there's no test on this stuff.
 
  (Actually, there *is* a test, but it's over "Developing XML Web
-Services and Server Components with Microsoft Visual C\# and the
+Services and Server Components with Microsoft Visual C# and the
 Microsoft .NET Framerwork" - which has three course requirements, and
 this is only one. With any luck, I'll remember enough out of this one
 and be able to ride the web-oriented part - the part I know - to
@@ -853,7 +853,7 @@ ramp-up, you're just thrown in. I've learned a lot in this course, but
 not as much as I think I would have had I known more beforehand about
 some of the lower-level programming constructs that I don't use every
 day. I will have to revisit the learning material once I get a few more
-of the general C\# courses under my belt so I can understand a little
+of the general C# courses under my belt so I can understand a little
 better what's going on.
 
  One thing I do know is that I probably won't be using this stuff in

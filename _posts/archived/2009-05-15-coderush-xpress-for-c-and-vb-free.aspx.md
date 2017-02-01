@@ -19,6 +19,6 @@ cost to you**.
 
 Once you fall in love with it, check out other plugins that are
 available - also free - like
-[CR\_Documentor](http://cr-documentor.googlecode.com) and the [DXCore
+[CR_Documentor](http://cr-documentor.googlecode.com) and the [DXCore
 Community Plugins](http://dxcorecommunityplugins.googlecode.com).
 

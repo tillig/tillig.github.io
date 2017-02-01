@@ -9,7 +9,7 @@ tags: [net,aspnet,vs]
 I've got Visual Studio 2010, MVC3, and the latest tools update. I'm all
 patched up. But I'm seeing something weird.
 
-I start out and I have a solution with a single C\# class library in it.
+I start out and I have a solution with a single C# class library in it.
 
 ![Solution with one class
 library.](https://hyqi8g.bl3302.livefilestore.com/y2pdMlKHkOXmstx39SC2mevUw06qaic_Rs_0MDFH3MEQVzwY_cj9VeJgCKEpoa9mxDxKzF0sugGnDkOg13LsVQ1mTkJICDVu9OtaP0D15plCRw/20111028screen1.png?psid=1)

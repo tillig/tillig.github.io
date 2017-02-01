@@ -4,7 +4,7 @@ title: "Yahoo! UI Library"
 date: 2006-12-08 -0800
 comments: true
 disqus_identifier: 1110
-tags: [GeekSpeak]
+tags: [web,css,javascript]
 ---
 I realize I'm probably the last to get on the boat with this one, but I
 came across the [Yahoo! UI Library](http://developer.yahoo.com/yui/)

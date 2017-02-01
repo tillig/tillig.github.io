@@ -13,7 +13,7 @@ reasonably new [CodeRush Duplicate Code Detection
 feature](http://community.devexpress.com/blogs/markmiller/archive/2011/11/29/duplicate-detection-and-consolidation-in-coderush-for-visual-studio.aspx).
 
 The solution I'm working on has eight projects - four unit test
-projects, four shipping class libraries, and a total of 1248 C\# code
+projects, four shipping class libraries, and a total of 1248 C# code
 files.
 
 I didn't have duplicate code detection running in the background during

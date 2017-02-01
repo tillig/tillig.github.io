@@ -4,7 +4,7 @@ title: "Hanselmention in Hanselminutes 4"
 date: 2006-02-03 -0800
 comments: true
 disqus_identifier: 947
-tags: [GeekSpeak]
+tags: [personal,testing]
 ---
 Got a brief mention in the [fourth installment of
 Hanselminutes](http://www.hanselminutes.com/default.aspx?showID=5) with

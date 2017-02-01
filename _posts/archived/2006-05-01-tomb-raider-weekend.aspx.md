@@ -15,7 +15,7 @@ think I must have played for six hours. They really did an awesome job
 with it and I'm having a great time.
 
  In other news... I should shortly have a new version of
-[CR\_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
+[CR_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
 out that will not only let you preview the XML doc but will also preview
 the member syntax box inline with the doc, just like the NDoc output.
 I've got some folks doing some testing for me to make sure it doesn't

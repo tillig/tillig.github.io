@@ -7,7 +7,7 @@ disqus_identifier: 1666
 tags: [downloads,vs,coderush]
 ---
 It's been a while in the making, but [the new version of
-CR\_Documentor](http://cr-documentor.googlecode.com) is out.
+CR_Documentor](http://cr-documentor.googlecode.com) is out.
 
 It took a while because I did two pretty major updates to it.
 

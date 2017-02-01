@@ -25,7 +25,7 @@ just let them say it?
 > Visual Basic (VB) .NET
 > application](http://www.typemock.com/vbpage.php?utm_source=vbp&utm_medium=typeblog&utm_campaign=isolatorvb).
 >
-> Isolator now allows unit testing in VB or C\# for many "hard to test"
+> Isolator now allows unit testing in VB or C# for many "hard to test"
 > technologies such as
 > [SharePoint](http://typemock.com/sharepointpage.php?utm_source=spp&utm_medium=typeblog&utm_campaign=isolatorvb),
 > ASP.NET MVC, partial support for Silverlight, WPF, LINQ, WF, Entity

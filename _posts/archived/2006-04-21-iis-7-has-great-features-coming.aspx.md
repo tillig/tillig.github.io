@@ -4,7 +4,7 @@ title: "IIS 7 Has Great Features Coming"
 date: 2006-04-21 -0800
 comments: true
 disqus_identifier: 990
-tags: [GeekSpeak]
+tags: [windows,aspnet]
 ---
 [Scott Guthrie](http://weblogs.asp.net/scottgu/) has a great article
 about some of the [IIS 7 features coming in Windows Vista and

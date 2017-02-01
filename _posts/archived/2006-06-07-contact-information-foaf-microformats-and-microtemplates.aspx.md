@@ -4,7 +4,7 @@ title: "Contact Information, FOAF, Microformats, and Microtemplates"
 date: 2006-06-07 -0800
 comments: true
 disqus_identifier: 1014
-tags: [GeekSpeak]
+tags: [web]
 ---
 I didn't realize what a can of worms I was really opening with the
 [ContactCard popup contact information

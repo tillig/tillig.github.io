@@ -201,7 +201,7 @@ Windows Home Server option to backup to a USB drive and store the
 backups off-site myself.
 **Ripping DVDs:**
  One of my primary goals for getting the server was to store my
-VIDEO\_TS rips of my DVDs so I can play them through some sort of media
+VIDEO_TS rips of my DVDs so I can play them through some sort of media
 center. I've gotten this working - even over wireless, which was cool -
 through my primary laptop and Windows Media Center on Vista Ultimate.
 
@@ -213,7 +213,7 @@ you're ripping the next disc.
 
 You will probably want to create a new shared folder on the server
 outside of the default "Videos" folder that it comes with. Since the
-server won't stream VIDEO\_TS or ISO anyway, you're not losing out on
+server won't stream VIDEO_TS or ISO anyway, you're not losing out on
 functionality. That said, you probably don't need file duplication
 turned on for your ripped movies or you'll be chewing through space.
 Creating a separate "DVD" share to store your rips in will let you

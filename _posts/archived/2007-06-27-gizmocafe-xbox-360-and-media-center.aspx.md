@@ -18,7 +18,7 @@ to try this out.
 It would be easy enough to have the DVD backups on a drive and a virtual
 filesystem of symbolic links to all of the VOB files that have renamed
 targets (so "Cool Movie.mpg" would point to "Cool
-Movie/VIDEO\_TS/VTS\_01\_1.VOB" and mask the whole rename issue). 
+Movie/VIDEO_TS/VTS\_01\_1.VOB" and mask the whole rename issue). 
 Wouldnt' be hard to write a program that generates that filesystem. 
 I'll have to try it.
 

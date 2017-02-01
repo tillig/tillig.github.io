@@ -26,7 +26,7 @@ Added context menu for converting selected lines to XML doc comment.
 
 Added context menu for expanding/collapsing XML doc comment blocks.
 
-Added context menu for toggling visibility of CR\_Documentor window.
+Added context menu for toggling visibility of CR_Documentor window.
 
 
  **[Go get

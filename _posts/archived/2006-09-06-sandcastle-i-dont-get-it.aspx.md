@@ -4,7 +4,7 @@ title: "Sandcastle: I Don't Get It"
 date: 2006-09-06 -0800
 comments: true
 disqus_identifier: 1068
-tags: [GeekSpeak]
+tags: [net,process,build]
 ---
 I've finally taken some time and looked at
 [Sandcastle](http://www.sandcastledocs.com), the new Microsoft
@@ -73,10 +73,10 @@ generation, they just keep throwing half-baked tools at it.
 
  For the record, I'm using the August 2006 CTP of Sandcastle as the
 basis for my statements. I've got some test classes that I have for
-[CR\_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
-that I use to see if CR\_Documentor renders the preview the way NDoc
+[CR_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
+that I use to see if CR_Documentor renders the preview the way NDoc
 does. Today I got the Sandcastle docs building for my test classes so I
-could get started on the Sandcastle renderer in CR\_Documentor.
+could get started on the Sandcastle renderer in CR_Documentor.
 
  Holy crap.
 
@@ -125,7 +125,7 @@ in the MSDN documentation. We'll see what comes of it. Right now I can't
 even get all of the standard tags to render right. For example, good
 luck getting a `<list />` to render (which is one of the tags they
 actually list in the MSDN documentation as supported). I sure haven't
-succeeded. Sort of puts a damper on the CR\_Documentor emulation since I
+succeeded. Sort of puts a damper on the CR_Documentor emulation since I
 have no idea where they're actually going to end up.
 
  I guess I'm just irritated that such a big stir has been made over this

@@ -106,22 +106,22 @@ comments:
     you think it does.  Don't forget that you're writing in XML -
     throwing in a standard line break isn't going to actually get you
     onto a new line.  So, for example, this:
-     
+
     `/// <remarks>     /// This is the first line.     /// This is the second line.     /// </remarks>`
-     
+
      Renders as:
-     
+
      `This is the first line. This is the second line.`
-     
+
      Create paragraphs by using `<para>...</para>` tags (similar to the
     `<p>...</p>` in HTML - put your content between the `<para>` and
     `</para>` tags).  Generally you won't actually want single line
     breaks anywhere because in the 80% case, you'll actually be wanting
     to use a different construct - a list, a table, or paragraphs.  A
     revised version of the above block would be:
-     
+
     `/// <remarks>     /// <para>     /// This is the first line.     /// </para>     /// <para>     /// This is the second line.     /// </para>     /// </remarks>`
-     
+
      The exception to this rule is the `<code/>` tag - whitespace is
     respected in there because it's assumed to be a code snippet.
 10. **Hyperlink, hyperlink, hyperlink.**  The beauty of XML doc comments
@@ -145,7 +145,7 @@ comments:
      `<see langword="null" />`
      ...renders as...
      `a null reference (Nothing in Visual Basic)`
-     
+
      The recognized words are:
     -   abstract
     -   false
@@ -190,7 +190,7 @@ comment writing experience.  My two favorites are:
     you're implementing interfaces or overriding methods because it can
     grab the docs from the base method and use that as your starting
     point.
--   [CR\_Documentor](http://cr-documentor.googlecode.com) - Shows a
+-   [CR_Documentor](http://cr-documentor.googlecode.com) - Shows a
     preview of what your documentation will look like when rendered. 
     Also adds some XML documentation templates to the editor context
     menu.

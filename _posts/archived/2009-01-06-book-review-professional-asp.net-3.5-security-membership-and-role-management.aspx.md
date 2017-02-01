@@ -7,9 +7,9 @@ disqus_identifier: 1484
 tags: [aspnet,books]
 ---
 [![Professional ASP.NET 3.5 Security, Membership, and Role Management
-with C\# and
+with C# and
 VB](http://ecx.images-amazon.com/images/I/61fLVextjJL._BO2_AA240_SH20_OU01_.jpg)*Professional
-ASP.NET 3.5 Security, Membership, and Role Management with C\# and
+ASP.NET 3.5 Security, Membership, and Role Management with C# and
 VB*](http://www.amazon.com/gp/product/0470379308?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=0470379308)
 is, other than a heck of a long title, probably one of the most useful
 books I've read through in recent memory.
@@ -115,6 +115,6 @@ mid-level to experienced ASP.NET developers, you definitely need to pick
 this up.
 
 In all, this is one of those books I'm really glad to have on my shelf,
-right alongside *[Professional ASP.NET 3.5 in C\# and
+right alongside *[Professional ASP.NET 3.5 in C# and
 VB](http://www.amazon.com/gp/product/0470187573?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=0470187573)*.
 

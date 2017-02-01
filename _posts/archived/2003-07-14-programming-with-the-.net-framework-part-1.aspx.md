@@ -9,7 +9,7 @@ tags: [net,personal]
 *9:22a*
 
  Second week of training is now underway. This time it's *MS-2349:
-Programming with the Microsoft .NET Framework (Microsoft C\# .NET)*.
+Programming with the Microsoft .NET Framework (Microsoft C# .NET)*.
 It's actually more of the introductory "here's how to write programs"
 sort of class, and you might ask yourself why I didn't start out by
 taking this class.
@@ -29,7 +29,7 @@ ten-year class reunion.
 
  In fact, a lot of this class, I feel, is going to be review, but the
 stuff that isn't is going to be very valuable indeed. I'm hoping that
-I'll solidify my knowledge of the C\# language - finally get a good
+I'll solidify my knowledge of the C# language - finally get a good
 understanding of the stuff that's a little foggy. We'll see, right?
 
  *12:41p*

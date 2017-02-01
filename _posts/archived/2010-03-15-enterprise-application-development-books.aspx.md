@@ -65,9 +65,9 @@ choose the right solution.
     checklist. Will it help you do things in a standard way and maybe
     open your eyes to some different ways to solve the problem? Sure.
 -   [*Design Patterns in
-    C\#*](http://www.amazon.com/dp/0321126971?tag=mhsvortex): Less
+    C#*](http://www.amazon.com/dp/0321126971?tag=mhsvortex): Less
     comprehensive (and easier to read) than the "Gang of Four" book, but
-    provides concrete examples of common patterns in C\# and helps to
+    provides concrete examples of common patterns in C# and helps to
     solidify some of the concepts.
 -   [*Framework Design Guidelines: Conventions, Idioms, and Patterns for
     Reusable .NET
@@ -90,7 +90,7 @@ choose the right solution.
     option* for separating logic into components. The *ASP.NET 3.5
     Enterprise Application Development* book doesn't even mention
     services, and that's a big oversight.
--   *[Professional ASP.NET 4 in C\# and
+-   *[Professional ASP.NET 4 in C# and
     VB](http://www.amazon.com/dp/0470502207?tag=mhsvortex)*: If your UI
     will be a web app, you owe it to yourself to get this book. It
     covers the ASP.NET pipeline and the common providers you'll need to

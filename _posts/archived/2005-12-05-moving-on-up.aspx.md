@@ -52,7 +52,7 @@ hasn't happened for quite some time (the project we were on about this
 time last year and into the beginning of this year was, shall we say,
 *trying*) and I'm thinking about little projects and stuff to work on.
 I'm working on a minor bug in
-[CR\_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx),
+[CR_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx),
 and I think maybe there's some stuff I'd like to add to [Junction Shell
 Extensions](/archive/2005/04/20/junction-shell-extensions.aspx). I also
 want to get

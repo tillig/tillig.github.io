@@ -17,7 +17,7 @@ house-oriented stuff. Nothing too exciting.
 
  Today, though, is going to be a big day.
 
- First, we have my "Programming Windows Apps in C\#" test, which I don't
+ First, we have my "Programming Windows Apps in C#" test, which I don't
 anticipate being too difficult, but I'm always leery of things that seem
 too easy.
 

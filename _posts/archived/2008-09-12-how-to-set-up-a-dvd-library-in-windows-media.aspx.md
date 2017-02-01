@@ -54,32 +54,32 @@ and really like it. If you are able, I recommend it.
 **Step 2: Choose a format to rip your movies in.**
 
 For a full-disc rip, you have your choice of ripping the disc in ISO
-format or VIDEO\_TS format. ISO format basically takes a full image of
-the disc, sector for sector, and stores that in one file. VIDEO\_TS
+format or VIDEO_TS format. ISO format basically takes a full image of
+the disc, sector for sector, and stores that in one file. VIDEO_TS
 format just takes the files that are on the disc and puts those in a
 folder you specify. From a backup standpoint, ISO is going to produce a
 more literally accurate reproduction of the disc, but [you can burn
-VIDEO\_TS folders back to a DVD](http://www.imgburn.com/) you can watch
+VIDEO_TS folders back to a DVD](http://www.imgburn.com/) you can watch
 in a regular DVD player, too, so if you don't mind losing things like,
-oh, the disc's volume label, I'd go with VIDEO\_TS for two reasons:
+oh, the disc's volume label, I'd go with VIDEO_TS for two reasons:
 
-First, VIDEO\_TS seems to be much more portable from an application
+First, VIDEO_TS seems to be much more portable from an application
 playback standpoint. If you happen to have a Windows Media Center and a
 Mac running Front Row, for example, both can play back the same
-VIDEO\_TS folder structure without issues. If it's ISO, you generally
+VIDEO_TS folder structure without issues. If it's ISO, you generally
 need to configure some sort of ISO mounting tool on each front end to
 fool the system into thinking it's a real DVD.
 
-Second, VIDEO\_TS rips seem to take much less space on disk. Space
+Second, VIDEO_TS rips seem to take much less space on disk. Space
 conservation, when you're sometimes looking at one or two GB, is a good
 thing.
 
 To that end, this step is sort of misleading. **You'll want to rip your
-movies in VIDEO\_TS.** But now you know why. (I've also posted [a blog
+movies in VIDEO_TS.** But now you know why. (I've also posted [a blog
 entry with some additional details about choosing a
 format](/archive/2008/09/23/choosing-a-format-for-your-dvd-library.aspx).
 Much of this DVD Library setup guide won't pertain to you if you choose
-a format other than VIDEO\_TS, but if you want to look at different
+a format other than VIDEO_TS, but if you want to look at different
 formats, [here's my
 comparison](/archive/2008/09/23/choosing-a-format-for-your-dvd-library.aspx).)
 
@@ -108,33 +108,33 @@ Say I have everything stored on a \\\\server\\DVD share. When I explore
     -   Movies
         -   Aliens (1986)
             -   AUDIO\_TS
-            -   VIDEO\_TS
+            -   VIDEO_TS
 
         -   Blade Runner (1982)
             -   AUDIO\_TS
-            -   VIDEO\_TS
+            -   VIDEO_TS
 
         -   Die Hard (1988)
             -   AUDIO\_TS
-            -   VIDEO\_TS
+            -   VIDEO_TS
 
     -   TV
         -   Alias
             -   Season 01
                 -   s01e01e02e03
                     -   AUDIO\_TS
-                    -   VIDEO\_TS
+                    -   VIDEO_TS
 
                 -   s01e04e05e06e07
                     -   AUDIO\_TS
-                    -   VIDEO\_TS
+                    -   VIDEO_TS
 
 ...and so on. Under that \\\\server\\DVD share, I split things into
 Movies and TV.
 
 Under the Movies folder, there's one folder for each movie named with
 the movie title and year, and in each movie's folder, you'll see
-AUDIO\_TS and VIDEO\_TS folders - the results of the ripping process.
+AUDIO\_TS and VIDEO_TS folders - the results of the ripping process.
 
 Under TV, there's a folder for the TV series, then a folder for each
 season, and for each disc in the season there's a folder that is named
@@ -150,7 +150,7 @@ end](/archive/2011/12/29/switching-from-windows-media-center-to-xbmc-for-my-medi
 It doesn't impact my use of Windows Media Center, though - it will work
 *for both* so it's a good structure all around.
 
-Using your ripper, rip the entire movie in VIDEO\_TS format to the
+Using your ripper, rip the entire movie in VIDEO_TS format to the
 appropriate area on your network. It seems to be generally faster to rip
 to a local drive and copy the results of the rip over to the right
 location on the network than it is to rip directly to the network, but
@@ -158,7 +158,7 @@ YMMV.
 
 Two notes if you choose to use DVDFab HD Decrypter: First, it creates
 sort of an odd folder structure that actually seems to put the AUDIO\_TS
-and VIDEO\_TS folders down two or three levels from where you tell it to
+and VIDEO_TS folders down two or three levels from where you tell it to
 rip to. If you're ripping local and copying to the network, just copy
 the stuff it rips and nests down in the folder structure - you don't
 need to go all the way back up to the "FullDisc" folder it creates
@@ -166,7 +166,7 @@ need to go all the way back up to the "FullDisc" folder it creates
 the option to rip non-movie-related files, like PC content (Flash
 executables, images, etc.) when you rip the movie. I do this, but you
 don't have to. If you happen to see a "JACKET\_P" folder that it rips as
-a peer to VIDEO\_TS, that's what that is. When you copy to the network,
+a peer to VIDEO_TS, that's what that is. When you copy to the network,
 go ahead and copy all of the extra files it rips, too. It won't hurt
 anything, it just won't be used by Windows Media Center.
 
@@ -284,7 +284,7 @@ for all members of the family.
 
 If you don't care about anything but the cover image, it's
 excruciatingly simple. Place a cover image for the movie inside the
-folder *just above* the VIDEO\_TS folder and call the image
+folder *just above* the VIDEO_TS folder and call the image
 **folder.jpg**. That's it. Windows Media Center will use the name of the
 folder as the name of the movie and automatically use this image as the
 cover image and you're done. It'd look like this:
@@ -294,17 +294,17 @@ cover image and you're done. It'd look like this:
         -   Aliens (1986)
             -   folder.jpg
             -   AUDIO\_TS
-            -   VIDEO\_TS
+            -   VIDEO_TS
 
         -   Blade Runner (1982)
             -   folder.jpg
             -   AUDIO\_TS
-            -   VIDEO\_TS
+            -   VIDEO_TS
 
         -   Die Hard (1988)
             -   folder.jpg
             -   AUDIO\_TS
-            -   VIDEO\_TS
+            -   VIDEO_TS
 
 I actually want full metadata, though, so that's not good enough for me.
 
@@ -381,7 +381,7 @@ proper DVD ID from each of your rips.
 Fortunately, that's actually easier than you think.
 
 What you can do is place a tiny XML file in the folder that contains the
-VIDEO\_TS folder. The name of the XML file is "MovieName.dvdid.xml"
+VIDEO_TS folder. The name of the XML file is "MovieName.dvdid.xml"
 where "MovieName" is the name of the movie (which should also be the
 name of the folder containing the movie - it all needs to match). That
 looks like this:
@@ -391,17 +391,17 @@ looks like this:
         -   Aliens (1986)
             -   Aliens.dvdid.xml
             -   AUDIO\_TS
-            -   VIDEO\_TS
+            -   VIDEO_TS
 
         -   Blade Runner (1982)
             -   Blade\_Runner.dvdid.xml
             -   AUDIO\_TS
-            -   VIDEO\_TS
+            -   VIDEO_TS
 
         -   Die Hard (1988)
             -   Die\_Hard.dvdid.xml
             -   AUDIO\_TS
-            -   VIDEO\_TS
+            -   VIDEO_TS
 
 Inside these tiny XML files are two lines - the name of the movie and
 the movie's DVD ID. A sample looks like this:

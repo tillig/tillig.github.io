@@ -7,7 +7,7 @@ disqus_identifier: 1586
 tags: [media,windows]
 ---
 In researching potential video formats for switching my DVD library from
-VIDEO\_TS to something else ([due to file access time
+VIDEO_TS to something else ([due to file access time
 issues](/archive/2009/10/26/one-year-retrospective-with-windows-home-server.aspx))
 I found I had real trouble locating the list of audio and video formats
 that Windows 7 supports out of the box. [The provided "supported

@@ -30,7 +30,7 @@ Blu-ray file format." (Yes, I know that's a technical generality and
 it's not complete and correct. Just go with me here.) Honestly, I've
 lost track of all the different file formats for things and what to do
 with them all. I have my music in Apple Lossless (AAC) and MPEG-4 (also
-AAC, but not)... I have movies in full VIDEO\_TS format (which is sort
+AAC, but not)... I have movies in full VIDEO_TS format (which is sort
 of MPEG-2 in disguise)... I've got some videos that are DivX, some
 WMV... and I just want to play the damn things.
 

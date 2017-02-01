@@ -23,7 +23,7 @@ questions, at least the redundant ones, out. Yow.
 [Solvent](/archive/2004/06/25/solvent-power-toys-for-visual-studio-.net.aspx).
 It's going to interact more with the Windows shell, though, which is all
 low-level stuff, so I'm having to go back and re-learn C++ (and,
-subsequently, the managed extensions to it) so I can interface my C\#
+subsequently, the managed extensions to it) so I can interface my C#
 add-in code with the shell. It's turning out to be a lot more difficult
 than I first anticipated, though, and I'm learning way too much about
 how the shell does things (or doesn't, as the case may be) and the C++

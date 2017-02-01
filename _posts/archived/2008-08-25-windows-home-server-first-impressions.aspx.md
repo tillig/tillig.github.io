@@ -71,7 +71,7 @@ before I understand what it's doing... but there's nothing in the docs
 to explain what's going on beyond explaining how to configure it.
 
 Regardless, this solves my media storage problem, so at the very least I
-can start ripping DVDs in VIDEO\_TS format and saving them here. My
+can start ripping DVDs in VIDEO_TS format and saving them here. My
 laptop has Vista Ultimate on it, and I have another license for it that
 I can put on my Windows XP desktop (once I've migrated the shared data
 off there - it's my "file server" right now), so I can try out [My

@@ -4,7 +4,7 @@ title: "A/V Switcher"
 date: 2006-01-04 -0800
 comments: true
 disqus_identifier: 942
-tags: [GeekSpeak]
+tags: [media]
 ---
 I'm planning on getting an XBox 360 in a month or so and I know the PS3
 is coming out some time this year, which means I'm going to be hooking

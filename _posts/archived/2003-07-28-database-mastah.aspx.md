@@ -28,4 +28,4 @@ how many you got wrong, but now it's just PASS/FAIL. No problem for me,
 PASS is PASS, baby.
 
  So. One down, four to go. I think the next test I'll take will probably
-be the Windows Apps in C\# test. I'd best get cracking on that.
+be the Windows Apps in C# test. I'd best get cracking on that.

@@ -7,7 +7,7 @@ disqus_identifier: 1611
 tags: [downloads,vs,coderush]
 ---
 It's been almost a year, but I've finally got [the new
-CR\_Documentor](http://cr-documentor.googlecode.com) out the door.
+CR_Documentor](http://cr-documentor.googlecode.com) out the door.
 Several bug fixes and a couple of new features including:
 
 -   Ability to "pause" rendering - "pause" the preview window and

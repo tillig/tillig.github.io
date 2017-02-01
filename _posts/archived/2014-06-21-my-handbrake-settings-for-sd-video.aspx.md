@@ -7,7 +7,7 @@ disqus_identifier: 1845
 tags: [media]
 ---
 I've been ripping a lot of SD video lately, converting my full-disc
-VIDEO\_TS folder images to .m4v files for use with Plex, and I've
+VIDEO_TS folder images to .m4v files for use with Plex, and I've
 learned quite a bit about what I like (or don't) and things I have to
 look for in the final conversion. Surprisingly enough, default settings
 never seem to work quite right for me.

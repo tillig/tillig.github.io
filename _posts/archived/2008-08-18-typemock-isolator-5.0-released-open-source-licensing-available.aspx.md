@@ -21,7 +21,7 @@ and there are a lot of cool things that come with it. The two big ones:
     effect](http://www.typemock.com/licenseinformation.php). You can get
     the goodness of Isolator for use in your open source project. I'll
     totally be hooking this up in
-    [CR\_Documentor](http://code.google.com/p/cr-documentor/).
+    [CR_Documentor](http://code.google.com/p/cr-documentor/).
 
 This is huge. I'm totally excited. [Check it
 out](http://blog.typemock.com/2008/08/typemock-isolator-50-released.html).

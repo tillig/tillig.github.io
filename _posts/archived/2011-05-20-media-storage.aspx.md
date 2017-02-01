@@ -19,7 +19,7 @@ about as many CDs. Not all of the DVDs are [on my Synology
 DS1010+](/archive/2010/05/20/moving-to-a-synology-ds1010.aspx) - I
 didn't rip the "special features" discs, and in some cases where I have
 multiple editions of the same movie, I only ripped the one we like the
-most. That puts 890 DVD images in VIDEO\_TS format on the DS1010+. All
+most. That puts 890 DVD images in VIDEO_TS format on the DS1010+. All
 of the music is on the Windows Home Server in iTunes, but not in a
 consistent format - some is 256k MP3, some is 320k AAC, some is Apple
 Lossless. Lately I prefer Apple Lossless since it doubles as a backup

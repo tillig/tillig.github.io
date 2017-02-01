@@ -45,7 +45,7 @@ errors that I was seeing.
 investigate that when I get back to work.
 
  It was around 8:00p by then and I still had four modules' worth of labs
-to finish up from my *Programming Windows Apps in C\#* class (the whole
+to finish up from my *Programming Windows Apps in C#* class (the whole
 reason I brought the computer along, really, was to finish these labs
 and understand the concepts we didn't have time to go over in class). I
 moved through them at a pretty decent speed (so I thought) and ended up

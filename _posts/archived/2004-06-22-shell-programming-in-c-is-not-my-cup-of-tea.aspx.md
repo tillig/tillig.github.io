@@ -10,7 +10,7 @@ When it comes to programming, I will admit I am a spoiled, whiny baby. I
 hate low-level crap. I am *not* a C++ programmer. Sure, it may be
 powerful and flexible and yadda yadda yadda, but having to deal with all
 of the little things in there is such a pain. I like higher level
-languages that abstract that away. I'm a big fan of C\#, Perl,
+languages that abstract that away. I'm a big fan of C#, Perl,
 Smalltalk, and whatnot. (You may or may not like any or all of those.
 Too bad. They're my personal preferences... even if I haven't written in
 Smalltalk for years.)

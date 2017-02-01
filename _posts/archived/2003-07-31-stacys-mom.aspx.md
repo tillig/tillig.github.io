@@ -71,7 +71,7 @@ which point you have to disconnect it and do a little reset operation
 on it.
 
  I've been studying for my next Microsoft exam, which will be on
-Programming Windows Applications in C\#. Looking at the practice test
+Programming Windows Applications in C#. Looking at the practice test
 questions, I'm already feeling pretty comfortable. I'm going to talk to
 a friend of mine who has used the same practice test company (different
 test, same manufacturer) to see how close the practice test is to the

@@ -17,7 +17,7 @@ it's time to re-examine my requirements and assumptions.
 
  There are a lot of limitations to Media Center Extender technology, not
 the least of which is that they don't support playback of movies ripped
-in either ISO or VIDEO\_TS format, which is one of my primary goals. I
+in either ISO or VIDEO_TS format, which is one of my primary goals. I
 not only want easy access to my movies, but I want no quality lost when
 I put them on the server, I want no features lost (extras, audio tracks,
 etc.), and I want to be able to re-create a watchable DVD from it should

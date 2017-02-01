@@ -14,7 +14,7 @@ Hejlsberg](http://www.microsoft.com/presspass/exec/techfellow/Hejlsberg/default.
 Anders showed a great demo of LINQ.  Not having had time myself to do
 much with LINQ, it was nice to see several of the features working and
 learn a little more about how LINQ works from the inside as well as
-seeing some of the C\# 3.0 features.
+seeing some of the C# 3.0 features.
 
 The idea behind LINQ is that we've pretty much run the gamut of
 possibilities in imperative programming - declarative programming still

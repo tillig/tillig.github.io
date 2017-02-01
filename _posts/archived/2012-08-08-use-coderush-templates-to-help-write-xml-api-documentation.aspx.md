@@ -9,7 +9,7 @@ tags: [net,vs]
 I write a lot of API documentation. I do it to help the people consuming
 my code... and to help me a year from now when I have to come back and
 can't remember how the thing works. I have
-[CR\_Documentor](http://cr-documentor.googlecode.com) out there to help
+[CR_Documentor](http://cr-documentor.googlecode.com) out there to help
 you see what your docs will look like rendered, but sometimes you also
 need help getting the content right.
 
@@ -41,7 +41,7 @@ in the tree view, expand the "Editor" node and select "Templates."
 
 **At the bottom of the Options window, select the "\*Neutral\*"
 language.** Do this so you can add the expansions to work for both
-VB.NET and C\# and keep them together. Otherwise you have to switch back
+VB.NET and C# and keep them together. Otherwise you have to switch back
 and forth between the two languages every time you want to modify or add
 a template.
 
@@ -88,7 +88,7 @@ you don't want "Null" or "NULL" expanding.
 **The last and most important thing is the context for the expansion.**
 You want your template to only run when:
 
--   The active language is C\# (you can set up a similar "Nothing"
+-   The active language is C# (you can set up a similar "Nothing"
     expansion for VB, which comes with my template set).
 -   There is no selection in the editor.
 -   You are typing code (not in the designer).
@@ -99,18 +99,18 @@ view** below your macro expansion:
 
 -   Editor/Code/InXmlDocComment
 -   Editor/Selection/No Selection
--   Language/C\#
+-   Language/C#
 
 There is a very, very rich context selection mechanism in CodeRush, so I
 won't show you the entire tree view with all of the boxes selected -
-I'll just show you the C\# box here, but **you need to check all three
+I'll just show you the C# box here, but **you need to check all three
 boxes**.
 
 ![](https://hyqi8g.blu.livefilestore.com/y2pZsEnjk3WDWl6XKjm7lLk48uBMgIg9jbx9mdnbadTtiLlXKNV2-LfKzSh_2jUNEKNAHrXlrAiuO6dw9ZQjL64D_XU15EpT1REDyZ35FgQSuw/20120808_context.png?psid=1)
 
 Click "OK" to save your template and close the Options window.
 
-Now, in a C\# code editor, start an XML doc comment like this:
+Now, in a C# code editor, start an XML doc comment like this:
 
     /// <summary>
     /// Template test for null
@@ -176,7 +176,7 @@ what's useful, etc. Conventions I used in naming templates:
     `<exception type="System.ArgumentException">` documentation for when
     a parameter is empty including a placeholder for parameter reference
     info.
--   `<see langword="..." />` expansions for all of the standard C\#
+-   `<see langword="..." />` expansions for all of the standard C#
     language words (null, abstract, true, false, sealed, static,
     virtual) and VB.NET language words (CanOverride, False, MustInherit,
     Nothing, NotInheritable, Shared, True).

@@ -37,7 +37,7 @@ sets I have been waiting for with baited breath, neither of which I
 realized were coming out. Good times there.
 
  And, last, but not least, I've scheduled my 070-316 test, "Developing
-and Implementing Windows-Based Applications with Microsoft Visual C\#
+and Implementing Windows-Based Applications with Microsoft Visual C#
 .NET and Microsoft Visual Studio .NET," to occur this coming Monday at
 11:15a, since I have been studying the questions on the practice test
 and they all make some weird sort of *natural sense*, like I might

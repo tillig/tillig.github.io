@@ -7,7 +7,7 @@ disqus_identifier: 1417
 tags: [net,vs]
 ---
 There's [a known issue with the latest
-CR\_Documentor](http://code.google.com/p/cr-documentor/wiki/KnownIssues)
+CR_Documentor](http://code.google.com/p/cr-documentor/wiki/KnownIssues)
 - sometimes, on an unpredictable basis, it'll start issuing that "active
 content" JavaScript security warning. It does that because we're
 updating the document by poking data into the DOM directly. Usually
@@ -39,7 +39,7 @@ I'm going to try that first.
 
 **UPDATE 2:**This is currently being worked on and should be fixed in
 the next version. You can follow the issue progress [on the
-CR\_Documentor
+CR_Documentor
 site](http://code.google.com/p/cr-documentor/issues/detail?id=1).
 
 **UPDATE 3: [It's fixed! Go get

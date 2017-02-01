@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 1422
 tags: [downloads,vs,coderush]
 ---
-I just posted the new version of CR\_Documentor, version 2.1.0.0, [over
+I just posted the new version of CR_Documentor, version 2.1.0.0, [over
 at Google Code](http://code.google.com/p/cr-documentor/). This new one
 hosts a tiny internal web server (instead of manually poking things into
 the IE DOM) so as long as you can get to localhost, you should be able

@@ -36,7 +36,7 @@ into [a few issues with Netflix streaming to my
 Xbox](/archive/2010/02/18/network-issues-and-netflix-streaming.aspx)
 that seemed to be fixed by running ethernet cable rather than using
 wireless. [I updated
-CR\_Documentor](/archive/2010/02/01/cr_documentor-2.4.0.0-released.aspx)
+CR_Documentor](/archive/2010/02/01/cr_documentor-2.4.0.0-released.aspx)
 with the ability to "pause" the preview and assign shortcut keys to
 various actions.
 
@@ -57,7 +57,7 @@ work](/archive/2010/03/29/dxcore-plugins-may-be-blocked-by-windows-security.aspx
 Later I showed [how to unblock multiple files at
 once](/archive/2010/05/19/unblocking-multiple-files-at-once.aspx). (This
 is still the \#1 reason people think
-[CR\_Documentor](http://cr-documentor.googlecode.com) is broken - they
+[CR_Documentor](http://cr-documentor.googlecode.com) is broken - they
 forget to unblock it and Windows security stops it from running.) And I
 showed [how to get your continuous integration build running FxCop from
 VS2010 without having to install Visual Studio on the build
@@ -129,7 +129,7 @@ Reader
 update](/archive/2010/08/23/error-1625-with-adobe-reader-update-on-windows-server-2008.aspx).
 
 September saw [another release of
-CR\_Documentor](/archive/2010/09/17/cr_documentor-2.5.0.0-released.aspx),
+CR_Documentor](/archive/2010/09/17/cr_documentor-2.5.0.0-released.aspx),
 this time with a vastly overhauled syntax preview engine. For folks
 writing DXCore plugins, [I showed you how to make your plugin "official"
 and put yourself in the "About" box for
@@ -174,7 +174,7 @@ that are handy and that I constantly forget about.
 
 The posting sort of got a little lax here in December (though I did
 [sneak in an update to
-CR\_Documentor](/archive/2010/12/22/cr_documentor-2-6-0-0-released.aspx))
+CR_Documentor](/archive/2010/12/22/cr_documentor-2-6-0-0-released.aspx))
 due to [the birth of my daughter, Phoenix Aeralynn, on Thanksgiving
 day](/archive/2010/12/01/phoenix-aeralynn-illig.aspx). She came a little
 early, but I had started winding down my development activities toward

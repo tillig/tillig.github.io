@@ -56,7 +56,7 @@ You'll need a place where you can run through these exercises, so...
 
 1.  In Visual Studio, select "File -\> New Project..."
 2.  In the "New Project" dialog...
-    1.  In the tree view on the left, under "Visual C\#" select
+    1.  In the tree view on the left, under "Visual C#" select
         "Windows."
     2.  In the "Templates" section on the right, select "Class Library."
     3.  Give your libary a name like "TypeMockQuickStart."

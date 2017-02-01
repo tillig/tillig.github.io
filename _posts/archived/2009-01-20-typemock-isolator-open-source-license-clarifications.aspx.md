@@ -7,7 +7,7 @@ disqus_identifier: 1487
 tags: [net]
 ---
 I'm working on an overhaul of the internal web server for
-[CR\_Documentor](http://cr-documentor.googlecode.com) and in doing that
+[CR_Documentor](http://cr-documentor.googlecode.com) and in doing that
 I'm making sure to have some good unit testing in there. Unfortunately,
 pretty much everything around the
 [HttpListener](http://msdn.microsoft.com/en-us/library/system.net.httplistener.aspx)
@@ -42,7 +42,7 @@ it all here.
 -   **Everyone on a project needs to use the same version of Typemock
     Isolator.** You can't mix-and-match versions.
 
-This is fantastic. For CR\_Documentor, it means I can test not only the
+This is fantastic. For CR_Documentor, it means I can test not only the
 new server stuff, but also start adding tests for the code that
 interacts with the DXCore parser, since you can't really create those
 structures in unit tests, either.

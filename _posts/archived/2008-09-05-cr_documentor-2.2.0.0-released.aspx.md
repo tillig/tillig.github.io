@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 1444
 tags: [downloads,vs,coderush]
 ---
-[CR\_Documentor 2.2.0.0 has been
+[CR_Documentor 2.2.0.0 has been
 released](http://code.google.com/p/cr-documentor/) and includes several
 bug fixes for rendering issues as well as some fixes/enhancements around
 the internal preview web server. Check out the [version

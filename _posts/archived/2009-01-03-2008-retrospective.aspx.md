@@ -131,8 +131,8 @@ Stanley](/archive/2008/07/06/welcome-kai-and-stanley.aspx), and they
 have turned out to be real wild men. [I moved my CR\_SortLines and
 CR\_JoinLines plugins into the DXCore Community Plugins
 project](/archive/2008/07/10/cr_joinlines-and-cr_sortlines-join-dxcore-community-plugins.aspx).
-I also [released CR\_Documentor 2.0 which included not only a Sandcastle
-preview style but also was my first release with CR\_Documentor as open
+I also [released CR_Documentor 2.0 which included not only a Sandcastle
+preview style but also was my first release with CR_Documentor as open
 source](/archive/2008/07/11/cr_documentor-2.0.0.0-released-now-with-sandcastle-preview-and-open-source.aspx).
 Since then, I've released a few bug fix builds and made the internal
 rendering engine much stronger, all with help from the community. (I'm
@@ -175,7 +175,7 @@ In September, [besides my car getting
 hit](/archive/2008/09/19/watch-those-one-way-grids.aspx), the big
 happening of note was that [I finally solved my media server
 problem](/archive/2008/09/30/overview-of-my-media-center-solution.aspx)
-- all of my DVDs are now stored on a central server in VIDEO\_TS format
+- all of my DVDs are now stored on a central server in VIDEO_TS format
 (so they're not just the movies - they're also disk backups) and can be
 played from a home theater PC in the living room. This was a lot of
 research and effort, but it turned out really well and has been really

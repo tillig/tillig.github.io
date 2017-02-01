@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 1217
 tags: [net,vs]
 ---
-I've been really struggling with the motivation to get CR\_Documentor
+I've been really struggling with the motivation to get CR_Documentor
 updated for Sandcastle support.  The problem is threefold:
 
 1.  .NET 1.1 XSLT performance is pretty slow (slow enough that it's
@@ -21,7 +21,7 @@ updated for Sandcastle support.  The problem is threefold:
     for each rendering engine.  Doing this involves manually running
     around the parsed code tree in DXCore and converting the parsed
     nodes into nicely formatted, human readable HTML.
-3.  CR\_Documentor was originally a one-trick pony, so the rendering
+3.  CR_Documentor was originally a one-trick pony, so the rendering
     mechanism isn't really... "pluggable."  I started refactoring to get
     there, but because the generation of the HTML is so specific to each
     renderer and there's so much to it... frankly, I've gotten

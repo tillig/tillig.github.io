@@ -4,10 +4,10 @@ title: "Google SketchUp"
 date: 2007-01-12 -0800
 comments: true
 disqus_identifier: 1127
-tags: [GeekSpeak]
+tags: [personal]
 ---
 I come across this sort of thing and always feel behind the times.
- 
+
  [Google has this 3D modeling program called SketchUp that is apparently
 already on version 6.](http://sketchup.google.com/intl/en/index.html) I
 haven't tried it yet, but it looks like it's pretty easy to use. It's no

@@ -10,10 +10,10 @@ The new version is out and is primarily a bug fix release - hopefully
 some alleviation of problems for the VS 2005 users.
 
 Fixed bug that would cause VS 2005 to throw an exception on shutdown if
-the CR\_Documentor window had been displayed during the session.
+the CR_Documentor window had been displayed during the session.
 
-Fixed bug that would display a security warning in the CR\_Documentor
-window for VS 2005 users. CR\_Documentor now executes the preview in the
+Fixed bug that would display a security warning in the CR_Documentor
+window for VS 2005 users. CR_Documentor now executes the preview in the
 "Local Intranet" security zone.
 
 

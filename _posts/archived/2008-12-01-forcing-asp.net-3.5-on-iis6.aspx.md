@@ -22,7 +22,7 @@ gone ASPX.
 For the life of me, though, I could not get my .NET 3.5 LINQ code to
 compile. I had the correct \<%@ Assembly %\> directive to reference
 System.Core, I had everything looking right... but it wouldn't use the
-.NET 3.5 C\# compiler, so it wasn't understanding my LINQ syntax.
+.NET 3.5 C# compiler, so it wasn't understanding my LINQ syntax.
 
 The answer: **You absolutely must specify the .NET 3.5 compiler in your
 \<system.codedom\> section of web.config.** No choice. You can't just

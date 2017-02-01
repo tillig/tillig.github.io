@@ -17,7 +17,7 @@ disc to it.
 
 My laptop is running Vista Ultimate, so I set up the DVD Library to
 automatically watch for movies in the DVD shared folder and enabled it
-to play VIDEO\_TS folder structures [following the instructions
+to play VIDEO_TS folder structures [following the instructions
 here](http://apcmag.com/how_to_play_ripped_dvds_on_vista_media_center.htm).
 Doing this worked perfectly and it played the ripped disc as though I
 had put it into the local drive. Exactly what I was looking for. It even
@@ -46,19 +46,19 @@ The question is, what software do I want to run?
 -   Sticking with straight Mac, I have some choices, too (probably more
     than I'm aware of):
     -   [Front Row](http://en.wikipedia.org/wiki/Front_Row), which, as
-        of version 10.5, [finally supports playback of VIDEO\_TS
+        of version 10.5, [finally supports playback of VIDEO_TS
         folders](http://www.macosxhints.com/article.php?story=20071029182617245).
         Doesn't look like it's much richer than the DVD Library in Vista
         Media Center, but if I went Mac Mini, it'd require less to be
         installed on the Mac. (No Boot Camp running Vista, for example.)
     -   [Matinee](http://matinee.dizandat.com/), which looks pretty
-        thin. I'm thinking if Front Row supports VIDEO\_TS, I'd probably
+        thin. I'm thinking if Front Row supports VIDEO_TS, I'd probably
         be best off with that over Matinee.
     -   [DistantDVD](http://www.distantdvd.com/), which is also pretty
         thin but is specifically geared towards what I'm trying to do -
         play the video off the network. It doesn't show any more info
         than the DVD Library, though, so, again, if Front Row supports
-        VIDEO\_TS over the network, that might be the way to go.
+        VIDEO_TS over the network, that might be the way to go.
 
 There are technically a lot of other choices for both platforms, but
 I've ruled out non-Windows-Media-Center choices for the Windows platform

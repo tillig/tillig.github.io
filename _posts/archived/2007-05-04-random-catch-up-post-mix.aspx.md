@@ -46,7 +46,7 @@ around. *That* worked out well.
  I'm stoked about [Silverlight](http://www.silverlight.net) but I've got
 to finish converting my blog over to Subtext before I start screwing
 around with it. I also want to finish the
-[CR\_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
+[CR_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
 support for Sandcastle, which shouldn't be overly difficult to do but
 isn't very fun and will just be a time consumer. I'd release it to the
 world to help out on, but I can't because there's some proprietary stuff

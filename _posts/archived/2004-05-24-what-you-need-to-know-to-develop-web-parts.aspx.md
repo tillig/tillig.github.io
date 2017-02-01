@@ -101,12 +101,12 @@ process it, and then return results. This is the grandfather technology
 to web parts, so you'll need to understand how this works to really
 understand why your web parts do what they do.
 
- **Learn C\#.** The Microsoft .NET framework can be programmed in any
+ **Learn C#.** The Microsoft .NET framework can be programmed in any
 number of languages, but [I recommend
-C\#](http://msdn.microsoft.com/vcsharp/). Web parts are all compiled
+C#](http://msdn.microsoft.com/vcsharp/). Web parts are all compiled
 .NET components, and you'll need to know the language to write them in.
 It doesn't matter right now if you're learning just simple console
-applications or Windows applications or whatever, just learn how C\#
+applications or Windows applications or whatever, just learn how C#
 works.
 
  It's at this point that I recommend you spend the money to get a copy

@@ -7,7 +7,7 @@ disqus_identifier: 332
 tags: [net]
 ---
 I took my latest test - *MS070-320 Developing XML Web Services and
-Server Components with Microsoft Visual C\# .NET and the Microsoft .NET
+Server Components with Microsoft Visual C# .NET and the Microsoft .NET
 Framework* - today at 10:45a (I was scheduled for 11:30a but got there
 early) and ***PASSED!***
 

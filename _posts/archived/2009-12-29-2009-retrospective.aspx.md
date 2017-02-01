@@ -14,7 +14,7 @@ In January I found that they were ending Google Notebook so I had to
 move all of my notes over to [PBworks](http://www.pbworks.com). That was
 sort of painful, but I'm really enjoying PBworks now and I have a ton of
 stuff in there. I also released version 2.2.1.0 of
-[CR\_Documentor](http://cr-documentor.googlecode.com), a bug fix
+[CR_Documentor](http://cr-documentor.googlecode.com), a bug fix
 release.
 
 In February I showed you [how to upgrade your Windows Home Server
@@ -51,7 +51,7 @@ signal](/archive/2009/04/05/solution-to-dell-studio-hybrid-hdmi-sleep-problems.a
 when your computer goes to sleep. Jenn and I took [a three-day vacation
 to Vegas](/archive/2009/04/12/vegas-vacation-spring-2009.aspx), which is
 always a good time. I released version 2.3.0.1 of
-[CR\_Documentor](http://cr-documentor.googlecode.com) and [put out a
+[CR_Documentor](http://cr-documentor.googlecode.com) and [put out a
 solicitation for
 input](/archive/2009/04/16/need-input-cr_documentor-features-in-use.aspx)
 (with not much response, to be honest). I wrote about [some challenges

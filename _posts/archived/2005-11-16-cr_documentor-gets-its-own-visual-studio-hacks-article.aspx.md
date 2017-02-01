@@ -4,7 +4,7 @@ title: "CR_Documentor Gets Its Own Visual Studio Hacks Article"
 date: 2005-11-16 -0800
 comments: true
 disqus_identifier: 917
-tags: [GeekSpeak]
+tags: [coderush,vs]
 ---
 [Previously](/archive/2005/11/03/cr_documentor-appears-on-visual-studio-hacks.aspx)
 the [CR_Documentor
@@ -17,7 +17,7 @@ in with its [*own dedicated
 article*](http://www.visualstudiohacks.com/CRDocumentor). That totally
 rocks!
 
- I noted in the article that one of the downsides of CR\_Documentor
+ I noted in the article that one of the downsides of CR_Documentor
 mentioned is the lack of support for included files. Not to worry; I've
 been noodling on how to make this work in a performant fashion. Not
 forgotten, just not quite here yet. There are other things I want to

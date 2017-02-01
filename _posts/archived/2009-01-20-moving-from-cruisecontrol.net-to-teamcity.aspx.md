@@ -21,7 +21,7 @@ really, the experience thus far has been pretty great. At work we're
 testing it out with the free Professional edition, but if it works out
 on this project, we'll be getting the full Enterprise edition. I know
 that if I set up a continuous integration server for
-[CR\_Documentor](http://cr-documentor.googlecode.com) it'll definitely
+[CR_Documentor](http://cr-documentor.googlecode.com) it'll definitely
 be TeamCity.
 
 That said, there are some differences in how you have to do things in

@@ -4,7 +4,7 @@ title: "Tech Podcasts Take Over"
 date: 2006-09-12 -0800
 comments: true
 disqus_identifier: 1069
-tags: [GeekSpeak]
+tags: [media]
 ---
 Is there a tech geek out there *without* a podcast? First
 [Hanselminutes](http://www.hanselminutes.com/), now

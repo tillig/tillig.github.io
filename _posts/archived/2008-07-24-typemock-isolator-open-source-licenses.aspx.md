@@ -20,7 +20,7 @@ structure I've seen:
 And, of course, discounts for upgrades, etc., on the paid licenses.
 
 This is huge. I've been wanting to add tests to
-[CR\_Documentor](http://cr-documentor.googlecode.com), but it's almost
+[CR_Documentor](http://cr-documentor.googlecode.com), but it's almost
 impossible to do that because of the tight coupling
 [DXCore](http://www.devexpress.com/Downloads/Visual_Studio_Add-in/DXCore/)
 plugins have with the DXCore engine. For example, I'd love to be able to

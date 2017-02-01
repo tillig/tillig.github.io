@@ -19,10 +19,10 @@ logo:
 ![DXCore "About"
 box](https://hyqi8g.bl3301.livefilestore.com/y2poRyassaU9qrCFIO7mAPZrPbAZcWkvzgo9OR8Bb2y0Vifu8bsEj56pmpfUojG2SIHtoleLbaddDwjoqM0lm9VhAI0uZFWPxlmkib5_25hXns/20100922about1.png?psid=1 "DXCore "About" box")
 
-If you have the [CR\_Documentor](http://cr-documentor.googlecode.com)
+If you have the [CR_Documentor](http://cr-documentor.googlecode.com)
 plugin installed, you'll notice it also shows up in that box:
 
-![DXCore "About" box showing the CR\_Documentor
+![DXCore "About" box showing the CR_Documentor
 information](https://hyqi8g.bl3302.livefilestore.com/y2pEuRm3LsfxmEE-eZX4gFJErqfGEK7FK3L70uvvsQGRmsIEb_fhxfgtdNh4TawNGJXwZ0T_uOkfuON3g5MvwRoqEPLhcUYJEpzAV9Jm_AKKBc/20100922about2.png?psid=1 "DXCore "About" box showing the CR_Documentor information")
 
 If you want to "make your plugin an official product" and show up in the
@@ -151,7 +151,7 @@ a ProductModule class called "About," that'll look like:
     language strings that indicate what languages your plugin is valid
     for. You can find these values in the "Language" dropdown on the
     DevExpress options menu. At the time of this writing, they are:
-    Basic, C/C++, CSharp, HTML, JavaScript, Plain Text, and XML.  
+    Basic, C/C++, CSharp, HTML, JavaScript, Plain Text, and XML. 
     ![](https://hyqi8g.bl3302.livefilestore.com/y2p6-ENi92BemYyGOD8MqTd5KSK0eE3hJLsidAha4P5JRu_ueS7RZpsFXJ8x5ynKIqkDvVgYe8yhY6JnnjypGd59_FwKcInmuyAv6x2vQDBHGM/20100922languages.png?psid=1)
 -   **Version property**: Return the assembly version information.
 

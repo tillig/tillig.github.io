@@ -7,7 +7,7 @@ disqus_identifier: 1168
 tags: [media,xbox]
 ---
 I got my Windows XP Media Center 2005 virtual machine to stream a movie
-stored in [VIDEO\_TS
+stored in [VIDEO_TS
 format](/archive/2007/01/29/iso-vs.-video_ts-storage-for-media-center.aspx)
 to my Xbox 360 last night. The picture was sort of choppy due to the
 virtual machine overhead and limitations, but I saw it work, proving the
@@ -64,7 +64,7 @@ concept.
 19. On the Xbox 360, you'll be in a Media Center screen once the
     connection is complete. Navigate to the My Movies section, select
     the movie, and select the "Watch Stream" option. Transcode360 will
-    do its job and transcode the VIDEO\_TS directly to your Xbox 360.
+    do its job and transcode the VIDEO_TS directly to your Xbox 360.
 
 The downside to this is that you don't get the option of setting up
 sound or other options. If you have foreign language movies, you won't
@@ -85,7 +85,7 @@ about how I go about this.
  I can start getting storage together and using [the standard Windows XP
 UPnP file sharing
 deal](http://www.microsoft.com/windows/windowsmedia/devices/wmconnect/default.aspx)
-to get movies to my Xbox, storing two copies - the VIDEO\_TS and a
+to get movies to my Xbox, storing two copies - the VIDEO_TS and a
 compressed Xbox version. Not optimal, but it would get us in the habit
 of using the Xbox for movies and would be a cheap way to see if we like
 it.

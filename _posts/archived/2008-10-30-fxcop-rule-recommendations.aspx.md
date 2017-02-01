@@ -49,7 +49,7 @@ based on project needs and goals.
     non-CLS-compliant. The root cause is usually that some central class
     has a dependency on some third-party component that isn't
     CLS-compliant. In the end, it doesn't seem worth the trouble. (Of
-    course, I only really have C\# clients for my stuff, so this might
+    course, I only really have C# clients for my stuff, so this might
     change if/when I have other languages needing to consume my output.)
 -   **[CA1805 -
     DoNotInitializeUnnecessarily](http://msdn.microsoft.com/en-us/library/ms182274.aspx)**:

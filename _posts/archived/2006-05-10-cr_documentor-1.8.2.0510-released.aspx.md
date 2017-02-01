@@ -13,12 +13,12 @@ Fixed rendering issue with table lists being wider than the window.
 Fixed rendering issue where generics didn't display correctly in syntax
 preview.
 
-Updated minimum requirement for CR\_Documentor to DXCore 1.1.58. Needed
+Updated minimum requirement for CR_Documentor to DXCore 1.1.58. Needed
 for syntax preview.
 
 Cleaned up icons in the preview window toolbar.
 
-Added CR\_Documentor to the DXCore "About" box.
+Added CR_Documentor to the DXCore "About" box.
 
 
  [Go get
