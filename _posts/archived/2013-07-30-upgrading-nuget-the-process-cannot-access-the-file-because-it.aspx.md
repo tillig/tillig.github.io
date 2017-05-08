@@ -6,8 +6,7 @@ comments: true
 disqus_identifier: 1822
 tags: [vs]
 ---
-I tried to update to the latest version of NuGet in Visual Studio
-recently and failed. Miserably. The error I kept getting was:
+I tried to update to the latest version of NuGet in Visual Studio recently and failed. Miserably. The error I kept getting was:
 
 `The process cannot access the file because it is being used by another process.`
 
@@ -28,12 +27,7 @@ Looking in the log, I see the following error:
 
 Again, no info about which file is locked.
 
-I used
-[ProcMon.exe](http://technet.microsoft.com/en-us/sysinternals/bb896645.aspx)
-to figure out the sharing violation was happening on NuGet.pkgdef in the
-new installation of NuGet. Of course, it was happening at exactly the
-wrong point in the installation process, so I ended up with 10 or 15
-nearly-installed-but-corrupted copies of NuGet.
+I used [ProcMon.exe](http://technet.microsoft.com/en-us/sysinternals/bb896645.aspx) to figure out the sharing violation was happening on NuGet.pkgdef in the new installation of NuGet. Of course, it was happening at exactly the wrong point in the installation process, so I ended up with 10 or 15 nearly-installed-but-corrupted copies of NuGet.
 
 I’m pretty sure this has to do with our antivirus software holding a
 lock just a little too long on the file, but who’s to say. I just needed
@@ -85,3 +79,15 @@ work for me.
 For example, the "Powershell Tools" extension immediately had an update after install. I tried this, but found that "Powershell Tools" relies on another add-in also being installed, so having an empty extensions folder doesn't work. However, after locating the dependencies and making sure those were all in place, I still ended up with the file lock error. **I never did find a combination of actions that could work around it.**
 
 I effectively can't update any add-ins after they're installed in VS 2015 RC1 on the machine with the guilty antivirus software. Installing on a VM _without_ the antivirus software, everything works swimmingly.
+
+**UPDATE MAY 8, 2017**: After a lot of research I found that this was caused, for me, by **the McAfee Endpoint Encryption full-disk encryption product**, not the antivirus. The lack of antivirus in my initial tests was a red herring; the VM I tested with _also_ did not have the full-disk encryption product running. [This problem was acknowledged as an issue in this McAfee KB article.](https://kc.mcafee.com/corporate/index?page=content&id=KB85636&snspd-1015&locale=en_GB&viewlocale=en_GB) The solution if this is what's causing it for you is to tell full-disk encryption to exclude `devenv.exe` and `VSIXInstaller.exe`. Note the KB article doesn't mention `VSIXInstaller.exe`; that's an omission in the article.
+
+Here's a registry snippet to tell McAfee Endpoint Encryption to exclude these files. Once you do that, reboot, and the problem should be solved. I've tested this on Windows 7, Windows 2008 Server, and Windows 2012 Server. _YMMV; I'm not responsible if your stuff breaks; disclaimer disclaimer disclaimer._
+
+```
+Windows Registry Editor Version 5.00
+ 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\MfeEEFF\ExemptedProcesses]
+"1"="devenv.exe"
+"2"="VSIXInstaller.exe"
+```
