@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hosting Bower Packages in TFS Git"
-date: 2017-01-01 -0800
+date: 2017-06-20 -0800
 comments: true
 tags: [javascript,tfs]
 description: "Referencing a Bower package in TFS Git wasn't as straightforward as one might have thought."
