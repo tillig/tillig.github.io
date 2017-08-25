@@ -28,7 +28,7 @@ I'm not putting a screen shot here because the view would be nearly useless give
 
 There's not much to say about the built-in directory. It's very simple. Members, groups, done. However, you may, at some point want to test searching for specific users or groups if folks are reporting trouble.
 
-**There is a hidden test page for the built-in directory** here: `http://yourprogetserver/administration/security/configure-directory?directoryId=1`
+**There is a hidden test page for the built-in directory** here: `http://yourprogetserver/administration/security/configure-directory?directoryId=1` (on 4.7.14 this has moved to `http://yourprogetserver/administration/security/directories/edit?userDirectoryId=1`)
 
 That page allows you to do a test search. There's really nothing to configure otherwise, so it's just diagnostics.
 
@@ -40,7 +40,7 @@ Connecting to the local Active Directory is pretty straightforward. [There's goo
 
 However, there are additional properties you can configure, like which LDAP OU you want users to be in, and there's no UI... _or so it would seem_.
 
-**There is a hidden configuration and test page for LDAP or Single Domain Active Directory** here: `http://yourprogetserver/administration/security/configure-directory?directoryId=2`
+**There is a hidden configuration and test page for LDAP or Single Domain Active Directory** here: `http://yourprogetserver/administration/security/configure-directory?directoryId=2` (on 4.7.14 this has moved to `http://yourprogetserver/administration/security/directories/edit?userDirectoryId=2`)
 
 ![LDAP/single AD test page]({{ site.url }}/images/20170317_ldappage.png)
 
@@ -54,7 +54,7 @@ In order to use a _different_ domain than the service account or machine you nee
 
 This option lets you authenticate users against a _different_ or _second_ directory. In this case, "Multiple Domains" means "the default domain and an additional one."
 
-**There is a hidden configuration and test page for Active Directory with Multiple Domains** here: `http://yourprogetserver/administration/security/configure-directory?directoryId=3`
+**There is a hidden configuration and test page for Active Directory with Multiple Domains** here: `http://yourprogetserver/administration/security/configure-directory?directoryId=3` (on 4.7.14 this has moved to `http://yourprogetserver/administration/security/directories/edit?userDirectoryId=3`)
 
 ![AD/multiple domains test page]({{ site.url }}/images/20170317_multidomainpage.png)
 
