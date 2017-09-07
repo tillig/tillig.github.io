@@ -9,7 +9,7 @@ description: "Addressing an FAQ where users want libraries to update minimum dep
 
 Time to address a frequently asked question I see with Autofac and many other open source libraries I use or work on:
 
-**I've upgraded the (target framework | base libraries | build | .NET SDK version) for my application and now I see build warnings due to transitive dependencies. Why don't you upgrade the library dependencies to a later version to address an issue I see in my application?**
+**I've upgraded the (target framework / base libraries / build / .NET SDK version) for my application and now I see build warnings due to transitive dependencies. Why don't you upgrade the library dependencies to a later version to address an issue I see in my application?**
 
 I see this a lot in the .NET Core realm, where use of many small dependencies rather than a big installed framework is a new thing. It's not so much a question in places like Node.js where the use of many small, chained dependencies has been around for a while.
 
