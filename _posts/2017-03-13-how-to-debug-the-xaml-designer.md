@@ -64,3 +64,5 @@ To get around that, you can create an interface `IViewModel` with the properties
 Point being, you've now separated your control code from the view model code by using an interface - and the designer won't need to JIT compile the full "real" view model, so it won't look for assemblies that aren't there and you'll get a good design time experience.
 
 Yeah, it's sorta complicated. If I could figure out the logic of what causes the designer to bring an assembly into the shadow copy I'd just, uh, "flag" the missing assemblies (or whatever) and bypass this whole complex thing.
+
+**UPDATE 10/25/2017**: This may be fixed [as part of this issue](https://developercommunity.visualstudio.com/content/problem/35539/could-not-load-file-or-assembly-error-when-using-s.html) in VS 2017 15.5.
