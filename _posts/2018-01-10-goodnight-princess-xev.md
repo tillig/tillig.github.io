@@ -59,6 +59,6 @@ We made the decision to let her go instead of forcing her through painful treatm
 
 She was my catbaby for 15 years and I loved her more than I can say.
 
-![Xev, my 15 year old catbaby](/images/20180110_xev8.jpg)
+![Xev, my 15 year old catbaby](/images/20180110_xev9.jpg)
 
 Goodnight, Princess Xev. We will miss you forever.
