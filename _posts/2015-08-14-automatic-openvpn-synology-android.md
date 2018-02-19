@@ -103,6 +103,8 @@ From here on out, **I assume you can connect to your VPN.**
 
 I found the instructions for setting up Tasker with OpenVPN Connect over [on the OpenVPN forums](https://forums.openvpn.net/topic13122.html#p33893) via [a reddit thread](https://www.reddit.com/r/tasker/comments/2aml7b/howtoquestion_start_openvpn_connect_profile_when/). I'll put them here for completeness, but total credit to the folks who originally figured this out.
 
+**UPDATE 2/19/2018**: OpenVPN Connect 3.0 has [a different set of intents used for Tasker automation.](https://forums.openvpn.net/viewtopic.php?p=76843#p76843) I'll update the instructions for Tasker below to show both ways, but **pick the right one for your Android app version.**
+
 The way Tasker works is this: You create "tasks" to run on your phone, like "show an alert" or "send an email to Mom." You then set up "contexts" so Tasker knows when to run your tasks. A "context" is like "when I'm at this location" or "when I receive an SMS text message" - it's a condition that Tasker can recognize to raise an event and say, "run a task now!" Finally, you can tie multiple "contexts" together with "tasks" in a profile - "when I'm at this location AND I receive an SMS text message THEN send an email to Mom."
 
 **We're going to set up a task to connect to the VPN when you're on a network not your own and then disconnect from the VPN when you leave the network.**
@@ -112,7 +114,7 @@ You need to know the name of your OpenVPN Connect profile - the text that shows 
 1. Create a new task in Tasker. (You want to create the task first because it's easier than doing it in the middle of creating a profile.)
     1. Call the task `Connect To Home VPN`.
     2. Use `System -> Send Intent` as the action.
-    3. Fill in the `Send Intent` fields like this (it is case-sensitive, so be exact; also, these are all just one line, so if you see line wraps, ignore that):
+    3. **OpenVPN Connect 1.2.7**: Fill in the `Send Intent` fields like this (it is case-sensitive, so be exact; also, these are all just one line, so if you see line wraps, ignore that):
         - Action: `android.intent.action.VIEW`
         - Category: `None`
         - Mime Type:
@@ -120,13 +122,24 @@ You need to know the name of your OpenVPN Connect profile - the text that shows 
         - Extra: `net.openvpn.openvpn.AUTOSTART_PROFILE_NAME: yourdiskstation.synology.me [openvpn]`
         - Extra:
         - Extra:
-        - Package:`net.openvpn.openvpn`
+        - Package: `net.openvpn.openvpn`
         - Class: `net.openvpn.openvpn.OpenVPNClient`
+        - Target: `Activity`
+    4. **OpenVPN Connect 3.0.0**: Fill in the `Send Intent` fields like this (it is case-sensitive, so be exact; also, these are all just one line, so if you see line wraps, ignore that):
+        - Action: `net.openvpn.openvpn.CONNECT`
+        - Category: `None`
+        - Mime Type:
+        - Data:
+        - Extra: `net.openvpn.openvpn.AUTOSTART_PROFILE_NAME:PC yourdiskstation.synology.me [openvpn]`
+        - Extra: `net.openvpn.openvpn.AUTOCONNECT:true`
+        - Extra: `net.openvpn.openvpn.APP_SECTION:PC`
+        - Package: `net.openvpn.openvpn`
+        - Class: `net.openvpn.unified.MainActivity`
         - Target: `Activity`
 2. Create a second new task in Tasker.
     1. Call the task `Disconnect From Home VPN`.
     2. Use `System -> Send Intent` as the action.
-    3. Fill in the `Send Intent` fields like this (it is case-sensitive, so be exact; also, these are all just one line, so if you see line wraps, ignore that):
+    3. **OpenVPN Connect 1.2.7**: Fill in the `Send Intent` fields like this (it is case-sensitive, so be exact; also, these are all just one line, so if you see line wraps, ignore that):
         - Action: `android.intent.action.VIEW`
         - Category: `None`
         - Mime Type:
@@ -134,8 +147,19 @@ You need to know the name of your OpenVPN Connect profile - the text that shows 
         - Extra:
         - Extra:
         - Extra:
-        - Package:`net.openvpn.openvpn`
+        - Package: `net.openvpn.openvpn`
         - Class: `net.openvpn.openvpn.OpenVPNDisconnect`
+        - Target: `Activity`
+    3. **OpenVPN Connect 3.0.0**: Fill in the `Send Intent` fields like this (it is case-sensitive, so be exact; also, these are all just one line, so if you see line wraps, ignore that):
+        - Action: `net.openvpn.openvpn.DISCONNECT`
+        - Category: `None`
+        - Mime Type:
+        - Data:
+        - Extra: `net.openvpn.openvpn.STOP:true`
+        - Extra:
+        - Extra:
+        - Package:`net.openvpn.openvpn`
+        - Class: `net.openvpn.unified.MainActivity`
         - Target: `Activity`
 3. Create a new profile in Tasker and add a context.
     1. Use `State -> Net -> Wifi Connected` as the context.
