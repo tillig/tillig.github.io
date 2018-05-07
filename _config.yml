@@ -44,7 +44,8 @@ exclude: [/Gemfile,/Gemfile.lock,rakefile,README.md]
 jekyll-mentions:
   base_url: https://twitter.com
 
-gems:
+plugins:
+  - jekyll-gist
   - jekyll-mentions
   - jekyll-redirect-from
   - jekyll-sitemap
