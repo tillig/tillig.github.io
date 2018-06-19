@@ -20,7 +20,9 @@ A lot of Google-fu and some trial-and-error later, and I have a bridge that take
 
 I published it as a module on the PowerShell Gallery so you can install it nice and easy:
 
-`Install-Module -Name PSBashCompletions -Scope CurrentUser`
+```powershell
+Install-Module -Name PSBashCompletions -Scope CurrentUser
+```
 
 (I always install to my own profile because I don't run as admin.)
 
@@ -34,7 +36,9 @@ To use it:
 
 A registration looks like:
 
-`Register-BashArgumentCompleter kubectl C:\completions\kubectl_completions.sh`
+```powershell
+Register-BashArgumentCompleter kubectl C:\completions\kubectl_completions.sh
+```
 
 After that, in PowerShell you should be able to use the command and hit tab at the end of the line to get completions.
 
