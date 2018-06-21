@@ -254,7 +254,7 @@ Let's look at the same thing in XML:
         <database enabled="True" />
     </components>
     <components name="1">
-        <files enabled="false" />
+        <files enabled="False" />
     </components>
 </root>
 ```
@@ -271,7 +271,7 @@ For reference let's look at some _bad XML configuration_ for ordinal collections
         <database enabled="True" />
     </components>
     <components>
-        <files enabled="false" />
+        <files enabled="False" />
     </components>
 </root>
 ```
@@ -297,7 +297,7 @@ files:enabled=False
 
 INI files don't have a notion of ordinal collections so you need to manually specify the indexes in the keys.
 
-Environment variables also gets manual specification:
+Environment variables also get manual specification:
 
 ```batch
 set COMPONENTS__0__DATABASE__ENABLED=True
@@ -317,7 +317,7 @@ What happens if you skip an index?
         <database enabled="True" />
     </components>
     <components name="4">
-        <files enabled="false" />
+        <files enabled="False" />
     </components>
 </root>
 ```
@@ -418,7 +418,7 @@ builder.AddJsonFile("appsettings.json")
 
 The builder doesn't actually invoke any of the things that read configuration. It just gives you an opportunity to specify your configuration _sources_. It also has a `Properties` dictionary on it that you can use when people register sources. For example, if you wanted to ensure a particular source only gets registered one time with a `ConfigurationBuilder`, you could synchronize on that `Properties` dictionary.
 
-Each time you call one of the extensions (`AddJsonFile`, `AddXmlFile`) that adds an `IConfigurationSource` to the `ConfigurationBuilder`. The `ConfigurationBuilder` keeps track of these until you tell it to `Build()`.
+Each time you call one of the extensions (`AddJsonFile`, `AddXmlFile`), it adds an `IConfigurationSource` to the `ConfigurationBuilder`. The `ConfigurationBuilder` keeps track of these until you tell it to `Build()`.
 
 Each `IConfigurationSource` is responsible for building an `IConfigurationProvider`. When `ConfigurationBuilder.Build()` is called, each `IConfigurationSource.Build()` is called in turn to build the configuration providers.
 
