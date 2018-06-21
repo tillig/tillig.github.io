@@ -111,11 +111,15 @@ Note by default the environment variable configuration source will bring _all en
 
 And let's finish up with command line parameters:
 
-`mycommand.exe --components:database:connection=connection-string --components:files:path=/etc/path --logging:enabled=True --logging:level=Debug`
+```
+mycommand.exe --components:database:connection=connection-string --components:files:path=/etc/path --logging:enabled=True --logging:level=Debug
+```
 
 Each switch gets converted to be a key and the value after the equals sign is the value. You can also do space delimited:
 
-`mycommand.exe --components:database:connection connection-string --components:files:path /etc/path --logging:enabled True --logging:level Debug`
+```
+mycommand.exe --components:database:connection connection-string --components:files:path /etc/path --logging:enabled True --logging:level Debug
+```
 
 **Don't mix and match.** If some things have equals and some don't, weird things happen. For example, this:
 
@@ -811,9 +815,9 @@ ASP.NET Core also has several things it uses in the `ASPNETCORE_` prefix. [The c
 When you add command line parameters to configuration, the parser lets you use one of two formats:
 
 - Each argument is a pair separated by `=` like `--key=value`
-- Argument pairs are used so they alternate key/value/key/value like `/key value`
+- Argument pairs can alternate key/value/key/value with spaces between each, like `/key value`
 
-It doesn't matter which format you use, but you have to pick one. You can't mix and match.
+It doesn't matter which format you use, but you have to pick one. **You can't mix and match.**
 
 Rules for specifying keys:
 
