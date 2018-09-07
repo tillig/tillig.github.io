@@ -28,8 +28,8 @@ tracked:
         </tr>
         <tr>
             <th><a href="/archive/2006/11/01/162-trick-or-treaters.aspx">2006</a></th>
-            <th><a href="/archive/2007/11/01/139-trick-or-treaters.aspx">2007</th>
-            <th><a href="/archive/2008/11/03/237-trick-or-treaters.aspx">2008</th>
+            <th><a href="/archive/2007/11/01/139-trick-or-treaters.aspx">2007</a></th>
+            <th><a href="/archive/2008/11/03/237-trick-or-treaters.aspx">2008</a></th>
             <th><a href="/archive/2009/11/03/243-trick-or-treaters.aspx">2009</a></th>
             <th>2010</th>
         </tr>
