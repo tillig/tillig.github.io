@@ -26,6 +26,17 @@ I will make some assumptions as I go along here about a few things. You may have
 
 Along the way I'll point out the improvements that could be made in the pattern as well as some of the "bugs" I encountered in the pattern or provided instructions. If you're building along here, it'd be good to read through all of this first so you might know what's coming.
 
+# General Tips
+
+- **Watch your sewing machine tension.** I had a heck of a time getting this right and some of my stitching from the inside looks bad. If you normally sew through a couple of layers of medium weight fabric, using heavier-weight fabric means you're going to have to adjust. For example, my machine usually sits on a tension level 4, but for something close to decent I had to almost double that to 7.75.
+- **Use the right needle for the job.** I used duck canvas for the body of my bag. I had some leather and denim needles but they really didn't work out in thicker areas. When putting the handle attachments on the bag, for example, you may be sewing through upwards of six thicknesses of fabric. Six layers of duck canvas bends a leather needle. I didn't find until the end that [there are "heavy duty needles" (size 110/18) that are made for this sort of job](https://amzn.to/2MeQk0S) and I wish I had known earlier.
+- **Clip corners to reduce bulk.** Especially if you're using thick fabric, you need to clip some of the corners to make sure things lay flat. This includes some of the things like the handle attachments that get sewn to the bag body - without clipping, you see fabric folds and weirdness along the edges.
+- **Baste things in place.** I had a bad time holding super thick fabric with pins. It was pretty good to machine baste things in place close to the edge of the fabric / inside the seam allowance to keep the parts together while assembling. This was especially helpful when attaching the lining, zipper, bag outside, and metal frame holder pieces in one go.
+- **Watch your seam allowances.**  This pattern doesn't work like a Simplicity or Vogue pattern you might buy at the store. That was sort of hard for me.Common patterns use a 5/8" seam allowance. The instructions on this pattern say it's a 1/2" seam allowance unless marked. However, they may only change the seam allowance on _one side_ of a pattern piece, so if you see a 3/8" marking it might only mean for that side. When in doubt, measure.
+- **There's no pattern layout for the fabric.** You have to kind of figure out how to place the pattern pieces yourself to make the best use of your fabric.
+- **Use the drawings and reference photos.** Given the instructions are a little vague in places, use all the photos and drawings you can to fill in the gaps. I wouldn't have been able to finish this without the detailed photos for their finished bag.
+- **There are bugs in the pattern.** I will call them out shortly, but you're not crazy.
+
 # Initial References
 
 - [EDC ONE bag](https://adamsavage.com/products/savage-industries-edc-one) - This is what the bag looks like fully put together. Really helpful for reference photos to see if you're building things right.
@@ -55,6 +66,48 @@ Inside:
 - Again, you can see the frame holder is stitched to the bag through all thicknesses. There's no crafty seam hiding here.
 - Also, again, you can see the metal frame appears slightly shorter than the width of the bag to allow the bag to open and close easily.
 
+# Pattern Bugs
+
+Here are the things I found that are wrong on the pattern. Keep these things in mind as you are cutting and sewing.
+
+- The "strap loop" piece is marked "cut one." Howeer, you need **two** of these - one for each side of the bag. Cut two.
+- The pattern calls for 5" of 3/4" webbing used with the strap loops. Again, this is only enough for one and you need two loops... so you need 10" of 3/4" webbing. (I'll update that in my parts list below.)
+- The bottom piece says you need one for the lining, one for the bottom, implying a total of two pieces. However, you need one for the bottom of the "A panels," one for the bottom of the "B panels," and one for the lining - a total of three pieces.
+- The instructions say to use 3" Velcro pieces on the main panel for your patch but the pattern drawing measures out at 3.5" for the Velcro pieces. I don't know which is right.
+- The handle tab pattern piece is slightly larger than the placeholder shown on Main Panel A. I think the drawing on Main Panel A is wrong.
+- There are no instructions explaining what to do with the shoulder pad pieces. For that matter, there's no "pad" in the shoulder pad in this pattern. I'll explain what I did in my instructions.
+- There is no measurement for the metal frame. I used two 22" pieces of 3/16" steel rod. I bent 3-5/8" legs on each end of the rod pieces for the U-shape of the frame.
+
+# Parts List
+The parts list that ships with the pattern is amazingly vague. For example, they list "self fabric." Uh... how much? "Lining." Again, how much?
+
+Here's a more detailed parts list based on what I actually used. Note I used a different fabric color for the bottom than I did for the main bag body so I list those things separately. Also, I didn't really pay attention to fabric grainlines since I used duck canvas and it generally looks and works the same regardless of direction. You may need to factor that in.
+
+- 18" of 60" duck for body
+- 12" of 60" duck for bottom / accent
+- 18" of 60" rip stop nylon for lining
+- 29" continuous zipper with two sliders meeting in the middle
+- 4 - D rings (rectangle rings) 1" inside width
+- 2 - lobster clasps: 1" inside width for strap, clasp big enough for 3/4" webbing
+- 1 - webbing slide, 1" inside width
+- 70" of 1" wide Velcro
+- The pattern calls for 2 - 6" "tube magnets" for handles. Instead of that I used...
+    - 2 - [10mm x 60mm neodymium cylinder magnets](https://amzn.to/2O1C9Oi)
+    - 8" [carbon fiber tube, 10mm inside diameter](https://amzn.to/2QeVGMB)
+- 60" of 1" wide webbing
+- 7-3/4" x 15" plastic board for the bottom (corrugated sign)
+- 3/16" steel rod for the metal frame
+- 10" of 3/4" webbing
+
+I have no idea what a "tube magnet" is, but that's used in the handle of the bag. I figured I wanted something that would be nice and strong but still have the magnetism, so I put neodymium magnets inside carbon fiber tubes. To keep the magnets centered in the tubes I put some padding in each end and sealed them up with some silicone sealant.
+
+In the parts list I show using two magnets (one for each handle) and 8" of tube (4" for each handle). You may see in my pictures that I actually went with four magnets (two in each handle) and 12" of tube (6" per handle). _This was too much._ My handles are a bit too long and the magnet power is a bit stronger than my liking. I may later redo the handles with shorter tubes.
+
+A note on neodymium magnets: They are powerful and they will jump out of your hands to attach to each other. If they do this, they may hit each other with enough force to break. This absolutely happened to me. Luckily I could just jam them into the carbon fiber tubes and it wasn't a big deal, but be aware this could happen.
+
+# Preparation
+
+Cut out all the parts. I didn't bother transferring pattern markings onto every part because this pattern is very square - you can just measure where things need to be at the time you need to place them.
 
 [![DESCRIPTION]({{ site.url }}/images/edcone/small/attachclasp.jpg)]({{ site.url }}/images/edcone/large/attachclasp.jpg)
 [![DESCRIPTION]({{ site.url }}/images/edcone/small/attachslide.jpg)]({{ site.url }}/images/edcone/large/attachslide.jpg)
