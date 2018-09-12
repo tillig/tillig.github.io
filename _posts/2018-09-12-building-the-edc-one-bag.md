@@ -11,7 +11,9 @@ While I have made a lot of costumes and clothing, I've never previously sewn a b
 
 In the video he mentioned that the EDC TWO is slightly smaller than the EDC ONE and I wanted to make the full-sized bag. He sells the plans for both, but I bought the [EDC ONE pattern](https://adamsavage.com/collections/plans-tools/products/savage-industries-edc-one-plans). I see that since the time I bought it he's now offering it in your choice of physical/paper plans or a PDF download. I'm glad I bought the paper plans; it's huge and I don't have a printer that would accommodate such a thing. Taping a million sheets of paper together isn't my style.
 
-The pattern is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). I think that means you could technically distribute the pattern for free as long as you give credit, but it's all of $15 and I feel good contributing to someone who put something cool together. I don't think my explanation here really needs a license, but assuming it does, let's also use that same license with the same restrictions, etc.
+**Big thanks to [Adam Savage](https://adamsavage.com/) and [Mafia Bags](https://mafiabags.com/) for making this pattern and publishing it.**
+
+The pattern is licensed by Adam Savage under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). I _think_ that means you could _technically_ distribute the pattern for free as long as you give credit, but it's all of $15 and I feel good contributing to someone who put something cool together. I don't think my explanation here really needs a license, but assuming it does, let's also use that same license with the same restrictions, etc.
 
 OK, let's get this going.
 
@@ -371,4 +373,3 @@ After attaching the shoulder strap and patch, here's what my bag looks like:
 [![The finished inside of the EDC ONE]({{ site.url }}/images/edcone/small/finishedinside.jpg)]({{ site.url }}/images/edcone/large/finishedinside.jpg)
 
 I'm pretty happy with how this turned out. Hopefully this tutorial helped you in making a bag you're happy with, too!
-
