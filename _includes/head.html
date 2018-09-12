@@ -7,11 +7,11 @@
 <head>
 	<meta charset="utf-8">
 	<meta property="og:locale" content="{{ site.locale }}">
-	<meta property="og:type" content="blog" />
+	<meta property="og:type" content="website" />
 	<meta property="og:site_name" content="{{ site.title }}">
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:creator" content="{{ site.twitter_user}}">
-	<meta name="twitter:site" content="{{ site.twitter_user}}">
+	<meta name="twitter:creator" content="@{{ site.twitter_user}}">
+	<meta name="twitter:site" content="@{{ site.twitter_user}}">
 	{% capture pagetitle %}{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% endcapture %}<title>{{ pagetitle }}</title>
 	<meta property="og:title" content="{{ pagetitle }}">
 	{% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}{% endcapture %}<meta name="description" content="{{ description }}">
@@ -20,7 +20,7 @@
 	{% capture pageurl %}{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}{% endcapture %}<meta name="twitter:url" content="{{ pageurl }}">
 	<meta property="og:url" content="{{ pageurl }}">
 	<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Search Paraesthesia">
-	{% if page.image %}{% capture pageimage %}{% if page.image contains 'http:' or page.image contains 'https:' %}{{ page.image }}{% else %}{{ site.url}}{{ page.image }}{% endif %}{% endcapture %}<meta property="og:image" content="{{ pageimage }}">{% endif %}
+	{% if page.image %}{% capture pageimage %}{% if page.image contains 'http:' or page.image contains 'https:' %}{{ page.image }}{% else %}{{ site.url}}{{ page.image }}{% endif %}{% endcapture %}{% endif %}{% unless pageimage %}{% if site.gravatar_url %}{% capture pageimage %}{{ site.gravatar_url }}{% endcapture %}{% endif %}{% endunless %}{% if pageimage %}<meta property="og:image" content="{{ pageimage }}">{% endif %}
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="320">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
