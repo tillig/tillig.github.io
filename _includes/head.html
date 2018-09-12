@@ -20,7 +20,7 @@
 	{% capture pageurl %}{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}{% endcapture %}<meta name="twitter:url" content="{{ pageurl }}">
 	<meta property="og:url" content="{{ pageurl }}">
 	<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Search Paraesthesia">
-	{% if page.image %}{% capture pageimage %}{% if page.image contains 'http:' or page.image contains 'https:' %}{{ page.image }}{% else %}{{ site.url}}{{ page.image }}{% endif %}{% endcapture %}{% endif %}{% unless pageimage %}{% if site.gravatar_url %}{% capture pageimage %}{{ site.gravatar_url }}{% endcapture %}{% endif %}{% endunless %}{% if pageimage %}<meta property="og:image" content="{{ pageimage }}">{% endif %}
+	{% if page.image %}{% capture pageimage %}{% if page.image contains 'http:' or page.image contains 'https:' %}{{ page.image }}{% else %}{{ site.url}}{{ page.image }}{% endif %}{% endcapture %}{% endif %}{% unless pageimage %}{% if site.gravatar_url %}{% capture pageimage %}{{ site.gravatar_url }}?s=200{% endcapture %}{% endif %}{% endunless %}{% if pageimage %}<meta property="og:image" content="{{ pageimage }}">{% endif %}
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="320">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
