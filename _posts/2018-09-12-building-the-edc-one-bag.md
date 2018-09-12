@@ -173,7 +173,7 @@ Seal each side of the tube with something waterproof like silicone sealant. Usin
 
 I took it a step further and also dipped the handle ends in [Plasti-Dip](https://amzn.to/2p1FnX6), however if you do that then the carbon fiber tube won't slide into the handle as easy because the Plasti-Dip is very grippy.
 
-[![Drying the Plast-Dip on the handle tube]({{ site.url }}/images/edcone/small/sealedhandle.jpg)]({{ site.url }}/images/edcone/large/sealedhandle.jpg)
+[![Drying the Plasti-Dip on the handle tube]({{ site.url }}/images/edcone/small/sealedhandle.jpg)]({{ site.url }}/images/edcone/large/sealedhandle.jpg)
 
 > **Enhancement**: Multi-colored handles. I added a layer of fabric to my handles so they're multi-colored. The part you hold onto has an extra layer. This also adds some padding around the extra strong magnets.
 
@@ -183,7 +183,7 @@ Lay out your handle pieces and press the long seam allowances in. The pattern/in
 
 If you're doing the multi-color handles, sew the top layer down. Make sure when you lay this out, you pin the top layer to the bottom layer _while the bottom layer is wrapped around your handle_. If you don't, especially if you're using thick fabric, the handle won't lay flat around the carbon fiber tube.
 
-Once you have that set, sew the handle closed. If you didn't use Plast-Dip, you should be able to sew the handle and then slide the carbon fiber tube into the middle of it. I did use Plasti-Dip, so I had to sew the handle _around_ the tube. This means I had to slipstitch it closed by hand instead of doing a machine topstitch. I like how it turned out, but it was more effort.
+Once you have that set, sew the handle closed. If you didn't use Plasti-Dip, you should be able to sew the handle and then slide the carbon fiber tube into the middle of it. I did use Plasti-Dip, so I had to sew the handle _around_ the tube. This means I had to slipstitch it closed by hand instead of doing a machine topstitch. I like how it turned out, but it was more effort.
 
 [![Handles laid out for assembly]({{ site.url }}/images/edcone/small/handlelayout.jpg)]({{ site.url }}/images/edcone/large/handlelayout.jpg)
 
