@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Connect Azure Blob Storage Artifacts to Spinnaker Pipelines"
-date: 2018-01-01 -0800
+date: 2018-12-20 -0800
 comments: true
 tags: [azure,kubernetes,build]
 description: "You want to store Helm charts or other artifacts in Azure Blob Storage and kick off Spinnaker deployments when they change? Here's how."
