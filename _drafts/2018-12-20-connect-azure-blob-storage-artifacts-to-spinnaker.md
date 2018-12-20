@@ -36,6 +36,8 @@ Now you know why, let me explain how this whole thing will work. There are a lot
 - Spinnaker will use HTTP artifacts to download the Azure Blob.
 - The Spinnaker download request will be handled by a small Node.js proxy that converts HTTP Basic authentication to Azure Blob Storage "shared key" authentication.
 
+![Event and retrieval flow for Azure Blob Storage and Spinnaker]({{ site.url }}/images/20181220_blobeventflow.jpg)
+
 Most of this is required because of the security around EventGrid and Azure Blob Storage. There's not a straightforward way to just use a series of GET and POST requests with HTTP Basic auth.
 
 # Create the Azure Storage Account and Blob Container
@@ -79,6 +81,8 @@ Things to keep in mind when you deploy this:
 - **Ensure it's "always on."** Azure App Service apps go to sleep for a while when they're idle. The first request can time out as it wakes up, and if Spinnaker is the first request it'll cause a pipeline failure.
 
 **For this walkthrough, we'll say your Blob Storage proxy app is at `https://mycoolproxy.azurewebsites.net`.** You'll see this show up later as we set up the rest of the pieces. When Spinnaker wants to download an HTTP artifact, it'll access `https://mycoolproxy.azurewebsites.net/artifacts/artifact-name.zip` _instead of_ accessing the Blob Storage URL directly.
+
+**You should now be able to access an Azure Blob Storage blob via your proxy using HTTP Basic authentication.** Verify this works by dropping a blob into your artifact storage and downloading it through the proxy.
 
 # Enable Spinnaker Webhook Artifacts
 
@@ -210,7 +214,10 @@ In the inbound policy, paste this XML beauty **and update the noted locations wi
                                 {
                                     var name = e["subject"];
                                     // Replace this with YOUR Blob and proxy info!
-                                    var reference = e["data"].Value<string>("url").Replace("myartifacts.blob.core.windows.net", "mycoolproxy.azurewebsites.net");
+                                    var reference = e["data"]
+                                                     .Value<string>("url")
+                                                     .Replace("myartifacts.blob.core.windows.net",
+                                                              "mycoolproxy.azurewebsites.net");
                                     var transformed = new JObject(
                                         new JProperty("type", "http/file"),
                                         new JProperty("name", name),
@@ -257,20 +264,125 @@ Again, **update the URL endpoints as needed in there!**
 
 I'm not going to dive too deep into API policy management. [I recommend reading the official docs](https://docs.microsoft.com/en-us/azure/api-management/set-edit-policies) and [being aware of what is available](https://docs.microsoft.com/en-us/azure/api-management/api-management-policies). However, I will explain what this policy does and how it works.
 
+Whenever something comes from EventGrid it includes an `Aeg-Event-Type` header. The two header values we're concerned with are `SubscriptionValidation` and `Notification`.
 
+If there's no header, return a 404. Whatever the request wants, we can't support it.
 
+If the header is `SubscriptionValidation`, [EventGrid wants a handshake response](https://docs.microsoft.com/en-us/azure/event-grid/security-authentication) to acknowledge we expect the subscription and want to handle it. We grab a validation code out of the inbound request and return a response that includes the code as an acknowledgement.
 
+If the header is `Notification`, that's the actual meat of the subscription coming through. The data will be coming through in [EventGrid schema format](https://docs.microsoft.com/en-us/azure/event-grid/event-schema) and will look something like this when it's a "blob created" event:
 
+```json
+[
+  {
+    "topic": "/subscriptions/{subscription-id}/resourceGroups/Storage/providers/Microsoft.Storage/storageAccounts/xstoretestaccount",
+    "subject": "/blobServices/default/containers/container/blobs/filename",
+    "eventType": "Microsoft.Storage.BlobCreated",
+    "eventTime": "2017-06-26T18:41:00.9584103Z",
+    "id": "831e1650-001e-001b-66ab-eeb76e069631",
+    "data": {
+      "api": "PutBlockList",
+      "clientRequestId": "6d79dbfb-0e37-4fc4-981f-442c9ca65760",
+      "requestId": "831e1650-001e-001b-66ab-eeb76e000000",
+      "eTag": "0x8D4BCC2E4835CD0",
+      "contentType": "application/octet-stream",
+      "contentLength": 524288,
+      "blobType": "BlockBlob",
+      "url": "https://oc2d2817345i60006.blob.core.windows.net/container/filename",
+      "sequencer": "00000000000004420000000000028963",
+      "storageDiagnostics": {
+        "batchId": "b68529f3-68cd-4744-baa4-3c0498ec19f0"
+      }
+    },
+    "dataVersion": "",
+    "metadataVersion": "1"
+  }
+]
+```
 
-`https://my-azure-api.azure-api.net/webhook?subscription-key=<apim-key>`
+We need to transform that into a [Spinnaker webhook format](https://www.spinnaker.io/guides/user/pipeline/triggers/webhooks/) that includes artifact definitions. The artifacts coming from Azure Blob Storage will be [HTTP File artifacts](https://www.spinnaker.io/reference/artifacts/types/http-file/). It should like this:
 
-Azure Blob Storage => EventGrid => Azure API Management => Spinnaker
+```json
+{
+  "artifacts": [
+    {
+      "type": "http/file",
+      "reference": "https://mycoolproxy.azurewebsites.net/container/filename",
+      "name": "/blobServices/default/containers/container/blobs/filename"
+    }
+  ]
+}
+```
 
-- HTTP File artifacts: https://www.spinnaker.io/reference/artifacts/types/http-file/
-- Configure HTTP File credentials: https://www.spinnaker.io/setup/artifacts/http/
-- EventGrid security/handshake info: https://docs.microsoft.com/en-us/azure/event-grid/security-authentication
-- Trigger Spinnaker pipeline by webhooks (including webhook schema for artifacts): https://www.spinnaker.io/guides/user/pipeline/triggers/webhooks/
-- Reacting to Blob Storage events: https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-overview
-- EventGrid event schema: https://docs.microsoft.com/en-us/azure/event-grid/event-schema
-- Set up and edit API Management policies: https://docs.microsoft.com/en-us/azure/api-management/set-edit-policies
-- API Management Policy reference: https://docs.microsoft.com/en-us/azure/api-management/api-management-policies
+- The `reference` is the download URL location _through your proxy_ to the blob.
+- The `name` is the `subject` of the EventGrid event.
+
+The policy does this transformation and then forwards the EventGrid event on to your Spinnaker webhook endpoint.
+
+**You should now be able to POST events to Spinnaker via API Management.** Using the example EventGrid body above or [the one on the Microsoft docs site](https://docs.microsoft.com/en-us/azure/event-grid/event-schema), make modifications to it so it looks like it's coming from your blob store - update the locations, container name, and filename as needed. Use the "Test" mechanism inside Azure API Management to POST to your `/webhook` endpoint and see if it gets forwarded to Spinnaker. Make sure you add an `Aeg-Event-Type` header to the request or you'll get the 404. Inside the test area you can see the trace of execution so if it fails you should see exception information and be able to troubleshoot.
+
+# Subscribe to EventGrid Blob Created Events
+
+EventGrid needs to send events to your new API endpoint so they can be proxied over to Spinnaker.
+
+In the Azure Portal, in the API Management section, take note of your API key for "Unlimited" - you associated this key with the API earlier when you created it. You'll need it for creating the subscription.
+
+![Get API Management key for Unlimited subscription]({{ site.url }}/images/20181220_getapikey.png)
+
+When you access your `/webhook` API endpoint, you'll pass that key as a query string parameter: `https://my-azure-api.azure-api.net/webhook?subscription-key=keygoeshere`
+
+**It's easier to create subscriptions in the Azure Portal** because the UI guides you through the right combination of parameters, but if you want to do it via CLI...
+
+```bash
+az eventgrid event-subscription create \
+  --name spinnaker \
+  --endpoint-type webhook \
+  --included-event-types Microsoft.Storage.BlobCreated \
+  --resource-group myrg \
+  --resource-id /subscriptions/GUIDHERE/resourceGroups/myrg/providers/Microsoft.Storage/StorageAccounts/myartifacts \
+  --endpoint https://my-azure-api.azure-api.net/webhook?subscription-key=keygoeshere
+```
+
+You only want the `Microsoft.Storage.BlobCreated` event here. If you create or overwrite a blob, the event will be raised. You don't want the webhook to fire if you delete something.
+
+This may take a few seconds. In the background, EventGrid is going to go do the handshake with API Management and the policy you put in place will respond. **This is easier to watch in the Azure Portal UI.**
+
+**You now have Azure Blob Storage effectively raising Spinnaker formatted webhooks.** Azure Blob Storage causes EventGrid to raise a webhook event, API Management policy intercepts that and transforms it, then it gets forwarded on to Spinnaker. You can trigger pipelines based on this and get artifacts into the pipeline.
+
+# Test the Full Circle
+
+Here's what I did to verify it all worked:
+
+Create a simple Helm chart. Just a Kubernetes Deployment, no extra services or anything. You won't actually deploy it, you just need to see that some sort of retrieval is happening. Let's say you called it `test-manifest` so after packaging you have `test-manifest-1.0.0.tgz`.
+
+Create a simple pipeline in Spinnaker. Add an expected artifact of type `http/file`. Specify a regex for "Name" that will match the `name` property coming in from your webhook. Also specify a "Reference" regex that will match `reference`.
+
+In the "Automated Triggers" section, add a webhook trigger. Give it a source name that lines up with what you put in the API Management policy. In the example, we used `azureblob`. Also add an artifact constraint that links to the expected artifact you added earlier. This ensures your pipeline only kicks off if it gets the artifact it expects from the webhook payload.
+
+![Set up a webhook pipeline trigger with artifact constraints]({{ site.url }}/images/20181220_spinpipelinetrigger.png)
+
+In the pipeline add a "Bake (Manifest)" step. For the template artifact, select the .tgz artifact that the webhook will be providing. Fill in the name and namespace with whatever you want. Add an override key that will be used in the template process.
+
+![Simple/test manifest bake step]({{ site.url }}/images/20181220_bakemanifest.png)
+
+Now use the Azure Portal to upload your `test-manifest-1.0.0.tgz` "artifact" into your Azure Blob Storage container. This should cause the webhook to be raised, eventually making it to Spinnaker. Spinnaker should see the artifact, kick off the pipeline, and be able to download the Helm chart from Blob Storage so it can run the Helm templating step.
+
+On the finished pipeline, you can click the "Source" link in the Spinnaker UI to see a big JSON object that will contain a huge base-64 encoded artifact that is the output of the "Bake (Manifest)" step. If you decode that, you should see your simple Helm chart, templated and ready to go.
+
+# Troubleshooting
+
+What do you look at if it's not working? There are a lot of moving pieces.
+
+- **Verify the credentials you configured in Spinnaker.** The username should be the blob storage account name and the password should be the shared key you got out of the Azure Portal. Try doing a download through your HTTP Basic proxy using those credentials and verify that still works.
+- **Run a test in API Management.** The "Test" section of API Management lets you simulate an event coming in from EventGrid. Use the "Trace" section in there to see what's going on and what the response is. Did the transformation fail?
+- **Look at Spinnaker "echo" and "deck" pod logs.** I'm a big fan of [the `stern` tool from Wercker](https://github.com/wercker/stern) for tailing logs of pods. It's easy to watch logs in real time for doing something like: `stern 'spin-(echo|deck).*' -n spinnaker -s 5s` Make a test request from API Management and watch the logs. Do you see any errors fly by?
+- **Ensure you haven't changed any keys/names.** The Azure Blob Storage key, the API Management key, the source name in the Spinnaker webhook... all these names and keys need to line up. If you rotated keys, you need to update the appropriate credentials/subscriptions.
+- **Is something timing out?** If you don't have the "Always On" feature for your Azure Blob Storage proxy, it will go to sleep. The first request will cause it to wake up, but it may not be fast enough for Spinnaker and the request to download may time out.
+
+# Next Steps
+
+By now you should have things basically working. Things you could do to make it better...
+
+- **Test with large files.** I didn't test the Azure Blob Storage proxy thing with anything larger than a few hundred kilobytes. If you're going to need support for gigabytes, you should test that.
+- **Add security around the Spinnaker webhook.** The Spinnaker webhook endpoint doesn't have any security around it. There's no API key required to access it. You _could_ make the "source" for the webhook include some random key so no hook would be raised without matching that source. If you have to rotate it that might be a challenge. This also might be something to file as [an enhancement on the Spinnaker repo](https://github.com/spinnaker/spinnaker/issues).
+- **Add security around the Azure Blob Storage proxy.** You definitely need to have your basic creds in place for access here, and you need valid credentials for a storage account... but (at least in the Astbury blog article) there's no limit on _which storage accounts_ are allowed. You might want a whitelist here to ensure folks aren't using your proxy to access things you don't own.
