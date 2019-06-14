@@ -65,3 +65,14 @@ If you try to run a Linux container you haven't already used, you _may_ get a me
 `no matching manifest for windows/amd64 10.0.18362 in the manifest list entries`
 
 I'm not sure on the particulars on why sometimes `--platform` is required and sometimes it's not. Even after removing all my container images, I was able to run an Ubuntu container without specifying platform, like some cache was updated to indicate which platform should be used by default. YMMV. It doesn't _hurt_ to include it, however, if you try to use `--platform` on another machine it may not work - **you can only use it when experimental features are enabled**.
+
+### UPDATE June 14, 2019
+
+I've found since working in this mixed environment that there are things that don't work as one might entirely expect.
+
+- Networking: With Linux-only containers on Windows you get a `DockerNAT` virtual network switch you can tweak if needed to adjust network connectivity. Under mixed containers, you use the Windows Container network switch, `nat` and you really can't do too much with that. I've had to reset my network a few times while trying to troubleshoot things like network connections whilst on VPN.
+- Building container images that reference files from other images: A standard .NET Core build-in-container situation is to create, in one Dockerfile, two container images - the first builds and publishes the app, the second copies the published app into a clean, minimal image. When in mixed container world, I get a lot of errors like, "COPY failed: file does not exist." I can look in the intermediate containers and the files _are_ all there, so there's something about being unable to mount the filesystem from one container to copy into the other container.
+
+Unrelated to mixed containers, it seems I can't get any container to connect to the internet when I'm on my company's VPN. VPN seems to be a pretty common problem with Docker on Windows. I haven't solved that.
+
+It appears there's still a lot to work out here in mixed container land. You've been warned.
