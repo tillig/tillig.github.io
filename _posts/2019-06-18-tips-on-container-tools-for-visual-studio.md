@@ -48,13 +48,13 @@ When you start debugging, the remote debugger starts in the container. I used [P
 
 `"docker" exec -i 40b49d8d963bb682a08fed17248212bcfd939456c8030689e9a28f17f5b067e3 /bin/sh -c "ID=.; if [ -e /etc/os-release ]; then . /etc/os-release; fi; if [ $ID = alpine ] && [ -e /remote_debugger/linux-musl-x64/vsdbg ]; then VSDBGPATH=/remote_debugger/linux-musl-x64; else VSDBGPATH=/remote_debugger; fi; $VSDBGPATH/vsdbg --interpreter=vscode"`
 
-**I can't figure out what starts the `dotnet` process in the container.** It appears to be something in the VS extension but I've not had luck figuring out exactly how it's happening. I didn't see any additional `docker` calls - no `docker exec` to run `dotnet` or anything.
+**UPDATE June 18, 2019**: After publishing this post [I found out](https://github.com/microsoft/DockerTools/issues/193#issuecomment-503290222) that Visual Studio communicates the `dotnet` startup command directly to the remote debugger. The debugger is what launches the `dotnet` command and provides the additional environment variables from `launchSettings.json`. This allows VS to catch any startup errors.
 
-Using `ps -axwwe` on a running container being debugged, I can see the command line and the environment for the running `dotnet` process, though. The command line looks like:
+Using `ps -axwwe` on a running container being debugged, I can see the command line and the environment for the running `dotnet` process. The command line looks like:
 
 `/usr/bin/dotnet --additionalProbingPath /root/.nuget/fallbackpackages2 --additionalProbingPath /root/.nuget/fallbackpackages bin/Debug/netcoreapp2.1/project.dll`
 
-The environment is big so I won't paste it all here, but I can see `environmentVariables` things (from `launchSettings.json`) show up. Is it something going on in the communication between the remote debugger and VS? Unclear.
+The environment is big so I won't paste it all here, but I can see `environmentVariables` things (from `launchSettings.json`) show up.
 
 ## launchSettings.json Gets Extra Stuff
 
@@ -107,8 +107,6 @@ There are some things to note in here.
 - **`iisSettings` is still important.** Even if you don't use it, the `iisSettings.iisExpress.sslPort` and `iisSettings.iisExpress.applicationUrl` values are still important.
 - **`Docker` as the _command name_ is the key.** This seems to be a magic thing interpreted by the add-in to know to launch Docker. The name of the configuration doesn't appear to matter.
 - **There are curly-brace magic strings that work in the `launchUrl` field.** I can't find any beyond `{Scheme}`, `{ServiceHost}`, and `{ServicePort}` that do anything, though in the `Microsoft.Docker` assembly I see a definition for `{ServiceIPAddress}` that doesn't seem used.
-
-I have not yet figured out how exactly the `environmentVariables` get into the `dotnet` process running the application. As noted above, I'm not sure what actually starts `dotnet` in the container, but the extra environment variables are set at the process level.
 
 ## You Can Affect `docker run` Through Project Settings
 
