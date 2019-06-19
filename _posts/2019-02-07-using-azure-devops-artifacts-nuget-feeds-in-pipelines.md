@@ -91,5 +91,7 @@ What this will do is add the credentials right into the XML of the `NuGet.Config
 Items to note:
 
 - Again, you see that `$(System.AccessToken)` show up. That's the magic.
+- **If you do this, you need to avoid using `DotNetCLI` and `NuGetCommand` tasks that might try to authenticate automatically behind the scenes.** The cleartext credentials in the configuration conflict with the credential provider auto-authenticate mechanism and things blow up. This likely means the build steps in your pipeline need to become PowerShell, bash, or MSBuild scripts that do the restore, build, test, publish, etc.
 - You need to have `-StorePasswordInClearText` or the `dotnet` CLI won't be able to use the credentials. If you're _only_ using `NuGet` commands, you should be OK not storing in clear text.
 - If you're on a Linux agent, don't forget filenames are case-sensitive. If you get an error, make sure you got all the capitalization right for your config file.
+- The _source name_ is case-sensitive. If `NuGet.Config` has a source named `Azure DevOps` then the authentication step with NuGet needs to specify the source name as `Azure DevOps`, too - `azure devops` won't work.
