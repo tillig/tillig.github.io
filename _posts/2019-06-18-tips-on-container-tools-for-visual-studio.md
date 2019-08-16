@@ -17,13 +17,15 @@ I ran into a bunch of trouble getting some things working the other day which ca
 
 The `Dockerfile` that gets generated has a bunch of named intermediate containers in it - `base`, `build`, `publish`. This is helpful if you don't already have a `Dockerfile`, but if you're really just trying to get debugging working with VS, you only need the `base` container. You can delete or modify the others.
 
+**UPDATE August 16, 2019**: [Microsoft has some documentation now on how Container Tools builds Dockerfiles.](https://docs.microsoft.com/en-us/visualstudio/containers/container-build?view=vs-2019) It's not necessarily `base` that's a magic target - it's "the first stage found in the Dockerfile."
+
 When VS builds the container, you can see in the Container Tools output window it's running a command like this:
 
 `docker build -f "C:\src\solution\project\Dockerfile" -t project:dev --target base  --label "com.microsoft.created-by=visual-studio" "C:\src\solution"`
 
 The `--target base` is the key - it's not going to build the rest.
 
-(I _think_ you can change this using `<DockerfileStage>` in your project - see below.)
+(You can change this using `<DockerfileFastModeStage>` in your project - see below.)
 
 ## VS Controls Container Startup and Teardown
 
@@ -110,16 +112,18 @@ There are some things to note in here.
 
 ## You Can Affect `docker run` Through Project Settings
 
+**UPDATE August 16, 2019**: Microsoft has [added documentation about the available MSBuild properties](https://docs.microsoft.com/en-us/visualstudio/containers/container-msbuild-properties?view=vs-2019) that can influence the Container Tools behavior. I've updated my doc below based on the official docs, but there's more to be seen over there.
+
 There are some magic XML elements you can put in your project properties that will affect the `docker run` command. These are found in the `.targets` files in the `Microsoft.VisualStudio.Azure.Containers.Tools.Targets` package, which you can find in your local cache in a spot like `C:\Users\yourname\.nuget\packages\microsoft.visualstudio.azure.containers.tools.targets\1.4.10\build`.
 
 Ones that seem interesting which I have pulled straight out of the `Container.targets` file...
 
-- `<DockerDefaultTag>`: The default tag used when building the Docker image. When using the container debugging tools the container tag seems to be set to `dev` but I can't figure out where that happens.
+- `<DockerfileTag>`: The default tag used when building the Docker image. When using the container debugging tools this defaults to `dev`.
 - `<DockerDefaultTargetOS>`: The default target OS used when building the Docker image.
 - `<DockerfileBuildArguments>`: Additional arguments passed to the Docker build command. I'm not sure what you might do with that, but it may be an interesting hook.
 - `<DockerfileRunArguments>`: Additional arguments passed to the Docker run command.  You can use this to add volume mounts and such to the VS process that starts up the container for your project. You can add environment variables this way, too, if you don't want to use `launchSettings.json`.
 - `<DockerfileRunEnvironmentFiles>`: Semicolon-delimited list of environment files applied during Docker run.
-- `<DockerfileStage>`: The Dockerfile stage (i.e. target) to be used when building the Docker image. I found this defaults to `base` but I can't find where that default is set.
+- `<DockerfileFastModeStage>`: The Dockerfile stage (i.e. target) to be used when building the Docker image in fast mode for debugging. This defaults to the first stage found in the Dockerfile, which is usually `base`.
 
 I've only really tried the `DockerfileRunArguments` to see if I could use that for environment variables (before I figured out the `launchSettings.json` part) and it seemed to work. On the others, YMMV.
 
@@ -152,6 +156,4 @@ If the container fails to start for whatever reason, you may be left with zombie
 
 ## The Actual Documentation
 
-Right now... there's not any documentation on this stuff. [I opened an issue to request some on June 18, 2019](https://github.com/microsoft/DockerTools/issues/193) and the team agrees on the need. I hope there will be some coming soon, it'd make life easier.
-
-That said, what's here is pretty sweet and generally "just works." Can't complain about that!
+**UPDATE August 16, 2019**: [I opened an issue to request some on June 18, 2019](https://github.com/microsoft/DockerTools/issues/193) to get some documentation. There is now some official doc on [how Container Tools builds the container](https://docs.microsoft.com/en-us/visualstudio/containers/container-build?view=vs-2019) as well as the [MSBuild properties available to control that process](https://docs.microsoft.com/en-us/visualstudio/containers/container-msbuild-properties?view=vs-2019). They are working on additional docs.
