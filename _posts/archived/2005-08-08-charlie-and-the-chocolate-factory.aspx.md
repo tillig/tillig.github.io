@@ -7,7 +7,7 @@ disqus_identifier: 865
 tags: [media,movies]
 ---
 ![Charlie and the Chocolate
-Factory](https://hyqi8g.dm2304.livefilestore.com/y2pfLvjwcuhIsE2c24fpugRl8-ua5sOVYqp5NEYE_86h8kqaRBKejaZXXdwp4QMJ7RiMPdlsyW1vsCF0QGBh-JPOUKqmm8nN_w3VgTtzv4yW9w/20050808wonka.jpg?psid=1)On
+Factory]({{ site.url }}/images/20050808wonka.jpg)On
 Friday I went to see the latest version of Roald Dahl's [*Charlie and
 the Chocolate Factory*](http://www.imdb.com/title/tt0367594/) as seen on
 the big screen. Huge screen, in fact, as [I saw it in an IMAX

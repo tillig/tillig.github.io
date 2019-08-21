@@ -16,7 +16,7 @@ I find this feature exceptionally handy, particularly around the holiday
 season when people ask what I want.
 
 ![Nicole Kidman - Added via the Universal Wish List
-Button.](https://hyqi8g.bl3301.livefilestore.com/y2pjsmYhFL9Mf51TW7SYxWg5b3TuUqe-GCZn8NXniMxveVvigD5NtFiBli5_oYrhpVdxkZa2SwoCesCCcuVkEiUllBf30akizu5dslIE0rl6rk/20081208kidmanwishlistqk5.png?psid=1)
+Button.]({{ site.url }}/images/20081208kidmanwishlistqk5.png)
 
 Somehow, I don't think Santa's going to be able to help me out with this
 one. :)

@@ -7,7 +7,7 @@ disqus_identifier: 1077
 tags: [General Ramblings]
 ---
 [![Cirque du Soleil:
-KA](https://hyqi8g.dm1.livefilestore.com/y2pbTtk_X5VC1D7HCZ0m9np3VFXx7AmKBH4A3Liaqt-611-llTWoDx3QXy0Rg9E_psAHZnCgjYM9nXTWTFwGQJXMyGXG30LREe7CHfH-79xvC8/20060922ka.jpg?psid=1)](http://www.mgmgrand.com/entertainment/ka-cirque-du-soleil-show.aspx)
+KA]({{ site.url }}/images/20060922ka.jpg)](http://www.mgmgrand.com/entertainment/ka-cirque-du-soleil-show.aspx)
 
  [Stu](http://www.stuartthompson.net),
 [Jason](http://www.meyercentral.com/), Jason's brother Adam, and I are
@@ -18,7 +18,7 @@ Saturday the 30th, though, you know where I'll be?
 *KA*!](http://www.mgmgrand.com/entertainment/ka-cirque-du-soleil-show.aspx)
 
  ![Center of the front row for
-KA](https://hyqi8g.dm1.livefilestore.com/y2pSaBcVD4lUZ1kScsNH2oxmLfO_3I4M_Fwwq2lxlJKFH90Ou5C1seFgFckPbtNqCpL9GEFu2t9KgH8DHu6AbNJD9vRefYqbLioOy4-x0JBAb0/20060922kafloorplan.jpg?psid=1)
+KA]({{ site.url }}/images/20060922kafloorplan.jpg)
 
  Actually, literally front and center. Stu and I, middle of the first
 row. Of course, tickets are $150 a piece, so I can't say it didn't cost

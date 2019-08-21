@@ -40,14 +40,14 @@ evening, when I was greeted with the sight of *yet another SUV owner who
 doesn't know how to park*. Check this shit out:
 
  ![Wow, that looks a little close... (8k
-image)](https://hyqi8g.blu.livefilestore.com/y2prnNFIjtfTM-HoICM24i-dIVi0NUfobSlTD06MSq_fuqmnmCy2UGvCG5dMh1GaAs0PLu_CTsZ7_xDCMP-zlWdvIkIBblBJMgnLAgdJku3OaI/20030911closepark1.jpg?psid=1)
+image)]({{ site.url }}/images/20030911closepark1.jpg)
 
  Hey, doesn't that look a little close? I thought so, but I figured I'd
 just sort of squeeze my ass in my door and call it a day. But when I
 opened my door...
 
  ![Next time, leave me a can opener! (10k
-image)](https://hyqi8g.blu.livefilestore.com/y2pgeVksS963HmlEeXXGfT0LMXCyXe9_xe80k5Pbjg4LVJjDuIdbK9r_3UqbB7yg3Nbj-U-6NoUppuu1KGzoBWIlcJ-LFZWvJPh-ySTe4nRsog/20030911closepark2.jpg?psid=1)
+image)]({{ site.url }}/images/20030911closepark2.jpg)
 
  ...I found that the guy had actually parked so close that I couldn't
 even fit my leg inside. Next time, leave me a fucking can opener,

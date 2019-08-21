@@ -17,7 +17,7 @@ I think they should rename it "Lotus VB6time" because, well... see for
 yourself.
 
 ![Sametime - now with additional
-VB6!](https://hyqi8g.dm1.livefilestore.com/y2p57xov31NrLoQy5KWjiAmCu3EpwE_WjTPyj2RQCowskoacjP22OAFoxxVn_JJpb5wd2rSXC-J8DCnV1AoQQ2TapU1pUxQkyKr6SPuzlmkqkU/20071010vb6time.png?psid=1)
+VB6!]({{ site.url }}/images/20071010vb6time.png)
 
 I can see the sales droid selling this now, invoking adjectives like
 "minimalist" and "rugged."  It doesn't matter what it looks like as long

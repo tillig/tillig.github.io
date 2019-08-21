@@ -47,7 +47,7 @@ replica, nitpickers; it's from a real hotel room, not the Lost Room). 
 It's super cool - check it out:
 
 ![Lost Room gift box: DVD, bus ticket, pen, and
-key](https://hyqi8g.dm2304.livefilestore.com/y2pQb4PUO4ZNOKOAb9ZEUGh7jkJrnxaj8yFkvB0z7au9eARqxP3ygruZTl-PX51Ys46DckuvqBmZofvLgwhtInHpn5oa82cvcQqv0jGzVIb6Pk/20070722lostroombox.jpg?psid=1)
+key]({{ site.url }}/images/20070722lostroombox.jpg)
 
 I'm stoked - it was awfully thoughtful and a lot of effort went into
 it.  Very cool.

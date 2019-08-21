@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 913
 tags: [General Ramblings]
 ---
-[![Serenity](https://hyqi8g.dm2303.livefilestore.com/y2ptn3fGBl_jqC47IfleK_635eIh3IvjV4FO2d9EEA0V5t3QUXYFqQmnhrHSbI3srwR5Cc710GnoVVCsj-0dthf6wE0l3cNVvVl17k82AlD6tk/20051102serenity.jpg?psid=1)](http://www.amazon.com/exec/obidos/ASIN/B000BW7QWW/mhsvortex)[*Serenity*,
+[![Serenity]({{ site.url }}/images/20051102serenity.jpg)](http://www.amazon.com/exec/obidos/ASIN/B000BW7QWW/mhsvortex)[*Serenity*,
 the best sci-fi movie I've seen in a looooong time, is now available for
 pre-order at
 Amazon.](http://www.amazon.com/exec/obidos/ASIN/B000BW7QWW/mhsvortex)

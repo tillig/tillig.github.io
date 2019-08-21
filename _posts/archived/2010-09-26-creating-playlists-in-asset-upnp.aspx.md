@@ -172,7 +172,7 @@ just put on the server.
 7.  By default, Asset sets the folder to contain music. Click the
     "Contains: Audio Tracks" text next to the playlist folder and a
     dropdown will appear. Select "Contains: Playlists" from there.
-    ![](https://hyqi8g.bl3302.livefilestore.com/y2pS16OZBsil-t3rF_vcAi-7NhGSUa7-cL0gXyI2whskmHg4nAc2iCoyiU2ZpY746u1ZlfULrzWTjL4ra-xzQRHofP_rWiTkOHp-sZMminfddA/20100926assetupnpfolderlocation.png?psid=1)
+    ![]({{ site.url }}/images/20100926assetupnpfolderlocation.png)
 8.  Click OK. Asset will tell you it needs to restart. That's OK. It
     will then rescan the library and your playlists will be included.
 

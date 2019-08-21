@@ -57,7 +57,7 @@ and screams and runs and then comes back to wrestle it some more. I
 attack her with the shark, and she screams and giggles.
 
 ![Phoenix attacking the giant
-shark](https://hyqi8g.blu.livefilestore.com/y2pKe5cu0Y_E5ThInIu1jJNheN-3r5-sKzn32dlsV5pnCOAsD7YmyY9TAX_BslQSNskFGcIxLcQvR6YtHLde_HAEWQQinkoZhFvaXMkmS3rOUU/20120315sharkattack.jpg?psid=1)
+shark]({{ site.url }}/images/20120315sharkattack.jpg)
 
 > Travis: Hey, Jenn, where's [the Wonder Woman
 > figure](http://www.amazon.com/dp/B005ISAAWM?tag=mhsvortex)?

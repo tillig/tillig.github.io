@@ -7,7 +7,7 @@ disqus_identifier: 1095
 tags: [General Ramblings]
 ---
 [![Kate Spade 'Gramercy Park' Casual
-China](https://hyqi8g.dm2304.livefilestore.com/y2pq0FMt7yoXi5CHT-Stwc0eqpBm1VpVYInnWpAVZTss94qKQaJ9mzbR_3ZtMqG5C1Zwp5mcofX8aMZDvNTWij9K078vvBemXDb3OaOSRWNKTY/20061106katespade.jpg?psid=1)](http://www1.macys.com/catalog/product/index.ognc?ID=111027&PseudoMasterProdID=111108)We
+China]({{ site.url }}/images/20061106katespade.jpg)](http://www1.macys.com/catalog/product/index.ognc?ID=111027&PseudoMasterProdID=111108)We
 went to [Macy's](http://www.macys.com) on Saturday and bought the
 remainder of the dish set we put on the wedding registry. We got a few
 items for the wedding, but three dishes and a couple of bowls really
@@ -59,7 +59,7 @@ I might have to check out. Not really sure how well *Missile Command*
 will translate without that roller-ball controller it had in the arcade,
 but I'll give it a run.
 
-[![image](https://hyqi8g.dm2303.livefilestore.com/y2p_PR67jQMrHaRfFCJCKQ0djxN2fkKgYgG7W5TPYJS3meA7nWp36dOzqKxgvTRhR2wsCQDfIfyYTeBzIwKqdacAtmR66IWgdHEnSZtKGmMKqQ/20061106uno.jpg?psid=1)](http://www.xbox.com/en-US/games/u/unolivearcadexbox360/default.htm)I've
+[![image]({{ site.url }}/images/20061106uno.jpg)](http://www.xbox.com/en-US/games/u/unolivearcadexbox360/default.htm)I've
 become an [Xbox Live
 *Uno*](http://www.xbox.com/en-US/games/u/unolivearcadexbox360/default.htm)
 junkie. I'm not sure why playing a card game over Xbox Live is so

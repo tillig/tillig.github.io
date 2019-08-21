@@ -14,7 +14,7 @@ First, make sure you're working with a `DevExpress.CodeRush.Menus.IMenuButton`. 
 
 Now make two 32 x 32 bitmap images. The first is going to be the icon you want to display. The second is the transparency mask so the menu knows what to show and what to hide. The color image will look like this:
 
-![Color version of the button.](https://hyqi8g.bl3302.livefilestore.com/y2pgDVpOeiQlW2wxsucSF0jFDUebLeitcyEu7GT6aoSP0H6U_hWvQ18l4uGft_vWl6V18bOZPU6yUT2N_we52ka4RVrJ57tQIdJLWjS4AAYwnc/20091109iconcolored.png?psid=1)
+![Color version of the button.]({{ site.url }}/images/20091109iconcolored.png)
 
 Note that in your transparency mask, black pixels are the parts of the image I want shown and the white pixels are parts you want to be transparent.
 

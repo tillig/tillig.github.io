@@ -19,7 +19,7 @@ Turns out there's something weird going on, so the rep wanted a
 technician to look into it. That's when this little blurb happened:
 
 !["I hate to ask this but I will need your pass code for your voice
-mail?"](https://hyqi8g.dm2304.livefilestore.com/y2pHLs4RKNADAbG2U3nHdgDl5SHRNFuTqDjBSF_pntDyDX3alwxdCTGOczZ9ojVQzcJhDf71M2XSDqaCzcTdcQneK8uAdDBUYtzpls6efrAZ7g/20080117comcastsupport.png?psid=1)
+mail?"]({{ site.url }}/images/20080117comcastsupport.png)
 
 I didn't end up giving out my password, obviously - they ended up
 "finding a workaround." Hehehehehe...

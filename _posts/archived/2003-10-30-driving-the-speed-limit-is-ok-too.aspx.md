@@ -12,7 +12,7 @@ Today's Traffic Asshole is actually from Tuesday, but I got busy.
 down there, I ended up getting behind this fellow:
 
  ![Slow does not equal safe (5k
-image)](https://hyqi8g.blu.livefilestore.com/y2pTE7_cyYRXwSHyE_bgsV9TMibOMMEmboX2OFqQs2-AsRWL4mkdZkXiX1naZ2ZHPpJXn1NpfQFFEGVbGTUUn6q4rnmH9OGU3v0VTl5WD7grS0/20031030taotw.jpg?psid=1)
+image)]({{ site.url }}/images/20031030taotw.jpg)
 
  This fine driver decided that it would be somehow safer to drive 25mph
 in the 35mph speed zone. Here's a message to all of those "safe" drivers

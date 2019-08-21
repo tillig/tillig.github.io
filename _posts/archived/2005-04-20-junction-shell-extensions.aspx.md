@@ -31,7 +31,7 @@ visual cue. The only way to see is if you drop to a command prompt and
 run a directory:
 
  ![Command prompt illustrating
-junctions](https://hyqi8g.dm2302.livefilestore.com/y2pRcBog0zOPHaCwSRAdsLTaRcnzyJad248xaXj8uhEfmyPHRdQZd7mlqv68CpiYFnLIE92HsseRVnU4B18_TDYHUQL2g-EHpik3sTCoNHZ__w/junctioniconoverlay_cmd.gif?psid=1)
+junctions]({{ site.url }}/images/junctioniconoverlay_cmd.gif)
 
  See the JUNCTION up there? That's the only indicator you have a reparse
 point. And, of course, if you're not paying attention in Windows
@@ -45,7 +45,7 @@ things under CVS control)? Wouldn't it be cool if you could see
 something on junctions? Now you can:
 
  ![A Windows Explorer folder showing junctions with icon
-overlays](https://hyqi8g.dm2302.livefilestore.com/y2pGGKJ6vqkFcyE4-HEYxHxmYDDrxFNzNtMylgvuEHK3xSxfOXsgYIuyXpJb2g9K2zHuVGzOl6LCkX_YMpWZdh-ca_CY3zfQXRGa72p6wnf7vQ/junctioniconoverlay_folder.gif?psid=1)
+overlays]({{ site.url }}/images/junctioniconoverlay_folder.gif)
 
  The "source" folder is under CVS source control and I've got
 TortoiseCVS, so you see a little green checkmark overlay. The "build"
@@ -58,7 +58,7 @@ select "Properties," and find the "Junction" tab. You should see the
 path the junction points to in the text box.
 
  ![Junction property
-sheet](https://hyqi8g.dm2303.livefilestore.com/y2p0fyXrRGmCxuAjy6bktc29rCZNiRxBdMcJudBO_3_RKILRdXXv-77LEueb1anWnapsM0sTUod2TAjeyEIr3sZ5-5Le0qZ8BlCg_i68pS-reQ/junctionpropertysheet_props.gif?psid=1)
+sheet]({{ site.url }}/images/junctionpropertysheet_props.gif)
 
  You can get this as a setup (MSI) or you can have the source. It's
 free, but use at your own risk and all that. I'm also not offering

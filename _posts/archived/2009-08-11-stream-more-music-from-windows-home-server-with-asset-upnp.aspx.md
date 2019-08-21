@@ -95,7 +95,7 @@ version 2, select LPCM streaming and it works with both PS3 and Xbox
 and it will work with PS3, Xbox 360, and Android DLNA clients.
 
 ![Asset UPnP "Force Streaming"
-configuration](https://hyqi8g.bl3301.livefilestore.com/y2pmiAcwUNuGL6JSzFCOw8y-H2Cm4xHvkc1kb1yzFKPxsqKYwL24L4Y9Bfxikpxg4yWWNXQDSQn3zwU6pA3OzvNv5sEtCOLGJySaYEHci_dOoU/20090811assetitunesconfiguratio.png?psid=1)
+configuration]({{ site.url }}/images/20090811assetitunesconfiguratio.png)
 
 Once you've got that set up, Asset will restart itself and you should be
 able to use your player (PS3 or Xbox 360 or whatever) to play your whole

@@ -7,7 +7,7 @@ disqus_identifier: 1066
 tags: [General Ramblings]
 ---
 ![Amp Big Rig (in the
-center)](https://hyqi8g.dm2302.livefilestore.com/y2pYzv2AfRcKn754Xs6UIYnAfrWd5N05YbZWHt2fQ8WxB8GMDNnj3GY5ZMCRMqtEV53oJAvN85mpSc2TNBW9IG0oNiateE_8hrGDi_hDMWuBCs/20060905amp.gif?psid=1)I
+center)]({{ site.url }}/images/20060905amp.gif)I
 had a pretty decent Labor Day weekend, but I'm tired this morning, so
 I'm drinking an Amp Big Rig, possibly the largest can of caffeinated
 beverage I've ever seen. Oh, *hell yeah*.

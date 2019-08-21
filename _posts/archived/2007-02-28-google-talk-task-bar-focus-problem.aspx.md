@@ -16,7 +16,7 @@ You not only get the Google Talk menu, but also the standard task bar
 menu:
 
  ![Google Talk focus
-issue](https://hyqi8g.dm2303.livefilestore.com/y2pe8cwnGrQyqOjz32LPkmx3iSX3o9dR0lvPo1otsbZ6sU62QZ7Hkh3AMXv5eH7Pi3cImu0hPJxTX0E5oUWNWko7GJVYmmcwU-M-Nzpb3RZxmg/20070228googletalk.jpg?psid=1)
+issue]({{ site.url }}/images/20070228googletalk.jpg)
 
  If you left-click the task bar first, then right-click the Google Talk
 icon, everything works. If you dive in and right-click the Google Talk

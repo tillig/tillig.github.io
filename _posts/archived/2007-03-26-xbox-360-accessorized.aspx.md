@@ -7,7 +7,7 @@ disqus_identifier: 1169
 tags: [xbox]
 ---
 ![Xbox Live Vision camera and Xbox 360 HD DVD
-player](https://hyqi8g.dm1.livefilestore.com/y2ptsQUwx8Gs87JRWhp2-YqvIrnRDUUNYdBCe0DWkLtTLDAzPKLcOSlXOUSPh6tNgwQ0KJc2jEWI17KzvLwrFDvERsb_MleRyTD63IwkCSn7_Y/20070326xboxaccessories.png?psid=1)Friday
+player]({{ site.url }}/images/20070326xboxaccessories.png)Friday
 night I picked up one of the [Xbox 360 HD DVD
 players](http://www.amazon.com/exec/obidos/ASIN/B000JHO4L0/mhsvortex),
 an [Xbox Live Vision

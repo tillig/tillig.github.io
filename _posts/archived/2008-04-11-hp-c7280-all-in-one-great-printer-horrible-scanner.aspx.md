@@ -35,7 +35,7 @@ letters, while done with a hand-drawn style, have hard edges. Not at all
 how the scan comes out.
 
 ![Bad scan of the Juno CD
-cover.](https://hyqi8g.dm2304.livefilestore.com/y2pzzqXfHb0MSHynWEfO9wKWYT1ZnhfQD_SivyOHoOnvjOk22HCaHoWRE-H13qI4Ua6lo4qXrvQDmHr56sHT51uH5B9k867YWlVvy0Dj67iJhM/20080411badscan.jpg?psid=1)
+cover.]({{ site.url }}/images/20080411badscan.jpg)
 
 Look at the scan - the edges of the orange stripes are actually fuzzy.
 There's pixelation, almost like a halftone, in the gray shading. The

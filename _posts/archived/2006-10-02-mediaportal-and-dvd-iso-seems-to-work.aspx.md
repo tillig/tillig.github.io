@@ -63,7 +63,7 @@ Auto Insert Notification. This is key so when the ISO is mounted it
 doesn't do its autoplay garbage and try to install crap.
 
  ![Uncheck the 'Auto Insert Notification' box in Daemon Tools device
-parameters.](https://hyqi8g.dm2304.livefilestore.com/y2pde-vcxhEkldYWbaiynJIj7WkBAja83AZX63AuRUUYptFBeKjkLcke8vIhRnCG8JBj6OFNcoLbf2BHClTxo6B0TnwpZSuHhrFTQPo2wS8H-o/20061002daemonconfig.png?psid=1)
+parameters.]({{ site.url }}/images/20061002daemonconfig.png)
 
  Second, in the MediaPortal configuration, make sure the drive letter
 that MediaPortal is using for the Daemon Tools drive matches the one you
@@ -72,7 +72,7 @@ set up to not autoplay. I've set Daemon Tools drive 0 to be drive 'M:'
 
  ![Ensure that the Daemon Tools section in MediaPortal points to the
 proper virtual
-drive.](https://hyqi8g.dm2301.livefilestore.com/y2pMFNkuWujmiZ616n1Pe4e30pSWneklhkzpAvAjGF_h1q86F_l2SEctX_mz3AWbShqulxULyN-pufsmDekUEYkK4XiXTX0T9coWSlEuFdEyXs/20061002mpconfig.png?psid=1)
+drive.]({{ site.url }}/images/20061002mpconfig.png)
 
  Once you do that, things seem to work. But it's definitely an
 undocumented process in getting the planets to align.

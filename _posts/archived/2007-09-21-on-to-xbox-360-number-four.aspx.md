@@ -86,7 +86,7 @@ I'm also thinking that there should be some sort of gamerscore
 achievement.
 
 ![Three Console Repairs - Achievement
-Unlocked!](https://hyqi8g.dm1.livefilestore.com/y2pj_prSo5VXYVqDeJl3gnS3NWANh5S6kSgF2EWCdEvJlVL_fnoBLRU3t8WJJhlBgitnaQr7C8XKY0mn3gYjZ-k71yUdsp5SFYCvUH35Iy9Ggs/20070921achievement.gif?psid=1)
+Unlocked!]({{ site.url }}/images/20070921achievement.gif)
 
 There's [a forum on the Xbox site about this
 update](http://forums.xbox.com/15627101/ShowPost.aspx).  I guess I'm not

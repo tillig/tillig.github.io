@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 1080
 tags: [net,testing]
 ---
-[![TypeMock](https://hyqi8g.dm2303.livefilestore.com/y2pbaipz1T-MMPXG1YYc6pPlsHKs9E22oS-5Glo23Ve39dNplM6M5pLosnEiiLMwa9IUUGczAM5WAAr-uOIvOiLfr0rvMcnuoVgE2647rGgNEo/20060928typemocklogo.png?psid=1)](http://www.typemock.com)I've
+[![TypeMock]({{ site.url }}/images/20060928typemocklogo.png)](http://www.typemock.com)I've
 been a slow convert to the whole test-driven development movement. I'm
 ashamed, but it's true. I've believed in TDD in principle, but when it
 came down to it, designing specifically for testability always made my

@@ -30,7 +30,7 @@ Based on my personal views and having no scientific data whatsoever to
 back it up, here's what it feels like is going on:
 
 [![Where I think time is getting spent (click to
-embiggen)](https://hyqi8g.bl3301.livefilestore.com/y2p4Tg-cbaUSTZFFKOG-AhV6i54Couog5NAyOYFzoGKQ_WiwSVW6ATiM3_8IAXNt0X_J2apoplUqRn2-NZs3ObkobJtuSC63jbWqQil45wEE_k/20101015bellcurvesmu.gif?psid=1 "Where I think time is getting spent (click to embiggen)")](https://hyqi8g.bl3301.livefilestore.com/y2pIixUfyDCj6e_HVRHAGTJ99f30MW9I55Lo1Yn8Rbr3i0M6ggM1jOSz74marg5Fv2X-wIiezfn4GUAHXDD62xX7Ix-UGOMH52YemlBR3U0t0c/20101015bellcurvelg.gif?psid=1)
+embiggen)]({{ site.url }}/images/20101015bellcurvelg.gif)
 
 There seems to be a ton of stuff trying to get people "just starting
 out" up to speed... but once you get past a web site that uses LINQ to

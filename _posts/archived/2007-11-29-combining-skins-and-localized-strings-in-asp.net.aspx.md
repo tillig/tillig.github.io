@@ -10,7 +10,7 @@ Let's say you have some text on your web site that has an image inline. 
 Something like this:
 
 > Fields with a
-> ![!](https://hyqi8g.dm2302.livefilestore.com/y2pYX9r-C6QcTP2JxGEhAiAPXlhRmUahxPXP_HRDzGZiHSHg6cELVsUJW07OjT87qt5Cg1cKH2l5UFP0rquoyeXqAUH7oJCP6teFusfbzYI-Fw/20071129failedvalidation1.gif?psid=1) icon
+> ![!]({{ site.url }}/images/20071129failedvalidation1.gif) icon
 > indicate failed validation.
 
 You've seen that before.  You've probably done that before.  Now let's
@@ -20,7 +20,7 @@ control your look and feel, and that icon is different based on your
 theme.  It might change to be:
 
 > Fields with a
-> ![!](https://hyqi8g.dm2303.livefilestore.com/y2pvF7UGvuAa3auXTODXnsESeBHpbApV1A9FNv9i81Lyloa9KCjCu-VGAE9uScDQpSpG-tZiDFQL1nyL0Wl70CCJvxLOWWer1sUQDEzY6lRdI8/20071129failedvalidation2.gif?psid=1) icon
+> ![!]({{ site.url }}/images/20071129failedvalidation2.gif) icon
 > indicate failed validation.
 
 You could have some ASPX code that handles that with the SkinID of the
@@ -127,7 +127,7 @@ can see the obvious difference in the amount of time the page Load event
 (where I'm doing this) takes vs. the other events.
 
 ![Timings for parsing inline
-controls.](https://hyqi8g.dm2302.livefilestore.com/y2p3UTr5wlVeq5q325o1nho1-F2-1vHHJSPUdL7KWmIJjiAQtjY6OIAj1se1t4GK_cykZAR6T-ugidZwRa0nLB3qOquVuLCVdQCwZmIyGv7Gu8/20071129parsetimings.gif?psid=1)
+controls.]({{ site.url }}/images/20071129parsetimings.gif)
 
 It's only ~0.01 seconds, but you wouldn't want to, say, put this in the
 middle of a big databinding block.

@@ -43,7 +43,7 @@ works, but defeats the purpose of presence information. I need something
 that says... "I'm online, but I sure as shit don't want to hear from
 you." Something like this:
  ![The Ultimate IM Status (5k
-image)](https://hyqi8g.blu.livefilestore.com/y2pf9W8IJTvRtLPbbf0F0-1dsJxI3mepASkBMRs6hrHeP6PENzo20IHjQ-I6DsTdA1CZZ1qVAPki3VN2FNVTKa3A7Mv2rvmz5Pfn8c5KiV0UZY/20030806imstatus.gif?psid=1)
+image)]({{ site.url }}/images/20030806imstatus.gif)
 
  Until then, I think I'll just skip the whole IM thing. It's more
 trouble than its worth.

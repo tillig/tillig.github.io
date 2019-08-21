@@ -23,7 +23,7 @@ re-create them. Got the error and couldn't remove the references.
 Rebooted the computer, you know, because that's what you do. Still got
 the error. At which point I was like...
 
-![Fuuuuuuuuuuuu](https://hyqi8g.dm2302.livefilestore.com/y2pE5TTQWOqJq-LMAWZ2CUxEUzlMwOuvcAilXDfKebwNPZK0guZnjU4lE1qRo-R82ILnrPCrzbXdtqKy0KZQ2d6lfHdRrWpKlxfm7bdkPBYcdk/20111118fuuus.jpg?psid=1)
+![Fuuuuuuuuuuuu]({{ site.url }}/images/20111118fuuus.jpg)
 
 **And then I found**[**this blog
 entry**](http://wcfvs.blogspot.com/2011/04/could-not-resolve-mscorlib-for-target.html)**that

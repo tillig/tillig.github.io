@@ -27,7 +27,7 @@ workflow](/archive/2008/03/20/two-minute-wf-workflow-types.aspx) you're
 using and your specific needs.
 
 ![Simple sequential workflow showing various
-activities.](https://hyqi8g.dm2302.livefilestore.com/y2pd4U2MAyX7zzSxHk-MOKjoipbanHgl_0l4X-Q6-F3FVf9cXNSb5QD5mJwsfC8W-3OuEWsl3iEarJGW0JyxoqumPgWw8CZCvat0OodTHkcPSI/20080321simpleworkflow.png?psid=1)
+activities.]({{ site.url }}/images/20080321simpleworkflow.png)
 
 This simple sequential workflow shows what it might be like to do
 division in a workflow. Some inputs come into the workflow and are

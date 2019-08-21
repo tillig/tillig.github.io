@@ -27,7 +27,7 @@ enough that you can do some pretty cool combos and things. Plus, the
 it.
 
  ![Kia Spectra GSX (4k
-image)](https://hyqi8g.blu.livefilestore.com/y2p3D14dWZ2eG-yqWOBUt-zDvuiMpDWIV-J20-8yOuprHI0uJQ_Mhsy60lS4-GUVuVr4ttumN0rv-FCxLr4m31ErykV7EiM2kIznoKF4Qlwtks/20030902kia.jpg?psid=1)Saturday
+image)]({{ site.url }}/images/20030902kia.jpg)Saturday
 I did my best to get the household chores done (vacuuming, etc.) in the
 morning because that afternoon we decided to go to the Kia dealership
 and get Jenn into a new car. Her old car, a Pontiac Sunfire convertible,

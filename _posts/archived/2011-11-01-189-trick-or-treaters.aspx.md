@@ -15,7 +15,7 @@ year](/archive/2010/11/01/259-trick-or-treaters.aspx) I mentioned I
 thought we'd be down this year and I was right.
 
 ![2011: 189
-trick-or-treaters.](https://hyqi8g.bl3302.livefilestore.com/y2p8TC7hv8YiYRlUwVWG2TRTt-wSEgACKsSoYn27MgBYMScJGkF67_SVWko377m44dMf5nlCzUbKEA7xWbe9WzVF-4hQbQ5bZRWrZhXED10Y9Q/20111101trickortreatgra.png?psid=1)
+trick-or-treaters.]({{ site.url }}/images/20111101trickortreatgra.png)
 
 Cumulative data:
 

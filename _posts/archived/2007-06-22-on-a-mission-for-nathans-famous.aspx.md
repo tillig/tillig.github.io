@@ -7,7 +7,7 @@ disqus_identifier: 1221
 tags: [General Ramblings]
 ---
 ![Nathan's Famous Beef
-Franks](https://hyqi8g.dm1.livefilestore.com/y2p1WDsWOv3PkprC6zSKLmwqUc1_LVjWCb-ABMrC3u5G4mXXruO17f7Qn0_b8GY2TrZHB3_UO58HT12_MQT_yEifAjbiVHnl6ocuwEmHY_9OT0/20070622nathans.jpg?psid=1)I
+Franks]({{ site.url }}/images/20070622nathans.jpg)I
 subscribe to [Consumer Reports](http://www.consumerreports.org) and
 yesterday they sent out a review of hot dogs so folks would know the
 best kind of dog based on flavor, cost, and... uh... "health content" in

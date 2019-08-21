@@ -7,7 +7,7 @@ disqus_identifier: 257
 tags: [personal]
 ---
 ![Where are the stir stick QA
-people?](https://hyqi8g.blu.livefilestore.com/y2pSnjycgIGPHTgQULUSBdiBlJmpPaHxRsJgv23yAX-KvXBPVsaZfmkl3dcDjnU3DE-GhEUJgKQqO7VitNuaeRyuYCPnTMuKh8UR6IPFuXzXgc/20030516stirsticks.jpg?psid=1)Not
+people?]({{ site.url }}/images/20030516stirsticks.jpg)Not
 that this is a huge deal or anything, but I was noticing that the little
 plastic stir sticks in the coffee area at work are all different
 lengths. I mean, where's the QA department on this one? You'd think that

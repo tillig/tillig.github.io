@@ -48,7 +48,7 @@ people program when they really just *shouldn't*.
  I got my new Fisher Space Pen yesterday in the mail.
 
  ![Fisher Space Pen... straight from Mulholland Drive! (5k
-image)](https://hyqi8g.blu.livefilestore.com/y2p0REBR8tgtKJGq7qv4BgLrhHHNI1ceddlAjXpJhy4Sh3gV16UOvsuXZlJ96Gl6gEIBECHQQHbAaZB8EajUOZKzFNEXyV6GFrszpGUnCg0xEY/20030919spacepen.jpg?psid=1)
+image)]({{ site.url }}/images/20030919spacepen.jpg)
 
  I'm actually pretty stoked about it. It looks really cool, and I think
 the grip on the end of the pen is pretty nifty. Anyway, there it is - if

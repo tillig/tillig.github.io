@@ -14,9 +14,9 @@ In moving, we got a lot of really nice and supportive tweets and posts and it’
 
 Then there have been some puzzling ones, though, and **here’s where I switch out of my “Autofac project coordinator person” hat and into my “I’m just a dev” hat**:
 
-[![Thank you for switching! Its been fun to get int eh codebase and look around. :) OSS FTW!](https://hyqi8g.dm2302.livefilestore.com/y2pXJeWqowOScO3O8xt97pLVT4EXP1P3tYdQ4XkKqEzZlXCkkkP7ZvRkn-xD6_lBsKIShZFH1rOtMeYf2tDuBq-Oqhi4wygEK77sgBP_YcWpNc/20140123_tweet1.png?psid=1)](https://twitter.com/drusellers/status/426345894225518592)
+[![Thank you for switching! Its been fun to get int eh codebase and look around. :) OSS FTW!]({{ site.url }}/images/20140123_tweet1.png)](https://twitter.com/drusellers/status/426345894225518592)
 
-[![I sometimes get excited by new OSS projects by my heart sinks when I see they're not on github and I lose interest](https://hyqi8g.dm2302.livefilestore.com/y2pgZZ5zAg-dWZLF7NMy0IaKGBKbMhlRWTo_9B1dAGcOybeZb1MFfQiQBBkW7SHGdSVLYByUX_Lv6OsncjqFdvxuHcMffcMnmF01b3NlWiFGFQ/20140123_tweet2.png?psid=1)](https://twitter.com/adamralph/status/425735212945780738)
+[![I sometimes get excited by new OSS projects by my heart sinks when I see they're not on github and I lose interest]({{ site.url }}/images/20140123_tweet2.png)](https://twitter.com/adamralph/status/425735212945780738)
 
 Again, I’m not picking on these folks personally, because **I respect them and their skills**. I’ve seen a few of these and I know (hope?) they won’t take it personally that I grabbed theirs out of the bunch. What I want to address is more my puzzlement around the sentiment I see here:
 

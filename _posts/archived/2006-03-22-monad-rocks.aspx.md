@@ -38,7 +38,7 @@ tree. Monad to the rescue, right? One command line:
  It ends up looking like this (click to enlarge):
 
  [![Monad in action - sorting most recent modified files (click to
-enlarge)](https://hyqi8g.dm2304.livefilestore.com/y2pZ6pcFwRTXTj_ITat4cWB_I2BXIX_itCxH7xRVLUtQltuo_gOeQbcIVd2NXIQvMNi9yxTkXal06lEEPGxvTbgTHFk7hkPtu1joiOWiFrjTM4/20060327monad.gif?psid=1)](https://hyqi8g.dm2304.livefilestore.com/y2psQQGjRKhrszyAE00rbqGbmIfiqiY6uu0h89T9YLw7rNfNZ9FY9Fqg5LZus1iXHmKCmXfkIV6cBviqpj-uV1-Z2lAkrzPo-XRek3KYFtBNoY/20060327monad_lg.gif?psid=1)
+enlarge)]({{ site.url }}/images/20060327monad_lg.gif)
 
  I don't know about you, but I think that's *hot*. One line, loads of
 functionality. I mean, who needs batch scripting now? I can't wait to

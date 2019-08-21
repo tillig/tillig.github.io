@@ -20,7 +20,7 @@ Now, when you try that, you actually see the method outlined in the
 debugger so you get a visual cue about what you're doing:
 
 ![TypeMock outlines mocked methods in the
-debugger.](https://hyqi8g.dm2304.livefilestore.com/y2pvaIK9TlZeGFYZBKPsx0tRnaH6Atnhowx4vWdoeMMNcPwkcaIBjVPPxoE5mMWhwEpI_xxY4dEf74p39v3BGyl3CWMo2nTEjVMZaXUl5d-hzg/20080206typemockdebuggerhighlight.png?psid=1)
+debugger.]({{ site.url }}/images/20080206typemockdebuggerhighlight.png)
 
 Oh, and you know how you ran into trouble popping open the watch window,
 or QuickWatch, and evaluating a mocked call multiple times, causing mock

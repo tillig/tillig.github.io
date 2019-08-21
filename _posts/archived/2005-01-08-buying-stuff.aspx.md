@@ -35,7 +35,7 @@ Skin*](http://www.amazon.com/exec/obidos/ASIN/B0001UL7RY/mhsvortex).
 Both are excellent and have been rocking my iPod since.
 
  ![Scroll buttons and the Lappy, together at
-last.](https://hyqi8g.dm2304.livefilestore.com/y2pLwpPc2msiwWAPklusbYex80VjbDgBaHJF9DsV0VdWfk1_sZLrDJFdgkggn5xt5dMeU5WtSp1UHagQnglJ_qUQ4eakbK-kSrYj1dAgsqSxog/20050108sbdvd.gif?psid=1)I
+last.]({{ site.url }}/images/20050108sbdvd.gif)I
 had bought a shirt for Jenn for Christmas but I got her the wrong size,
 so I gave that one to my sister and Jenn decided she wanted a [The Cheat
 shirt](http://store.yahoo.com/homestarrunner/cheat.html) instead, so I

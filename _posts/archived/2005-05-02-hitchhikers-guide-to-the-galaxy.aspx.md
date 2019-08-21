@@ -7,7 +7,7 @@ disqus_identifier: 806
 tags: [media,movies]
 ---
 ![Hitchhiker's Guide To The
-Galaxy](https://hyqi8g.dm2301.livefilestore.com/y2p_fthzLgNS-gLwljW7WdZor9kp_D4ce54SY9QfAgq6ssnGINGzELTdVZ6gIaf8E67ICE8oV5d6bDqRfG3I4-yrVZectYEfZYHimaZ6iJHELg/20050502h2g2.jpg?psid=1)I
+Galaxy]({{ site.url }}/images/20050502h2g2.jpg)I
 hate book-to-film adaptations.
 
  I really do. The problem is that adapting a book to film implies that

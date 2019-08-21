@@ -10,7 +10,7 @@ Phoenix is not quite two, but in her words, "I big." She is starting to
 become very independent, or at least she tries to be.
 
 ![Phoenix in her Batman
-raincoat](https://hyqi8g.blu.livefilestore.com/y2pKYT914MBqgxV_lZrUadjf4UZ5K1UVoFK59FOlgYUvFkuVWHNyZnOk8iMaJaVKt4quTb4pJygf4dm52q5sfnapirR0Uzfvrt98d-9owS9MS4/20120824_batmancoat.jpg?psid=1)
+raincoat]({{ site.url }}/images/20120824_batmancoat.jpg)
 
 In some cases she doesn't even want you to read her a bedtime story.
 She'll do that herself. If you try to sit next to her or point things

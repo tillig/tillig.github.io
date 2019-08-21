@@ -23,7 +23,7 @@ level that looks impossible to traverse is actually pretty simple if you
 think in perspective. It's definitely worth the $10 I paid for it.
 
 ![Darth Vader in Soul Calibur
-IV](https://hyqi8g.dm2304.livefilestore.com/y2plF4TbWouXdHofGuKwQcY1tZ-S4jOHzfQmNOd3IiaOFh3YvhlkHSIGCUD67KigzS7tt3GDIfmzkXnvjZEyGSZd76oMALyUeAfLOOHoE_azok/20080804scvader.jpg?psid=1)The
+IV]({{ site.url }}/images/20080804scvader.jpg)The
 second game I got was *[Soul Calibur
 IV](http://www.amazon.com/gp/product/B000ZK7ZMQ?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000ZK7ZMQ)*.
 I debated whether I should get this on Xbox 360, where the "special

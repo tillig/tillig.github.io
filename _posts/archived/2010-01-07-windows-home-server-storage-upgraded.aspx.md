@@ -23,7 +23,7 @@ data.
 Post upgrade, I have **a total of 7.73TB in storage with 2.08TB free**.
 
 [![My WHS storage screen - click to
-enlarge.](https://hyqi8g.bl3302.livefilestore.com/y2pMQr2pyNZZWHYotLyosKGqHs4iQM2Lp2zZH2_su2baS6HaVpYtg5gh9JuJ9TNwPpCjeXN8YdZfcW-FSNGjGAtatvssgn8i79tMWiieTxyny8/20100104whsstorageexpan.png?psid=1 "My WHS storage screen - click to enlarge.")](https://hyqi8g.bl3302.livefilestore.com/y2pMQr2pyNZZWHYotLyosKGqHs4iQM2Lp2zZH2_su2baS6HaVpYtg5gh9JuJ9TNwPpCjeXN8YdZfcW-FSNGjGAtatvssgn8i79tMWiieTxyny8/20100104whsstorageexpan.png?psid=1)
+enlarge.]({{ site.url }}/images/20100104whsstorageexpan.png)
 
 Given that [I've figured DVD images run about 6.7GB
 each](/archive/2009/05/06/finished-ripping-movies.aspx), that gives me

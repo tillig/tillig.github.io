@@ -20,7 +20,7 @@ in action - if you see the picture in your RSS reader, you've got the
 cleaned up feed:
 
 ![My cat. If you see this picture in RSS, the UrlAbsolutifier is
-working.](https://hyqi8g.dm2302.livefilestore.com/y2p3RslmbwtdTfsQZgVwW2-NVWJg7F84q01A47LISYNS6O8lz8W-cllBc83aH-Rb8pbnw78LJGATnVqTKy7lTT7WhTyeZoJeecV-DFUBmgfm7Q/20071107urlabsolutifiertest.jpg?psid=1)
+working.]({{ site.url }}/images/20071107urlabsolutifiertest.jpg)
 
 If you don't see the picture in RSS, it's not working.  Should that be
 the case, please leave me a comment to that effect.

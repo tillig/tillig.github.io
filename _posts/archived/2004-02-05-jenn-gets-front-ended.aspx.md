@@ -54,19 +54,19 @@ plate and frame are now embedded in the bumper and there's quite a gouge
 out of the bumper just to the side of the plate.
 
  ![Side
-View](https://hyqi8g.blu.livefilestore.com/y2p1qT9bTEGLl3-INqL0BJ4bWKyO1rF8QGP0C6hm43LAI0leXFjTW0Xkdc0jS3jvzkNguqrEe6lHGd9Bp46UnuhngLxTtp7FtdAml1A0YmBFc0/20040205jennbumper1.jpg?psid=1)
+View]({{ site.url }}/images/20040205jennbumper1.jpg)
 
  Here's a better look at that gouge.
 
  ![The
-Gouge](https://hyqi8g.blu.livefilestore.com/y2pch7nMGdr4GfWIu-ZeWSlIq2c_yZSDAPkY6chjDF97tS_tDUjArFPyQuvDDhwOl0i2LqbB3j6qDu3E8R83CWoje0iNnV1ksE9TU-7tLY38tY/20040205jennbumper2.jpg?psid=1)
+Gouge]({{ site.url }}/images/20040205jennbumper2.jpg)
 
  And a top view of the plate so you can see how messed up it is. Jenn
 hasn't even had her first oil change in that car - the plate used to be
 *brand new*.
 
  ![Top
-View](https://hyqi8g.blu.livefilestore.com/y2pgoLM5XnJA1e87RrEnJHBg-ODc4dFYHdlifx8PsMsItXmEy8flpuJowV8fMzMVhR-5VGEPR886hDgp-pVG50KeQfF0FzL11Y50Wl1UNu_m2M/20040205jennbumper3.jpg?psid=1)
+View]({{ site.url }}/images/20040205jennbumper3.jpg)
 
  Jenn has since left a message with the lady (we actually did get her
 real phone number) and is asking for revised insurance info. Otherwise,

@@ -17,7 +17,7 @@ foot across the parking lot, I come home all the time to find things
 like this going on:
 
 ![Parked in the fire lane... (7k
-image)](https://hyqi8g.blu.livefilestore.com/y2pjApWMWo34oEF0O7LyHqths8-03yJXVvdFV4CdgzSjSkLV8EKuyTmk2RJbCQaaXSTCAWWUotJ4e-RuMgE8zxI1VpKqzf2_PPtohXyLd7UatE/20030825firelane1.jpg?psid=1)
+image)]({{ site.url }}/images/20030825firelane1.jpg)
 
 
  What? What is this going on here? Look closely, and you can see it -
@@ -29,7 +29,7 @@ complex.
  Let's get a closer look, shall we?
 
 ![Yes, that's definitely the fire lane. (18k
-image)](https://hyqi8g.blu.livefilestore.com/y2p-jw4bnqie0iRsyazlgpafPxk1SeiPNV6jF7dsRW6q0jcf7tPrR84ImMOaAmft7f3JtIPT-BFj6CkrpMTScTCYETmC53THUiagRYoN4Y7eP4/20030825firelane2.jpg?psid=1)
+image)]({{ site.url }}/images/20030825firelane2.jpg)
 
 
  That's what I thought. Old people who shouldn't be driving, parking

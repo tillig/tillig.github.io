@@ -21,7 +21,7 @@ And very hard to figure out all the steps needed to get JSHint up and running pr
 
 Now when you open a JavaScript file, you’ll see highlighting on lines with problems. JSHint runs in the background and updates the highlighting with problem lines. To figure out the problem, put your cursor on the line and look in the status bar at the bottom of Sublime Text.
 
-![Sublime Linter](https://hyqi8g.bl3301.livefilestore.com/y2pvThZ8_5Hun4et96P5G0rIeCskH5cs-xxwMamVppulAtMyRiXs-GKuOK1xwRMsFZ_QjfBjwCmRgOVPJY-jzRcx-cAHv1SpQy1FYb3Nt3uvBE/20130212_sublimelinter.png?psid=1)
+![Sublime Linter]({{ site.url }}/images/20130212_sublimelinter.png)
 
 For JSHint options, I’m using [the same ones as jQuery](http://https://github.com/jquery/jquery/blob/master/src/.jshintrc). My user SublimeLinter.sublime-settings is below.
 

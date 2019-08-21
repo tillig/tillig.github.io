@@ -25,7 +25,7 @@ The UI enhancements are immediately apparent when you fire up the
 application.
 
 [![NDepend 5 startup
-screen](https://hyqi8g.dm2302.livefilestore.com/y2pr8_CCowMrNMQF35hNOuB-tS6JYnWcorBLhPrRMvCP9qXDEf-tl6Lq7jdfEAw3LWiBRm8I-98cyX39o0PR3EGwri0TDMqeT21yp2rOiKR2ZA/20131028_loadscreen_sm.png?psid=1)](http://sdrv.ms/1aC6H0V)
+screen]({{ site.url }}/images/20131028_loadscreen_sm.png)](http://sdrv.ms/1aC6H0V)
 
 Everything is a lot cleaner and more modern feeling. You don’t realize
 how much of an impact that has on it until you’re actually using it.
@@ -47,7 +47,7 @@ that in a visual format. (My screen shot below doesn’t show trends
 because I only ran it once but you see where they’d go and so on.)
 
 [![The new NDepend dashboard screen with trend
-graphs](https://hyqi8g.dm2301.livefilestore.com/y2pftnJPO-2963jkS0NJ3CLjibx0tNKqWQeY4sDYmbw6LRiRIeoIdIFtXhQZcjr3qUZvubtHYec7HrcwF-j9NyO2hapBAjvqSFAFtinrA2J1lw/20131028_dashboard_sm.png?psid=1)](http://sdrv.ms/1dERNdd)
+graphs]({{ site.url }}/images/20131028_dashboard_sm.png)](http://sdrv.ms/1dERNdd)
 
 You can customize that dashboard to your heart’s content – every graph
 has a little set of editing buttons that let you customize and the
@@ -58,13 +58,13 @@ of detail, but the presentation is such that it’s not all on One
 Gigantic Page.
 
 [![HTML report from
-NDepend](https://hyqi8g.dm2302.livefilestore.com/y2p_fJiROSc-HnB_432R1R7OR4YZ4pG0rnsmZuswHR34yhPBxk8jbxRPg7FIZUiyOTIIb5LV98IQjt0mUXICVz_h8UFo5SYtUoQdwwvVca0u8Y/20131028_report1_sm.png?psid=1)](http://sdrv.ms/18vKxIG)
+NDepend]({{ site.url }}/images/20131028_report1_sm.png)](http://sdrv.ms/18vKxIG)
 
 The navigation menu on the side slides out when you mouseover and that’s
 how you get to the detailed info.
 
 ![NDepend report
-menu](https://hyqi8g.dm1.livefilestore.com/y2pbh0JIKJxRha0fQw9n2i5phqjqZgu8EFFWueEr1O6_OnH7L4ePJehCxFiQGO0KtICagBWjPQunAS8ofSMfFmaz7bw-UApE07Sc77iWjexTF8/20131028_report2.png?psid=1)
+menu]({{ site.url }}/images/20131028_report2.png)
 
 One really cool internal enhancement is that you can define what
 `JustMyCode` means so your queries over `JustMyCode` are more precise.

@@ -61,7 +61,7 @@ after I hung up with her since I've heard some of my friends having
 mechanical trouble with their 360s, too. Time to get extra coverage.)
 
  ![A cake so big it's
-'ricakeulous.'](https://hyqi8g.dm2303.livefilestore.com/y2pqFm9EDwFsD9rmliTfu-fen_wKHtagNGHrZWWXcehSUpKRLawipIZn3rHs5de9KEwcFPjTeQa6LZ338INfKzqBshf1dToFBpetu__7TpYBsU/20060724ricakeulous.jpg?psid=1)Sunday
+'ricakeulous.']({{ site.url }}/images/20060724ricakeulous.jpg)Sunday
 we woke up late, cleaned up a bit around the house, then went to the
 store and got some stuff for an afternoon barbecue. We also went to
 [Rose's Restaurant and Bakery](http://www.rosesrestaurant.net/) and

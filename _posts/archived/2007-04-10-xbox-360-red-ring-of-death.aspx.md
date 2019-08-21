@@ -7,7 +7,7 @@ disqus_identifier: 1178
 tags: [gaming,xbox]
 ---
 ![Xbox 360 General Hardware
-Failure](https://hyqi8g.dm2302.livefilestore.com/y2pycgazfc2MAFw1JpXCAHm-zN6acIZ3sJcuSMX6-sQX4G5k2ImHEIxZ0DGoTmNd3YlPywEjknDHTCRHNclFIcv8ixhZ7Nut5dwf_j6F6qPw6s/20070410ringofdeath.jpg?psid=1)Sonofa*bitch*.
+Failure]({{ site.url }}/images/20070410ringofdeath.jpg)Sonofa*bitch*.
 
  There I was, playing a little *Marvel: Ultimate Alliance*, when the
 Xbox locked up on me while loading the next level. It's happened before,

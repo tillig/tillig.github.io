@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 841
 tags: [media,tv]
 ---
-[![Wonderfalls](https://hyqi8g.dm2304.livefilestore.com/y2prYcIa0PFL0Jo-GXjVGkqx-TPwhbJLXTorhjQRKtNR8VH8h2Ghmpje4YrIPzbl5rezRrcuBWEB--SO0N0UWgm2LgM3GiPQupuqnMKa_OG75Y/20050616wonderfalls.jpg?psid=1)](http://www.amazon.com/exec/obidos/ASIN/B0006GAO18/mhsvortex)I
+[![Wonderfalls]({{ site.url }}/images/20050616wonderfalls.jpg)](http://www.amazon.com/exec/obidos/ASIN/B0006GAO18/mhsvortex)I
 mentioned that we were watching
 [*Wonderfalls*](http://www.amazon.com/exec/obidos/ASIN/B0006GAO18/mhsvortex)
 lately. We finished last night with the last episode, and I feel like I

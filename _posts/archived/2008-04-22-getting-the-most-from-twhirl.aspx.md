@@ -99,7 +99,7 @@ issues:
 My custom scheme looks like this:
 
 ![Illig custom twhirl color
-scheme](https://hyqi8g.dm2303.livefilestore.com/y2pjoYBrrl96bTYwKkELrFhq9nwYNud-1d2CFvTk8oAg1tcMVSuxT590LOMUkyj172PcRviKqtLz0ADYc_HhSbiflQDimweBucPPebBj8BfBBc/20080422twhirlcolors.jpg?psid=1)
+scheme]({{ site.url }}/images/20080422twhirlcolors.jpg)
 
 And you can [download it here if you
 like](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45421&authkey=!AIUMb0g19mBkxs0&ithint=file%2czip).

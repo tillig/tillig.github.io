@@ -51,7 +51,7 @@ self-contained.
 what I came out with:
 
  ![LW-Works Clipboard
-Recorder](https://hyqi8g.dm2301.livefilestore.com/y2pDfFK0wGX7ubZcZ88S3WdajBxmRNZFUm-JOUlPJPNLKUzH8wezXTbPtRjo21tD3RFyt-H6I0leL9vQJY0m6JXJELjIfw4evnAPQEMG4Xbi18/20070124lwworks.png?psid=1)[**LW-Works
+Recorder]({{ site.url }}/images/20070124lwworks.png)[**LW-Works
 Clipboard Recorder**](http://www.lw-works.com/clipboard-recorder): This
 is the one I'm currently using. There are two "views" for it - this
 little floating window (pictured) and a larger window that allows you to
@@ -74,7 +74,7 @@ version adds the ability to have multiple clipboard lists, save lists
 for later retrieval, send clipboard items to another computer, and paste
 multiple items at the same time to an application.
 
-![Clipboard.NET](https://hyqi8g.dm1.livefilestore.com/y2pO7uiMrLzQo0wEssxYvtLmzRzc5VeH8DYqrXbci7ThmOBEPZaK2hBdksCxbZx89nV24e8gGumIkUnXwMde-FgsH0epjFi5uqymrp8TvQed7A/20070124clipmon32.png?psid=1)[**Clipboard.NET**](https://clipmon32.bountysource.com/):
+![Clipboard.NET]({{ site.url }}/images/20070124clipmon32.png)[**Clipboard.NET**](https://clipmon32.bountysource.com/):
 This is an open source project that is fairly young but is shaping up to
 have some nice features. The notion of having a plug-in framework for
 the clipboard monitor is appealing to me, and this has that. Several of
@@ -85,13 +85,13 @@ are a lot of options that could be added as well. Unfortunately, I spoke
 to the author and he doesn't have much time to dedicate to this lately,
 so unless someone else steps up, we may not see this come to fruition.
 
-![Ditto](https://hyqi8g.dm2302.livefilestore.com/y2pvRmH1HlvJdTdYq42gbTAY6KLUecPdvTqeKYe3-hRq8Bi9hXzLSlPXHTLbJ5b3sT4CfXl24SYBdX8GSoYtRz2EdWccVOTses8sRnxmH1wRJQ/20070124ditto.png?psid=1)[**Ditto**](http://ditto-cp.sourceforge.net/):
+![Ditto]({{ site.url }}/images/20070124ditto.png)[**Ditto**](http://ditto-cp.sourceforge.net/):
 This is a pretty popular open source project that has a lot of features.
 Too many features, in fact. So many, I almost can't even tell you what
 the thing can do. I mean... well, let me show you, rather than tell
 you:
  ![Ditto
-Options](https://hyqi8g.dm2304.livefilestore.com/y2paFIJG-audbXKZOVTVkz9uFpsHEX_SJNsAANzqYssQoh-Q-x2UKcC5PtMRtVTtfGtVeOhWRE0p2wSfNKE6JKsxY4VO_htpYmQZz4hwoxC76s/20070124ditto_options.png?psid=1)
+Options]({{ site.url }}/images/20070124ditto_options.png)
  Notice how there are six tabs' worth of options? Each tab has the
 bajillion options on it that you see here. The working of the
 application is about this complex. Maybe it's just me - I bet this thing

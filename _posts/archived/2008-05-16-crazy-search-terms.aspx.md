@@ -27,7 +27,7 @@ phrase](http://www.google.com/search?q=you+don%27t+have+to+be+rich+to+be+my+girl
 I'm currently the \#1 result:
 
 ![Google results for "you don't have to be rich to be my
-girl"](https://hyqi8g.dm2301.livefilestore.com/y2pdAHFAIGjvRKMK5b8VaASCMT-sI2hKW1xQZkicE1nhevUtMU3Kw7fNqOf-eUJmuRoqiQU-lC8HCoRlj4YcarJNfvh12McWokiFcCshwb9iDQ/20080516rich.jpg?psid=1)
+girl"]({{ site.url }}/images/20080516rich.jpg)
 
 What are the crazy search terms that bring people to your site?
 

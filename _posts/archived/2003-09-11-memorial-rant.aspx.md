@@ -34,14 +34,14 @@ little pre-birthday mystery to the gifts. Imagine my surprise, then,
 when I see this (which Jenn has pulled in from the doorstep):
 
  ![Amazon - So discreet! (6k
-image)](https://hyqi8g.blu.livefilestore.com/y2pM5JvZr3Mxrzfd147N8rtN-ogNd4yIqbDe6Q2IRH0gMIQSsr4T7PqPAjQS-M1016pImBqyXV_BVHGL_bX6uwr0LvuUJidKMQ85-M6YbtCfQc/20030911amazonmorons.jpg?psid=1)
+image)]({{ site.url }}/images/20030911amazonmorons.jpg)
 
  Hey, Amazon! Thanks! I wonder what's in *that* box?!
 
  Morons.
 
  ![Misappropriation of resources? (6k
-image)](https://hyqi8g.blu.livefilestore.com/y2pxeg0U8Oh-X5YjLxTTuv1X_SEl9D7hxS0CfM9nwwDJdtRZ7UPEyQpwMaYdrhSIV2hMhyiMV01O1fi_llCEMWrRtA3qhTiIS_D6xuUFOipPZk/20030911washingtoncop.jpg?psid=1)On
+image)]({{ site.url }}/images/20030911washingtoncop.jpg)On
 my way home from work yesterday I noticed a cop in front of me in an
 unfamiliar car. On closer inspection, it was a *Washington* cop. What
 are Washington cops doing patrolling 20 minutes south of the border? Or

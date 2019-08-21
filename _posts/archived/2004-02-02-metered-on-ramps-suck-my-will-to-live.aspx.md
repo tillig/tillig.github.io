@@ -15,7 +15,7 @@ work from there. You know - beat the traffic, so to speak.
  Imagine my surprise to get into *this*:
 
  ![Sitting... waiting... and it's only
-2pm!](https://hyqi8g.blu.livefilestore.com/y2py4BCe9y86lYG4XokrerGmZdck9J-mzSXvQomOYscwAUDI8o3hN_Uw1v4eSMsiCF1xXgRrJE9zXpXMC96HFrVRSxVhgKzcPdQaXsebGJ8YuI/20040202sit_and_wait.jpg?psid=1)
+2pm!]({{ site.url }}/images/20040202sit_and_wait.jpg)
 
  *What the hell is going on here?*
 
@@ -23,7 +23,7 @@ work from there. You know - beat the traffic, so to speak.
 equally backed up:
 
  ![Continue to
-merge...](https://hyqi8g.blu.livefilestore.com/y2pUsXj2w4c6aOKBZg2MDw6nWKCubuWgC0Lot14fNQ493Zc_hWQ7zfGtLfsllVjtIHDL6ITa8SvPy_RhpbBaN6S86cEE6XDBnE7-lbon2BLIo0/20040202traffic_backup.jpg?psid=1)
+merge...]({{ site.url }}/images/20040202traffic_backup.jpg)
 
  And when I finally got to the head of this thing, what was it? A wreck?
 A death?
@@ -31,7 +31,7 @@ A death?
  No, *something much more insidious still*:
 
  ![Ramp Signal
-On](https://hyqi8g.blu.livefilestore.com/y2p1sW6Kpg_4ZeTv60IpvIdRyH0r01YgSFk3vp_TAtjMl5T46RaxazahzF05FM-0_qQu_RUlmeIM8S-t5hJfKFzmBPnSaUlkamYdb0VXU4T86I/20040202ramp_signal.jpg?psid=1)
+On]({{ site.url }}/images/20040202ramp_signal.jpg)
 
  *A metered on-ramp.*
 

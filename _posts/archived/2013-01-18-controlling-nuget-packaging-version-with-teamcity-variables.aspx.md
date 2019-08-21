@@ -35,7 +35,7 @@ define a “System Property” with your calculated NuGet package semantic
 version. I called mine “CalculatedSemanticVersion” so it ends up showing
 in the TeamCity UI as “system.CalculatedSemanticVersion” like this:
 
-![system.CalculatedSemanticVersion = 0.0.0](https://hyqi8g.bl3301.livefilestore.com/y2pFeg7An8kClAI_VWKJNDJ4SYJzPdeeUmPufvsU38-zu8b72Rp5qP2YR_3DoSefJCoF5FIaPL_qjIQToo1aE2nLlbYZx_GXsGxLqxq6mFWiA8/20130118_systemproperty.png?psid=1)
+![system.CalculatedSemanticVersion = 0.0.0]({{ site.url }}/images/20130118_systemproperty.png)
 Set it to some simple, default value. It won’t stay that value so it
 doesn’t matter; it’s more for when you come back later and look at your
 configuration – this way it’ll make a little more sense.
@@ -44,7 +44,7 @@ configuration – this way it’ll make a little more sense.
 “system.CalculatedSemanticVersion” property as the NuGet package version
 you’re building.
 
-![On the NuGet Pack step use the new version variable.](https://hyqi8g.bl3302.livefilestore.com/y2pRui-FHnBIFxxD31O_5-C8SRIYlT8UYi6TG7UBSyy6xwL-wOmJdjGshYff0bTb7hVB39-bvJgGoshBOHT-ckdIozRWOLPIAy7D7jeDLkM-6w/20130118_nugetpackstep.png?psid=1)
+![On the NuGet Pack step use the new version variable.]({{ site.url }}/images/20130118_nugetpackstep.png)
 
 **Finally, insert a build script step before all of your NuGet Pack
 steps.** In that build script step, calculate the version you really

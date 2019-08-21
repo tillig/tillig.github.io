@@ -62,7 +62,7 @@ Once you have the shares configured, you'll see them in the CrashPlan
 app on the "Backup" tab listed in the "Files" section.
 
 ![CrashPlan Backup tab showing files to back
-up.](https://hyqi8g.bl3301.livefilestore.com/y2phxJDKmMePEvDTJvlHDBJaBKbW8-2i3SW0LLYRn0GbYgGQ-4eWd0GBabtAA0HxuXb42BrX6jL0tRfr_kLFPgAiuMtF7DshphlqMJOxGdk09o/20110708crashplanbackup.png?psid=1)
+up.]({{ site.url }}/images/20110708crashplanbackup.png)
 
 **Next, attach your USB drive to the WHS. Make sure you don't add it to
 the storage pool or set it up as a server backup.** You want it
@@ -85,7 +85,7 @@ drive and plug it in elsewhere and copy/paste stuff off of it. You will
 have to restore through the CrashPlan app.
 
 ![CrashPlan Destinations showing my local folder as a
-destination.](https://hyqi8g.bl3301.livefilestore.com/y2pbRXydjGCg6HjOTLGNCblEGB0uU13DkhxHR91tAgz9fphUiMb6_6RCK4goFwr_gXPcDTOWFcKvNYWUaKw8IqN5vffe4arLWq26Go6dhSIgP0/20110708crashplandestin.png?psid=1)
+destination.]({{ site.url }}/images/20110708crashplandestin.png)
 
 **Now, still under "Destinations," click "Online."** Make sure you've
 got "CrashPlan Central" listed and going. It should already be there,
@@ -98,7 +98,7 @@ MozyHome never did. The buttons for that are at the bottom under "Backup
 Status and Alerts" on the "General" tab.
 
 ![My alert
-settings.](https://hyqi8g.bl3301.livefilestore.com/y2pS6yGZJJXHukAvRcc6lGY-YRjiaS3taP6K-Tu0a3J_Nviry2zOEAaVCseUloKLUcB8ZxAAj-NLIV4-ifNY05vbSHL5WJ9HVBonx-xIwTucmU/20110708crashplansettin.png?psid=1)
+settings.]({{ site.url }}/images/20110708crashplansettin.png)
 
 **Finally, still in Settings, select the "Backup" tab and configure how
 many revisions of each file to keep in your backup archive.** Do this by
@@ -139,7 +139,7 @@ the top, grayed out since my backup is complete.)
 "Restore" tab in the CrashPlan app:
 
 ![CrashPlan restore
-tab.](https://hyqi8g.bl3301.livefilestore.com/y2pPm9ymQXOB3NStozKb1GxzjS-LI2TxmufSIpFIBHup81bd6qOqevOZ7Lu7qX1bYOZ8S06yfXzHwB56P18J-IVrDVKAb38_FReX1zaXf4_bBM/20110708crashplanrestor.png?psid=1)
+tab.]({{ site.url }}/images/20110708crashplanrestor.png)
 
 The links at the bottom there allow you to change which version of the
 files you want to restore, where they get restored to, and what happens

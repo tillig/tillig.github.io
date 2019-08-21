@@ -13,23 +13,23 @@ Luckily, you can change the port your VM uses for Terminal Services. Knowing I w
 
 First, open up the VM in the Azure Portal and click the "Settings" button.
 
-![Click the Settings button on the VM](https://hyqi8g.dm2302.livefilestore.com/y2p9LGKSacOK8Ki8GUvZU2u7Vk2TfTUXotbudx6XcwjYNIShDbcZOVDnJjx-QwfGLZ5NIbSQ8_mAAKZN7YaQVj0zurd3ta65LhAEDVoCA8LIEI/20141112_vmmain.png?psid=1)
+![Click the Settings button on the VM]({{ site.url }}/images/20141112_vmmain.png)
 
 Now click the "Endpoints" entry on the list of settings.
 
-![Click Endpoints in the settings menu](https://hyqi8g.dm2302.livefilestore.com/y2p2d5LE5VZCdMRQrDlCvXeEnjypuSpP9Tl3JL5EwrTBLQ6g4xVNT1CHHxj3UA5pY6sFsR8QRLWV0Na1jZ0yn2BPt6VMzLIeXbIqRDjrPnWDw0/20141112_vmsettings.png?psid=1)
+![Click Endpoints in the settings menu]({{ site.url }}/images/20141112_vmsettings.png)
 
 We want the public port for Terminal Services to be port 80. Click the Terminal Services entry to edit it.
 
-![We want TS on port 80](https://hyqi8g.dm2302.livefilestore.com/y2pPSzf9czWE9XAmmiXuRVOXNDW1jOH7A6hstd9cjeYw1Ojd5qkwECiyuxrtNuqyjIok6ux8U-YPOiE6wAkjWxC0IYNXyMSTAFSIo3_umEz0CQ/20141112_vmendpoints.png?psid=1)
+![We want TS on port 80]({{ site.url }}/images/20141112_vmendpoints.png)
 
 Update the public port to 80 and click the Save button at the top.
 
-![Update the public port to 80](https://hyqi8g.dm2302.livefilestore.com/y2piD3d38m-CVs_T27f2_YRWmrdrHbktdK-cyeQHAwycMR03oq7xOqARpJfOCT2YzpBvZKELVxpRPxfAq-d5ESTpXkSlvOV-2vdRQmNt0vBdqE/20141112_vmendpointedit.png?psid=1)
+![Update the public port to 80]({{ site.url }}/images/20141112_vmendpointedit.png)
 
 Now go back to the main VM dashboard and click the "Connect" button.
 
-![Click the Connect button](https://hyqi8g.dm2302.livefilestore.com/y2pqggLjvtJOpy5nA-dAvEkgLpUZVDtK0zda10baDwM0xJXyxjKSwWAgrTuNSbeiLzpUBl3d78u30YN47QuzgF68n0LnqM4wYO-2sgsTVXkiys/20141112_vmconnect.png?psid=1)
+![Click the Connect button]({{ site.url }}/images/20141112_vmconnect.png)
 
 A small <code>.rdp</code> file will download. If you open it in a text editor it will look like this:
 

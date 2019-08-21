@@ -31,7 +31,7 @@ cartoons](http://www.amazon.com/gp/product/B000W2C28Y/ref=as_li_ss_tl?ie=UTF8&ta
 How can you have the Super Friends without the Hall of Justice?
 
 ![The cartoon Hall of
-Justice](https://hyqi8g.blu.livefilestore.com/y2pTyXU2W2t3OJ5_60JsAo5BGrLYOHn9mkautlniscc-F4JBtZHVfBpADJQvhWJTt74bVfgdaTIu2LdVWr9K-Sx5WIk1EAw12_u09VT62NUr1c/20120422_cartoonhall.jpg?psid=1)
+Justice]({{ site.url }}/images/20120422_cartoonhall.jpg)
 
 So I took a cardboard box, went to the craft store and picked up some
 supplies... and I present to you: The Little People Hall of Justice!

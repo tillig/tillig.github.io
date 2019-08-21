@@ -7,7 +7,7 @@ disqus_identifier: 1251
 tags: [media,music,home,cats]
 ---
 ![Jack and Xev are friends, aren't
-they?](https://hyqi8g.dm2301.livefilestore.com/y2p-2UjWg-YCsoL1nOnihhlREHHPIxNv4ISS77erCNxbULxIfD7sKKlY9Fl7H4eefxdKMZiGGM8m31FrFP3yqHmtACS8ySs6Yw85awpRShKiY0/20070807catfriends.jpg?psid=1)I
+they?]({{ site.url }}/images/20070807catfriends.jpg)I
 love my two cats, but the little Siamese-tabby mix Jack is pretty
 aggressive and he's been chasing my other cat Xev around a lot,
 particularly in the last, oh, month or so.
@@ -27,7 +27,7 @@ cubes has been knocked over and the two cubes that make up the speaker
 *have come apart from each other* at the part where they swivel.
 
 ![The cubes are broken apart where they
-swivel.](https://hyqi8g.dm2301.livefilestore.com/y2pGpvECRdtv8hI9kJG2r_2F_2Umb4brAzcbRZW_P1Fti6smgqf26TZl8ckRdbYx4JWrO0Q8CDsMdvfvra_c3GcW51HfPFzd9eEo7IqcOeJ948/20070807brokenspeaker.jpg?psid=1)
+swivel.]({{ site.url }}/images/20070807brokenspeaker.jpg)
 
 Looking at the mechanism that was exposed, it looks like the thing
 literally just snaps together.  Unfortunately, the way it snaps together

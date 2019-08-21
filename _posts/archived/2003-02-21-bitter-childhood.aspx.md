@@ -7,7 +7,7 @@ disqus_identifier: 220
 tags: [toys]
 ---
 ![Silver Pez Gun (8k
-image)](https://hyqi8g.blu.livefilestore.com/y2pBMT-Ia2dhpm2hGTnVzhqU6WA1mQ1dX89rKwIpzYjTrkIdnMZn6h0-mfZeDJRmYulRC_PUZfwra2ORhyjyYcpP-u2qVgzpremm5WjWGc_9uI/20030221pezgun.jpg?psid=1)[I
+image)]({{ site.url }}/images/20030221pezgun.jpg)[I
 have written
 before](/archive/2002/03/18/were-going-to-need-bigger-guns.aspx) about
 my parents selling my toys out from under me at garage sales when I was

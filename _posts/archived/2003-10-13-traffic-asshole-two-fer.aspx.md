@@ -13,7 +13,7 @@ exit to get home there was quite the backup. Turns out there was a car
 parked *diagonally* across the right-hand lane of the two-lane exit.
 
  ![Blocking the right lane (10k
-image)](https://hyqi8g.blu.livefilestore.com/y2pNarueZ-8oGF2OuJYXFzJIZfi74Vxe2wOdGxALvN51TXtRP2R0qece3iqdO8jGC5mOwt4VM9eRTm2Tgn1jBgAgogH0efc2DN_J7riQx1xXkQ/20031013taotw1.jpg?psid=1)
+image)]({{ site.url }}/images/20031013taotw1.jpg)
 
  Normally I might feel bad for the guy whose car this was, since a
 broken down car is not fun. But then I thought, "You know, a nice person
@@ -28,7 +28,7 @@ more frustrating) came along. But something did.
 *again!* What could it be this time?
 
  ![Blocking the left lane (6k
-image)](https://hyqi8g.blu.livefilestore.com/y2pd3WfAU8blV7WbsAj34fO4-ma6VmJBuv3WR8Uj-yShhn3sXPESc4qixDVo7QhtQJX13YNFnZKLXPz1VN-lV1jcu-IS6cOgCtYSmMA6G-oiWc/20031013taotw2.jpg?psid=1)
+image)]({{ site.url }}/images/20031013taotw2.jpg)
 
  Oh, look, *there's a bus blocking the left lane*. Not even a full bus,
 either - one of those retard busses that only show up if you schedule

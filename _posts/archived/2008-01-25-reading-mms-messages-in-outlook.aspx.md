@@ -19,7 +19,7 @@ I immediately took a picture and sent it to myself. But I noticed that
 Outlook displays the message like this:
 
 ![Each piece of the MMS message is an
-attachment.](https://hyqi8g.dm2302.livefilestore.com/y2pLq_x5adCGFMd-piVw4CGRS7qHssT-uc4eCdTwy5RS_AzoUUnn-il0XMTRv7ychpZKKD4OC7KKTBKYG8eAtLM4KiPqmoWFsds_wBtddBFwLE/20080125mmsdisplay1.png?psid=1)
+attachment.]({{ site.url }}/images/20080125mmsdisplay1.png)
 
 Each piece of the MMS message appears as an attachment. (I tried sending
 a mixed text/picture message and got two attachments - one for the

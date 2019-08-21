@@ -62,8 +62,8 @@ Not Disturb" because you're trying to get stuff done.
 
 | Status | Windows Live Communicator | Google Talk |
 | --- | --- | --- |
-| DO talk to me - I'm available | ![Windows Live Communicator online status indicators](https://hyqi8g.dm2302.livefilestore.com/y2pdg4D-kR1VgJyRdApkbgBCR140UQ0sRcnKVVkS9d3VB_jwMLk_NQVsux0ssprq-F2NTUF-o2u1AMsOR7X2JwYeYxt-i_08uMzBkL7W3kXWG8/20070130wlc_online_status.jpg?psid=1) | ![Google Talk online status indicators](https://hyqi8g.dm1.livefilestore.com/y2pBVqO-JPcunSWr9xiEXBU7wkD3hm6sXWrNnCBvbf00c9upVoL9MBVMDebhCsVSNMo-6GF4bOttexbY14R3rfHeLo7nLktTE1IZS07kvZjKBg/20070130gt_online_status.jpg?psid=1) |
-| DON'T talk to me unless it's super important | ![Windows Live Communicator busy status indicators](https://hyqi8g.dm2301.livefilestore.com/y2p-pJCVSfLw9zueacKOtgnrI4D19IJNT2k9aTKxstzct6V_pcMC1lH-_2fs2xisUe_zB217jVKwhqOr1_ChmEtcCa66ma9BqyNWEO2vYg4uxw/20070130wlc_busy_status.jpg?psid=1) | ![Google Talk busy status indicators](https://hyqi8g.dm2301.livefilestore.com/y2pP-VtWfHuQoappd9HrYRqpUEo1m9MPGVBlI-3jiGQfHEcGNnEMeQteLbs3mmMyPxdjxTwot2dCjlPx6iKxfXdhyhArIaHwDS0MVYQqrWbZZs/20070130gt_busy_status.jpg?psid=1) |
+| DO talk to me - I'm available | ![Windows Live Communicator online status indicators]({{ site.url }}/images/20070130gt_online_status.jpg) |
+| DON'T talk to me unless it's super important | ![Windows Live Communicator busy status indicators]({{ site.url }}/images/20070130gt_busy_status.jpg) |
 
  Yeah, this makes me look like a big dumb antisocial jerk, and I guess
 I'm going to have to live with that. But when I'm at work, I'm generally

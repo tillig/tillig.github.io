@@ -29,7 +29,7 @@ when you override the addition operator, the compiler generates a static
 the System.Decimal class:
 
  ![System.Decimal supports the Add
-method.](https://hyqi8g.dm2303.livefilestore.com/y2priOyuwCGkcEc5OEV2UFh_qytRwBbirJug66y5RV7Lx46g3God90YK8GIFvnulS3SARmke3wBzFw82dAyvH4HBVBz0vJqHJaCo7VmuRo8W4E/20070524decimaladd.png?psid=1)
+method.]({{ site.url }}/images/20070524decimaladd.png)
 
  Notice there's a static method called "Add" that takes in two
 System.Decimal objects and returns a System.Decimal object. That's what
@@ -45,7 +45,7 @@ for every subsequent data item being added.
 types. For example, there's no "Add" method for System.Int32:
 
  ![System.Int32 has no Add
-method.](https://hyqi8g.dm1.livefilestore.com/y2pnPDAqbX_IDft2qOQRS1yJZvowCRBN9lEGol69pWfIA984qsM0JY_gPne_HZv2781XC88JzgVQdF9kNHnWKI49xgCcfV66P_vq47cwKPZCLg/20070524intnoadd.png?psid=1)
+method.]({{ site.url }}/images/20070524intnoadd.png)
 
  So that idea won't work.
 

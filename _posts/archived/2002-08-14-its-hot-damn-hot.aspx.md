@@ -36,7 +36,7 @@ see if I react badly to them. If not, I'm good to go and I can start
 taking the shots weekly at a clinic much closer to my work. Excellent.
 
  ![Kelly
-Clarkson](https://hyqi8g.dm2302.livefilestore.com/y2pMAJ767kX7z2RsumKKFEiWBGIR7nGz1AJNg200Cltw3e5JZhfKLdONb7tRA-IX7VxAOUmqqCmzMTQGb3XP4_Q3EjKkMnL3Z_szkIVN_Z5sIA/20020814kellyclarkson.jpg?psid=1)I
+Clarkson]({{ site.url }}/images/20020814kellyclarkson.jpg)I
 watched [*American Idol*](http://idolonfox.msn.com/) last night and I
 must admit my [opinion](/archive/2002/07/17/american-idiots.aspx) has
 changed as to who my favorite is. Up until fairly recently, I was a huge
@@ -55,7 +55,7 @@ her performance during the "Big Band" show, singing "Stuff Like That
 There," I was converted. That girl can sing.
 
  I've also changed my opinion of the [stupid
-hosts](https://hyqi8g.dm2302.livefilestore.com/y2p6NLqzSO4LBRmVp-6DCOmI_Yim5hSIw1KBFM9p8k3U5Pi3WgFUR-YcRFogzbFVMBtJOO0hnf7i-CXRyHhwyy9N-WvX3nUG--PDK9essl6if4/20020814stupidhosts.jpg?psid=1)
+hosts]({{ site.url }}/images/20020814stupidhosts.jpg)
 on the show. Not only do I really hate them, I hate them so much that I
 am starting to hate *myself* for putting up with them. I can't imagine,
 right now, anyone I really hate more than them. Maybe Bin Laden.

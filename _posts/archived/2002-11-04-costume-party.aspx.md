@@ -7,7 +7,7 @@ disqus_identifier: 159
 tags: [personal]
 ---
 [![Alias
-poster](https://hyqi8g.dm2302.livefilestore.com/y2pOz6KOxtq824bFutVoB79GpqjsAexnOph97M29Mq-_GG9EHaHALqxXrs8U1y9Op25hh8bgdWZk223UF7OQbqT1fhoy9J31Egt-Az_rLKJ71A/20021104aliasposter.jpg?psid=1)](http://www.ricksmovie.com/alai01-901_a1000-page.html)Okay,
+poster]({{ site.url }}/images/20021104aliasposter.jpg)](http://www.ricksmovie.com/alai01-901_a1000-page.html)Okay,
 before I get into this weekend, let me state for the record that I found
 [another poster that I need to
 get](http://www.ricksmovie.com/alai01-901_a1000-page.html). I don't know

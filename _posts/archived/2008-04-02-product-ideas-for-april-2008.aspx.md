@@ -10,7 +10,7 @@ Okay, folks, here are your million-dollar product ideas for April 2008.
 If you implement these, remember to send me a t-shirt or something.
 
 ![Coffee should come in milk
-cartons.](https://hyqi8g.dm2303.livefilestore.com/y2poaa59SUvBKRkJN8uVILpb0fK_aayEkAMm_nn0JNUNS3dK8VOg_mer-vilTFmUdX53oC0OBSlLvT3ZZxJhFoP70sVXuYgFJgruKzWsoEyy8c/20080402carton.jpg?psid=1)**Coffee
+cartons.]({{ site.url }}/images/20080402carton.jpg)**Coffee
 should come in milk cartons.** I can't really remember the last time I
 actually measured coffee into the coffee maker. Once you've done it a
 couple of times, you know that a mound of coffee about *this big* is the

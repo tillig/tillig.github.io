@@ -38,7 +38,7 @@ walls, cut them out, and put them up. They looked awesome. See? I even
 took a picture:
 
 ![The start of my crown moulding
-project.](https://hyqi8g.blu.livefilestore.com/y2paOubWgfErglBtjXAhcMIzbqYDPsAxrR3JvYJbaENCgq6WIB1IOJtkHCOUs3k-m4bDfUC3ssVcC3vrdf0vfzuThB_QWth5WyIXM76BaSqSCI/20110418crownmoulding.jpg?psid=1)
+project.]({{ site.url }}/images/20110418crownmoulding.jpg)
 
 Nice crisp corners, all professional. I was stoked.
 

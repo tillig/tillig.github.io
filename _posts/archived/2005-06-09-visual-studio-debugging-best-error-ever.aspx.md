@@ -9,6 +9,6 @@ tags: [vs]
 This is probably the best error ever. Or... is it even an error?
 
  ![Cannot detach from one or more programs: The operation completed
-successfully.](https://hyqi8g.dm1.livefilestore.com/y2pNpKjQOdiT12x6n1nwo7R7T6evQxMdUhW_5D7IYUwrj-Pm7a4Ko7LrXtudpFebqAfDejiyl_zIbvd0g_B8ndzmHpwwyU8DCkUNeeAedI6s3Q/20050609vserror.jpg?psid=1)
+successfully.]({{ site.url }}/images/20050609vserror.jpg)
 
  That's great. Keep doing that.

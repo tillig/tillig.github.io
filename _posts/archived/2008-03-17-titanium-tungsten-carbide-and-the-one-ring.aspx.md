@@ -7,7 +7,7 @@ disqus_identifier: 1358
 tags: [General Ramblings]
 ---
 ![Titanium "One
-Ring"](https://hyqi8g.dm2303.livefilestore.com/y2pWiDR4mSpFBfmurgFzzStSQmLHSkvIIEzSFON6TSzroUGxUiPKI-4A4qv3FOS7uZMK3AwcmdmBphNeONCX1Iew2flgMN7aoYWoWz5_EkHt5o/20060315ring.jpg?psid=1)[My
+Ring"]({{ site.url }}/images/20060315ring.jpg)[My
 wedding ring](/archive/2006/03/15/my-ring-came-in.aspx) is a titanium
 version of the One Ring from *Lord of the Rings*. I like it quite a bit,
 but it was a real pain to get - the only place you could find them was
@@ -28,7 +28,7 @@ carbide diamond-etched "One Ring" from Forever
 Metals](http://www.forevermetals.com/domed-tungsten-carbide-rings/one-ring-lord-of-the-rings/).
 
 ![Tungsten carbide "One Ring" from Forever
-Metals.](https://hyqi8g.dm2303.livefilestore.com/y2pQbBtgVWjSBgrGz_IYbwJ6Uhq-XAi8HvOckpb9dItIHbJa3wxHE8MqrGQ2c1nUPvoC_SSysTLxXBw5ntJdUuteAGTtHl0KskRi0YEU0VSY90/20080317tungstencarbideonering.jpg?psid=1)
+Metals.]({{ site.url }}/images/20080317tungstencarbideonering.jpg)
 
 I admit a lot of ignorance when it comes to jewelery and metals and
 such, so I didn't really fully understand the differences between

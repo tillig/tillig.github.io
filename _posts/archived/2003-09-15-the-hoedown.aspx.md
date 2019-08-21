@@ -7,7 +7,7 @@ disqus_identifier: 357
 tags: [personal]
 ---
 ![Neighbors in the fire lane again... (4k
-image)](https://hyqi8g.blu.livefilestore.com/y2pkV57IEGPb-pWRRJV5vKK2z264tvu2_URE8jYjylFC5g4ahK8cnn0NFVTQhG_N-0bAyJ-BsygEJ_4Wm9j3ZOrTpXP11Dz6ky6C0YuOkDCVFs/20030915firelane.jpg?psid=1)Got
+image)]({{ site.url }}/images/20030915firelane.jpg)Got
 home Friday after work to find my neighbors were in the fucking fire
 lane again.
 
@@ -40,13 +40,13 @@ couple of things I thought interesting, though.
 sunglasses, and there was the token sunglass wearer at this party, too:
 
  ![Stylin'! (7k
-image)](https://hyqi8g.blu.livefilestore.com/y2pAs-SgcIac-goIG3KovgCYPuBS9UL5cf6jGZSTurGJQs0DsRObNzTJK8cTvWz9BhzWol3elehHzEXdDlGSLpBhZnfouguRvKdo6BsmL98feI/20030915party2.jpg?psid=1)
+image)]({{ site.url }}/images/20030915party2.jpg)
 
  Second, there was this guy in the back who was wearing quite the
 interesting "American Flag" shirt. "Fashion Police! Pull over!"
 
  ![This flag needs to be burned. (3k
-image)](https://hyqi8g.blu.livefilestore.com/y2pUqB3c-x2Xo0Z7jYZSIkFmTfFptD3nbT_iVqLLKV9O6bNH2rCYH98PgILEjWJ_htZi0Gz984uvytuKZiIF1E9MEh1yPyfmbjwVXTe-Hxh3bA/20030915party1.jpg?psid=1)
+image)]({{ site.url }}/images/20030915party1.jpg)
 
  We saw Jenn's grandparents there, which was nice, and they gave Jenn
 her birthday gift since Jenn's birthday is on Tuesday (tomorrow). The
@@ -56,16 +56,16 @@ Looking at the top of Jenn's gift, you wouldn't notice, but flip it
 over...
 
  ![For your WEDDING? (11k
-image)](https://hyqi8g.blu.livefilestore.com/y2pGd152Ga0MiPJ9QBvfDg4LpJ2jUz3NcPw-coFofNkvE6PDYSN4n5XNtw8yiEG1U7H8XcJ8LMorITYG1bPM_bdrXi6ihMIYzkmK2WyoISXbEM/20030915wrapping.jpg?psid=1)
+image)]({{ site.url }}/images/20030915wrapping.jpg)
 
  ...and we see there's a little bit of *wedding* wrapping paper in
 there.
 
  [![20030915\_frame\_sm (8k
-image)](https://hyqi8g.blu.livefilestore.com/y2pX_t4luTt5LkM8bFeyvoPL91J4BCcyV9lG-otgxIPg2ltOxAK7Kk2ViAA2k00dDngoYrqAKJf8Tsnfs73WzHjD4Sh2_PL2FZGRaSvqyNzrYI/20030915frame_sm.jpg?psid=1)](https://hyqi8g.blu.livefilestore.com/y2pDAIoPESfHOuLbGIKBKodK_gujtBPPfPj0GhgHFcCA4Z-lNTsk0CjfcxUAgwUzHxOjY9egZub0yZR_2-IE-0RpsHOocNAXeXQI8uiW90e4IU/20030915frame_lg.jpg?psid=1)Inside
+image)]({{ site.url }}/images/20030915frame_lg.jpg)Inside
 that package we found a frame that allows you to "magically" swap your
 pictures in it like an album. [Check the
-close-up](https://hyqi8g.blu.livefilestore.com/y2pDAIoPESfHOuLbGIKBKodK_gujtBPPfPj0GhgHFcCA4Z-lNTsk0CjfcxUAgwUzHxOjY9egZub0yZR_2-IE-0RpsHOocNAXeXQI8uiW90e4IU/20030915frame_lg.jpg?psid=1)
+close-up]({{ site.url }}/images/20030915frame_lg.jpg)
 on that frame. Like the plastic wicker look? So did we.
 
  Jenn also got a wool blanket (in a Christmas box marked "To Jim From

@@ -19,7 +19,7 @@ walk through it a little.
 yourself at the Start Page.
 
 ![NDepend Start
-Page](https://hyqi8g.dm2301.livefilestore.com/y2pohs4fSwAfL40JZ_M8rDkTlv1QNBRGTw42PrphIjhbKONKqP8_ASQdvkoUt07n2jZKZ3mEstO9sF_bNU2sjoV1cYywXHyMyIbdNxNm4aGTz4/20080328ndependstartpage.jpg?psid=1)
+Page]({{ site.url }}/images/20080328ndependstartpage.jpg)
 
 This is where you can create a new project, open an existing project, or
 watch some getting started videos. The interesting thing I liked about
@@ -27,7 +27,7 @@ the Start Page (aside from the video links) was that you can install
 some add-ins for Visual Studio and Reflector right from there.
 
 ![Install Visual Studio and Reflector add-ins right from the start
-page.](https://hyqi8g.dm1.livefilestore.com/y2pOjZ-5tyKTQhPqJp5yHM-J06VJA86Lz93vWSTFKgj4nffztyoMZWanJerSyPvyWi1KqLGWJrNaaDiVQBKAztV8MVSRnJChbQluir-BZArwhc/20080328ndependinstalladdins.png?psid=1)
+page.]({{ site.url }}/images/20080328ndependinstalladdins.png)
 
 I'll talk about what the add-ins do in a bit, but **the ability to
 install add-ins right from the Start Page makes it nice and
@@ -60,7 +60,7 @@ more "guidance" on what my available options were at any given time, and
 you'll want that.
 
 ![Select the Ribbon interface from the Options
-menu.](https://hyqi8g.dm1.livefilestore.com/y2pd0Dpl7jJHWAIfpyuVxRKwgzEaOi9SRnxShcoPjKVF1K6OLDJeVoG_lgLyREHSXo4x9qZvjI-sRvHLDtiWFi9XvAUhnZfm4f-Bh6G4JNO6cM/20080328ndependribbonpref.png?psid=1)
+menu.]({{ site.url }}/images/20080328ndependribbonpref.png)
 
 Using NDepend is covered fairly well by the screencasts you can access
 in the Help menu, so I won't cover every detail of usage. **I recommend
@@ -82,7 +82,7 @@ You need to expand the folder view and select the "Relative path mode"
 checkbox.
 
 ![Use the relative path mode for your
-project.](https://hyqi8g.dm2303.livefilestore.com/y2pjgvhBchQaI5Qi_PmAB6Zf7mc3XnbwLJ_sy4fro7swAaG8o-ETG7bEp8XIKpwbpfB7Pd7gnnxpbmBRRlKc3pVt3rD4K3twh0PbP1OJO4UiZU/20080328ndependrelativepathmode.png?psid=1)
+project.]({{ site.url }}/images/20080328ndependrelativepathmode.png)
 
 Unfortunately, **relative path mode seems to be "all or nothing."**While
 .NET framework assemblies always get an absolute path, all of the other
@@ -123,7 +123,7 @@ to update. That's a little confusing - I just ran the thing; why
 wouldn't I want to update?
 
 ![New analysis available - Do you want to load
-it?](https://hyqi8g.dm2304.livefilestore.com/y2prZxpCix5P7QCCroXMpk1H4xqdKe-AqYB5PZTEjjhXJFKEZSzbLqyx3rAEI9iTICqQz-85Zio-5T-Fqx-Umjv9fK2KoBaH7Em4JLdNA9VTI4/20080328ndependnewanalysisavailable.png?psid=1)
+it?]({{ site.url }}/images/20080328ndependnewanalysisavailable.png)
 
 Anyway, once you've got the analysis run, you're going to get a pretty
 busy interface that comes up with a lot of information. If you've
@@ -132,7 +132,7 @@ haven't watched the videos, now is the time to do that. NDepend is not a
 tool you can just wander around randomly and "figure out."**
 
 ![Analysis loaded in the NDepend
-GUI.](https://hyqi8g.dm2303.livefilestore.com/y2pNNNCmAefElpk_wvAid_Z64ml3y8hUI-h3Jw2o5ugfOTO8-Ju-VQGxlNekiUz438xfkP-eER4cD3H2GiIpkUEqmy0WOl5BZVBekttwM-ym0w/20080328ndependfullscreen.jpg?psid=1)
+GUI.]({{ site.url }}/images/20080328ndependfullscreen.jpg)
 
 Using the ribbon interface, you can pretty easily switch between views
 to analyze dependencies, look at various metrics, compare two sets of
@@ -154,7 +154,7 @@ views, but it's also the most confusing. This is that gray-block looking
 window:
 
 ![NDepend Metrics
-window.](https://hyqi8g.dm2304.livefilestore.com/y2p7m_8hDkcADh37pdi2vNKh7GHWwjvEjG_GWcZ0sWn0wLJXGVKb1tZKrFxZzixVo-UomOvc9dZTXMY4iK8V7OJSJd5n-ttxb_qsUQpDwaWAW0/20080328ndependmetricswindow.jpg?psid=1)
+window.]({{ site.url }}/images/20080328ndependmetricswindow.jpg)
 
 This is an interesting visualization of the makeup of your assemblies.
 What the blocks represent is based on what you have the view set to at
@@ -190,7 +190,7 @@ worry too much about the trouble of learning CQL - it's a lot like SQL,
 and there's some great IntelliSense in the query window**:
 
 ![CQL IntelliSense in
-NDepend.](https://hyqi8g.dm1.livefilestore.com/y2p2dkkfc8JEpSP6oHH4Dqn5ur4O4ukSxUhzT3ktsN4TIpUYh5aqT-EA0ar4GqsShKVCb6xiDHv3DzV6q8uJ_jlHmaNZ2J4FOsazDRLEsvezG0/20080328ndependcqlintellisense.png?psid=1)
+NDepend.]({{ site.url }}/images/20080328ndependcqlintellisense.png)
 
 Once you've gotten your queries set up (and there are lots of good ones
 that come out-of-the-box when you create your project), you'll probably
@@ -214,7 +214,7 @@ assemblies you have may need some refactoring to get them out of the
 Uselessness."](http://dotbay.blogspot.com/2006_01_01_archive.html)
 
 ![Abstractness vs. Instability - analyze your
-assemblies.](https://hyqi8g.dm2301.livefilestore.com/y2panqkv09yLjmlZLr3oO_l5ZeKngDfJOto0w9QUKFsmZZTEFGBT-H5BTEibCWLu_k6oglBqIclTN_kf7ZbkDQceUyhTi-B5K3PNAylydte_A0/20080328ndependabstractinstability.jpg?psid=1)
+assemblies.]({{ site.url }}/images/20080328ndependabstractinstability.jpg)
 
 The only issue I really had with the reports was, when viewing them with
 IE, I got the "security warning" telling me the HTML could be harmful to
@@ -229,7 +229,7 @@ this method?" **Rather than having to write that CQL yourself, you can
 right-click your way to freedom and leisure.**
 
 ![NDepend Visual Studio add-in context
-menu.](https://hyqi8g.dm2303.livefilestore.com/y2pD8C1ryefpsECRxdNidu7Q3NpHXeyIu5Jd7v4UGfBk6nGViq6gM5WId0ADRvhtTXsp0aWd4ZdDvJdY-ZwNonrilW4wfcusggRZCRPPpLbiZ8/20080328ndependaddin.jpg?psid=1)
+menu.]({{ site.url }}/images/20080328ndependaddin.jpg)
 
 **You can do this same right-click action in Reflector.**Again, very
 easy, and very cool.

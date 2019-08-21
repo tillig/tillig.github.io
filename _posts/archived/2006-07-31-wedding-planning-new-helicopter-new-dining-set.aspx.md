@@ -30,7 +30,7 @@ CX](http://www.e-fliterc.com/Products/Default.aspx?ProdID=EFLH1200), but
 they were out.
 
  ![Blade CX R/C helicopter by
-E-Flite](https://hyqi8g.dm2302.livefilestore.com/y2pUwN9QHZ84fryaJ6IoGsNnJayYlxSyo8x-P76S8AoX70ZZ3rh2YAGkxWHPfjclgR32ynvCd01jEeuGL1meOhtWhOmaRsT0zFD3MDJp_TvIek/20060731bladecx.jpg?psid=1)At
+E-Flite]({{ site.url }}/images/20060731bladecx.jpg)At
 first I thought my hopes of flying on Saturday were doomed, but I
 stopped in at [Hillsboro Hobbies](http://hillsborohobbyshop.com/) (not
 far from my house) and talked to the owner there, and he also
@@ -88,7 +88,7 @@ Jenn has been wanting one for a while, and I figured I could ease the
 shock of the $250 in helicopter cost by caving on the dining set.
 
  ![A mockup of the dining room
-set](https://hyqi8g.dm2303.livefilestore.com/y2pZA_LJzvBmgB01sZ0QGr4vx-tDaam8VZBcYRd0ueTrFbMUoa5OS_jwKZH8ohgw8tYBIZSoyBRZBK_ErRpo9BM01HTRGPkKYtKnJIXEOdOUtA/20060731diningset.jpg?psid=1)We
+set]({{ site.url }}/images/20060731diningset.jpg)We
 ended up at [Dining Rooms
 Unlimited](http://www.dining-rooms-unlimited.com/) and found this nice
 table with a butterfly leaf in it, but we didn't like the chairs... we

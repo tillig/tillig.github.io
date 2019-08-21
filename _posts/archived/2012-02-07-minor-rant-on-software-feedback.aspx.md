@@ -61,7 +61,7 @@ seem to like it because they didn't know about those buried settings and
 this makes it nice and easy to deal with. And then there are folks who
 leave reviews like this:
 
-![](https://hyqi8g.bl3301.livefilestore.com/y2pMG6mdTTa2sRxdZlB7KQHQuZXB95zlPzJqtYun89J6ucyXWaaJz54CKSoIUyDB33tyz8zURl8d9ibFlDXoQGZgChgThqoY9WHMgBmQSlijFs/20120207ffreviews.png?psid=1)
+![]({{ site.url }}/images/20120207ffreviews.png)
 
 > [Disappointing.](https://addons.mozilla.org/en-US/firefox/addon/integrated-auth-for-firefox/reviews/335045/)
 > http or https is required before each entry when it really isn't
@@ -100,7 +100,7 @@ in software feedback. Here's a one-star review from [a recent Free App
 of the Day in the Amazon
 AppStore](http://www.amazon.com/dp/B006357W8Y?tag=mhsvortex):
 
-![](https://hyqi8g.blu.livefilestore.com/y2pcn1hdsjmufLydhaCjqprBJQO-w5tfif0dbVUjYWgiRZfkmLD3MfIJ9qVZttL8fCZhFYTdf28rs9CfH9oeW9yIoLyjEy1GUhR9Gggr-_iEYk/20120207amazon.png?psid=1)
+![]({{ site.url }}/images/20120207amazon.png)
 
 > I haved played a lot of drawing apps for my kindle fire but this one
 > is the ultimate worst it needs to be User friendly and I hate it so

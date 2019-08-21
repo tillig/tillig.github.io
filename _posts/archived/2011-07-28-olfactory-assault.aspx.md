@@ -55,7 +55,7 @@ small desk fan and "Clean Linen" scented air freshener. Step 1: Turn on
 fan. Step 2: Spray into the fan. Step 3: Sigh in relief.
 
 ![The fan-and-spray anti-stink
-setup.](https://hyqi8g.bl3301.livefilestore.com/y2p6EtKQvJDMb1Wsn2-UEvoGT2EWtH98yX3xlrJOaCTTKegPP8bQicgbPfmobg3bfB2BMmUus33ZdGMZ033hbcrV8ji6YpwnmnJQOa8QglYNhs/20110728fanandspray.jpg?psid=1)
+setup.]({{ site.url }}/images/20110728fanandspray.jpg)
 
 Thank goodness for laptops, right? "Ack! They released the mustard gas!
 Grab your laptop and hide out in a conference room until it dissipates!"

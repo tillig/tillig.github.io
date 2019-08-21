@@ -7,7 +7,7 @@ disqus_identifier: 1081
 tags: [General Ramblings]
 ---
 ![Stu hangs out with a showgirl outside
-Bally's](https://hyqi8g.dm2304.livefilestore.com/y2pVcH_Kleca0qM0otYih9Da218mzfnU7Z4phw8pMnh6pPL4PxOR_nnzpUG0RiyGvGGK4cU1S3M90AUOGUOrde_PGqk4A8lVnBaAT5YWqZg36A/20061002showgirl.jpg?psid=1)I'm
+Bally's]({{ site.url }}/images/20061002showgirl.jpg)I'm
 recovering today from a pretty crazy weekend in Vegas.
 [Stu](http://www.stuartthompson.net),
 [Jason](http://www.meyercentral.com/), and Adam went with me down to

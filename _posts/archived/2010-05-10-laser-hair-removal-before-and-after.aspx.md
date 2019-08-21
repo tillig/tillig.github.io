@@ -38,7 +38,7 @@ Before the treatment, you can see my beard in any picture. Here's me in
 my wedding photo:
 
 ![Jennifer and Travis Illig: October 14,
-2006](https://hyqi8g.dm2302.livefilestore.com/y2pqfelK9tyEKyKMiGxYTmQA0aQgmeJMxaTLZQdfsS_zOlxhcTvH0wIK_qahvZdqIWNcDnjYuaecjh3OUAAXYPgNrLemggs7bwY9NfkyEYV_uQ/20061027jenntrav.jpg?psid=1)
+2006]({{ site.url }}/images/20061027jenntrav.jpg)
 
 That's clean-shaven. Still a pretty dark beard line. I got some photos
 three treatments in that were closer, to see how the progress was going:

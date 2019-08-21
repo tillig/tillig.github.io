@@ -28,7 +28,7 @@ things that many other frameworks don't - calls to private methods,
 constructors, static method calls, etc.
 
  [![Wanna Be Startin'
-Somethin'](https://hyqi8g.dm2304.livefilestore.com/y2p-U4IahhOU4EJe6GoM9ALsesz9vTO3HIcDTsx5U7AfCH9tCLXI25-lj1e6cvudg1VB2U5vTCFSIgc9rSa6aLmtaC7eX-XoBx3fl62hzdD9L4/20061005wbss.jpg?psid=1)](http://en.wikipedia.org/wiki/Wanna_Be_Startin'_Somethin')That's
+Somethin']({{ site.url }}/images/20061005wbss.jpg)](http://en.wikipedia.org/wiki/Wanna_Be_Startin'_Somethin')That's
 where the debate really heats up. There are effectively two schools of
 thought - "design for testability" and "test what's designed."
 
@@ -92,7 +92,7 @@ should be implemented, and what's available to you at any given point in
 execution. It's a pain to write for and a pain to debug. The
 architecture gets in the way of the API.
 
-[![Catch-22](https://hyqi8g.dm1.livefilestore.com/y2p4VWEJvrF8KvX0ctPy8V9-F3fEukH7SNhlxCgGiywtX4h2RidvdWFSMgTfB-zi7o8ixF2v_654PfPLp-xQ6RcoLF7FwYv-pNgHWhYxQgX3iY/20061005catch22.jpg?psid=1)](http://www.amazon.com/exec/obidos/ASIN/0684833395/mhsvortex)Yeah,
+[![Catch-22]({{ site.url }}/images/20061005catch22.jpg)](http://www.amazon.com/exec/obidos/ASIN/0684833395/mhsvortex)Yeah,
 you could make the "internals" of the product designed for testability
 and throw a facade on it for consumers of the API. You still have to
 test that facade, though, so you get into a catch-22 situation.

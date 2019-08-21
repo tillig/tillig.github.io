@@ -14,7 +14,7 @@ had a couple of kids knock after we shut the lights off, so you see
 those in that final time block.)
 
 ![2013: 298
-trick-or-treaters.](https://hyqi8g.dm1.livefilestore.com/y2pOLZ9yYljbMtWQoVcuCUrBInxtcbG463aoLr9AtjBfUnAGwa0J6aUBnuEoLfR81X62KJ4YVLxSYPsqtmxfJ7ihX-2mYlTSwi7m5Zge3ueNhE/20131101_289trickortreaters.png?psid=1)
+trick-or-treaters.]({{ site.url }}/images/20131101_289trickortreaters.png)
 
 Cumulative data:
 <table>
@@ -111,7 +111,7 @@ Cumulative data:
 The costume this year was a BioShock splicer.
 
 ![Travis as a
-splicer](https://hyqi8g.dm2302.livefilestore.com/y2puNVE7IuUr62YHqR5AzEFXWhYhjdpHFhAG3QybpQcy7IMmnVC1ng61R9Q2CXoGAfML7S-oau3msdY7ZX7aXiICwhwa3HSd7PMiASi1qQRk5Q/20131101_splicer.jpg?psid=1)
+splicer]({{ site.url }}/images/20131101_splicer.jpg)
 
 Jenn didn't get her costume done, but is working on a splicer costume
 for the Halloween party we're attending this weekend. Phoenix was, at

@@ -7,21 +7,21 @@ disqus_identifier: 45
 tags: [food,humor]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 26]
- 
+
  Before I get going on this, just let me state for the record that I am
 *not* a big coffee drinker. It's just a little too bitter for me,
 regardless of what "roast" or "flavor" the coffee claims to be. I'm a
 "three-creams-four-sugars" kind of coffee drinker. Why do you think I'm
 down with the [Venti<sup>tm</sup> Mocha
 Frappuccino®](/archive/2002/04/04/talk-dirty-to-me.aspx)?
- 
+
  Some things just set me off, though. That's pretty much why I even have
 this blog thing - so I can go off in a semi-public fashion about how
 *totally stupid people are*.
- 
+
  Oh, also for the record - I hate people. But that's a whole other
 issue.
- 
+
  At work we have these common coffee pots that you can get coffee from
 any time you want it. There are three different blends: "Viennese,"
 "Sumatra," and "French Roast Decaffeinated." On the rare occasions I go
@@ -32,37 +32,37 @@ keep the coffee brewed; there's not someone whose job it is to just brew
 coffee all day. As such, there are large signs *all over the place*
 telling people that if they take the last cup, they need to make another
 pot.
- 
+
  We all see where this is going.
- 
+
  What that amounts to is that the coffee pots are in one of two states
 at all times:
 -   Half a cup of coffee in the bottom of the pot, cold; or
 -   Empty and abandoned
 
 
- 
+
  The side product of this is that any time I want to get my seldom-drunk
 cup of coffee, I get to be the guy who brews the new pot. (I'm getting
 to be the Coffee-Frickin'-Masta. I gots the *mad* coffee brewing
 skillz.)
- 
+
  Apparently, this also produces large quantities of people who drink
 coffee but don't have a clue how to brew it. Even though there are
 directions taped to the side of the coffee maker.
- 
+
  For example, even I knew, before brewing my first pot of coffee ever,
 that you *have to grind the beans*. I guess some folks don't realize
 that.
  ![Grind the
-beans!](https://hyqi8g.blu.livefilestore.com/y2pSJRekSONVIcryLFvuq3sAkH3qTtcjNEc7A8sWLw_EPjp1Muuxs3GSdB-Y2c2z8ra3EvWYhTlunafq77nldZriFWJIdECI3MpXFRhwJr4_SY/20020418grindthebeanshl3.jpg?psid=1)
+beans!]({{ site.url }}/images/20020418grindthebeanshl3.jpg)
  Today I entered upon an entirely new situation - someone decided they
 wanted to brew coffee *into a full pot*. This amounted to a pot-full of
 coffee all over the counter, the floor, under the coffee maker, behind
 the sink, down the front of the cabinets... you get the idea.
- 
+
  So, for those of you in the cheap seats, here's how to make coffee:
- 
+
 1.  Get some coffee beans.
 2.  Grind the beans.
 3.  Check: is that enough to make a whole pot of coffee? If not, you'll
@@ -87,6 +87,6 @@ the sink, down the front of the cabinets... you get the idea.
     person.
 11. Clean up any spillage. Yes, there's some there. Use your eyes.
      Congratulations! You've just made a pot of coffee!
-     
+
      I think my work is done here. I gotta go wash my hands - they smell
     like nasty cold coffee.

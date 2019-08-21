@@ -13,7 +13,7 @@ problem](/archive/2007/12/10/xbox-live-drm-eating-my-lunch.aspx) all
 over again because I'd be switching consoles. No good.
 
 ![Mad Catz HDMI conversion kit for Xbox
-360](https://hyqi8g.dm2303.livefilestore.com/y2pDd14dlM2tQplZARdVwJ7x5VP_jvSbmJA9bDf1JiAEaeZvHNOGNWQZiGdr_DFg2pA34oki4wrEPY9k8cuFdm544F2tzitwXHLBigaItytAak/20080320hdmiconverter.jpg?psid=1)Turns
+360]({{ site.url }}/images/20080320hdmiconverter.jpg)Turns
 out Mad Catz released [an HDMI conversion kit for Xbox
 360](http://www.madcatz.com/Default.asp?Page=411&CategoryImg=Xbox_360_Accessories)
 so you can just buy this adapter and still get the full 1080p goodness

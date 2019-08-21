@@ -11,7 +11,7 @@ network adapter - all USB devices - for my Xbox 360. I had them set up
 like this:
 
  ![Xbox 360 -
-Before](https://hyqi8g.dm2301.livefilestore.com/y2p9SN0zXwSe9a-7jDKRBcBxaNetyDn0iqdARklJWJu67SKwWn1jZgdBEHG0nQVQgRkwJ951t2KQ6ep20LUik3uiXAeub8VAtR_fjf8aZr4aYI/20070507xboxbefore.png?psid=1)
+Before]({{ site.url }}/images/20070507xboxbefore.png)
 
  Note how I was using the HD DVD drive as a USB hub - the Xbox connected
 to the HD DVD drive, then the rest of the devices chained through that.
@@ -33,7 +33,7 @@ I'm seeing.
 setup looks like this now:
 
  ![Xbox 360 -
-After](https://hyqi8g.dm2303.livefilestore.com/y2pv1pNMl_xiFtmmjsstiSTyfHHFUxuXgwgPVHI8rShj5oS-47flhNwD9yBDhjOP4ZLjrs_6CXLWi80LseG_QhTId9_6Nzlcw37NZirTm6bR4o/20070507xboxafter.png?psid=1)
+After]({{ site.url }}/images/20070507xboxafter.png)
 
  Now I have the Xbox 360 plugged into the hub and everything chains off
 that. So far, I've had 100% success - fire up the Xbox and everything is
@@ -44,7 +44,7 @@ Hub](http://catalog.belkin.com/IWCatProductPage.process?Product_Id=159070).
 It's nice and compact so it's easy to hide behind the Xbox.
 
  [![Belkin Hi-Speed USB 2.0 4-Port
-Hub](https://hyqi8g.dm2303.livefilestore.com/y2pSptVYChV5sX6yRRuCUPxJuY2bJjPyq38pxFThEiFbdumBT9KuynXXWrwjKs9yzNqusHm5X2SRvT5lrhN_BtvJVWLymoZxl0gBoXTQdMio5M/20070507usbhub.jpg?psid=1)](http://catalog.belkin.com/IWCatProductPage.process?Product_Id=159070)
+Hub]({{ site.url }}/images/20070507usbhub.jpg)](http://catalog.belkin.com/IWCatProductPage.process?Product_Id=159070)
 
  You might ask why I didn't just plug everything into the Xbox directly
 - use the front ports on the Xbox as well as the back port. The reason

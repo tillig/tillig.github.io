@@ -16,7 +16,7 @@ use, or have been taken by Jenn to work today. Click the picture to get
 a larger version.
 
  [![Most of the 2003 Christmas Haul. Click to
-enlarge.](https://hyqi8g.blu.livefilestore.com/y2pmlLshvjMh88PK1ww9mbkM-Tie3WercysXukv1k50cvYAvyx8_mUh3BtLRD1GiqKccV7-fCEpSEFxdONOcgLV_kOWdoiULObo8hR6K3ZQ-oc/20031226xmashaul_sm.jpg?psid=1)](https://hyqi8g.blu.livefilestore.com/y2ppNiGsSE7m_2zlKUMz_AGU2-pyam4LXe9dgkLYbfADX1A1rxN3e0hCTjlMw3fzOSHpTbd8BqyWw011TZ7iy30D-x__7gYUiCo5a6vggnvsv8/20031226xmashaul_lg.jpg?psid=1)
+enlarge.]({{ site.url }}/images/20031226xmashaul_lg.jpg)
 
  The first thing that long-time readers will notice is that the picture
 quality is *much improved*. That is thanks to my parents' gift of a [2.0

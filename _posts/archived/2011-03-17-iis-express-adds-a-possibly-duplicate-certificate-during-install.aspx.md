@@ -13,7 +13,7 @@ a confusing issue where you have two certificates with the same
 distinguished name, like so:
 
 ![Duplicate certificates with
-CN=localhost](https://hyqi8g.bl3302.livefilestore.com/y2psFK_D_DWe6pjNF1wjbS3n0RQGUFEC6pNeNREg6Wxnm2lGolCELd4dRrXG5FaI0pnthqVmsMyLew4TMhwcyOyfEGnH-mWpU_QWs1bf7dSoNg/20110317duplicatecertif.png?psid=1)
+CN=localhost]({{ site.url }}/images/20110317duplicatecertif.png)
 
 And why would that be a problem? Say you are working with WCF services
 that need to identify themselves with certificates. You have your dev

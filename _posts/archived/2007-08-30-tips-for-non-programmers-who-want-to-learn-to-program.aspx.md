@@ -7,7 +7,7 @@ disqus_identifier: 1261
 tags: [GeekSpeak]
 ---
 ![Shout at the
-Devil!](https://hyqi8g.dm2304.livefilestore.com/y2pSVHUd7cRDM5zdPAtP4Ir2k-s0tITd2pcIMFZv0f8ktv6IH61Fxa8ppGDsDQkzaQ9dRE6ZT2J52dZpCFEEDKBFNmIKXHd3nis6BoIltI-kfw/20070830shoutatcomputer.jpg?psid=1)I
+Devil!]({{ site.url }}/images/20070830shoutatcomputer.jpg)I
 have a pretty diverse group of friends, some of whom are developers and
 some of whom aren't.  A subset of the non-developer folks have, at
 times, mentioned to me that they really want to learn how to program

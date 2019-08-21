@@ -7,7 +7,7 @@ disqus_identifier: 1222
 tags: [gaming,xbox]
 ---
 ![O-rings around the base of the whammy
-bar](https://hyqi8g.dm2303.livefilestore.com/y2pdEPfprHTQi3RkQOmsck-seDW9tOPQqiZaWVngUL9OOrXZmwyQU5q6L1UVc3UE1ug_GngJSiO2vuBTFLJICSYuYaMPD9s2ckHg1aMt4CtEgg/20070622whammyfix.jpg?psid=1)**Problem:**
+bar]({{ site.url }}/images/20070622whammyfix.jpg)**Problem:**
 You have a *Guitar Hero II* X-Plorer controller for Xbox 360 and the
 whammy bar is loose. You want the whammy bar to tighten up without
 having to take apart your guitar and you don't want to go through the

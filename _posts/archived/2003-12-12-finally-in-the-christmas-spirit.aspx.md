@@ -10,7 +10,7 @@ I woke up this morning and saw the Tub Cat was in the Christmas spirit,
 so I figured it was time for me to get there, too.
 
  ![Christmas with the
-Tub!](https://hyqi8g.blu.livefilestore.com/y2pD09MwD3sDg38UZ0oQ8PHImWpA7OnHDp4AOtLjKFwhy7f-TuaTn77d4Tmt_WfOxbfxfQs-WValCOtHRoxhoozaNm_ex7y1TBabuXa2VGh4ko/20031212christmascat.jpg?psid=1)
+Tub!]({{ site.url }}/images/20031212christmascat.jpg)
 
  As such, I decided to send out a quick email pseudo-personal card to
 folks that I talk to and folks that I don't normally get a chance to

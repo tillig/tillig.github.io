@@ -7,4 +7,4 @@ disqus_identifier: 826
 tags: [General Ramblings]
 ---
 ![How about a nice cup of 'Shut the Fuck
-Up'?](https://hyqi8g.dm1.livefilestore.com/y2pPT86clLxXSO3kNhtR_vCxxZe6EnsZbx2z13-yyIb7N7TRZiL43lTjy_sARpGobzLOuVplQdSRYd5xumOZpPRS-e7YT1pPDo-QqMk9VrJaPM/20050526nicecup.jpg?psid=1)
+Up'?]({{ site.url }}/images/20050526nicecup.jpg)

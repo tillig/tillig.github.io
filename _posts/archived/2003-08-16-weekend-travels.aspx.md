@@ -32,7 +32,7 @@ Ferguson](/archive/2002/08/27/turd-ferguson.aspx) on it and I can't pass
 that up. My Turd Ferguson t-shirts may soon become a reality.
 
  ![Giant Inflatable
-Mario](https://hyqi8g.blu.livefilestore.com/y2p-70PSYSV1G-fwTO3buqnMsXCHPsCHN1UTegDZx50b5pjHyx0_1dma4uC0vUk-G5ViRolVkHD9Hyeuq1WJHnnP5wPLv2zTVGCcKCsO-D5fGc/20030816mario.jpg?psid=1)Decided
+Mario]({{ site.url }}/images/20030816mario.jpg)Decided
 then to go to The Wherehouse to look at the used CD selection. On the
 way there, saw that a video game shop had a giant inflatable Mario
 standing on top. I need one of those for my cubicle at work.
@@ -51,7 +51,7 @@ to, but by the time I got home, Mom called to say that just as soon as I
 left, someone came along and bought it. Crisis averted.
 
  ![Tiny, fix your
-ear!](https://hyqi8g.blu.livefilestore.com/y2piSiP_uIE_8hnubS7zThD0YT3FXV8c1Xohz5dR3X3fIWQbk2PdQjyOCtpxs7dXIpmyfSlbaraRXtHGr-cT1kkgNvSRMIYpMnaEcEgn9gx-Yk/20030816tinyear.jpg?psid=1)Got
+ear!]({{ site.url }}/images/20030816tinyear.jpg)Got
 home and found my tiny cat sleeping with her ear all wonky. That's
 pretty typical for her. I wonder how she can think that's comfortable.
 Then again, maybe she doesn't even notice.

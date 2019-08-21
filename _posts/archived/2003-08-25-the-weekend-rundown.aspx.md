@@ -7,7 +7,7 @@ disqus_identifier: 334
 tags: [movies,personal]
 ---
 ![Tubby is a box of Clif bars (3k
-image)](https://hyqi8g.blu.livefilestore.com/y2pnwr-x5AWymDFG8TRO_9d_0heuWvQsPChCFEmnWqGsDZZet0qH8UZGr5UTEaziyXtvLDEwATfneryVkgI1-iGolXiKzFWJLwwl_vk5gyS-74/20030825tub_in_box.jpg?psid=1)Came
+image)]({{ site.url }}/images/20030825tub_in_box.jpg)Came
 home Friday evening and, after dealing with the illegal parking on the
 part of my neighbors, was greeted with the sight of our tubby cat
 impersonating a box of Clif bars. She is too much.

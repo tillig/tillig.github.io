@@ -22,7 +22,7 @@ Sleeves](http://www.amazon.com/dp/B004HCC8JI?tag=mhsvortex) that are the
 perfect solution.
 
 [![DiscSox HiDef Pro Sleeves and rack. Click to
-enlarge.](https://hyqi8g.bl3301.livefilestore.com/y2p3rLS00c-C4DMCgJGssSd1RgmkNbzykvqI3BsuiILl7gsUnLMCYLzi3QKpMQKlRrQ0TIYmW1XVLQn221hyJ9jmarJSxeyYx8vSx3alQZPCrA/20110830discsox.jpg?psid=1)](https://hyqi8g.bl3301.livefilestore.com/y2p3rLS00c-C4DMCgJGssSd1RgmkNbzykvqI3BsuiILl7gsUnLMCYLzi3QKpMQKlRrQ0TIYmW1XVLQn221hyJ9jmarJSxeyYx8vSx3alQZPCrA/20110830discsox.jpg?psid=1)
+enlarge.]({{ site.url }}/images/20110830discsox.jpg)
 
 These sleeves allow you to store two discs per sleeve and the cover is
 actually the cover from the Blu-ray case, so it's a nice browsing

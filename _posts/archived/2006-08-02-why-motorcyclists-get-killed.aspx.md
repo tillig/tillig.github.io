@@ -20,7 +20,7 @@ wont).
  Check this guy out:
 
  ![This is why motorcyclists get
-killed.](https://hyqi8g.dm2304.livefilestore.com/y2pUKkUAUPwJFU8K4vzaGdxgnabSXz1sWY5JClrrtcoIWoIYlomDBvgzT6lTh0JMzc_sPomK9RwsIn8MRAFRGnEdfWV1l6K3esfJOtuwJw8i04/20060802taotw.jpg?psid=1)
+killed.]({{ site.url }}/images/20060802taotw.jpg)
 
  How many thousands of motorcycle deaths do you hear about each year?
 Normally I feel bad, thinking that cars should pay more mind to the

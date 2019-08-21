@@ -35,12 +35,12 @@ error, **make sure you've checked online for updates**.
 See here, it *looks* like I've got the latest…
 
 ![Check online for updates from Microsoft
-Update](https://hyqi8g.blu.livefilestore.com/y2pxnYzcIirjhirOiYHxkXQOXtXxaVRe4WWgPrCUKfU4XxsxCStK_syXUawcA0oes_aCr0fIt8F4RCzcQ1WZZZHcyOEwJC25c9t8wJuCuMH9Mw/20130121_wsus.png?psid=1)
+Update]({{ site.url }}/images/20130121_wsus.png)
 
 …but really, I'm missing several updates.
 
 ![After checking online, several updates were
-missing](https://hyqi8g.bl3302.livefilestore.com/y2pbUYiXetpadJ9MKI8egpYsn-BySQfjyXv9jGA00g-kfaFKuU_ZGDNZgMXXmTYJVbhtXjgHnqah6a1BHWqoKOft1kUNdFpZkIPnyNrcfwtxdg/20130121_wsus2.png?psid=1)
+missing]({{ site.url }}/images/20130121_wsus2.png)
 
 **A note on the version 2.0.5.0 you see in the error message**: That's
 the version of the framework Autofac references as an artifact of being

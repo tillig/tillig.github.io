@@ -152,7 +152,7 @@ a ProductModule class called "About," that'll look like:
     for. You can find these values in the "Language" dropdown on the
     DevExpress options menu. At the time of this writing, they are:
     Basic, C/C++, CSharp, HTML, JavaScript, Plain Text, and XML. 
-    ![](https://hyqi8g.bl3302.livefilestore.com/y2p6-ENi92BemYyGOD8MqTd5KSK0eE3hJLsidAha4P5JRu_ueS7RZpsFXJ8x5ynKIqkDvVgYe8yhY6JnnjypGd59_FwKcInmuyAv6x2vQDBHGM/20100922languages.png?psid=1)
+    ![]({{ site.url }}/images/20100922languages.png)
 -   **Version property**: Return the assembly version information.
 
 There are other properties you can override to return additional
@@ -197,7 +197,7 @@ knows what to look for. Really simple:
 you should see your product information - with your logo, version,
 description, etc. - all in the DevExpress "About" box.
 
-![](https://hyqi8g.blu.livefilestore.com/y2p4J0NDy5hytljGCqRoIYO1jnZxEEMYRD-mKs2Xk3e8zH8d-5JbgWiP8EkLV36LX3s-aZ53Uqedz4YKF1TLK6KQeCju_xQw3Gnl8A5Ph9a2IE/20100922about3.png?psid=1)
+![]({{ site.url }}/images/20100922about3.png)
 
 I've got a solution you can download with a working demo in it so you
 can see what the complete package looks like:

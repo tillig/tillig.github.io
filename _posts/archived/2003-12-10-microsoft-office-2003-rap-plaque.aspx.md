@@ -12,7 +12,7 @@ part of the "Rapid Adoption Program" for Microsoft Office 2003. Today,
 in the mail, I got a plaque for my efforts:
 
  ![Office 2003 RAP
-Plaque](https://hyqi8g.blu.livefilestore.com/y2pY3tq1yijUPFV1z8k01NKT1pUI1ckxgbTz01W0qO7GIcl3ERcflRwrqBnVzHP7rhB-zUvQ7F1nWqF3mdHTvc9p8WrUFwJfJBWnI4HnNEpqiQ/20031210plaque.jpg?psid=1)
+Plaque]({{ site.url }}/images/20031210plaque.jpg)
 
 
  It says:

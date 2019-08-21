@@ -24,7 +24,7 @@ the challenge and you pay $50 for it.
  The steak sits in a glass case up front on ice. Jenn got a shot of it:
 
  ![72oz of pure cardiac
-arrest](https://hyqi8g.dm2302.livefilestore.com/y2pOJHQkJx1cGSfq_ocPmc3OJVmck-418r3zSCm6ykL7QqR5t0TqHlJ5XSr1QjKelspVqPGC-AqX0cwYz2J01Ye3RPKX-aEtvXxboQ8DneRRSU/20050503steak.jpg?psid=1)
+arrest]({{ site.url }}/images/20050503steak.jpg)
 
  Apparently you have to call ahead if you want to take the challenge
 because the steak takes so long to cook.

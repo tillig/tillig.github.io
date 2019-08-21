@@ -43,7 +43,7 @@ retrieve a certain number of results, only retrieve certain types of
 results, etc.
 
  ![SPS Search Test - Displaying the query
-packet](https://hyqi8g.blu.livefilestore.com/y2pMtMPZR4fW2WHPXn1IFI13T2ghEus61N1nvEamcJBCTAmQG931joSA1n3GTIKRQxdfb561TEeg_ZrAUP_C7uD4alsaB1irI22o2ElRSzrqhQ/20040618spssearchtest_querypacket.gif?psid=1)
+packet]({{ site.url }}/images/20040618spssearchtest_querypacket.gif)
 
  **Note: While this is a very helpful tool to test out queries and see
 if they work, I still don't have any real documentation about the form

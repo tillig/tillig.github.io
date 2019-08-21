@@ -18,7 +18,7 @@ I haven't figured out the `async` and `await` thing yet... **but here's how to e
 
 First, in the "Queries and Rules Explorer" window in your project, go to the "Defining JustMyCode" group.
 
-![Defining JustMyCode](https://hyqi8g.dm2302.livefilestore.com/y2pRWsGHJfdq-aKV13qjgTkAuPvnOg5GK92RRVZ6c6vZcIccQ5YPqdO5BWSfKe4DTvJyM6DfG1UMIWDYNlyjXtpFhuBj55NAEQqYLqf2k6bZXs/20141029_definingjustmycode.png?psid=1)
+![Defining JustMyCode]({{ site.url }}/images/20141029_definingjustmycode.png)
 
 In there, create a query like this:
 

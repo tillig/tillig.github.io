@@ -10,7 +10,7 @@ I posted my *Underworld* review yesterday, so I'll tell you what I did
 this weekend today. Now that it's already Tuesday.
 
  ![20030922\_tjfront (4k
-image)](https://hyqi8g.blu.livefilestore.com/y2pd6-AQsZUlLXIQJGdta0TXewudBIZ92kihJbKE1eB5hxPLaXpSKzVEDkF8gU2EHe8MYfsQIUKpqw3EApUnZZ8n_0Y2vJnVoYmsjlVLqIISak/20030922tjfront.jpg?psid=1)Friday
+image)]({{ site.url }}/images/20030922tjfront.jpg)Friday
 was the intern at work's last day, so we took him out to lunch at
 Chang's Mongolian Grill and signed this terrible shirt that Jenn's
 grandparents got me for Christmas and gave it to him. The Worst Shirt

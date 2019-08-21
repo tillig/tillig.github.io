@@ -7,7 +7,7 @@ disqus_identifier: 1079
 tags: [net,testing]
 ---
 ![Playing with matches will get you
-burned.](https://hyqi8g.dm2301.livefilestore.com/y2pUjRc1WbHs8-5OavEnwprobjwmR2-Xf6CH90Ni9bnVL1k2qjUw_raq-ES0FCc2Zls3gAU_WJqml9BY3XUc50nJLUvExcM3apEC3xSAL_hKik/20060928match.jpg?psid=1)Lately
+burned.]({{ site.url }}/images/20060928match.jpg)Lately
 at work we've been working towards test driven development and not just
 "having a lot of tests." For pretty much anyone who has written unit
 tests for anything with any complexity, you know that's a lot harder

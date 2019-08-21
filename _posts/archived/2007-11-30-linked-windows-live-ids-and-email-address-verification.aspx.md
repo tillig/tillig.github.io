@@ -12,7 +12,7 @@ email address:
 
 ![You need to verify your e-mail address with Windows Live Messenger.
 Click
-here.](https://hyqi8g.dm2302.livefilestore.com/y2pikaGKvrKFBxnHNmzAK2QcyDH0nsxDi2KROKYbaTKg9ml3gXMD5124-e4DcqTofRIV-GLFMHZhz6_55uU2LZwjuCo1Mj07dnUCHNQ2xRJDmM/20071130verifyaddresstoast.jpg?psid=1)
+here.]({{ site.url }}/images/20071130verifyaddresstoast.jpg)
 
 I clicked, I followed the verification process, and I thought everything
 was cool.  Not so.  The prompt kept coming up.  On subsequent times I

@@ -7,7 +7,7 @@ disqus_identifier: 1304
 tags: [General Ramblings,GeekSpeak]
 ---
 [![The XO laptop - One Laptop Per Child
-program.](https://hyqi8g.dm2302.livefilestore.com/y2puULua-ySfbyc3Ny_j6zFLqcALHIif7exR6OA_OmMes6MvxqdJbLZlA0nH-nNBZM0pSmZAtJ4hKXdMWG9SxjfvZ7uuGPQomL-5Rs-b1-8DIk/20071114olpc.jpg?psid=1)](http://www.laptopgiving.org)The
+program.]({{ site.url }}/images/20071114olpc.jpg)](http://www.laptopgiving.org)The
 [One Laptop Per Child foundation](http://www.laptop.org/) has their
 ["Give One, Get One"
 program](http://www.laptopgiving.org/en/give-one-get-one.php) going on

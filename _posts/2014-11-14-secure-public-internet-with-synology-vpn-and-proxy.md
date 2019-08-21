@@ -32,11 +32,11 @@ It took me something like (seriously) **five minutes to get this part working** 
 
 When that's done, you'll see your DDNS setup in the Synology control panel under "External Access."
 
-![The DDNS settings will show your NAS](https://hyqi8g.dm2302.livefilestore.com/y2p0r6n4Cn7J23zPXAUzgZJDML0iz6MumrkC-xB592bBea1EJfa9Zs641ZJnA640_rU_WZ1ZyRIfIasFx7aziiXEfm6oTCjtJIA8nEM1GCVKTw/20141114_ddns.png?psid=1)
+![The DDNS settings will show your NAS]({{ site.url }}/images/20141114_ddns.png)
 
 **Next, install the Proxy Server and VPN Server packages** using the DSM Package Station package manager. Installing packages is a point-and-click sort of thing - just select them from the list of available packages and click "Install." **Make sure you set them as "Running"** if they don't automatically start up. Once they're installed, you'll see them in the list of installed packages.
 
-![Proxy Server and VPN Server packages installed](https://hyqi8g.dm2302.livefilestore.com/y2plFe7xEajK-vgpAHG0YImVpeYotlymfYOOW2Hd-O7Z5FW-K45Rqa-oXGqLl3p1mkAut8yP3LYaqGAmhEfwsslDB6QAtCRlftHvO2nX-r50Fs/20141114_package_station.png?psid=1)
+![Proxy Server and VPN Server packages installed]({{ site.url }}/images/20141114_package_station.png)
 
 **Let's configure the proxy server.** From the application manager (the top-left corner icon in the DSM admin panel) select the "Proxy Server" application. There isn't much to this. Just go to the main "Settings" tab and...
 
@@ -45,7 +45,7 @@ When that's done, you'll see your DDNS setup in the Synology control panel under
 
 You can **optionally disable caching on the proxy server** if you're not interested in your Synology doing caching for you. I didn't want that - I wanted fresh data every time - so I unchecked that box. You can also **optionally change the proxy server port** but I left it as the default value provided.
 
-![Proxy server settings updated](https://hyqi8g.dm2302.livefilestore.com/y2pr30MbQF9qylwoSf8ouo5qSe5i7DHRiSJqoio0sJwr5aZ1Wv8g3NdG6GD0UR0wnVq7UuSmSZ72kOMql5rDP5lUd7fGkzAYzNxVqznVwGw6cU/20141114_proxy_settings.png?psid=1)
+![Proxy server settings updated]({{ site.url }}/images/20141114_proxy_settings.png)
 
 Done with the proxy server! Close that out.
 
@@ -55,27 +55,27 @@ Again from the application manager (the top-left corner icon in the DSM admin pa
 
 On the "Overview" pane in the VPN server you **you will start out showing no VPNs listed.** Once you've finished configuring the VPN, you'll see what I see - the NAS running the VPN and the VPN showing as enabled.
 
-![My overview tab after the VPN has been enabled](https://hyqi8g.dm2302.livefilestore.com/y2pgKemvTdyf7eSAYc46bYpbuwJz6a4GsTkKGvMvq6RaITZhsIJO3uUIjrTk94-EOMs7DuYO1mCQqCO4TLJWEnlfYhdzNe-JBn9Jsg1Gm-P5oc/20141114_pptp_overview.png?psid=1)
+![My overview tab after the VPN has been enabled]({{ site.url }}/images/20141114_pptp_overview.png)
 
 The VPN Server application offers several different VPN types to choose from. [You can read about the differences on this article.](https://www.ivpn.net/pptp-vs-l2tp-vs-openvpn) I chose to use PPTP for my VPN for compatibility reasons - it was the easiest to get set up and running and I had some challenges trying to get different devices hooked up using the others. **I am not specifically recommending you use PPTP, that's just what I'm using. The steps here show how to set up PPTP but it isn't too different to set up the other VPN types.**
 
 **On the PPTP tab, check the "Enable PPTP VPN server" option.** That's pretty much it. That gets it working.
 
-![Check the PPTP enabled box](https://hyqi8g.dm2302.livefilestore.com/y2pAMyVkIW42iJ37h6TCVXI5cw8AbJBojLzsZrVuKnhOD-bOzT1WSF7EhdwN02nzMHOQgjnJHmuOE1SPVcpefx6XKsF1Oq1yrKnj_42cCovJqY/20141114_pptp_settings.png?psid=1)
+![Check the PPTP enabled box]({{ site.url }}/images/20141114_pptp_settings.png)
 
 That's it for the VPN configuration.
 
 **To allow people to connect to the VPN on the NAS, we need to set up the firewall on the NAS.** In the Synology DSM control panel, go to the "Security" tab on the left, then select "Firewall" at the top. Click the "Create" button to create a new firewall rule.
 
-![Start creating a new firewall rule](https://hyqi8g.dm2302.livefilestore.com/y2pv2s0lZqFkOJUxLfAFvvFC5H31f3CyGrphqnZHdyg0SbJx1TmWU9lqOPtia_J4RCE9BzURKPOSMHYIVlU4ofYaZEiYws7WJ1RCUtFZ_rgB_I/20141114_firewall.png?psid=1)
+![Start creating a new firewall rule]({{ site.url }}/images/20141114_firewall.png)
 
 When prompted, choose the "Select from a list of built-in applications" option on the "Create Firewall Rules" page. This makes it super easy - the DSM already knows which ports to open for the VPN server.
 
-![Select from a list of built-in applications](https://hyqi8g.dm2302.livefilestore.com/y2pm__93NUVxX6Le7Fi_wYhCmBxwaXV2rZ06x92oNjYF46Itbvil9U9ss8PDIceXEP0BGnugexvos-ShjWvZcVNRJnEYVJAjVh-uJUVW0WVY50/20141114_firewall_setup1.png?psid=1)
+![Select from a list of built-in applications]({{ site.url }}/images/20141114_firewall_setup1.png)
 
 Scroll through the list of applications and check the box next to "VPN Server (PPTP)" to open the firewall ports for the VPN.
 
-![Select the VPN from the list of applications](https://hyqi8g.dm2302.livefilestore.com/y2pmFAvxjWQ1vo0AcbU2q1h-vz4iKf3DEhnEV8ED0pSJgcoy-caBIs5_4j5ttbdYyBx2cpE8yVFAITbqcfLGJxTcONhjnDLzze42DaqsVoLLsE/20141114_firewall_setup2.png?psid=1)
+![Select the VPN from the list of applications]({{ site.url }}/images/20141114_firewall_setup2.png)
 
 The firewall settings will be applied and you'll see it in the list of rules.
 
@@ -83,11 +83,11 @@ The firewall settings will be applied and you'll see it in the list of rules.
 
 In the DSM Control Panel, go to the "External Access" tab on the left and choose "Router Configuration" from the top. **This is almost identical to the firewall configuration process.** Click the "Create" button to add a new rule and you'll be prompted to choose from a list of existing applications. Do that, and select the VPN server from the list.
 
-![Choose "Built-in application" and select the VPN](https://hyqi8g.dm2302.livefilestore.com/y2pfzHh4QdfJ-OcTY9NbDj6yXcVF5KInyHfDYFWD6F64_wCWU72rO05rWBFdVADL-vjcOO5oC_DXkjAxC69vozEJ_iLssos4K-zdxVfSSIExLI/20141114_router_setup.png?psid=1)
+![Choose "Built-in application" and select the VPN]({{ site.url }}/images/20141114_router_setup.png)
 
 Once it's configured, the DSM will issue some commands to your router and the rule will show up in the list.
 
-![The router rule in DSM control panel](https://hyqi8g.dm2302.livefilestore.com/y2pKIc7kbvgZw1f9Ph-n-qvht5V_bc471i31JJdrQE35vxmFo7Qgkh0_5greCPwe_T8wnArriU1xa8g6pnTOM6cm-yHwiQ7aOlnSNNHjdAT-HU/20141114_router_config.png?psid=1)
+![The router rule in DSM control panel]({{ site.url }}/images/20141114_router_config.png)
 
 **That's it for your server configuration!** Now you have to connect your clients to it.
 
@@ -95,35 +95,35 @@ Once it's configured, the DSM will issue some commands to your router and the ru
 
 **Go to the main settings screen.** From here, you're going to choose "More settings."
 
-![Choose "More settings"](https://hyqi8g.dm2302.livefilestore.com/y2p13YXVMUye8ECIvX_xra6jxRowpQBlFdickbBFgZgho2N8JxwdZd3VGE3aI8PtAmfR_NY1BUrfouQQCm7TK38_Y5rh2ZovXseV3ZPW_MOXnM/20141114_android_vpnconfig1.png?psid=1)
+![Choose "More settings"]({{ site.url }}/images/20141114_android_vpnconfig1.png)
 
 **Scroll down to the VPN settings** and click that.
 
-![Choose "VPN"](https://hyqi8g.dm2302.livefilestore.com/y2pwpk83bT6x5vGEDgXK7pIILmfXN7_fCcGZKDToofZGwR7PjM5FJaidS7lSPRb9K-3EtpgGpw5JwWZqbbAODnkkbCBP2VYErTNYythcd38Bdg/20141114_android_vpnconfig2.png?psid=1)
+![Choose "VPN"]({{ site.url }}/images/20141114_android_vpnconfig2.png)
 
 **For a PPTP VPN, select "Basic VPN"** from the list.
 
-![Choose "Basic VPN"](https://hyqi8g.dm2302.livefilestore.com/y2pFvggaAxdKbNY6_kDAM3Yc2rIEnhrwRXWGLMMXhKxysIFGBxr_aNTWQmXulpBQV8KnSedR1mVvZfQkFN9p-Pgp96hoegjMGhW8M7OqrjWJFU/20141114_android_vpnconfig3.png?psid=1)
+![Choose "Basic VPN"]({{ site.url }}/images/20141114_android_vpnconfig3.png)
 
 Give your VPN a memorable name and **put the DDNS name for your server in the "Server address" box.**
 
-![Name your VPN and put the DDNS name as the server address](https://hyqi8g.dm2302.livefilestore.com/y2p5n0dQDwNA6_X3X9HzZ9nd537YJl87JHs9grIHrP7hvDXqZ-NCHbi69iGMZBcPETzOo_H-X1HpuW16pVeK1DsbEm2kvLV7dE9hdfEn6uF-Ho/20141114_android_vpnconfig4.png?psid=1)
+![Name your VPN and put the DDNS name as the server address]({{ site.url }}/images/20141114_android_vpnconfig4.png)
 
 **When you connect to the VPN you'll be asked for a username and password. Use the username and password from your user account on the Synology NAS.** (Remember that first step of setting up user accounts? This is why.)
 
 **The last configuration step is to set the proxy server.** Android 4 has this hidden inside the wifi configuration for each wifi hotspot. For the hotspot you're connected to, edit the settings and check the "Show advanced options" box. Fill in the proxy details using the **local machine name** of your NAS (*not the DDNS name*) and the proxy server port you have configured.
 
-![The proxy server configuration in the wifi hotspot](https://hyqi8g.dm2302.livefilestore.com/y2p5TXXgvvaN5dkl9G09ZT8Q3BFgvz01AI42TuLoJPI1aHja7Tm7eXNavxIT8RVDbDYmsGBZFFWh5l-aaKzJv2950UDiG0-hPWnUYZIoYvpCo4/20141114_android_proxyconfig.png?psid=1)
+![The proxy server configuration in the wifi hotspot]({{ site.url }}/images/20141114_android_proxyconfig.png)
 
 **Now connect to the VPN and the wifi hotspot at the same time.** Go back through the *Settings => More settings => VPN* path to find the VPN you configured. Connect to it and if you haven't previously set up credentials you'll be prompted. Connect to the wifi hotspot as well so it's using the proxy server.
 
 **When you're connected to both the VPN and the hotspot with the proxy settings, things work!** You will see a little "key" at the top of the phone showing you're connected to a VPN. You can pull up some VPN details from there.
 
-![The VPN details will show connection information](https://hyqi8g.dm2302.livefilestore.com/y2pmeAWA14K-BZX6_jICQRVGmBaj4RxQWbvjPG8mCj_uVXiWtjimE3Oyll_qJpuIyzuIxLxaTFitrwIGSyfR72PoV13rrLdKPknmxslUBRxScM/20141114_android_vpndetails.png?psid=1)
+![The VPN details will show connection information]({{ site.url }}/images/20141114_android_vpndetails.png)
 
 And here's a screen shot of me surfing my blog through my VPN and proxy server, securely from an open wifi hotspot. Note the key at the top!
 
-![Secure browsing through VPN and proxy](https://hyqi8g.dm2302.livefilestore.com/y2pwrexpcgQ4WY9kaca8eBB_uhqHXp6PAVCoMf_q9c67KBjIQTDMUebmlhLPgDU1HG73NO7GGI_4NmTB5Ok8iRuZCl_LHTMUdr_lszGKWci-_o/20141114_android_success.png?psid=1)
+![Secure browsing through VPN and proxy]({{ site.url }}/images/20141114_android_success.png)
 
 I'm still working out a few things and may change my setup as time goes on, but this is the easiest DIY VPN/proxy setup I've seen.
 

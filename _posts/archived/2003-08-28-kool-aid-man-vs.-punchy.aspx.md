@@ -7,9 +7,9 @@ disqus_identifier: 342
 tags: [food,humor]
 ---
 ![Kool Aid Man (4k
-image)](https://hyqi8g.blu.livefilestore.com/y2pS1uwy840NtAVU3ykBb60AldkZy3Elm8tt9kHhLr-mmajJX44EER6SfV8VsV8Uok_xkKae8yGii_CMwwSQZJmgXxvJzMHt5iEUYJG_rI2mrI/20030828koolaidman.gif?psid=1)
+image)]({{ site.url }}/images/20030828koolaidman.gif)
 VS. ![Punchy (2k
-image)](https://hyqi8g.blu.livefilestore.com/y2piXnMy0Edd4HYiOnGKHPHQE29ShTRbRWbY8stuUTd8nRIKminwP49YjUx7-awKghCIXaTyQeeDCswg3tjRd-QFtOH_tiN7k0D7bueILYVxD8/20030828punchy.gif?psid=1)
+image)]({{ site.url }}/images/20030828punchy.gif)
 
 
 

@@ -7,7 +7,7 @@ disqus_identifier: 1106
 tags: [General Ramblings]
 ---
 ![The Burger
-King](https://hyqi8g.dm2301.livefilestore.com/y2psaHIXsmGKqouOzIr3dJbH9Qyki8HnqZBs_C18yAdawjTm3PNRBnHrqWS03XxG-wdkG1842lguJ6Sy1t1DJSazqCR-ZIdOc20ICBCpOwQTtg/20061128king.jpg?psid=1)Burger
+King]({{ site.url }}/images/20061128king.jpg)Burger
 King has this crazy promotion going right now where you can get three
 Xbox/Xbox 360 games for $3.99 each when you get a value meal. The games
 are:

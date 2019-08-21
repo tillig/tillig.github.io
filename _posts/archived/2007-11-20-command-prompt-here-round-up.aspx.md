@@ -43,7 +43,7 @@ installs.
 Oh, and all of these together looks pretty crazy.  But it's useful.
 
 ![All of the Command Prompt Here options working
-together.](https://hyqi8g.dm2301.livefilestore.com/y2pL9BOo6gIL4SHHsuyPSLNHP1ap8G5VbS7F3S_pIlanpUbfBpp3TacI3DoMuT6Eh52Mjov0sohkY9nOwzAC1N8mqmRebp320Iu3gJFfDXd8oM/20071120cmdhere.png?psid=1)
+together.]({{ site.url }}/images/20071120cmdhere.png)
 
 Yours for the taking!
 

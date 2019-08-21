@@ -7,7 +7,7 @@ disqus_identifier: 151
 tags: [personal]
 ---
 ![Dita von Teese (16k
-image)](https://hyqi8g.dm2302.livefilestore.com/y2pYK-Xp73R6MCiMLtbqPM-QjRhSR5GVD3_WtGiikn5AYQ8UIRzL2dqkswC1mqEipPquG0mbHz7JM5s_tVHMvuGxjb-LyjZx-OYIOVtYjXEpu4/20021028ditavonteese.jpg?psid=1)I
+image)]({{ site.url }}/images/20021028ditavonteese.jpg)I
 will be the first to admit that there are three things out there that
 just *get me*: Corsets, stockings, and boots - in that order. There is
 nothing sexier than a woman in a classy, tightly laced corset.

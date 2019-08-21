@@ -32,7 +32,7 @@ moment, right? Camera's right there, so I pick it up, flip it around,
 and snap a photo:
 
  ![Um... that's not what I was going for. (3k
-image)](https://hyqi8g.blu.livefilestore.com/y2pw2NdFZ37m_HSl790aGHQYb1pOiAEJRKC0pKOtjVha-cHmMX89bwJEsHO8wZWE0WKk7IYHMKLhCu6KW4uzc4nc5jXWJBHWf38iUu9-lbHL2M/20030918ear.jpg?psid=1)
+image)]({{ site.url }}/images/20030918ear.jpg)
 
  Okay, so that didn't work too well. (You guys all think I'm taking a
 bunch of time when I get these pictures, but I'm actually just pointing
@@ -43,7 +43,7 @@ for a decent one.)
 mirror!
 
  ![Asshole in the rear view (9k
-image)](https://hyqi8g.blu.livefilestore.com/y2pEQicQUevbVRb1rpDj4TUk41iqDlvYKzP07tBbqtcPkFQdHiZAX5X8UOgVPlIA-Pa5LpkemQStnXFBful3x4BWbXDdHrKGaDEEjjxyF4BjYE/20030918rearview.jpg?psid=1)
+image)]({{ site.url }}/images/20030918rearview.jpg)
 
  That works much better. You can see just the tops of his headlights
 because he's backed off a little there.
@@ -64,7 +64,7 @@ he's exiting at the same place. Now's his chance! Time to make the
 move!
 
  ![Getting ready to exit (3k
-image)](https://hyqi8g.blu.livefilestore.com/y2pPNTU9QZUeJRbKLHXMZ6NPNW79FQ4asuLtkMLfDLMYEbdr_OAvW3WggSo3Ou0slmeA5u43mj4mz8-zUuZAzSreoX1LxGqxB3w2nC-XbEiq-k/20030918passing.jpg?psid=1)
+image)]({{ site.url }}/images/20030918passing.jpg)
 
  Well, exit time, so I'd best get over, too. Oh, no! I'm feeling bad
 about myself now! I'm behind the asshole!
@@ -74,7 +74,7 @@ cars*. Gee, getting that one car in front of me really got you far,
 man.
 
  ![Hey, look! You're stuck in the same line I am! (4k
-image)](https://hyqi8g.blu.livefilestore.com/y2pnz6cSUKDFRf3zoMO-TBggp9dFs8iSa5iCafYCGm5ZK7c6VVnSyJvWglspsMe4-zyDtNcxuBE9saNAF8GcfxP6qHuTjl6Y_2QpLDClN2pA-k/20030918exiting.jpg?psid=1)
+image)]({{ site.url }}/images/20030918exiting.jpg)
 
  I know what it was, though: He was excited to get to work to see if he
 had made **Traffic Asshole of the Week**. Congratulations, buddy, you

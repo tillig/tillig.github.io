@@ -24,7 +24,7 @@ that was previously in front of me. What was the point of that? Four car
 lengths and no speed gain? Where did he think he was going?
 
  ![20030926\_taotw (9k
-image)](https://hyqi8g.blu.livefilestore.com/y2pTHZIRiR-7vPXuylbJWFHxzc4g1aPmh0hFk497PaoBiEz1ejWxP09ohfCqZtUTia-enJ55n9EXcIGmmkoE0F69tEz0c3P7dNnkoWqxd622R8/20030926taotw.jpg?psid=1)
+image)]({{ site.url }}/images/20030926taotw.jpg)
 
  Lesson for the uninitiated: Regardless of how fast you might *like* to
 go, your speed is always regulated by the *line of cars in front of

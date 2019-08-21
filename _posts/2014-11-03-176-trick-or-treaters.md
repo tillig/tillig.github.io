@@ -8,7 +8,7 @@ tags: [halloween,costumes]
 It was raining this year and I think that put a damper on the trick-or-treat count. We also didn't put out our "Halloween projector" that puts a festive image on our garage, so I think the rain, combined with lack of decor, resulted in quite a bit fewer kids showing up. When it was busy, it was really busy; but when it wasn't... it was dead.
 
 ![2014: 176
-trick-or-treaters.](https://hyqi8g.dm2302.livefilestore.com/y2ptgpcFioqJtc5Sxsabtft4-Q8DAtD_NtiZEhIa6XxRRT8cYdaxpN9fGdfkDDbK0Q24Oeu2UpssRY8X5gDPDirrI1cLSVr7ykjX6vleoJW6Xo/20141103_trickortreatcount.png?psid=1)
+trick-or-treaters.]({{ site.url }}/images/20141103_trickortreatcount.png)
 
 The graph is starting to look like a big mess so I will probably start keeping more like "the last five years" on there. I'll also keep an overall average graph to keep the bigger picture.
 

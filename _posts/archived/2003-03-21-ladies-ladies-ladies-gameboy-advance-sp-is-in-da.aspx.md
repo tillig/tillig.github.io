@@ -7,7 +7,7 @@ disqus_identifier: 232
 tags: [gaming,gameboy]
 ---
 ![GBA SP - And it's
-MINE!](https://hyqi8g.blu.livefilestore.com/y2pbtPEXcLypkYbV7M8yvpurIuTAFkMgNrXwMlDVKEE0V5FqnCbAEYzRcbYIrl4rlPZzWTbElz5YCWYo_Oxajxa12-ytQkGZr3xpy-YCqsyyMw/20030321gbasp.jpg?psid=1)Got
+MINE!]({{ site.url }}/images/20030321gbasp.jpg)Got
 the call last night about 4:45p that my GBA SP was waiting for me at the
 local GameSpot. Picked that bitch up by 5:30p. Plugged it in, it was
 charged and set to go by 9:30p (the first time you charge the battery it
@@ -30,7 +30,7 @@ finish up here, I'm going to take a little of my lunch break and bust it
 out.
 
  ![E-Reader Attached to GBA
-SP](https://hyqi8g.blu.livefilestore.com/y2pmGejALEac9EjaLUwWT362qMWKN9DGfXo2otm-iyRPrHhE3mfoT9TPPapsKivU7VlHFRN8iKvRnmqYC7R7-hzmWBCt60HEsLyiA1g6ZMQxPk/20030321ereader.jpg?psid=1)I
+SP]({{ site.url }}/images/20030321ereader.jpg)I
 also went to Toys R Us and bought the [Nintendo
 e-Reader](http://www.amazon.com/exec/obidos/ASIN/B00006LELP/mhsvortex).
 I highlighted it, attached to my GBA, in the picture, so you can see how

@@ -7,7 +7,7 @@ disqus_identifier: 866
 tags: [media,movies,tv]
 ---
 ![Jessica Simpson is Daisy
-Duke](https://hyqi8g.dm2303.livefilestore.com/y2pFhpqGmGjxhH7cYoO0PcE9Ux5qiek8vMkI12ziJnGujJi02iYCHB4vPpcFwJTMSlCUqhjdCP34naAB9rEEC7MNHIMifWAfXGSOBan394QMgY/20050808dukes.jpg?psid=1)Saturday
+Duke]({{ site.url }}/images/20050808dukes.jpg)Saturday
 [Stu and Tif](http://www.stuartthompson.net) joined Jenn and I in
 checking out [*The Dukes of
 Hazzard*](http://www.imdb.com/title/tt0377818/).

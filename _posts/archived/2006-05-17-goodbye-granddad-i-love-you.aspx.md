@@ -40,9 +40,9 @@ though, just the rest of us.
 
 ---
 
-[![Granddad and Travis fishing, June 1988 - whoops! Dropped the fish!](https://hyqi8g.dm2302.livefilestore.com/y2pO-DQtOM9Hp4aJ520khszB9xDhPh7gdMVcSYKEtvA2j2elASZSE0WYkgN2QHMO6jS8zC8z8AlJ0e1aF2wvAXslSRdyVhx5umQ9aZwNA96q2A/20060517fishing1_sm.jpg?psid=1)](https://hyqi8g.dm2302.livefilestore.com/y2ptcgQeWiqBd63EPMYYzM9XAsZtt8EGPr5gKDG6NuxejmU6v2lzf2OHGZd4j7_oOdGJqoiRKPXD03qQo8WLx2R7ajq6SeRWFK89s6KSOXkyog/20060517fishing1_lg.jpg?psid=1)
+[![Granddad and Travis fishing, June 1988 - whoops! Dropped the fish!]({{ site.url }}/images/20060517fishing1_lg.jpg)
 
-[![Granddad and Travis fishing, June 1988 - Proud catchers of the smallest fish you've ever seen.](https://hyqi8g.dm2301.livefilestore.com/y2pebadbXCRu7mE0xQBt405gc0ezQZRA63USCY54ac-osA5_lGaeTf5D6dxmcwIhBfZ4ydrBFw7nNlFFZ72u9ZYOd_WH_csBkthO3W6CVCdseo/20060517fishing2_sm.jpg?psid=1)](https://hyqi8g.dm2301.livefilestore.com/y2pgCNtf73LliaX0QhqCSZFhQxNLLzumsEWjaDQFxZqf-G-70Y99dSQDcduuINT-ZW7W5N7E04xmG6d_w_s12g7oztd5vHRY6MOXnjBFUkyRkc/20060517fishing2_lg.jpg?psid=1)
+[![Granddad and Travis fishing, June 1988 - Proud catchers of the smallest fish you've ever seen.]({{ site.url }}/images/20060517fishing2_lg.jpg)
 
 ---
 
@@ -80,7 +80,7 @@ festival, having seen and done it so many times.
 saw.
 
 ![Housewarming gift from
-Granddad](https://hyqi8g.dm2301.livefilestore.com/y2pYyeTno0_tsy7XVi_verMymnI2W6okFeUpcQMCAELFNyXgYB4vnw8hMit0gLOhjmd3xxQtgRkV2zJKdAsv5fKomVUp41a9ROIBKNBj89jm4Y/20060517scrollwork.jpg?psid=1)
+Granddad]({{ site.url }}/images/20060517scrollwork.jpg)
 
 This
 is a picture of the housewarming gift he gave Jenn and I when we moved

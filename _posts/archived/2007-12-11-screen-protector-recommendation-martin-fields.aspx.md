@@ -7,7 +7,7 @@ disqus_identifier: 1320
 tags: [General Ramblings]
 ---
 [![Martin
-Fields](https://hyqi8g.dm2304.livefilestore.com/y2ps2aXlQ3mJVtYbDqK-T1Zx56op1ZxCV5VD7n8lOZ-CY-b-AjV9rnO4siFcG12XYCIz_12g9jCvupQGy7KAnbL2yMBl_cbFgc1s37ctozOwCA/20071211martinfields.gif?psid=1)](http://www.martinfields.com/US/index.asp)I've
+Fields]({{ site.url }}/images/20071211martinfields.gif)](http://www.martinfields.com/US/index.asp)I've
 got screen protectors on my PSP, my new iPod Classic, and various PDAs. 
 I've tried several different brands, but I have to say my favorite is,
 by far, [Martin Fields](http://www.martinfields.com/US/index.asp).  Easy

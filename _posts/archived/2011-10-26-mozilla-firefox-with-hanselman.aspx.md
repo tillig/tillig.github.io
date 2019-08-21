@@ -11,7 +11,7 @@ addon](http://www.firefoxwithbing.com/), which prompted Scott Hanselman
 to tweet a bit:
 
 [![Ok, can we get a Mozilla Firefox with Hanselman branded browser
-now?](https://hyqi8g.blu.livefilestore.com/y2pjGLifOliSBQ8fNzWInBj_USQUJvj5-PJ0kq4QurXKPhd7c7nox__dEV_derIXnFwECW3LoNgVAzbHAStagv7Qp3XYpGaxF6s62tU7pz8LIQ/20111026hanseltweet.png?psid=1)](https://twitter.com/#!/shanselman/status/129245138013782016)
+now?]({{ site.url }}/images/20111026hanseltweet.png)](https://twitter.com/#!/shanselman/status/129245138013782016)
 
 Looking at the addon code, it was released under MPL 1.1/GPL 2.0/LGPL
 2.1 so...

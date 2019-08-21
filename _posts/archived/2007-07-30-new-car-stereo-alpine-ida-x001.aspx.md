@@ -13,7 +13,7 @@ I've been wanting a stereo that has direct iPod integration for quite
 some time now so she took me to [Car Toys](http://www.cartoys.com) and
 we picked this one out.
 
-![iDA-X001](https://hyqi8g.dm2302.livefilestore.com/y2pUZikVijdQNJL9OosdO_8yDHSJnKtu4qN5RlP9iCyEIwfiihrs9GJl9gZbqM-raRnHbrZfScPPktsde1tltzfWOAP1uuibjeq7yjn8PrM93A/20070730idax001.jpg?psid=1)
+![iDA-X001]({{ site.url }}/images/20070730idax001.jpg)
 
 It's more of a controller than anything else, relying on external
 peripherals to supply the music source.  It's got a USB connection that

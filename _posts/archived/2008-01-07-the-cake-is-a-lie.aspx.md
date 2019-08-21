@@ -20,7 +20,7 @@ this is way, way different. Basically, it's a first-person puzzle game,
 which is something I'd never come across before.
 
 ![The Orange Box:
-Portal](https://hyqi8g.dm2301.livefilestore.com/y2pMDYyHOq5FsxNnYNAYRhoYTuTZKrcZvfGFcxaArqhj4RkZg6m88gNtB2tnEMD_31oZ_Dvq03MeKuXX74y6hbBgZ2V_hRmpuRYKXy6pGc-zXI/20080107portal.jpg?psid=1)The
+Portal]({{ site.url }}/images/20080107portal.jpg)The
 idea is that you are in a testing facility for a company called
 "Aperture Science." You've got a gun that shoots, basically, "holes."
 You shoot a wall, and a hole appears. Then you shoot a different wall

@@ -7,7 +7,7 @@ disqus_identifier: 1254
 tags: [traffic,personal,activities]
 ---
 ![The Blue Angels do their famous delta
-formation.](https://hyqi8g.dm2301.livefilestore.com/y2pDT-HmKuQt9xsF80XW_fhj12pb0MZFsMlDZru5g2KXSYdSfYS2J3-HSk70_3RF1v4J0WZCanqZVNOzIMLreV3OeXl5dslRf_dzUkO36z35C0/20070813blueangels.jpg?psid=1)The
+formation.]({{ site.url }}/images/20070813blueangels.jpg)The
 [Oregon International Air Show](http://www.oregonairshow.com/) was this
 past weekend and it was pretty cool.  Since Jenn and I live near the
 airport, we get a pretty decent view of the show just by sitting on our

@@ -17,7 +17,7 @@ turned out reasonably well - on the left, a B52; on the right, a Peach
 Haze.
 
  ![B52 and Peach
-Haze](https://hyqi8g.blu.livefilestore.com/y2pbSMf3YGi_PjXEmmlGdLrhWdlYURLoWtwn9xbkAI5h2PDv58-OeSdL_A-a5fwTXIeCqlEAH2swakBsZJ8VkIzOcUJAa3CGWI1mJHxFWZEOjk/20031230drinks.jpg?psid=1)
+Haze]({{ site.url }}/images/20031230drinks.jpg)
 
  I've also been working on staining a wooden shelf that I bought at the
 craft store the other day. I thought that buying a raw shelf and then

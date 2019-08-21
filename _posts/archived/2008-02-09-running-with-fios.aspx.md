@@ -12,7 +12,7 @@ everything transferred over to use the Verizon router and Xbox Live, my
 primary network problem child, seems to be working swimmingly.
 
 ![15494kbps download/1847kbps
-upload](https://hyqi8g.dm2303.livefilestore.com/y2pQucJUJUk7X40Vz6jtxCsqr8LZb4PIvcKJ3nUhzgHSn5KKrxZGEJtgh2tOsEmRigq_d2jmWDxILv2T5TQDf3Lu9c0Xg4gCHI1wP56khpThP4/20080209speedtest.png?psid=1)
+upload]({{ site.url }}/images/20080209speedtest.png)
 
 Of course, it didn't come off without a hitch - the person taking our
 order mistyped the phone number, so the installers couldn't really

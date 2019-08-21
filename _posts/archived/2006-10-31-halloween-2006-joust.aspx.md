@@ -11,7 +11,7 @@ It's Halloween once again, and this year I went as a knight from the
 [*Joust*](http://en.wikipedia.org/wiki/Joust_(arcade_game)).
 
  ![Joust! Complete with
-ostrich!](https://hyqi8g.dm2302.livefilestore.com/y2phRVApgf3AsC0tObMJ4Zhr6iMB4BRZoD9aYPazoAOz4xjB3Qfmvy5AgGst0sriTjJN9dqfImQGYURM7ZhN4wqeYdl9bcHS_R4dvNtv2SfNZs/20061031joust.jpg?psid=1)
+ostrich!]({{ site.url }}/images/20061031joust.jpg)
 
  I'm pretty stoked with this one, especially considering it came
 together so quickly. I didn't have a chance to make anything this year

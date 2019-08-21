@@ -8,7 +8,7 @@ tags: [General Ramblings]
 ---
 ![The B-52s play the Oregon Zoo. Yes, this is a horrible picture. Trust
 me, it's
-them.](https://hyqi8g.bl3302.livefilestore.com/y2pt8gp1EJjZRWRkgdatD1DXgxOSzu95_1IWnED0lUv5UGfFunqMPkAHZw7xNw3QSpurkkCPXlJHSMC80SIwTddx5esSBz60-VKWLaIKcB9M6I/20090622b52satzoo.jpg?psid=1)Jenn
+them.]({{ site.url }}/images/20090622b52satzoo.jpg)Jenn
 and I went on a little adventure on Friday night and saw [The
 B-52s](http://theb52s.com/) live at [the Oregon
 Zoo](http://www.oregonzoo.org/). The zoo has [a pretty awesome concert

@@ -7,7 +7,7 @@ disqus_identifier: 1391
 tags: [GeekSpeak,net]
 ---
 [![Typemock
-Expert](https://hyqi8g.bl3302.livefilestore.com/y2pT-3wJ9xIiNTsiB-CjLCbRndeZMAy75i6ARz6GSIAlwcEf0a5D2cJQUjyG3w1WGFe9Qqzt2Gs_PaGUUtid4eos8ONv8eQItfzJMEh4qEtotI/typemockexperteg1.gif?psid=1)](http://www.typemock.com/experts.html)I
+Expert]({{ site.url }}/images/typemockexperteg1.gif)](http://www.typemock.com/experts.html)I
 am fortunate enough to have been named a [Typemock
 Expert](http://www.typemock.com/experts.html).
 

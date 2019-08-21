@@ -32,7 +32,7 @@ Shoe Goo ([Fred Meyer](http://www.fredmeyer.com)) - $3.95
 need one.
 
  ![Cambria Gun Metal Paragon
-Finials](https://hyqi8g.dm1.livefilestore.com/y2pf-jnOLlDdVUfvcGfulphIX6AheKakom9-MaHUSwE-VcZj5GagE0r_o6GkPpW952fdytPF5Xgu9IeADN1tEMv0xOHBN0t0tgFG2UQ54drAwg/20050911stick_01.jpg?psid=1)
+Finials]({{ site.url }}/images/20050911stick_01.jpg)
 
  You'll need to paint white swirling stripes on one of the finials. This
 is the hardest part of the whole project. I made a swirl template and
@@ -44,7 +44,7 @@ done, so don't expect you'll have it in an afternoon.
 need to disconnect the finial you're painting from its connector.
 
  ![Before and after image of the
-finials](https://hyqi8g.dm2304.livefilestore.com/y2pm3oD6cFnBIUDyfz_Sedu_JjF3-FGtlbtFIdVY1Sgq_zd1xtlfljqLZW234egzYIV8Xp0qPr975pPfZ-Bspbnpp6w49BkEq065NvIgdGE5c8/20050911stick_02.jpg?psid=1)
+finials]({{ site.url }}/images/20050911stick_02.jpg)
 
  The screw that normally connects the finial to the curtain rod comes
 off the finial connector. Remove it, but leave the screw that connects
@@ -85,14 +85,14 @@ makes it so the Dixie cup is sitting on the ground and the screw isn't
 oddly positioned.
 
  ![Attaching the finial connector to the PVC
-pipe](https://hyqi8g.dm2303.livefilestore.com/y2pvtpeb-bIvp7viIHO02HXoB2a_Q0tuYy9Qksjdzz8RhyrmwETp-QZ_QvvTuRE5lmD75rz5Qu11Ll3n1lbO-U3Sl2FMwn4oJp8aNo50YrjsjU/20050911stick_03.jpg?psid=1)
+pipe]({{ site.url }}/images/20050911stick_03.jpg)
 
  Once that's dry, you can trim any excess Shoe Goo from around the
 finial connector with a knife and then connect your finished, painted
 finial ball to the walking stick.
 
  ![Attaching the painted finial to the finial
-connector](https://hyqi8g.dm2301.livefilestore.com/y2prlS3XkGa2m6u294KAwqc5bOEe3cHSgd9rpFs5gUmc0WFSk0Wz1-X9kVYpQa4jTvzppxQfhnSNYptRecd5ms5tZW3wdNWVdDBk1-wwu2je-Y/20050911stick_04.jpg?psid=1)
+connector]({{ site.url }}/images/20050911stick_04.jpg)
 
  Now for the really easy part. Get the rainbow sprinkles and your silica
 gel packets out.
@@ -102,7 +102,7 @@ need that much. I didn't bother doing the math or anything, but about
 half a pound should do you.
 
  ![Rainbow sprinkles and silica gel
-packets](https://hyqi8g.dm2301.livefilestore.com/y2pQepqaNshGb_2kVZpjIp0IGguRxORwDFOVLCUCipnOXli2FtMdwVcjKxn4vgMTgf5A7pSzXUw7EMqafhOCX44Dmp7m2u5YkJA_YW9CNuNa_E/20050911stick_05.jpg?psid=1)
+packets]({{ site.url }}/images/20050911stick_05.jpg)
 
  Using a funnel, fill the cane up with rainbow sprinkles. Fill it all
 the way to the very end, leaving only about a millimeter or two of
@@ -115,7 +115,7 @@ sprinkles to jiggle around in.
  Now, pull one of the cane tips out of the box...
 
  ![One-inch cane
-tips](https://hyqi8g.dm2304.livefilestore.com/y2p0SMBLN41HpeQw8r0ItCYKbJ9Ub3ed7bDVOmAQW4pYouJpy1u-q4PT4H7HRVHMdJ0gz9yUx_ZdwFej83htghp0FIwqRjAM4Wy6xtO-wztoZw/20050911stick_06.jpg?psid=1)
+tips]({{ site.url }}/images/20050911stick_06.jpg)
 
  ...and push it onto the end of the cane. It will be a pretty snug fit
 (the cane tips fit 1" canes and the outside diameter of the pipe is
@@ -124,7 +124,7 @@ tips](https://hyqi8g.dm2304.livefilestore.com/y2p0SMBLN41HpeQw8r0ItCYKbJ9Ub3ed7b
  That's it! You're done!
 
  ![The finished Wonka walking
-stick](https://hyqi8g.dm2303.livefilestore.com/y2pjFSvpznBS79v6kVA_ki7xwfGlDIeu0F8m0C1sE194mqoItYBppQ9JMNr2HATpvY1z4Yz9o08rbSWTTzKTrQCMBwFqUjMIv_qbXuv8esJEnw/20050911stick_07.jpg?psid=1)
+stick]({{ site.url }}/images/20050911stick_07.jpg)
 
  I've seen a couple of links out there to more authentic looking walking
 sticks. Unfortunately, I had already invested the money in materials

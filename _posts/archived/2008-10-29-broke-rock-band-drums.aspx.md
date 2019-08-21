@@ -9,7 +9,7 @@ tags: [gaming,xbox]
 I finally wore out my original Rock Band drums last night:
 
 ![That shadow is a
-dent.](https://hyqi8g.blu.livefilestore.com/y2ppidzg09_oRgDl9ttecMiZ8jne4tzhHEhG0NkIF5MoaKIIU6tBBUYTE1KV0F20yHBK9Kidzyhla0dbUMWqtgbAZAPjy0ThrCw_2O_CZv3z3I/20081029brokendrumpadek6.jpg?psid=1)
+dent.]({{ site.url }}/images/20081029brokendrumpadek6.jpg)
 
 The shadow I circled in the picture above is actually a big dent in the
 pad. The underlying plastic is broken and the only thing holding it

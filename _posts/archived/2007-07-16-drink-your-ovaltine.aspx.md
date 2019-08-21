@@ -42,7 +42,7 @@ awesome I am with this bitchin' prize*.  I pulled it out and...
 *What the hell kind of happy horseshit is all this?*
 
 ![What is that? Golf club? Thumbs up? Speech
-bubble?](https://hyqi8g.dm2301.livefilestore.com/y2pBykNu_tOpZFKdvZS7wlulZnY3fc-dTn8DHdT8yx5z98y-wTKU2NXjiWxyQ4maUJ78EXro8BCKI-b1AAj1VhY9Do9ahXE_KXtctXlwjXkiDc/20070716whatisit.jpg?psid=1)My
+bubble?]({{ site.url }}/images/20070716whatisit.jpg)My
 "fabulous prize" is a t-shirt of dubious manufacture.  No brand I've
 ever heard of.  Far too thin to wear without - you guessed it - *another
 t-shirt underneath*.  (Hey, not even *my wife* wants to see my man-boobs

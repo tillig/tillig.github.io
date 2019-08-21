@@ -28,12 +28,12 @@ can't even tell they were here.
  Here's a backyard panorama of the trenches in place (click for a larger
 version):
  [![Backyard with trenches dug in - click for a larger
-version.](https://hyqi8g.dm2302.livefilestore.com/y2p3I8kypr_LDZYyVU9TQz1ZsdxGJ0Em-VtLmtNfPQla9fy_0DmrdaTokMurIHxk6gAY_kXzfox-Qxw7-0Nz5yr2KkZzxoUgcIt4xjWChZhp40/20060804sprinkler1_sm.jpg?psid=1)](https://hyqi8g.dm1.livefilestore.com/y2pg343TpnSxZ2noaVhntssw5RrDCLVRhVlUNqIUeORlY6KxLnqbK226vI8Vlu3fPZKl_-YkoipBMmPhzYZB9ueW9W9Nwn1RPZxIiiO4Pxyvog/20060804sprinkler1_lg.jpg?psid=1)
+version.]({{ site.url }}/images/20060804sprinkler1_lg.jpg)
 
  Pretty crazy. Then here's the finished backyard (click for a larger
 version):
  [![Backyard finished - click for a larger
-version](https://hyqi8g.dm2302.livefilestore.com/y2pZqQQ4N2tGMvgrDqVCtCFmXs1CL8Sk9Fu0vsnE9HZ_aaZ9UCnbVzpou7hp0p2FtFnOuUcaopt3B0MHHUh0vVMw_Oyj4N8liRWfX-C5ir7-MM/20060804sprinkler2_sm.jpg?psid=1)](https://hyqi8g.dm2302.livefilestore.com/y2pffzmDw8Tnikfh0G9L3CbVmYa-LehdwFGZhDCRtyoNK2bURl8EN1v9Q_GXtOZM-uKutPFQOmkfR39eNDiqwzs3L1LP9A7ybdvhBkRVtw6c8w/20060804sprinkler2_lg.jpg?psid=1)
+version]({{ site.url }}/images/20060804sprinkler2_lg.jpg)
 
  Not too shabby, eh?
 

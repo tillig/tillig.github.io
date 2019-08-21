@@ -7,7 +7,7 @@ disqus_identifier: 1549
 tags: [General Ramblings]
 ---
 ![Tears for Fears performs at the Oregon
-Zoo](https://hyqi8g.bl3301.livefilestore.com/y2pbUX3QC3CdrmoObpMWFU19YNpo7Sm_pVM4aogdT9GK23p_ZVM1C9LfZQt-oXfsMY25xi4PNSKJ3oviBcjzbzHJ7FeYbqaRsjRMr6O-O6V5-M/20090713tearsforfears.jpg?psid=1)Saturday
+Zoo]({{ site.url }}/images/20090713tearsforfears.jpg)Saturday
 evening Jenn and I went to the Oregon Zoo to catch the Tears for Fears
 concert. I gotta say, it was awesome. Hearing the hits played live was
 so cool - the crowd singing along to "Head Over Heels," dancing to

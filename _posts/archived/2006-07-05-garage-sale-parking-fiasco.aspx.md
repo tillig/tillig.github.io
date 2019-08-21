@@ -18,7 +18,7 @@ development to buy up junk.
  The photo: Taken through my front window blinds. Let's study this one:
 
  ![Two parking assholes in
-one](https://hyqi8g.dm1.livefilestore.com/y2pb3sg8DLjrCYdHjuVRaB9WJuYapagfA0y0pmzvQbknoNFSAIJkAyM8R5i__IW6EVd89M83FWSTmnlgThJHE0Xqj0b-UhS9eSV6j7E5Zvu-3Q/20060705taotw.jpg?psid=1)
+one]({{ site.url }}/images/20060705taotw.jpg)
 
  There are two (2) assholes in this one.
 

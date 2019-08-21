@@ -28,7 +28,7 @@ TecTiles are small, about an inch square, and are stickers. Here's one
 still on the backing paper:
 
 ![Samsung TecTile NFC
-sticker](https://hyqi8g.bl3302.livefilestore.com/y2p361EL7qRKe8J5xWwKhm-RDblFFGYzHftIgZ-YRqF7Zg-3TXtM3ZBFilRYQUP5CsXK2pv_LTQzPyjUPJ9JlbkrG6j55et70mWBQ5ok0Vu0Jg/20120717_TecTile.jpg?psid=1)
+sticker]({{ site.url }}/images/20120717_TecTile.jpg)
 
 They run roughly $3 each - [you get them in a pack of 5 for about
 $15](http://www.amazon.com/dp/B0089VO7RY?tag=mhsvortex), though
@@ -37,7 +37,7 @@ sometimes you can find them a little cheaper.
 To program them, you first open the TecTiles app.
 
 ![Samsung TecTile app: Pick a TecTile
-Type](https://hyqi8g.bl3302.livefilestore.com/y2phNwqqjl9mR0KTzd4dlxS5cVOw329rA3rRujQS4kc0KPFott7G10uHSJkWH84XL2etku17NAZQzUvbT5X7KvmHEaQRpWPIe5jNPd6rJ4ulXc/20120717_TecTileCap1.png?psid=1)
+Type]({{ site.url }}/images/20120717_TecTileCap1.png)
 
 From there, you can pick what you want the TecTile to do. You can choose
 from "Settings & Apps" (have it change phone settings or launch an app);
@@ -50,20 +50,20 @@ For this walkthrough, I'll choose "Settings & Apps." Once you do, you
 get asked what sort of tag you want to make.
 
 ![Samsung TecTile app: TecTile
-Action](https://hyqi8g.bl3301.livefilestore.com/y2pYQMIsOwXiwqDglpvnUOKZL4wQNG-BX_DSBOtwFJGBLt2msqhcwelsMfYnUrpkj5UIiEp1KOMqZ4TtcYnEkMTcmcVxeWeH9J0IAaxBAi-MEM/20120717_TecTileCap2.png?psid=1)
+Action]({{ site.url }}/images/20120717_TecTileCap2.png)
 
 I chose "Change Phone Settings." Then you get to choose which settings
 you want to change.
 
 ![Samsung TecTile app: Change Phone
-Settings](https://hyqi8g.bl3302.livefilestore.com/y2pSuQ6NFcKweu4IQ8dDMqc18JVHYgErUkLMUtndtS8P9lizbaugs8GOJXt0cskdIBbAwBInqnKd2u0XepPPwSAhtRifVWgzTbI59jP9N4wQzo/20120717_TecTileCap3.png?psid=1)
+Settings]({{ site.url }}/images/20120717_TecTileCap3.png)
 
 You can select more than one setting at a time, but for now I just chose
 to set my phone in Silent mode. The next screen gives you some options
 about what exactly you want it to do.
 
 ![Samsung TecTile app: TecTile setting
-values](https://hyqi8g.bl3301.livefilestore.com/y2pQViHRUZvir0NWrMoLuPoKPmXGeOR_v8_L_1iYXRqnpuxWP8d5nGwETCf1CC7cg5YGLGNnhV8uGt18P1AS_wmxNbgDtWpHIh-7m_EzIFYxEw/20120717_TecTileCap4.png?psid=1)
+values]({{ site.url }}/images/20120717_TecTileCap4.png)
 
 In this case, I want the tag to set my phone into Silent mode. This is
 something I might put on my desk at work so when I get in I can scan the
@@ -71,7 +71,7 @@ tile and have it in "work mode." Once it's all set, you're ready to
 program the TecTile.
 
 ![Samsung TecTile app: Write
-TecTile](https://hyqi8g.bl3301.livefilestore.com/y2p83iD1FHviVa7AkhJ_jBXVSXebrn1olc7d3t6yQrXdv7R8ELKnUitrQyBPibDryNxYgPaiAETXV2oj0WeDNJ8mxHxkh4Ez2JcvPCKxYv4bYI/20120717_TecTileCap5.png?psid=1)
+TecTile]({{ site.url }}/images/20120717_TecTileCap5.png)
 
 You just hold the phone over the little TecTile sticker, magic happens,
 and it's programmed. You'll notice there are options to "lock" the
@@ -92,13 +92,13 @@ case here, where I'm setting my phone to silent mode, you still get an
 alert that the browser is launching:
 
 ![Scanned TecTile: launching the
-browser](https://hyqi8g.bl3302.livefilestore.com/y2pvGOOxrBnXQ_5lW7cNt4zun7qyyPXogBc-S6z9ZIlRkZZfqG8gsM5QKUwbAchROlg7-vm_0EFkKul8tL4SGf9Ok_BE6FeyUGqYBY60whP2-Q/20120717_TecTileCap7.png?psid=1)
+browser]({{ site.url }}/images/20120717_TecTileCap7.png)
 
 But when I click "OK," the browser doesn't come up - instead the TecTile
 app takes over and notifies me my phone is going into Silent mode.
 
 ![Samsung TecTile app: Reading
-TecTile](https://hyqi8g.blu.livefilestore.com/y2pFdFkk2dqCXlrVNffkuZg8mp_Z8Oszx3WEbpChtjxxG39UfUVn1DX4GHncudfSB4vZ9jGEDz4XaasanNrJg-dnWC4jobClSnrvJISQ5Eb1cY/20120717_TecTileCap8.png?psid=1)
+TecTile]({{ site.url }}/images/20120717_TecTileCap8.png)
 
 Then that screen disappears and I go on my merry way.
 

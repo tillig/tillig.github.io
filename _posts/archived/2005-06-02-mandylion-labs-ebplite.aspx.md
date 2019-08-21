@@ -20,7 +20,7 @@ models are light-years better than the original/older versions, he
 happened to have one of the older ones he could send me to play with.
 
  ![Mandylion Labs
-ebpLite](https://hyqi8g.dm2301.livefilestore.com/y2pnTnpktOc9Av4TPEP6DIlsq_sD9wqnupd3VvVaZcFJOX0NDFxBjQF5Ocv7zjGOnOojSJGgZRAmLoj6p_MclH0ZxQPkBuO_x-iXZeJLy6oA98/20050602mandylion.jpg?psid=1)Enter
+ebpLite]({{ site.url }}/images/20050602mandylion.jpg)Enter
 the Mandylion Labs ebpLite. Very simple five-button interface (just like
 the newer models), securely stores 20 passwords, has the ability to
 auto-generate passwords, remind you when passwords expire... Pretty

@@ -84,19 +84,19 @@ Let me drop some code on you and then we'll walk through it:
       <PropertyGroup>
         <!-- Coverage logs and such will be placed here. -->
         <LogDirectory>$(MSBuildProjectDirectory)\log</LogDirectory>
-        
+
         <!-- Build configuration (Debug or Release). -->
         <BuildConfiguration>Debug</BuildConfiguration>
-        
+
         <!-- Path to the NCover 32-bit installation (MSTest is 32-bit). -->
         <NCoverPath>$(ProgramFiles)\NCover\</NCoverPath>
-        
+
         <!-- Path to the NCover build tasks (different path than NCover 32-bit on a 64-bit machine). -->
         <NCoverBuildTasksPath>$(ProgramW6432)\NCover\</NCoverBuildTasksPath>
-        
+
         <!-- Path to the Typemock Isolator installation. -->
         <TypemockPath>$(ProgramFiles)\Typemock\Isolator\6.0\</TypemockPath>
-        
+
         <!-- Path to the unit test assembly for easier test execution. -->
         <UnitTestAssembly>$(MSBuildProjectDirectory)\CoverageDemoTests\bin\$(BuildConfiguration)\CoverageDemoTests.dll</UnitTestAssembly>
       </PropertyGroup>
@@ -143,7 +143,7 @@ Let me drop some code on you and then we'll walk through it:
         <PropertyGroup>
           <!-- Path to Typemock Console Runner. -->
           <TMockRunner>$(TypemockPath)TMockRunner.exe</TMockRunner>
-          
+
           <!-- Path to NCover.Console Runner. -->
           <NCoverConsole>$(NCoverPath)NCover.Console.exe</NCoverConsole>
         </PropertyGroup>
@@ -220,7 +220,7 @@ NCover Explorer offers a way to start an application and profile it from
 right in the UI.
 
 ![NCover Explorer "New Project" settings
-dialog](https://hyqi8g.blu.livefilestore.com/y2ptPPEhDEwHOBXMnDz5__Sl1tB8D45Dz9CZdtzC8svaqVAa_ya-5dLSd1TR0vXvSlssgkjh8uduiW6ClPxWuSZ_ATnjgCzpu_ZRmVb3o4BAvc/20110208ncoverexplorern.png?psid=1)
+dialog]({{ site.url }}/images/20110208ncoverexplorern.png)
 
 **This won't work the way you think** because NCover Explorer tries to
 start NCover first. Remember the critical ordering, above, where
@@ -239,13 +239,13 @@ application to profile as MSTest.exe and set your "testcontainer" to
 your unit test assembly:
 
 !["Application to Profile" settings in NCover
-Explorer](https://hyqi8g.blu.livefilestore.com/y2pMypW5_dcc0LY00LHw1bmzZKyw9sAnaStm4NUSYawNDjaGbPY3FeZ0RVj-bsyOSJ2nLCkx-KtSoWoPX1axc31dHhECLOuGRYujbTjhvFGcJs/20110208ncoverexplorerp.png?psid=1)
+Explorer]({{ site.url }}/images/20110208ncoverexplorerp.png)
 
 And for NCover Path, make sure you point to the 32-bit version of
 NCover.Console.exe because MSTest.exe is 32-bit:
 
 !["NCover Path" settings in NCover
-Explorer](https://hyqi8g.bl3302.livefilestore.com/y2pGZFGr2IHtaPSTDHdxz9y0WYfNfwtjRPlH0pTf8zuhjhrU2oqS2qZzkQrXtVO1aRvP9VfzYDs4pjYOFkeuXk4FpHiOLVMInM2qf4bWXBkLXE/20110208ncoverexplorerpb.png?psid=1)
+Explorer]({{ site.url }}/images/20110208ncoverexplorerpb.png)
 
 Now when you click the "Run Coverage" button, things will work as
 expected because TMockRunner.exe has enabled Typemock Isolator inside

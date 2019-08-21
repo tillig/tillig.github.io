@@ -91,7 +91,7 @@ pictures of stuff, sort of like Dustin Hoffman in [*Rain
 Man*](http://www.amazon.com/exec/obidos/ASIN/0792833260/mhsvortex). Most
 of them actually turned out pretty well, including [this picture of my
 baby Xev
-cat](https://hyqi8g.dm2302.livefilestore.com/y2pdaBhfM_W2cP3_SWrQHcg5HK63ieYlUsSb5OPmNkbGOPtgmepLNtoDTvFW1b-17IJQX9iwT2XvithrvzJOXxTd02t9NscO0u716DIjivEJLY/20020904xevbw.jpg?psid=1).
+cat]({{ site.url }}/images/20020904xevbw.jpg).
 I think I like black and white film better because it gives things sort
 of an old, mysterious look.
 

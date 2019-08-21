@@ -33,7 +33,7 @@ That was when he made his move, so I aimed the camera out the side and
 shot...
 
  ![Out the side, baby! (13k
-image)](https://hyqi8g.blu.livefilestore.com/y2pkWHm13jU8cLxt26NISchLpQE4cTXMh13uV5nACKkPn855SVMn_qec-lDTrj88XCYfWh9PZ-UUE8LrsKvXB3uHkYRrh92VJursXIVRgRRSqY/20030924sideview.jpg?psid=1)
+image)]({{ site.url }}/images/20030924sideview.jpg)
 
  Voila! A perfect side view of the Traffic Asshole of the Week! (I'm
 pretty amazed that turned out. He was moving past pretty fast so I only
@@ -45,6 +45,6 @@ you could have gotten through up there, *you'd be there*, right? Some
 people never learn.
 
  ![Sorry, buddy, time to stop... (11k
-image)](https://hyqi8g.blu.livefilestore.com/y2pkkzx66a0s8ePsJvKAgphlO93MGje8KtfEqtkUNRoqqurMY-vAb4g_m11jhJ_RKn2hYtEtbu0TpkurYZhyp9X7XzPvGKiI_-5mUiUUkVXrd8/20030924passing.jpg?psid=1)
+image)]({{ site.url }}/images/20030924passing.jpg)
 
  Gotta love people.

@@ -55,7 +55,7 @@ versions. "M4P Backup.vbs" was born.
 the image to enlarge it.
 
  [![Sample backup session - click to
-enlarge.](https://hyqi8g.blu.livefilestore.com/y2pqVW1dUVjWGpwCXdJb2nMeytlz2LxIh46mdIdWPEfR_hTg2IZi-R__RRygJjzfSVF4sHll6qnI2DvTgqOo3Om8ZF5HvTrnT41phT_05fvtSE/20041229m4pbackup_sm.jpg?psid=1)](https://hyqi8g.blu.livefilestore.com/y2pcIISc0ofLYSS5DSyNaFmIvK1CgKXDt4VetA6RDkGMVlWdvzTi_ndGYNJ0v4GSdQOoFpwMQJexkuarc_yQ2D4XS6X7sJwz-uOBEG-yFZM430/20041229m4pbackup_lg.gif?psid=1)
+enlarge.]({{ site.url }}/images/20041229m4pbackup_lg.gif)
 
  **Installation/Configuration:**
 1.  Download hymn at

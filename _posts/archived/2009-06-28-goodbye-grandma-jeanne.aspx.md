@@ -7,7 +7,7 @@ disqus_identifier: 1544
 tags: [General Ramblings]
 ---
 ![My grandma, Jeanne Ann Illig: 1922 -
-2009](https://hyqi8g.blu.livefilestore.com/y2pXh0tX9Zz-QqkNZGbVQhMv0gMpVezZ2_cUSFCMygQYV4pij2Wd3JC33T5G0RUsx5PeWV7GGdJOsp_of1dZl78Otpdztgjem6uRGS0yVnCTNA/20090628grandmajeanne.jpg?psid=1)A
+2009]({{ site.url }}/images/20090628grandmajeanne.jpg)A
 couple of weeks ago, on June 11, my paternal grandmother passed away.
 She had been having some age-related health problems for a while, so it
 wasn't a surprise, but it was still a sad loss.

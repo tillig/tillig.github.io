@@ -56,7 +56,7 @@ exactly it, but I don't remember the exact colors. It doesn't really
 matter.)
 
 ![Paint scheme: drowsy lavender, cotton whisper, river valley, and
-white.](https://hyqi8g.dm2302.livefilestore.com/y2pR8Wn7_oZUUXlyXrEjMXcOCqVUk3YJ7UFyo2ljUZ8QvX_61-yxRnLFfzN17lqE6jMcvNgnGenk8EFk_IKCa_sasalqcX7CBVHdVWPmbmuYdw/20080324paintscheme.png?psid=1)
+white.]({{ site.url }}/images/20080324paintscheme.png)
 
 We started painting on Saturday and we got about halfway done in five
 hours or so. Some primer and a first coat on the walls and the ceiling.

@@ -15,7 +15,7 @@ through her work, but she was also able to get it slightly personalized
 for me on the inside...
 
 ![Matt Groening personalized drawing of Bart
-Simpson](https://hyqi8g.dm2304.livefilestore.com/y2pvxnJKKyAhEPdEqEridKNYdOHTV1n3EIkvc3C1GD3WW1QI0HpX4t5W1_gr37uy4QENp7sTb9gupRWgOcNJRFwsxpJIN2RlUSDP_g0h9Fgb5k/20070820bart.jpg?psid=1)
+Simpson]({{ site.url }}/images/20070820bart.jpg)
 
 That's right - she got *Matt Groening himself* to sketch Bart on the
 inside!  Far, far too cool.

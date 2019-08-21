@@ -19,7 +19,7 @@ a little thing that will generate a sample binding redirect you can put
 in your app.config file.
 
  ![SNInfo Main
-Form](https://hyqi8g.dm1.livefilestore.com/y2pDGesONhNw_6MfSwS6KC134Bp0kjgSVxQb-OGRI8q2O7CH8XD6nhYVh4DrfD4eRB3IGBZDbJOh3YSH3euMovoEA0QjDakODLJfG3vvlUbu5U/sninfo.gif?psid=1)
+Form]({{ site.url }}/images/sninfo.gif)
 
  I wouldn't want them to just put this in the properties on the assembly
 or anything.

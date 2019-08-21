@@ -55,7 +55,7 @@ all of the copied dependencies and caches the metadata) and docs get
 generated. Peace on Earth is restored.
 
 ![The plugin copies your dependencies with GUID
-filenames.](https://hyqi8g.dm2301.livefilestore.com/y2pid4YbR3g0zMKSyrEVhBsxixJnt1ubjw85uKG7qalwKy8bdJ_WyuQrE0geGa0jH609kFJhj_AD7h185KxKleSCLp4kqKyCvMTSWXw-2xtXaw/20080212shfbguidplugin.png?psid=1)
+filenames.]({{ site.url }}/images/20080212shfbguidplugin.png)
 
 To use it, just drop it in the PlugIns folder in your Sandcastle Help
 File Builder installation location. More on using plugins with

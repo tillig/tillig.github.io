@@ -12,7 +12,7 @@ holiday, and sure enough, society came through for me.
  Behold: A double-long dump truck doing 20 miles an hour *in the fast
 lane*!
 
-![image](https://hyqi8g.blu.livefilestore.com/y2pqrPKPxRhBqdkbamk2_fj_e98C4jrfiy8OlQwB0A9GaOk0aOW8UAnYBnZPYs9tHr2JVnM4uVEDBcnQ6FAUy4G-9u98h3EJw2zZyknBWGqgZE/20031126taotw.jpg?psid=1)
+![image]({{ site.url }}/images/20031126taotw.jpg)
 
  He stayed in the fast lane for probably five miles. Traffic was backed
 up way beyond that even. Once you got past him - smooth sailing.

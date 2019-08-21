@@ -35,7 +35,7 @@ fucking lane and wouldn't let anyone by*.
  Let's see a diagram of that.
 
  ![Don't stop in the Goddamn
-lane](https://hyqi8g.blu.livefilestore.com/y2p2WU4itn9E6rbbrP7tGcHaQVc5zkaWmAdV4eiBqrX31XkTFL74ewIWTaoaatGBUHVropb7iNwCKrtWc4dZ2Su-yGsv8l5CmclAUyaR7Anv7w/20040907taotw.gif?psid=1)
+lane]({{ site.url }}/images/20040907taotw.gif)
 
 
  For all you out-of-state people or folks that think this is OK: *It's

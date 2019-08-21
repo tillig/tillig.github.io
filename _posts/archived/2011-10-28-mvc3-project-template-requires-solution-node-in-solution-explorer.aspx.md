@@ -12,25 +12,25 @@ patched up. But I'm seeing something weird.
 I start out and I have a solution with a single C# class library in it.
 
 ![Solution with one class
-library.](https://hyqi8g.bl3302.livefilestore.com/y2pdMlKHkOXmstx39SC2mevUw06qaic_Rs_0MDFH3MEQVzwY_cj9VeJgCKEpoa9mxDxKzF0sugGnDkOg13LsVQ1mTkJICDVu9OtaP0D15plCRw/20111028screen1.png?psid=1)
+library.]({{ site.url }}/images/20111028screen1.png)
 
 I decide to add an MVC3 site to it, so I do File -\> Add New Project. I
 select an MVC3 project.
 
 ![Add new ASP.NET MVC3 Web
-Application](https://hyqi8g.bl3302.livefilestore.com/y2pPWzqgBxUDMs66c5JTb2ZzVylDh7cx4ssXRUNaZAul6isRB7aWKNb5daiKV-xL49xjyO8Hjtz2km9oXvvHKfoOKUe9ZG4LKdMaY6QRFb1-vc/20111028screen2.png?psid=1)
+Application]({{ site.url }}/images/20111028screen2.png)
 
 I click OK, and I select an Empty web application.
 
 ![Selecting an empty MVC3
-project.](https://hyqi8g.bl3301.livefilestore.com/y2p4-P06DRfMxjQgBW8x9qvnGJYsXgysPMidRRcG-Cws3X8aODsQeE8msIosbIMU0rPZMGJTrLWCGpHxYfEixQEPl_0cl4PxxicOzSOtOgAlbk/20111028screen3.png?psid=1)
+project.]({{ site.url }}/images/20111028screen3.png)
 
 When I click OK on this screen, I get an error "Cannot add the item
 because the item to add it to is not a solution folder or the solution."
 
 ![Error: Cannot add the item because the item to add it to is not a
 solution folder or the
-solution.](https://hyqi8g.bl3302.livefilestore.com/y2pBrQ2QHjXf9LG6Xur-laYeIe1-mPr5UOnDhrk8xaLW42Q7z0ryKaxKVHU3CSv06BYtiH9y7VfyspgAT-9n4l_9MpYYnpGaFEpoMdJXuJ7iPM/20111028screen4.png?psid=1)
+solution.]({{ site.url }}/images/20111028screen4.png)
 
 I click OK to dismiss the error and I see there's a *folder* in the
 filesystem named the same as the project name I selected (like it

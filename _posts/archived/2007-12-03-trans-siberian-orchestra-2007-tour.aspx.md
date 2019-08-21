@@ -7,7 +7,7 @@ disqus_identifier: 1313
 tags: [media,music,activities]
 ---
 [![Trans-Siberian
-Orchestra](https://hyqi8g.dm2302.livefilestore.com/y2pC0CkInLjbwhjPSx4FjPHbNvHU0oUH5dZZ9-LLtivfaZFIBgRrrMZcm4PLTy7sXOZmQ0xvZ3gfbqyXTgXsze1J9yofVj42WCwGka53oOd-mI/20071203transsiberian.jpg?psid=1)](http://www.trans-siberian.com)Yesterday
+Orchestra]({{ site.url }}/images/20071203transsiberian.jpg)](http://www.trans-siberian.com)Yesterday
 we went to the Rose Garden to see [Trans-Siberian
 Orchestra](http://www.trans-siberian.com) in their 2007 tour.
 

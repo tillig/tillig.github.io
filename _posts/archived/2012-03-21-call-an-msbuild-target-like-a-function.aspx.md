@@ -59,5 +59,5 @@ Here's a sample script:
 The output, as you'll see, is that the "Parameterized" target gets
 called once for each item in the group.
 
-![Build output window](https://hyqi8g.bl3301.livefilestore.com/y2pU0r4P8yd9fuh38J0e9Y4ispnewNq7YnnE7d0WGIE8scQfgUK5gKLaPX7z1BiH2UA2H4iH27o9eSOTIW8k9JQYe0hC-_E68fYQ-mRn3SQhv8/20120321batching.png?psid=1)
+![Build output window]({{ site.url }}/images/20120321batching.png)
 

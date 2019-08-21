@@ -27,7 +27,7 @@ duplicates. I can only show you the duplicate reports. With that...)
 First, I started with the default settings (analysis level 4):
 
 ![Default Duplicate Code analysis settings - level
-4](https://hyqi8g.blu.livefilestore.com/y2pNWmFVAbhgNL8uXUnudVWxCtAlmRscnMM2NCEjI2GsUPBVsWlAnLZfGLBQ_kEDl8-CcMVq7qqSvzM944qdGAW7KFwatqBeeqIK3oCeaTVhjQ/20120411_initial_settings.png?psid=1)
+4]({{ site.url }}/images/20120411_initial_settings.png)
 
 Running that pass took about eight seconds. I found a few duplicate
 blocks in unit tests, which weren't unexpected. Things having to do with
@@ -35,7 +35,7 @@ similar tests (specifically validating some operator overload
 functionality):
 
 ![Level 4 analysis
-results](https://hyqi8g.blu.livefilestore.com/y2p6kCSgciWlvcH8-ytuKvZThX-wXko_tKDRG2jl24t6RJiJghza02LAKvbonF8uaeopQm8_EgFUJuqDpCGdm1S9HT4UZT5CKX6x1k3cVQxYXU/20120411_initial_pass.png?psid=1)
+results]({{ site.url }}/images/20120411_initial_pass.png)
 
 I wanted to do a little more, so I turned it up a notch to analysis
 level 3 and ran another pass. This time the pass took about 12 seconds
@@ -46,13 +46,13 @@ across classes (whereas the previous pass only caught duplicates within
 a single class/file).
 
 ![Level 3 analysis
-results](https://hyqi8g.bl3301.livefilestore.com/y2phohevMZazkceQ_cLdfLZV1H6dgn7sBgtSmoLG1MXimUI44e-CvjvEYDAVcd-0zs7BwHgqGaSL2fxX1ST7hbbPv9UHiZbHT8DJwuovWiGhHY/20120411_second_pass.png?psid=1)
+results]({{ site.url }}/images/20120411_second_pass.png)
 
 Well, since one notch on the analysis level settings was good, two must
 be better, right? Let's crank it up to analysis level 2!
 
 ![Duplicate Code settings at analysis level
-2](https://hyqi8g.blu.livefilestore.com/y2pxAYe5VNh0sKIMUJWcMVpEjtYV9X_bfwq93U3-XtqpoVW45fyJ3D4Gsn8mAJ7te6-n_Na_PcO5CZkqYlDcnbnoJGsLGfMDzVsZIC9ma8PjWg/20120411_third_settings.png?psid=1)
+2]({{ site.url }}/images/20120411_third_settings.png)
 
 Once you get to level 2 and below, you get a warning: Analysis might
 require significant CPU power and memory. I'm not too concerned with
@@ -66,14 +66,14 @@ seconds so I'm guessing there is some sort of caching in place. (But
 don't hold me to that.)
 
 ![Analysis level 2
-results](https://hyqi8g.blu.livefilestore.com/y2pjQIdxqSbPbNDiEwAS6iB0Qw4CyHrA4TF6N5TAOgdEwYmcQN0DobtU9ua3PHIiIHCJXhxphT-RSOiRR8GAZTKsik-aItDOR6yoTrpNryZMnE/20120411_third_pass.png?psid=1)
+results]({{ site.url }}/images/20120411_third_pass.png)
 
 Now we're talking! Tons of duplicates found on the level 2 run. However,
 while the code is very similar, there aren't as many "automatic fixes"
 that the system can suggest.
 
 ![Message - no automatic fix for duplicate
-code.](https://hyqi8g.bl3301.livefilestore.com/y2pQmZvmnB_lcyvIK6U9B_Z7gAzK7kuWip-avTxHd1-jCTSe_qY5Pgh3LrmR_E-Vv38u8oqyYy4PBG0xaCxi2UtIsVeGybgES7eJQtoIESeMHk/20120411_no_auto_consolidation.png?psid=1)
+code.]({{ site.url }}/images/20120411_no_auto_consolidation.png)
 
 I don't fault CodeRush for this - the duplicates will require a bit of
 non-automated thought to combine, which is why they pay us
@@ -90,7 +90,7 @@ validation to take place in the method being called so the stack trace
 is correct if there's an exception thrown). Still, this is good stuff.
 
 ![Analysis results - level
-0](https://hyqi8g.bl3301.livefilestore.com/y2p29YtD9hIot9gyIvqAiIxxOMeai2eVOuaX6jrnWSDIt7qGqyfXlvlG-dXXGmXTa6EycmHNHusplOJiOxrnrAFsem8Gdsq82zDsG8FAw-bwWQ/20120411_level0_pass.png?psid=1)
+0]({{ site.url }}/images/20120411_level0_pass.png)
 
 Given the balance between the too-granular detection and the
 not-granular-enough, I think I'm going to go with the level 2 pass,

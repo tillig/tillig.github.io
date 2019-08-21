@@ -14,7 +14,7 @@ the rest of us - individuals who want a PDA to keep themselves
 organized?
 
 ![BlackBerry Curve
-8330](https://hyqi8g.dm2303.livefilestore.com/y2p8gwWJ3iuINSIb-D4aDVhS159RPa8XzxM_TDdR77rcVY0VCu0QL8NkcU-BVudmv5vCbOrEgi4sb4ZDNZyqLY6bBVHiqrhq_G3AB0fXCZFG3s/20080605bb8330_curve.jpg?psid=1)I
+8330]({{ site.url }}/images/20080605bb8330_curve.jpg)I
 recently got tired of carting around a cell phone and a Pocket PC, and I
 was hoping to get a better client for email, maybe a better camera, and
 GPS ability, so I jumped on the BlackBerry bandwagon with a [BlackBerry

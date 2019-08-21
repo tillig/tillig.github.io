@@ -13,5 +13,5 @@ pre-ordered my
 copy.](http://paraesthesia.com/archive/2007/06/19/preordered-grand-theft-auto-iv-special-edition.aspx) 
 Did you?
  ![Soundtrack CD, lockbox, duffel bag, game, and
-book.](https://hyqi8g.dm1.livefilestore.com/y2pohAM3utJl6qM9nLWvTAJhpSNnAhIpWcgT4lWcNua7XTZ67OI6TA5Vtj75W6kFGc8ufBDHL6U137Q7_PsrKiug-qSeY3mBvzrwHot72Dh5Yc/20070627gta4secontents.jpg?psid=1)
+book.]({{ site.url }}/images/20070627gta4secontents.jpg)
 

@@ -7,7 +7,7 @@ tags: [process,security]
 ---
 I feel like I should write a book. It'd be epic like _Moby Dick_ but would start with, "Call me Yossarian." This is going to sound confusing and comedic, straight out of _Catch-22_, but I assure you it's entirely true. It is happening to me _right now_.
 
-![Serenity Now!](https://public.dm2302.livefilestore.com/y2p-ZsCUzCiASsQGTwEbA6yEUVnzbWgmvnkX3p-AY6ozehpSAekmHwWKcc-qnoGgvzBSQX1y-Yhw_APmcpVKn4etgpqB6l_DHcRMTgiyillZ55w0wY1m7wk3EfyQ8pTw4Xi12L2XkQqvlQY18lGXhcTAA/20150504_serenitynow.jpg?psid=1)
+![Serenity Now!]({{ site.url }}/images/20150504_serenitynow.jpg)
 
 We write a lot of documentation to a wiki at work. I've got permissions on it to add pages, rename pages, move pages... but not _delete_ pages. If I want to delete a page, I have to find someone who has delete rights and ask them to do that, which doesn't make sense because I'm a pretty heavy contributor to the wiki.
 

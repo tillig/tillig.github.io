@@ -23,7 +23,7 @@ investigated the tag on the shirt I got from the event. See for
 yourself.)
 
  ![Change your
-shirt!](https://hyqi8g.blu.livefilestore.com/y2pveYKqrxUSQonMKSDyorohSVyy3DwyeoPzQkJ4frUmrBIzTr6ELysUDt46OMe1XRLYvV-XdteSTJaciSgi8nmiA6mm2m2HX_C6gp3EgXOp6Q/20040220shirttag.jpg?psid=1)
+shirt!]({{ site.url }}/images/20040220shirttag.jpg)
 
  Oh, and I don't claim to be a fashion guru, but I'm pretty sure the
 Hawaiian shirt, khaki pants, and Birkenstocks-with-no-socks combo does
@@ -87,4 +87,4 @@ don't know what I'd do with it, but I want it. Maybe I'll have to get
 one now.
 
  ![Original Millennium
-Falcon](https://hyqi8g.blu.livefilestore.com/y2piS6yE-Vfn5j0HICQVP-Bp3G_LRfvZ7Rn-aICjexFXED-EvOD-9cJavhRAL9cPIqrV9l2l2nI87R9mg27fA8xBDnbq34USM6z3KgdFDZGDBY/20040220falcon.jpg?psid=1)
+Falcon]({{ site.url }}/images/20040220falcon.jpg)

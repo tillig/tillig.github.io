@@ -15,7 +15,7 @@ gets included only ever has one target called, and it does a bunch of
 internal work to get a lot of things done. It looks a lot like this:
 
 ![Build script
-flow](https://hyqi8g.dm1.livefilestore.com/y2pHRfn7OS3Ng9ugbmmUUvu4lH-GeqtDhcYfZz6XHA06w5n-wwztnAULLzgBiVlAQ3bUogjQFDbOIgl6glq7Ni8D8UqdsAdKqdjLk_Z8Zvjmf0/20060505nantflow.gif?psid=1)
+flow]({{ site.url }}/images/20060505nantflow.gif)
 
 Notice how there's only one entry point in the external build file and
 the tasks inside call other tasks, some of which are common, almost like

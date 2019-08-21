@@ -32,9 +32,9 @@ so I can bust the asshole that's not making coffee.
 
  Then again, not everyone knows how to make a pot of coffee. One time I
 looked in the pot and [thought I was getting
-tea](https://hyqi8g.blu.livefilestore.com/y2pXuAE_noUKeHMD_mdTd5erHsuyPAPUvoniPXPJEKVvsMWNTU3ANggCntZy5W5MKWhsic2G4pOHvXAtqi553XCMr78oF379l2qEew4WULomc4/20021017weakcoffeeyc7.jpg?psid=1),
+tea]({{ site.url }}/images/20021017weakcoffeeyc7.jpg),
 when it turns out [some people are just
-idiots](https://hyqi8g.blu.livefilestore.com/y2pSJRekSONVIcryLFvuq3sAkH3qTtcjNEc7A8sWLw_EPjp1Muuxs3GSdB-Y2c2z8ra3EvWYhTlunafq77nldZriFWJIdECI3MpXFRhwJr4_SY/20020418grindthebeanshl3.jpg?psid=1).
+idiots]({{ site.url }}/images/20020418grindthebeanshl3.jpg).
 Yes, those pictures are real. Unbelieveable.
 
  This sort of reminds me of that movie [*City

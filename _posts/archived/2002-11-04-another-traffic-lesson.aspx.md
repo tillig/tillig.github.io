@@ -24,7 +24,7 @@ around. Dumbass.*
  Let's put that in pictures for the people in the cheap seats.
 
  ![Another Traffic
-Lesson](https://hyqi8g.dm2302.livefilestore.com/y2pMzV40LTLpFEB3EaPcKegmYcSmA55Scy9P4DCM9anN5I7jOGJOJEXEJ2TF676VJEB0lJA4aav6ps3S6aX8Jy8bTyMoQrcHkTVq6XGVKY0OUo/20021104trafficlesson.gif?psid=1)
+Lesson]({{ site.url }}/images/20021104trafficlesson.gif)
 
  This is actually what happened to me today. This punk bitch decides
 that, rather than just easing in *behind me* where there's plenty of

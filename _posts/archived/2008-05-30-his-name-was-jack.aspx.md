@@ -9,7 +9,7 @@ tags: [General Ramblings]
 Yesterday our cat Jack passed. He was only about a year and a half old.
 
 ![Jack naps on the back of the
-couch.](https://hyqi8g.dm2301.livefilestore.com/y2pWLDf4uHnNIOlC9Qg-tNrtNiAoeJl6Y5QNGJlcQonR3AuTylxB08U0OAtrEKj3-2CpIjJDiJYACZY0h8kzBFHKeLjKdPi9AwAnh9Au6UrE-I/20080530jacksleeping.jpg?psid=1)
+couch.]({{ site.url }}/images/20080530jacksleeping.jpg)
 
 We got Jack [back in February of last
 year](/archive/2007/02/04/introducing-jack.aspx) after Jenn's cat,

@@ -29,5 +29,5 @@ and bind it yourself. I've got mine bound to Ctrl+Shift+Alt+T. ('T' for
 'Track' but you might want something more memorable for you.)
 
 ![View.TrackActivityinSolutionExplorer key
-binding](https://hyqi8g.bl3301.livefilestore.com/y2popPJ47QUdDybcXVKdfqWGYHEXErubiZ8ppA_iMnDG0MrMWIYT6xTK7_oAWTsrMTLAMlpc56G_7-2sNDYjvCAyh4SLFqY0Qpk9vd7d4t7fZw/20090812trackactivityinsolutone.png?psid=1)
+binding]({{ site.url }}/images/20090812trackactivityinsolutone.png)
 

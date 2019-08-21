@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 869
 tags: [General Ramblings]
 ---
-[![Scooba](https://hyqi8g.dm2303.livefilestore.com/y2pxKeWtXxcyab4RsR8KW3Qv7P-PHjeMzzLwWU13hsJ_qEuw1CMaPlFQwOlKy8yZubd_lJR4XmLsl8RisKgHi0ngIi5_vgG-Va2mpaahnjarQQ/20050817scooba.gif?psid=1)](http://www.irobot.com/consumer/scooba_information.cfm)It
+[![Scooba]({{ site.url }}/images/20050817scooba.gif)](http://www.irobot.com/consumer/scooba_information.cfm)It
 appears that the latest from iRobot - [the Scooba, a floor-mopping
 robot](http://www.irobot.com/consumer/scooba_information.cfm) - will be
 available for purchase online in November and should be in retail stores

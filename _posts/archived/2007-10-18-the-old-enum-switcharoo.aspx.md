@@ -41,7 +41,7 @@ pre-built binaries so you can just run it and witness, if that's all
 you're up for.  Here's what it looks like:
 
 ![The Old Enum Switcharoo - in
-action!](https://hyqi8g.dm2303.livefilestore.com/y2pJn-twVTVnP_CyXoURyYOjlrFGpZj5bHqN9dyc8kq9jKuo8yUrBF3y8ysdd9Dl3P8GPSiMEMmWwgOv7Ub_cAGcjD8wabD-yF76eUfFqD49fk/20071018switcharoo.png?psid=1)
+action!]({{ site.url }}/images/20071018switcharoo.png)
 
 Go ahead and grab the reproduction code here:
 

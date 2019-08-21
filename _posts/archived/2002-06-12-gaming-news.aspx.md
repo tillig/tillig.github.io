@@ -7,7 +7,7 @@ disqus_identifier: 69
 tags: [gaming,playstation,tv]
 ---
 ![Grand Theft Auto: Vice
-City](https://hyqi8g.blu.livefilestore.com/y2pRzmXML_JKxXNR-GZxFKFmRQrEQZ5_EvLTIqjstqUSdodfWh_HnXaLZ5DbbD694jS0d8_NxSvKaLYmqj7D_1ZfeGNiWmVTRYBaB12CbpalLs/20020612vicecity.gif?psid=1)I'm
+City]({{ site.url }}/images/20020612vicecity.gif)I'm
 noticing that there are a lot of cool games out, or coming out, that I'm
 going to have to get. First and foremost, the latest and greatest
 installment of the [Grand Theft

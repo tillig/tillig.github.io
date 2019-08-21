@@ -12,7 +12,7 @@ The solution? Draw in emoticons! The Emotifier was thus born.
 
 Let's use, for example, the word "JAM" - Emotify it, paste it into MSN Messenger, and you get:
 
-![Emotified Jam](https://hyqi8g.blu.livefilestore.com/y2p4kgwaoQjHFotqcozXicaZ7qXQoBy-pBmUaRnHXoKffyVaqWxRz-KWHIOu_SapXwxcXJ5swsLJhyUIBUtVarhbHyMXGrNzlb3i-HJVxDZt84/20050519emotifiermp2.gif?psid=1)
+![Emotified Jam]({{ site.url }}/images/20050519emotifiermp2.gif)
 
 How crazy is that?
 

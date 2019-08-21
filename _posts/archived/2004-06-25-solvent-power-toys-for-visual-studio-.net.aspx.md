@@ -34,11 +34,11 @@ in the Solution Explorer.
 
  Tools Menu:
  ![Solvent Tools
-Menu](https://hyqi8g.blu.livefilestore.com/y2p2XpE0qZNmHBcBrP88MjkIvRXWY23c0Gpk_WWtRuCiGNWSwfU3yn43Vxpn2eskx4rgJ-2hJqY0LOA46dDKoHJrzg_kWF18JaLUKmn3nJFGaI/20040625solventtoolsmenu.gif?psid=1)
+Menu]({{ site.url }}/images/20040625solventtoolsmenu.gif)
 
  Context Menu (On a Project):
  ![Solvent [Project] Context
-Menu](https://hyqi8g.blu.livefilestore.com/y2pFoM50LtX3ZNYV5L8qfofDFfxNiNMRw1FNURkQpMIVRviOjdBrMTwy1M5g8J9albzdMgU1bafgAQNpNPbSLjaI8TglmaqRkKI3J3C-37PRmQ/20040625solventcontextmenu.gif?psid=1)
+Menu]({{ site.url }}/images/20040625solventcontextmenu.gif)
 
  It's free, so come and get it!
 

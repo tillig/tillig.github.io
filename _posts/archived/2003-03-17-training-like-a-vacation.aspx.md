@@ -7,7 +7,7 @@ disqus_identifier: 230
 tags: [sql,movies,music,hockey]
 ---
 ![Check out my fat
-gut!](https://hyqi8g.blu.livefilestore.com/y2pHKTY7GFSiIYmslOSOQqFQp4emGxLk25gGoNqRyAo-T77n0P5Aig1NHrbUM2tTMPe-tu1QdtH_b8QhUD22OKMiGRL7aH3tZO2_i9TJrAwX3E/20030317fatgutgi8.jpg?psid=1)Okay,
+gut!]({{ site.url }}/images/20030317fatgutgi8.jpg)Okay,
 first up, check out the fat gut there. How come nobody ever told me I
 was such a fat fuck? Maybe I should start binging on
 [Subway](http://www.subway.com/) so I can be a skinny fuck like

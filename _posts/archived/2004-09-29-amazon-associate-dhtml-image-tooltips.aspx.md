@@ -45,7 +45,7 @@ script](http://www.dynamicdrive.com/dynamicindex5/dhtmltooltip.htm).)
 
  It all ends up looking like this:
  ![Screenshot of Amazon Associate DHTML
-tooltip](https://hyqi8g.blu.livefilestore.com/y2pyuqdpMLOYPK_krB0hVpKuEIv6FOtCqH_oibu3sxInKcJ6f_N042dFdQmWL1ijdzjipOnBe7ovUxK9f0uWWDfXHH4RVnXQ5GR-IvehdhceHE/20040929tooltipsample.jpg?psid=1)
+tooltip]({{ site.url }}/images/20040929tooltipsample.jpg)
 
  The download includes:
 

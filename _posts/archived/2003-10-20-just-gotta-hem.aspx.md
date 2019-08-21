@@ -13,7 +13,7 @@ difference. Thank goodness for automatic buttonhole makers on sewing
 machines.
 
  ![Original Mini(8k
-image)](https://hyqi8g.blu.livefilestore.com/y2pedEe8kTYE_2ZtCrR7pF3bWrJGTX20rAL9F-Jm4UJQ_kpj_qzy4Mk_fhXofCGsX_BD2hBx2HWbIOZBu7mwlN6sBYZekEPv36rtV57e0zu3DQ/20031020mini.jpg?psid=1)I
+image)]({{ site.url }}/images/20031020mini.jpg)I
 forgot to post this last week, but this guy at work has one of the
 original Minis. It's very cool, and I'm admittedly jealous.
 

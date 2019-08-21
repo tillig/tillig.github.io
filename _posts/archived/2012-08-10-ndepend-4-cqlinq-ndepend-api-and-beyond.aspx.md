@@ -19,7 +19,7 @@ I won't rehash
 it.](/archive/2010/08/02/getting-started-with-ndepend-3.aspx)
 
 ![NDepend home
-screen](https://hyqi8g.bl3302.livefilestore.com/y2prJBwssL_btK5Gs2xDmGRiJKgmsVsiBxQQKRIHVgTByrqRJ0_mkl00RrdQnA6_2GQaiAcRJCp5YUvvIVhy6XaeT-qQDJ08KrXL-B86QE0KkY/20120810_ndependhome.png?psid=1)
+screen]({{ site.url }}/images/20120810_ndependhome.png)
 
 For existing users of NDepend, **CQLinq is really the big deal in this
 latest release**. That alone is really worth the price of admission. But
@@ -60,7 +60,7 @@ reading.
 The results of the query look like this:
 
 ![Demo query results in
-NDepend](https://hyqi8g.blu.livefilestore.com/y2pY3qs_G1z-wBIte5EWmeSOrjuuuJeyhq3WNPO6UnVyeWGsxfqDY7uqAK6iBoeloDKRQHiDyCqVETw5_H7UZz58T1U161x5vmp_98jLt3_PJY/20120810_queryresults.png?psid=1)
+NDepend]({{ site.url }}/images/20120810_queryresults.png)
 
 Now, *that's pretty sweet*.
 
@@ -108,14 +108,14 @@ Once you build the sample app, you get a console app with some
 old-school console menus that show you different options.
 
 ![NDepend Power Tools
-Menu](https://hyqi8g.blu.livefilestore.com/y2pqhhW7Lbkk9dGBh9fsleshK-Tl2CIhYFsi-Fqwbp7istrZS6u-UioPaupc4twRJSj2uzCxRkxtuNkmcaa-P3TWP0sLPtLTYxyuQSEwyHHL4Q/20120810_powertoolsmenu.png?psid=1)
+Menu]({{ site.url }}/images/20120810_powertoolsmenu.png)
 
 I thought I'd try the duplicate code detector. Here's the output running
 it on one of my projects (I had to blur a few things out, but you get
 the idea):
 
 ![NDepend duplicate code
-finder](https://hyqi8g.bl3302.livefilestore.com/y2pnky2Srurt3HuTqDYnvfqOd7yYAyGvSX8rFAMJoiW2BycpSCr0XhKXROo2pOYa5LjNTRW4FQ3sRCtXTJ4bHFUjEXAagTLV5tX0u-ZiSbOHr8/20120810_powertoolsduplicatecode.png?psid=1)
+finder]({{ site.url }}/images/20120810_powertoolsduplicatecode.png)
 
 Not pretty, but you can see the power there. You could do all sorts of
 things with that - Visual Studio add-ins, PowerShell scripts for
@@ -166,7 +166,7 @@ learn about good code quality and metrics used to analyze code.
 Speaking of doc, you can find it everywhere. Even in tooltips. Hover
 over a part of a CQLinq query and you get doc for that element:
 
-![](https://hyqi8g.bl3301.livefilestore.com/y2p4VrAAZLCmuqF24gcnQ2xs-tvFPnLBzh9GUMoRhOfMDVtT-B7DcO5sApq9ytV-ArO9nkkxcJOQEbw4E6Uf6NnWYKA6u26iPjox3Z3ymcR5SA/20120810_tooltiphelp.png?psid=1)
+![]({{ site.url }}/images/20120810_tooltiphelp.png)
 
 **NDepend support is really good.** I think
 [Patrick](http://codebetter.com/patricksmacchia/) does it all by
@@ -185,7 +185,7 @@ ability to re-run the analysis isn't in the Analysis menu - it's behind
 this little button** in the bottom right corner of the window.
 
 ![The button in the bottom right corner of the window is really
-important!](https://hyqi8g.blu.livefilestore.com/y2p2MS1Se1z5UvB0SUofWfPdI0BvQrbTe0_wTgnfIuCww_7R01oiGLiE3IRtAAHoJLKGHHJijCarzWViLm2DVjoJ6ijJScTE4QvktPz7pKHRA0/20120810_rerunanalysis.png?psid=1)
+important!]({{ site.url }}/images/20120810_rerunanalysis.png)
 
 **IntelliSense in the query window can sometimes be frustrating.** Maybe
 I type too fast, but I find that sometimes it autocompletes when I

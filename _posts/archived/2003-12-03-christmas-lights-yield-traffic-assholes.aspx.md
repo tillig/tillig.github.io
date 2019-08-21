@@ -29,7 +29,7 @@ arrived](http://www.amazon.com/exec/obidos/ASIN/B0000AQS6R/mhsvortex) in
 Portland:
 
  ![Griswold Family
-Christmas](https://hyqi8g.blu.livefilestore.com/y2pOtVs6_for_zDtUG1fBmtEhOY6hLiw3JGz-fyDm8Ts2ND34Ud4PdZcTEmo7QvTkrQojp9sNYa_lIDSehRmF5Y_rt5N1tuhcWujpHgWtPImTI/20031202taotw1.jpg?psid=1)
+Christmas]({{ site.url }}/images/20031202taotw1.jpg)
 
  That's right - every year the [Shilo Inns](http://www.shiloinns.com/)
 headquarters puts up the largest lights display *ever*, and it's right
@@ -38,7 +38,7 @@ Shilo to thank for the so-called Gawker's Block in effect. Let's see
 that again:
 
  ![Shilo Inns, Take
-2](https://hyqi8g.blu.livefilestore.com/y2pkovmdh_ZQh68WMAl_bRM8q-TA-BaXOPm6PTnKCPBVd3HFJdEG8euv1XPrAakU9L-bKkTf6qoc-fQiAM4Khe-mUuXXWB7uy2f7Axo5z0qP9I/20031202taotw2.jpg?psid=1)
+2]({{ site.url }}/images/20031202taotw2.jpg)
 
  Oh, yeah.
 

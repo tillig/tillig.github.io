@@ -7,7 +7,7 @@ disqus_identifier: 392
 tags: [halloween,costumes]
 ---
 [![Grammaton Cleric... or Neo from The Matrix (6k
-image)](https://hyqi8g.blu.livefilestore.com/y2p-nj2t52ftA_RnxRSgQ-es8mGBm4m29GG_EV85oQZ7YArFAwhB9NUeQLReJh7m8YgK04r3prE936uPbfQ5Ll-FFpshXwVdbzkECWDNnMHLuo/20031031cleric_sm.jpg?psid=1)](https://hyqi8g.blu.livefilestore.com/y2ppiYpAudEZiJZumhdW4ZUHvKfE2LpLvgpZqF2tAKvdRWvSjtI204-o58gvzyCxqlhkk2gbQj-0wLW3idYDjeqwjBSlicn4Fo1w3Hatd-s5CU/20031031cleric_lg.jpg?psid=1)I
+image)]({{ site.url }}/images/20031031cleric_lg.jpg)I
 wore my costume to work today because we have a company Halloween
 costume contest. Plus, I figured I went to all the work of making it and
 I'm only going to one party, so I should make some use of my effort,
@@ -37,4 +37,4 @@ accomplishments and hard work* can make all the difference in the
 world.
 
  [It looks really rockin' with the wind going on and
-all.](https://hyqi8g.blu.livefilestore.com/y2ppiYpAudEZiJZumhdW4ZUHvKfE2LpLvgpZqF2tAKvdRWvSjtI204-o58gvzyCxqlhkk2gbQj-0wLW3idYDjeqwjBSlicn4Fo1w3Hatd-s5CU/20031031cleric_lg.jpg?psid=1)
+all.]({{ site.url }}/images/20031031cleric_lg.jpg)

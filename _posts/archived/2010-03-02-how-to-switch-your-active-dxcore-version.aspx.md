@@ -37,8 +37,8 @@ Here's how you do it:
     could be misleading.
 5.  Select the DXCore version you'd like to be active and click "Run."
     In this example, I have version 9.3 active so I'll select to switch
-    to version 10.1. 
-    ![](https://hyqi8g.bl3302.livefilestore.com/y2px7E2DAS6jbd_LM_kD3GHnDqSLY8Av5PK9gYHYary5gtMF1PAtozm4fvMmfaSDP926bIhNYGAYCJqQPRMtd4CzpuhviA0vlmFYAQIdF4Dpa0/20100302dxcoreversionselect.png?psid=1)
+    to version 10.1.
+    ![]({{ site.url }}/images/20100302dxcoreversionselect.png)
 6.  **A lot of stuff will happen** - the version of DXCore currently set
     up will be unregistered and the version you selected will be
     registered. Note that while the log will talk about "uninstall" and
@@ -47,8 +47,8 @@ Here's how you do it:
 7.  **Wait for the popup to tell you it's done.** It takes a couple of
     seconds and the Close button isn't disabled, so it might look like
     it's done, but it's not. Once it's done, you can click OK to dismiss
-    the popup and close the version switcher. 
-    ![](https://hyqi8g.bl3302.livefilestore.com/y2pkmUDxvcEX8IdahzeJx6GxT_YVrcojqCtqlU-91GLTrWtHCEvub9HXS7HN1Klnz-MreeOM-i8W99gr9DD7O-JqvMCwSOH_j8W_ni7ToNoPlY/20100302dxcoreversioncomplete.png?psid=1)
+    the popup and close the version switcher.
+    ![]({{ site.url }}/images/20100302dxcoreversioncomplete.png)
 
 You can use this process to switch from any version to any version [that
 you have installed]. If you make sure to keep your community plugins in

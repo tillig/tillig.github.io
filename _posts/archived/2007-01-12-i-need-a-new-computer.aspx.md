@@ -15,7 +15,7 @@ and watch a little TV or whatever while I'm answering emails and such.
  I found the laptop I need this morning:
 
  ![Is this Dr. Evil's
-laptop?](https://hyqi8g.blu.livefilestore.com/y2pZqKxn2qHasMERUYyS8Rp_P6RgGZIHUjkqZ0ZU5klAvi2RV4-HyfKylC1E8WrRFj2w5UhQELTy7ZlgADkSiEJs9qU3DufVHsqY8JmQfAx90Y/20070112secretlaptopmr9.png?psid=1)
+laptop?]({{ site.url }}/images/20070112secretlaptopmr9.png)
 
  I'm *all about* the giant button and arbitrary LED readout. Oh *hell
 yes*. Pair this with [the self destruction button USB

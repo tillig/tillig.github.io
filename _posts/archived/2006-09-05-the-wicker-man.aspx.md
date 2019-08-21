@@ -7,7 +7,7 @@ disqus_identifier: 1065
 tags: [media,movies]
 ---
 ![The Wicker
-Man](https://hyqi8g.dm2303.livefilestore.com/y2pPpFyR_ehvp6E66EUhnCpL0DWl4_J0SxXyKZ_D564aaKhZI1l_Niaz4PtvxPZbPHun17FwSiKyuG2advMtEAB1GtOOZBHWX9z2fP-WVRRb1Q/20060905wickerman.jpg?psid=1)Jenn
+Man]({{ site.url }}/images/20060905wickerman.jpg)Jenn
 and I went to see [*The Wicker
 Man*](http://us.imdb.com/title/tt0450345/) yesterday. While it doesn't
 seem to be soaring in [the ratings on

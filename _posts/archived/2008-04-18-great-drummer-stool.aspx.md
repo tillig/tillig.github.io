@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 1377
 tags: [personal,gaming]
 ---
-[![](https://hyqi8g.dm2303.livefilestore.com/y2p_btwj2wrWVC8161-wO1W5-SXHdcjM6qaRht2vlqDpYeYLohGUlwNURXas2sZokhxhL79IAK2Sg7ZTWQ12_Lph5X2hM1t86dV_EmuhwBa44M/20080418vitaminstool.jpg?psid=1)](http://www.ikea.com/us/en/catalog/products/90118811)I
+[![]({{ site.url }}/images/20080418vitaminstool.jpg)](http://www.ikea.com/us/en/catalog/products/90118811)I
 play [fake
 drums](http://www.amazon.com/gp/product/B000TT2D2A?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000TT2D2A)
 in *[Rock

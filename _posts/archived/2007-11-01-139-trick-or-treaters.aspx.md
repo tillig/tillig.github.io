@@ -15,7 +15,7 @@ that "hey, maybe you should have actually worn a costume" state.
 The graph:
 
 ![139 Trick-or-Treaters for
-2007](https://hyqi8g.dm2303.livefilestore.com/y2pdfx8Rbl-vtXvoEjLFank37YCZpTvuC3je2SelwG_UcD8To3Ydk5ls_zlVmqi-zFhnkFbmam7umnS78ZpmqMkE0MafbLrjh02gepDgT7FlKk/20071101_139trickortreaters.gif?psid=1)
+2007]({{ site.url }}/images/20071101_139trickortreaters.gif)
 
 The 6:30 - 7:30 hour was the most productive, and once again 6:30 to
 7:00 seems to be prime candy-grabbing time.  Two Costco bags of candy

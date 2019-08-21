@@ -7,7 +7,7 @@ disqus_identifier: 388
 tags: [halloween,costumes]
 ---
 ![My finished Halloween costume (18k
-image)](https://hyqi8g.blu.livefilestore.com/y2pnxC3svhmM4kJyY1xctX6yTi3UQehGNq9xHVA8fKR_s3Vh7ey4P7HFrNz_459ywYzw-1ykZ1BCLfvOP0ZUrg98Brz8S2NXd7DtppoG-zfhwk/20031023coat.jpg?psid=1)I
+image)]({{ site.url }}/images/20031023coat.jpg)I
 finished my coat last night, washing it for the first time since it was
 fully assembled and then pressing it. My hem's not terribly straight,
 but the coat is flowy enough that I don't think you'll notice. As you

@@ -21,7 +21,7 @@ don't. My blog is my plunger.
  Let's let the image speak for itself, shall we?
 
  ![Stupid
-Rubberneckers](https://hyqi8g.blu.livefilestore.com/y2pQA054eTHzsCqu0995eR-D0dlBzIZI50KEPtKi9SPPO25G-SESbW8HvV1D-SunfB9DGEc7I_xlbSjfWYjG41NReitBd4qUhpiuGejWt53Xuc/20031120taotw.jpg?psid=1)
+Rubberneckers]({{ site.url }}/images/20031120taotw.jpg)
 
  As you can see, we've got an accident on the opposite side of the road,
 in the oncoming traffic. We're separated from the oncoming traffic by a

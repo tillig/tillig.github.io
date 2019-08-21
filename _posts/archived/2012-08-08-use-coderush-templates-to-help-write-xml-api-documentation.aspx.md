@@ -37,7 +37,7 @@ First, **open up the CodeRush Options window** (`Ctrl+Shift+Alt+O` or
 `DevExpress -> Options `from the Visual Studio menu). On the left side,
 in the tree view, expand the "Editor" node and select "Templates."
 
-![](https://hyqi8g.bl3302.livefilestore.com/y2pyHtJLnWT6NzCL6eaNdp0m9cnjt40zRUkUo2as6NCo3JSd8ti9A7XHZCBRxXYEkhtpeIrTCk-ye1OOcnGE9ULgS4yzxihE1QLn0lL-HJevzA/20120808_editortemplates.png?psid=1)
+![]({{ site.url }}/images/20120808_editortemplates.png)
 
 **At the bottom of the Options window, select the "\*Neutral\*"
 language.** Do this so you can add the expansions to work for both
@@ -45,7 +45,7 @@ VB.NET and C# and keep them together. Otherwise you have to switch back
 and forth between the two languages every time you want to modify or add
 a template.
 
-![](https://hyqi8g.bl3301.livefilestore.com/y2pvoh4-UgvG_Nr8g8dMcLPIMseaoo_BhYcXdlEG4H2VlQCJJu94fpsVHSjOfzsRMHX9dHw0iuVEq947__1DwoM8fLdROIuqWCwOCYJj8YWSEk/20120808_neutrallanguage.png?psid=1)
+![]({{ site.url }}/images/20120808_neutrallanguage.png)
 
 **At this point, stop for a second.** I'm going to walk you through how
 to make your own templates, but at the end of the article I'm also going
@@ -59,7 +59,7 @@ you're not downloading/importing mine first]. Right-click somewhere in
 the middle tree-view area, select "New Root Category..." and give it a
 good descriptive name like... "XML Doc Comments."
 
-![](https://hyqi8g.bl3302.livefilestore.com/y2p__NPDFAWB9yNOi4smMf9Zu0razOQ2_q1jNxf_bNizWR2arb24E0GxQsDk4wulPrrtzrYaCkVsI4fgsSCvrb_vvanZv7PR_VRqks1VJEHz3w/20120808_newrootcategory.png?psid=1)
+![]({{ site.url }}/images/20120808_newrootcategory.png)
 
 You can make any other sort of hierarchy in there that you want. If you
 import my templates, you'll see some folders for canned documentation
@@ -77,13 +77,13 @@ in the middle of your code.
 Template" button.** Type the key combination you want to expand. In this
 case, put "null" in there.
 
-![](https://hyqi8g.bl3302.livefilestore.com/y2pVbPK3Q7QzKfJcWOkjSBBtPbEljENt356f_YxgG3WEWMnc4ArfGfdi3870BW9WzvGgpRjZo-FKOZVxjQ_ZZ25Y6AF70gSdP950YsBRGxapVo/20120808_newnulltemplate.png?psid=1)
+![]({{ site.url }}/images/20120808_newnulltemplate.png)
 
 **Fill in the "comment" for the expansion and the actual text** you want
 to see when it's expanded. Also check the "case-sensitive" box because
 you don't want "Null" or "NULL" expanding.
 
-![](https://hyqi8g.bl3301.livefilestore.com/y2pA585si1STrAkMD6eIdSbCfU16oJI8uOCfUaCK-f-xX1yRQrFHLIIrJAjVZYkNqSqH1n-wdL-wDO0h28wzOG5I6GChD2a-2UdO9EeZ4EM66A/20120808_nullexpansion.png?psid=1)
+![]({{ site.url }}/images/20120808_nullexpansion.png)
 
 **The last and most important thing is the context for the expansion.**
 You want your template to only run when:
@@ -106,7 +106,7 @@ won't show you the entire tree view with all of the boxes selected -
 I'll just show you the C# box here, but **you need to check all three
 boxes**.
 
-![](https://hyqi8g.blu.livefilestore.com/y2pZsEnjk3WDWl6XKjm7lLk48uBMgIg9jbx9mdnbadTtiLlXKNV2-LfKzSh_2jUNEKNAHrXlrAiuO6dw9ZQjL64D_XU15EpT1REDyZ35FgQSuw/20120808_context.png?psid=1)
+![]({{ site.url }}/images/20120808_context.png)
 
 Click "OK" to save your template and close the Options window.
 
@@ -143,13 +143,13 @@ select Editor/Templates and set the language to "\*Neutral\*" (as
 outlined in the steps above), right-click in the center tree view area
 and select "Import Templates..."
 
-![](https://hyqi8g.bl3301.livefilestore.com/y2pD_sLjrenu_tR_UKyaqvKO2iYbomK2FVAYYF_KgBlTLhc0ML1TB10jXhttln0SF7e7pIRSM39_JejlgreBzoyvZVZEHOvdPn-nOQY0dQNDGQ/20120808_import.png?psid=1)
+![]({{ site.url }}/images/20120808_import.png)
 
 Select the XML file you downloaded and unzipped. (Don't select the ZIP
 file, that won't work. You need to unzip it first.) Once you've done
 that, you'll see a bunch of templates available to you:
 
-![](https://hyqi8g.bl3302.livefilestore.com/y2puFBRFvoEPR4U6GGgFCaYysHfqRNzplFeqBoF56FX2pm3kca7QoefwZo1V6BxJcsDfCbJhprj3zeEdg3SEk4R7KTnDGghoXs76SaZfJhy5o0/20120808_importedhierarchy.png?psid=1)
+![]({{ site.url }}/images/20120808_importedhierarchy.png)
 
 There is a lot here, so I recommend you explore and see what's there,
 what's useful, etc. Conventions I used in naming templates:

@@ -14,7 +14,7 @@ enabled - Aero, themes, the whole bit.
 
 **One problem I noticed was that the drop shadows under the icons on the desktop... they just don't stick around.** I set my visual effects settings to "best appearance" and everything looks correct, but if I log out and back in, the setting remains checked but there's no drop shadow. That doesn't sound like a big deal except... well, I have a theme on the desktop that changes background images periodically and the icons get impossible to read without that shadow.
 
-![Visual Effects in Windows Server 2008](https://hyqi8g.bl3301.livefilestore.com/y2pATitCAKBmF7T3gj3cZ4fqQHjbmPq2XrcrXuLT4j4OHZYuZMXRCbGTPEMR_2UK628ViPzPN6laep-iwzp8xJsZxEFAlMjpay_ynJRFn3E5I4/20100414visualeffects.png?psid=1)
+![Visual Effects in Windows Server 2008]({{ site.url }}/images/20100414visualeffects.png)
 
 **The only way I've found to get the drop shadows back is to go all the way into the control panel**, select "Adjust for best performance,"click "Apply," and then select "Adjust for best appearance" and click "Apply" again. Basically, reapply the settings.
 

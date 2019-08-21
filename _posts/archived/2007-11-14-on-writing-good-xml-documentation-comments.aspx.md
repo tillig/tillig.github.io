@@ -7,7 +7,7 @@ disqus_identifier: 1303
 tags: [net,vs]
 ---
 ![XML doc comment
-screenshot](https://hyqi8g.dm1.livefilestore.com/y2pSzirCKiqfZ7igVyqiqQF8i7XWa-fisSddJHoJcOwv-FFdqbxYWVCDUr-X4-vxuOs3ERYFqPimcigMPuNcZqYjKFPG2Z8qvJYYBz0ylS7jls/20071114xmlcomment.png?psid=1)It
+screenshot]({{ site.url }}/images/20071114xmlcomment.png)It
 occurred to me the other day that there's information out there about
 the technical aspects of writing XML doc comments in .NET code (i.e.,
 the markup tags) but there's nothing out there about what you should put

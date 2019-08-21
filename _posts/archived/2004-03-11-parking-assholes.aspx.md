@@ -13,7 +13,7 @@ this fine day out with a Traffic Asshole.
 right here is why I hate people who own large trucks:
 
  ![Parking on the line doesn't mean you're in the
-space.](https://hyqi8g.blu.livefilestore.com/y2pGf8nVM1CUcr97QeGJVYOn9kPtGs35j9uX8-yrOEY9ylPtDX9waIZf_FRLGoKmuqb13nhFbierGWlhZbK7e5cORpLld1yWHAQxbq452_fsNU/20040311taotw.jpg?psid=1)
+space.]({{ site.url }}/images/20040311taotw.jpg)
 
  Here are a couple of pointers for those of you who somehow feel the
 need to buy gigantic trucks even though you don't go off road and you

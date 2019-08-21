@@ -41,7 +41,7 @@ result in me commuting to work indefinitely.
  Here's a graph that illustrates the principle:
 
 ![Fig. 1: A graph illustrating the Theory of Indefinite
-Commute](https://hyqi8g.blu.livefilestore.com/y2pOkFksnt7c_Azw3zJKAzh9QC4vJSyzCI5R3dAtBP-PO5C41W8AbWY1pXnxYMSQoXapGM-aZyw5_IUovXbLS3HjCdJCUNbSt32W5PNmvCaN1s/20020705indefinitecommuto0.gif?psid=1)
+Commute]({{ site.url }}/images/20020705indefinitecommuto0.gif)
  Fig. 1: The Theory of Indefinite Commute, Illustrated
 
 

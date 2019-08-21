@@ -13,7 +13,7 @@ Reflector](http://www.red-gate.com/products/reflector/index.htm) to [Red
 Gate](http://www.red-gate.com/).
 
 ![Red Gate's .NET
-Reflector](https://hyqi8g.dm2302.livefilestore.com/y2pgUtqQ8d9VS7KrGDrBylNkti-NWuMquZjnJ4GqE1a1XeB9v7Ll31QmlJ4vNUMoBEj97xjxXRCd2h5SatOZ8tMhiSTosb-CvL21UxmfDloUIo/20080820redgatereflector.jpg?psid=1)
+Reflector]({{ site.url }}/images/20080820redgatereflector.jpg)
 
 Wow. This is huge. I'm interested to see what his next move is. (This is
 particularly interesting to me since I started

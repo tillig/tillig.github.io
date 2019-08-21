@@ -13,7 +13,7 @@ time.
 **The Good Ones...**
 
 [![Bioshock Gamestop Limited
-Edition](https://hyqi8g.dm1.livefilestore.com/y2pRAz5mskGxQsQ75MDDhWxb5jER-eUUwjd6exf4UbA9QozoVL4_xCdBWqNm29ZHLyPNpwl_T6CEj30YjuiQGqUG_zPJe0cuczC89XVcJlbzoQ/20070816bioshock.jpg?psid=1)**Bioshock**](http://www.gamestop.com/product.asp?product%5Fid=200317): 
+Edition]({{ site.url }}/images/20070816bioshock.jpg)**Bioshock**](http://www.gamestop.com/product.asp?product%5Fid=200317): 
 Possibly the richest first-person shooter environment I've ever seen,
 this game takes you to the underwater city of "Rapture," an exquisite
 art deco masterpiece, where you take on a society of genetically

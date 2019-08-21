@@ -15,7 +15,7 @@ my house. I've found a few things I use and like, so here's my list of
 things I use to make it easier to keep a clean place.
 
  ![Roomba
-Discovery](https://hyqi8g.dm1.livefilestore.com/y2p-scqcjDf9R8oDVlmzwdfpvB1nc4Miv-PLeVOLayVCbmVTe38aJQfaPh0sV0G7daZIuz_nqjusVU4E4WKLH9bpiGk-lWQ_FOcOB-oxSOXSL4/20061220roomba.jpg?psid=1)[**Roomba**](http://www.amazon.com/exec/obidos/ASIN/B00022HYJ6/mhsvortex)
+Discovery]({{ site.url }}/images/20061220roomba.jpg)[**Roomba**](http://www.amazon.com/exec/obidos/ASIN/B00022HYJ6/mhsvortex)
 - Roomba is my \#1 weapon in my passive-aggressive fight for a clean
 home. Roomba is an automatic vacuuming robot made by
 [iRobot](http://www.irobot.com). It has a home base that it charges its
@@ -34,7 +34,7 @@ and both times were hassle-free and satisfying. Any issues I had -
 resolved, no questions. If you have to choose just one of the things on
 this list to pick up, make it a Roomba.
 
-![Scooba](https://hyqi8g.dm2304.livefilestore.com/y2pqdvqqoCHwtq5LcglUSp827z2OGU_EQJTEJrVSSFnD3y4WN1sVzdjm6EBJJg0b8cMvGXAuCFwDrNTuYXBBNAxOhbc_QLD3y_Ds2rGF_I7Ea4/20061220scooba.jpg?psid=1)[**Scooba**](http://www.amazon.com/exec/obidos/ASIN/B000DN7CD2/mhsvortex)
+![Scooba]({{ site.url }}/images/20061220scooba.jpg)[**Scooba**](http://www.amazon.com/exec/obidos/ASIN/B000DN7CD2/mhsvortex)
 - Scooba is the cousin of Roomba. While Roomba vacuums, Scooba mops.
 Most of my downstairs is hardwood and it gets nasty. Scooba to the
 rescue! Technically Scooba does some vacuuming, too, but not as much as
@@ -47,7 +47,7 @@ something easy to do with the "virtual walls" both Scooba and Roomba
 have.
 
  ![Kaboom! Never
-Scrub](https://hyqi8g.dm2302.livefilestore.com/y2pfpPgL0suTCVeTCSmCG-hRe2JaObLXR9L19Nv5nmozoHmSpnCd7FbEJ39Nnd1JS26NiplyPlsGSvNzwfIhWQY13Sgt2ORVGyER562cm4dxE8/20061220neverscrub.jpg?psid=1)[**Kaboom!
+Scrub]({{ site.url }}/images/20061220neverscrub.jpg)[**Kaboom!
 Never
 Scrub**](http://www.amazon.com/exec/obidos/ASIN/B000LB69X0/mhsvortex) -
 I found this one by accident at the local supermarket and figured I'd
@@ -66,7 +66,7 @@ flush the toilet once or twice a week to make sure it stays clean.
 isn't for you (or you'll have to make sure you keep the lid closed).
 
  ![Scrubbing Bubbles Automatic Shower
-Cleaner](https://hyqi8g.dm2302.livefilestore.com/y2pKila5Z28iH0ElyTOCBWG-tQa6rJnl89wZhaYf02wUp5QSGtNPiTPN6e7S7vTEshs9IFPDiV0IErIF1bIl8t2ymkAzD8xs-7SfOv1I0AC4Cg/20061220showercleaner.jpg?psid=1)[**Scrubbing
+Cleaner]({{ site.url }}/images/20061220showercleaner.jpg)[**Scrubbing
 Bubbles Automatic Shower
 Cleaner**](http://www.amazon.com/exec/obidos/ASIN/B000GCPZC0/mhsvortex)
 - Hang this in the shower and, when you're done, push the button.
@@ -87,7 +87,7 @@ the more built-up scum. We have glass doors on the shower and still have
 to pay a little attention to them. Not as effective as the Kaboom! Never
 Scrub, but pretty darn good.
 
-![Plink](https://hyqi8g.dm2302.livefilestore.com/y2pg3hK-EneAOYBIqmUhZvfh4cfmAqOii7Qg2ZQvWQi_HFwIAVglQhYwuVDxUw7krngf_vxGJBu08NYzghF26R_4yaVa7TJXRLddIIapVqrOyg/20061220plink.jpg?psid=1)[**Plink**](http://www.amazon.com/exec/obidos/ASIN/B000A3I39M/mhsvortex)
+![Plink]({{ site.url }}/images/20061220plink.jpg)[**Plink**](http://www.amazon.com/exec/obidos/ASIN/B000A3I39M/mhsvortex)
 - Less a cleaner and more of a freshener/deodorizer. Drop one of these
 in your garbage disposal and run it to get rid of the stink and give it
 a nice fresh lemon scent. You still will have to clean out your garbage

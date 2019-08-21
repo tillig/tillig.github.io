@@ -58,7 +58,7 @@ temperatures/schedules to the weather forecast. Stick an SD card with
 some photos in the side and it's also a picture frame. Really slick.
 
 ![Trane XL950
-Thermostat](https://hyqi8g.blu.livefilestore.com/y2pyGUeaCzYT76JNdVffsbKsaOSJLcSbfhFrFI76I1xLbylmjJMr1L4M1xrXS-_X32_bkNGbACA02UnkLq3_jAbAxPpGlHlFeMAaxQQpTuFLdw/20111219xl950.jpg?psid=1)
+Thermostat]({{ site.url }}/images/20111219xl950.jpg)
 
 Your manual dampers in the system then get replaced with electronic
 dampers that are wired into a "zone panel" that attaches to the furnace.

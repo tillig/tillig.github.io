@@ -12,7 +12,7 @@ asking about why people haven't moved to
 [started
 here](https://twitter.com/#!/lazycoder/status/66542258714968064)...
 
-![](https://hyqi8g.blu.livefilestore.com/y2p5KnTvFM2ci0pObp0d1NLmPAilxXoV4s2pdKmdIkUCR9nrgnJKnwKN5Lcp66ROwCg-0z5UUDBBobMAnP1UJhoseQnEx4fPkMhjoWBM42Xkaw/20110506tweet.png?psid=1)
+![]({{ site.url }}/images/20110506tweet.png)
 
 Legitimate, good question. xUnit is a nice unit test framework.
 

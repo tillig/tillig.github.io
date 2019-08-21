@@ -30,7 +30,7 @@ following the instructions in the manual, proceeded to try three times
 to make a buttonhole. And you know what?
 
  ![The test fabric with both Jenn's and my buttonholes (6k
-image)](https://hyqi8g.blu.livefilestore.com/y2pyyvnbTbGR6F8QHXDpcL91_UjfhImY1pE53Mt9It32f8rNJjGpbTUJWg5u6XuFvmXLUehk1AYnCFUpwm6K5A-mVmsc2Q8ULH5NKvto7gZplM/20030924buttonholes.jpg?psid=1)
+image)]({{ site.url }}/images/20030924buttonholes.jpg)
 
  *It is that easy. The machine **does** do everything for you and I got
 three perfect buttonholes - one on each try.*
@@ -41,12 +41,12 @@ three perfect buttonholes - one on each try.*
 "rat's nest of thread."
 
  ![Jenn's rat's nest (4k
-image)](https://hyqi8g.blu.livefilestore.com/y2pnifeR6Mdf3DMvZoYomAphBvrAeJyy8Wy1sPag_HJwmjsLJFcPdwQXAen2a_pMVBNOfSupyF4oXdeNOfxD1usdcc59C1ohAWeV0pxGq9o-Ac/20030924jennbuttonholes.jpg?psid=1)
+image)]({{ site.url }}/images/20030924jennbuttonholes.jpg)
 
  Here are *my* buttonholes. Note that I am the *Buttonhole Master*.
 
  ![My buttonholes. Buttonhole KING am I. (9k
-image)](https://hyqi8g.blu.livefilestore.com/y2pxLCQfAbb695CZnZF7AHvXjVQBXduT2CBBAcWU6mvSzDKeYYY89a56fMvJNA26EKZvhVXByeIV2sUwYhF-rfGDgndwmelPj4HmH1bPA5lnQk/20030924mybuttonholes.jpg?psid=1)
+image)]({{ site.url }}/images/20030924mybuttonholes.jpg)
 
  Turns out that Jenn didn't really follow *all* of the instructions,
 just *most*. Funny how you can't just skip the steps you don't

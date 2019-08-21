@@ -100,7 +100,7 @@ had to skip on the heavier decorating. I was pretty pleased with my
 costume this year, though, which was Sherlock Holmes:
 
 ![Travis Illig as Sherlock
-Holmes](https://hyqi8g.bl3301.livefilestore.com/y2pEo6okLp8opoIndZPN7PvqrOkp74AZXXIo24hiaBqx-XOTzeV_hR-rOm2mKhlu0jqzvTEYY4YTYMNjMmJxyCnUPNJD1WQ-gqbwEd7Xrv1KJM/20101101sherlock.jpg?psid=1)
+Holmes]({{ site.url }}/images/20101101sherlock.jpg)
 
 I made the hat, coat, and vest myself. I'm pretty pleased with how it
 turned out. I did a decent job matching up all the plaids at the seams

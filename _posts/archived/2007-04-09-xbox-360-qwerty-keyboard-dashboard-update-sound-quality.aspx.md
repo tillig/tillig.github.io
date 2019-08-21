@@ -9,7 +9,7 @@ tags: [xbox]
 A couple of Xbox 360 topics this morning.
 
  ![Xbox 360 QWERTY Keyboard
-Attachment](https://hyqi8g.dm2304.livefilestore.com/y2p7y-18dEE2fh0MyOjUFceqkX6OdEk3uDIKkCzFqR2mWs5VaZwqLFqAsnYm_Dk4udn8YZTZq2h51I5qg9nF2uzPMFziR5WalEKNbYyXYPj10I/20070409qwerty360.png?psid=1)First,
+Attachment]({{ site.url }}/images/20070409qwerty360.png)First,
 from the Gamerscore Blog, we find that this summer they'll be releasing
 [a miniature QWERTY keyboard
 attachment](http://gamerscoreblog.com/team/archive/2007/04/08/543788.aspx)

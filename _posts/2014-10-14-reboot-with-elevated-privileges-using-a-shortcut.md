@@ -36,10 +36,10 @@ I also changed the icon so it's not the default batch file icon:
 - On the "Shortcut" tab, select "Change Icon..."
 - Browse to `%SystemRoot%\System32\imageres.dll` and select an icon. I selected the multi-colored shield icon that indicates an administrative action.
 
-![Change the icon to something neat](https://hyqi8g.dm2302.livefilestore.com/y2pE5xmuROvE40Pc1RTR-0ldwVE_c_3fMTugXvlHASI0hEqXqRP8ZizXxroYZ7zp4jC_tQ4h2VSB1miLU9bZfauw9hpI4GaMzMup1fcXnl1GLs/20141014_changeicon.png?psid=1)
+![Change the icon to something neat]({{ site.url }}/images/20141014_changeicon.png)
 
 Finally, hit the Start button and go to the list of applications installed. Right-click on the new shortcut and select "Pin to Start."
 
-![Restart shortcut pinned to Start menu](https://hyqi8g.dm2302.livefilestore.com/y2pQE5SorQs2VniIW59s3nCpjPcwasRWor6ZfEA8skTsqHgwFav5qxCfiHtFKcxUuQXml-PNrjPy_klm2skT6Gn5tt98rb4MikpDSt7Trnz1Ws/20141014_restartpinned.png?psid=1)
+![Restart shortcut pinned to Start menu]({{ site.url }}/images/20141014_restartpinned.png)
 
 **That's it** - now when you need to restart as a non-admin, click that and enter the password for the local administrator account.

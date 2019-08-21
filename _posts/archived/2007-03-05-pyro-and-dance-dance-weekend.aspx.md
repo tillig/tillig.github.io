@@ -17,9 +17,9 @@ license](/archive/2005/09/21/state-licensed-pyrotechnician.aspx)
 expiring, and since our license expire next year, we figured this would
 be a good opportunity. Always good to refresh yourself on the laws and
 safety regulations.
- 
+
  [![LEGO Imperial Star
-Destroyer](https://hyqi8g.dm1.livefilestore.com/y2pYA3I4dejhWl5R0shqB3jIKIzenRiuTYZjran3FBYkk8kRdN07h5PFTCVg7JmsPETbrjWEsYEF6z52X-5LYhZgtlLII8BmBnODSAAcz1taLU/20070305stardestroyer.jpg?psid=1)](http://www.amazon.com/exec/obidos/ASIN/B000ELIX5Y/mhsvortex)Saturday
+Destroyer]({{ site.url }}/images/20070305stardestroyer.jpg)](http://www.amazon.com/exec/obidos/ASIN/B000ELIX5Y/mhsvortex)Saturday
 night on the way back from pyro class we stopped by my parents' place to
 visit. Mom picked me up a [Lego Imperial Star
 Destroyer](http://www.amazon.com/exec/obidos/ASIN/B000ELIX5Y/mhsvortex)
@@ -27,7 +27,7 @@ for a song at a sale she found so I got that from her. She also found
 this cool [CSI Facial Reconstruction
 Kit](http://www.amazon.com/exec/obidos/ASIN/B000623MGQ/mhsvortex), so
 she passed that along. Fun!
- 
+
  Sunday was chore day. We got up reasonably early and I went around the
 house to all the windows and re-caulked everywhere that the caulking had
 split due to the house settling. That meant all four corners to most of
@@ -36,7 +36,7 @@ the removal of the blinds. It was a heck of a job and took close to four
 hours to hit every window in the place, but I got it done and it's
 looking good again. Took a tube and a half of caulk, which is a personal
 record for maximum caulk use at a given time. Heh.
- 
+
  I had planned on watching [*The Empire Strikes
 Back*](http://www.amazon.com/exec/obidos/ASIN/B0006VIXGQ/mhsvortex) and
 putting together the Lego Imperial Star Destroyer in the afternoon, but
@@ -45,12 +45,12 @@ to the store and while we were out we ended up getting [*Dance Dance
 Revolution Universe* for Xbox
 360](http://www.amazon.com/exec/obidos/ASIN/B000JV322S/mhsvortex) with a
 Target gift card we had left over from Christmas...
- 
+
  ...which, of course, led to my evening consisting of the finishing up
 of tasks and an hour and a half of DDR, effectively routing my ability
 to also watch the movie and play Legos. I will have to commence
 Star-Wars-ing this evening when I get home.
- 
+
  DDR on Xbox 360 is a welcome addition to our home, though. Jenn and I
 were just talking about how we don't go to the gym because we're lazy
 and it's boring, and we realized that the one time we did end up losing
@@ -60,7 +60,7 @@ I game became patently unacceptable, regardless of the fact we have like
 three different DDRs for PS2. Now I can have my cake and eat it, too -
 DDR on Xbox 360 gives me my DDR fix as well as the ability to get
 Gamerpoints.
- 
+
  In a similar vein, the purchase of DDR was my impetus to pull the
 receiver out and rewire things so the Xbox 360 now goes through it,
 finally giving me digital surround in games and media. (Yes, I now
@@ -84,7 +84,7 @@ plug into the front of the thing. Not much I can do about that, but it
 doesn't overwhelm me with elegance. It does make me think about what I'm
 going to want in my next receiver, though, and the number one
 determining factor is going to be *quantity of inputs*.
- 
+
  At some point over the course of the weekend I put a nice gouge in the
 right lens of my glasses. Not really sure how it happened or when, but
 when I was cleaning them last night, there it was. It's not in my direct

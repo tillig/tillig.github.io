@@ -7,7 +7,7 @@ disqus_identifier: 1286
 tags: [General Ramblings]
 ---
 ![Trav and Jenn on "Speed: The
-Ride"](https://hyqi8g.dm2301.livefilestore.com/y2p_v1S13A1pm8VByqY_Rqi_8Xeq0Ml4mhGwxacIcWziBEo0fzsGM_bbdwiq_36NHANLE8ngj5f8NiCnNzzY9dOXPV9A8oJsEV5_bnc3ENCYMU/20071030speedride.jpg?psid=1)Last
+Ride"]({{ site.url }}/images/20071030speedride.jpg)Last
 week, my parents, Jenn, and I all packed up and headed down to Vegas for
 three days.
 
@@ -52,5 +52,5 @@ friend Adam's birthday.  We'll have to see.
 To close - a picture of me and my parents outside the Treasure Island:
 
 ![Dad, Travis, and Mom outside the Treasure
-Island](https://hyqi8g.dm2302.livefilestore.com/y2pe5n11m38XjBtE0yXBt6K6VvSH_18lW3FrwkN10PCAksX0jpLPgbIxt1sqG-3RwUw73_JXDhVZf8SiU1yXfxoEOllN34djiSKuVIJ3UDX6yM/20071030vegasfamily.jpg?psid=1)
+Island]({{ site.url }}/images/20071030vegasfamily.jpg)
 

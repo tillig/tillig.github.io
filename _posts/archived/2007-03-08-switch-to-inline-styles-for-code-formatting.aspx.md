@@ -11,12 +11,12 @@ a place where someone has inserted a block of code. On the blog site, it
 looks like this:
 
  ![Formatted code on a web
-site.](https://hyqi8g.dm2304.livefilestore.com/y2p0OP69uSRil235G7HnsQSkO6VTAv7SRGqqa4uBigiY2yqYyy1cfHTYnPPJRjj-t3iNGAL5GMkTElqz_NaNkdcBahKGoXKukynLOKGUCSaUCs/20070308site.png?psid=1)
+site.]({{ site.url }}/images/20070308site.png)
 
  But in the RSS reader, it looks like this:
 
  ![Formatting displayed incorrectly for code in an RSS
-feed.](https://hyqi8g.dm1.livefilestore.com/y2pD_WYKgDakREZF8FNJNVsH1GLH_TwC_lv0qzZlNfouRJa16Ez4vCz5Un93BGHkP0ip0znapqYyDK38PRFFNMviu86Jo0w8RQfMxVTzVbJiGA/20070308rss.png?psid=1)
+feed.]({{ site.url }}/images/20070308rss.png)
 
  Not so great. I mean, the code is reasonably legible, but the style
 sheet renders literally in the reader. I shouldn't see that CSS - it
@@ -25,7 +25,7 @@ should be formatting the code, not appearing in the view window.
  I also see RSS feeds that do display a nicely formatted block of code:
 
  ![Code displaying correctly in
-RSS.](https://hyqi8g.dm2303.livefilestore.com/y2pV-b2zGU6J40m-8fDinUWCEOIoMi58pa0rHbK-Z5U-z2luQdFXjSXCHVGbzXmjSmIPCF6Swr5cvM0FOXKmlosL6nF7G5nWoY4RByH2fV0LXE/20070308correctformat.png?psid=1)
+RSS.]({{ site.url }}/images/20070308correctformat.png)
 
  At first I thought it was a bug in my reader, so I tried some other
 readers and got the same result.

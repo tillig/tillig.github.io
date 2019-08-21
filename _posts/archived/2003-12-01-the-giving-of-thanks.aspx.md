@@ -23,7 +23,7 @@ gamey disgustingness down their gullets.
 of her Christmas gift."
 
  ![Santa
-Candleholders](https://hyqi8g.blu.livefilestore.com/y2px6arr-q0xoE8i-oi4VgS3AUYggOSLIsdSTjAibmgUmBeIcyCfIkmekxC3eaHxdabu62SORdliSLrkMfkTIyahA2_iKaeYVgM6uh-aKXFDdE/20031201candleholders.jpg?psid=1)
+Candleholders]({{ site.url }}/images/20031201candleholders.jpg)
 
  I appreciate that they were trying to do something nice, but there are
 a few problems with candleholders, particularly candleholders of this
@@ -67,24 +67,24 @@ kept. It was an interesting blast from the past, though.
 Remember the Commodore Vic 20? Here's the box:
 
  [![Vic 20 Box -
-Front](https://hyqi8g.blu.livefilestore.com/y2pEn9mYl014qbsHdms2IW_mOsGus1JgijWW--XGTyhop9UITo4ZLBKpMcsDqIlo5MHellUwonkZ0IBGlA6F5MVCNti3MkN5RLyOVPtlcXF6PI/20031201vic20front_sm.jpg?psid=1)](https://hyqi8g.blu.livefilestore.com/y2pHkPhxDdB7GFL1fVHJ1DU4qapqtLfH71ByhvVEwunEhcMNWy-0Xk7tq0WjiXecXepk5JCeH2kV41qErK701W7BGF9MxvjW3UoctgpidDI_XM/20031201vic20front_lg.jpg?psid=1) [![Vic
+Front]({{ site.url }}/images/20031201vic20front_lg.jpg) [![Vic
 20 Box -
-Back](https://hyqi8g.blu.livefilestore.com/y2pig6F-AcvAlDdXrv-9cfi3GGJuBP8V5kEIaNQr4w-yHY_lRH4V2TSAU0qZOG6f931Ah2Rw2reb1ahUzD-jEJNxHAjBsPzFJmBdNtHHIu2t-8/20031201vic20back_sm.jpg?psid=1)](https://hyqi8g.blu.livefilestore.com/y2pE_dNrT_Ma7HXW6o5dlFo4ZaRzp8W8oxqzLtigWWcPvJH7bbelhKw01NF-B1HHX439lbQkevWkBqBYecH7IHb3m-naM4of9IOyl_0ka2IEdM/20031201vic20back_lg.jpg?psid=1)
+Back]({{ site.url }}/images/20031201vic20back_lg.jpg)
  [![Vic 20 Box - Back
-(Blowup)](https://hyqi8g.blu.livefilestore.com/y2pgyU-34cBK6Zx5hJhvJGS16U8S6nPdLPyt6s7gJVUPszVCl7JO8akcM4XqiUL8ffuzuJ-6Gpbo6yTOusMEUHKr6tkotGW5x1TPOSlCgTMUM4/20031201vic20back2_sm.jpg?psid=1)](https://hyqi8g.blu.livefilestore.com/y2pdPNVnkNEz2MHAFMUJw96pPdeaBzSWDLrOdWTt36-jc7ftzymKSgFKjavQNQjml4xWBeCUaLh8ZsoHc48qqwnqrGt0k754Lz0KTB7n-ecr2o/20031201vic20back2_lg.jpg?psid=1)
+(Blowup)]({{ site.url }}/images/20031201vic20back2_lg.jpg)
 
  We had one of those, and then we ended up buying a Commodore 64 when
 the Vic 20 got stolen:
 
  [![C64 Box -
-Front](https://hyqi8g.blu.livefilestore.com/y2pXgpsT4IWHvrJnYrmxR5_fJN2iHDDRh2xYpDzhE4JTs7lsjpl7F-ySM33preMd9GqrfSNLc6NqlWZANvpePPoip_Xs-6t6r9JsmmaDHlLfKs/20031201c64front_sm.jpg?psid=1)](https://hyqi8g.blu.livefilestore.com/y2pqolEqSKFMZaqvGQ8JyYGYqJz4k_HMxyNjGm_bkk0TezIkfqCNKbFnb8Qw_8ZGmvppqVvc9MQifm9II0Rhcya7oxqvPyNWXqwPezQYFuJfOk/20031201c64front_lg.jpg?psid=1) [![C64
+Front]({{ site.url }}/images/20031201c64front_lg.jpg) [![C64
 Box -
-Back](https://hyqi8g.blu.livefilestore.com/y2pPm1QEHEpeF7aEZydbMAX1ZJS9bbWVQ9UMkA8E684AXdOUM0CM1CQw2hphACqNVNCPILaX6tFWDKFYh7hVc70OZWTHB3qlsqKDrGon-R-8ZQ/20031201c64back_sm.jpg?psid=1)](https://hyqi8g.blu.livefilestore.com/y2pp6793tSyVjUK2Vl7MXjS-nXAHGhujYY-o4OrnAeb9YJU8TitaGlXVMXOzj4Y5lWIioNz12gfi1hiK4DwEAMHR3SHQ-clD8_izQZ_Cp2D1dU/20031201c64back_lg.jpg?psid=1)
+Back]({{ site.url }}/images/20031201c64back_lg.jpg)
 
  We also got one of the floppy disk drives:
 
  [![Commodore 1541 Floppy Disk
-Drive](https://hyqi8g.blu.livefilestore.com/y2pqK8WZSzt8tI2iO9DLALtq9Zfm4tL0z6JI8RSnxZhNrhLWfsy_vuc300Nv6154nAhaHaC0ME4cekxJtFczEnz5bwT71-lJTeb2bT7LOcFUAg/20031201_1541_sm.jpg?psid=1)](https://hyqi8g.blu.livefilestore.com/y2pWsInJmrf24aUIeRe_e5iMb7kP_iYEgssFXitAP14aq6dKNt9pnA6vrx2qc2N1eBku8MTAoBjpu7cmmcJ49JZx2gcMgQ5WEJBGNeLswbdiE8/20031201_1541_lg.jpg?psid=1)
+Drive]({{ site.url }}/images/20031201_1541_lg.jpg)
 
  So that was sorta neat to see. (Those boxes have since been
 dumpstered.)

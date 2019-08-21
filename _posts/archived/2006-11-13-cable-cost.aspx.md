@@ -7,20 +7,20 @@ disqus_identifier: 1100
 tags: [General Ramblings]
 ---
 [![Xbox 360 VGA
-cable](https://hyqi8g.dm2301.livefilestore.com/y2ptJ39c1g88oFXEpF306SYfRPn0Xwxb4GSPFDB4vt8pvVafnGB6dToAjfTiffMWqUwRbdhUXnfISmGamv4Wb-7yG1c4nzRol_7riw5VnlyCc0/20061113vga.jpg?psid=1)](http://www.amazon.com/exec/obidos/ASIN/B000B6MLTG/mhsvortex)
+cable]({{ site.url }}/images/20061113vga.jpg)](http://www.amazon.com/exec/obidos/ASIN/B000B6MLTG/mhsvortex)
 
  [Xbox 360 VGA
 cable](http://www.amazon.com/exec/obidos/ASIN/B000B6MLTG/mhsvortex) -
 $40.
 
  [![Belkin VGA to DVI
-Adapter](https://hyqi8g.dm2302.livefilestore.com/y2pfQVxUDLxCD5i5gf2wUtKdZdux6_eS1yhXkKIXgQbOpvgpf83RXsPZW2bjFS1ELEzhtksWOv21vJJtKh2nmSt-bTpwlohhYJjlxERTS9Qk5U/20061113adapter.jpg?psid=1)](http://www.officedepot.com/ddSKU.do?level=SK&id=861752)
+Adapter]({{ site.url }}/images/20061113adapter.jpg)](http://www.officedepot.com/ddSKU.do?level=SK&id=861752)
 
  [Belkin VGA to DVI
 adapter](http://www.officedepot.com/ddSKU.do?level=SK&id=861752) -
 $25.
 
-[![image](https://hyqi8g.dm2303.livefilestore.com/y2pAhw2oa_wW6h80R3BYavbrhjJ-LfVBhQVoTz5zzF7nAqNf6-uXKPShxPLGJSt0ztAGoVxmwUDv6ai4Ol5Oy7WCX9w6VvfbYKwKELVn7twQLs/20061113oldcables.jpg?psid=1)](http://bluejeanscable.com)
+[![image]({{ site.url }}/images/20061113oldcables.jpg)](http://bluejeanscable.com)
 
  Custom cut [DVI](http://bluejeanscable.com/store/dvi/index.htm) and
 [audio](http://bluejeanscable.com/store/audio/index.htm) cables that I

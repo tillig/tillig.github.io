@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 1215
 tags: [blog,subtext,net,aspnet]
 ---
-[![Subtext](https://hyqi8g.bl3301.livefilestore.com/y2pojvSSVNaltHHU3oWOT_SXuYfAqVg9xkGF4YNQOVG0GN276eBA96RwuMcsLLep6m6EPIeCK01cYiYoyI9YXiUbQPPspupv0Q7w97Bm8uM_O0/20070616subtextwo1.png?psid=1)](http://www.subtextproject.com)I
+[![Subtext]({{ site.url }}/images/20070616subtextwo1.png)](http://www.subtextproject.com)I
 just finished converting over to Subtext, and, all things considered, it
 went reasonably well.
 

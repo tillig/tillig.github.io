@@ -45,10 +45,10 @@ Fun!
 bears and the giraffes (well, they're *all* my favorites, but I really
 like those two). Here's the polar bear, hanging out. ([Also available in
 a 1024 x 768 wallpaper size, if you really like
-it.](https://hyqi8g.blu.livefilestore.com/y2p9x8ylIKGpS-16qDPMXau09pOrfyp0siGQr8BN1GGH0Pmbbn-CeSuGDKnfKRByrDNnk_JvdnLeSxI4QBaMFewqztEsKFzgEEL6uqb50kGO3c/20040919polarbearlghn3.jpg?psid=1))
+it.]({{ site.url }}/images/20040919polarbearlghn3.jpg))
 
  [![Polar Bear at the Oregon Zoo (Click for
-wallpaper)](https://hyqi8g.blu.livefilestore.com/y2phKJKRrnQtY1x6aEvF1tc7Z2oS6POhKKmm1z-Re4mPmkzloLR2UDAh12bfnNZ9L5H6fxIOCP8vSDewu3Z1tUFIH2C21ZrQbQ7CdpVZDsB9ew/20040919polarbearsmal1.jpg?psid=1)](https://hyqi8g.blu.livefilestore.com/y2p9x8ylIKGpS-16qDPMXau09pOrfyp0siGQr8BN1GGH0Pmbbn-CeSuGDKnfKRByrDNnk_JvdnLeSxI4QBaMFewqztEsKFzgEEL6uqb50kGO3c/20040919polarbearlghn3.jpg?psid=1)
+wallpaper)]({{ site.url }}/images/20040919polarbearlghn3.jpg)
 
  I remember when you used to be able to feed the giraffes at the zoo and
 ride elephants. They don't let you do that anymore. I can see maybe not
@@ -59,12 +59,12 @@ food off the ground. Quite the contortions it has to do to get down
 there:
 
  ![Giraffe bending down to get food off the
-ground](https://hyqi8g.blu.livefilestore.com/y2pcxMYmedP4wQEAWWyi8p2MOv2_RFwDvrdWyVdRZRIESFsKtElwdU6eajfEXZ1OSz3X7YG5aEnk64JnuxtzwMA0ngWVYShMW-Jb1mrJYyFxH0/20040919giraffe02fm4.jpg?psid=1)
+ground]({{ site.url }}/images/20040919giraffe02fm4.jpg)
 
  Wait a sec... let's investigate that a little closer, shall we?
 
  ![Giraffe
-nuts!](https://hyqi8g.blu.livefilestore.com/y2p9cfWJAunx3AbhC7WvcnnB171jVQsoO66x0N1ZIW2y8GAxtMEqn3pB7YIYCoFLWI91cWPu0pokmnDcoLEUdRqat2XHjtdybtQQ9f_R-4FEXI/20040919giraffe03rp7.jpg?psid=1)
+nuts!]({{ site.url }}/images/20040919giraffe03rp7.jpg)
 
  That's what I thought.
 

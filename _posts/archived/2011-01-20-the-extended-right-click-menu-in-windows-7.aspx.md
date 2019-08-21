@@ -23,7 +23,7 @@ those keys, you'll see a REG_SZ value called "Extended" that is
 floating there without any actual value assigned.
 
 ![The "Extended" registry
-value](https://hyqi8g.blu.livefilestore.com/y2pc9KHnJskvEqi072GsUUkOpfUj-dE--ueY92VO5FSjrlfK_BFzDmLWeq1VmA8bvE7L7WQCbtuYmeRg5g8WHs-6DtUiGXrwiiu9gg-D-8kvVQ/20110120extendedvalue.png?psid=1)
+value]({{ site.url }}/images/20110120extendedvalue.png)
 
 **If you delete that "Extended" value, then "Open command window here"
 will always show up** and you don't have to hold Shift down. Conversely,

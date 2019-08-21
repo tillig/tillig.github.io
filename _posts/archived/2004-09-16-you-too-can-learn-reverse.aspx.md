@@ -10,7 +10,7 @@ This was seen in the parking lot this morning. Apparently this is not
 uncommon for this particular vehicle:
 
  ![I can't figure out
-reverse](https://hyqi8g.blu.livefilestore.com/y2pVhiav46853mFiSvn56P5WH-SQrw1tQGx-ELX8VybKYKBaNQeS9qbZyy3IZOFNxWW53XHtCgPbvhIe7WAJKw01gC8W7E-er6uXWPMMyT6sew/20040916taotw.jpg?psid=1)
+reverse]({{ site.url }}/images/20040916taotw.jpg)
 
  This person is why many parking lots have signs that say "head-in
 parking only." Some folks still haven't taken that class on how to park,
