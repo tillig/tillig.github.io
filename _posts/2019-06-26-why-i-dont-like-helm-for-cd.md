@@ -10,6 +10,8 @@ description: "There are a lot of articles out there showing how to wire up your 
 
 [Helm](https://helm.sh) is a tool used to create and deploy templates that define entities in Kubernetes. It's kind of like taking Kubernetes YAML and adding [handlebars template support](https://handlebarsjs.com/). For example, you might see something like this:
 
+{% raw %}
+
 ```yaml
 apiVersion: v1
 kind: ReplicationController
@@ -38,6 +40,8 @@ spec:
             - name: DATABASE_STORAGE
               value: {{default "minio" .Values.storage}}
 ```
+
+{% endraw %}
 
 In this case, you can see there are some values poked in from another YAML document that has some configuration parameters. The values document might look like this:
 
