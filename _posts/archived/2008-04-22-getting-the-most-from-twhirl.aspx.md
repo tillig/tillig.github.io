@@ -102,7 +102,7 @@ My custom scheme looks like this:
 scheme]({{ site.url }}/images/20080422twhirlcolors.jpg)
 
 And you can [download it here if you
-like](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45421&authkey=!AIUMb0g19mBkxs0&ithint=file%2czip).
+like]({{ site.url }}/downloads/TwhirlColorScheme.zip).
 (Unzip the file into your twhirl colorschemes directory. The XML file
 inside is the color scheme.)
 

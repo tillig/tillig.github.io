@@ -324,4 +324,4 @@ Below is the download for the complete source and my cobbled-up Razor syntax hig
 -   Don't say I didn't warn you.
 -   Good luck and have fun.
 
-[[**Download Source** – DemoHtmlExtensions, ViewEngineCollectionExtensions, Razor Syntax Highlighter Brush, Stub Main View – 5KB](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45434&authkey=!AF3JSQd9D9omWuM&ithint=file%2czip)]
+[[**Download Source** – DemoHtmlExtensions, ViewEngineCollectionExtensions, Razor Syntax Highlighter Brush, Stub Main View – 5KB]({{ site.url }}/downloads/DemoPartial.zip)]

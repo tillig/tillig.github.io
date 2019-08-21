@@ -46,10 +46,9 @@ action!]({{ site.url }}/images/20071018switcharoo.png)
 Go ahead and grab the reproduction code here:
 
 [Reproduction Code for The Old Enum Switcharoo [EnumSwitcharoo.zip -
-15KB]](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45007&authkey=!AN3lpKsX-NI_Vsc&ithint=file%2c.zip)
+15KB]]({{ site.url }}/downloads/EnumSwitcharoo.zip)
 
 The solution to the problem is to either get the external dependency to
 put their enumeration back (which is a possibility for us, since we
 control it) or recompile your application against the new version of the
 dependency.
-

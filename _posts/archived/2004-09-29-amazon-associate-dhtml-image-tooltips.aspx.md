@@ -76,7 +76,7 @@ particular browser, *tell me how to fix it and I will*.
  Like it? Want it? Here you go!
 
  [**Download Amazon Associate DHTML Image Tooltips Script 2.1 (.zip
-file)**](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45405&authkey=!APe805TlxJsFAqI&ithint=file%2czip)
+file)**]({{ site.url }}/downloads/DHTML_Tooltip_2.1.zip)
 
  **Version History:**
  **2.1:** Added support to allow co-existing with Amazon "link-enhancer"

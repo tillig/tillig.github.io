@@ -136,7 +136,7 @@ have to think about expanding that markup.
 I use.**
 
 First, **[download the zip of the
-templates](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45343&authkey=!AFpQ7GE3ktgUhx8&ithint=file%2czip)**.
+templates]({{ site.url }}/downloads/XMLDocCommentTemplates.zip)**.
 It has one XML file in it - the exported set of templates. Unzip that
 file somewhere you'll remember. Now, in the Options window, after you
 select Editor/Templates and set the language to "\*Neutral\*" (as
@@ -223,5 +223,4 @@ Finally, if you're looking for tips on writing good XML documentation,
 subject](/archive/2007/11/14/on-writing-good-xml-documentation-comments.aspx).
 
 [[**Download my XML Doc Comment
-templates**](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45343&authkey=!AFpQ7GE3ktgUhx8&ithint=file%2czip)]
-
+templates**]({{ site.url }}/downloads/XMLDocCommentTemplates.zip)]

@@ -203,7 +203,7 @@ I've got a solution you can download with a working demo in it so you
 can see what the complete package looks like:
 
 [[ProductModuleDemo.zip
-(11KB)](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45330&authkey=!AJLihr45GiDblb0&ithint=file%2czip)]
+(11KB)]({{ site.url }}/downloads/ProductModuleDemo.zip)]
 
 Hopefully this will help you larger plugin developers to make some
 really cool "official" DXCore products!

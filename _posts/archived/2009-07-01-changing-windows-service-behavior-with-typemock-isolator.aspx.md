@@ -190,5 +190,4 @@ ServiceWrapper (running under an account that has Isolator enabled) and
 you'll see the problem behavior get replaced.
 
 [[Download ServiceWrapperDemo.zip
-(20K)](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45429&authkey=!AItWlrPc55RXEI4&ithint=file%2czip)]
-
+(20K)]({{ site.url }}/downloads/ServiceWrapperDemo.zip)]

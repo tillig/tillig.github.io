@@ -53,7 +53,7 @@ manual) for the FF users, below.
     to.
 
 [[Download 'Copy Amazon Product URL'
-Bookmarklet](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45415&authkey=!AJcfZ-DyNgqLDbA&ithint=file%2czip)]
+Bookmarklet]({{ site.url }}/downloads/CopyAmazonProductURL.zip)]
 
 **FIREFOX:**
 

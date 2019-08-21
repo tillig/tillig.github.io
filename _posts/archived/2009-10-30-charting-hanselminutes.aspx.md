@@ -90,5 +90,4 @@ I was right - there is an upward trend in the Hanselminutes duration.
 So... interesting.
 
 UPDATE: If you want the data for your own enjoyment, [here you
-go](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45430&authkey=!ALByNjy06SvjjBc&ithint=file%2ctxt).
-
+go]({{ site.url }}/downloads/HanselminutesTimes.txt).

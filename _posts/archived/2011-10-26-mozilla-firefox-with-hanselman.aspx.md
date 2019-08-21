@@ -19,10 +19,10 @@ Looking at the addon code, it was released under MPL 1.1/GPL 2.0/LGPL
 In response to the peoples' demand, I present to you
 
 [Firefox With
-Hanselman](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45336&authkey=!AG1axtdwCjahmKQ&ithint=file%2cxpi)
+Hanselman]({{ site.url }}/downloads/firefox-with-hanselman.xpi)
 
 ([Click to get the
-addon](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45336&authkey=!AG1axtdwCjahmKQ&ithint=file%2cxpi).)
+addon]({{ site.url }}/downloads/firefox-with-hanselman.xpi).)
 
 This addon does pretty much exactly what the Bing addon does:
 

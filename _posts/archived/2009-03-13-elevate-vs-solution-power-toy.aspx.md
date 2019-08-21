@@ -18,5 +18,4 @@ Download the zip file, extract the .inf file, right-click, install.
 Standard disclaimers ("works on my box!") apply.
 
 [**[Download
-ElevateVSSolution.zip](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45428&authkey=!AMW3ju57ClJCEHQ&ithint=file%2czip)**]
-
+ElevateVSSolution.zip]({{ site.url }}/downloads/ElevateVSSolution.zip)**]

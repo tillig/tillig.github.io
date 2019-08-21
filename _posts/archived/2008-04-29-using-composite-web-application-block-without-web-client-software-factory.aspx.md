@@ -157,5 +157,4 @@ guarantees that this will work for you and be totally bullet-proof. Your
 mileage may vary, no warranty expressed or implied, etc.**
 
 [**[Download Sample
-Project](https://onedrive.live.com/redir?resid=C2CB832A5EC9B707!45422&authkey=!ALfUkBkVR_nnIdw&ithint=file%2czip) (48K)**]
-
+Project]({{ site.url }}/downloads/CwabSolo.zip) (48K)**]
