@@ -58,7 +58,7 @@ find them in your "My Music" folder. To export the playlist as .M3U...
     anywhere WMP indexes.
 5.  In the "Save As Type" dropdown, select "M3U Playlist."
     ![Save as type:
-    M3U](https://hyqi8g.bl3302.livefilestore.com/y2pnuMU-DpPbuCfd8uWnPidQg6cgqUohMuyqXxnMw8kOslHO7GVUefr4I5T37yhmNL9MGE-7RH7K0wFemKL1o8w5bwSz7dWK5fnJ8nlV5TDWN4/20100926wmpsaveasm3u.png?psid=1 "Save as type: M3U")
+    M3U](https://hyqi8g.bl3302.livefilestore.com/y2pnuMU-DpPbuCfd8uWnPidQg6cgqUohMuyqXxnMw8kOslHO7GVUefr4I5T37yhmNL9MGE-7RH7K0wFemKL1o8w5bwSz7dWK5fnJ8nlV5TDWN4/20100926wmpsaveasm3u.png?psid=1)
 6.  Click OK to save the playlist.
 
 Now, here's the pain in the rear part of dealing with it in Windows
@@ -101,14 +101,14 @@ lifting](http://www.ericdaugherty.com/dev/itunesexport/).
 3.  Run the iTunes exporter.
 4.  Select the iTunes library XML file location.
     ![Select the library XML
-    file.](https://hyqi8g.bl3301.livefilestore.com/y2pcyMZ1s_d3Wf94kW1jop8KBUyHN1iJICXI3vNm1Pirs1V47SLOdBjQE5maa2jcz_K0kncjL0CIbaJ5mDTYtQauofGYtU0Loh2KY6Xy3SHhvc/20100926itunesexport1.png?psid=1 "Select the library XML file.")
+    file.](https://hyqi8g.bl3301.livefilestore.com/y2pcyMZ1s_d3Wf94kW1jop8KBUyHN1iJICXI3vNm1Pirs1V47SLOdBjQE5maa2jcz_K0kncjL0CIbaJ5mDTYtQauofGYtU0Loh2KY6Xy3SHhvc/20100926itunesexport1.png?psid=1)
 
 5.  Wait while the application loads the iTunes library and discovers
     your playlists.
 6.  Select the playlists that you want to export, then click "Next."
     (The selected playlists will turn blue.)
     ![Select the playlists to
-    export.](https://hyqi8g.bl3301.livefilestore.com/y2puadjyo9kN-2mzlMZyyUeY2Yn8S1bc0_X6pEqcu292h1qrV1QVsTB68Sis0j1tgYJAWhn2pAYBVmMK-YPApTiFLBlgrQfZkGdcSzyrrksxGs/20100926itunesexport2.png?psid=1 "Select the playlists to export.")
+    export.](https://hyqi8g.bl3301.livefilestore.com/y2puadjyo9kN-2mzlMZyyUeY2Yn8S1bc0_X6pEqcu292h1qrV1QVsTB68Sis0j1tgYJAWhn2pAYBVmMK-YPApTiFLBlgrQfZkGdcSzyrrksxGs/20100926itunesexport2.png?psid=1)
 
 7.  Select your various export options and click "Next." Make sure
     you...
@@ -128,7 +128,7 @@ lifting](http://www.ericdaugherty.com/dev/itunesexport/).
     -   Make a note of the "Output Directory" setting because this is
         where the playlists will end up.
         ![Select export options in iTunes
-        Export](https://hyqi8g.blu.livefilestore.com/y2pT37mSblih2jbFHeuEjS78DOJaOZVDd_5bmVAM5BmzW6ZgnpXkn0WYbZPnpWts-AVm8UDBy8QMIWBoPUTXttYxUPox74N8MoVSW4bV92F49I/20100926itunesexport3.png?psid=1 "Select export options in iTunes Export")
+        Export](https://hyqi8g.blu.livefilestore.com/y2pT37mSblih2jbFHeuEjS78DOJaOZVDd_5bmVAM5BmzW6ZgnpXkn0WYbZPnpWts-AVm8UDBy8QMIWBoPUTXttYxUPox74N8MoVSW4bV92F49I/20100926itunesexport3.png?psid=1)
 
 8.  The exporter will finish and you can close it.
 9.  Find the playlists you just exported and...

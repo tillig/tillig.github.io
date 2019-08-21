@@ -22,7 +22,7 @@ the application project, set up the output you're interested in
 grabbing, and telling Wix to "Harvest":
 
 ![Normally 'Harvest' is 'True' and 'Project Output Group' is set to
-something.](https://hyqi8g.bl3301.livefilestore.com/y2pC2VuMYNoVrxFn_0YERQBQUuQC5NrlUsa1f6tzJoAPr12zgeaDISP2-H2A_Nlj4_ZSLOEFqad68zhUhrextqIgonkYpE6nsWFb6sjMOHsZlo/20100730wixprojharvest.png?psid=1 "Normally 'Harvest' is 'True' and 'Project Output Group' is set to something.")
+something.](https://hyqi8g.bl3301.livefilestore.com/y2pC2VuMYNoVrxFn_0YERQBQUuQC5NrlUsa1f6tzJoAPr12zgeaDISP2-H2A_Nlj4_ZSLOEFqad68zhUhrextqIgonkYpE6nsWFb6sjMOHsZlo/20100730wixprojharvest.png?psid=1)
 
 **If you do that for a web project, though, the installer ends up
 dropping the web project assemblies right in the root of the app**
@@ -182,7 +182,7 @@ project folder. **Add the generated .wxs to your .wixproj project so it
 knows to include it in the build.**
 
 ![Add the .wxs file to the
-.wixproj.](https://hyqi8g.blu.livefilestore.com/y2pSYXERri6ek0fwjci5rdWsvSkz-immsh9WAw2-jF1gghB3AzhkWjCEBYMf_O8YHq_hJiIz9VUGVJNwd-hV_A_afwkbHrLxCXfUSZErVcgDbM/20100730wixprojaddgeneratedscri.png?psid=1 "Add the .wxs file to the .wixproj.")
+.wixproj.](https://hyqi8g.blu.livefilestore.com/y2pSYXERri6ek0fwjci5rdWsvSkz-immsh9WAw2-jF1gghB3AzhkWjCEBYMf_O8YHq_hJiIz9VUGVJNwd-hV_A_afwkbHrLxCXfUSZErVcgDbM/20100730wixprojaddgeneratedscri.png?psid=1)
 
 Finally, in your main Product.wxs file, add a ComponentGroupRef to the
 Feature that should install your web site and use the generated

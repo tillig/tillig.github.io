@@ -28,9 +28,7 @@ probably get good scores on the "maiden name of Clapton's mom" tests,
 too.
 
 ![Hey, now, I'm a rock
-star!](https://hyqi8g.dm1.livefilestore.com/y2p9shtq5O29bFyL3-X9kfF62Utt
-0O-I2bmOeN5zBYXWN0kQB30QoCuFi_xp5XPli9wMT0lR-PoE4r0JenpKZRGWccymHIR0YHQd
-nH14mWfPyA/20070212rockstar.jpg?psid=1)
+star!](https://hyqi8g.dm1.livefilestore.com/y2p9shtq5O29bFyL3-X9kfF62Utt0O-I2bmOeN5zBYXWN0kQB30QoCuFi_xp5XPli9wMT0lR-PoE4r0JenpKZRGWccymHIR0YHQdnH14mWfPyA/20070212rockstar.jpg?psid=1)
 
 My test tracked 1 variable How you compared to other people *your age
 and gender*: You scored higher than **99%** on **notes**

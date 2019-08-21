@@ -33,7 +33,7 @@ at a time onto the iPod and which I'm now referring to as The Great iPod
 Sync of '10, **I found the culprit: One. Single. Bad. Track.**
 
 ![Windows Explorer showing ONE TRACK not
-working.](https://hyqi8g.bl3301.livefilestore.com/y2pgBHzLfdpWbPrlVl5zqCtvlivuIAqRBsynsHeAuhhJ4AUZfWWCwqZgzY5933-XAoX6EL3Cfdl8aIVSTTfW4NbEpkcceRz_ImdrxmOrJYAQ6U/20101011badtrack.png?psid=1 "Windows Explorer showing ONE TRACK not working.")
+working.](https://hyqi8g.bl3301.livefilestore.com/y2pgBHzLfdpWbPrlVl5zqCtvlivuIAqRBsynsHeAuhhJ4AUZfWWCwqZgzY5933-XAoX6EL3Cfdl8aIVSTTfW4NbEpkcceRz_ImdrxmOrJYAQ6U/20101011badtrack.png?psid=1)
 
 See that track where Windows can't pick up the metadata information? Of
 the over 14,500 tracks in the library, iTunes encountered this one bad

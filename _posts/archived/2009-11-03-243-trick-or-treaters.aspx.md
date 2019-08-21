@@ -15,7 +15,7 @@ the most popular time to visit.
 Here's the graph:
 
 ![2009: 243
-Trick-or-Treaters](https://hyqi8g.bl3301.livefilestore.com/y2p_XOubhTbuBqx2QRJnyLIre7lw7TCItX6XFW82lOnjZ6GlFdCRcK1toTDbKV8WT3UEZXDpGupBWZbRHspWEUypuTMJeToOFixgwjgfHJ67sc/20091031trickortreaters.png?psid=1 "2009: 243 Trick-or-Treaters")
+Trick-or-Treaters](https://hyqi8g.bl3301.livefilestore.com/y2p_XOubhTbuBqx2QRJnyLIre7lw7TCItX6XFW82lOnjZ6GlFdCRcK1toTDbKV8WT3UEZXDpGupBWZbRHspWEUypuTMJeToOFixgwjgfHJ67sc/20091031trickortreaters.png?psid=1)
 
 And the cumulative data from this year and the other years we've
 tracked:

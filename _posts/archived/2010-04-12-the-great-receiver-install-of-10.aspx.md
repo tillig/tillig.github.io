@@ -93,7 +93,7 @@ helping me figure some of the receiver stuff out. That guy is an *A/V
 king*.
 
 ![The Wiring Rat's
-Nest](https://hyqi8g.bl3301.livefilestore.com/y2poKh9AhUET-JPI-APbh3uV8z_93jVo2uazNbGXLfkIl5-0K_sGutjn4p1HKLwqcmD3AXEgMBvm7tZV6asbeodWJwmil6iq97u39dV3VAJZEM/20100412receiverinstall01.jpg?psid=1 "The Wiring Rat's Nest")Since
+Nest](https://hyqi8g.bl3301.livefilestore.com/y2poKh9AhUET-JPI-APbh3uV8z_93jVo2uazNbGXLfkIl5-0K_sGutjn4p1HKLwqcmD3AXEgMBvm7tZV6asbeodWJwmil6iq97u39dV3VAJZEM/20100412receiverinstall01.jpg?psid=1)Since
 I was able to use HDMI to connect audio and video at the same time (my
 old Yamaha receiver only had audio inputs), I had to tear out pretty
 much all the wiring I had so I could rewire using HDMI. That's actually
@@ -119,7 +119,7 @@ turns out they're all totally assignable, so you can say "The
 'CABLE/SATELLITE' input really corresponds to HDMI input 3."
 
 ![So many connections, so little
-time...](https://hyqi8g.bl3301.livefilestore.com/y2pzhrGydhY0y2IumyD5Vtwu3J82y6lRqtWDfEGkLFGZgdTUyb-NG0LtmkveEQJ0MXvwfLjsgsPh3B_1RxM_sQVceCXWtlQcKi6_EfqyngxUlA/20100412receiverinstall02a.jpg?psid=1 "So many connections, so little time...")
+time...](https://hyqi8g.bl3301.livefilestore.com/y2pzhrGydhY0y2IumyD5Vtwu3J82y6lRqtWDfEGkLFGZgdTUyb-NG0LtmkveEQJ0MXvwfLjsgsPh3B_1RxM_sQVceCXWtlQcKi6_EfqyngxUlA/20100412receiverinstall02a.jpg?psid=1)
 
 And the final step, before strapping all the wires back down, was to
 test out the various components and make sure everything was connected
@@ -135,7 +135,7 @@ utility](http://www.audyssey.com/technology/multeq.html), and watched me
 a little TV!
 
 ![The Onkyo TX-NR3007 in the entertainment
-center.](https://hyqi8g.bl3301.livefilestore.com/y2pcdYREMPI3fPrXT491pYtHsSYuCcFofcx4vjZkZ6UTAxpfFHMnFNzdEQGLLZTlqybTEGRLnWC3q5JeIr9ZWFJ2Iat2pXgv-BomclAGp0Fr3c/20100412receiverinstall03.jpg?psid=1 "The Onkyo TX-NR3007 in the entertainment center.")
+center.](https://hyqi8g.bl3301.livefilestore.com/y2pcdYREMPI3fPrXT491pYtHsSYuCcFofcx4vjZkZ6UTAxpfFHMnFNzdEQGLLZTlqybTEGRLnWC3q5JeIr9ZWFJ2Iat2pXgv-BomclAGp0Fr3c/20100412receiverinstall03.jpg?psid=1)
 
 We also tried out some of the cool internet features, like listening to
 [vTuner radio (free through this receiver)](http://www.vtuner.com/) from

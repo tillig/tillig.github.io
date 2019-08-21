@@ -54,7 +54,7 @@ see the new *[Alice in
 Wonderland](http://www.imdb.com/title/tt1014759/)* movie in IMAX 3D.
 
 ![Disney's Alice in
-Wonderland](https://hyqi8g.blu.livefilestore.com/y2pzxcRKh2r5yKC5eKG3VmJjlSAeT2RDhIJB6CLeEERxfRsuxwlrH-566H3G4qoWAQRM-S6Hac3PxZOi81QNZa_E2V2BAWlRAHi8t6gjRcEAbY/20100308aliceinwonderlandposterh.jpg?psid=1 "Disney's Alice in Wonderland")
+Wonderland](https://hyqi8g.blu.livefilestore.com/y2pzxcRKh2r5yKC5eKG3VmJjlSAeT2RDhIJB6CLeEERxfRsuxwlrH-566H3G4qoWAQRM-S6Hac3PxZOi81QNZa_E2V2BAWlRAHi8t6gjRcEAbY/20100308aliceinwonderlandposterh.jpg?psid=1)
 
 I am an *Alice in Wonderland* freak, so I've been looking forward to
 this movie for a long time. That's actually one of the reasons I paid

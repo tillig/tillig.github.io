@@ -56,7 +56,7 @@ online for you (in private) for 14 days. From that web site, you can
 share the photo to Facebook or download it to your computer.
 
 ![Travis playing Kinect
-Adventures!](https://hyqi8g.blu.livefilestore.com/y2pfswvZ9nGdutpbQjZg1jAQmS3lLPQtYkpQhwfda8QGdbzreN2fBWE4k_nybtdFKgWGNGQbtyP7o8wEX-CSqdo81crgDFtgiXLABJyIloapcU/20101105postcard.jpg?psid=1 "Travis playing Kinect Adventures!")
+Adventures!](https://hyqi8g.blu.livefilestore.com/y2pfswvZ9nGdutpbQjZg1jAQmS3lLPQtYkpQhwfda8QGdbzreN2fBWE4k_nybtdFKgWGNGQbtyP7o8wEX-CSqdo81crgDFtgiXLABJyIloapcU/20101105postcard.jpg?psid=1)
 
 This is actually a decent workflow if you have an Android phone (and
 possibly iPhone, but I've not tried it):
@@ -85,7 +85,7 @@ most out of this."**
 My living room looks something like this:
 
 ![Six feet between the couch and the
-TV.](https://hyqi8g.bl3302.livefilestore.com/y2pXdRm7uroU5CJhlXYnm2LNsWv-9-buPXNhElTZnPNzc3ZbSvEEaQ_OAvYyugb4RvyN3zk6pJ3jWsvE3Ffla33iaeuHyWXKIc4JJggvbYAZIc/20101105room.jpg?psid=1 "Six feet between the couch and the TV.")
+TV.](https://hyqi8g.bl3302.livefilestore.com/y2pXdRm7uroU5CJhlXYnm2LNsWv-9-buPXNhElTZnPNzc3ZbSvEEaQ_OAvYyugb4RvyN3zk6pJ3jWsvE3Ffla33iaeuHyWXKIc4JJggvbYAZIc/20101105room.jpg?psid=1)
 
 It's a reasonably skinny rectangle where I have an opening on on wall,
 windows on another, and a fireplace on yet another. That leaves one

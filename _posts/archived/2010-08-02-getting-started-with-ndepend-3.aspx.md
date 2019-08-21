@@ -43,14 +43,14 @@ made installing the Visual Studio and Reflector add-ins a little more
 prominent.
 
 ![NDepend welcome
-screen.](https://hyqi8g.blu.livefilestore.com/y2p2S7_KL64bBAKjMwTfBQKqPaLu8SakVhGsfX6he4VHQTEkuMztIaa1A7WIwxoTlD4_PeanFBq9KBrWjoKwc9OIIVPFU0xN5SC1SK4Qr4ZW7s/20100802ndependstartpag.png?psid=1 "NDepend welcome screen.")
+screen.](https://hyqi8g.blu.livefilestore.com/y2p2S7_KL64bBAKjMwTfBQKqPaLu8SakVhGsfX6he4VHQTEkuMztIaa1A7WIwxoTlD4_PeanFBq9KBrWjoKwc9OIIVPFU0xN5SC1SK4Qr4ZW7s/20100802ndependstartpag.png?psid=1)
 
 Clicking on one of the install buttons will bring you to the respective
 place in the options dialog for Visual NDepend. Click "Install" and
 things "just work," which is awesome:
 
 ![NDepend options screen for installing the Visual Studio
-plugin.](https://hyqi8g.bl3302.livefilestore.com/y2pb8eYGvhnODjf6kobZkfwMzcnTkoGi3Wfs15jrT55cjZtAy1xrNSEF85wy3LWA8uoHqf1RjkauNVViNUN6GWZNqOMAJXRohpgWBqm-wIdpuA/20100802ndependinstallv.png?psid=1 "NDepend options screen for installing the Visual Studio plugin.")
+plugin.](https://hyqi8g.bl3302.livefilestore.com/y2pb8eYGvhnODjf6kobZkfwMzcnTkoGi3Wfs15jrT55cjZtAy1xrNSEF85wy3LWA8uoHqf1RjkauNVViNUN6GWZNqOMAJXRohpgWBqm-wIdpuA/20100802ndependinstallv.png?psid=1)
 
 **I noticed that the Ribbon is still not the default interface used by
 NDepend**, so you'll want to go into the options and specify to use
@@ -58,7 +58,7 @@ Ribbon rather than regular menu/tool bars. The Ribbon is still easier to
 figure out.
 
 ![NDepend options for selecting an interface
-choice.](https://hyqi8g.blu.livefilestore.com/y2panNb8ZT3t5lr_niK03l-KIKzy1Gv5QRuAFMn8aglcUasS2lOLsv44dHDn1KQ8QBQIvvhNLbFghPcnRDv6606v1uA2qdPhLpNafekEWo93jA/20100802selectribbonint.png?psid=1 "NDepend options for selecting an interface choice.")
+choice.](https://hyqi8g.blu.livefilestore.com/y2panNb8ZT3t5lr_niK03l-KIKzy1Gv5QRuAFMn8aglcUasS2lOLsv44dHDn1KQ8QBQIvvhNLbFghPcnRDv6606v1uA2qdPhLpNafekEWo93jA/20100802selectribbonint.png?psid=1)
 
 The project I chose to analyze this time was
 [Autofac](http://autofac.googlecode.com), the open source dependency
@@ -68,12 +68,12 @@ From the Visual NDepend welcome screen, I clicked the "Create
 Project..." link and I got a small dialog to fill out:
 
 ![New NDepend Project
-dialog.](https://hyqi8g.bl3302.livefilestore.com/y2p1utJQBECN-vmZDQ0hrtd4f1G_c9_6J8EN-YyfMbRh3vPjcOqN1sRJeZzbIvYosNJW7VUL2tZpBPAXExRmWsy_99kdjPinvGQZ5TJ9wmek6o/20100802newproject1.png?psid=1 "New NDepend Project dialog.")
+dialog.](https://hyqi8g.bl3302.livefilestore.com/y2p1utJQBECN-vmZDQ0hrtd4f1G_c9_6J8EN-YyfMbRh3vPjcOqN1sRJeZzbIvYosNJW7VUL2tZpBPAXExRmWsy_99kdjPinvGQZ5TJ9wmek6o/20100802newproject1.png?psid=1)
 
 That gets you to the project properties window.
 
 ![New project properties window, ready for assemblies to be
-added.](https://hyqi8g.blu.livefilestore.com/y2p_jsbz0VMqvpp7P33oKru7d7cpiSYYVYT___aDXH5RsoQbt-jXFDEwgMHxqexngKePDF1w0pj6uCYRnrx0fUHLRLwEgcntrGl9MWFgoKKilA/20100802newproject2.png?psid=1 "New project properties window, ready for assemblies to be added.")
+added.](https://hyqi8g.blu.livefilestore.com/y2p_jsbz0VMqvpp7P33oKru7d7cpiSYYVYT___aDXH5RsoQbt-jXFDEwgMHxqexngKePDF1w0pj6uCYRnrx0fUHLRLwEgcntrGl9MWFgoKKilA/20100802newproject2.png?psid=1)
 
 Something I noticed when taking screen shots is that the smallest I
 could make the window and still have all the buttons visible was about
@@ -84,13 +84,13 @@ The first thing I noticed (sort of by accident) was this little icon in
 the corner of the window...
 
 ![Informational icon in the bottom right corner of the NDepend
-window.](https://hyqi8g.bl3301.livefilestore.com/y2p8bQOgJDtoDrr7RwRTGH2miSSnXeI2_eGJzWMBkq-3U6TKHNmdAOyRCT_wgBQ67dGw8T-3GUP5Mu1wmKPCdjHbdEsiWPTufzFaJ156Svwmpc/20100802infoicon.png?psid=1 "Informational icon in the bottom right corner of the NDepend window.")
+window.](https://hyqi8g.bl3301.livefilestore.com/y2p8bQOgJDtoDrr7RwRTGH2miSSnXeI2_eGJzWMBkq-3U6TKHNmdAOyRCT_wgBQ67dGw8T-3GUP5Mu1wmKPCdjHbdEsiWPTufzFaJ156Svwmpc/20100802infoicon.png?psid=1)
 
 I'm not sure if it was there in the last version of NDepend or not, but
 it's cool. Hovering over it tells you what's going on:
 
 ![Hovering over the info icon gives you feedback on what you should do
-next.](https://hyqi8g.bl3301.livefilestore.com/y2pJ3QjGBxzTZbAX7uz8N4v08imRhKzrHoJa3GrLjUnUsDQ3SotsH9nM3wQgbZMAWEL0AyIXKhHtR4ANAXy3g_QDOq7Qh7wEpkNHbm301_gn7k/20100802infoiconwithinf.png?psid=1 "Hovering over the info icon gives you feedback on what you should do next.")
+next.](https://hyqi8g.bl3301.livefilestore.com/y2pJ3QjGBxzTZbAX7uz8N4v08imRhKzrHoJa3GrLjUnUsDQ3SotsH9nM3wQgbZMAWEL0AyIXKhHtR4ANAXy3g_QDOq7Qh7wEpkNHbm301_gn7k/20100802infoiconwithinf.png?psid=1)
 
 It's sort of like a little "what do I do next?" cue. Very nifty.
 
@@ -98,7 +98,7 @@ I clicked the "Add Assemblies of a Visual Studio Solution" button and
 selected the Autofac core solution.
 
 !["Add Assemblies of a VisualStudio Solution"
-button.](https://hyqi8g.bl3301.livefilestore.com/y2pgrXiiS36-cf02f-6ZpqZnbyfd8PDWm81MDcQlV26Ad96UMAjc8A5EE6o-qyDIYFGksmTS6SovngrxIyyOsl5pviEggzB1u5TqPXO9CEfCgg/20100802addvssolution.png?psid=1 ""Add Assemblies of a VisualStudio Solution" button.")
+button.](https://hyqi8g.bl3301.livefilestore.com/y2pgrXiiS36-cf02f-6ZpqZnbyfd8PDWm81MDcQlV26Ad96UMAjc8A5EE6o-qyDIYFGksmTS6SovngrxIyyOsl5pviEggzB1u5TqPXO9CEfCgg/20100802addvssolution.png?psid=1)
 
 After removing all of the unit test assemblies and demo project
 assemblies, I was left with some errors. As it turns out, NDepend wasn't
@@ -114,7 +114,7 @@ Second, I had to click the "View Folders" button, switch to "relative
 path mode," and delete the folders from the test and demo assemblies.
 
 ![Viewing and fixing up the folders for a
-project.](https://hyqi8g.bl3301.livefilestore.com/y2p27BNOx0VNr2u4_426IghnWpH2OtHXWWtAIN_XL3OhZVpArxowAvjPl7E6P7XnWVOLztrsPWYffKYgt-pg6qyUobvwU0W2BgG7RNJ_7V_nh8/20100802folderlocationf.png?psid=1 "Viewing and fixing up the folders for a project.")
+project.](https://hyqi8g.bl3301.livefilestore.com/y2p27BNOx0VNr2u4_426IghnWpH2OtHXWWtAIN_XL3OhZVpArxowAvjPl7E6P7XnWVOLztrsPWYffKYgt-pg6qyUobvwU0W2BgG7RNJ_7V_nh8/20100802folderlocationf.png?psid=1)
 
 Side note:**I still think things should default to "relative path
 mode"** because if you're going to share the NDepend project with other
@@ -127,13 +127,13 @@ folders. But I digress.
 Once I did that, all of the target assemblies were properly located.
 
 ![Target assemblies
-fixed.](https://hyqi8g.blu.livefilestore.com/y2pWFtWBb8j6XtsR4y-tJmz8QFxM9Y1LIMG7WwK7_gOirgbYu89hUFP6dWInSCrDplht0Buf33GJDigBLSlSEF0iPk5jAdUlua3hCkKbE46uyw/20100802assemblyfixes.png?psid=1 "Target assemblies fixed.")
+fixed.](https://hyqi8g.blu.livefilestore.com/y2pWFtWBb8j6XtsR4y-tJmz8QFxM9Y1LIMG7WwK7_gOirgbYu89hUFP6dWInSCrDplht0Buf33GJDigBLSlSEF0iPk5jAdUlua3hCkKbE46uyw/20100802assemblyfixes.png?psid=1)
 
 The next thing I noticed was that the MVC 2 assembly, referenced by one
 of my targets (Autofac.Integration.Web.Mvc) wasn't found.
 
 ![Dependency error - System.Web.Mvc can't be
-located.](https://hyqi8g.bl3301.livefilestore.com/y2p21uvfMLAhkTa8PoLRrtVM_TkFmACwI7beZ8e2K5Cy3aHaAACQ0RKC0Bp4_fTAqsYAjcCcZ7rkzSRvlssXWtjt01OvIp3BrmmjIQeFlvxOTo/20100802dependencyerror.png?psid=1 "Dependency error - System.Web.Mvc can't be located.")
+located.](https://hyqi8g.bl3301.livefilestore.com/y2p21uvfMLAhkTa8PoLRrtVM_TkFmACwI7beZ8e2K5Cy3aHaAACQ0RKC0Bp4_fTAqsYAjcCcZ7rkzSRvlssXWtjt01OvIp3BrmmjIQeFlvxOTo/20100802dependencyerror.png?psid=1)
 
 To fix that, I had to open up the folder view again and add a new search
 folder to C:\\Program Files (x86)\\Microsoft ASP.NET\\ASP.NET MVC
@@ -154,7 +154,7 @@ long as you don't open the project up in Visual NDepend again, at which
 point it switches everything back to absolute paths.
 
 ![The folder list after adding a location for MVC
-2.](https://hyqi8g.bl3302.livefilestore.com/y2p0EhOl2DbxZU5-tU9ij7KzcXj1W5qOUx6SD-LfNNne-ncbg_7ww_0tEePelGjtOT4MlDlMOb8KbvHUaYyBQtUvvHldpLP4n7hfFjuJiOkwog/20100802dependencyfixes.png?psid=1 "The folder list after adding a location for MVC 2.")
+2.](https://hyqi8g.bl3302.livefilestore.com/y2p0EhOl2DbxZU5-tU9ij7KzcXj1W5qOUx6SD-LfNNne-ncbg_7ww_0tEePelGjtOT4MlDlMOb8KbvHUaYyBQtUvvHldpLP4n7hfFjuJiOkwog/20100802dependencyfixes.png?psid=1)
 
 For the sake of this article, we'll move past that. **Hopefully this
 will be fixed in a future version because it's sort of a showstopper for
@@ -174,7 +174,7 @@ When it was done running (it only took a few seconds), I got a report
 that popped up in my browser.
 
 ![Header from the HTML report that pops up after NDepend
-analysis.](https://hyqi8g.bl3301.livefilestore.com/y2pL0vMCik65BbYw0EuTSaVTj3paRVTqc9dJTFirJ3O3QVZXDPbIuVuIaPTlMb2ktCd22xTEqQxX3aTtz65u_rcb-JauOBvOKr6TjK6ROuOxgs/20100802htmlreport.png?psid=1 "Header from the HTML report that pops up after NDepend analysis.")
+analysis.](https://hyqi8g.bl3301.livefilestore.com/y2pL0vMCik65BbYw0EuTSaVTj3paRVTqc9dJTFirJ3O3QVZXDPbIuVuIaPTlMb2ktCd22xTEqQxX3aTtz65u_rcb-JauOBvOKr6TjK6ROuOxgs/20100802htmlreport.png?psid=1)
 
 There is a ton of information in this report including notes on methods
 you should look at refactoring (e.g., things that take too many
@@ -184,19 +184,19 @@ in-depth analysis. For example, NDepend can tell you about methods that
 are poorly commented:
 
 ![Definition of the CQL query showing not enough
-comments.](https://hyqi8g.bl3301.livefilestore.com/y2pP1vOCyqvyHb17HGvRzWuSetUpcoBb1J_a-j05rcVjBClqFMoC6J3lJwR-VQHP6tgYcRUr1PXwSfu8Qd1a2WTy2b2U3oYTUdbuQR0yajOH5M/20100802commenterror.png?psid=1 "Definition of the CQL query showing not enough comments.")
+comments.](https://hyqi8g.bl3301.livefilestore.com/y2pP1vOCyqvyHb17HGvRzWuSetUpcoBb1J_a-j05rcVjBClqFMoC6J3lJwR-VQHP6tgYcRUr1PXwSfu8Qd1a2WTy2b2U3oYTUdbuQR0yajOH5M/20100802commenterror.png?psid=1)
 
 It also includes some really cool diagrams, like "abstractness vs.
 instability":
 
 ![Abstractness vs. Instability
-graph.](https://hyqi8g.blu.livefilestore.com/y2p72NG4zNYT0MaAz73I6vJPFic87Xc5-8yLhdd5Fkjp3vetUe8MT0a2ZQndz89l4rBpVfPsE7KhUcSQV784hMz8bqK-OPTum5vi8sZlm4iMBk/20100802abstractvsinsta.png?psid=1 "Abstractness vs. Instability graph.")
+graph.](https://hyqi8g.blu.livefilestore.com/y2p72NG4zNYT0MaAz73I6vJPFic87Xc5-8yLhdd5Fkjp3vetUe8MT0a2ZQndz89l4rBpVfPsE7KhUcSQV784hMz8bqK-OPTum5vi8sZlm4iMBk/20100802abstractvsinsta.png?psid=1)
 
 In this case, Autofac looks pretty good! You can also see a diagram
 showing the dependency graph between assemblies:
 
 ![Assembly dependency
-graph.](https://hyqi8g.bl3301.livefilestore.com/y2pCXePGBxgsDCsju4-Z2yF6TMnJmHD7eWesroSz48PqY0lXlldRmNYASrcZrMgWEF9nYXpn8dxYjQtuCBFnZ-zbNETNKlWkhKbUc5i2OB0cFE/20100802componentdepend.png?psid=1 "Assembly dependency graph.")
+graph.](https://hyqi8g.bl3301.livefilestore.com/y2pCXePGBxgsDCsju4-Z2yF6TMnJmHD7eWesroSz48PqY0lXlldRmNYASrcZrMgWEF9nYXpn8dxYjQtuCBFnZ-zbNETNKlWkhKbUc5i2OB0cFE/20100802componentdepend.png?psid=1)
 
 Again, reasonably clean for Autofac.
 
@@ -204,7 +204,7 @@ Flipping back to the Visual NDepend UI, you can see the same information
 but can navigate around in an interactive fashion.
 
 ![Navigating a report visually in
-NDepend.](https://hyqi8g.bl3302.livefilestore.com/y2pvrhsruzovwZcR1RKh9fJ86wH3aTe3uuFIOtUAJZu1gsP86oWhmmzBTpPEqq1sITtsKwcPxF84rNknOpna-rwIR0eR2io1S0Du6V_pb77D80/20100802reportnavigatio.png?psid=1 "Navigating a report visually in NDepend.")
+NDepend.](https://hyqi8g.bl3302.livefilestore.com/y2pvrhsruzovwZcR1RKh9fJ86wH3aTe3uuFIOtUAJZu1gsP86oWhmmzBTpPEqq1sITtsKwcPxF84rNknOpna-rwIR0eR2io1S0Du6V_pb77D80/20100802reportnavigatio.png?psid=1)
 
 For example, I looked at the Code Quality section of queries and looked
 at the list of methods that are considered too big from a "number of
@@ -213,7 +213,7 @@ Autofac.Configuration.ConfigurationSettingsReader.Load. Clicking that, I
 can see a lot of information about the method:
 
 ![Detailed method info
-view.](https://hyqi8g.bl3301.livefilestore.com/y2p1ODEm_agaxdAPd-0g1Dq-04LEHDhYQFp1dM7peMBq4Hd8EQRNWAKDfFhGqH1BK79Ylnq3bNyt1bjqZicryacjhifXqnD8GMn5X7EuWd8CzA/20100802methodinfo.png?psid=1 "Detailed method info view.")
+view.](https://hyqi8g.bl3301.livefilestore.com/y2p1ODEm_agaxdAPd-0g1Dq-04LEHDhYQFp1dM7peMBq4Hd8EQRNWAKDfFhGqH1BK79Ylnq3bNyt1bjqZicryacjhifXqnD8GMn5X7EuWd8CzA/20100802methodinfo.png?psid=1)
 
 Double-clicking on the method will open up the source file in Visual
 Studio so I can see it for myself. Or I can right-click on the method
