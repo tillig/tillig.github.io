@@ -2,8 +2,8 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
 <ShortName>Paraesthesia Search</ShortName>
 <Description>Search Travis Illig's Blog</Description>
-<Url type="text/html" method="get" template="http://www.google.com/cse?cx=004389900776703329383%3Au0qlz8kixay&amp;q={searchTerms}"/>
-<Image width="16" height="16">http://www.paraesthesia.com/favicon.ico</Image>
+<Url type="text/html" method="get" template="https://www.google.com/cse?cx=004389900776703329383%3Au0qlz8kixay&amp;q={searchTerms}"/>
+<Image width="16" height="16">https://www.paraesthesia.com/favicon.ico</Image>
 <InputEncoding>UTF-8</InputEncoding>
-<SearchForm>http://www.paraesthesia.com</SearchForm>
+<SearchForm>https://www.paraesthesia.com</SearchForm>
 </OpenSearchDescription>
