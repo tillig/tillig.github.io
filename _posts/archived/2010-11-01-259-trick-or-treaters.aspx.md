@@ -15,7 +15,7 @@ had to be home earlier on a "school night."
 Here's the graph:
 
 ![2010: 259
-Trick-or-Treaters](https://hyqi8g.blu.livefilestore.com/y2p2DfRiwbquDHMEIFO7ESNKXzLUc9EmgxKEUvy-mK0DuoG9q5j84WxklDxvRWFt0SXIXvntsFhXPRPigNAsgXhCCZ-LhpTroWOs4TMhLNHPLs/20101101trickortreat.png?psid=1)
+Trick-or-Treaters]({{ site.url }}/images/20101101trickortreat.png)
 
 And the cumulative data from this year and the other years we've
 tracked:

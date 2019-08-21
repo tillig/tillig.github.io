@@ -13,7 +13,7 @@ those "Traffic Asshole of the Week" moments to post. Today, though, I
 found THIS guy:
 
 ![20 in a 45? Sure! Why
-not?](https://hyqi8g.blu.livefilestore.com/y2pov6GodJw9CIDut00DK7LUpNtet04ReO-hUOSAwGUgMx1BmW4fg-gf_FYhCZJvU-jU5YixVQk3bTdsHc4CzJA9juu9zZRtpc2cwVgYJ26Pis/20100607taotw.jpg?psid=1) 
+not?]({{ site.url }}/images/20100607taotw.jpg) 
 
 This giant GMC truck *made my traffic day*. If you, too, want to make my
 day in the same way, here's how:

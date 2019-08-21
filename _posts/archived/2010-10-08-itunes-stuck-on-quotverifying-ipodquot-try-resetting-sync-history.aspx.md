@@ -7,7 +7,7 @@ disqus_identifier: 1671
 tags: [media,music,windows]
 ---
 ![DJ cases full of
-CDs.](https://hyqi8g.blu.livefilestore.com/y2pNgWdspUW_6kXSF_KlAK2VsOyllSawWdONti3qeW43ING_cbDUD3iasp9UNESdUI3qnumjMAy8K-n8lx-C815YyCFwMUIVkKFEMrGV9wLvJE/20101008cdcases.jpg?psid=1)I
+CDs.]({{ site.url }}/images/20101008cdcases.jpg)I
 admit I'm not the "standard" use case. I have a 160GB iPod Classic and
 it's not big enough. My iTunes music library is up in the 150GB range
 and much of my music is stored in Apple Lossless format. It's enough now
@@ -56,12 +56,12 @@ But I did find something that seems to get me up and running, past the
     the reset sync history bit, things don't get fixed.**
 3.  Go into Edit -\> Preferences and look at the "Devices" tab.
     ![Devices tab in iTunes
-    preferences.](https://hyqi8g.bl3301.livefilestore.com/y2pSAFnXpYQUV0phsZfWIHkTdZM11a9kGgnH9wFzhVpRS1t7PJaVfE3C8aDEa-rOSMn8l4D7YWlXT7W1yQ8WCtZwW3lixbrBcSufFrpGd7QsZU/20101008deviceoptions.png?psid=1)
+    preferences.]({{ site.url }}/images/20101008deviceoptions.png)
 
 4.  Click the "Reset Sync History" button. You'll get a little warning.
 
     ![Reset sync history
-    warning.](https://hyqi8g.bl3301.livefilestore.com/y2pOIRh5-Q6i_ubSa5waz_6pZZZe9ygYpXsStbyf_TshPkAyWL95maLDkpCkEF-ze18tFRVMB5NIJ2Yod5Jg23nbiXw1M0PraTwIzI0pf-jBbo/20101008resethistory.png?psid=1)
+    warning.]({{ site.url }}/images/20101008resethistory.png)
 
 5.  Click the "Reset Sync History" button on the warning.
 6.  Plug the iPod back in. It will start syncing again.

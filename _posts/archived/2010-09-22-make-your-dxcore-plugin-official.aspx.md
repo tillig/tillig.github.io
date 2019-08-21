@@ -17,13 +17,13 @@ information, a textual description, and even a graphic with the product
 logo:
 
 ![DXCore "About"
-box](https://hyqi8g.bl3301.livefilestore.com/y2poRyassaU9qrCFIO7mAPZrPbAZcWkvzgo9OR8Bb2y0Vifu8bsEj56pmpfUojG2SIHtoleLbaddDwjoqM0lm9VhAI0uZFWPxlmkib5_25hXns/20100922about1.png?psid=1)
+box]({{ site.url }}/images/20100922about1.png)
 
 If you have the [CR_Documentor](http://cr-documentor.googlecode.com)
 plugin installed, you'll notice it also shows up in that box:
 
 ![DXCore "About" box showing the CR_Documentor
-information](https://hyqi8g.bl3302.livefilestore.com/y2pEuRm3LsfxmEE-eZX4gFJErqfGEK7FK3L70uvvsQGRmsIEb_fhxfgtdNh4TawNGJXwZ0T_uOkfuON3g5MvwRoqEPLhcUYJEpzAV9Jm_AKKBc/20100922about2.png?psid=1)
+information]({{ site.url }}/images/20100922about2.png)
 
 If you want to "make your plugin an official product" and show up in the
 "About" box, the way to do that is to implement a ProductModule.
@@ -64,14 +64,14 @@ For convenience, here's a PNG image of the gradient background that I
 created and you can use to start with:
 
 ![Gradient for "About" box
-logos](https://hyqi8g.dm2302.livefilestore.com/y2pwEtJwh9Ok3f4p4yWunGwtaMeHxHqLvdySlJUbqWOw75NHfRgFKPd2PGC4b4Aqyysq9kURnAebhs2bE8_c7QX0liMNCOufnHxvcuVUN1T55Q/20100922productmodulegradient.png?psid=1)
+logos]({{ site.url }}/images/20100922productmodulegradient.png)
 
 **Add your logo image to your plugin project as an embedded resource.**
 Drag it into your plugin project so it gets added in there and make sure
 in the properties the image is set as "Embedded Resource."
 
 ![Embedded resource
-properties](https://hyqi8g.bl3301.livefilestore.com/y2puamioh_C4ZsSEBB7HnCtKA0fQ1amFblRHdLagTgI7-BH0Oykj2mbozKhUJDZml8TEvMlkJYDoFuS8AcX3Rk4PfneTFkXCc-qS5j1Ed4nAoA/20100922logoproperties.png?psid=1)
+properties]({{ site.url }}/images/20100922logoproperties.png)
 
 **Add a class to your project that derives from
 DevExpress.CodeRush.Common.ProductModule.** This is where all the

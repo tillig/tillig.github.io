@@ -83,7 +83,7 @@ that.
 **The Result:**
 
 ![Hanselminutes Duration
-Graph](https://hyqi8g.bl3301.livefilestore.com/y2pVDrKIzD2SJcVHHFiJDOcGz7chpPrMOUYJEvumEIvRQheG1qlRC4GwnZOWdbK7jN3WIp6IMfO5pkS_D7PtVmTw_40HSotTazAGajBFnFB7zM/20091030hanselminutesdurationtr.png?psid=1)
+Graph]({{ site.url }}/images/20091030hanselminutesdurationtr.png)
 
 I was right - there is an upward trend in the Hanselminutes duration.
 

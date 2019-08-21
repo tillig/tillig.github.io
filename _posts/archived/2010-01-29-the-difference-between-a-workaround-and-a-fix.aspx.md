@@ -10,7 +10,7 @@ I just had an interesting [to me] interaction on Twitter that got me
 thinking:
 
 ![Workaround... fix... tomato tomahto... same
-same.](https://hyqi8g.bl3301.livefilestore.com/y2p0HwGQX-OtEwfyrFV5T9qB-_ClHB6lxdkg82WWrPWV9MHfHmJCP5JMueKI0yePpAN1H-JoSNZFqf16lppqL-QJSWV4wgX44QsNV35blgtyrI/20100129fixvsworkaround.jpg?psid=1)
+same.]({{ site.url }}/images/20100129fixvsworkaround.jpg)
 
 Ignoring the original issue - that iTunes cover flow doesn't handle
 similarly named albums properly - the "workaround... fix... same same"

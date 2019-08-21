@@ -17,7 +17,7 @@ figure out how to get SetPoint working, but I learned a lot of other
 things.)
 
 ![Windows Aero Flip 3D task
-switcher](https://hyqi8g.bl3302.livefilestore.com/y2p_iZsGvQlYOxu1iK2m5opRmGU3phZW-rcDGCRwQcxdIw_SzS6TYDez-ZrPp3VWGKAiFIBkfvtQWHhSNyKpbShwXRr9-xtYEbT3UvVUxxG8nY/20100416flip3d5.png?psid=1)
+switcher]({{ site.url }}/images/20100416flip3d5.png)
 
 The first thing I discovered was that while Winkey + Tab brings up Flip
 3D, [**Winkey + CTRL + Tab will bring it up and let it sit
@@ -56,12 +56,12 @@ earlier.
 Give your shortcut a nice name like “Aero Flip3D Task Switcher.”
 
 ![Name your
-shortcut](https://hyqi8g.dm2302.livefilestore.com/y2pH6YJiiqqF3J2XtJTP_GirBpun9HGZaEWWZL1Z5_F5dQI13kPBTKX1LeibFZzpCXeEVZmIAK6myvqx0OBOGkWTCwvOlXd91AeNPgE8hspbxk/20100416flip3d2.png?psid=1)
+shortcut]({{ site.url }}/images/20100416flip3d2.png)
 
 So now you should have a shortcut like this:
 
 ![Shortcut in the Start
-Menu](https://hyqi8g.dm2302.livefilestore.com/y2plarSE7zbNCEWnsKtuKQNyfWH2oxeN_G7Ltbs4AQLuLKFIc_P6EUnte4JBChRQ8RrKnhC9yUG-ETWmssLhNBanqsFlJRgqqyRDGDC9DofExo/20100416flip3d3.png?psid=1)
+Menu]({{ site.url }}/images/20100416flip3d3.png)
 
 Now right-click that shortcut, select “Properties,” and on the Shortcut
 tab, click in the “Shortcut key” field and then press your shortcut key
@@ -69,7 +69,7 @@ combination. Your shortcut key will show up in that box. Click OK to
 save the changes.
 
 ![Enter your shortcut key in the shortcut
-properties](https://hyqi8g.bl3302.livefilestore.com/y2pPwn9Y5ZdDdEVgU6eGc-LMFK8LNTImLf8HXMIcvLBLmVSUbq84aJCcNIzddT_O5_i_wgwAXZDV-PEYhCseEQE9y1dQfblaWC2JQIOuXSnkXQ/20100416flip3d4.png?psid=1)
+properties]({{ site.url }}/images/20100416flip3d4.png)
 
 Now you should be able to use that new shortcut key combination to run
 the shortcut regardless of where you are. Nice!
