@@ -112,7 +112,7 @@ Push the code, history, and branches all to the new repo.
 
 `git push -u origin --all`
 
-#Remove the Fake p4 Remote
+# Remove the Fake p4 Remote
 You don't need the fake "p4" remote that the "git p4" command added since the branches are all moved over now. Remove it to avoid confusion.
 
 `git remote rm p4`
