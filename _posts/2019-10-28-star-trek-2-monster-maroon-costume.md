@@ -5,7 +5,7 @@ date: 2019-10-28 -0800
 comments: true
 tags: [costumes,personal,halloween]
 description: "I've always wanted to make a Star Trek II uniform and this year I finally did."
-image: /images/20191028_1026_finished_front.jpg
+image: /images/monstermaroon/20191028_1026_finished_front.jpg
 ---
 
 For Halloween 2019 I decided to make a Star Trek II "Monster Maroon" costume. This is the dress uniform you see folks wearing in the Star Trek II through IV movies.
