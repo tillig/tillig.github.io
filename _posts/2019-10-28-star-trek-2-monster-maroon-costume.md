@@ -10,7 +10,7 @@ image: /images/20191028_1026_finished_front.jpg
 
 For Halloween 2019 I decided to make a Star Trek II "Monster Maroon" costume. This is the dress uniform you see folks wearing in the Star Trek II through IV movies.
 
-![October 26, 2019: The complete costume (front)]({{ site.url }}/images/monstermaroon/20191026_finished_back.jpg)
+![October 26, 2019: The complete costume (front)]({{ site.url }}/images/monstermaroon/20191026_finished_front.jpg)
 
 I've wanted one for quite some time, so I went for it. I figured folks might be interested in some of the process to get this done.
 
@@ -270,6 +270,6 @@ By the time I'd dealt with this I realize I probably should have just bought the
 
 When all was said and done, from a calendar perspective I spent four-and-a-half months on this (early June to mid-October) but I think it turned out fantastic.
 
-![October 26, 2019: The complete costume (front)]({{ site.url }}/images/monstermaroon/20191026_finished_back.jpg)
+![October 26, 2019: The complete costume (front)]({{ site.url }}/images/monstermaroon/20191026_finished_front.jpg)
 
-![October 26, 2019: The complete costume (back)]({{ site.url }}/images/monstermaroon/20191026_finished_front.jpg)
+![October 26, 2019: The complete costume (back)]({{ site.url }}/images/monstermaroon/20191026_finished_back.jpg)
