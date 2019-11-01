@@ -4,6 +4,7 @@ title: "190 Trick-or-Treaters"
 date: 2019-11-01 -0800
 comments: true
 tags: [halloween,costumes]
+description: "We got 190 trick-or-treaters in 2019. Here's how the data breaks down year over year."
 ---
 This year we had 190 trick-or-treaters. This amount is about average for us.
 
