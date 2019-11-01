@@ -71,4 +71,8 @@ This is generally not helped by the fact Teams "conveniently" _hides_ the main b
 
 If you're trying to make the most of your time in a large set of teams and channels, one or two of these isn't a problem but _everyone_ taking conversations into odd directions makes managing time and discussion very hard.
 
+Finally, **it doesn't help that chats _don't_ have conversations.** If you get into a group _chat_ then it's like a standard app - it's chronological, the timeline doesn't rearrange, etc. It's different if you're in _team channels_. If you're switching between chats and channels a lot, this can be really jarring.
+
+_"Couldn't you just get everyone to agree to not use the conversations?"_ The idea here being if everyone used "conversations" as "individual messages" then the problems go away. I've tried this, and if you're only scrolling this works fine. It breaks down if anyone, at any time, forgets and does a reply to a conversation rather than posting a new message. Any reply and the timeline rearranges. It's done. Further, search won't work because you can't see conversations in relation to each other, so all you will ever get in search results is _that one message_.
+
 All of this is basically why I like Slack far, far better. The organic conversation flows better, you can start threads if you want but you don't have to, search works... it's generally better for how I work.
