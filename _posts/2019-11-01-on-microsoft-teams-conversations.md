@@ -42,11 +42,17 @@ Why?
 Let's say there's a conversation someone starts about the weather in Florida. It's nice, sunny, might rain next week. That conversation goes for a while, talking about weather patterns and seasons. Then you see something like this:
 
 > Bob: The sun can really beat down and hit hard.
+>
 > Alice: The sun is why my favorite season there is Summer.
+>
 > Bob: It sure means a hot baseball season, though. I can barely get out to games in that heat.
+>
 > Carl: How are the Marlins doing recently? I saw they traded pitchers.
+>
 > Bob: They did, and now they're not doing so well.
+>
 > Carl: Maybe they should watch that movie Moneyball where they make smarter trades based on stats.
+>
 > Bob: You could be right. I did see that the Yankees made a good trade this week.
 
 The topic is "weather in Florida" but suddenly has now been totally derailed by a side conversation about baseball.
