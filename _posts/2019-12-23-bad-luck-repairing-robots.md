@@ -51,3 +51,5 @@ I feel really bad. I didn't mean to kill Jenn's BB-8 but... I guess it's not a w
 I had a small funeral for the BB-8 as I put his parts in the trash can. He is survived by the R-unit that Jenn made when we were in Disney World last month. I guess next trip we make to a Disney theme park she'll have to make a new BB-unit to replace ol' Hero Droid.
 
 Anyway, if it has batteries, I need to be able to replace them without breaking into the device, lighting anything on fire, or otherwise causing the device to stop functioning. That should be a thing. I would also accept "lifetime warranty on the battery" such that I can take a unit that isn't functioning due to the battery and have the factory replace either the battery or the whole unit.
+
+(Yes, I realize there's some interesting coincidence/irony about this post follwing the [post about grounding the yellow wire to hack a fan into working]({{ site.url }}/archive/2019/11/21/rotor-lock-fan-ground-yellow-wire/) but none of my fans have started a fire. Yet.)
