@@ -7,7 +7,7 @@ tags: [autofac,net]
 description: "Autofac 5.0 has been released. This article outlines the new features and breaking changes of which you should be aware."
 ---
 
-Today the Autofac team and I are pleased to announce **the release of Autofac 5.0!**
+[Today the Autofac team and I are pleased to announce **the release of Autofac 5.0!**](https://www.nuget.org/packages/Autofac/5.0.0)
 
 This is the first major-version release we've had in about **three years** (Autofac 4.0 was released in August 2016). There are some breaking changes and new features you should know about as you decide your upgrade strategy. Hopefully this will help you navigate those waters.
 
