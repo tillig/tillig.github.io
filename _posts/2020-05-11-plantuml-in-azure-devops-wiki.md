@@ -5,7 +5,7 @@ date: 2020-05-11 -0800
 comments: true
 tags: [azure,git]
 description: "PlantUML isn't currently supported in Azure DevOps wiki pages and Mermaid.js support is slow to update. Here's one way you can get PlantUML diagrams into your Azure DevOps wiki pages."
-image: /images/20200511_simplediagram.jpg
+image: /images/20200511_simplediagram.png
 ---
 
 I use Azure DevOps wikis a lot and I love me some [PlantUML](https://plantuml.com/) diagrams - they're far easier to maintain than dragging lines and boxes around.
