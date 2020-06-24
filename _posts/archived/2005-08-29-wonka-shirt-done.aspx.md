@@ -4,7 +4,7 @@ title: "Wonka Shirt Done"
 date: 2005-08-29 -0800
 comments: true
 disqus_identifier: 875
-tags: [General Ramblings]
+tags: [costumes]
 ---
 Well, for all intents and purposes it's done. I only have to make five
 more buttonholes (using the automatic buttonhole attachment on the

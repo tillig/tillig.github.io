@@ -4,7 +4,7 @@ title: "Not Enough Time"
 date: 2002-10-14 -0800
 comments: true
 disqus_identifier: 141
-tags: [movies,tv,personal]
+tags: [movies,tv,personal,costumes]
 ---
 There is not enough time in the day to do all the things I have to get
 done.

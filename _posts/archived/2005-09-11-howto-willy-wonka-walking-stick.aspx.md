@@ -4,7 +4,7 @@ title: "HOWTO: Willy Wonka Walking Stick"
 date: 2005-09-11 -0800
 comments: true
 disqus_identifier: 887
-tags: [General Ramblings]
+tags: [costumes]
 ---
 I finished up my Wonka walking stick for my Halloween costume so I
 thought I'd put out some instructions on how I did it. I'm pretty

@@ -4,7 +4,7 @@ title: "Wonka Jacket Possibility Back Open"
 date: 2005-08-29 -0800
 comments: true
 disqus_identifier: 876
-tags: [General Ramblings]
+tags: [costumes]
 ---
 ![Redballs Red Wonka
 Coat]({{ site.url }}/images/20050829wonkacoat.jpg)Just

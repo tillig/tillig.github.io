@@ -3,7 +3,7 @@ layout: post
 title: "Making the 2016 Halloween Costume"
 date: 2016-10-26 -0800
 comments: true
-tags: [personal,halloween]
+tags: [personal,halloween,costumes]
 description: "I love to sew, particularly around Halloween time. This year I made a safari costume. This outlines the steps involved, which may be particularly interesting to people who don't sew."
 image: /images/20161026_costume_39.jpg
 ---

@@ -4,7 +4,7 @@ title: "Willy Wonka for Halloween"
 date: 2005-08-18 -0800
 comments: true
 disqus_identifier: 871
-tags: [General Ramblings]
+tags: [halloween,costumes]
 ---
 I've always enjoyed the concept of highly detailed and accurate
 costumes. This crap they sell on the market for $15 that includes the

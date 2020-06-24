@@ -4,7 +4,7 @@ title: "Halloween 2006 - Joust!"
 date: 2006-10-31 -0800
 comments: true
 disqus_identifier: 1089
-tags: [General Ramblings]
+tags: [halloween,costumes]
 ---
 It's Halloween once again, and this year I went as a knight from the
 1982 video game,
