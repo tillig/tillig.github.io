@@ -29,39 +29,39 @@ Again, no info about which file is locked.
 
 I used [ProcMon.exe](http://technet.microsoft.com/en-us/sysinternals/bb896645.aspx) to figure out the sharing violation was happening on NuGet.pkgdef in the new installation of NuGet. Of course, it was happening at exactly the wrong point in the installation process, so I ended up with 10 or 15 nearly-installed-but-corrupted copies of NuGet.
 
-I’m pretty sure this has to do with our antivirus software holding a
-lock just a little too long on the file, but who’s to say. I just needed
+I'm pretty sure this has to do with our antivirus software holding a
+lock just a little too long on the file, but who's to say. I just needed
 it fixed.
 
-**Here’s how I fixed it.**
+**Here's how I fixed it.**
 
 1.  Close all instances of Visual Studio.
-2.  Go to your global Visual Studio extensions folder. NuGet doesn’t
-    install in your per-user folder; instead, you’ll see it in Program
-    Files. Something like: 
+2.  Go to your global Visual Studio extensions folder. NuGet doesn't
+    install in your per-user folder; instead, you'll see it in Program
+    Files. Something like:
     `C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\Extensions`
 3.  Look in that folder. You will see a lot of randomly named folders
-    like “sdjfksiov.djd” and so on. Most (if not all) of those are
-    NuGet. You’ll want to be aware of which ones are NuGet and which
-    ones aren’t, particularly if you have other extensions installed.
+    like "sdjfksiov.djd" and so on. Most (if not all) of those are
+    NuGet. You'll want to be aware of which ones are NuGet and which
+    ones aren't, particularly if you have other extensions installed.
     (You can tell if it's NuGet because it'll have a bunch of
     `NuGet.*.dll` files in there. If you don't see NuGet stuff in there,
     you'll want to keep it.)
-4.  Rename that Extensions folder  to something like: 
+4.  Rename that Extensions folder  to something like:
     `C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\Extensions_RENAMED`
 5.  Download NuGet [directly from the Visual Studio extension
     gallery](http://visualstudiogallery.msdn.microsoft.com/27077b70-9dad-4c64-adcf-c7cf6bc9970c).
 6.  Execute the downloaded `NuGet.Tools.vsix` file you just downloaded.
-    **Don’t do it through Visual Studio.** Just double-click the .vsix
+    **Don't do it through Visual Studio.** Just double-click the .vsix
     file to install it.
 7.  NuGet should successfully install. As part of that install, it will
-    create the Extensions folder again, so you will once again see 
+    create the Extensions folder again, so you will once again see
     `C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\Extensions`
 8.  Open up your *renamed* extensions folder and move all of the
     **non-NuGet extensions** into the new Extensions folder.
 9.  Now open Visual Studio. You should see the new version of NuGet
     installed and working.
-10. You can delete that *renamed* Extensions folder *once you’ve
+10. You can delete that *renamed* Extensions folder *once you've
     verified everything is working*.
 
 I fought with this for a long time. Enough that I corrupted my whole VS
@@ -86,7 +86,7 @@ Here's a registry snippet to tell McAfee Endpoint Encryption to exclude these fi
 
 ```
 Windows Registry Editor Version 5.00
- 
+
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\MfeEEFF\ExemptedProcesses]
 "1"="devenv.exe"
 "2"="VSIXInstaller.exe"

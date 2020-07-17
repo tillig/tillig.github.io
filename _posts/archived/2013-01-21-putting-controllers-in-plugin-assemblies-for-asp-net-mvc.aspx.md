@@ -80,7 +80,7 @@ namespace MyNamespace
 }
 ```
 
-**A third way would be to create your own ControllerFactory implementation.** In your custom controller factory you could search your plugin assemblies for the controller types or use some other convention to determine which controller type to resolve. I don't have any sample code for that and there is a lot of work to accomplish that and get it right - supporting areas, properly handling the type resolution… If you go that route, and some people have, you'll have to go out searching for samples. I don't have any here to readily provide.
+**A third way would be to create your own ControllerFactory implementation.** In your custom controller factory you could search your plugin assemblies for the controller types or use some other convention to determine which controller type to resolve. I don't have any sample code for that and there is a lot of work to accomplish that and get it right - supporting areas, properly handling the type resolution... If you go that route, and some people have, you'll have to go out searching for samples. I don't have any here to readily provide.
 
 **I'd recommend one of the first two options.** They're the easiest and require the least "messing around with the framework" to get things working for you.
 

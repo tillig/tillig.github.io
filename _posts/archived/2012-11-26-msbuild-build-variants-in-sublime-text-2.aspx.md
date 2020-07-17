@@ -22,7 +22,7 @@ As it turns out, it's not clear how you access build variants from inside Sublim
 
 **To access Sublime Text 2 build variants:**
 
--   Open the Command Palette (either "Ctrl+Shift+P" or "Tools -> Command Palette…").
+-   Open the Command Palette (either "Ctrl+Shift+P" or "Tools -> Command Palette...").
 -   In the window, type "Build:" to filter the list of commands. Note the colon ":" on the end there - it filters the list down to just the build commands.
 -   Select the build type you'd like. For my MSBuild package, you'll see:
     -   "Build: Build" - default, no configuration specified
@@ -39,7 +39,7 @@ Even if you narrow the scope to .csproj or .vbproj files (which, yes, are in MSB
 
 The reason Visual Studio is able to handle this is that it **narrows the scope of its handling** (only actual project files can have "startup actions" - you can't have that for a .proj or .targets file); and **it "knows" about different project types** and how to start them up.
 
-When you have a web site project, it "knows" that in your project properties you should be able to specify which URL you want to view when it starts up the browser… and it knows to start up IIS Express (or the VS dev server) to host the site. Further, when you have a solution (multiple projects that all build together - like an MSBuild script that triggers several other MSBuild scripts) you can specify which project(s) should be started up and which actions should be taken at that time. That's why you see all those .suo and .user files out there alongside your solutions/projects. **It's a system external to the build system** that maintains all that information.
+When you have a web site project, it "knows" that in your project properties you should be able to specify which URL you want to view when it starts up the browser... and it knows to start up IIS Express (or the VS dev server) to host the site. Further, when you have a solution (multiple projects that all build together - like an MSBuild script that triggers several other MSBuild scripts) you can specify which project(s) should be started up and which actions should be taken at that time. That's why you see all those .suo and .user files out there alongside your solutions/projects. **It's a system external to the build system** that maintains all that information.
 
 You can "make Visual Studio 'know' about new project types" by installing VS add-ins and components. For example, when you install the Azure SDK, it tells Visual Studio about Azure project types and how to handle the startup action.
 

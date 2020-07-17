@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WHS v1 End of Life – What’s Next?"
+title: "WHS v1 End of Life – What's Next?"
 date: 2013-01-07 -0800
 comments: true
 disqus_identifier: 1799
@@ -38,19 +38,19 @@ Both machines have all drive bays full. The Synology doesn't have enough
 space to hold all the stuff I have on the Home Server and the Home
 Server can't hold all the stuff on the Synology. We're talking about
 terabytes on both machines. Keeping that in mind, if I were to want to
-change the OS on the WHS it'd require me to…
+change the OS on the WHS it'd require me to...
 
--   Move everything off the WHS to… somewhere.
+-   Move everything off the WHS to... somewhere.
 -   Reformat and upgrade the OS on the HP MediaSmart box, which is older
     and not super-powerful. It's also headless (no video card and no DVD
-    drive) so… that's pretty limiting. If there's any troubleshooting to
+    drive) so... that's pretty limiting. If there's any troubleshooting to
     do during the installation, that's going to be painful.
 -   Hope against hope that the new OS won't tank the HP box into
     non-performance and that all the drivers are properly found.
 -   If I go with Windows Server 2012 Essentials, I get to set up a
     domain for my home computers and go around joining everything so
     they can be backed up. If I go with WHS 2011, I will get the same
-    backup functionality I'm used to. If I go with something else… I get
+    backup functionality I'm used to. If I go with something else... I get
     to figure out my backup solution.
 -   Move everything back to the WHS that was previously there and set
     all that junk up again.
@@ -61,7 +61,7 @@ And I can't switch to a different RAID strategy (like the Hybrid RAID
 they provide) without moving everything off the NAS and back on.
 
 UGH. There was a time in my life where I had a bunch of time at home and
-loved to tinker with things. Now… it takes me two nights to watch a
+loved to tinker with things. Now... it takes me two nights to watch a
 two-hour movie. I just want things to work.
 
 **So what am I going to do?**
@@ -80,5 +80,5 @@ transcoding of, like, Apple Lossless and whatnot). And I'll have to
 figure out the backup strategy; probably something like Acronis
 TrueImage.
 
-In the meantime… the plan is "no action."
+In the meantime... the plan is "no action."
 

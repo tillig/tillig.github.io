@@ -13,7 +13,7 @@ been nice not having to maintain different builds for different
 platforms. It's also nice to not have preprocessor directives littered
 through the code. Props to Microsoft for making it part of VS2012.
 
-The problem is… not very many people are familiar with Portable Class
+The problem is... not very many people are familiar with Portable Class
 Libraries and what they do. Probably once a week (give or take) we'll
 get a defect filed on Autofac that it's targeting the wrong version of
 .NET or something along those lines.

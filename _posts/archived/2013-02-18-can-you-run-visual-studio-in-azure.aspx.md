@@ -37,16 +37,16 @@ indicating you can't extend your rights there. I'll copy/paste those
 here:
 
 > **Q: Can customers run Microsoft Office and Windows 7 Client on
-> Virtual Machines? 
+> Virtual Machines?
 > A:** No.  Under the Microsoft Product Usage Rights (PUR), Office and
 > Windows 7 are not licensed to run on Virtual Machines.  In particular,
-> Microsoft Office is classified in the PUR as “Desktop Applications”,
+> Microsoft Office is classified in the PUR as "Desktop Applications",
 > which is not included in Licensing Mobility.
 >
 > More information is available at the site for [Microsoft Product Use
 > Rights](http://www.microsoft.com/licensing/about-licensing/product-licensing.aspx).
 >
-> **Q: Can a customer extend their MSDN use rights to the cloud?** 
+> **Q: Can a customer extend their MSDN use rights to the cloud?**
 > **A:** No, the software licensed under MSDN subscriptions is not for
 > use in cloud environments.  However, most MSDN subscribers are
 > entitled to a significant amount of Windows Azure services as a
@@ -100,18 +100,18 @@ VM](http://blogs.technet.com/b/simonmay/archive/2011/01/13/windows-7-licensing-a
 in the cloud**. I'm less certain than I was when I posted the original
 article
 
-From a personal standpoint, if you can't use VS in the cloud… *I think
+From a personal standpoint, if you can't use VS in the cloud... *I think
 that's dumb*. From a business standpoint, if a company wanted to pay for
 Azure VM resources to host all of their dev machines or something in the
-cloud so you can stamp them out easily, scale up or down… why not?
+cloud so you can stamp them out easily, scale up or down... why not?
 Sounds like a missed opportunity to me. But even if you ignore that, I
 feel like Visual Studio should be a kind of "special case" app. Yeah,
 it's a desktop app, but there are different reasons you'd want to
 install it in places like Azure so I don't know why you'd restrict it.
 Maybe they'll change it in the future. Maybe they'll extend MSDN
 licensing to allow for that special case or something. I hope they do.
-Until then… looks like I don't get to dev on my Surface RT unless I want
-to set up the hosting for that myself… *on a real, physical machine*.
+Until then... looks like I don't get to dev on my Surface RT unless I want
+to set up the hosting for that myself... *on a real, physical machine*.
 
 **Standard disclaimers apply here.** Doubly so because we're in legal
 territory. I'm no lawyer, and I don't know if you or your company
@@ -121,7 +121,7 @@ around licensing you need to be aware of to be fully compliant. For me,
 **I'd recommend erring on the side of caution** - if you don't know for
 sure, don't do it. Check with your Microsoft rep or company or whatever
 to find out for sure. I'm just providing the above research to show you
-what I found and maybe help inform you. If it turns out I'm wrong… let
+what I found and maybe help inform you. If it turns out I'm wrong... let
 me know (and provide some docs I can refer to). I'll be happy to update
 the article.
 

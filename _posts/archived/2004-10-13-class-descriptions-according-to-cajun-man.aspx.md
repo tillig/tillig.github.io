@@ -51,12 +51,12 @@ character:
 >  **Cajun Man:** Initializa-*shawn*.
 >
 >  **Presenter:** If you have a bunch of, for example, "Item" elements
-> in the "Site," those will come out in the Navigation Service as a…
+> in the "Site," those will come out in the Navigation Service as a...
 >
 >  **Cajun Man:** Strongly-typed collec-*shawn*.
 >
 >  **Presenter:** Right. And if there are no elements in a collection,
-> you end up with…
+> you end up with...
 >
 >  **Cajun Man:** Empty collec-*shawn*.
 >

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 1699
 tags: [General Ramblings]
 ---
-From a conversation at today's staff meeting…
+From a conversation at today's staff meeting...
 
 > **Dev 1**: I've been catching up on all the old James Bond movies
 > recently. We just watched [*Dr.

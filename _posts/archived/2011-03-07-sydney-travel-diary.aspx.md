@@ -89,7 +89,7 @@ the koalas were being fed, so while normally they are asleep from 18-22
 hours a day, I got to watch a couple grabbing eucalyptus branches and
 eating breakfast. I also got to pet one of the koalas (named Sid) and
 get my picture with him. Finally, after the rain started settling down,
-they put some food out for the kangaroos and they hopped out to eat… and
+they put some food out for the kangaroos and they hopped out to eat... and
 they let us pet the kangaroos, too. The kangaroo I petted was named
 Merv. (I didn't get my picture *with* Merv since there was quite a line
 to come up and pet him, but I did get a picture of Merv.) The keeper in
@@ -133,7 +133,7 @@ Park.](https://lh6.googleusercontent.com/_P1NCAbHEm2Q/TXLMzQkmaNI/AAAAAAAAB_E/p1
 Monday was our first day at work, but after work we headed over to Manly
 Beach on the ferry and had dinner at a local place, the Steyne hotel. At
 least, I think it was that; I am sort of blanking on the name of the
-place and Google Maps street view is telling me Steyne, so… there you
+place and Google Maps street view is telling me Steyne, so... there you
 go.
 
 Tuesday after work we headed out with another coworker, Mike, and we had
@@ -159,7 +159,7 @@ night.](https://lh3.googleusercontent.com/_P1NCAbHEm2Q/TXLM0cHHVUI/AAAAAAAAB_Q/n
 
 Friday being our last day (well, half day, since it was primarily
 travel), I got up early, had breakfast, and made one last trip around
-the Circular Quay area and the Sydney Opera House again. Then… train to
+the Circular Quay area and the Sydney Opera House again. Then... train to
 the airport and the long flight(s) home.
 
 [![Self portrait in front of the Sydney Opera

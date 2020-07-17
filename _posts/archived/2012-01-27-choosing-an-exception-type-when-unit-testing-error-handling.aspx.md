@@ -11,7 +11,7 @@ know I need to handle and tests for exceptions I'm not expecting.
 
 For example, say I have a component that calls a WCF service. If there's
 a communication issue, I want to mask that and return some
-stub/placeholder data. If there’s some other issue, I want to just let
+stub/placeholder data. If there's some other issue, I want to just let
 the exception bubble up and be handled by a global error handler.
 Something like this:
 

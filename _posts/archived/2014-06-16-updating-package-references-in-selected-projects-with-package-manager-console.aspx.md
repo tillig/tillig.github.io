@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 1843
 tags: [net,vs,autofac]
 ---
-In [the Autofac project](http://autofac.org) we’ve maintain all of the
+In [the Autofac project](http://autofac.org) we've maintain all of the
 various packages and integrations in one assembly. In order to make sure
 each package builds against the right version of Autofac, all references
 are redirected through NuGet.
@@ -26,8 +26,8 @@ In that little script...
 
 -   `Get-Project -All` gets the entire list of projects in the current
     loaded solution.
--   The `Where-Object` is where you filter out the stuff you don’t want
-    upgraded. I don’t want to run the Autofac upgrade on Autofac itself,
+-   The `Where-Object` is where you filter out the stuff you don't want
+    upgraded. I don't want to run the Autofac upgrade on Autofac itself,
     but I could also add other projects.
 -   The `ForEach-Object` runs the package update for each selected
     project.
@@ -36,10 +36,10 @@ In that little script...
     -   The `-Source` parameter is the NuGet source name I've added for
         our MyGet feed.
 
-You might see a couple of errors go by if you don’t filter out the
-update for a project that doesn’t have a reference to the thing you’re
-updating (e.g., if you try to update Autofac in a project that doesn’t
-have an Autofac reference) but that’s OK.
+You might see a couple of errors go by if you don't filter out the
+update for a project that doesn't have a reference to the thing you're
+updating (e.g., if you try to update Autofac in a project that doesn't
+have an Autofac reference) but that's OK.
 
 [James Chambers has a great roundup of some additional helpful NuGet
 PowerShell script

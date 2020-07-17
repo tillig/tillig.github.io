@@ -237,7 +237,7 @@ You don't want to do that because then when you use the out-of-the-box
 email validator, it'll end up with your custom logic.
 
 This is really painful to debug. Sometimes this is actually what you
-want - reuse of client (or server) logic but not both… but generally,
+want - reuse of client (or server) logic but not both... but generally,
 you want a unique custom validator from end to end.
 
 Recommendation: **Don't implement the standard interfaces unless you plan on _replacing the standard behavior across the board_** and not using the out-of-the-box validator of that type. (That is, if you want to totally replace everything about client and server validation for `IEmailValidator`, then implement `IEmailValidator` on your server-side validator and don't use the standard email validator anymore.)

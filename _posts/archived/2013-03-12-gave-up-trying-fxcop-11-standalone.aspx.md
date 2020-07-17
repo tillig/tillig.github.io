@@ -35,11 +35,11 @@ redistributable](http://www.microsoft.com/en-us/download/details.aspx?id=30679),
 so I tried installing that and it did fix those issues. The ieshims.dll
 is part of Internet Explorer, so adding
 `C:\Program Files\Internet Explorer `to the path fixed that. The
-`mf*.dll `files, though… that's media related. Like, "Media Player"
+`mf*.dll `files, though... that's media related. Like, "Media Player"
 style. I've seen places that you can get that with WPF bits.
 
 I made sure my build server had all the latest patches after dealing
-with the Visual C++ and IE stuff, and… then I got more failures. Stuff
+with the Visual C++ and IE stuff, and... then I got more failures. Stuff
 about "api-win-core-somethingorother.dll" and some WinRT(?!) stuff.
 
 *ARGH.*
@@ -56,7 +56,7 @@ Express for Windows 8 version also has it, *but I don't know and I
 didn't check*. I'm kind of surprised the web one doesn't come with
 FxCop.
 
-So… there you go. **You have to install Visual Studio on your build
+So... there you go. **You have to install Visual Studio on your build
 server if you want FxCop**. (Or you have to chase down all the
 chained-in dependencies and drag them along with your local version, in
 which case, *good luck with that*.)
@@ -66,10 +66,10 @@ when running from the command line:
 `Failed to add rule assembly: c:\program files (x86)\microsoft visual studio 11.0\team tools\static analysis tools\fxcop\Rules\DataflowRules.dll`.
 Looking in the folder, sure enough, it's missing. I don't see anything
 referencing that assembly, but it's there in a VS Premium installation,
-so… what gives?
+so... what gives?
 
 **In fact, there's a lot missing from the Express version of FxCop that
-is there in Premium.** Like… *the whole Phoenix analysis engine is
+is there in Premium.** Like... *the whole Phoenix analysis engine is
 totally missing*. What gives? Honestly, I ended up not only having to
 install VS Express, but also copy over the missing stuff into
 `C:\Program Files (x86)\Microsoft Visual Studio 11.0\Team Tools\Static Analysis Tools\FxCop `so

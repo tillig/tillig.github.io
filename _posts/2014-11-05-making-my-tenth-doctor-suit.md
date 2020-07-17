@@ -9,7 +9,7 @@ For [Halloween this year](/archive/2014/11/03/176-trick-or-treaters/) I went as 
 
 ![David Tennant as the Tenth Doctor](https://lh3.googleusercontent.com/-I8qaQGqvwOw/VFhWjnIYigI/AAAAAAAAJwA/JeqG8RZib6w/s400/Tenth%2520Doctor%2520Suit%2520-%2520Halloween%25202014%2520-%252017.jpg)
 
-I make my costume every year (well, pretty much every year) and I enjoy sewing so it was fun to take this on. However, I don't normally post "behind-the-scenes" stuff and there are folks who don't really realize what goes into making a costume so I figured this year I'd do it. [Oh, and if you want to see the pictures in a larger format, I have an annotated photo album on Google+.](https://plus.google.com/photos/100275637557074554059/albums/6077702866070944497)
+I make my costume every year (well, pretty much every year) and I enjoy sewing so it was fun to take this on. However, I don't normally post "behind-the-scenes" stuff and there are folks who don't really realize what goes into making a costume so I figured this year I'd do it. [Oh, and if you want to see the pictures in a larger format, I have an annotated photo album on Google Photos.](https://photos.app.goo.gl/pidocFmepg3e9NSy5)
 
 Before doing anything else, I did some research. The [_Making My Tennant Suit_ blog](http://tennantsuit.blogspot.com/) was the best resource I found for info on the suit, the fabrics, and so forth. It has a really good [fabric comparison](http://tennantsuit.blogspot.com/2009/04/comparing-fabrics.html) showing different fabrics and sources that match/approximate the fabric from the suit. I also gathered a few pictures from the web to help me pick the right pieces.
 
@@ -114,4 +114,4 @@ So... uh... $175? Give or take. It's not cheap. Even if you take out the cost fo
 
 This definitely increases my admiration and respect for folks who do this on a convention circuit.
 
-[Again, if you want to see the pictures in a larger format, I have an annotated photo album on Google+.](https://plus.google.com/photos/100275637557074554059/albums/6077702866070944497)
+[Again, if you want to see the pictures in a larger format, I have an annotated photo album on Google Photos.](https://photos.app.goo.gl/pidocFmepg3e9NSy5)

@@ -6,11 +6,11 @@ comments: true
 disqus_identifier: 1839
 tags: [net,aspnet]
 ---
-I just spent a day fighting these so I figured I’d share. You may or may
-not run into them. They do get pretty low-level, like, “not the common
-use case.”
+I just spent a day fighting these so I figured I'd share. You may or may
+not run into them. They do get pretty low-level, like, "not the common
+use case."
 
-**PROBLEM 1: Why Isn’t My Data Serializing as XML?**
+**PROBLEM 1: Why Isn't My Data Serializing as XML?**
 
 I had set up my media formatters so the XML formatter would kick in and
 provide some clean looking XML when I provided a querystring parameter,
@@ -56,7 +56,7 @@ What?
 
 This was because of some custom route registration stuff.
 
-When you use attribute routes…
+When you use attribute routes...
 
 1.  The attribute routing mechanism gets the controller selector from
     the HttpConfiguration object.
@@ -80,28 +80,28 @@ When you use attribute routes…
 8.  Execution of an action corresponding to one of these specific routes
     will use the exact descriptor to which it was tied.
 
-*Basically*. There’s a little extra complexity in there I
-[yada-yada’d](http://en.wikipedia.org/wiki/The_Yada_Yada) away. **The
+*Basically*. There's a little extra complexity in there I
+[yada-yada'd](http://en.wikipedia.org/wiki/The_Yada_Yada) away. **The
 big takeaway here is that you can see all the bajillion places
-references to the HttpConfiguration are getting stored.** There’s some
+references to the HttpConfiguration are getting stored.** There's some
 black magic here.
 
 I was trying to do my own sort of scanning for attribute routes (like on
-plugin assemblies that aren’t referenced by the project), but I didn’t
+plugin assemblies that aren't referenced by the project), but I didn't
 want to corrupt the main HttpConfiguration object so I created little
 temporary ones that I used during the scanning process just to help
 coordinate things.
 
-*Yeah, you can’t do that.*
+*Yeah, you can't do that.*
 
 **Those temporary mostly-default configurations were getting used during
 my scanned routes rather than the configuration I had set with OWIN to
 use.**
 
 Once I figured all that out, I was able to work around it, but it took
-most of the day to figure it out. It’d be nice if things like the action
+most of the day to figure it out. It'd be nice if things like the action
 descriptor would automatically chain up to the parent controller
-descriptor (if it’s present) to get configuration rather than holding
+descriptor (if it's present) to get configuration rather than holding
 its own reference. And so on, all the way up the stack, such that routes
 get their configuration from the route table, which is owned by the root
 configuration object. Set it and forget it.

@@ -6,14 +6,14 @@ comments: true
 disqus_identifier: 1837
 tags: [net,aspnet,autofac]
 ---
-I’m working on a new [Web API project](http://www.asp.net/web-api) where
+I'm working on a new [Web API project](http://www.asp.net/web-api) where
 I want to use [AutoMapper](http://automapper.org/) for some type
 conversion. As part of that, I have a custom AutoMapper type converter
 that takes in some constructor parameters so the converter can read
-configuration values. I’m using [Autofac](http://autofac.org/) for
+configuration values. I'm using [Autofac](http://autofac.org/) for
 dependency injection (naturally).
 
-Historically, I’ve been able to hook AutoMapper into dependency
+Historically, I've been able to hook AutoMapper into dependency
 injection [using the `ConstructServicesUsing`
 method](https://github.com/AutoMapper/AutoMapper/wiki/Containers) and
 some sort of global dependency resolver, like:
@@ -27,29 +27,29 @@ Mapper.Initialize(cfg =>
 ```
 
 That works great in MVC or in other applications where there's a global
-static like that. In those cases, the “request lifetime scope” either
-doesn’t exist or it’s managed by the implementation of
+static like that. In those cases, the "request lifetime scope" either
+doesn't exist or it's managed by the implementation of
 `IDependencyResolver` the way it is in the Autofac integration for MVC.
 
 **Retrieving the per-request lifetime scope is much more challenging in
 Web API because the request lifetime scope is managed by the inbound
 `HttpRequestMessage`.** Each inbound message gets a lifetime scope
-associated, so there’s no “global static” from which you can get the
+associated, so there's no "global static" from which you can get the
 request lifetime. You can get the global dependency resolver, but
-resolving from that won’t be per-request; it’ll be at the application
+resolving from that won't be per-request; it'll be at the application
 level.
 
-**It’s also a challenging situation because AutoMapper really leans you
+**It's also a challenging situation because AutoMapper really leans you
 toward using the static `Mapper` object** to do your mapping and you
-can’t really change the value of `ConstructServicesUsing` on the static
+can't really change the value of `ConstructServicesUsing` on the static
 because, well, you know, threading.
 
-So… what to do?
+So... what to do?
 
 **The big step is to change your mindset around the static `Mapper`
 object.** Instead of using `Mapper` to map things, take an
 `IMappingEngine` as a dependency in your class doing mapping. Yes,
-that’s one more dependency you’d normally not have to take, but there’s
+that's one more dependency you'd normally not have to take, but there's
 not really a better way given the way the `IMappingEngine` has to
 resolve dependencies is actually different per-request.
 
@@ -57,7 +57,7 @@ This frees us up to now think about how to register and resolve a
 per-request version of `IMappingEngine`.
 
 **Before I show you how to do this, standard disclaimers apply**: Works
-on my machine; I’ve not performance tested it; It might not work for
+on my machine; I've not performance tested it; It might not work for
 you; etc.
 
 Oooookay.
@@ -65,7 +65,7 @@ Oooookay.
 **First, we need to understand how the `IMappingEngine` we build will
 come together.**
 
-1.  The implementation of `AutoMapper.IMappingEngine` we’ll be using is
+1.  The implementation of `AutoMapper.IMappingEngine` we'll be using is
     `AutoMapper.MappingEngine` (the only implementation available).
 2.  `MappingEngine` takes in an `IConfigurationProvider` as a
     constructor parameter.
@@ -73,19 +73,19 @@ come together.**
     factory we need to manipulate to resolve things out of a per-request
     lifetime scope.
 4.  The main `AutoMapper.Mapper` has a `Configuration` property of type
-    `IConfiguration`… but the backing store for it is really an
+    `IConfiguration`... but the backing store for it is really an
     `AutoMapper.ConfigurationStore`, which is also an
     `IConfigurationProvider`. (This is where the somewhat delicate
     internal part of things comes in. If something breaks in the future,
     chances are this will be it.)
 
-Since we need an `IConfigurationProvider`, let’s make one.
+Since we need an `IConfigurationProvider`, let's make one.
 
 We want to leverage the main configuration/initialization that the
-static `Mapper` class provides because there’s a little internal work
-there that we don’t want to copy/paste. The only thing we really want to
-change is that `ServiceCtor` property, but that’s not a settable
-property, so **let’s write a quick wrapper around an
+static `Mapper` class provides because there's a little internal work
+there that we don't want to copy/paste. The only thing we really want to
+change is that `ServiceCtor` property, but that's not a settable
+property, so **let's write a quick wrapper around an
 `IConfigurationProvider` that lets us override it with our own method.**
 
 ```csharp
@@ -188,7 +188,7 @@ it simple here.
 -   Uses a per-request lifetime scope to resolve dependencies and
 -   Leverages the root AutoMapper configuration for everything else.
 
-That’s actually pretty easy:
+That's actually pretty easy:
 
 ```csharp
 // Register your mappings here, but don't set any

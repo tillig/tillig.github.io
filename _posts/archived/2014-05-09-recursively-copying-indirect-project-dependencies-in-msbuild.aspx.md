@@ -6,9 +6,9 @@ comments: true
 disqus_identifier: 1842
 tags: [net,gists,build]
 ---
-I’ve run across a similar situation to many folks I’ve seen online, where I have a solution with a pretty modular application and when I build it,**I don’t get all the indirect dependencies copied in**.
+I've run across a similar situation to many folks I've seen online, where I have a solution with a pretty modular application and when I build it,**I don't get all the indirect dependencies copied in**.
 
-I found [a blog article with an MSBuild target in it that supposedly fixes some of this indirect copying nonsense](http://blog.alexyakunin.com/2009/09/making-msbuild-visual-studio-to.html), but as it turns out, it doesn’t actually go far enough.
+I found [a blog article with an MSBuild target in it that supposedly fixes some of this indirect copying nonsense](http://blog.alexyakunin.com/2009/09/making-msbuild-visual-studio-to.html), but as it turns out, it doesn't actually go far enough.
 
 My app looks something like this (from a reference perspective)
 
@@ -18,22 +18,22 @@ My app looks something like this (from a reference perspective)
         -   Project: Server Utilities
             -   NuGet references and extra junk
 
-The application host is where I need everything copied so it all works, but the NuGet references and extra junk way down the stack isn’t making it so there are runtime explosions.
+The application host is where I need everything copied so it all works, but the NuGet references and extra junk way down the stack isn't making it so there are runtime explosions.
 
-**I also decided to solve this with MSBuild, but using an inline code task.** This task will…
+**I also decided to solve this with MSBuild, but using an inline code task.** This task will...
 
 1.  Look at the list of project references in the current project.
 2.  Go find the project files corresponding to those project references.
 3.  Calculate the path to the project reference output assembly and
     include that in the list of indirect references.
-4.  Calculate the paths to any third-party references that include a `<HintPath>` (indicating the item isn’t GAC’d) and include those in the list of indirect references.
-5.  Look for any additional project references – if they’re found, go to step 2 and continue recursing until there aren’t any project references we haven’t seen.
+4.  Calculate the paths to any third-party references that include a `<HintPath>` (indicating the item isn't GAC'd) and include those in the list of indirect references.
+5.  Look for any additional project references – if they're found, go to step 2 and continue recursing until there aren't any project references we haven't seen.
 
-While it’s sort of the “nuclear option,” it means that my composable application will have all the stuff ready and in place at the Host level for any plugin runtime assemblies to be dropped in and be confident they’ll find all the platform support they expect.
+While it's sort of the "nuclear option," it means that my composable application will have all the stuff ready and in place at the Host level for any plugin runtime assemblies to be dropped in and be confident they'll find all the platform support they expect.
 
-*Before I paste in the code, the standard disclaimers apply: Works on my box; no warranty expressed or implied; no support offered; YMMV; and so on. If you grab this and need to tweak it to fit your situation, go for it. I’m not really looking to make this The Ultimate Copy Paste Solution for Dependency Copy That Works In Every Situation.*
+*Before I paste in the code, the standard disclaimers apply: Works on my box; no warranty expressed or implied; no support offered; YMMV; and so on. If you grab this and need to tweak it to fit your situation, go for it. I'm not really looking to make this The Ultimate Copy Paste Solution for Dependency Copy That Works In Every Situation.*
 
-**And with that, here’s a .csproj file snippet showing how to use the task as well as the task proper:**
+**And with that, here's a .csproj file snippet showing how to use the task as well as the task proper:**
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -152,7 +152,7 @@ IndirectDependencies = indirectDependencies.Select(i => new TaskItem(i)).ToArray
 </Project>
 ```
 
-**Boom!** Yeah, that’s a lot of code. And I could probably tighten it up, but I’m only using it once, in one place, and it runs one time during the build. Ain’t broke, don’t fix it, right?
+**Boom!** Yeah, that's a lot of code. And I could probably tighten it up, but I'm only using it once, in one place, and it runs one time during the build. Ain't broke, don't fix it, right?
 
 Hope that helps someone out there.
 

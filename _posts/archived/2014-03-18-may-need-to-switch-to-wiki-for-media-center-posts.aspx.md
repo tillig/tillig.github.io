@@ -6,10 +6,10 @@ comments: true
 disqus_identifier: 1836
 tags: [media]
 ---
-Looking at the list of media center posts I’ve got and the
+Looking at the list of media center posts I've got and the
 updates/changes over time [just to the main
 article](/archive/2008/09/30/overview-of-my-media-center-solution.aspx),
-I’m thinking I may need to switch to storing this in a wiki. The world
+I'm thinking I may need to switch to storing this in a wiki. The world
 of media center stuff changes too frequently to keep the articles all
-updated. It’s just getting confusing.
+updated. It's just getting confusing.
 

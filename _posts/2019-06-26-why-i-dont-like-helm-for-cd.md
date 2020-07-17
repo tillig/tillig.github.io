@@ -128,7 +128,7 @@ Helm is great as a way to package up a set of YAML and handle parameterization a
 
 A great example of this [is the way Spinnaker uses Helm to deploy things](https://www.spinnaker.io/guides/user/kubernetes-v2/deploy-helm/). It's not using `helm install` or `helm upgrade` - instead it can take a Helm chart or Helm-formatted YAML document and it uses `helm template` to generate the final template with the parameters all populated. It then takes that output and executes the deployment in Kubernetes. The note at the top of the Spinnaker "Deploy Helm Charts" page pretty much says it all:
 
-> Note: This stage is intended to help you package and deploy applications that you own, and are actively developing and redeploying frequently. It is not intended to serve as a one-time installation method for third-party packages. If that is your goal, it’s arguably better to call `helm install` once when bootstrapping your Kubernetes cluster.
+> Note: This stage is intended to help you package and deploy applications that you own, and are actively developing and redeploying frequently. It is not intended to serve as a one-time installation method for third-party packages. If that is your goal, it's arguably better to call `helm install` once when bootstrapping your Kubernetes cluster.
 
 If you think about what you get with `helm list`, you're getting the chart version, right? Honestly, once you have the chart down, the chart version has no meaning in continuous deployment. The important stuff is the version(s) of the container(s) that are deployed and making up the application. That stuff isn't tracked, so `helm list` becomes pretty useless.
 

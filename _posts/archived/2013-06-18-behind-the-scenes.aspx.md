@@ -15,7 +15,7 @@ Map*](http://disneyparks.disney.go.com/blog/2013/06/by-the-numbers-mickey-and-th
 is cool and tells you about how they put that show together.
 
 Seeing some of that behind-the-scenes stuff reminds me of a time back
-when I was younger, maybe… I don't know, 10? There was some sort of
+when I was younger, maybe... I don't know, 10? There was some sort of
 promotion going on at a local department store. I think it was [JC
 Penney](http://www.jcpenney.com/), but I don't remember exactly. They
 had some Disney character artists touring through and they'd give little
@@ -51,12 +51,12 @@ coexist. I don't know how useful it was, but I heard they liked it and
 used it quite a bit.
 
 I still love seeing that stuff. How the animation is done, how the shows
-are put together… and when I see it, and remember, it makes me wish I
+are put together... and when I see it, and remember, it makes me wish I
 was part of that magic. That I was helping to put on the shows, or
 create the animation, or make that happen for other people. My friends
 [Sheldon](https://www.facebook.com/sheldongohart) and
 [Jason](https://www.facebook.com/behnkestudio) are doing that, and I
 admit it makes me a little jealous.
 
-Hey, Pixar… need any remote developers in Oregon?
+Hey, Pixar... need any remote developers in Oregon?
 

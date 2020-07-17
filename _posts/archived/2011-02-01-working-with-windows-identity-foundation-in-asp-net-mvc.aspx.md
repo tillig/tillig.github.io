@@ -201,5 +201,5 @@ namespace MyNamespace.Filters
 
 Now you have a filter attribute that will check to make sure the incoming message is of an expected type and will deny access if it's not.
 
-**Hopefully some of this will help you get working with WIF in ASP.NET MVC.** It'd have been nice if MVC had been considered in the initial rollout of WIF, but no such luck. I don't even see a [Connect](http://connect.microsoft.com) page for accepting suggestions. Fingers crossed for the next release…!
+**Hopefully some of this will help you get working with WIF in ASP.NET MVC.** It'd have been nice if MVC had been considered in the initial rollout of WIF, but no such luck. I don't even see a [Connect](http://connect.microsoft.com) page for accepting suggestions. Fingers crossed for the next release...!
 

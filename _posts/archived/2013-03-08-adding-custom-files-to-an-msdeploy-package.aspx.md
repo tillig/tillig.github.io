@@ -15,7 +15,7 @@ but it didn't seem to work - that blog entry tells you to modify a set
 of files during a stage in the packaging pipeline
 "`CopyAllFilesToSingleFolderForPackageDependsOn`" and that target never
 actually fired for me. In fact, I threw an \<Error\> call in there just
-to see if I could get the build to fail and… no luck.
+to see if I could get the build to fail and... no luck.
 
 It also seems that manually copying the files over into the deployment
 staging/temporary folder stopped working - you can copy them over, but
@@ -23,7 +23,7 @@ they instantly get deleted just before packaging occurs.
 
 Turns out a lot of the way the MSDeploy packaging stuff in
 `Microsoft.WebApplication.targets` works changed in Visual Studio 2012
-and… it's like no one out there noticed. Or maybe everyone solved the
+and... it's like no one out there noticed. Or maybe everyone solved the
 problem and forgot to blog it. Or maybe I'm some special edge case.
 Anyway, it took some serious reverse-walkthrough of the packaging
 process to figure out what needs to happen. (Yeah, that was a day
@@ -45,7 +45,7 @@ some portion of "`Build`." The problem there is that "`Build`"(from
 "`IntermediateClean`" that deletes a bunch of stuff out of your `bin`
 folder - even assemblies that were built due to project references.
 (This happens more during a command line build than during a VS build.
-They're treated differently… which is pretty annoying.) What this means
+They're treated differently... which is pretty annoying.) What this means
 is you have to "fool" the "`IntermediateClean`" during the packaging
 process so it doesn't clean out your plugins. You do that by setting a
 "magic" item called `FileWrites` to contain all the stuff you want to

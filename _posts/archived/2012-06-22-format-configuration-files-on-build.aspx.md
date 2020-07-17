@@ -15,7 +15,7 @@ plugins like
 [CodeRush](http://www.devexpress.com/Products/Visual_Studio_Add-in/Coding_Assistance/)
 and
 [PowerCommands](http://visualstudiogallery.msdn.microsoft.com/e5f41ad9-4edc-4912-bca3-91147db95b99)
-(“format on save”). Config files? Not so much.
+("format on save"). Config files? Not so much.
 
 As you can imagine, this creates no end of churn in merge conflicts as
 things switch from tabs to spaces and back, NuGet mucks around with
@@ -23,19 +23,19 @@ dependency redirects, and entries get added and removed.
 
 To address some of this, **I decided to add some automatic config file
 formatting to our build** so when you run the build, things
-automatically get cleaned up. Here’s how you can do this, too.
+automatically get cleaned up. Here's how you can do this, too.
 
-First, **you’ll need a copy of** [**HTML
+First, **you'll need a copy of** [**HTML
 Tidy**](http://tidy.sourceforge.net/). HTML Tidy actually does work on
-config file XML as well as HTML as long as you specify that it’s not
+config file XML as well as HTML as long as you specify that it's not
 processing HTML. [I grabbed this Windows
 executable](http://www.paehl.com/open_source/?HTML_Tidy_for_Windows)
 since the main installer site seems to be gone.
 
 Next, **get the** [**MSBuild Community
 Tasks**](https://github.com/loresoft/msbuildtasks) **in your build**.
-There’s a nice `FileUpdate` task that will help during formatting and
-you’ll need it.
+There's a nice `FileUpdate` task that will help during formatting and
+you'll need it.
 
 Finally, **add the MSBuild script to your build.** I have mine set up as
 a separate target that gets called just before compiling things.
@@ -59,20 +59,20 @@ a separate target that gets called just before compiling things.
       <Delete Files="%(ConfigFiles.FullPath).formatted" />
     </Target>
 
-This block of script…
+This block of script...
 
--   **Locates all of the config files to format**. I’m formatting every
-    config file except the ones associated with NuGet because I don’t
+-   **Locates all of the config files to format**. I'm formatting every
+    config file except the ones associated with NuGet because I don't
     manually tweak those. If you have other config files to format,
     include those in the ConfigFiles item.
 -   **Executes tidy.exe against the config files**. The options here
-    indicate that I’m processing XML, I want it nicely indented with
+    indicate that I'm processing XML, I want it nicely indented with
     four spaces, and I want attributes nicely wrapped and indented. [You
     can modify the settings
     yourself](http://tidy.sourceforge.net/docs/quickref.html) if this
-    isn’t to your taste. Formatted file output gets created as a new
-    file with the original filename suffixed by “formatted”, like
-    “Web.config.formatted” so if anything goes wrong, it didn’t make
+    isn't to your taste. Formatted file output gets created as a new
+    file with the original filename suffixed by "formatted", like
+    "Web.config.formatted" so if anything goes wrong, it didn't make
     changes to the actual item.
 -   **FileUpdate cleans up simple name/value pairs.** The downside to
     wrapping attributes is that simple name/value pairs get broken
@@ -82,7 +82,7 @@ This block of script…
 -   **Replaces the original files with the nicely formatted versions.**
     Simple copy/overwrite and delete of the temp file.
 
-All in all, it’s pretty simple to get working and the end result is
+All in all, it's pretty simple to get working and the end result is
 nice. Now as long as you can maintain a consistent element order in your
-config files, you’ll not get a merge conflict due to file formatting.
+config files, you'll not get a merge conflict due to file formatting.
 

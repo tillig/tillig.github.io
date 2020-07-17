@@ -15,7 +15,7 @@ What does that mean? In their words...
 
 > Typemock Experts are independent developers, architects, trainers, and
 > other professionals who provide a vital link between Typemock and the
-> developers’ community. They write books, articles or blogs on a wide
+> developers' community. They write books, articles or blogs on a wide
 > range of topics, from pragmatic unit testing to development
 > methodologies.
 

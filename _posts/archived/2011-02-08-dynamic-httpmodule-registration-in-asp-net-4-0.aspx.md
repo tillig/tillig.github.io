@@ -74,7 +74,7 @@ implementation and it gets added to the pipeline:
 
     DynamicModuleUtility.RegisterModule(typeof(MyNamespace.MyHttpModule));
 
-The only catch is… you need to call it just before application startup.
+The only catch is... you need to call it just before application startup.
 (See where I'm going with this?)
 
 Tie it together: Call DynamicModuleUtility.RegisterModule() from inside

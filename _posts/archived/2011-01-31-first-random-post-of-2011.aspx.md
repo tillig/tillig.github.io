@@ -121,7 +121,7 @@ for fun I don't really want to have to expend a ton of mental effort to
 try and figure out what the book is trying to say. I want to have fun,
 relax, and escape for a while. If that means I end up reading books that
 show up in the "teen" section of the bookstore more often than not,
-well… so be it.
+well... so be it.
 
  
 

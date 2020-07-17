@@ -7,9 +7,9 @@ disqus_identifier: 1557
 tags: [General Ramblings]
 ---
 So I just installed [Windows Live Writer
-2009](http://windowslivewriter.spaces.live.com/) and I’m posting from
-there. I wasn’t super impressed last time I used WLW (which was,
-admittedly, a while ago) so I’m hoping this is better.
+2009](http://windowslivewriter.spaces.live.com/) and I'm posting from
+there. I wasn't super impressed last time I used WLW (which was,
+admittedly, a while ago) so I'm hoping this is better.
 
 So far, it is. I'll post my next few posts with this and see how it
 goes.

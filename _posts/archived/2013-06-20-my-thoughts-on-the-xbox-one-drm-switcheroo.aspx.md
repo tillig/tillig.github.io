@@ -16,7 +16,7 @@ separate user accounts, and making sure that music or videos that I buy
 are playable on her device is just a huge pain.
 
 I have a few Kindle books, but I find that **Kindle DRM is also a pain
-in the ass**. I buy a book, my wife wants to read it… and it's (of
+in the ass**. I buy a book, my wife wants to read it... and it's (of
 course) not one of the books that's ["eligible" to be loaned to
 someone](http://www.amazon.com/gp/help/customer/display.html?nodeId=200549320).
 The publisher or whomever has locked it down. My wife has to physically
@@ -41,7 +41,7 @@ to you." That's how the Xbox Live Arcade works now, where it gets
 licensed both to your user account and to a particular console. That
 doesn't account for the multi-console household like we have, which
 makes some things really hard. If I buy some Rock Band tracks on one
-console, but we want to play on the other console… I have to be logged
+console, but we want to play on the other console... I have to be logged
 in. **Having had the red ring of death *three times*, I'm no stranger
 to**[**the stupid "license transfer"
 process**](http://support.xbox.com/en-US/xbox-live/marketplace-and-purchasing/download-content)
@@ -49,7 +49,7 @@ to move from one console to another. Seeing this come back with "even
 more move toward digital-only content" had me scared.
 
 I also got scared by the notes about trading in disc-based games.
-"…Publishers can enable you to trade in your games at participating
+"...Publishers can enable you to trade in your games at participating
 retailers." That sounds like Kindle to me. **Book publishers can allow
 me to loan people my Kindle books *but almost none do*. Why would I
 believe game publishers would be any different?**
@@ -128,7 +128,7 @@ you just *rented* me content instead of *selling* me content.
 licensing model.** We got a couple of press releases with some bullet
 points but no real detailed information. Particularly around the resale
 hubs and so on - all that was talking-head-level-stuff, no real
-concrete… anything. I think a lot of fears could have been assuaged by
+concrete... anything. I think a lot of fears could have been assuaged by
 just having those details ready up front. Can you show me one of these
 resale hubs? Can you give me any idea about where prices might start in
 there? What have publishers actually said about this stuff? There's a
@@ -138,7 +138,7 @@ weren't, and now we are where we are.
 
 **What I'm curious about is if they'll "phase in" the new model.** Start
 off with the old, but then add components in one at a time. You can buy
-a disc-based game, but if you buy a digital game… now you have that
+a disc-based game, but if you buy a digital game... now you have that
 10-person-sharing-plan - a benefit of going digital instead of disc. Get
 people used to some of the cool parts without doing the
 "rip-off-the-bandage" approach to changing it up. I don't see why they

@@ -91,7 +91,7 @@ ideas:
     feels like it's revealing information to you that you already knew
     but didn't consciously recognize. Suddenly, being conscious of it,
     you realize all the things you did wrong in previous poor
-    interactions, how things could have been handled better… and how
+    interactions, how things could have been handled better... and how
     you'll approach things next time you encounter the situation. Well
     worth the time.
 

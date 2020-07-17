@@ -6,9 +6,9 @@ comments: true
 disqus_identifier: 1826
 tags: [net,gists,aspnet,csharp]
 ---
-One of the new ASP.NET MVC 5 features, authentication filters, has dreadfully little documentation. There’s [a Visual Studio Magazine article on it](http://visualstudiomagazine.com/articles/2013/08/28/asp_net-authentication-filters.aspx), but that basically replicates the [AuthorizeAttribute](http://msdn.microsoft.com/en-us/library/system.web.mvc.authorizeattribute.aspx) in a different way. It doesn’t really explain much else.
+One of the new ASP.NET MVC 5 features, authentication filters, has dreadfully little documentation. There's [a Visual Studio Magazine article on it](http://visualstudiomagazine.com/articles/2013/08/28/asp_net-authentication-filters.aspx), but that basically replicates the [AuthorizeAttribute](http://msdn.microsoft.com/en-us/library/system.web.mvc.authorizeattribute.aspx) in a different way. It doesn't really explain much else.
 
-Diving into [the source](https://github.com/ASP-NET-MVC/aspnetwebstack/blob/master/src/System.Web.Mvc/Filters/IAuthenticationFilter.cs) doesn’t tell you too much, either. The [context you get in the filter](https://github.com/ASP-NET-MVC/aspnetwebstack/blob/master/src/System.Web.Mvc/Filters/AuthenticationChallengeContext.cs) has a little more of an idea about what you should be doing, but… it’s really not enough.
+Diving into [the source](https://github.com/ASP-NET-MVC/aspnetwebstack/blob/master/src/System.Web.Mvc/Filters/IAuthenticationFilter.cs) doesn't tell you too much, either. The [context you get in the filter](https://github.com/ASP-NET-MVC/aspnetwebstack/blob/master/src/System.Web.Mvc/Filters/AuthenticationChallengeContext.cs) has a little more of an idea about what you should be doing, but... it's really not enough.
 
 The real magic happens in the `ControllerActionInvoker.InvokeAction` method. [The source shows](https://github.com/ASP-NET-MVC/aspnetwebstack/blob/master/src/System.Web.Mvc/ControllerActionInvoker.cs) that the general flow is like this:
 
@@ -20,11 +20,11 @@ The real magic happens in the `ControllerActionInvoker.InvokeAction` method. [Th
 6.  Assuming the user is authenticated/authorized, the controller action executes.
 7.  `IAuthenticationFilter.OnAuthentication` executes.
 
-From the comments in the code, it appears the intent is that you somehow “chain” action results together. I’m not sure what that means, whether there’s [a decorator pattern](http://en.wikipedia.org/wiki/Decorator_pattern) intended or whether the design assumes that authentication challenges would just add specific HTTP headers to the response or what.
+From the comments in the code, it appears the intent is that you somehow "chain" action results together. I'm not sure what that means, whether there's [a decorator pattern](http://en.wikipedia.org/wiki/Decorator_pattern) intended or whether the design assumes that authentication challenges would just add specific HTTP headers to the response or what.
 
-However, here’s a simple scenario that I came up with that lets you inject some sort of security challenge into a UI flow using the `IAuthenticationFilter`.
+However, here's a simple scenario that I came up with that lets you inject some sort of security challenge into a UI flow using the `IAuthenticationFilter`.
 
-**First, let’s create a custom result type.** We’ll use this result as a “flag” in the system to indicate the user needs to be challenged. We’ll derive it from `HttpUnauthorizedResult` so if, for whatever reason, it “slips through the system,” the user will be denied access.
+**First, let's create a custom result type.** We'll use this result as a "flag" in the system to indicate the user needs to be challenged. We'll derive it from `HttpUnauthorizedResult` so if, for whatever reason, it "slips through the system," the user will be denied access.
 
 ```csharp
 public class ChallengeResult : HttpUnauthorizedResult
@@ -40,7 +40,7 @@ public class ChallengeResult : HttpUnauthorizedResult
 
 The result stores the location where the user needs to return in order to complete the operation after they've been challenged.
 
-**Next, let’s create our filter.** This filter won’t do anything during the authentication portion of its lifecycle, but it will handle challenges. In this case, it’ll look for our challenge result and take action if the user needs to be challenged.
+**Next, let's create our filter.** This filter won't do anything during the authentication portion of its lifecycle, but it will handle challenges. In this case, it'll look for our challenge result and take action if the user needs to be challenged.
 
 ```csharp
 public class ChallengeFilter : IAuthenticationFilter
@@ -70,13 +70,13 @@ public class ChallengeFilter : IAuthenticationFilter
 }
 ```
 
-**You'll notice the filter sends the user to a challenge controller.** That’s the controller with the form that requires the user to answer a question or re-enter credentials or whatever. We’ll come back to that in a second. Before we do that, let’s see how we’d consume this filter so we can get challenged.
+**You'll notice the filter sends the user to a challenge controller.** That's the controller with the form that requires the user to answer a question or re-enter credentials or whatever. We'll come back to that in a second. Before we do that, let's see how we'd consume this filter so we can get challenged.
 
-**Here’s what you do in the controller** where you need to issue a challenge:
+**Here's what you do in the controller** where you need to issue a challenge:
 
--   Check to see if the user’s authorized. If they are, let the operation proceed.
--   If they’re not…
-    -   Store any form state you’ll need to complete the operation.
+-   Check to see if the user's authorized. If they are, let the operation proceed.
+-   If they're not...
+    -   Store any form state you'll need to complete the operation.
     -   Issue the challenge result so the filter can pick it up.
 
 A very, very simple controller might look like this:
@@ -148,13 +148,13 @@ public class DoWorkController
 }
 ```
 
-**This is obviously not copy/paste ready for use.** There are all sorts of things wrong with that sample, like the fact the session data is never cleared, we don’t have the ability to handle multiple windows running multiple operations at a time, and so on. The idea holds, though – you need to persist the form data somewhere so you can send the user over to be challenged and then resume the operation when you come back. Maybe you can create a service that holds that information in a database; maybe you invent a backing store in session that has a more “keyed” approach so each operation has a unique ID. **Whatever it is, the important part is that persistence.**
+**This is obviously not copy/paste ready for use.** There are all sorts of things wrong with that sample, like the fact the session data is never cleared, we don't have the ability to handle multiple windows running multiple operations at a time, and so on. The idea holds, though – you need to persist the form data somewhere so you can send the user over to be challenged and then resume the operation when you come back. Maybe you can create a service that holds that information in a database; maybe you invent a backing store in session that has a more "keyed" approach so each operation has a unique ID. **Whatever it is, the important part is that persistence.**
 
 OK, so now we have a custom result, a filter that looks for that result and sends the user to be challenged, and a controller that uses some business logic to determine if the user needs the challenge.
 
 **The next piece is the challenge controller.** This is the controller that asks the user a question, prompts for credentials, or whatever, and resumes the operation once the user successfully answers.
 
-I won’t put the whole controller in here – that’s up to you. But on successfully answering the question, that’s the tricky bit. If you’re doing things right, you’re not doing anything “important” (deleting records, modifying data) on a GET request, so you will need to issue a POST to the appropriate endpoint. You also have to mark the operation as authorized so the POST to the original controller will skip the challenge.
+I won't put the whole controller in here – that's up to you. But on successfully answering the question, that's the tricky bit. If you're doing things right, you're not doing anything "important" (deleting records, modifying data) on a GET request, so you will need to issue a POST to the appropriate endpoint. You also have to mark the operation as authorized so the POST to the original controller will skip the challenge.
 
 And don't forget handling the unauthorized scenario - if the user fails the challenge, you don't want them to be able to "go back and try again"so you need to clear out all the state related to the operation.
 
@@ -196,7 +196,7 @@ public class ChallengeController : Controller
 }
 ```
 
-**Again, this is not copy/paste ready.** It’s just to show you the general premise – if they fail the challenge, you need to remember to clean things up and totally deny access; if they succeed, authorize the challenge and send them on their way.
+**Again, this is not copy/paste ready.** It's just to show you the general premise – if they fail the challenge, you need to remember to clean things up and totally deny access; if they succeed, authorize the challenge and send them on their way.
 
 **The final question is in that Success view how to resume the transaction.** The easiest way is to issue a very tiny view with a POST action to the original location and auto-submit it via script. That might look something like this:
 
@@ -219,7 +219,7 @@ public class ChallengeController : Controller
 
 Nothing too fancy, but works like a charm.
 
-Now when the user succeeds, this form will load up, a POST will be issued back to the original controller doing work, and since the authorization value is set, the user won’t be challenged again – everything will just succeed.
+Now when the user succeeds, this form will load up, a POST will be issued back to the original controller doing work, and since the authorization value is set, the user won't be challenged again – everything will just succeed.
 
 Last thing to do – register that challenge filter in the global filters collection. That way when you issue the challenge result from your controller, the filter will catch it and do the redirect.
 
@@ -237,18 +237,18 @@ public class FilterConfig
 }
 ```
 
-**You're done!** You’re now using the `IAuthenticationFilter` to issue a challenge to verify a transaction prior to committing it. This is what I see the primary value of the new `IAuthenticationFilter` as being, though I wish there was a bit more guidance around it.
+**You're done!** You're now using the `IAuthenticationFilter` to issue a challenge to verify a transaction prior to committing it. This is what I see the primary value of the new `IAuthenticationFilter` as being, though I wish there was a bit more guidance around it.
 
-**There’s a huge, huge ton of room for improvement in the stuff I showed you above. Please, please, please do not just copy/paste it into your app and start using it like it’s production-ready.** You need to integrate your own business logic for challenging people. You need to make sure people can’t start two different transactions, authorize one, and then complete the other one. You need to protect yourself against [all the standard OWASP stuff](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project). What I’ve shown you here is proof-of-concept spike level stuff that probably would have been really difficult to follow if I put in all the bells and whistles. I’ll leave that as an exercise to the reader.
+**There's a huge, huge ton of room for improvement in the stuff I showed you above. Please, please, please do not just copy/paste it into your app and start using it like it's production-ready.** You need to integrate your own business logic for challenging people. You need to make sure people can't start two different transactions, authorize one, and then complete the other one. You need to protect yourself against [all the standard OWASP stuff](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project). What I've shown you here is proof-of-concept spike level stuff that probably would have been really difficult to follow if I put in all the bells and whistles. I'll leave that as an exercise to the reader.
 
-> *Minor aside*: It seems to me that there’s some ambiguity between
-> “authentication” and “authorization” here. The `AuthorizeAttribute`
-> sort of mixes the two, determining both if the user’s authenticated
+> *Minor aside*: It seems to me that there's some ambiguity between
+> "authentication" and "authorization" here. The `AuthorizeAttribute`
+> sort of mixes the two, determining both if the user's authenticated
 > (they have identified themselves) and, optionally, if the user is in a
 > specific role or has a specific name. The `IAuthenticationFilter` runs
 > before authorization, which is correct, but with the addition of the
-> ability to challenge built in… it seems that it’s more suited to
-> authorization – I’ve already proved who I am, but I may need to be
+> ability to challenge built in... it seems that it's more suited to
+> authorization – I've already proved who I am, but I may need to be
 > challenged to elevate my privileges or something, which is an
 > authorization thing.
 

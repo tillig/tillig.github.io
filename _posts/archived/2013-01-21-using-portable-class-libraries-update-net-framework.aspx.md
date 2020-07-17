@@ -32,12 +32,12 @@ instance running, you may think you have the latest **but you might
 not**. If it looks like you're all patched up but still seeing the
 error, **make sure you've checked online for updates**.
 
-See here, it *looks* like I've got the latest…
+See here, it *looks* like I've got the latest...
 
 ![Check online for updates from Microsoft
 Update]({{ site.url }}/images/20130121_wsus.png)
 
-…but really, I'm missing several updates.
+...but really, I'm missing several updates.
 
 ![After checking online, several updates were
 missing]({{ site.url }}/images/20130121_wsus2.png)

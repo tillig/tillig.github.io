@@ -6,19 +6,19 @@ comments: true
 disqus_identifier: 1844
 tags: [net,aspnet]
 ---
-In working with a REST API project I’m on, I was tasked to create a
+In working with a REST API project I'm on, I was tasked to create a
 DELETE operation that would take the resource ID in the URL path, like:
 
 `DELETE /api/someresource/reallylongresourceidhere HTTP/1.1`
 
 The resource ID we had was really, really long base-64 encoded value.
-About 750 characters long. No, don’t bug me about why that was the case,
-just… stick with me. I had to get it to work in IIS and OWIN hosting.
+About 750 characters long. No, don't bug me about why that was the case,
+just... stick with me. I had to get it to work in IIS and OWIN hosting.
 
-**STOP. STOP RIGHT HERE. I’m going to tell you some ways to tweak URL
+**STOP. STOP RIGHT HERE. I'm going to tell you some ways to tweak URL
 request validation. This is a security thing. Security is Good. IN THE
-END, I DIDN’T DO THESE. I AM NOT RECOMMEDING YOU DO THEM.** But, you
-know, if you run into one of the issues I ran into… here are some ways
+END, I DIDN'T DO THESE. I AM NOT RECOMMEDING YOU DO THEM.** But, you
+know, if you run into one of the issues I ran into... here are some ways
 you can work around it *at your own risk*.
 
 **Problem 1: The Overall URL Length**
@@ -37,16 +37,16 @@ Setting that `maxUrlLength` value got me past the first hurdle.
 
 **Problem 2: URL Decoding**
 
-Base 64 includes the “/” character – the path slash. Even if you encode
-it on the URL like this…
+Base 64 includes the "/" character – the path slash. Even if you encode
+it on the URL like this...
 
 `/api/someresource/abc%2Fdef%2fghi`
 
-…when .NET reads it, it gets entirely decoded:
+...when .NET reads it, it gets entirely decoded:
 
 `/api/someresource/abc/def/ghi`
 
-…which then, of course, got me a 404 Not Found because my route wasn’t
+...which then, of course, got me a 404 Not Found because my route wasn't
 set up like that.
 
 [This is also something you can control through
@@ -67,7 +67,7 @@ decoded (so I can get routing working), the last hurdle is...
 **Problem 3: Max Path Segment Length**
 
 The key, if you recall, is about 750 characters long. I can have a URL
-come through that’s 2048 characters long, but there’s still validation
+come through that's 2048 characters long, but there's still validation
 on each path segment length.
 
 [The tweak for this is in the
@@ -82,16 +82,16 @@ effect.
 This is the part that truly frustrated me. Even running in the
 standalone OWIN host, this value is still used. I thought OWIN and OWIN
 hosting was getting us away from IIS, but **the low-level http.sys is
-still being used in there somewhere**. I guess I just didn’t realize
+still being used in there somewhere**. I guess I just didn't realize
 that and maybe I should have. I mean, .NET is all just wrappers on
 unmanaged crap anyway, right? :)
 
 **WHAT I ENDED UP DOING**
 
-Having to do all that to get this working set me on edge. I don’t mind
+Having to do all that to get this working set me on edge. I don't mind
 increasing, say, the max URL length, but I had to tweak a lot, and that
 left me with a bad taste in my mouth. Deployment pain, potential
-security pain… not worth it.
+security pain... not worth it.
 
 Since we had control over how the resource IDs were generated in the
 first place, **I changed the algorithm so we could fit them all under

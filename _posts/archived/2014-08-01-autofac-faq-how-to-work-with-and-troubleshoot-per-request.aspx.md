@@ -14,11 +14,11 @@ To help folks out, [I wrote up a fairly comprehensive document on the
 Autofac doc site addressing the various questions around per-request
 dependencies](http://autofac.readthedocs.io/en/latest/faq/per-request-scope.html).
 
-We’re still working on porting over the [wiki
+We're still working on porting over the [wiki
 content](https://github.com/autofac/Autofac/wiki) into the [doc
 site](http://autofac.readthedocs.io/). While that is going on, things
-are a little “split” between the two sites. If the content is on the doc
-site, go for that over the wiki. The doc site has content that’s a
+are a little "split" between the two sites. If the content is on the doc
+site, go for that over the wiki. The doc site has content that's a
 little more robust and detailed than the wiki had (which is part of the
 desire to move to the doc site).
 

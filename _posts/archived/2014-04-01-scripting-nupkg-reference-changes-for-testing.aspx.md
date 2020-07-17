@@ -9,11 +9,11 @@ tags: [net]
 I was testing out some changes to versioning in
 [Autofac](https://github.com/autofac/Autofac). We have [a MyGet
 feed](https://www.myget.org/gallery/autofac), but all of the internal
-dependencies of the various NuGet packages when they’re built point to
-the CI versions, so it’s sort of hard to stage a test of what things
-will look like when they’re released – you have to rename each .nupkg
-file to remove the “-CI-XYZ” build number, open each .nupkg file, change
-the internal .nuspec file to remove the “-CI-XYZ” build number info,
+dependencies of the various NuGet packages when they're built point to
+the CI versions, so it's sort of hard to stage a test of what things
+will look like when they're released – you have to rename each .nupkg
+file to remove the "-CI-XYZ" build number, open each .nupkg file, change
+the internal .nuspec file to remove the "-CI-XYZ" build number info,
 then re-zip everything up. In testing, I had to do this a few times, so
 I scripted it.
 
@@ -21,7 +21,7 @@ I put everything in a folder structure like this:
 
 -   \~/TestFeed
     -   backup – contains all of the original .nupkg files (renamed
-        without the “-CI-XYZ”)
+        without the "-CI-XYZ")
     -   msbuildcommunitytasks – contains the [MSBuild Community
         Tasks](https://github.com/loresoft/msbuildtasks) set
 
@@ -37,15 +37,15 @@ backup folder) into the test feed folder.
 
 One of the challenges I ran into was that the zip task in MSBuild
 Community Tasks seemed to always want to add an extra level of folders
-into the .nupkg – I couldn’t get the original contents to live right at
+into the .nupkg – I couldn't get the original contents to live right at
 the root of the package. Rather than fight it, I used 7-Zip to do the
 re-zipping. I probably could have gotten away from the MSBuild Community
 Tasks entirely had I some form of `sed` on my machine because I needed
-that `FileUpdate` task. But… Windows. And, you know, path of least
+that `FileUpdate` task. But... Windows. And, you know, path of least
 resistance. I think this was a five-minute thing. Took longer to write
 this blog entry than it did to script this.
 
-Here’s “fixrefs.proj”:
+Here's "fixrefs.proj":
 
     <?xml version="1.0" encoding="utf-8"?>
     <Project DefaultTargets="All" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">

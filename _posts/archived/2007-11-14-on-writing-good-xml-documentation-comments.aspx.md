@@ -22,12 +22,12 @@ amazed at how many people don't even know what Reflector is.
 **TL;DR - THE GOLDEN RULES OF DOCUMENTATION** There's a lot here. If you
 don't take anything else away, please at least take these two things:
 
--   **Write like it’s MSDN.** After you write the documentation, read it
+-   **Write like it's MSDN.** After you write the documentation, read it
     back to yourself, maybe even out loud. Does it sound like something
-    you’d read from MSDN? How’s the grammar? They have smart people
+    you'd read from MSDN? How's the grammar? They have smart people
     writing docs over there - learn from them the same as you "View
     Source" to learn good HTML.
--   **Write like the reader doesn’t have the source code.** Write the
+-   **Write like the reader doesn't have the source code.** Write the
     doc, then collapse all the method definitions so all you see is XML
     doc. Go get a coffee. Come back. Now read the documentation. Does it
     tell you everything you will need to know to work with the function?

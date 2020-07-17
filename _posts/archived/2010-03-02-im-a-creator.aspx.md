@@ -17,15 +17,15 @@ accurate. Here's my result (along with a description of the test):
 
 > The Dewey Color System® is now the world's most accurate career
 > testing instrument. This report based on your personality traits
-> indicates your two most enjoyable day-day-day occupation skills. It’s
+> indicates your two most enjoyable day-day-day occupation skills. It's
 > a summary of the full report, the Color Leadership Evaluation 5.0.
 >
 > Studies indicate workplace enjoyment is the key to success. So as you
 > read, consider only "Was I mostly having fun at work?" Disregard your
-> present and past employer’s environment.
+> present and past employer's environment.
 >
-> **Best Occupational Category 
-> You're a CREATOR** 
+> **Best Occupational Category
+> You're a CREATOR**
 > Keywords: Nonconforming, Impulsive, Expressive, Romantic, Intuitive,
 > Sensitive, and Emotional
 >
@@ -36,7 +36,7 @@ accurate. Here's my result (along with a description of the test):
 > writing or places where they can express, assemble, or implement
 > creative ideas.
 >
-> CREATOR OCCUPATIONS 
+> CREATOR OCCUPATIONS
 > Suggested careers are Advertising Executive, Architect, Web Designer,
 > Creative Director, Public Relations, Fine or Commercial Artist,
 > Interior Decorator, Lawyer, Librarian, Musician, Reporter, Art
@@ -44,7 +44,7 @@ accurate. Here's my result (along with a description of the test):
 > Photographer, Medical Illustrator, Corporate Trainer, Author, Editor,
 > Landscape Architect, Exhibit Builder, and Package Designer.
 >
-> CREATOR WORKPLACES 
+> CREATOR WORKPLACES
 > Consider workplaces where you can create and improve beauty and
 > aesthetic qualities. Unstructured, flexible organizations that allow
 > self-expression work best with your free-spirited nature.
@@ -55,8 +55,8 @@ accurate. Here's my result (along with a description of the test):
 > schools. Other workplaces to consider are art institutes, museums,
 > libraries, and galleries.
 >
-> **2nd Best Occupational Category 
-> You're a DOER** 
+> **2nd Best Occupational Category
+> You're a DOER**
 > Keywords: Emotionally Stable, Reliable, High Energy, Practical,
 > Thrifty, and Persistent
 >

@@ -43,7 +43,7 @@ bears?"
 "I not dragon, I princen." Hard "s" is also difficult, so "princess"
 becomes "princen."
 
-"Yes, you're a princess… are you princess of the dragons?" I think you
+"Yes, you're a princess... are you princess of the dragons?" I think you
 *Game of Thrones* folks see where I'm going with this.
 
 "I princen of dragons!"
@@ -60,7 +60,7 @@ Dammit. "Why not?"
 
 "Dragons scared of bears."
 
-Are you freaking kidding me? "Are you sure?" Then, out of nowhere…
+Are you freaking kidding me? "Are you sure?" Then, out of nowhere...
 
 "PA-KOW! PA-KOW! I shoot bear!"
 
@@ -70,6 +70,6 @@ Wait, what? "Phoe, you *shot* the bear?"
 
 "PA-KOW! I shoot bear!"
 
-Um. Well, uh… I'm not really sure where she picked that one up, but… I
-guess… bear problem solved, right?
+Um. Well, uh... I'm not really sure where she picked that one up, but... I
+guess... bear problem solved, right?
 

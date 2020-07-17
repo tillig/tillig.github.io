@@ -10,7 +10,7 @@ I've spent the last week working on getting NCover 3.4.2 (and, later, 3.4.3) wor
 
 One of the shortcomings I've found with NCover is that **it's really hard to get a simple set of summary coverage numbers from inside the build script**. It's pretty well geared around dumping out reports and summaries in XML or HTML, but even then, the XML summaries don't have all the numbers in an easily consumable format.
 
-Further, the new division between the "Classic" licenses (ostensibly for the everyday dev) and the "Complete" licenses (for your build server) give us the fact that **only the "Complete" license supports failing the build based on coverage**. I'm not sure why, that’s just how it is. Oh, and the "Complete" license costs over twice what the "Classic" license costs, so it’s a little cost-prohibitive to buy all your devs a "Complete" license just so they can fail a local build.
+Further, the new division between the "Classic" licenses (ostensibly for the everyday dev) and the "Complete" licenses (for your build server) give us the fact that **only the "Complete" license supports failing the build based on coverage**. I'm not sure why, that's just how it is. Oh, and the "Complete" license costs over twice what the "Classic" license costs, so it's a little cost-prohibitive to buy all your devs a "Complete" license just so they can fail a local build.
 
 Unfortunately, that doesn't really work for me. I'm going to run unit tests on my local machine before I check my code into the repo so I don't break the build. I kind of also want to know if I'm going to break the build because I went under the minimum coverage requirements.
 
@@ -46,7 +46,7 @@ On with the show.
 
 **Run your tests with the `<NCover>` MSBuild task and get your coverage numbers.**
 
-Your build script will have some properties set up and you'll use the `<NCover>` task to run NUnit or whatever. I won’t get into the details on this one because this is the easy part.
+Your build script will have some properties set up and you'll use the `<NCover>` task to run NUnit or whatever. I won't get into the details on this one because this is the easy part.
 
 ```xml
 <PropertyGroup>

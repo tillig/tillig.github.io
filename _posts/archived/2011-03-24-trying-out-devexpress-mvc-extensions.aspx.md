@@ -196,7 +196,7 @@ but I couldn't figure out how I'd localize that text.
 > `<td style="width:100%;">Last Name</td><td style="padding-left:5px;"><img class="dxGridView_gvHeaderSortUp" src="/DXR.axd?r=1_3-uURn2" alt="(Ascending)" style="border-width:0px;" /></td>`
 
 I admittedly didn't put a load of time into researching it, and with **a
-settings object that has \~60 properties**, I'm sure it's possible… but
+settings object that has \~60 properties**, I'm sure it's possible... but
 I could spend all day on this thing and there is more stuff to look at,
 so I didn't dwell on it. It did occur to me that with so many settings,
 there's probably a heck of a learning curve figuring out what all of

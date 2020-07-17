@@ -11,12 +11,12 @@ is going on April 16 and 17 at the Portland Convention Center. I'll be
 speaking in the Developer track on "Unit Testing with TypeMock."
 
 > Unit testing checks the behavior of the code you write by testing just
-> that code, isolated from the rest of the system. It’s complementary to
+> that code, isolated from the rest of the system. It's complementary to
 > integration testing and is an important step toward ensuring
 > reliability of the entire system in production. Unfortunately, not
 > everything is designed with testability in mind. Third-party
 > dependencies can throw a wrench in the works. You may need to add
-> tests for legacy code that isn’t easily isolated. And what if the
+> tests for legacy code that isn't easily isolated. And what if the
 > public-facing methods and properties on your code make it easy to use
 > but hard to test? This session will show you how to have your unit
 > testing cake and eat it, too, using NUnit and TypeMock.

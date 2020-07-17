@@ -9,7 +9,7 @@ tags: [net,vs]
 In working on some NuGet packages, one thing I wanted to do was set up
 some configuration files in preparation for
 [SlowCheetah](http://nuget.org/packages/SlowCheetah/) integration.
-Instead of seeing a folder structure like this in the project…
+Instead of seeing a folder structure like this in the project...
 
 -   \~/Config
     -   MyConfig.config
@@ -95,7 +95,7 @@ Install.ps1:
     $releaseConfig.Properties.Item("ItemType").Value = "None"
     $baseConfig.ProjectItems.AddFromFile($releaseConfig.Properties.Item("FullPath").Value)
 
-What this does is switch this .csproj snippet…
+What this does is switch this .csproj snippet...
 
     <ItemGroup>
       <Content Include="MyConfig.config" />
