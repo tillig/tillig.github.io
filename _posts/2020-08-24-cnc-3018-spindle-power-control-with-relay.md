@@ -49,7 +49,7 @@ Cut the extension cord so you can get some wires connected to the plugs. I cut a
 - A female plug with about 12 inches of cord
 - A long strand that came from the middle of the cord
 
-You can leave _more_ cord connected to the plugs if you want. Just make sure you leave enough that you can make a good We don't need that strand from the middle of the cord. You can save it and do something else with it or you can throw it away.
+You can leave _more_ cord connected to the plugs if you want. Just make sure you leave enough that you can make a good splice and have some slack to plug in. We don't need that strand from the middle of the cord. You can save it and do something else with it or you can throw it away.
 
 The extension cord will have an outer insulation/wrap and three wires inside it. Each wire also has insulation around it. Likely they'll be color coded - green is ground, black is "hot" or "active," and white is neutral. The black and white wires are what effectively makes the circuit powering your router, so we're going to insert the relay in the middle of one of those to act like a switch. I chose to put the relay in the middle of the white wire.
 
