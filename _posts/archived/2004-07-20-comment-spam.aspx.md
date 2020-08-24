@@ -4,7 +4,7 @@ title: "Comment Spam"
 date: 2004-07-20 -0800
 comments: true
 disqus_identifier: 626
-tags: [General Ramblings]
+tags: [blog]
 ---
 I have finally been deemed popular enough to receive stupid blog comment
 spam. I've gotten probably five or six in the last week. I turned up the

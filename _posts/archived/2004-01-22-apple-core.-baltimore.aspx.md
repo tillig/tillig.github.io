@@ -4,7 +4,7 @@ title: "Apple Core... Baltimore..."
 date: 2004-01-22 -0800
 comments: true
 disqus_identifier: 470
-tags: [General Ramblings]
+tags: [personal]
 ---
 I have one of those apple slicing/coring devices at work. I hate eating
 apples whole, but love apple slices (odd? maybe).

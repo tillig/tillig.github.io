@@ -4,7 +4,7 @@ title: "Money Well Spent"
 date: 2004-01-26 -0800
 comments: true
 disqus_identifier: 476
-tags: [General Ramblings]
+tags: [home]
 ---
 As I [progress towards buying a
 house](/archive/2004/01/25/progress-towards-the-house.aspx), I realize

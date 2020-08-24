@@ -4,7 +4,7 @@ title: "Vacation in San Andreas, Day 2"
 date: 2004-11-03 -0800
 comments: true
 disqus_identifier: 689
-tags: [General Ramblings]
+tags: [playstation,gaming]
 ---
 Day 2 in San Andreas was reasonably eventful.
 

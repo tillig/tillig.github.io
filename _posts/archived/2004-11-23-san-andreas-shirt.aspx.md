@@ -4,7 +4,7 @@ title: "San Andreas Shirt"
 date: 2004-11-23 -0800
 comments: true
 disqus_identifier: 701
-tags: [General Ramblings]
+tags: [playstation,gaming]
 ---
 ![Sporting the family
 colors]({{ site.url }}/images/20041123sashirt.jpg)I

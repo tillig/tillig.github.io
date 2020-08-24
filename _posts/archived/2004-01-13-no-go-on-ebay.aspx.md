@@ -4,7 +4,7 @@ title: "No Go On eBay"
 date: 2004-01-13 -0800
 comments: true
 disqus_identifier: 451
-tags: [General Ramblings]
+tags: [personal]
 ---
 My eBay item (well, *items*, since it was a set of 10 shirts) didn't
 sell. In fact, it didn't get to half of my reserve price, which could

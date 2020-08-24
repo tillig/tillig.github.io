@@ -4,7 +4,7 @@ title: "Fat, Fat, Fat"
 date: 2004-01-16 -0800
 comments: true
 disqus_identifier: 457
-tags: [General Ramblings]
+tags: [personal]
 ---
 There's an [interesting article in the *Willamette
 Week*](http://www.wweek.com/flatfiles/News4727.lasso) local newspaper

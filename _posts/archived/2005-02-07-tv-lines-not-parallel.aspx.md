@@ -4,7 +4,7 @@ title: "TV Lines Not Parallel"
 date: 2005-02-07 -0800
 comments: true
 disqus_identifier: 741
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 My [television
 woes](/archive/2005/02/02/geomagnetic-television-distortion.aspx) are

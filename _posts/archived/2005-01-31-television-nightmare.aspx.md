@@ -4,7 +4,7 @@ title: "Television Nightmare"
 date: 2005-01-31 -0800
 comments: true
 disqus_identifier: 737
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 [I love my TV.](/archive/2002/10/07/a-forty-inch-weekend.aspx) Love it.
 I bought it two years ago and haven't looked back.

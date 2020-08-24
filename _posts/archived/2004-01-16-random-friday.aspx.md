@@ -4,7 +4,7 @@ title: "Random Friday"
 date: 2004-01-16 -0800
 comments: true
 disqus_identifier: 455
-tags: [General Ramblings]
+tags: [personal]
 ---
 I was listening to a [local radio station](http://www.1051thebuzz.com/)
 yesterday on my hour-and-forty-five-minute commute (to go 14 miles) and

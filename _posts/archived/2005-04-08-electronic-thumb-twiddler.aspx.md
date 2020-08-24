@@ -4,7 +4,7 @@ title: "Electronic Thumb Twiddler"
 date: 2005-04-08 -0800
 comments: true
 disqus_identifier: 784
-tags: [General Ramblings]
+tags: [personal]
 ---
 Someone needs to make a combination of the [Powerball
 Gyroscope](http://www.powerballs.com/) and a
@@ -15,5 +15,5 @@ thumbs *for you*. There could be a web site where people post their TPM
 my thumbs at 11,000 times per minute!" Work meetings would take on a
 whole new dimension. There'd be a constant subtle hum as everyone in the
 room worked on their twiddle rankings.
- 
+
  A revolution, I tell you!

@@ -4,7 +4,7 @@ title: "Progress Towards The House"
 date: 2004-01-25 -0800
 comments: true
 disqus_identifier: 474
-tags: [General Ramblings,home]
+tags: [personal,home]
 ---
 Jenn and I have been working to get ourselves together so we can get a
 house. (I've probably mentioned that before...) We've been getting our

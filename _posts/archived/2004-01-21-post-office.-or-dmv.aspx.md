@@ -4,7 +4,7 @@ title: "Post Office... Or DMV?"
 date: 2004-01-21 -0800
 comments: true
 disqus_identifier: 465
-tags: [General Ramblings]
+tags: [personal]
 ---
 I went to the post office yesterday to mail off my first
 [eBay](http://www.ebay.com) sale and was dismayed at the whole

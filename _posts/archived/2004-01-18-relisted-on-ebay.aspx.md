@@ -4,7 +4,7 @@ title: "Relisted On eBay"
 date: 2004-01-18 -0800
 comments: true
 disqus_identifier: 461
-tags: [General Ramblings]
+tags: [personal]
 ---
 I've gone through and re-listed all of my t-shirts (individually, this
 time) on [eBay](http://www.ebay.com). Since the "lot of 10" didn't sell,

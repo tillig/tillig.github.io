@@ -4,7 +4,7 @@ title: "Let It Snow"
 date: 2004-01-06 -0800
 comments: true
 disqus_identifier: 436
-tags: [General Ramblings]
+tags: [personal]
 ---
 I'm not much for cold weather, but that's usually not a problem living
 in Oregon. It rains a lot, it's dreary sometimes, but it never really

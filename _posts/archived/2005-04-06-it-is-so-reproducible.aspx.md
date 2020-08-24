@@ -4,7 +4,7 @@ title: "It Is SO Reproducible"
 date: 2005-04-06 -0800
 comments: true
 disqus_identifier: 782
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 I went down to Sharper Video (the TV repair shop) at noon to verify with
 my own eyes that the problems I was seeing aren't there anymore. I took

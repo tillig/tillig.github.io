@@ -4,7 +4,7 @@ title: "TV Gone To Shop"
 date: 2005-03-29 -0800
 comments: true
 disqus_identifier: 775
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 They just came and got the TV for repair. Took three guys, one of which
 said something about this being the heaviest TV he's had to deal with. I

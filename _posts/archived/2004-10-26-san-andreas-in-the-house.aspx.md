@@ -4,7 +4,7 @@ title: "San Andreas In The House"
 date: 2004-10-26 -0800
 comments: true
 disqus_identifier: 683
-tags: [General Ramblings]
+tags: [playstation,gaming]
 ---
 I have, in my grubby little hands...
 
