@@ -343,7 +343,17 @@ Important things to note in the configuration file here:
 - The `redis_connection_url` is going to depend on how you deployed Redis. You want to connect to the Kubernetes `Service` that points to the `master`, at least in this demo setup. [There are a lot of Redis config options for oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy/blob/master/docs/configuration/configuration.md) that you can tweak. Also, **storing passwords in config like this isn't secure** so, like, do something better. But it's also a lot more to explain how to set up and mount secrets and all that here, so just pretend we did the right thing.
 - The `pass_access_token`, `pass_authorization_header`, `set_authorization_header`, and `skip_jwt_bearer_tokens` values are _super key here_. The first three must be set that way for OIDC or OAuth to work; the last one must be set for client_credentials to work.
 
-Once oauth2-proxy is set up, you need to add the Istio wrappers on it.
+**Note on client_credentials**: If you want to use `client_credentials` with your app, you need to set up an authenticated emails file in oauth2-proxy. In that emails file, you need to include the _service principal ID_ for the application that's authenticating. Azure AD issues a token for applications with that service principal ID as the subject, and there's no email.
+
+The service principal ID can be retrieved if you have your application ID:
+
+```powershell
+az ad sp show --id APPLICATION-ID-GUID --query objectId --out tsv
+```
+
+You'll also need your app to request a scope when you submit a `client_credentials` request - use `api://APPLICATION-ID-GUID/.default` as the scope. (That `.default` scope won't exist unless you have _some scope defined_, which is why you defined one earlier.)
+
+Getting back to it... Once oauth2-proxy is set up, you need to add the Istio wrappers on it.
 
 First, let's add that `VirtualService`...
 
