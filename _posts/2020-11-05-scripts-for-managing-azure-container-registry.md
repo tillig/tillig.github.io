@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scripts for Managing Azure Container Registry"
-date: 2020-11-05 -0800
+date: 2020-11-05 08:00:00 -0800
 comments: true
 tags: [azure,docker,powershell]
 description: "A few helpful scripts for working with creating and managing Azure Container Registry instances."
