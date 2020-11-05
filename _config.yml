@@ -8,7 +8,7 @@ url: https://www.paraesthesia.com
 title: Travis Illig
 subtitle: "Paraesthesia: .NET Development and Some Pictures of My Cat"
 gravatar_url: https://s.gravatar.com/avatar/5b473ad19f5781cd5f17a65a670f3b37
-subscribe_rss: https://feedproxy.google.com/Paraesthesia
+subscribe_rss: https://feeds.feedburner.com/Paraesthesia
 locale: en_US
 
 # Github repositories
@@ -19,9 +19,6 @@ github_repo_url: https://github.com/tillig/tillig.github.io/
 twitter_user: tillig
 twitter_tweet_button: true
 
-# Google +
-google_user: tillig
-
 # LinkedIn
 linkedin_user: tillig
 
@@ -30,7 +27,7 @@ disqus_short_name: paraesthesia
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id: UA-1285161-1
+google_analytics_tracking_id: G-9CWZL1Q884
 
 
 #
