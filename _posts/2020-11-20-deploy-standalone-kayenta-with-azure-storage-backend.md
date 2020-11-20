@@ -496,3 +496,5 @@ How you do this for your template is very subjective. Pipelines at this level ar
 **Secure it!**: You probably don't want public anonymous access to the Kayenta API. [I locked mine down with oauth2-proxy and Istio]({% post_url 2020-09-03-setting-up-oauth2-proxy-with-istio %}) but you could do it with nginx ingress and oauth2-proxy or some other mechanism.
 
 **Put a UI on it!**: As you can see, configuring Kayenta canaries without a UI is actually pretty hard. [Nike has a UI for standalone Kayenta called "Referee"](https://github.com/Nike-Inc/referee). At the time of this writing [there's no Docker container for it](https://github.com/Nike-Inc/referee/issues/70) so it's not as easy to deploy as you might like. However, [there is a Dockerfile gist](https://gist.github.com/StephenWeber/7f24bb22b6448959bf0ec36ac7bcf3c2) that might be helpful. I have not personally got this working, but it's on my list of things to do.
+
+**Huge props to my buddy Chris** who figured _a lot_ of this out, especially the canary configuration and Azure DevOps integration pieces.
