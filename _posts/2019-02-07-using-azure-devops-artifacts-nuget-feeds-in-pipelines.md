@@ -13,7 +13,7 @@ Working with a private feed from a developer machine running builds from the com
 
 However, getting this to work from a pipeline build is challenging. Once you've published a package, you may want to consume it from something else you're building... but the feed is secured. What do you do?
 
-> I'm told there are improvements for this coming in Q2 2019. I can't quantify what those improvements are, but it may mean things start to "just work." Until then, here are ways to work around the challenges.
+> At the time of writing in this article (February 2019) I was told the second half of 2019 would include some improvements to this. It appears there's a new [`NuGetAuthenticate` task](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/package/nuget-authenticate?view=azure-devops) that might be helpful here. I'm also unclear if any changes have been made in how the `NuGetCommand` or `DotNetCoreCLI` tasks deal with authentication. I'll leave this article as it was for reference. Note as of May 2021, I'm _still_ using option #3 below and it still works.
 
 # Option 1: Separate Restore from Build
 
@@ -43,10 +43,9 @@ Now...
 - Follow the instructions [in the readme](https://github.com/Microsoft/artifacts-credprovider/blob/master/README.md) to find the self-contained executable version of the credential provider in the archive you just downloaded.
 - Extract the credential provider to somewhere in the source you'll be building. Maybe a separate `build` folder.
 - As part of your build pipeline, you'll need to...
-    - Set the `NUGET_CREDENTIALPROVIDERS_PATH` to point to the `build` folder in your checked-out source that contains the provider.
-    - On Linux, you may need to `chmod +x` that provider.
-    - Set the `VSS_NUGET_EXTERNAL_FEED_ENDPOINTS` to indicate the location of your external NuGet feed and provide the system access token. It takes a JSON format: `{"endpointCredentials": [{"endpoint":"http://example.index.json",
-        "username":"vsts", "password":"$(System.AccessToken)"}]}`
+  - Set the `NUGET_CREDENTIALPROVIDERS_PATH` to point to the `build` folder in your checked-out source that contains the provider.
+  - On Linux, you may need to `chmod +x` that provider.
+  - Set the `VSS_NUGET_EXTERNAL_FEED_ENDPOINTS` to indicate the location of your external NuGet feed and provide the system access token. It takes a JSON format: `{"endpointCredentials": [{"endpoint":"http://example.index.json", "username":"vsts", "password":"$(System.AccessToken)"}]}`
 
 In the `VSS_NUGET_EXTERNAL_FEED_ENDPOINTS` you'll notice the use of the `$(System.AccessToken)` variable. That's a [predefined system variable](https://docs.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops#system-variables) in Azure DevOps build pipelines. You'll see that again later.
 
