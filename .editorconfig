@@ -1,0 +1,27 @@
+; EditorConfig to support per-solution formatting.
+; Use the EditorConfig VS add-in to make this work.
+; http://editorconfig.org/
+
+; This is the default for the codeline.
+root = true
+
+[*]
+indent_style = space
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+; Config - match XML and default nuget.config template
+[*.config]
+indent_size = 2
+
+; HTML, XML - match defaults for VS
+[*.{cshtml,html,xml}]
+indent_size = 4
+
+; JavaScript and JS mixes - match eslint settings; JSON also matches .NET Core templates
+[*.{js,json,ts,vue}]
+indent_size = 2
+
+; Markdown - match markdownlint settings
+[*.{md,markdown}]
+indent_size = 2
