@@ -11,6 +11,8 @@ For Christmas last year Jenn got me a [SainSmart 3018 CNC router](https://amzn.t
 
 I've been getting into it enough that I wanted to upgrade the spindle in it, and my parents got me a [Makita RT0701C trim router](https://amzn.to/32jNT7g). This is a fairly common upgrade path - replacing the stock spindle with a Makita or DeWalt router - and you'll see it in larger setups like [the Shapeoko XXL](https://carbide3d.com/shapeoko/).
 
+> **IMPORTANT UPDATE**: After posting this article I found that, while I was successful in getting the router mounted and generally working in 2D carving (like making letters on a sign), when doing 3D carving I lost Z height a lot. After a lot of trial and error I determined that the SainSmart 3018 PRO _does not have strong enough stepper motors_ to drive the weight of the Makita router. Later models like the 3018PROVer _do_ have the strength, which is why you see so many folks successful with this. For me, I ended up reverting my 3018 back to the stock spindle and [upgrading to a Sienci LongMill 30 x 30](https://sienci.com/product/longmill/) which is where I've got my Makita router now.
+
 There are two challenges to overcome when you upgrade the spindle to a router like this.
 
 First, you have to figure out how to mount the router to the CNC frame. I solved this by creating a 3D printed [combination holder and dust shoe, which you can get on Thingiverse](https://www.thingiverse.com/thing:4570845).
