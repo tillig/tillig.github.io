@@ -6,7 +6,7 @@ comments: true
 tags: [halloween,costumes]
 description: "We got 140 trick-or-treaters in 2021. Here's how the data breaks down year over year."
 ---
-This year we had 140 trick-or-treaters. This is slightly below average for us, but I can't complain since it's the first year after COVID-19.
+This year we had 140 trick-or-treaters. This is pretty low for us, but I can't complain since it's the first year after COVID-19.
 
 ![2021: 140 trick-or-treaters.]({{ site.url }}/images/20211102_trickortreatcount.png)
 
