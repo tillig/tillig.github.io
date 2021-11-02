@@ -8,14 +8,13 @@ description: "We got 190 trick-or-treaters in 2019. Here's how the data breaks d
 ---
 This year we had 190 trick-or-treaters. This amount is about average for us.
 
-![2019: 190
-trick-or-treaters.]({{ site.url }}/images/20191101_trickortreatcount.png)
+![2019: 190 trick-or-treaters.]({{ site.url }}/images/20191101_trickortreatcount.png)
 
 ![Average Trick-or-Treaters by Time Block]({{ site.url }}/images/20191101_trickortreateraverage.png)
 
 ![Year-Over-Year Trick-or-Treaters]({{ site.url }}/images/20191101_yearoveryeartrickortreater.png)
 
-Halloween was on a Thursday and and the weather was fairly clear. We had some friends come over so there was a small group who went out walking the streets for candy and another small group who stayed home and handed out candy. I was in the "stay home" group.
+Halloween was on a Thursday and the weather was fairly clear. We had some friends come over so there was a small group who went out walking the streets for candy and another small group who stayed home and handed out candy. I was in the "stay home" group.
 
 I noticed I don't have 2017 or 2018 data.
 
