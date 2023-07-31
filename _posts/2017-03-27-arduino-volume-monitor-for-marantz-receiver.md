@@ -19,7 +19,7 @@ We had no problem with the OSD in standard 1080p HD format, once we got a 4K TV,
 
 Here's a video where you can see it in action.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8WN-ZNZASWc" frameborder="0" allowfullscreen></iframe>
+[![Volume monitor in action](https://img.youtube.com/vi/8WN-ZNZASWc/0.jpg)](https://www.youtube.com/watch?v=8WN-ZNZASWc)
 
 # Parts
 
