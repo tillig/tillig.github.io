@@ -5,13 +5,11 @@
 		{{ content | excerpt }}
 		{% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
 		{% if excerpted == 'true' %}<a href="{{ post.url }}" class="more-link">{{ site.excerpt_link }}</a>{% endif %}
-		{% include article_adsense.html %}
 	</div>
 {% else %}
 	<h1 class="title" itemprop="name">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
 	{% include post/meta.html %}
 	<div class="entry-content" itemprop="articleBody">
 	{{ content }}
-	{% include article_adsense.html %}
 	</div>
 {% endif %}
