@@ -31,7 +31,7 @@ Now go back to the main VM dashboard and click the "Connect" button.
 
 ![Click the Connect button]({{ site.url }}/images/20141112_vmconnect.png)
 
-A small <code>.rdp</code> file will download. If you open it in a text editor it will look like this:
+A small `.rdp` file will download. If you open it in a text editor it will look like this:
 
     full address:s:yourmachine.cloudapp.net:3389
     prompt for credentials:i:1
