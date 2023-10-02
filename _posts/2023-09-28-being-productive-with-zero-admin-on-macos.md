@@ -32,6 +32,7 @@ The key difference in what I'm doing here is that **everything goes into your us
 - [Node.js and Tools](#nodejs-and-tools)
 - [rbenv](#rbenv)
 - [.NET SDK and Tools](#net-sdk-and-tools)
+- [Java](#java)
 - [Azure DevOps Artifacts Credential Provider](#azure-devops-artifacts-credential-provider)
 - [Issue: Gatekeeper](#issue-gatekeeper)
 - [Issue: Admin-Only Installers](#issue-admin-only-installers)
@@ -291,6 +292,30 @@ dotnet tool install -g dotnet-symbol
 dotnet tool install -g dotnet-trace
 dotnet tool install -g gti
 dotnet tool install -g microsoft.web.librarymanager.cli
+```
+
+## Java
+
+Without admin, you can't get the system Java wrappers to be able to find any custom Java you install because you can't run the required command like: `sudo ln -sfn ~/local/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk`
+
+If you use `bash` or `zsh` as your shell, you might be interested in [SDKMAN!](https://sdkman.io/) as a way to manage Java. I use PowerShell so this won't work because SDKMAN! relies on shell functions to do a lot of its job.
+
+Instead, we'll install the appropriate JDK and set symlinks/environment variables.
+
+```sh
+brew install openjdk
+```
+
+In `.profile`, we'll need to set `JAVA_HOME` and add OpenJDK to the path. If we install a different JDK, we can update `JAVA_HOME` and restart the shell to switch.
+
+```sh
+export DOTNET_INSTALL_DIR="$HOME/.dotnet"
+export DOTNET_ROOT="$HOME/.dotnet"
+export N_PREFIX="$HOME/local"
+export JAVA_HOME="$HOME/local/opt/openjdk"
+export PATH="$JAVA_HOME/bin:$HOME/local/opt/grep/libexec/gnubin:$DOTNET_ROOT:$DOTNET_ROOT/tools:$HOME/local/opt/python@3.10/libexec/bin:$PATH"
+eval "$($HOME/local/bin/brew shellenv)"
+eval "$($HOME/local/bin/rbenv init - pwsh)"
 ```
 
 ## Azure DevOps Artifacts Credential Provider
