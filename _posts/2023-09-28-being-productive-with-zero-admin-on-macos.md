@@ -38,6 +38,7 @@ The key difference in what I'm doing here is that **everything goes into your us
 - [Issue: Admin-Only Installers](#issue-admin-only-installers)
 - [Issue: App Permissions](#issue-app-permissions)
 - [Issue: Bash Completions](#issue-bash-completions)
+- [Issue: Path and Environment Variable Propagation](#issue-path-and-environment-variable-propagation)
 - [Conclusion](#conclusion)
 
 ## Strategies
@@ -353,6 +354,23 @@ There are some tools that may require additional permissions by nature, like [Re
 ## Issue: Bash Completions
 
 Some Homebrew installs will dump completions into `~/local/etc/bash_completions.d`. I never really did figure out what to do about these since I don't really use Bash. [There's some doc about options you have](https://github.com/scop/bash-completion/blob/master/README.md) but I'm not going to dig into it.
+
+## Issue: Path and Environment Variable Propagation
+
+Since you've only updated your path and environment from your shell profile (e.g., not `/etc/paths` or whatever), these changes won't be available unless you're running things _from your login shell_.
+
+A great example is VS Code and build tools. Let's say you have a build set up where the `command` is `npm`. If the path to `npm` is something you added in your `~/.profile`, VS Code may not be able to find it.
+
+- If you start VS Code by running `code` from your shell, it will inherit the environment and `npm` will be found.
+- If you start VS Code by clicking on the icon in the Dock or Finder, it will _not_ inherit the environment and `npm` will not be found.
+
+You can mitigate a little of this, at least in VS Code, by:
+
+- Set your `terminal.integrated.profiles.osx` profiles to pass `-l` as an argument (act as a login shell, process `~/.profile`) as shown [in this Stack Overflow answer](https://stackoverflow.com/questions/51820921/vscode-integrated-terminal-doesnt-load-bashrc-or-bash-profile/67843008#67843008).
+- Set your `terminal.integrated.automationProfile.osx` profile to also pass `-l` as an argument to your shell. (You may or may not need to do this; I was able to get away without it.)
+- Always use shell commands to launch builds (specify `"type": "shell"` in `tasks.json`) for things instead of letting it default to `"type": "process"`.
+
+Other tools will, of course, require other workarounds.
 
 ## Conclusion
 
