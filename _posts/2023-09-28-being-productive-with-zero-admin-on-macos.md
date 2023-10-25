@@ -243,11 +243,6 @@ Download the `dotnet-install.sh` shell script and stick that in your `~/local/bi
 # Get the install script
 curl -fsSL https://dot.net/v1/dotnet-install.sh -o ~/local/bin/dotnet-install.sh
 chmod +x ~/local/bin/dotnet-install.sh
-
-# And the .NET uninstall tool (https://github.com/dotnet/cli-lab/releases)
-curl -fsSL https://github.com/dotnet/cli-lab/releases/download/1.6.0/dotnet-core-uninstall.tar.gz -o ~/Downloads/dotnet-core-uninstall.tar.gz
-tar -xvf ~/Downloads/dotnet-core-uninstall.tar.gz -C ~/local/bin
-chmod +x ~/local/bin/dotnet-core-uninstall
 ```
 
 We need to get the local .NET into the path and set up variables (`DOTNET_INSTALL_DIR` and `DOTNET_ROOT`) so .NET and the install/uninstall processes can find things. We'll add that all to our `~/.profile` and restart the shell.
@@ -261,7 +256,7 @@ eval "$($HOME/local/bin/brew shellenv)"
 eval "$($HOME/local/bin/rbenv init - pwsh)"
 ```
 
-> Note we did _not_ grab the .NET uninstall tool. **It doesn't work without admin permissions.** When you try to run it doing anything but listing what's installed, you get:
+> Note we did _not_ grab the [.NET uninstall tool](https://github.com/dotnet/cli-lab/releases). **It doesn't work without admin permissions.** When you try to run it doing anything but listing what's installed, you get:
 >
 > `The current user does not have adequate privileges. See https://aka.ms/dotnet-core-uninstall-docs.`
 >
