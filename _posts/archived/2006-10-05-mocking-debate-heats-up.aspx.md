@@ -4,7 +4,7 @@ title: "Mocking Debate Heats Up"
 date: 2006-10-05 -0800
 comments: true
 disqus_identifier: 1084
-tags: [net,testing,process]
+tags: [dotnet,testing,process]
 ---
 I posted last week a short discussion about [whether mock objects are
 too powerful](/archive/2006/09/28/are-mock-objects-too-powerful.aspx)

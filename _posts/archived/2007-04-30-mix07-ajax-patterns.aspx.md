@@ -4,7 +4,7 @@ title: "MIX07 - AJAX Patterns"
 date: 2007-04-30 -0800
 comments: true
 disqus_identifier: 1192
-tags: [conferences,aspnet,net,javascript]
+tags: [conferences,aspnet,dotnet,javascript]
 ---
 The session on AJAX patterns was very cool. In one demo application (a
 photo album application), six specific patterns were addressed and a

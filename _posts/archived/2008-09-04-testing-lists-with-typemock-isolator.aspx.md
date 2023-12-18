@@ -4,7 +4,7 @@ title: "Testing Lists with Typemock Isolator"
 date: 2008-09-04 -0800
 comments: true
 disqus_identifier: 1443
-tags: [gists,net,testing,csharp]
+tags: [gists,dotnet,testing,csharp]
 ---
 I've seen this question a few times in the [Typemock
 forums](http://www.typemock.com/community/index.php) so I figured I'd
@@ -154,4 +154,3 @@ anyway](http://msdn.microsoft.com/en-us/library/ta31s3bc.aspx), opting
 for property get/set instead to allow for more flexible implementations
 later should the need arise. That said, if you have something you've got
 to test using a public list field, above are some ways to do it.
-

@@ -4,7 +4,7 @@ title: "Potential Typemock Gotcha: Allow Static Construction to Happen Before Mo
 date: 2012-02-10 -0800
 comments: true
 disqus_identifier: 1768
-tags: [net,testing,net]
+tags: [dotnet,testing,net]
 ---
 I love [Typemock Isolator](http://www.plimus.com/jsp/redirect.jsp?contractId=1655929&referrer=tillig). I do. The power it gives me to deal with legacy code interaction testing is phenomenal.
 
@@ -46,4 +46,3 @@ Which means **static construction wasn't happening on the static class** and was
 Why did it pass on my dev box and not on the build box? **Tests were getting run in a different order.** Static construction was happening on the class in a different test.
 
 Like I said, I love [Typemock](http://www.plimus.com/jsp/redirect.jsp?contractId=1655929&referrer=tillig), but sometimes... sometimes there are some gotchas.
-

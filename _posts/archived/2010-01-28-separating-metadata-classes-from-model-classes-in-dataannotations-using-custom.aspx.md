@@ -4,7 +4,7 @@ title: "Separating Metadata Classes from Model Classes in DataAnnotations Using 
 date: 2010-01-28 -0800
 comments: true
 disqus_identifier: 1609
-tags: [net,aspnet,gists,csharp]
+tags: [dotnet,aspnet,gists,csharp]
 ---
 I haven't done much work with [ASP.NET Dynamic
 Data](http://www.asp.net/DynamicData/) but in a recent project I started
@@ -333,4 +333,3 @@ invoke the cached references. This should get the idea across, though.
 And, of course, **the usual disclaimers apply**: YMMV, I'm not
 responsible if this code burns your house down or crashes your app or
 whatever, etc., etc. Works on My Machine!
-

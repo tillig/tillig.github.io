@@ -4,7 +4,7 @@ title: "FluentValidation and MVC - From Server to Client"
 date: 2013-04-17 -0800
 comments: true
 disqus_identifier: 1816
-tags: [net,aspnet]
+tags: [dotnet,aspnet]
 ---
 We do a lot of interesting stuff with [FluentValidation](http://fluentvalidation.codeplex.com/) at work and more than a few times I've had to give the whiteboard presentation of how a server-side FluentValidation validator makes it to [jQuery validation rules](http://docs.jquery.com/Plugins/Validation) on the client and back. I figured it was probably time to just write it up so I can refer folks as needed.
 

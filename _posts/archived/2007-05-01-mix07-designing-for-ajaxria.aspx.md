@@ -4,7 +4,7 @@ title: "MIX07 - Designing for AJAX/RIA"
 date: 2007-05-01 -0800
 comments: true
 disqus_identifier: 1194
-tags: [conferences,aspnet,net,javascript]
+tags: [conferences,aspnet,dotnet,javascript]
 ---
 This session was a more general "patterns" type of session where there
 were several UI patterns demonstrated to help you make a better user

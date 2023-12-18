@@ -3,7 +3,7 @@ layout: post
 title: "NDepend 6 Released"
 date: 2015-06-26 11:00:00 -0800
 comments: true
-tags: [net,ndepend]
+tags: [dotnet,ndepend]
 ---
 [NDepend 6 was recently released with a ton of new features.](http://www.ndepend.com/ndepend-v6) I've been working with NDepend for quite some time ([my earliest blog entry on it was for version 2.7](/archive/2008/03/28/ndepend-analyze-your-code.aspx)) and every release gets better. [It's been a couple of years since version 5 came out.](/archive/2013/10/28/ndepend-5-new-ui-new-features.aspx/) What's new?
 
@@ -47,4 +47,3 @@ Once you have a custom rules file, you can reference it from your project. You w
 from [Patrick](http://codebetter.com/patricksmacchia/) at NDepend.
 However, we have also purchased several licenses at work and make use of
 it to great benefit.*
-

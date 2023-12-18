@@ -4,7 +4,7 @@ title: "Programming with the .NET Framework, Part 1"
 date: 2003-07-14 -0800
 comments: true
 disqus_identifier: 297
-tags: [net,personal]
+tags: [dotnet,personal]
 ---
 *9:22a*
 

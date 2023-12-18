@@ -4,7 +4,7 @@ title: "CodeRush Xpress for C# and VB - FREE"
 date: 2009-05-15 -0800
 comments: true
 disqus_identifier: 1525
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 CodeRush (and Refactor! Pro) from DevExpress are my Visual Studio
 add-ins of choice. They're based on the "DXCore" engine, which makes
@@ -21,4 +21,3 @@ Once you fall in love with it, check out other plugins that are
 available - also free - like
 [CR_Documentor](http://cr-documentor.googlecode.com) and the [DXCore
 Community Plugins](http://dxcorecommunityplugins.googlecode.com).
-

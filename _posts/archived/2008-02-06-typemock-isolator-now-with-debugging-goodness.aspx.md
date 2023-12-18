@@ -4,7 +4,7 @@ title: "TypeMock Isolator - Now With Debugging Goodness"
 date: 2008-02-06 -0800
 comments: true
 disqus_identifier: 1344
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 I'm playing with the latest release of TypeMock (now "TypeMock
 Isolator," as it sounds like they have a suite of products planned
@@ -30,4 +30,3 @@ it, love it, love it.
 This is all in the new TypeMock Isolator 4.2.1 beta. If you get a
 chance, [check it out](http://www.typemock.com/Downloads.php). Good
 stuff coming from those TypeMock folks.
-

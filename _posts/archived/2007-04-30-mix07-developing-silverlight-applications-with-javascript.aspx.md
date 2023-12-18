@@ -4,7 +4,7 @@ title: "MIX07 - Developing Silverlight Applications with JavaScript"
 date: 2007-04-30 -0800
 comments: true
 disqus_identifier: 1190
-tags: [conferences,aspnet,net,javascript]
+tags: [conferences,aspnet,dotnet,javascript]
 ---
 I just emerged from a standing-room-only demonstration of how to work
 with [Silverlight](http://www.silverlight.net) and JavaScript. It seems

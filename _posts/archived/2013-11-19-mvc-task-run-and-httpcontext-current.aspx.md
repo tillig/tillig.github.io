@@ -4,7 +4,7 @@ title: "MVC, Task.Run, and HttpContext.Current"
 date: 2013-11-19 -0800
 comments: true
 disqus_identifier: 1831
-tags: [net,aspnet]
+tags: [dotnet,aspnet]
 ---
 For reasons I won't get into, we recently ended up with a scenario in
 MVC where we needed to use
@@ -65,4 +65,3 @@ crazy breaking under load...  it wasn't worth diving that deep.
 
 It would be nice if MVC would support asynchronous RenderAction calls,
 though.
-

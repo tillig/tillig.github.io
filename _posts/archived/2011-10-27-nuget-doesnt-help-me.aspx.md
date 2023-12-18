@@ -4,7 +4,7 @@ title: "NuGet Doesn't Help Me"
 date: 2011-10-27 -0800
 comments: true
 disqus_identifier: 1745
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 There's been a lot of hoopla around [NuGet](http://nuget.codeplex.com/)
 and the whole .NET package management "thing." There's a lot of praise
@@ -74,4 +74,3 @@ It also **doesn't help that the latest MVC templates all have NuGet
 built in**. Now it's not File -\> New Project and go. It's File -\> New
 Project, delete packages.config, delete the packages folder, and go. And
 that's in an "empty project." *Yay for additional steps!*
-

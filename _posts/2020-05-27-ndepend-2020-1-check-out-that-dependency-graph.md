@@ -3,7 +3,7 @@ layout: post
 title: "NDepend v2020.1 - Check Out That Dependency Graph!"
 date: 2020-05-27 -0800
 comments: true
-tags: [ndepend,net,vs]
+tags: [ndepend,dotnet,vs]
 description: "I'm a long time fan of NDepend, but this new version has an insane update to the dependency graph and it's a total game changer. Check it out!"
 ---
 

@@ -4,7 +4,7 @@ title: "Reduce Build Overhead with Better Code Organization"
 date: 2010-01-19 -0800
 comments: true
 disqus_identifier: 1608
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 In a really large system the build can take a long time. A really long
 time. Long enough to make continuous integration sort of meaningless.
@@ -36,4 +36,3 @@ This isn't to say everyone should start shipping mammoth assemblies.
 Just be careful how you organize things. Choose your assembly boundaries
 carefully. You may gain yourself some time in the build - and some space
 on your disk.
-

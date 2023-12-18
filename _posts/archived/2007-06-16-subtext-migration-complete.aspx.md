@@ -4,7 +4,7 @@ title: "Subtext Migration Complete!"
 date: 2007-06-16 -0800
 comments: true
 disqus_identifier: 1215
-tags: [blog,subtext,net,aspnet]
+tags: [blog,subtext,dotnet,aspnet]
 ---
 [![Subtext]({{ site.url }}/images/20070616subtextwo1.png)](http://www.subtextproject.com)I
 just finished converting over to Subtext, and, all things considered, it
@@ -60,7 +60,7 @@ concerned.  Things I want to do now that I've got myself moved over:
     need to come up with a new section.
 -   Script integration.  I want to get my little Xbox Gamercard popup
     thing working again, and the Amazon link script where they pop up a
-    nice review and image of things you're interested in - that's neat. 
+    nice review and image of things you're interested in - that's neat.
     I also want to add some other stuff, like a scrolling Twitter
     history deal and maybe a few other fun items.
 
@@ -78,4 +78,3 @@ right page in Subtext, but the URL in the browser doesn't change.
 Regardless, I'm back in the saddle with a new blog package and finally
 feel like I'm living in the now.  Time to join up on the Subtext project
 and start contributing!
-

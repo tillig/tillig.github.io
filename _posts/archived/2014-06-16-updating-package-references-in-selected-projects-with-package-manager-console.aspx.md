@@ -4,7 +4,7 @@ title: "Updating Package References in Selected Projects With Package Manager Co
 date: 2014-06-16 -0800
 comments: true
 disqus_identifier: 1843
-tags: [net,vs,autofac]
+tags: [dotnet,vs,autofac]
 ---
 In [the Autofac project](http://autofac.org) we've maintain all of the
 various packages and integrations in one assembly. In order to make sure
@@ -45,4 +45,3 @@ have an Autofac reference) but that's OK.
 PowerShell script
 samples.](http://jameschambers.com/2011/06/powershell-script-examples-for-nuget-packages/)
 Definitely something to keep handy.
-

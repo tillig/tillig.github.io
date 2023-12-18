@@ -4,7 +4,7 @@ title: "Kickin' It Up A Notch"
 date: 2003-08-04 -0800
 comments: true
 disqus_identifier: 312
-tags: [net,blog]
+tags: [dotnet,blog]
 ---
 Well, folks, things seem to have worked out reasonably well for me
 today. I have:

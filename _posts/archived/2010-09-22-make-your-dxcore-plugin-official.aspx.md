@@ -4,7 +4,7 @@ title: "Make Your DXCore Plugin Official with a ProductModule"
 date: 2010-09-22 -0800
 comments: true
 disqus_identifier: 1667
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 **As of 2012.1.4, the DXCore "About" box no longer displays
 ProductModule contents. If you're working with that version or later,
@@ -151,7 +151,7 @@ a ProductModule class called "About," that'll look like:
     language strings that indicate what languages your plugin is valid
     for. You can find these values in the "Language" dropdown on the
     DevExpress options menu. At the time of this writing, they are:
-    Basic, C/C++, CSharp, HTML, JavaScript, Plain Text, and XML. 
+    Basic, C/C++, CSharp, HTML, JavaScript, Plain Text, and XML.
     ![]({{ site.url }}/images/20100922languages.png)
 -   **Version property**: Return the assembly version information.
 
@@ -207,4 +207,3 @@ can see what the complete package looks like:
 
 Hopefully this will help you larger plugin developers to make some
 really cool "official" DXCore products!
-

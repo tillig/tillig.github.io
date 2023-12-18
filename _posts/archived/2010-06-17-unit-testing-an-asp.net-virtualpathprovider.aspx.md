@@ -4,7 +4,7 @@ title: "Unit Testing an ASP.NET VirtualPathProvider"
 date: 2010-06-17 -0800
 comments: true
 disqus_identifier: 1651
-tags: [net,aspnet,testing,gists,csharp]
+tags: [dotnet,aspnet,testing,gists,csharp]
 ---
 [The VirtualPathProvider
 class](http://msdn.microsoft.com/en-us/library/system.web.hosting.virtualpathprovider.aspx)
@@ -100,4 +100,3 @@ issues with the runtime locating assemblies or anything.
 
 Standard disclaimers apply: YMMV, I'm not responsible if it crashes your
 server, etc.
-

@@ -4,7 +4,7 @@ title: "The Importance of TypeId in ASP.NET MVC DataAnnotations Validation Attri
 date: 2010-03-02 -0800
 comments: true
 disqus_identifier: 1622
-tags: [net,aspnet,gists,csharp]
+tags: [dotnet,aspnet,gists,csharp]
 ---
 Messing around with ASP.NET MVC 2.0 (in VS2010 RC1), specifically the
 validation done with DataAnnotations, and created a simple no-op custom
@@ -104,4 +104,3 @@ Once you get it working, sure, you can optimize some (for example, the
 being compared so if someone actually does try to run redundant
 validation it won't happen), but that's left as an implementation
 detail.
-

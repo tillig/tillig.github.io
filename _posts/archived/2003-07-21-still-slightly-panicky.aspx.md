@@ -4,7 +4,7 @@ title: "Still Slightly Panicky"
 date: 2003-07-21 -0800
 comments: true
 disqus_identifier: 302
-tags: [net,personal]
+tags: [dotnet,personal]
 ---
 I'm still a little panicky about my certification tests. I know I sound
 like a broken record, but at $125 a pop, pass or fail, it's pretty

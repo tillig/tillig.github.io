@@ -4,7 +4,7 @@ title: "Gave Up Trying FxCop 11 Standalone"
 date: 2013-03-12 -0800
 comments: true
 disqus_identifier: 1814
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 In FxCop 10 you could run code analysis without installing Visual Studio
 by either [grabbing just the FxCop stuff out of Visual
@@ -89,4 +89,3 @@ about.
 couldn't just install it as part of the Windows SDK or a .NET SDK or
 something. Kind of makes me wonder if it's an indirect sales ploy to get
 you to convert to TFS or something.
-

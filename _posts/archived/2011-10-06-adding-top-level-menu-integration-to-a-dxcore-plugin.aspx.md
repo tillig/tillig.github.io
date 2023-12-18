@@ -4,7 +4,7 @@ title: "Adding Top Level Menu Integration to a DXCore Plugin"
 date: 2011-10-06 -0800
 comments: true
 disqus_identifier: 1739
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 Most of the DXCore/CodeRush plugins I write are Tool Window plugins like
 [CR_Documentor](http://cr-documentor.googlecode.com) or are plugins
@@ -91,4 +91,3 @@ PositionMenuButton event can give you more control over the positioning
 of your menu item within the parent menu. There's not a lot of
 documentation out there on this, so you'll need to experiment a bit, but
 a lot can be achieved.
-

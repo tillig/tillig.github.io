@@ -4,7 +4,7 @@ title: "Posting multipart/form-data Using .NET WebRequest"
 date: 2009-12-16 -0800
 comments: true
 disqus_identifier: 1598
-tags: [net,gists]
+tags: [dotnet,gists]
 ---
 While making my [ImageShack plugin for Windows Live Writer](/archive/2009/12/15/imageshackwriterplugin-upload-to-imageshack-from-windows-live-writer.aspx) I had to figure out how to make a web request that posts data to an endpoint in "multipart/form-data" format. That's a lot different than URL-encoding everything into a querystring format and sticking that in the body of the POST request. If you're uploading one or more files, you need to format things differently.
 
@@ -40,7 +40,7 @@ First was figuring out what the format looked like in the request. [I found an a
     -   A content-disposition header that tells the name of the form
         field corresponding to the file and the name of the file. That
         looks like:<br />
-        `Content-Disposition: form-data; name="yourformfieldname"; filename="somefile.jpg"` 
+        `Content-Disposition: form-data; name="yourformfieldname"; filename="somefile.jpg"`
     -   One CRLF.
     -   A content-type header that says what the MIME type of the file
         is. That looks like:<br />
@@ -291,4 +291,3 @@ public string ExecutePostRequest(
 Obviously you'll need to tailor the usage to your own needs, but this at least shows it in action.
 
 I'm no expert on this by any means, but this is what got me through [the magic of file upload via POST to ImageShack](/archive/2009/12/15/imageshackwriterplugin-upload-to-imageshack-from-windows-live-writer.aspx), so hopefully it'll help someone else out there, too.
-

@@ -4,7 +4,7 @@ title: "Synchronization"
 date: 2003-05-12 -0800
 comments: true
 disqus_identifier: 254
-tags: [net,personal]
+tags: [dotnet,personal]
 ---
 Well, I'm back from training and, after a stressful weekend (which I
 will try to post more on later), I'm here to fill you in on last week.
@@ -923,4 +923,3 @@ I'm ready to go.
  That's it, folks. We're doing a little backgrounder on web services,
 which I am already aware of, so I'm packing up. Joy, fun, seasons in the
 sun, and all that. I'm ready for the weekend.
-

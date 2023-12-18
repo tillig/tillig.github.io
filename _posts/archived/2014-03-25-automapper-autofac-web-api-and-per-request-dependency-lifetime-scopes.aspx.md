@@ -4,7 +4,7 @@ title: "AutoMapper, Autofac, Web API, and Per-Request Dependency Lifetime Scopes
 date: 2014-03-25 -0800
 comments: true
 disqus_identifier: 1837
-tags: [net,aspnet,autofac]
+tags: [dotnet,aspnet,autofac]
 ---
 I'm working on a new [Web API project](http://www.asp.net/web-api) where
 I want to use [AutoMapper](http://automapper.org/) for some type
@@ -254,4 +254,3 @@ app** to allow you to get away from the static
 `DependencyResolver.Current` reference. `InstancePerApiRequest` and
 `InstancePerHttpRequest` do effectively the same thing internally in
 Autofac, so the registrations are cross-compatible.
-

@@ -4,7 +4,7 @@ title: "Install/Uninstall of INF Using Chocolatey"
 date: 2014-05-07 -0800
 comments: true
 disqus_identifier: 1841
-tags: [net,gists,windows,powershell]
+tags: [dotnet,gists,windows,powershell]
 ---
 I'm messing around with [Boxstarter](http://boxstarter.org/) and [Chocolatey](http://chocolatey.org/) and one of the things I wanted to do was install [the various "Command Prompt Here" context menu extensions](http://app.paraesthesia.com/CommandPromptHere/) I use all the time. These extensions are .inf files and, unfortunately, there isn't really any documentation on how to create a Chocolatey package that installs an .inf.
 
@@ -52,4 +52,3 @@ try {
 **That's it!** Run the packaging and you're set to go. This will support both installation and uninstallation of the .inf file.
 
 Note: At one point I was having some trouble getting this to run on a Windows Server 2012 VM using the one-click Boxstarter execution mechanism. I found this while testing an install script that installs something like 40 things. After rolling back the VM to a base snapshot (before running the script) I'm no longer able to see the failure I saw before, so I'm guessing it was something else in the script causing the problem. This INF install mechanism appears to work just fine.
-

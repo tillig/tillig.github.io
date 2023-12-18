@@ -4,7 +4,7 @@ title: "Microsoft Certified Database Administrator"
 date: 2004-06-11 -0800
 comments: true
 disqus_identifier: 583
-tags: [personal,net,sql]
+tags: [personal,dotnet,sql]
 ---
 The end of [a long, long
 journey](/archive/2003/02/20/continuous-plight-for-training.aspx) has

@@ -3,7 +3,7 @@ layout: post
 title: "Analyze .csproj Files With PowerShell"
 date: 2018-05-07 -0800
 comments: true
-tags: [gists,net,powershell,xml]
+tags: [gists,dotnet,powershell,xml]
 description: "Got huge reams of .csproj (or other XML) files to analyze? PowerShell to the rescue."
 ---
 

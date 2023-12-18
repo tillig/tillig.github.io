@@ -4,7 +4,7 @@ title: "Autofac 3.0 Released"
 date: 2013-01-30 -0800
 comments: true
 disqus_identifier: 1806
-tags: [net,autofac]
+tags: [dotnet,autofac]
 ---
 The final version of [Autofac](https://autofac.googlecode.com) 3.0.0 is
 released and you can [get it on
@@ -36,4 +36,3 @@ page on the Autofac wiki has the detailed list of changes.
 Huge thanks to [Alex Meyer-Gleaves](http://alexmg.com/) for all the work
 he does (and managing the release process!) and to [Nicholas
 Blumhardt](http://nblumhardt.com/) for getting Autofac going.
-

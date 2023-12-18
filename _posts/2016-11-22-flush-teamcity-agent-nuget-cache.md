@@ -3,7 +3,7 @@ layout: post
 title: "How to Flush the TeamCity Build Agent NuGet Package Cache"
 date: 2016-11-25 -0800
 comments: true
-tags: [teamcity,net,build]
+tags: [teamcity,dotnet,build]
 description: "Tired of logging into each TeamCity build agent to flush the NuGet cache? Here's the answer."
 ---
 I've run across more than my fair share of times, particularly early on in a project, where I need to flush the NuGet package cache for my TeamCity build agents. This has usually involved connecting to each agent in Remote Desktop and doing some manual commands or delete operations.

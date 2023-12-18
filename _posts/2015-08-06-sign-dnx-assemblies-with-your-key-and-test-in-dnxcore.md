@@ -3,7 +3,7 @@ layout: post
 title: "Sign DNX Assemblies with Your Own Key... and Test Under DNX Core"
 date: 2015-08-06 -0800
 comments: true
-tags: [autofac,net,testing]
+tags: [autofac,dotnet,testing]
 ---
 
 [Autofac](https://github.com/autofac/Autofac) DNX support is under way and as part of that we're supporting both DNX and DNX Core platforms. [As of DNX beta 6, you can sign DNX assemblies using your own strong name key](http://blogs.msdn.com/b/webdev/archive/2015/07/27/announcing-availability-of-asp-net-5-beta-6.aspx).

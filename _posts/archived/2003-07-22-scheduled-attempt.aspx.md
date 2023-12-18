@@ -4,7 +4,7 @@ title: "Scheduled Attempt"
 date: 2003-07-22 -0800
 comments: true
 disqus_identifier: 303
-tags: [net,personal]
+tags: [dotnet,personal]
 ---
 At the recommendation of a co-worker, I purchased the
 [TestKing](http://www.testking.com) practice test questions. According

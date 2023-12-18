@@ -4,7 +4,7 @@ title: "Windows Apps, Part 2"
 date: 2003-06-24 -0800
 comments: true
 disqus_identifier: 278
-tags: [net,personal]
+tags: [dotnet,personal]
 ---
 Well, that's the end of day 2. This is a little tougher than I'd like,
 with five days packed into three. Here's the play by play.
@@ -177,4 +177,3 @@ properly... and it looks like a real bitch. Lesson: don't print
 anything. Heh.
 
  It's time to go.
-

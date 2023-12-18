@@ -4,7 +4,7 @@ title: "Moving From CruiseControl.NET to TeamCity"
 date: 2009-01-20 -0800
 comments: true
 disqus_identifier: 1489
-tags: [gists,net,build,teamcity]
+tags: [gists,dotnet,build,teamcity]
 ---
 I admit to loving me some good ol'
 [CruiseControl.NET](http://confluence.public.thoughtworks.org/display/CCNET/Welcome+to+CruiseControl.NET)
@@ -219,4 +219,3 @@ me:
 All in all, TeamCity is the advance in the build server that I was
 hoping would come along for CC.NET. It's well worth the time to check
 out.
-

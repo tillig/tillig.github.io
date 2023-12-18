@@ -4,7 +4,7 @@ title: "Failing the Build with NCover 3.4.x"
 date: 2010-05-06 -0800
 comments: true
 disqus_identifier: 1639
-tags: [net,gists,build]
+tags: [dotnet,gists,build]
 ---
 I've spent the last week working on getting NCover 3.4.2 (and, later, 3.4.3) working in my environment. I was previously using the older free NCover with the original NCoverExplorer reporting tasks, but in moving up to .NET 4, it was also time to move up to a newer NCover.
 
@@ -477,4 +477,3 @@ NCover Classic won't let you fail the build based on coverage. I have my thought
 Unfortunately, there are a lot of moving pieces here. If it's not working for you, **I don't really have the ability to offer you individual support** on it. If you find a problem, leave a comment on this blog entry and I'll look into it; if you grabbed all of these things and your copy isn't quite doing what you think it should be doing, I can't really do anything for you. From a troubleshooting perspective, I'd add the various build tasks one at a time and run the build after each addition. Look and see what the output is, what files are created, etc. Use `<Message>` and `<Error>` tasks to debug the script. Make sure you're 100% aware of what each call does and where every file is going. Make sure you specified all the properties for `<NCoverReporting>` correctly and you didn't leave a typo in the minimum coverage or report output properties (e.g., make sure the SymbolModule report is an "Html" not "Xml" report, etc.) There are a lot of steps, but they're simple steps, so you should be able to work through it.
 
 Also, **drop NCover a line and let them know you'd be interested in seeing better direct support for something like this**. I've told them myself, but the more people interested in it, the more likely it will see light in the next product release.
-

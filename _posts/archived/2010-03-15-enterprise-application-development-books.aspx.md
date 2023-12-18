@@ -4,7 +4,7 @@ title: "Enterprise Application Development Books"
 date: 2010-03-15 -0800
 comments: true
 disqus_identifier: 1624
-tags: [net,process]
+tags: [dotnet,process]
 ---
 Around the middle of last year [I reviewed *ASP.NET 3.5 Enterprise
 Application Development with Visual Studio
@@ -173,4 +173,3 @@ enterprise application development? Do you think you can learn
 enterprise app from a single book? Several books? Or is it just
 something you need to learn with experience? Leave a comment and help
 out the people who are trying to learn.
-

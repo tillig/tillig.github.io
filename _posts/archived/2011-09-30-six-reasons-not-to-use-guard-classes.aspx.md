@@ -4,7 +4,7 @@ title: "Six Reasons Not to Use Guard Classes"
 date: 2011-09-30 -0800
 comments: true
 disqus_identifier: 1738
-tags: [net,csharp]
+tags: [dotnet,csharp]
 ---
 "Guard" classes - those little "convenience wrappers" around common
 argument checking and exception throwing. You know what I'm talking
@@ -101,5 +101,3 @@ lines of code for an argument check is really worth all the downsides.**
     to log it at a global level or use something like
     [PostSharp](http://www.sharpcrafters.com/aop.net) to add the logging
     through AOP.
-
-

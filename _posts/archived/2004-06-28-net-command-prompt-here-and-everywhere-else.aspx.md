@@ -4,7 +4,7 @@ title: ".NET Command Prompt Here... and Everywhere Else!"
 date: 2004-06-28 -0800
 comments: true
 disqus_identifier: 599
-tags: [downloads,windows,net,vs]
+tags: [downloads,windows,dotnet,vs]
 ---
 **NOTE: Something you may be interested in is [the Command Prompt Here
 Generator](http://app.paraesthesia.com/CommandPromptHere/).**

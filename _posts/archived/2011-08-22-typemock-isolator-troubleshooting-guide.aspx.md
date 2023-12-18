@@ -4,7 +4,7 @@ title: "Typemock Isolator Troubleshooting Guide"
 date: 2011-08-22 -0800
 comments: true
 disqus_identifier: 1732
-tags: [net,testing]
+tags: [dotnet,testing]
 ---
 [Typemock
 Isolator](http://www.plimus.com/jsp/redirect.jsp?contractId=1655929&referrer=tillig)
@@ -36,7 +36,7 @@ things:
 
 These tips generally have to do with finding and fixing these issues.
 
- 
+
 
 **ALWAYS CLEAN UP YOUR MOCKS**
 
@@ -65,7 +65,7 @@ For the newer Arrange-Act-Assert (AAA) API, you would use:
 up**. Failing to clean things up can sometimes cause
 hard-to-troubleshoot issues.
 
- 
+
 
 **DON'T OVER-CLEAN YOUR MOCKS**
 
@@ -109,7 +109,7 @@ Note this example is for the older record/replay mocking API. You can
 get into less over-cleaning trouble by using the newer AAA API, where
 there's only one [Isolated] attribute to put on your test fixture.
 
- 
+
 
 **DON'T OVER-MOCK**
 
@@ -142,7 +142,7 @@ Isolate.Swap.AllInstances()**... though historically the AAA syntax has
 been less afflicted with the over-mocking problems that the
 record/replay syntax has.
 
- 
+
 
 **DON'T MIX MOCKING STYLES**
 
@@ -250,7 +250,7 @@ them on *different tests*, just not at the *fixture level*.
 > the fixture using the same syntax so you don't run into the
 > multiple-attribute issue.
 
- 
+
 
 **BE CAREFUL OF STATICS AND ENVIRONMENT VARIABLES**
 
@@ -278,7 +278,7 @@ like...
     configuration-related classes where the config gets read,
     deserialized, and cached in a static).
 
- 
+
 
 **DON'T AUTO-DEPLOY IF TYPEMOCK IS ALREADY INSTALLED**
 
@@ -305,7 +305,7 @@ environment:
         AutoDeploy="true"
         Condition="'$(BuildConfiguration)'!='Debug'"/>
 
- 
+
 
 **USE THE TYPEMOCK TRACER UTILITY**
 
@@ -325,4 +325,3 @@ for it to work.**
 This may change in a future release, but as of this writing, that's the
 case. If you don't run Tracer and the unit tests both as Administrator,
 the Tracer doesn't display anything and there's no explanation why.
-

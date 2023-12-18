@@ -4,7 +4,7 @@ title: "Template for Quick TypeMock Testing"
 date: 2008-02-21 -0800
 comments: true
 disqus_identifier: 1353
-tags: [gists,net,testing]
+tags: [gists,dotnet,testing]
 ---
 I use [Snippet Compiler](http://www.sliver.com/dotnet/SnippetCompiler/)
 quite a bit for quick one-off testing to see if something will work.
@@ -32,4 +32,3 @@ templates folder and add references to NUnit and TypeMock.
 
 [**[Download
 TypeMockSnippetTemplate.zip](https://gist.github.com/tillig/c4c6c547b065ebf768a9b7fb45d8a102)**]
-

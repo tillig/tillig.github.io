@@ -4,7 +4,7 @@ title: "Dynamic HttpModule Registration in ASP.NET 4.0"
 date: 2011-02-08 -0800
 comments: true
 disqus_identifier: 1698
-tags: [net,aspnet]
+tags: [dotnet,aspnet]
 ---
 I came across this trick while perusing the
 [Autofac](http://autofac.googlecode.com) code base with the new MVC3
@@ -86,4 +86,3 @@ Pretty nifty, huh?
 Again, I saw this first in the Autofac codebase, so props to [Alex
 Meyer-Gleaves](http://alexmg.com/) (who added that code to the MVC3
 support in Autofac) for figuring that one out.
-

@@ -4,7 +4,7 @@ title: "Using ASP.NET MVC 5 IAuthenticationFilter for Authentication Challenges"
 date: 2013-09-27 -0800
 comments: true
 disqus_identifier: 1826
-tags: [net,gists,aspnet,csharp]
+tags: [dotnet,gists,aspnet,csharp]
 ---
 One of the new ASP.NET MVC 5 features, authentication filters, has dreadfully little documentation. There's [a Visual Studio Magazine article on it](http://visualstudiomagazine.com/articles/2013/08/28/asp_net-authentication-filters.aspx), but that basically replicates the [AuthorizeAttribute](http://msdn.microsoft.com/en-us/library/system.web.mvc.authorizeattribute.aspx) in a different way. It doesn't really explain much else.
 
@@ -251,4 +251,3 @@ public class FilterConfig
 > authorization – I've already proved who I am, but I may need to be
 > challenged to elevate my privileges or something, which is an
 > authorization thing.
-

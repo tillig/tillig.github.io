@@ -4,7 +4,7 @@ title: "Make Your Sandcastle Help File Builder Project Dynamic with MSBuild"
 date: 2011-09-28 -0800
 comments: true
 disqus_identifier: 1737
-tags: [net,build]
+tags: [dotnet,build]
 ---
 When building a [Sandcastle Help File
 Builder](http://shfb.codeplex.com/) (SHFB) project in the GUI, you
@@ -141,4 +141,3 @@ looks like this:
 **Done! A dynamic Sandcastle Help File Builder project that you'll never
 have to update** as you add or change the assemblies you want
 documented.
-

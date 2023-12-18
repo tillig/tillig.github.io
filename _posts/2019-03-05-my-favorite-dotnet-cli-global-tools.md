@@ -3,7 +3,7 @@ layout: post
 title: "My Favorite dotnet CLI Global Tools"
 date: 2019-03-05 -0800
 comments: true
-tags: [net,build,gists]
+tags: [dotnet,build,gists]
 description: "My [current as-of-this-writing] list of favorite dotnet CLI global tools along with an installer script."
 ---
 

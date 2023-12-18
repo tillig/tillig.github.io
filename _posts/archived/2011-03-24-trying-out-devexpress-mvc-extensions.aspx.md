@@ -4,7 +4,7 @@ title: "Trying Out DevExpress MVC Extensions"
 date: 2011-03-24 -0800
 comments: true
 disqus_identifier: 1705
-tags: [net,coderush,aspnet]
+tags: [dotnet,coderush,aspnet]
 ---
 I'm a [huge CodeRush and Refactor
 user](http://cr-documentor.googlecode.com) and
@@ -652,4 +652,3 @@ Extensions:**
 
 Anyway, that was a bit longer than I thought it was going to turn out...
 but **hopefully that helps you on your way to cooler web sites**.
-

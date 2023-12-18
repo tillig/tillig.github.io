@@ -4,7 +4,7 @@ title: "Training Time Once Again"
 date: 2003-05-02 -0800
 comments: true
 disqus_identifier: 252
-tags: [net,personal]
+tags: [dotnet,personal]
 ---
 Due to my utter insistence on knowing what I'm doing at work, I
 [connived myself some

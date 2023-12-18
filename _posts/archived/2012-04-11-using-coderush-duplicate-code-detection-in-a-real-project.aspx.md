@@ -4,7 +4,7 @@ title: "Using CodeRush Duplicate Code Detection in a Real Project"
 date: 2012-04-11 -0800
 comments: true
 disqus_identifier: 1778
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 I'm working on a fairly major refactoring project, merging a couple of
 fairly large libraries together that have some overlapping/similar
@@ -109,4 +109,3 @@ If you want to use this on your project, [head over and pick up
 CodeRush](http://www.devexpress.com/coderush). Honestly, it's the first
 thing I install right after Visual Studio, and this sort of feature is
 exactly why.
-

@@ -4,7 +4,7 @@ title: "Paraesthesia.Test.Ruby - Integrating NUnit with Ruby/Watir Unit Tests"
 date: 2006-01-13 -0800
 comments: true
 disqus_identifier: 943
-tags: [downloads,testing,net,aspnet,build]
+tags: [downloads,testing,dotnet,aspnet,build]
 ---
 Testing ASP.NET web applications can be a painful process. Wouldn't it
 be nice to have a unit testing framework that covered both the API and

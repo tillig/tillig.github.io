@@ -4,7 +4,7 @@ title: "Running Static Files Through VirtualPathProvider in IIS7"
 date: 2011-07-21 -0800
 comments: true
 disqus_identifier: 1727
-tags: [net,gists,aspnet]
+tags: [dotnet,gists,aspnet]
 ---
 We have a custom `VirtualPathProvider` that [serves some static files (`*.js`, `*.css`) from embedded resources in assemblies](/archive/2007/07/13/embeddedresourcepathprovider-binary-only-asp.net-2.0.aspx). It is similar in function to the WebResource.axd that ships with ASP.NET, but instead of having some crazy URL, you just access the file directly and the VPP finds it in embedded resources and serves it just like it was on the disk. It makes for a nice deployment experience and easy upgrade.
 
@@ -43,4 +43,3 @@ routes.IgnoreRoute("{*staticfile}", new { staticfile = @".*\.(css|js|gif|jpg)(/.
 Now when you make a request for your static file, it will properly be
 served up by your VirtualPathProvider and won't have to be in the
 filesystem.
-

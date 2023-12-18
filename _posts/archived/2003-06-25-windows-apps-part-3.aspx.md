@@ -4,7 +4,7 @@ title: "Windows Apps, Part 3"
 date: 2003-06-25 -0800
 comments: true
 disqus_identifier: 279
-tags: [net,personal]
+tags: [dotnet,personal]
 ---
 We're just about done here. I'm going to post now and get things ready
 to go.
@@ -115,4 +115,3 @@ going home.
 
  All I know is I have a lot of messing around with programming to do
 before I really have this stuff down.
-

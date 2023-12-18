@@ -4,7 +4,7 @@ title: "CR_Documentor 3.0.0.0 is in the Visual Studio Gallery"
 date: 2012-02-16 -0800
 comments: true
 disqus_identifier: 1770
-tags: [net,coderush,vs]
+tags: [dotnet,coderush,vs]
 ---
 I'm pleased to announce I've got the
 [CR_Documentor](http://cr-documentor.googlecode.com) 3.0.0.0 release
@@ -28,4 +28,3 @@ the DevExpress folks** who made this possible.)
 
 ![CR_Documentor in the Recently Added list of the VS
 Gallery]({{ site.url }}/images/20120216recentlyadded.png)
-

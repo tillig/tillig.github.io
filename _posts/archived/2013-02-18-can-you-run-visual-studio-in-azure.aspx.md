@@ -4,7 +4,7 @@ title: "Can You Run Visual Studio in Azure?"
 date: 2013-02-18 -0800
 comments: true
 disqus_identifier: 1811
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 **UPDATE 6/1/2013:** As of June 1, 2013, the licensing has been updated
 so you can run all of your MSDN software except Windows client and
@@ -124,4 +124,3 @@ to find out for sure. I'm just providing the above research to show you
 what I found and maybe help inform you. If it turns out I'm wrong... let
 me know (and provide some docs I can refer to). I'll be happy to update
 the article.
-

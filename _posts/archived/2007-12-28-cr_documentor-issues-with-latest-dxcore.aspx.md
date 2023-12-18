@@ -4,7 +4,7 @@ title: "CR_Documentor Issues With Latest DXCore"
 date: 2007-12-28 -0800
 comments: true
 disqus_identifier: 1329
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 I've uncovered some issues with
 [CR_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
@@ -16,4 +16,3 @@ forthcoming... just sort of slowly. But it's coming!
 I've posted the list of known issues [on the CR_Documentor
 page](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
 for now.
-

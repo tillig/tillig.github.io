@@ -4,12 +4,12 @@ title: "The Old Enum Switcharoo"
 date: 2007-10-18 -0800
 comments: true
 disqus_identifier: 1279
-tags: [gists,net,csharp]
+tags: [gists,dotnet,csharp]
 ---
 Some friends of mine at work, Vish and Peter, found this one.  It's
 tasty.
 
-We work on a web application that has a lot of external dependencies. 
+We work on a web application that has a lot of external dependencies.
 Generally speaking, we have pretty decent luck upgrading these external
 dependencies when the interfaces don't change - swap in the new assembly
 for the old one, do any binding redirects or what-have-you, and you're

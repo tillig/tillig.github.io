@@ -3,7 +3,7 @@ layout: post
 title: "The Self-Signed Certificate Disappearing Act"
 date: 2016-08-08 -0800
 comments: true
-tags: [net,aspnet]
+tags: [dotnet,aspnet]
 description: "When testing with SSL/TLS on a local site, your self-signed certifcates can lose trust. Where'd they go?"
 ---
 It's good to develop and deploy your .NET web apps using SSL/TLS to ensure you're doing things correctly and securely.

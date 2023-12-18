@@ -4,7 +4,7 @@ title: "Autofac Project Update - Ownership Changes; 3.0 Coming Soon"
 date: 2012-10-12 -0800
 comments: true
 disqus_identifier: 1792
-tags: [net,autofac]
+tags: [dotnet,autofac]
 ---
 For those of you who use [Autofac](http://autofac.googlecode.com), I
 thought I'd provide a bit of a project update to let you know what's
@@ -37,4 +37,3 @@ it.
 I anticipate **that should all be showing up Real Soon Now**. You can
 follow the progress [on the Autofac
 newsgroup](https://groups.google.com/forum/#forum/autofac).
-

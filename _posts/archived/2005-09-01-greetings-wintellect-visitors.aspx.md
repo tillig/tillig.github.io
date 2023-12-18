@@ -4,7 +4,7 @@ title: "Greetings Wintellect Visitors"
 date: 2005-09-01 -0800
 comments: true
 disqus_identifier: 882
-tags: [personal,net,vs]
+tags: [personal,dotnet,vs]
 ---
 For folks coming in from
 [Wintellect](http://wintellect.com/WEBLOGS/wintellect/archive/2005/09/02/2251.aspx)
@@ -22,4 +22,3 @@ point.
 
 [Scott Hanselman's Ultimate Tools List](http://www.hanselman.com/tools):
 A pretty good list of additional helpful tools.
-

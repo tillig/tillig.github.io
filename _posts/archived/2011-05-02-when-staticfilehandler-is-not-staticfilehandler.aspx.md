@@ -4,7 +4,7 @@ title: "When StaticFileHandler is not StaticFileHandler"
 date: 2011-05-02 -0800
 comments: true
 disqus_identifier: 1712
-tags: [net,aspnet]
+tags: [dotnet,aspnet]
 ---
 I could also have called this "wildcard .NET mapping in IIS Express from
 web.config."
@@ -65,4 +65,3 @@ for performance; more so than the managed static file handler. Also, the
 managed static file handler doesn't write caching-related information
 (e.g., ETag or Expires headers) for virtual files that are not served up
 from disk. Something to consider.
-

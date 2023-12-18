@@ -4,7 +4,7 @@ title: "Dynamic FxCop Dependency List Using MSBuild"
 date: 2008-06-19 -0800
 comments: true
 disqus_identifier: 1401
-tags: [gists,net,build]
+tags: [gists,dotnet,build]
 ---
 When you're integrating
 [FxCop](http://msdn.microsoft.com/en-us/library/bb429476.aspx) into your
@@ -106,4 +106,3 @@ dynamically poke into files like FxCop or NDepend project files. Even if
 you're not worried about the command line length limit, by dynamically
 generating these things you make your build more robust and require less
 manipulation as your project changes. Good luck!
-

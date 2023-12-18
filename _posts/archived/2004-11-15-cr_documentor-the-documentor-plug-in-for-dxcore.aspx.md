@@ -4,7 +4,7 @@ title: "CR_Documentor - The Documentor Plug-In for DXCore"
 date: 2004-11-15 -0800
 comments: true
 disqus_identifier: 695
-tags: [downloads,net,vs,coderush]
+tags: [downloads,dotnet,vs,coderush]
 ---
 **UPDATE:**[**CR_Documentor has found a new home on Google Code.**](http://code.google.com/p/cr-documentor/)**Head over there to get the latest version and updated information.**
 
@@ -27,4 +27,3 @@ Installation is as easy as copying a DLL into a folder. The included readme.txt 
 **UPDATE:**[**CR_Documentor has found a new home on Google
 Code.**](http://code.google.com/p/cr-documentor/)**Head over there to
 get the latest version and updated information.**
-

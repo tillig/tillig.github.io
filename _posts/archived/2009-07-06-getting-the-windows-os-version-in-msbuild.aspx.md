@@ -4,7 +4,7 @@ title: "Getting the Windows OS Version in MSBuild"
 date: 2009-07-06 -0800
 comments: true
 disqus_identifier: 1546
-tags: [gists,net,build]
+tags: [gists,dotnet,build]
 ---
 I saw [a tweet come across](http://twitter.com/chadmyers/status/2502153625) asking how to get the OS version in MSBuild. MSBuild will automatically import any environment variables... but it appears the OS version isn't an environment variable, so it doesn't have any OS version info you can get out of the box.
 
@@ -24,4 +24,3 @@ You can, however, do a registry key lookup. Here's a quick MSBuild snippet showi
 
 Granted, it would be kind of nice to have this out of the box, but at
 least you don't have to write a whole custom task for it.
-

@@ -4,7 +4,7 @@ title: "Creating Resource-Only Assemblies"
 date: 2008-08-11 -0800
 comments: true
 disqus_identifier: 1428
-tags: [gists,net,build]
+tags: [gists,dotnet,build]
 ---
 Working on some localization stuff, I've come across the need for
 resource assemblies to be created from [.resx
@@ -81,4 +81,3 @@ prompt environment.
 Obviously, change your paths and parameters as needed, but the above
 compiles and links a neutral and a generic Spanish "Strings" assembly in
 a post-build step.
-

@@ -4,7 +4,7 @@ title: "Robust File Finding in Your App with MSBuild"
 date: 2009-05-22 -0800
 comments: true
 disqus_identifier: 1531
-tags: [gists,net,build,csharp]
+tags: [gists,dotnet,build,csharp]
 ---
 I'm working on an application where we wanted to be able to provide some
 config or command line parameters that would specify a particular set of
@@ -89,4 +89,3 @@ foreach(ITaskItem include in task.Include)
 ```
 
 Awesome! Now I don't have to write that file finding code myself!
-

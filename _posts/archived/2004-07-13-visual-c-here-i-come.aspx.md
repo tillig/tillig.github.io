@@ -4,7 +4,7 @@ title: "Visual C++, Here I Come!"
 date: 2004-07-13 -0800
 comments: true
 disqus_identifier: 614
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 I'm working on some ideas to enhance
 [Solvent](/archive/2004/06/25/solvent-power-toys-for-visual-studio-.net.aspx)

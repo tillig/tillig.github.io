@@ -4,7 +4,7 @@ title: "How to Add a VSIX Installer to a DXCore Plugin"
 date: 2012-02-01 -0800
 comments: true
 disqus_identifier: 1766
-tags: [net,vs,gists]
+tags: [dotnet,vs,gists]
 ---
 [As of CodeRush/Refactor/DXCore 11.2](http://www.skorkin.com/2011/10/deploying-dxcore-coderush-or-community-plug-ins-using-a-vsix-extension/), DXCore supports installation of plugins using Visual Studio Extensibility (VSIX) just like any other extension you might find [in the gallery](http://visualstudiogallery.msdn.microsoft.com/). This is beyond cool for a couple of reasons.
 
@@ -234,4 +234,3 @@ Here's what my manifest looks like, fully populated (click to enlarge):
 [![Your plugin will show up in the Extension Manager.]({{ site.url }}/images/20120201extensionmanage.png)
 
 **I'll be releasing CR_Documentor via VSIX soon**. I have a few more things to tidy up since I've updated to .NET 4.0. In the meantime, if you want to see the working source, [you can see it in Subversion in the Google Code repository](https://cr-documentor.googlecode.com/svn/branches/issue/35/dev).
-

@@ -4,7 +4,7 @@ title: "Why NAnt Is Better Than MSBuild"
 date: 2008-01-08 -0800
 comments: true
 disqus_identifier: 1334
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 I've been writing a lot of build scripts and custom build tasks in both
 [NAnt](http://nant.sourceforge.net/) and
@@ -29,11 +29,11 @@ more than MSBuild. Here's why:
     information already populated based on CruiseControl settings might
     look for the CCNetLabel property in the environment and set things
     up automatically based on that.
-     
+
      In a NAnt custom task, I have access to the full set of properties
     inherently. MSBuild custom tasks are entirely isolated so I need to
     manually pass that in as a parameter from my script.
-     
+
      One parameter isn't so bad - but what if you want to perform logic
     in your task based on five or six parameters? 10?
 -   **NAnt properties are manipulated in a consistent fashion; MSBuild
@@ -58,11 +58,11 @@ more than MSBuild. Here's why:
     task MyDerivedTask that is a derived/modified version of
     SomeBaseTask. They're in separate assemblies. Maybe SomeBaseTask is
     in a third-party assembly I don't want to (or can't) redistribute.
-     
+
      In NAnt, I can \<loadtasks\> on both custom task assemblies and
     everything is okay. When I call MyDerivedTask, the assembly
     containing SomeBaseTask is found and everything is good.
-     
+
      In MSBuild, even if I do a \<UsingTask\> on SomeBaseTask to include
     it, I can't \<UsingTask\> the MyDerivedTask *unless my custom task
     assembly is in the same folder as the assembly containing
@@ -77,4 +77,3 @@ development philosophy they had when coming up with MSBuild that will
 put all this into perspective and make me see why MSBuild is so much
 better? Or am I right? Does NAnt really whip MSBuild's behind in almost
 every area?
-

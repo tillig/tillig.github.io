@@ -4,7 +4,7 @@ title: "Choosing an Exception Type When Unit Testing Error Handling"
 date: 2012-01-27 -0800
 comments: true
 disqus_identifier: 1763
-tags: [net,gists,testing]
+tags: [dotnet,gists,testing]
 ---
 When I'm testing exception handling code, I have tests for exceptions I
 know I need to handle and tests for exceptions I'm not expecting.
@@ -121,4 +121,3 @@ actually get a `DivideByZeroException`, so you wouldn't use that.
 **By choosing the right exception, regardless of the refactoring of the
 class, your test will still pass... *and it will pass for the reason you
 think*.**
-

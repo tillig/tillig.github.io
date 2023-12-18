@@ -4,7 +4,7 @@ title: "Updating Your Continuous Integration Build to run FxCop from VS2010"
 date: 2010-03-29 -0800
 comments: true
 disqus_identifier: 1627
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 In VS2010 Microsoft really hasn't accounted for integrating FxCop into
 your continuous integration/scripted build in any way other than
@@ -182,4 +182,3 @@ Once you have that, you should be able to run FxCop from the command
 line in your build without having to install Visual Studio.
 
 Now to go through and fix all the new errors it found...
-

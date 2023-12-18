@@ -4,7 +4,7 @@ title: "SublimeMSBuild - MSBuild Package for Sublime Text 2"
 date: 2012-07-12 -0800
 comments: true
 disqus_identifier: 1784
-tags: [net,downloads,build,sublime]
+tags: [dotnet,downloads,build,sublime]
 ---
 [Sublime Text 2](http://www.sublimetext.com/) is the first text editor that's actually gotten me *excited about text editors(!)* for quite some time. It's fast, clean, super extensible... I bought my license when it was still in beta and I've never looked back.
 

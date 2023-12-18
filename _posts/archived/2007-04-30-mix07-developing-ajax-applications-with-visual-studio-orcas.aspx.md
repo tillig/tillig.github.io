@@ -4,7 +4,7 @@ title: "MIX07 - Developing AJAX Applications with Visual Studio &quot;Orcas&quot
 date: 2007-04-30 -0800
 comments: true
 disqus_identifier: 1191
-tags: [conferences,aspnet,net,vs,javascript]
+tags: [conferences,aspnet,dotnet,vs,javascript]
 ---
 I admit I've been lax and haven't been installing the Visual Studio
 "Orcas" releases. I've followed the cool stuff, but I haven't actually

@@ -4,7 +4,7 @@ title: "Long URL Path Segments in ASP.NET Routing Yield 400 Errors"
 date: 2011-08-26 -0800
 comments: true
 disqus_identifier: 1734
-tags: [net,aspnet]
+tags: [dotnet,aspnet]
 ---
 Ran into an interesting gotcha while working with routing and a handler
 on a web site. We had a route set up like this:
@@ -35,4 +35,3 @@ parameters into the route. It might be nice in future versions of
 routing to have some sort of max length check when generating full route
 URLs so you can't generate a path segment greater than, say, 256
 characters without getting an exception.
-

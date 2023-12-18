@@ -4,7 +4,7 @@ title: "Why Aren't You on the Latest and Greatest Framework?"
 date: 2011-05-06 -0800
 comments: true
 disqus_identifier: 1713
-tags: [net,process]
+tags: [dotnet,process]
 ---
 I was watching some Twitter stream by and caught a bit of a discussion
 asking about why people haven't moved to
@@ -102,4 +102,3 @@ me learning. I encourage you to do the same.** But I understand if your
 project is still stuck in .NET 2.0 in Visual Studio 2005 because
 sometimes there are really good reasons you can't upgrade. Keep looking
 for opportunities to move forward. You'll get there.
-

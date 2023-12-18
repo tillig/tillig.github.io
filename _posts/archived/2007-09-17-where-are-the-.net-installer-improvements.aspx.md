@@ -4,7 +4,7 @@ title: "Where Are The .NET Installer Improvements?"
 date: 2007-09-17 -0800
 comments: true
 disqus_identifier: 1268
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 As new releases of .NET and Visual Studio come out, I find there's
 something really missing from them.
@@ -12,9 +12,9 @@ something really missing from them.
 Installer technology improvements.
 
 Sure, there's
-[ClickOnce](http://msdn2.microsoft.com/en-us/library/t71a733d(VS.80).aspx). 
+[ClickOnce](http://msdn2.microsoft.com/en-us/library/t71a733d(VS.80).aspx).
 Sure, there are new and interesting ways to deploy web projects.  But
-I'm talking about better, simpler ways to create good old "setup.exe." 
+I'm talking about better, simpler ways to create good old "setup.exe."
 Where are those improvements?  Does it bother anyone else that there's
 never been a really good, supported way to build .vdproj files except
 through Visual Studio directly?
@@ -44,4 +44,3 @@ add-in to enable IDE support), but the premise holds.  It doesn't look
 like WiX has a lot of churn; maybe integrate it into VS/MSBuild the same
 way Apple uses [WebKit](http://webkit.org/) for Safari and still
 releases "official updates."  Something.  Just make it *better*.
-

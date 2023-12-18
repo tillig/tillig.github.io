@@ -4,7 +4,7 @@ title: "It Just Works, Mixed-Mode, pInvoke, or COM?"
 date: 2004-08-26 -0800
 comments: true
 disqus_identifier: 648
-tags: [net,windows]
+tags: [dotnet,windows]
 ---
 I [mentioned
 earlier](/archive/2004/08/26/programming-projects-piling-up.aspx) that

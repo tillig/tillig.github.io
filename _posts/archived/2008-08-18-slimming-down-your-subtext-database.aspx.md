@@ -4,7 +4,7 @@ title: "Slimming Down Your Subtext Database"
 date: 2008-08-18 -0800
 comments: true
 disqus_identifier: 1431
-tags: [subtext,blog,net,sql]
+tags: [subtext,blog,dotnet,sql]
 ---
 While I was [attempting my
 upgrade](/archive/2008/08/16/failed-to-upgrade-to-subtext-2.0.aspx), I
@@ -25,4 +25,3 @@ the URLs table.
 Anyway, this serves as a little reminder to give your database a little
 love and attention. Hopefully we'll offer more in the way of an admin
 interface for these sorts of things in Subtext 3.
-

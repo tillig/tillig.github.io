@@ -4,7 +4,7 @@ title: "Recursively Copying Indirect Project Dependencies in MSBuild"
 date: 2014-05-09 -0800
 comments: true
 disqus_identifier: 1842
-tags: [net,gists,build]
+tags: [dotnet,gists,build]
 ---
 I've run across a similar situation to many folks I've seen online, where I have a solution with a pretty modular application and when I build it,**I don't get all the indirect dependencies copied in**.
 
@@ -155,4 +155,3 @@ IndirectDependencies = indirectDependencies.Select(i => new TaskItem(i)).ToArray
 **Boom!** Yeah, that's a lot of code. And I could probably tighten it up, but I'm only using it once, in one place, and it runs one time during the build. Ain't broke, don't fix it, right?
 
 Hope that helps someone out there.
-

@@ -4,7 +4,7 @@ title: "What To Do If &quot;Copy Local&quot; Works In VS But Not MSBuild"
 date: 2008-02-13 -0800
 comments: true
 disqus_identifier: 1350
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 I'm in the process of updating a bunch of old Visual Studio 2003
 projects and solutions to, well, something a little newer. I found this
@@ -30,4 +30,3 @@ removing the `<Private>` tags manually. Rebuild, and everything works in
 both Visual Studio and MSBuild. Once you've got that working, you can go
 back in and update things to where you think they need to be, and when
 things start failing, you'll know exactly where the problem is.
-

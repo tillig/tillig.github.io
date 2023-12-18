@@ -3,7 +3,7 @@ layout: post
 title: "Deep Dive into Microsoft Configuration"
 date: 2018-06-20 -0800
 comments: true
-tags: [net,json,xml]
+tags: [dotnet,json,xml]
 description: ".NET Core introduced Microsoft.Extensions.Configuration as a replacement for app.config but there are a lot of things to know if you're going to use it effectively. This article tries to dive deeper into some of those topics."
 ---
 

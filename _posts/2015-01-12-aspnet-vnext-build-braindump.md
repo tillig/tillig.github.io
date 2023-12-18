@@ -3,7 +3,7 @@ layout: post
 title: "An ASP.NET vNext Build and Repo Structure Braindump"
 date: 2015-01-12 -0800
 comments: true
-tags: [aspnet,net,autofac,github]
+tags: [aspnet,dotnet,autofac,github]
 ---
 [Alex](http://alexmg.com/) and I are working on switching [Autofac](http://autofac.org) over to ASP.NET vNext and as part of that we're trying to figure out what the proper structure is for a codeline, how a build should look, and so on.
 

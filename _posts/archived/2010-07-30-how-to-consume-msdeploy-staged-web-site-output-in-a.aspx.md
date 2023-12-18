@@ -4,7 +4,7 @@ title: "How to Consume MSDeploy Staged Web Site Output in a Wix Installer"
 date: 2010-07-30 -0800
 comments: true
 disqus_identifier: 1657
-tags: [net,build,aspnet]
+tags: [dotnet,build,aspnet]
 ---
 MSDeploy is a pretty cool installer technology, but it's not what
 everyone uses, and my personal experience so far is it's not flexible
@@ -222,4 +222,3 @@ package location instead of a PropertyGroup with a property called
 LinkerBaseInputPaths. Also, in the Product.wxs snippet, the reference to
 the Product.Generated component is removed since that is off by default
 in Wix 3.8.
-

@@ -4,7 +4,7 @@ title: "Use CodeRush Templates to Help Write XML API Documentation"
 date: 2012-08-08 -0800
 comments: true
 disqus_identifier: 1788
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 I write a lot of API documentation. I do it to help the people consuming
 my code... and to help me a year from now when I have to come back and

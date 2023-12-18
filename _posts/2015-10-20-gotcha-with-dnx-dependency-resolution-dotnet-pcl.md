@@ -3,7 +3,7 @@ layout: post
 title: "Gotcha With DNX Dependency Resolution, the 'dotnet' Target Framework, and PCL"
 date: 2015-10-20 -0800
 comments: true
-tags: [net,aspnet,build,autofac]
+tags: [dotnet,aspnet,build,autofac]
 ---
 We recently released [Autofac 4.0.0-beta8-157](https://www.nuget.org/packages/Autofac/4.0.0-beta8-157) to NuGet to coincide with the DNX beta 8 release. As part of that update, we re-added the classic PCL target `.NETPortable,Version=v4.5,Profile=Profile259` (which is `portable-net45+dnxcore50+win+wpa81+wp80+MonoAndroid10+Xamarin.iOS10+MonoTouch10`) because older VS versions and some project types were having trouble finding a compatible version of Autofac 4.0.0 - they didn't rectify the `dotnet` target framework as a match.
 

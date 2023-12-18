@@ -4,7 +4,7 @@ title: "MIX07 - Developing ASP.NET AJAX Controls with Silverlight"
 date: 2007-05-01 -0800
 comments: true
 disqus_identifier: 1195
-tags: [conferences,aspnet,net,javascript]
+tags: [conferences,aspnet,dotnet,javascript]
 ---
 This session discussed how you can use ASP.NET AJAX controls and take
 advantage of Silverlight at the same time - creating a server control

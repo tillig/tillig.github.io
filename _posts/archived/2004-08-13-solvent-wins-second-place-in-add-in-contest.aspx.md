@@ -4,7 +4,7 @@ title: "Solvent Wins Second Place in Add-In Contest"
 date: 2004-08-13 -0800
 comments: true
 disqus_identifier: 639
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 I entered [Roy Osherove's Add-In
 Contest](http://dev.magen.com/AddinContest/default.aspx) with my add-in,

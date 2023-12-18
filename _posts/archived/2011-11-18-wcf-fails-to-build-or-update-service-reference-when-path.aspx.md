@@ -4,7 +4,7 @@ title: "WCF Fails to Build or Update Service Reference When Path Too Long"
 date: 2011-11-18 -0800
 comments: true
 disqus_identifier: 1752
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 I was working yesterday on a solution in Visual Studio and noticed that
 **every time I'd rebuild VS would report the build as failed... but
@@ -50,4 +50,3 @@ I'm guessing that something in there isn't using the Unicode path
 extensions that would allow for a 32,767 character max path length.
 Hopefully that will be fixed in the next VS... but I'm not holding my
 breath.
-

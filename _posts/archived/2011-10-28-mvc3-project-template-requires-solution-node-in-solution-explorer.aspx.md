@@ -4,7 +4,7 @@ title: "MVC3 Project Template Requires Solution Node in Solution Explorer"
 date: 2011-10-28 -0800
 comments: true
 disqus_identifier: 1746
-tags: [net,aspnet,vs]
+tags: [dotnet,aspnet,vs]
 ---
 I've got Visual Studio 2010, MVC3, and the latest tools update. I'm all
 patched up. But I'm seeing something weird.
@@ -47,4 +47,3 @@ To work around this, you have to:
 
 I'm not sure what's going on where the project template is somehow keyed
 to the solution, but there you go.
-

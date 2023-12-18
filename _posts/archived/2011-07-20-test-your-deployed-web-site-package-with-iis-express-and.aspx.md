@@ -4,7 +4,7 @@ title: "Test Your Deployed Web Site Package with IIS Express and Visual Studio"
 date: 2011-07-20 -0800
 comments: true
 disqus_identifier: 1726
-tags: [net,vs,testing,gists]
+tags: [dotnet,vs,testing,gists]
 ---
 With [the ability to transform your web.config file when deploying your
 web site](http://msdn.microsoft.com/en-us/library/dd465318.aspx) came,
@@ -194,4 +194,3 @@ Machine!** Have fun!
         <Exec Command="&quot;$(MSBuildProgramFiles32)\IIS Express\appcmd.exe&quot; add site /name:&quot;%(ProjectReference.Name)&quot; /bindings:%(ProjectReference.IISExpressBindings) /physicalPath:&quot;%(ProjectReference.RootDir)%(ProjectReference.Directory)obj\$(Configuration)\Package\PackageTmp&quot;" />
       </Target>
     </Project>
-

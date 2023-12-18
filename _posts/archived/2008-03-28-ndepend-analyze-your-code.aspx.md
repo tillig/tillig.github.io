@@ -4,7 +4,7 @@ title: "NDepend - Analyze Your Code"
 date: 2008-03-28 -0800
 comments: true
 disqus_identifier: 1366
-tags: [net,ndepend]
+tags: [dotnet,ndepend]
 ---
 [**NDepend**](http://www.ndepend.com) **is a tool you can use to analyze
 your .NET code and find problem areas.**It's exceptionally helpful when
@@ -102,7 +102,7 @@ that's where the fun starts, but that's also where it can get
 overwhelming. **For the first time user, you'll do the analysis, you'll
 see the report come up, and then you'll sit there for a bit wondering,
 "Now what? What do I do with all this information?"**I think that's my
-only real complaint with the product. With a tool like 
+only real complaint with the product. With a tool like
 [FxCop](http://blogs.msdn.com/fxcop/), you know you've broken some rules
 and it tells you what to do about it. With NDepend, the "what to do
 about it" is very subjective - whether or not you need to do anything at
@@ -239,4 +239,3 @@ things that you really do need to know about your code. It's a little
 tough to get started, so you have to be patient, but once you're in,
 you're flying. Learn about your code and make it better. It'll be well
 worth your time, I promise.
-

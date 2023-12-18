@@ -3,7 +3,7 @@ layout: post
 title: "Using Azure DevOps Artifacts NuGet Feeds from Azure DevOps Pipeline Builds"
 date: 2019-02-07 -0800
 comments: true
-tags: [azure,build,net,tfs,vs]
+tags: [azure,build,dotnet,tfs,vs]
 description: "Consuming a package in an Azure DevOps Artifacts feed can be painful in an Azure DevOps build pipeline. Here's how."
 ---
 

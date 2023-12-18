@@ -4,7 +4,7 @@ title: "Sandcastle: I Don't Get It"
 date: 2006-09-06 -0800
 comments: true
 disqus_identifier: 1068
-tags: [net,process,build]
+tags: [dotnet,process,build]
 ---
 I've finally taken some time and looked at
 [Sandcastle](http://www.sandcastledocs.com), the new Microsoft

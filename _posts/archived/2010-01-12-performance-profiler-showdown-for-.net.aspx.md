@@ -4,7 +4,7 @@ title: "Performance Profiler Showdown for .NET"
 date: 2010-01-12 -0800
 comments: true
 disqus_identifier: 1606
-tags: [net,testing]
+tags: [dotnet,testing]
 ---
 I recently had to do some performance profiler evaluation for .NET
 applications and I figured I'd share my results. Note that it's as
@@ -34,7 +34,7 @@ An "X" in the box means it has the feature.
 Testing was done on a dual-2.8GHz processor machine running Windows
 Server 2008 R2 64-bit and 4GB RAM.
 
- 
+
 
 VSTS 2008
 
@@ -52,9 +52,9 @@ Visual Studio integration
 
 X
 
- 
 
- 
+
+
 
 X
 
@@ -62,7 +62,7 @@ X
 
 Standalone application
 
- 
+
 
 X
 
@@ -78,21 +78,21 @@ X
 
 X
 
- 
+
 
 X
 
- 
+
 
 Robust reporting
 
- 
+
 
 X
 
 ?
 
- 
+
 
 X
 
@@ -126,7 +126,7 @@ Measurements Recorded
 
 CPU time
 
- 
+
 
 X
 
@@ -150,19 +150,19 @@ X
 
 Additional perf counters
 
- 
+
 
 X
 
- 
 
- 
+
+
 
 X
 
 Notes
 
- 
+
 
 This requires Visual Studio, which means you have to have VS installed
 on the machine running the app you're profiling. That said, this was the
@@ -211,4 +211,3 @@ application. I'm not counting that. Finally, I found out my ANTS problem
 is fixed in the next version, 6, currently in EAP. Since it's not
 released, I still have to go with the VSTS profiler, but once it's out,
 I'd vote ANTS.
-

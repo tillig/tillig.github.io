@@ -4,7 +4,7 @@ title: "Tweaking Web API URL Request Validation"
 date: 2014-06-17 -0800
 comments: true
 disqus_identifier: 1844
-tags: [net,aspnet]
+tags: [dotnet,aspnet]
 ---
 In working with a REST API project I'm on, I was tasked to create a
 DELETE operation that would take the resource ID in the URL path, like:
@@ -99,4 +99,3 @@ first place, **I changed the algorithm so we could fit them all under
 length configuration in web.config at a higher number, but shrunk it
 down to 1024 instead of sticking at 2048. I ditched the registry change
 – no longer needed.
-

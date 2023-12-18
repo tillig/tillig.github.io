@@ -4,7 +4,7 @@ title: "Working with Windows Identity Foundation in ASP.NET MVC"
 date: 2011-02-01 -0800
 comments: true
 disqus_identifier: 1693
-tags: [net,gists,aspnet,csharp]
+tags: [dotnet,gists,aspnet,csharp]
 ---
 If you've worked with [Windows Identity Foundation](http://msdn.microsoft.com/en-us/security/aa570351), you'll find it very nearly mandates that you implement a passive security token service using classic ASP.NET web forms rather than MVC. It doesn't lend itself well to testability, and in some cases it writes content directly to the response stream without you being able to govern when/how that happens.
 
@@ -202,4 +202,3 @@ namespace MyNamespace.Filters
 Now you have a filter attribute that will check to make sure the incoming message is of an expected type and will deny access if it's not.
 
 **Hopefully some of this will help you get working with WIF in ASP.NET MVC.** It'd have been nice if MVC had been considered in the initial rollout of WIF, but no such luck. I don't even see a [Connect](http://connect.microsoft.com) page for accepting suggestions. Fingers crossed for the next release...!
-

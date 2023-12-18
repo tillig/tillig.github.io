@@ -4,7 +4,7 @@ title: "Adding Custom Files to an MSDeploy Package"
 date: 2013-03-08 -0800
 comments: true
 disqus_identifier: 1813
-tags: [net,build]
+tags: [dotnet,build]
 ---
 As part of some of my web projects I have "plugin assemblies" that
 aren't directly referenced by the project but are things I want included
@@ -73,4 +73,3 @@ dependencies to be kept for the packaging:
 
 That all has to go *after* the line that imports the
 `Microsoft.WebApplication.targets` file.
-

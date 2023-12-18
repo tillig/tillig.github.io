@@ -4,7 +4,7 @@ title: "Data Type Validation and Model Binding in ASP.NET MVC"
 date: 2012-01-31 -0800
 comments: true
 disqus_identifier: 1765
-tags: [net,gists,aspnet,csharp]
+tags: [dotnet,gists,aspnet,csharp]
 ---
 When validating input in a web forms application, you need to [validate data types on the client and server side](http://msdn.microsoft.com/en-us/library/ie/ad548tzy.aspx) because you're working with text boxes and server controls. When you move to MVC, the [client-side validation is still an interesting problem](http://docs.jquery.com/Plugins/Validation#List_of_built-in_Validation_methods) to solve, but the server-side validation all happens as a by-product of model binding.
 
@@ -84,4 +84,3 @@ If you don't have the value in your resources, DefaultModelBinder will fall back
 
 Unfortunately, **you can't change the resource IDs, the string formatting arguments, or anything else**... but at least you can change
 the messages.
-

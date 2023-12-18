@@ -4,7 +4,7 @@ title: "Mixed Mode; And Service Pack 2"
 date: 2004-08-27 -0800
 comments: true
 disqus_identifier: 649
-tags: [net,windows]
+tags: [dotnet,windows]
 ---
 I worked a little while on [my Send To
 project](/archive/2004/08/26/it-just-works-mixed-mode-pinvoke-or-com.aspx)

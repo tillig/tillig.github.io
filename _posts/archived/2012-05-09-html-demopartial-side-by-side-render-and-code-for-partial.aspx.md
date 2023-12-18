@@ -4,7 +4,7 @@ title: "Html.DemoPartial - Side-by-Side Render and Code for Partial Views"
 date: 2012-05-09 -0800
 comments: true
 disqus_identifier: 1781
-tags: [net,gists,aspnet,csharp]
+tags: [dotnet,gists,aspnet,csharp]
 ---
 I was working on an ASP.NET MVC site for demonstrating some internal concepts recently. One of the things I wanted to show was how to use some HtmlHelper extension methods. I wanted the viewer to be able to see the rendered output and then flip to see the code, sort of like how you see in [snazzy demos like the DevExpress MVC Extensions](http://demos.devexpress.com/MVC/).
 

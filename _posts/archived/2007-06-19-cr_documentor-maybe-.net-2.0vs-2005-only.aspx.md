@@ -4,7 +4,7 @@ title: "CR_Documentor - Maybe .NET 2.0/VS 2005 Only"
 date: 2007-06-19 -0800
 comments: true
 disqus_identifier: 1217
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 I've been really struggling with the motivation to get CR_Documentor
 updated for Sandcastle support.  The problem is threefold:
@@ -59,4 +59,3 @@ problems:
 Does anyone care?  Any big voices to continue supporting VS 2003?  If
 not, I'm going to scrap the garbage I've been trying to do to get this
 done and start working on getting it to transform using XSLT.
-

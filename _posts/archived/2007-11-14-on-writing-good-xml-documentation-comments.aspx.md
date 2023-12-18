@@ -4,7 +4,7 @@ title: "On Writing Good XML Documentation Comments"
 date: 2007-11-14 -0800
 comments: true
 disqus_identifier: 1303
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 ![XML doc comment
 screenshot]({{ site.url }}/images/20071114xmlcomment.png)It
@@ -56,7 +56,7 @@ comments:
     set](http://msdn2.microsoft.com/en-us/library/5ast78ax(VS.80).aspx)
     but there is a good [reference here that includes a set of fairly
     widely accepted
-    extensions](http://issuu.com/pchew/docs/xml_document_guide). 
+    extensions](http://issuu.com/pchew/docs/xml_document_guide).
     There's a lot more to comments than the summary.
 3.  **Keep the \<summary/\> short.**  The content in the `<summary/>`
     and `<param/>` tags shows up in Intellisense in the Visual Studio
@@ -67,14 +67,14 @@ comments:
     is where you should expound on what's going on and, in some cases,
     why.  Say you have a custom "ICoolThing" interface and you implement
     that in a "ReallyCoolThing" class.  A bad `<summary/>` would be, "An
-    implementation of the ICoolThing interface that is really cool." 
+    implementation of the ICoolThing interface that is really cool."
     That's not at all helpful - it doesn't tell you anything.  Instead,
-    try something like, "Cool thing used to render XML doc comments." 
+    try something like, "Cool thing used to render XML doc comments."
     (Or whatever it's used for.)  Explaining something in terms of
     itself isn't clarifying, it's just redundant.
 5.  **Write in complete sentences...**  Writing code is a very terse
     experience.  There's a grammar, and it [generally] reads well
-    enough,  but it's a different beast than writing documentation. 
+    enough,  but it's a different beast than writing documentation.
     Documentation is where you need to describe in full, complete
     sentences and paragraphs what's going on.
 6.  **...But be straightforward and don't go overboard with
@@ -87,10 +87,10 @@ comments:
 7.  **I can has grammarz?**  Use proper spelling, grammar, and
     punctuation.  If you're not confident in your writing abilities,
     have someone who is good at this proofread for you.  (Or, better
-    still, integrate the proofreading into your code review process. 
+    still, integrate the proofreading into your code review process.
     You *have* a code review process, *right*?)  It may seem
     unimportant, but these things can make your documentation far easier
-    to understand and may even give users more confidence in your code. 
+    to understand and may even give users more confidence in your code.
     (If the person writing the code can't write a decent sentence, would
     you really have the confidence that all of the error handling and
     such is done right?)  The only time you can write your docs with bad
@@ -191,7 +191,7 @@ comment writing experience.  My two favorites are:
     grab the docs from the base method and use that as your starting
     point.
 -   [CR_Documentor](http://cr-documentor.googlecode.com) - Shows a
-    preview of what your documentation will look like when rendered. 
+    preview of what your documentation will look like when rendered.
     Also adds some XML documentation templates to the editor context
     menu.
 -   [CodeRush
@@ -200,4 +200,3 @@ comment writing experience.  My two favorites are:
 
 **Write the docs you'd like to see.** Start with that, and the rest
 should fall into place for you.
-

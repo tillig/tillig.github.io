@@ -4,7 +4,7 @@ title: "Call an MSBuild Target Like a Function"
 date: 2012-03-21 -0800
 comments: true
 disqus_identifier: 1776
-tags: [net,gists,build]
+tags: [dotnet,gists,build]
 ---
 I'm working on building a bunch of projects that all follow a specific
 convention for naming, NuGet packaging, and so on. As part of that, I
@@ -60,4 +60,3 @@ The output, as you'll see, is that the "Parameterized" target gets
 called once for each item in the group.
 
 ![Build output window]({{ site.url }}/images/20120321batching.png)
-

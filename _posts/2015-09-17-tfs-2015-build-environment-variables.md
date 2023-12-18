@@ -3,7 +3,7 @@ layout: post
 title: "TFS 2015 Build Environment Variables"
 date: 2015-09-17 -0800
 comments: true
-tags: [net,build,tfs]
+tags: [dotnet,build,tfs]
 ---
 I'm working with some builds in [Visual Studio Online](https://www.visualstudio.com/en-us/products/what-is-visual-studio-online-vs.aspx) which, right now, is basically Team Foundation Server 2015. As part of that, I wanted to do some custom work in my build script but _only if the build was running in TFS_.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Hosting DNX RC1 Web Applications in IIS Express"
 date: 2016-02-05 -0800
 comments: true
-tags: [net,aspnet]
+tags: [dotnet,aspnet]
 description: "Want to start IIS Express to host a DNX app without doing it through Visual Studio? This shows you how."
 ---
 Here's the situation:

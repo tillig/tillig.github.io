@@ -4,7 +4,7 @@ title: "Format Configuration Files on Build"
 date: 2012-06-22 -0800
 comments: true
 disqus_identifier: 1783
-tags: [net,build,xml]
+tags: [dotnet,build,xml]
 ---
 We have a large group of devs all working on a single web application.
 As part of that, we have different folks all working in different
@@ -85,4 +85,3 @@ This block of script...
 All in all, it's pretty simple to get working and the end result is
 nice. Now as long as you can maintain a consistent element order in your
 config files, you'll not get a merge conflict due to file formatting.
-

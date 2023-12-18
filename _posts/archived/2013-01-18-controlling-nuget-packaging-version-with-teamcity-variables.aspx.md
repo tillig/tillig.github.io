@@ -4,7 +4,7 @@ title: "Controlling NuGet Packaging Version with TeamCity Variables"
 date: 2013-01-18 -0800
 comments: true
 disqus_identifier: 1801
-tags: [net,gists,build,teamcity]
+tags: [dotnet,gists,build,teamcity]
 ---
 We use [TeamCity](http://www.jetbrains.com/teamcity/) as our build
 server and one of the cool things TeamCity has built in is the ability
@@ -81,4 +81,3 @@ Now when your build configuration runs, the script will calculate your
 NuGet package version and update the value of the property before the
 NuGet Pack tasks run. The NuGet Pack tasks will build your packages
 using the correct calculated version that you controlled through script.
-

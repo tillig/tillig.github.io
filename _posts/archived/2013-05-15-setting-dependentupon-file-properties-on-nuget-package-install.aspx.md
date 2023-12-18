@@ -4,7 +4,7 @@ title: "Setting DependentUpon File Properties on NuGet Package Install"
 date: 2013-05-15 -0800
 comments: true
 disqus_identifier: 1818
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 In working on some NuGet packages, one thing I wanted to do was set up
 some configuration files in preparation for
@@ -124,4 +124,3 @@ MSDN](http://msdn.microsoft.com/en-us/library/vstudio/bb491814.aspx), it
 appears there's a much more involved bit of work to do and I'm not sure
 that I have access to all the requisite DTE objects from inside the
 script.
-

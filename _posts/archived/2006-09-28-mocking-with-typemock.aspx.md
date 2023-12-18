@@ -4,7 +4,7 @@ title: "Mocking with TypeMock"
 date: 2006-09-28 -0800
 comments: true
 disqus_identifier: 1080
-tags: [net,testing]
+tags: [dotnet,testing]
 ---
 [![TypeMock]({{ site.url }}/images/20060928typemocklogo.png)](http://www.typemock.com)I've
 been a slow convert to the whole test-driven development movement. I'm

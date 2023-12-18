@@ -4,7 +4,7 @@ title: "UrlAbsolutifierModule - Convert URLs in ASP.NET Output to Absolute"
 date: 2007-12-14 -0800
 comments: true
 disqus_identifier: 1321
-tags: [aspnet,blog,net,subtext,downloads,net]
+tags: [aspnet,blog,dotnet,subtext,downloads,net]
 ---
 So here's the problem:
 
@@ -71,4 +71,3 @@ Source](https://github.com/tillig/UrlAbsolutifierModule/archive/v1.0.0.zip)**]
 
 **Version History**:
  **1.0.0**: First release.
-

@@ -4,7 +4,7 @@ title: "Getting Started with NDepend 3"
 date: 2010-08-02 -0800
 comments: true
 disqus_identifier: 1658
-tags: [net,ndepend]
+tags: [dotnet,ndepend]
 ---
 I was fortunate enough to get my hands on a license for NDepend 3 so I
 decided to take it for a spin. I'd had [some experience with NDepend
@@ -252,4 +252,3 @@ of the project, this becomes exceptionally powerful.
 
 [**Head over to NDepend and check it out.**](http://www.ndepend.com)
 It's well worth your time and better than ever.
-

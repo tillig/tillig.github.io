@@ -4,7 +4,7 @@ title: "VS 2008 Now My Worst Install Experience EVAR"
 date: 2007-11-20 -0800
 comments: true
 disqus_identifier: 1305
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 I just got done with installing Visual Studio 2008.  It now is the
 installation experience that I will rank other installation experiences
@@ -58,4 +58,3 @@ against to see how badly they suck - on a scale of "Awesome" to "VS
 ridiculous.  From what I hear, I'm not the only one eating it on this
 one.  I don't remember the betas kicking my ass like this.  What
 happened?
-

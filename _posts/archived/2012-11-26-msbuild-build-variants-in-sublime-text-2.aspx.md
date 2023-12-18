@@ -4,7 +4,7 @@ title: "MSBuild Build Variants in Sublime Text 2"
 date: 2012-11-26 -0800
 comments: true
 disqus_identifier: 1795
-tags: [net,gists,sublime]
+tags: [dotnet,gists,sublime]
 ---
 Sublime Text 2 has a nice feature where you can hit "Ctrl+B" or select "Tools -> Build" from the menus and, based on the current file type, a build system will be automatically selected and executed against that file.
 
@@ -63,4 +63,3 @@ For example, say you have a project "MyProject.csproj" that builds "MyProject.ex
 ```
 
 In this way, the wrapper script knows what the "run" action is and you can still use the Debug/Release configuration build variants. Obviously if you have a web site or something other than a simple .exe, your "run"action is going to be more involved. I'll leave that as an exercise for the reader.
-

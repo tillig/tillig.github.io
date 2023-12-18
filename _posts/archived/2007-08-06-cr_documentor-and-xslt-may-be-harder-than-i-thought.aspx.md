@@ -4,7 +4,7 @@ title: "CR_Documentor and XSLT May Be Harder Than I Thought"
 date: 2007-08-06 -0800
 comments: true
 disqus_identifier: 1249
-tags: [GeekSpeak,net,vs]
+tags: [GeekSpeak,dotnet,vs]
 ---
 I started working on converting
 [CR_Documentor](http://paraesthesia.com/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
@@ -54,6 +54,5 @@ open-source style, but since I can't, I'm sort of stuck.  Motivationally
 challenged, shall we say.
 
 Well, I guess my next step is to look for opportunities to refactor it
-and make the code at least a little easier to maintain and update. 
+and make the code at least a little easier to maintain and update.
 Maybe that will make it easier to implement new rendering views.
-

@@ -4,7 +4,7 @@ title: "ImageShackWriterPlugin - Upload to ImageShack from Windows Live Writer"
 date: 2009-12-15 -0800
 comments: true
 disqus_identifier: 1597
-tags: [downloads,net,blog]
+tags: [downloads,dotnet,blog]
 ---
 I have to admit - I'm a [Windows Live
 Writer](http://windowslivewriter.spaces.live.com/) convert. I tried
@@ -38,4 +38,3 @@ It was surprisingly easy to write, which was cool.
 
 **It's free and open source.**[**Go pick it up on Google
 Code**](http://code.google.com/p/imageshackwriterplugin/)**.**
-

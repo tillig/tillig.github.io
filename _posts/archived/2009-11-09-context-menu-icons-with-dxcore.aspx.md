@@ -4,7 +4,7 @@ title: "Context Menu Icons with DXCore"
 date: 2009-11-09 -0800
 comments: true
 disqus_identifier: 1587
-tags: [gists,net,vs,csharp]
+tags: [gists,dotnet,vs,csharp]
 ---
 A long time ago [I posted a little sample showing how to get context menus working with your DXCore plugin](/archive/2005/02/02/cr_contextmenudemo-a-context-menu-demonstration-for-dxcore.aspx). As part of a new plugin I'm working on, I wanted to get an icon to show up in the context menu next to my entry in the menu, something like the icon you see for the Refactor! menu.
 
@@ -40,4 +40,3 @@ Note the "ToBitmap()" call I have there - that's because the "Face" and "Mask" p
 Once you have that, your button should have the proper icon with transparency in the context menu. Done!
 
 **UPDATE 3/4/2010**: Rather than setting "Face" and "Mask" separately, use the "SetFace" method. Setting the properties manually works in VS2008 but fails in VS2010; using "SetFace" works in both.
-

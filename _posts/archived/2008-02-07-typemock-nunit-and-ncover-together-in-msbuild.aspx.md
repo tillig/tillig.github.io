@@ -4,7 +4,7 @@ title: "TypeMock, NUnit and NCover Together in MSBuild"
 date: 2008-02-07 -0800
 comments: true
 disqus_identifier: 1345
-tags: [gists,net,testing,build]
+tags: [gists,dotnet,testing,build]
 ---
 Getting [TypeMock](http://www.typemock.com),
 [NUnit](http://www.nunit.org/), and [NCover](http://ncover.org/) to work
@@ -164,5 +164,3 @@ Additional notes:
     you don't need to execute "regsvr32" to register/unregister NCover.
     As long as NCover is registered before you start TypeMock, you're
     OK.
-
-

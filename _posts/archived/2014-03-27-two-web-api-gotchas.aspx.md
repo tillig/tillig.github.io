@@ -4,7 +4,7 @@ title: "Two Web API Gotchas"
 date: 2014-03-27 -0800
 comments: true
 disqus_identifier: 1839
-tags: [net,aspnet]
+tags: [dotnet,aspnet]
 ---
 I just spent a day fighting these so I figured I'd share. You may or may
 not run into them. They do get pretty low-level, like, "not the common
@@ -105,4 +105,3 @@ descriptor (if it's present) to get configuration rather than holding
 its own reference. And so on, all the way up the stack, such that routes
 get their configuration from the route table, which is owned by the root
 configuration object. Set it and forget it.
-

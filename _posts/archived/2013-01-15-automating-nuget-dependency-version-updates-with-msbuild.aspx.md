@@ -4,7 +4,7 @@ title: "Automating NuGet Dependency Version Updates with MSBuild"
 date: 2013-01-15 -0800
 comments: true
 disqus_identifier: 1800
-tags: [net,gists,build,xml]
+tags: [dotnet,gists,build,xml]
 ---
 Although [I wasn't a big fan of NuGet](/archive/2011/10/27/nuget-doesnt-help-me.aspx) when it started getting big, I have to admit it's grown on me. I think part of that has to do with the large amount of improvement we've seen since back then. Regardless, I'm in a position with [Autofac](https://autofac.googlecode.com) and other projects where I'm not only *consuming* NuGet packages, I'm also *producing* them.
 
@@ -127,4 +127,3 @@ Generally what you'll want to do from a process perspective, then, is:
 4.  Run `nuget pack `on the staged packages to build the final output.
 
 This will ensure the final built NuGet packages all have dependencies set to be the same version you're building and testing against.
-

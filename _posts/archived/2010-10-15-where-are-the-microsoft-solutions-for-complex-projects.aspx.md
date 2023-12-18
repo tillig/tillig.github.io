@@ -4,7 +4,7 @@ title: "Where Are the Microsoft Solutions for Complex Projects?"
 date: 2010-10-15 -0800
 comments: true
 disqus_identifier: 1675
-tags: [net,process]
+tags: [dotnet,process]
 ---
 I've spent the majority of my recent career working on fairly complex
 systems. Integrated services across disparate business units with
@@ -48,4 +48,3 @@ before](/archive/2009/04/21/challenges-of-multi-tenant-enterprise-asp.net-applic
 
 Venting? Sure. But am I alone in wondering where this stuff is? I don't
 think so.
-

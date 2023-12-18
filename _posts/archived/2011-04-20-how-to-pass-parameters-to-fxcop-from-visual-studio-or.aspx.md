@@ -4,7 +4,7 @@ title: "How to Pass Parameters to FxCop from Visual Studio - OR - How to Fix the
 date: 2011-04-20 -0800
 comments: true
 disqus_identifier: 1709
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 If you've enabled FxCop to run on your projects in Visual Studio,
 chances are you've seen the dreaded CA0060 warning:
@@ -85,4 +85,3 @@ along with everything else and the CA0060 warning will go away. Plus,
 the setting is transported along with the individual project, so it
 doesn't affect your installed config files and you don't have to get any
 developers to do anything to their machines. Done!
-

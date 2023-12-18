@@ -3,7 +3,7 @@ layout: post
 title: "Generate Strongly-Typed Resources with .NET Core"
 date: 2022-09-30 -0800
 comments: true
-tags: [net,csharp,vs]
+tags: [dotnet,csharp,vs]
 description: "Visual Studio automatically handles generating strongly-typed resources (*.Designer.cs from *.resx) but that doesn't work from VS Code or just the dotnet CLI. Here's how to fix it."
 ---
 

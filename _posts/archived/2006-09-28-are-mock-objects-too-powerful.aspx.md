@@ -4,7 +4,7 @@ title: "Are Mock Objects Too Powerful?"
 date: 2006-09-28 -0800
 comments: true
 disqus_identifier: 1079
-tags: [net,testing]
+tags: [dotnet,testing]
 ---
 ![Playing with matches will get you
 burned.]({{ site.url }}/images/20060928match.jpg)Lately

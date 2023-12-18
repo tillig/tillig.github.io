@@ -4,7 +4,7 @@ title: "Typemock Isolator Open Source Licenses"
 date: 2008-07-24 -0800
 comments: true
 disqus_identifier: 1423
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 Just got word from the folks over at [Typemock](http://www.typemock.com)
 - if you have an open source project and you want to use Typemock
@@ -30,4 +30,3 @@ everything in DXCore that I interact with. Now I can!
 
 Big side benefit - the folks who are unfamiliar with Isolator can see
 how open source projects use it and see the benefits. Sweet!
-

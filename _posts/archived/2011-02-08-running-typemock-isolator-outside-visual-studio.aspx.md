@@ -4,7 +4,7 @@ title: "Running Typemock Isolator Outside Visual Studio"
 date: 2011-02-08 -0800
 comments: true
 disqus_identifier: 1697
-tags: [net,vs]
+tags: [dotnet,vs]
 ---
 I've blogged before about [getting Typemock, NUnit, and NCover all
 working together in
@@ -263,8 +263,7 @@ GUI, you need to do a similar trick as we did in NCover Explorer, above
 test runner tools - starting the tool through TMockRunner.exe should get
 you the results you're looking for.
 
- 
+
 
 Hopefully this helps you get your tests running with Typemock Isolator
 outside Visual Studio. Happy testing!
-
