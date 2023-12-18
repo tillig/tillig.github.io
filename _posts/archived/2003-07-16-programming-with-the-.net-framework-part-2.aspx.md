@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 298
 tags: [dotnet,personal]
 ---
+<!--markdownlint-disable MD036 -->
 *10:49a*
 
  There's some road work down the street and someone cut the power to the

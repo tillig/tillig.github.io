@@ -137,10 +137,10 @@ MVC-friendly wrapper around [the extraordinarily robust ASPxGridView
 control](http://documentation.devexpress.com/#AspNet/CustomDocument5823).
 Adding a GridView via the extension has basically four steps:
 
-1.  Add a partial view that contains the grid proper.
-2.  In the main view, render the partial view with your grid.
-3.  Add a controller action that returns just the grid partial view.
-4.  In the grid definition, indicate which action renders your grid
+1. Add a partial view that contains the grid proper.
+2. In the main view, render the partial view with your grid.
+3. Add a controller action that returns just the grid partial view.
+4. In the grid definition, indicate which action renders your grid
     partial view so sort operations, etc., can do the appropriate
     callback.
 
@@ -252,14 +252,14 @@ links.]({{ site.url }}/images/20110324finishedgrid.png)
 
 Nice. Now, you probably have two questions about this:
 
-1.  *Could I have accomplished this just using an HTML table and some
+1. *Could I have accomplished this just using an HTML table and some
     foreach looping?* Sure, but what I get by using the extension is the
     sorting, AJAX loading, and additional flexibility that the logic
     inside the GridView brings. It comes with a bit of a price in that
     you do dip your toe back in the web forms waters, so whether it's
     appropriate for you will be a balance between your desire to remain
     pure and your desire for packaged super-functionality.
-2.  *Could I have added inline editing and deleting?* Yes, I could have
+2. *Could I have added inline editing and deleting?* Yes, I could have
     done everything right in the grid, adding editing templates and
     delete confirmations and all that right there. That might even have
     been a nicer user experience. On the other hand, it would have
@@ -569,7 +569,7 @@ The last thing I wanted to try was **adding model validation** in. This
 article's running a bit on the long side already so I'll cut right to
 it:
 
--   **I wasn't able to get the jQuery validation working.** I fought
+- **I wasn't able to get the jQuery validation working.** I fought
     with it for about an hour, but simply setting the web.config
     parameters and/or setting Html.EnableClientValidation() didn't do
     it. The form always seemed to post, regardless of the validity of
@@ -577,7 +577,7 @@ it:
     was incorrect. I ended up adding the original
     MicrosoftMvcValidation.js style validation back in and disabling the
     jQuery validation and that worked.
--   **The**[**demo showing validation using the MVC
+- **The**[**demo showing validation using the MVC
     extensions**](http://mvc.devexpress.com/Editors/ModelValidation)***says*
     it's using standard DataAnnotations** model validation but when you
     look at the demo code, it's *doing some really crazy custom stuff*.
@@ -587,10 +587,10 @@ it:
     spend a ton of time on this but I have a feeling there was something
     I wasn't wiring up properly, or that maybe there's some flag or
     setting I wasn't wiring up right.
--   **Validation with the date picker was effortless.** It validates
+- **Validation with the date picker was effortless.** It validates
     just like a text box, no problems. I didn't have to wire anything
     special up.
--   **I didn't try validation with the HTML editor.** After working
+- **I didn't try validation with the HTML editor.** After working
     through the model binding issue, I didn't want to get into the
     validation thing. It may have been easy, but somehow I'm thinking
     I'd have gotten into writing custom client-side adapters or trying
@@ -602,21 +602,21 @@ it:
 **So, given all that, the results of my spike with the DevExpress MVC
 Extensions:**
 
--   **They look really nice.** Out of the box, the styles are really
+- **They look really nice.** Out of the box, the styles are really
     nice so it makes it simple to add some quick hotness to your site.
--   **Custom styling isn't fall-down easy.** The controls can get a
+- **Custom styling isn't fall-down easy.** The controls can get a
     little complex so you do need to look at using the DevExpress themes
     that ship with the extensions, possibly with customizations. You
     probably won't be able to get by just throwing a couple of quick
     overrides in a separate CSS file, and it may be a challenge to
     figure out what to change to achieve the results you want.
--   **Simple use cases are a breeze.** It was easy to sub the date
+- **Simple use cases are a breeze.** It was easy to sub the date
     picker in as my date editor and just as easy to get validation
     working in it.
--   **Damn, I love that date picker.** I just wanted to throw that in
+- **Damn, I love that date picker.** I just wanted to throw that in
     there again. I'd almost buy the package just for that really nice
     date picker.
--   **The complex controls are very full-featured but can be complex to
+- **The complex controls are very full-featured but can be complex to
     work with.** The GridView and HTML editor have a ton of fantastic
     features, but they're not really fall-down simple to work with.
     While there are a lot of demos, figuring out what each line in the
@@ -628,19 +628,19 @@ Extensions:**
     them. Model binding, as you saw, was also a challenge in the more
     complex controls (HTML editor), though hopefully that will get
     easier as new versions are released.
--   **There's still a touch of web forms in places.** For example, the
+- **There's still a touch of web forms in places.** For example, the
     GridView exposing data binding events, working with DataBinder.Eval,
     and so forth, felt pretty web forms to me. I'm not sure what I'd
     like to see instead, but you've probably read in places that "data
     binding in MVC is a foreach loop" - it might be nice to see
     something closer to that level of simplicity.
--   **Callback partial views can throw a wrench in the works.** The
+- **Callback partial views can throw a wrench in the works.** The
     GridView and HTML editor, being AJAX-y controls, need partial views
     that they can call back to and update their content. You saw how
     this made using the HTML editor a bit of a challenge in an
     EditorTemplate. I can see that it may get a little less than
     straightforward in other areas, too.
--   **DevExpress support is awesome.** I've had a great experience
+- **DevExpress support is awesome.** I've had a great experience
     working with the DevExpress folks - community, tech support, devs -
     throughout my relationship with them using CodeRush and Refactor,
     and using the MVC Extensions is no different. You get quick answers

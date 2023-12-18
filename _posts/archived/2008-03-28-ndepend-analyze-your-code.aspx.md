@@ -90,6 +90,7 @@ assemblies in your project, including dependencies, are all either
 relative or absolute. You can't save some assemblies with relative paths
 and some without, and that can be a problem when you're looking at
 projects like Visual Studio add-ins that use some assemblies like EnvDTE
+
 - they get saved with relative paths. **You can fix this by manually
 modifying the project file (it's XML), but NDepend won't automatically
 pick up your changes**if you do that - you'll need to manually reload

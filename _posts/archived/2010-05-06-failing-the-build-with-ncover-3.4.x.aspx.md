@@ -18,20 +18,20 @@ Unfortunately, that doesn't really work for me. I'm going to run unit tests on m
 
 **I'm working with the following tools**:
 
--   .NET 4.0
--   MSBuild (with the .NET 4.0 tools version)
--   NCover 3.4.3 Classic
+- .NET 4.0
+- MSBuild (with the .NET 4.0 tools version)
+- NCover 3.4.3 Classic
 
 **The basic algorithm**:
 
-1.  Run your tests with the `<NCover>` MSBuild task and get your coverage numbers.
-2.  Run the `<NCoverReporting>` MSBuild task to create a "SymbolModule"summary report.
-3.  Use XSLT inside the `<NCoverReporting>` task to transform the output of the "SymbolModule" report into something you can more easily use with actual coverage percentages in it.
-4.  Use the `<XmlPeek>` task to get the minimum coverage requirements out of the MSBuild script.
-5.  Use the `<WriteLinesToFile>` task to create a temporary XML file that contains the minimum coverage requirements and the actual coverage information.
-6.  Use the `<XslTransformation>` task to transform that temporary XML file into something that has simple pass/fail data in it.
-7.  Use the `<XmlPeek>` task to look in that simplified report and determine if there are any failures.
-8.  Use the `<Error>` task to fail the build if there are any coverage failures.
+1. Run your tests with the `<NCover>` MSBuild task and get your coverage numbers.
+2. Run the `<NCoverReporting>` MSBuild task to create a "SymbolModule"summary report.
+3. Use XSLT inside the `<NCoverReporting>` task to transform the output of the "SymbolModule" report into something you can more easily use with actual coverage percentages in it.
+4. Use the `<XmlPeek>` task to get the minimum coverage requirements out of the MSBuild script.
+5. Use the `<WriteLinesToFile>` task to create a temporary XML file that contains the minimum coverage requirements and the actual coverage information.
+6. Use the `<XslTransformation>` task to transform that temporary XML file into something that has simple pass/fail data in it.
+7. Use the `<XmlPeek>` task to look in that simplified report and determine if there are any failures.
+8. Use the `<Error>` task to fail the build if there are any coverage failures.
 
 **If this seems like a lot of hoops to jump through, you're right.** It's a huge pain. Longer term, you could probably encapsulate steps 4 – 8 in a single custom MSBuild task, but for the purposes of explaining what's going on (and trying to use things that come out of the box with MSBuild and NCover), I haven't done that.
 
@@ -125,12 +125,12 @@ You need to define the set of reports that will be run as a property in a `<Prop
 
 Now, there are a few interesting things to notice here.
 
--   **There's a variable called "SimplifiedReportXsltPath" that points to an XSLT file you don't have yet.** I'll give that to you in a minute.
--   **SimplifiedCoverageReportPath will eventually have the easy XML summary of the stuff** we're interested in. Keep that around.
--   **SimplifiedCoverageReportOutputs variable follows the format for defining a report to generate** [as outlined in the NCover documentation](http://docs.ncover.com/ref/3-0/ncover-reporting/msbuild/coverage-options#or). NCover Classic doesn't support many reports, but SymbolModule is one it does support.
--   **The SymbolModule report is defined as an Html format report** rather than Xml. This is important because when we define it as "Html" then the report will automatically run through our XSLT to transform. The result of the transformation doesn't actually have to be HTML.
--   **The MinimumCoverage variable is defined in the format used to fail the build if you're running under NCover Complete.** This format is [also defined in the documentation](http://docs.ncover.com/ref/3-0/ncover-reporting/msbuild/build-server#mc). The parameter as passed to the `<NCoverReporting>` task will be ignored if you run it under Classic but will actually act to fail the build if run under Complete. The point here is that we'll be using the same definition for minimum coverage that `<NCoverReporting>` uses.
--   **An XsltOverridePath is specified on the `<NCoverReporting>` task.** This lets us use our custom XSLT (which I'll give you in a minute) to create a nice summary report.
+- **There's a variable called "SimplifiedReportXsltPath" that points to an XSLT file you don't have yet.** I'll give that to you in a minute.
+- **SimplifiedCoverageReportPath will eventually have the easy XML summary of the stuff** we're interested in. Keep that around.
+- **SimplifiedCoverageReportOutputs variable follows the format for defining a report to generate** [as outlined in the NCover documentation](http://docs.ncover.com/ref/3-0/ncover-reporting/msbuild/coverage-options#or). NCover Classic doesn't support many reports, but SymbolModule is one it does support.
+- **The SymbolModule report is defined as an Html format report** rather than Xml. This is important because when we define it as "Html" then the report will automatically run through our XSLT to transform. The result of the transformation doesn't actually have to be HTML.
+- **The MinimumCoverage variable is defined in the format used to fail the build if you're running under NCover Complete.** This format is [also defined in the documentation](http://docs.ncover.com/ref/3-0/ncover-reporting/msbuild/build-server#mc). The parameter as passed to the `<NCoverReporting>` task will be ignored if you run it under Classic but will actually act to fail the build if run under Complete. The point here is that we'll be using the same definition for minimum coverage that `<NCoverReporting>` uses.
+- **An XsltOverridePath is specified on the `<NCoverReporting>` task.** This lets us use our custom XSLT (which I'll give you in a minute) to create a nice summary report.
 
 **Use XSLT inside the `<NCoverReporting>` task to transform the output of the "SymbolModule" report into something you can more easily use with actual coverage percentages in it.**
 
@@ -222,7 +222,7 @@ Next, we're specifying some "XmlContent" on that `<XmlPeek>` task because we hav
 
 The "Query" parameter uses some XPath to find all of the `<Threshold>` elements defined in `$(MinimumCoverage)` that are assembly-level thresholds. We can't really do anything with, say, cyclomatic-complexity thresholds (at least, not in this article) so we're only getting the values we can do something about.
 
-Finally, we're sticking the `<Threshold>` nodes we found into a `@(ModuleCoverageRequirements)`` array variable. Each item in that array will be one `<Threshold>` node (as an XML string).
+Finally, we're sticking the `<Threshold>` nodes we found into a `@(ModuleCoverageRequirements)` array variable. Each item in that array will be one `<Threshold>` node (as an XML string).
 
 **Use the `<WriteLinesToFile>` task to create a temporary XML file that contains the minimum coverage requirements and the actual coverage information.**
 
@@ -356,8 +356,8 @@ Notice in my sample report that one of the assemblies passed and the other faile
 
 The net result of that:
 
--   The .tmp file will be deleted.
--   The `$(SimplifiedCoverageReportPath)` will now be that final report with the pass/fail marker in it.
+- The .tmp file will be deleted.
+- The `$(SimplifiedCoverageReportPath)` will now be that final report with the pass/fail marker in it.
 
 **Use the `<XmlPeek>` task to look in that simplified report and determine if there are any failures.**
 

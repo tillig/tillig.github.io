@@ -49,4 +49,3 @@ I'm feeling way better even today, but my back is sore from sitting on
 my not-remotely-ergonomic couch all day yesterday so I'm glad to be in
 my chair... even though my work chair is also not really my favorite.
 Looking forward to getting rid of this cough - it's getting old.
-

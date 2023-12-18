@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 292
 tags: [sql,personal]
 ---
+<!--markdownlint-disable MD036 -->
 *9:35a*
 
  Well, I didn't win the lottery (obviously), so I'm in class again.

@@ -9,11 +9,17 @@ description: "As programming languages, frameworks, and features evolve, I somet
 
 I saw a Twitter thread the other day that got me thinking:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">After 8 years with <a href="https://twitter.com/hashtag/golang?src=hash&amp;ref_src=twsrc%5Etfw">#golang</a>, I don&#39;t understand how I enjoyed programming before. I no longer have no tolerance for excessive boilerplate, verbosity, slow builds, overabstracted APIs, lack of first-class concurrency, bulky performance tools, ...</p>&mdash; Jaana Dogan (@rakyll) <a href="https://twitter.com/rakyll/status/1293629285974982656?ref_src=twsrc%5Etfw">August 12, 2020</a></blockquote>
+> After 8 years with [#golang](https://twitter.com/hashtag/golang?src=hash&amp;ref_src=twsrc%5Etfw"), I don't understand how I enjoyed programming before. I no longer have no tolerance for excessive boilerplate, verbosity, slow builds, overabstracted APIs, lack of first-class concurrency, bulky performance tools, ...
+>
+> &mdash; Jaana Dogan (@rakyll) [August 12, 2020](https://twitter.com/rakyll/status/1293629285974982656?ref_src=twsrc%5Etfw)
 
 One of the responses hit home for me:
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">My problem with <a href="https://twitter.com/hashtag/golang?src=hash&amp;ref_src=twsrc%5Etfw">#golang</a> is that I love it, I got stuff done fast, didn’t need to use it for a few weeks and forgot everything. I have this learning curve spin up very time I use it. I don’t have that spin up time with C#.</p>&mdash; Herb Stahl (@JustAHerb) <a href="https://twitter.com/JustAHerb/status/1293661645269430272?ref_src=twsrc%5Etfw">August 12, 2020</a></blockquote>
+> My problem with [#golang](https://twitter.com/hashtag/golang?src=hash&amp;ref_src=twsrc%5Etfw) is that I love it, I got stuff done fast, didn’t need to use it for a few weeks and forgot everything. I have this learning curve spin up very time I use it. I don’t have that spin up time with C#.
+>
+> &mdash; Herb Stahl (@JustAHerb) [August 12, 2020](https://twitter.com/JustAHerb/status/1293661645269430272?ref_src=twsrc%5Etfw)
+
+And a little disclaimer...
 
 > _Warning_: I'm going off on a bit of a tear here, and I color a little outside the lines of the argument. I'm having a tough time trying to convey a lot of frustration I've had recently with Go and Spring Boot / Java, and reading about folks loving the removal of boilerplate _as a feature_ is touching on a pain point.
 

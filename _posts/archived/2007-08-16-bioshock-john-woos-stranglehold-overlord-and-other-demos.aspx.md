@@ -13,7 +13,7 @@ time.
 **The Good Ones...**
 
 [![Bioshock Gamestop Limited
-Edition]({{ site.url }}/images/20070816bioshock.jpg)**Bioshock**](http://www.gamestop.com/product.asp?product%5Fid=200317): 
+Edition]({{ site.url }}/images/20070816bioshock.jpg)**Bioshock**](http://www.gamestop.com/product.asp?product%5Fid=200317):
 Possibly the richest first-person shooter environment I've ever seen,
 this game takes you to the underwater city of "Rapture," an exquisite
 art deco masterpiece, where you take on a society of genetically
@@ -32,7 +32,7 @@ version](http://www.amazon.com/gp/product/B000MKA60W?ie=UTF8&tag=mhsvortex&linkC
 try finding one [new/used at
 Amazon](http://www.amazon.com/gp/product/B000VESHEQ?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000VESHEQ).
 
-**[Overlord](http://www.amazon.com/gp/product/B000QS1K46?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000QS1K46)**: 
+**[Overlord](http://www.amazon.com/gp/product/B000QS1K46?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000QS1K46)**:
 Tired of being the good guy in games?  Be the bad guy!  This game lets
 you "construct your evil empire" by ordering your minions about to carry
 out your nefarious deeds.  You run around in third-person as the
@@ -42,7 +42,7 @@ sure I'll pay a full $60 for it, but if I find it used for cheaper,
 I'll certainly look twice.
 
 **[John Woo's
-Stranglehold](http://www.amazon.com/gp/product/B000GPVUOY?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000GPVUOY)**: 
+Stranglehold](http://www.amazon.com/gp/product/B000GPVUOY?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000GPVUOY)**:
 I like John Woo, and while I wasn't overwhelmed by the awesomeness of
 *[Hard
 Boiled](http://www.amazon.com/gp/product/B000N4SHNK?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000N4SHNK)*,
@@ -51,7 +51,7 @@ Tequila, the [Chow Yun-Fat](http://us.imdb.com/name/nm0000334/)
 character, a cop trying to track down some cop killers.  Running around
 shooting the bad guys is fun, and the special powers you get and the
 interactions with the environment make it cool to watch and play.  Even
-Jenn was commenting on how cool it looked as I showed her the demo. 
+Jenn was commenting on how cool it looked as I showed her the demo.
 Very easy to pick up and play and even comes with a "Casual" difficulty
 so you can just have fun with it.  Again, maybe not $60, but definitely
 on the list.
@@ -59,16 +59,16 @@ on the list.
 **The Not-So-Good Ones...**
 
 **[Hexic
-2](http://www.xbox.com/en-US/games/h/hexic2xboxlivearcade/default.htm)**: 
+2](http://www.xbox.com/en-US/games/h/hexic2xboxlivearcade/default.htm)**:
 I played the first one because it came for free with the Xbox 360.  This
 one adds an incomprehensible "battle mode" and removes the easy-to-see
 colors of the original interface with a washed-out set of colors that
 makes the whole thing just confusing and hard to play.  Deleted.
 
-**[Fatal Inertia](http://www.xbox.com/en-US/games/f/fatalinertia/)**: 
-Spaceship racing with weapons thrown in - hey, never seen that before. 
+**[Fatal Inertia](http://www.xbox.com/en-US/games/f/fatalinertia/)**:
+Spaceship racing with weapons thrown in - hey, never seen that before.
 Oh, and if you could make it more difficult to control and basically
-cause me to lose the race if I mess up one turn, that'd be great, too. 
+cause me to lose the race if I mess up one turn, that'd be great, too.
 Deleted.
 
 **[The Darkness](http://www.xbox.com/en-US/games/t/thedarkness/)**:  I
@@ -84,13 +84,12 @@ fun.  Can't imagine putting myself through that torture for $60,
 though.
 
 **[Track and
-Field](http://www.xbox.com/en-US/games/t/trackandfieldxboxlivearcade/default.htm)**: 
+Field](http://www.xbox.com/en-US/games/t/trackandfieldxboxlivearcade/default.htm)**:
 Message to Konami - please stop porting crappy games to the Xbox Live
 Arcade.  Seriously.  Just quit.
 
 **[Ecco the
-Dolphin](http://www.xbox.com/en-US/games/e/eccothedolphinxboxlivearcade/default.htm)**: 
+Dolphin](http://www.xbox.com/en-US/games/e/eccothedolphinxboxlivearcade/default.htm)**:
 Didn't this suck when it came out the first time?  I, uh, swam around
 aimlessly for a while, basically not getting it, dying a few times, and
 called it a day.
-

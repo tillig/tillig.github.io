@@ -6,7 +6,9 @@ comments: true
 disqus_identifier: 1567
 tags: [General Ramblings]
 ---
-[![](http://ecx.images-amazon.com/images/I/61CK4wp-HTL._SL160_.jpg)](http://www.amazon.com/gp/product/B001FWRZ46?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001FWRZ46)Jenn
+[![The Killers - Day & Age](https://ecx.images-amazon.com/images/I/61CK4wp-HTL._SL160_.jpg)](http://www.amazon.com/gp/product/B001FWRZ46?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001FWRZ46)
+
+Jenn
 and I went to see The Killers last night at [the Memorial
 Coliseum](http://www.rosequarter.com/). It was awesome.
 
@@ -29,4 +31,3 @@ a fantastic show. Totally worth the price of admission.
 
 Jenn got her very first concert shirt ever at this show, too, so a
 groundbreaking experience was had by all.
-

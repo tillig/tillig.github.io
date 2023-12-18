@@ -9,7 +9,7 @@ tags: [gaming,xbox]
 I realized that I hadn't posted any update on my Xbox Live DRM problems
 or the dashboard update issues I was having, so here you go.
 
-**The DRM Issue**
+The DRM Issue:
 
 Back in October, I got my third console replacement and [ran into the
 same stupid DRM trouble I had the previous two
@@ -113,4 +113,3 @@ formatted my old drive. Now I have one drive for game content and one
 drive for video content or archiving stuff.
 
 Now, if only they'd remedy this DRM issue...
-

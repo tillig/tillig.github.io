@@ -48,7 +48,7 @@ the worst.  Jessica surprised the crap out of me when I got there,
 though: since I'd been there, they'd bought *a new laser*!  This one was
 an IPL (intense pulsed light, not actually a real laser) like the Dermo
 Flash, but they've had much more success with coarse hair like mine
-using this one and - get this - it's less painful than Dermo Flash. 
+using this one and - get this - it's less painful than Dermo Flash.
 Less painful?  And effective?  Hell yeah.  I actually heard [Handel's
 *Messiah*](http://en.wikipedia.org/wiki/Messiah_(Handel)) playing and
 saw light streaming down from the heavens.
@@ -78,4 +78,3 @@ builds my hope.  I don't think I'll be totally done in just six
 treatments the way we originally thought, but that's okay; if it's
 working and it happens to take a couple of extra treatments, I'm cool
 with that.
-

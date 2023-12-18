@@ -31,6 +31,7 @@ As time went on I got more responsibility and, after a year or so, was
 tending the shop solo. I wasn't running the equipment, but after the
 folks doing the actual cleaning and pressing had gone home, I'd stick
 around and handle the customers coming in to drop off or pick up clothes
+
 - write up the order tickets for people, play cashier, that sort of
 thing. I can still remember the general pricing structure - $3.80 for a
 shirt/blouse to be dry cleaned, $0.50 extra for silk or rayon because
@@ -74,4 +75,3 @@ It's weird how music can make you remember stuff. Now, every time I hear
 101, it's like I'm back at the cleaners on a hot Saturday afternoon,
 waiting for that Porsche to roll in. Maybe this time I'll take that
 ride.
-

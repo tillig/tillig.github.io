@@ -15,7 +15,7 @@ particularly in the last, oh, month or so.
 Yeah, you'd never guess that from the picture, right?
 
 Okay, so a couple of weeks back, it's business as usual - Xev is yowling
-because Jack is riding her back around the house.  (Yes, he's fixed. 
+because Jack is riding her back around the house.  (Yes, he's fixed.
 They both are.  He's just being an asshole.)  They make a mad dash out
 from behind the couch and...
 
@@ -42,11 +42,10 @@ I tried everything short of actually disassembling the damn thing, but
 it was no use.  I ended up taking it to a repair shop who specializes in
 this sort of thing and it turns out the speakers aren't field
 serviceable.  Of course they're not.  Instead, they have to order me a
-replacement, and that's going to cost me - wait for it - **$151**. 
+replacement, and that's going to cost me - wait for it - **$151**.
 That's *one-hundred-and-fifty-one American dollars*.  That's in addition
 to the $25 I already paid them to look at the thing for me (some of
 that is credited toward the total cost of the speaker, *bringing it
 down* to $151).
 
 Travis == Over A Barrel.  ARGH.
-

@@ -15,4 +15,3 @@ run Windows 7 myself, but for those who have and want to get [Google
 Chrome](http://www.google.com/chrome) running on the 64-bit version, you
 need to add the "**--in-process-plugins**" parameter to the chrome.exe
 command line.
-

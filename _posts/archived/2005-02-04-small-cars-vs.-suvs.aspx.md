@@ -11,7 +11,7 @@ who own them never go offroad, never haul anything, and don't know how
 to drive and/or park them, and the fact that they consume natural
 resources like they're going out of style, I believe the SUV is the
 largest atrocity ever to saunter slowly down the freeway.
- 
+
  To that end, here's an excellent educational article for you: [Are
 Small Cars A Threat To SUV
 Drivers?](http://www.divisiontwo.com/articles/parttimemom1.htm)

@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 288
 tags: [sql,personal]
 ---
+<!--markdownlint-disable MD036 -->
 *8:53a*
 
  The instructor made a Starbucks run before class and got me a

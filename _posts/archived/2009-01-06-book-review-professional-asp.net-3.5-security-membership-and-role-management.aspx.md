@@ -24,24 +24,24 @@ This is that book.
 
 The high level table of contents is as follows:
 
--   Chapter 1: Introducing IIS 7.0
--   Chapter 2: IIS 7.0 and ASP.NET Integrated Mode
--   Chapter 3: HTTP Request Processing in IIS 7.0 Integrated Model
--   Chapter 4: A Matter of Trust
--   Chapter 5: Configuration System Security
--   Chapter 6: Forms Authentication
--   Chapter 7: Integrating ASP.NET Security with Classic ASP
--   Chapter 8: Session State
--   Chapter 9: Security for Pages and Compilation
--   Chapter 10: The Provider Model
--   Chapter 11: Membership
--   Chapter 12: SqlMembershipProvider
--   Chapter 13: ActiveDirectoryMembershipProvider
--   Chapter 14: Role Manager
--   Chapter 15: SqlRoleProvider
--   Chapter 16: AuthorizationStoreRoleProvider
--   Chapter 17: Membership and Role Management in ASP.NET AJAX 3.5
--   Chapter 18: Best Practices for Securing ASP.NET Web Applications
+- Chapter 1: Introducing IIS 7.0
+- Chapter 2: IIS 7.0 and ASP.NET Integrated Mode
+- Chapter 3: HTTP Request Processing in IIS 7.0 Integrated Model
+- Chapter 4: A Matter of Trust
+- Chapter 5: Configuration System Security
+- Chapter 6: Forms Authentication
+- Chapter 7: Integrating ASP.NET Security with Classic ASP
+- Chapter 8: Session State
+- Chapter 9: Security for Pages and Compilation
+- Chapter 10: The Provider Model
+- Chapter 11: Membership
+- Chapter 12: SqlMembershipProvider
+- Chapter 13: ActiveDirectoryMembershipProvider
+- Chapter 14: Role Manager
+- Chapter 15: SqlRoleProvider
+- Chapter 16: AuthorizationStoreRoleProvider
+- Chapter 17: Membership and Role Management in ASP.NET AJAX 3.5
+- Chapter 18: Best Practices for Securing ASP.NET Web Applications
 
 The introductory chapters on IIS 7 were particularly interesting to me,
 since I still maintain a lot of legacy code on IIS 6 and haven't had the
@@ -117,4 +117,3 @@ this up.
 In all, this is one of those books I'm really glad to have on my shelf,
 right alongside *[Professional ASP.NET 3.5 in C# and
 VB](http://www.amazon.com/gp/product/0470187573?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=0470187573)*.
-

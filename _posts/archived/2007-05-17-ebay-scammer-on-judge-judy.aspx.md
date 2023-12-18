@@ -10,4 +10,3 @@ I saw this [over at
 BoingBoing](http://www.boingboing.net/2007/05/15/judge_judy_rules_aga.html).
 Judge Judy is my hero. *I aspire to be Judge Judy*. Watch as she rips
 this ridiculous eBay scammer a new one.
-

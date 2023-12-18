@@ -30,4 +30,3 @@ VGA cable and that it's so clear it almost hurts.
 
 Obviously, your mileage may vary, but I think I'm putting this on my
 list of things to get.
-

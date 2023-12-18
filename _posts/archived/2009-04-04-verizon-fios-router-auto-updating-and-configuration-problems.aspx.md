@@ -78,4 +78,3 @@ know what?
 THAT FIXED IT. Suddenly the NAT was back to Open.
 
 What a load of crap.
-

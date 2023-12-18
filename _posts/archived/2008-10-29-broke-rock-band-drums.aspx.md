@@ -22,4 +22,3 @@ also heard I should try out the new *Guitar Hero: World Tour* drum kit
 first. I have a party I'm going to in a couple of weeks where I'll have
 a chance to try the GH drums, so I'll wait until then to make a
 decision. Honestly, right now... those Ion drums are looking goooood.
-

@@ -26,4 +26,3 @@ From a conversation at today's staff meeting...
 > site](http://www.chucknorrisfacts.com/) that says he can do anything.
 
 So, folks, there you have it: *Chuck Norris is the best James Bond*.
-

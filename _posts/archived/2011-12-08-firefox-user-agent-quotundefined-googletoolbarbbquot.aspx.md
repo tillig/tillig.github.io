@@ -37,4 +37,3 @@ thing, that's how you fix it.
 
 **Note:** [Seems I'm not the first person to see
 this](http://support.mozilla.com/en-US/questions/900917).
-

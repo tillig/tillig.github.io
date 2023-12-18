@@ -113,4 +113,3 @@ some help trucking that home. It's never simple.
 Oh, and our Scooba just died, so I'm going to have to get a new one of
 those. And Jenn's car has something up with some belt or another, so
 that's gotta get fixed. Man, *it's always something*.
-

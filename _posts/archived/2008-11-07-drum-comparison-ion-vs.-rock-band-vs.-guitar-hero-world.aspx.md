@@ -17,19 +17,19 @@ not seen such a thing out there.
 
 For reference, and so you know where I'm coming from:
 
--   I was in drama in high school, not band, and I have no musical
+- I was in drama in high school, not band, and I have no musical
     training.
--   I primarily play Xbox 360, though my *GHWT* experience was on the
+- I primarily play Xbox 360, though my *GHWT* experience was on the
     Wii.
--   I like the *Rock Band* **game** more than *GHWT*. The set list is
+- I like the *Rock Band* **game** more than *GHWT*. The set list is
     better and I have a lot invested in downloadable content.
--   I generally play on the "Hard" difficulty, though I'll fall back to
+- I generally play on the "Hard" difficulty, though I'll fall back to
     "Medium" if the song's really difficult on drums. I'm not awesome by
     any means, but I can hold my own.
--   The whole reason I started seriously looking at the Ion kit was that
+- The whole reason I started seriously looking at the Ion kit was that
     I put a hole through the yellow pad in my original *Rock Band* kit.
 
-***Rock Band* Drum Kit**
+## Rock Band Drum Kit
 
 [![Rock Band Drum
 Kit](http://ecx.images-amazon.com/images/I/41%2Bp2BckboL._AA280_.jpg)](http://www.amazon.com/gp/product/B000TT2D2A?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000TT2D2A)
@@ -65,7 +65,7 @@ was off, if the kit was misbehaving, or if I really just sucked as a
 drummer. (Admittedly, I very well may suck, but come on - never once a
 100%? Never?)
 
-***Guitar Hero World Tour* Drum Kit**
+## Guitar Hero World Tour Drum Kit
 
 [![Guitar Hero World Tour Drum
 Kit](http://ecx.images-amazon.com/images/I/419-y3FzR8L._AA280_.jpg)](http://www.amazon.com/gp/product/B001ABN82A?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B001ABN82A)
@@ -112,7 +112,7 @@ four plastic guitars and a mic - I don't need more guitars or another
 mic, so this was a bit disappointing. However, it did give me an excuse
 to get the...
 
-**Ion Drum Rocker**
+## Ion Drum Rocker
 
 [![Ion Drum
 Rocker](http://ecx.images-amazon.com/images/I/41rJl9vOsJL._AA280_.jpg)](http://www.amazon.com/gp/product/B001E2OW1Q?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B001E2OW1Q)
@@ -184,18 +184,16 @@ actual yellow cymbal, stop using the green pad for the crash and
 actually use the green cymbal, etc. Not a bad thing, but something to
 get used to.
 
-**Summary**
+## Summary
 
--   I like, in order of best kit to worst kit: Ion, *GHWT*, *Rock Band*.
--   If you have the choice (and the $300 to spend), go for the Ion. It
+- I like, in order of best kit to worst kit: Ion, *GHWT*, *Rock Band*.
+- If you have the choice (and the $300 to spend), go for the Ion. It
     is, without a doubt, the superior drumming experience. Especially if
     you primarily play the drums in the game.
--   If you don't have the choice but can afford to get the whole *GHWT*
+- If you don't have the choice but can afford to get the whole *GHWT*
     band set (again, at the time of this writing, they don't sell the
     kit by itself), do that. Even the whole band kit is only $180 or
     something, which will save you some cash and get you yet another
     plastic guitar.
--   If you're really going budget, the *Rock Band 2* kit sells
+- If you're really going budget, the *Rock Band 2* kit sells
     standalone for $50. It's not great, but it works.
-
-

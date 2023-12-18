@@ -16,50 +16,50 @@ can feel it leaving me now.
 a good mood. There are lots of things, but here are a few (*...these are
 a few of my favorite things...*):
 
--   Great 80's music (including, but not limited to):
-    -   The Outfield - *Your Love*
-    -   Hall & Oates - *Out of Touch*
-    -   Laura Branigan - *Self Control*
+- Great 80's music (including, but not limited to):
+  - The Outfield - *Your Love*
+  - Hall & Oates - *Out of Touch*
+  - Laura Branigan - *Self Control*
 
--   A stereo with great clarity and better bass
--   Alphonse Mucha artwork
--   Acquiring new technology
--   New CDs and DVDs
--   Going to the movies
--   Biting my tiny Xev cat (just little ones; she purrs when you bite
+- A stereo with great clarity and better bass
+- Alphonse Mucha artwork
+- Acquiring new technology
+- New CDs and DVDs
+- Going to the movies
+- Biting my tiny Xev cat (just little ones; she purrs when you bite
     her... but she purrs when you give her any attention at all)
--   Las Vegas
+- Las Vegas
 
 Then I started thinking about things that piss me off, and realized that
 the list of things that irritate me is much longer than the list of
 things that make me happy. Stuff that pisses me off to no end (again,
 including, but not limited to):
 
--   The font [*MS Comic
+- The font [*MS Comic
     Sans*](http://www.microsoft.com/typography/web/fonts/comicsns/default.htm)
--   People who just
+- People who just
     [can't](/archive/2002/04/02/a-public-safety-announcement.aspx)
     [figure](/archive/2002/06/13/west-end-traffic.aspx)
     [out](/archive/2002/11/04/another-traffic-lesson.aspx) [how to
     drive](/archive/2002/12/09/crash.aspx)
--   People with no [bathroom
+- People with no [bathroom
     etiquette](/archive/2002/02/28/the-previously-unwritten-rules-of-bathroom-etiquette.aspx)
--   Stupid people
--   [Improper
+- Stupid people
+- [Improper
     use](http://owl.english.purdue.edu/handouts/grammar/g_apost.html)
     (and, more importantly, [overt
     abuse](http://www.salon.com/news/col/huff/2002/12/17/apostrophe/?x))
     of apostrophes
--   People who tell you they'll be somewhere and then don't show up
--   People who are consistently late
--   [Bumper stickers](/archive/2002/03/22/bumper-statements.aspx)
--   Industrial carpet
--   People who, when you send them an email that's high priority and the
+- People who tell you they'll be somewhere and then don't show up
+- People who are consistently late
+- [Bumper stickers](/archive/2002/03/22/bumper-statements.aspx)
+- Industrial carpet
+- People who, when you send them an email that's high priority and the
     first line is bold red caps that say **PLEASE READ THIS ENTIRE
     EMAIL**, don't read the email and then send you questions about
     stuff you answered two lines into the note
--   Users
--   Professional sales people - not retail sales, just the ones you
+- Users
+- Professional sales people - not retail sales, just the ones you
     refer to when you say "I'm having a *vendor* stop in today"
 
 And the list goes on, but that's a decent start.

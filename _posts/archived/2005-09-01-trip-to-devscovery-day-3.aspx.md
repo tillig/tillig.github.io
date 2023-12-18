@@ -4,7 +4,7 @@ title: "Trip To Devscovery: Day 3"
 date: 2005-09-01 -0800
 comments: true
 disqus_identifier: 881
-tags: [personal,net]
+tags: [personal,dotnet]
 ---
 Day 3 has been the best of the three days, I think. The first lecture of
 the day I went to was on COM interop and had some really interesting

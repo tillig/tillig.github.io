@@ -28,4 +28,3 @@ scenario.
 
 The doctor is continuing to look into ways to prevent it from happening
 to other animals, but it looks like... well, "it just happens."
-

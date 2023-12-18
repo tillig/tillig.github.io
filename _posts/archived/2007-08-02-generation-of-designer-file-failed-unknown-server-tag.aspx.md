@@ -4,7 +4,7 @@ title: "Generation of Designer File Failed: Unknown Server Tag"
 date: 2007-08-02 -0800
 comments: true
 disqus_identifier: 1245
-tags: [aspnet,net]
+tags: [aspnet,dotnet]
 ---
 I was doing some experimentation with custom web server controls in
 ASP.NET 2.0 so I created a quick [Web Application
@@ -52,10 +52,9 @@ web.config, again omitting the assembly:
 </configuration>
 ```
 
-One thing I noticed was that this seems to be... maybe a little flakey. 
+One thing I noticed was that this seems to be... maybe a little flakey.
 Depending on the circumstances, you may get a page that says your
 control tag is unrecognized at runtime.  That will require you add the
 "assembly" bit to the tag prefix registration in web.config... but that
 will cause you to have trouble in design time because the designer file
 won't be generated properly.  Erg.
-

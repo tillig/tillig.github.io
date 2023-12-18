@@ -33,4 +33,3 @@ dropouts in the 2.4GHz wireless on the router. I've [updated the
 firmware on it to the
 latest](http://support.netgear.com/app/answers/detail/a_id/19250/),
 which is supposed to take care of that, and... so far, so good.
-

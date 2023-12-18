@@ -21,6 +21,7 @@ back again.
  Of course, that doesn't help me because the only input I have left on
 my TV is digital connection (a shared input that can be HDMI, DVI, or
 VGA), so now I have to go get the Xbox 360 VGA cable and swap the inputs
+
 - Xbox 360 for cable box.
 
  Oh, did I mention that's a $75 custom-made DVI cable out the door? And

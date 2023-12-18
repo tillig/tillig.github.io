@@ -22,7 +22,7 @@ I've tried just modifying the registry values corresponding to these settings, b
 
 **Using**[**AutoIt v3**](http://www.autoitscript.com)**, I wrote a little script** that automates this for you: it actually opens up the dialog and does the whole re-application of the settings. In the event you're in the same boat as me (both of you still reading), here's the script:
 
-```
+```text
 #RequireAdmin
 ShellExecute("sysdm.cpl")
 WinWaitActive("System Properties")
@@ -38,4 +38,3 @@ ControlClick("System Properties", "", 1)
 ```
 
 Running that will prompt you for admin credentials if you're not already an admin (because changing system settings requires admin privileges) and clicks all the right buttons to switch you to "best performance" and back to "best appearance."
-

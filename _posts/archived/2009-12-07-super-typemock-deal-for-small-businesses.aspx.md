@@ -22,4 +22,3 @@ deal](https://www.plimus.com/jsp/redirect.jsp?contractId=2616274&referrer=tillig
 for more info, or just [pick yourself up some licenses while you
 can](https://www.plimus.com/jsp/buynow.jsp?contractId=2616274&referrer=tillig).
 Again, it's just running until December 17, so get in while you can!
-

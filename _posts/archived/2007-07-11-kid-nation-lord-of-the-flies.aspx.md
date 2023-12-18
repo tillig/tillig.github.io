@@ -17,4 +17,3 @@ western style?  I'm waiting for the part where Piggy gets killed *on
 national television*.
 
 Yeah, they'll probably edit that out.
-

@@ -24,26 +24,26 @@ working on this thing. Not easy, but it looks really good now.)
 not sure which class I fit in, but let's see if you know what I'm
 talking about:
 
--   **The Managers**: The Managers don't know how to code and they'll
+- **The Managers**: The Managers don't know how to code and they'll
     probably never actually do anything in the development environment.
     They'll watch, ask stupid questions, and "assess," but for all
     intents and purposes, they shouldn't be here. Most likely, they're
     just here to see if the developers that work under them are lying
     when they say something is technologically impossible.
--   **The Over-Participants**: An Over-Participant wants so badly to be
+- **The Over-Participants**: An Over-Participant wants so badly to be
     the teacher's pet that they'll ask questions that were just answered
     or just simply restate what was just said by prepending it with "So,
     let me get this straight..." For example, the teacher will say, "If
     you add two and two, you get four." The Over-Participant will then
     raise his/her hand and, when called on, say, "So, let me get this
     straight - if you add two and two, you get four."
--   **The Talkers**: Talkers don't care if you're trying to listen. They
+- **The Talkers**: Talkers don't care if you're trying to listen. They
     don't care how loud they are, and they sure as hell don't realize
     their voices are very nasal and carry throughout the room. All they
     care about is the fact that they have something to say during the
     lecture. The Talkers always sit right behind me. I'm not sure why.
     Usually the Talkers are talking to the Over-Participants.
--   **The Dirty Programmers**: I'm talking actually, physically dirty.
+- **The Dirty Programmers**: I'm talking actually, physically dirty.
     These are the people who program so much that they forget about
     hygiene. Greasy hair, strong body odor, and clothing requiring a
     good laundering are all required. I think my favorite example of
@@ -51,13 +51,13 @@ talking about:
     never combed his hair and wore oil-stained "Big Dog" t-shirts and
     faded cargo pants both days. Yow. Usually poor social skills
     accompany the Dirty Programmer.
--   **The Non-Technical Programmers**: These are the people who are
+- **The Non-Technical Programmers**: These are the people who are
     hired to program *commercial products* but can't figure out how to
     change their own screen resolution in Windows. You usually see the
     Non-Technical Programmer listening intently to the lecturer and
     nodding at intervals to indicate their apparent understanding of the
     concept being discussed.
--   **The Too-Technical Programmers**: These people already know all
+- **The Too-Technical Programmers**: These people already know all
     about what's being lectured on. They're bored, but they do want to
     learn, so they ask questions that go *way* beyond the scope of the
     lecture, stuff the lecturer would have no way of knowing or even
@@ -77,4 +77,3 @@ through their periphery.
 think about. I've done all I can on my art project. I've even come up
 with a logo for a company event we're having soon. *Bored, bored,
 bored.*
-

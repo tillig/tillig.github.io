@@ -24,6 +24,7 @@ Traveler**](http://www.brookstone.com/store/product.asp?pid=566182&wid=19&cid=19
 This carry-on sized bag has a reasonable amount of space for clothes,
 but the cool bit is the front. There's a zip-open pocket with a
 mini-briefcase that's padded and perfectly holds your laptop and charger
+
 - when you get to your destination, zip it out and carry it with you, no
 separate computer bag needed. There are pockets on the top for easy
 access to stuff like your boarding pass and your quart-bag of liquids,
@@ -34,7 +35,6 @@ I looked at a bunch of carry-on bags (Da Kine, Victorinox, etc.) and
 this seemed to be the best all-around carry-on with a specific focus on
 the computer. Granted, you'll get a little less clothing space here, but
 the zip-out computer bag and such really is cool.
-
 
 [![fūl Backpack 5093
 BP](http://img201.imageshack.us/img201/4245/fulbackpack5093bp.jpg)**fūl
@@ -53,4 +53,3 @@ I found at Costco has all the same stuff - a padded area for your
 computer, looooots of pockets, fully adjustable straps... it was
 perfect. I wore that thing for three days with no problems at all. If
 you're looking for a computer backpack, definitely check it out.
-

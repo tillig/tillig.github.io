@@ -28,12 +28,12 @@ own static *String.IsNullOrEmpty* implementation?
 
  On my project, we have a lot of static helpers that read, process, and
 cache configuration data. The basic algorithm is something like this:
-1.  Check the cache for the data. If it's there, return it.
-2.  Data wasn't in cache, so open the config file.
-3.  XML deserialize the file or do whatever other processing needs to
-    happen.
-4.  Cache and return the result.
 
+1. Check the cache for the data. If it's there, return it.
+2. Data wasn't in cache, so open the config file.
+3. XML deserialize the file or do whatever other processing needs to
+    happen.
+4. Cache and return the result.
 
  Here's some basic sample code:
     public sealed class ConfigService
@@ -74,8 +74,6 @@ cache configuration data. The basic algorithm is something like this:
         return retVal;
       }
     }
-
-
 
  From an API standpoint, it's a one-liner:
 ConfigService.GetConfiguration()
@@ -146,8 +144,6 @@ like this:
         MockManager.Verify();
       }
     }
-
-
 
  Using [TypeMock](http://www.typemock.com), I was able to *easily mock a
 web context* and test this code *without* having to impact the design or

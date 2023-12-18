@@ -4,7 +4,7 @@ title: "Work Continues"
 date: 2003-08-07 -0800
 comments: true
 disqus_identifier: 317
-tags: [sharepoint,net]
+tags: [sharepoint,dotnet]
 ---
 I've started studying for the next test I have to take, MS 070-320,
 which is entitled *Developing XML Web Services and Server Components

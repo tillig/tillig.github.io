@@ -45,4 +45,3 @@ don't.  Why didn't they get it?  *No context.*
 
 So here's my public request to anyone trying to convey any information
 to anyone anywhere - provide context.  Your audience will thank you.
-

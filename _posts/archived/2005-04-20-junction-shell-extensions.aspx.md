@@ -80,7 +80,6 @@ MSI)](https://github.com/tillig/JunctionShellExtensions/releases/download/v1.1.0
 **[Download Junction Shell Extensions 1.1.0 (Source -
 ZIP)](https://github.com/tillig/JunctionShellExtensions/archive/v1.1.0.zip)**
 
-
  For more on how icon overlays work, check out [lallous's article on
 CodeProject](http://www.codeproject.com/shell/overlayicon.asp) (which is
 how I got this going). Also, a special thanks to Mike Nordell, whose

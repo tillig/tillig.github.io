@@ -58,26 +58,26 @@ This was because of some custom route registration stuff.
 
 When you use attribute routes...
 
-1.  The attribute routing mechanism gets the controller selector from
+1. The attribute routing mechanism gets the controller selector from
     the HttpConfiguration object.
-2.  The controller selector gets the controller type resolver from the
+2. The controller selector gets the controller type resolver from the
     HttpConfiguration object to which it holds a reference.
-3.  The controller type resolver locates all the controller types for
+3. The controller type resolver locates all the controller types for
     the controller selector.
-4.  The controller selector builds up a cached list of controller
+4. The controller selector builds up a cached list of controller
     name-to-descriptor mappings. Each descriptor gets passed a reference
     to the HttpConfiguration object.
-5.  The attribute routing mechanism gets the action selector from the
+5. The attribute routing mechanism gets the action selector from the
     HttpConfiguration object.
-6.  The action selector uses type descriptors from the controller type
+6. The action selector uses type descriptors from the controller type
     selector and creates a cached set of action descriptors. Each action
     descriptor gets passed a reference to the HttpConfiguration object
     and get a reference back to the parent controller descriptor.
-7.  The actions from the action selector get looked at for attribute
+7. The actions from the action selector get looked at for attribute
     route definitions and routes are built from the action descriptor.
     Each route has a reference to the descriptor so it knows what to
     execute.
-8.  Execution of an action corresponding to one of these specific routes
+8. Execution of an action corresponding to one of these specific routes
     will use the exact descriptor to which it was tied.
 
 *Basically*. There's a little extra complexity in there I

@@ -18,7 +18,7 @@ certain times and so on.  I get it.  I get it so much I'm really tired
 of people reminding me about it because they think I don't get it.  I
 promise.  I get it.
 
-The other side - the side I seem to always be on is "The Dark Side." 
+The other side - the side I seem to always be on is "The Dark Side."
 Not like [the Dark Side of the
 Force](http://en.wikipedia.org/wiki/Dark_side_%28Star_Wars%29), more
 like "people who are in the dark about any details about what's going
@@ -42,6 +42,7 @@ company.  Any questions?"
 Now's the time you get to ask all the questions you might have.  Try
 them out in my handy simulator:
 
+<!--markdownlint-disable MD033 -->
 <script type="text/javascript">
 var allAnswers = new Array();
 allAnswers[0] = "We don't have an answer for that at this time.";
@@ -58,20 +59,21 @@ allThinking[2] = "Well...";
 
 function think()
 {
-	var i = Math.round((allThinking.length - 1) * Math.random());
-	document.getElementById("answer").innerHTML = allThinking[i];
-	setTimeout('generateAnswer()', 1000);
+ var i = Math.round((allThinking.length - 1) * Math.random());
+ document.getElementById("answer").innerHTML = allThinking[i];
+ setTimeout('generateAnswer()', 1000);
 }
 
 function generateAnswer()
 {
-	var i = Math.round((allAnswers.length - 1) * Math.random());
-	document.getElementById("answer").innerHTML = allAnswers[i];
+ var i = Math.round((allAnswers.length - 1) * Math.random());
+ document.getElementById("answer").innerHTML = allAnswers[i];
 }
 </script>
 
 <p><b>Ask your question about the acquisition of the company:</b><br /><input type="text" /> <input type="button" value="Answer Me!" onclick="think();"/></p>
 <p><b>Answer:</b><br /><span id="answer" /></p>
+<!--markdownlint-enable MD033 -->
 
 *...and there you have it.*
 
@@ -79,4 +81,3 @@ Now go to three or four of these in close succession - one for the whole
 company, one for your division, one for your group within the
 division... you get the idea.  Congratulations!  You've been through the
 acquisition experience.
-

@@ -83,4 +83,3 @@ stressful combination. Maybe I need to just stop caring.
 
 But if I don't care, who will? And, ultimately, what will become of my
 videos?
-

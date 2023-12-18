@@ -6,10 +6,9 @@ comments: true
 disqus_identifier: 1149
 tags: [General Ramblings]
 ---
-[Eric Gunnerson scored
-74%.](http://blogs.msdn.com/ericgu/archive/2006/12/11/classic-rock-test.aspx)
-[Rich Claussen scored
-88%.](http://richhubbins.theclaussens.com/PermaLink,guid,ef3fa33f-2229-454b-b506-15548a6c1c06.aspx)
+<!--markdownlint-disable MD036 -->
+[Eric Gunnerson scored 74%.](http://blogs.msdn.com/ericgu/archive/2006/12/11/classic-rock-test.aspx)
+[Rich Claussen scored 88%.](http://richhubbins.theclaussens.com/PermaLink,guid,ef3fa33f-2229-454b-b506-15548a6c1c06.aspx)
 
 **I scored 92%.**
 

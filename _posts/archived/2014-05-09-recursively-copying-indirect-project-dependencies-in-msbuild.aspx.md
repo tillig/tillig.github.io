@@ -12,22 +12,22 @@ I found [a blog article with an MSBuild target in it that supposedly fixes some 
 
 My app looks something like this (from a reference perspective)
 
--   Project: App Host
-    -   Project: App Startup/Coordination
-        -   Project: Core Utilities
-        -   Project: Server Utilities
-            -   NuGet references and extra junk
+- Project: App Host
+  - Project: App Startup/Coordination
+    - Project: Core Utilities
+    - Project: Server Utilities
+      - NuGet references and extra junk
 
 The application host is where I need everything copied so it all works, but the NuGet references and extra junk way down the stack isn't making it so there are runtime explosions.
 
 **I also decided to solve this with MSBuild, but using an inline code task.** This task will...
 
-1.  Look at the list of project references in the current project.
-2.  Go find the project files corresponding to those project references.
-3.  Calculate the path to the project reference output assembly and
+1. Look at the list of project references in the current project.
+2. Go find the project files corresponding to those project references.
+3. Calculate the path to the project reference output assembly and
     include that in the list of indirect references.
-4.  Calculate the paths to any third-party references that include a `<HintPath>` (indicating the item isn't GAC'd) and include those in the list of indirect references.
-5.  Look for any additional project references – if they're found, go to step 2 and continue recursing until there aren't any project references we haven't seen.
+4. Calculate the paths to any third-party references that include a `<HintPath>` (indicating the item isn't GAC'd) and include those in the list of indirect references.
+5. Look for any additional project references – if they're found, go to step 2 and continue recursing until there aren't any project references we haven't seen.
 
 While it's sort of the "nuclear option," it means that my composable application will have all the stuff ready and in place at the Host level for any plugin runtime assemblies to be dropped in and be confident they'll find all the platform support they expect.
 

@@ -4,7 +4,7 @@ title: "EmbeddedPageHandlerFactory - Binary-Only ASP.NET 1.1"
 date: 2007-05-31 -0800
 comments: true
 disqus_identifier: 1209
-tags: [downloads,aspnet,net]
+tags: [downloads,aspnet,dotnet]
 ---
 I'm constantly looking for ways to make deployment of ASP.NET
 applications easier. One of the things that makes it difficult is the
@@ -75,15 +75,16 @@ cleaned up.
     </configuration>
 
 Key points:
--   The `embeddedPageAssemblies` section is how you tell the module
+
+- The `embeddedPageAssemblies` section is how you tell the module
     which assemblies have ASPX in them. The "key" is the name of the
     assembly; the "value" is the root namespace in the assembly.
--   The `httpModules` section is where you register the module portion
+- The `httpModules` section is where you register the module portion
     of the solution. This is how the pages get extracted at app startup.
--   The `httpHandlers` section is where you tell all requests for ASPX
+- The `httpHandlers` section is where you tell all requests for ASPX
     files to go through the EmbeddedPageHandlerFactory and get served up
     from the temporary location.
--   The `appSettings` has an optional key for AllowFileSystemPages.
+- The `appSettings` has an optional key for AllowFileSystemPages.
     Setting this to true will allow you to "override" ASPX by putting a
     file of the same path/name in the ASP.NET application file system.
     If the file exists in the app, it will be served from there. If not,
@@ -117,24 +118,25 @@ standard ASP.NET application. If it isn't found, then it'll fall back to
 look in the temporary location.
 
  Caveats:
--   This won't work for sites that rely on file system security. I
+
+- This won't work for sites that rely on file system security. I
     primarily work with forms authentication, so this isn't a problem
     for me. It may be for you.
--   This is definitely not the way you'd want to do this for .NET 2.0.
+- This is definitely not the way you'd want to do this for .NET 2.0.
     This is really meant for .NET 1.1.
--   It only works for ASPX. The ASCX load process is different and
+- It only works for ASPX. The ASCX load process is different and
     doesn't pass through a handler factory like pages. [The .NET 2.0
     mechanism](http://msdn2.microsoft.com/en-us/library/system.web.hosting.virtualpathprovider.aspx)
     should work for any files, not just ASPX.
--   This is going to be a one-shot deal. I'm not going to be posting
+- This is going to be a one-shot deal. I'm not going to be posting
     updates or actively supporting it or anything. Take it at your own
     risk, your mileage may vary, etc.
--   The source bundle includes the source for the
+- The source bundle includes the source for the
     EmbeddedPageHandlerFactory as well as a demo web application and
     unit tests.
--   I wrote the unit tests using [TypeMock](http://www.typemock.com) so
+- I wrote the unit tests using [TypeMock](http://www.typemock.com) so
     you'll need to go get that if you want to build/run the tests.
--   It's totally free and open-source. Do whatcha like.
+- It's totally free and open-source. Do whatcha like.
 
 [Download EmbeddedPageHandlerFactory Compiled
 Assembly](https://github.com/tillig/EmbeddedPageHandlerFactory/releases/download/v1.0.0/EmbeddedPageHandlerFactory.zip)

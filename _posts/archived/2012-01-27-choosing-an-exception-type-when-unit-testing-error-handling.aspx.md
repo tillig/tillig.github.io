@@ -87,18 +87,18 @@ pick something I might see for real.
 
 **I WOULD NOT pick...**
 
--   `ArgumentNullException `
--   `ArgumentException `
--   `NotSupportedException `
--   `InvalidOperationException `
+- `ArgumentNullException`
+- `ArgumentException`
+- `NotSupportedException`
+- `InvalidOperationException`
 
 ...or any other sort of "commonly used" exceptions that you might see
 arise from argument validation or something else.
 
 **Why not?**
 
-Let's use `ArgumentNullException `as an example. Say you add some more
-validation to the `GetData `method so that it inspects values in the
+Let's use `ArgumentNullException`as an example. Say you add some more
+validation to the `GetData`method so that it inspects values in the
 `SomeParameter p` coming in. If there's a specific null value found, you
 throw an `ArgumentNullException`. You add tests for that and life is
 swell.
@@ -110,8 +110,8 @@ you think you're testing.
 
 **Instead, I WOULD pick...**
 
--   `DivideByZeroException`
--   `InvalidTimeZoneException`
+- `DivideByZeroException`
+- `InvalidTimeZoneException`
 
 ...or some other exception that you'd never expect to see in the context
 of what you're doing. Obviously **you'll have to adjust based on what

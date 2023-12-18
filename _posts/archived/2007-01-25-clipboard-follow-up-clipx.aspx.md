@@ -13,21 +13,21 @@ out a few suggested packages.
 
  I finally ended up with [ClipX](http://bluemars.org/clipx/) - it does
 everything I was hoping for.
--   You can right-click on the tray icon and select a clip, making it
+
+- You can right-click on the tray icon and select a clip, making it
     the active clip on the clipboard but not automatically pasting
     anything into any application.
--   You can use an alternate "paste" key to have the menu of clips pop
+- You can use an alternate "paste" key to have the menu of clips pop
     up right in the application you're working in and select the clip to
     make active and paste - no confusing out-of-application experience.
--   The interface is minimal - there's no giant explorer window to deal
+- The interface is minimal - there's no giant explorer window to deal
     with. The biggest it gets is the "clip management" window that lists
     out the current set of clips and lets you edit or delete them, but
     even that is basically just a big listbox.
--   It's got a plugin SDK and a few interesting plugins ready for
+- It's got a plugin SDK and a few interesting plugins ready for
     download.
--   There are configuration options, but not so many it's overwhelming
+- There are configuration options, but not so many it's overwhelming
     and every one of them makes sense.
-
 
  Installed and loving it so far.
 

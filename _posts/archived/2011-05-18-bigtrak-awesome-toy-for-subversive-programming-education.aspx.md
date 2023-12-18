@@ -6,14 +6,14 @@ comments: true
 disqus_identifier: 1716
 tags: [personal]
 ---
-[*Bigtrak*](http://www.dpbolvw.net/click-4317610-10746449?url=http%3A%2F%2Fwww.thinkgeek.com%2Fgeektoys%2Frc%2Fde2e%2F%3Fref%3Dc&cjsku=8DE2E).![](http://www.lduhtrp.net/image-4317610-10746449)
+[*Bigtrak*](http://www.dpbolvw.net/click-4317610-10746449?url=http%3A%2F%2Fwww.thinkgeek.com%2Fgeektoys%2Frc%2Fde2e%2F%3Fref%3Dc&cjsku=8DE2E).
 I had one of these when I was a kid, but I'm not sure where it went.
 
 The idea is that you have this little tank-like rover that you can give
 instructions to and have it drive around.
 
 [![Bigtrak Jr Programmable
-Rover](http://www.thinkgeek.com/images/products/frontsquare/de2e_bigtrakjr_programmable_rover.jpg)](http://www.tkqlhce.com/click-4317610-10746449?url=http%3A%2F%2Fwww.thinkgeek.com%2Fgeektoys%2Frc%2Fde2e%2F%3Fref%3Dc&cjsku=8DE2E)![](http://www.ftjcfx.com/image-4317610-10746449)
+Rover](http://www.thinkgeek.com/images/products/frontsquare/de2e_bigtrakjr_programmable_rover.jpg)](http://www.tkqlhce.com/click-4317610-10746449?url=http%3A%2F%2Fwww.thinkgeek.com%2Fgeektoys%2Frc%2Fde2e%2F%3Fref%3Dc&cjsku=8DE2E)
 
 The way you give it instructions is via a sort of abbreviated [Logo
 programming
@@ -39,4 +39,3 @@ her. They're normally $40 but right now (as I write this) they're on
 sale for $25. If you're looking for a pretty cool gift for a kid that
 will teach them something, I totally recommend picking one of these up.
 They're pretty sweet.
-

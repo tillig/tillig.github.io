@@ -19,66 +19,66 @@ I'll note the differences.
 
 Picture
 
--   Width/Height: nil (let it auto-correct)
--   Anamorphic: Loose
--   Modulus: 2
--   Cropping: Automatic
+- Width/Height: nil (let it auto-correct)
+- Anamorphic: Loose
+- Modulus: 2
+- Cropping: Automatic
 
 Filters
 
--   Detelecine: Off
--   Decomb: Default
--   Deinterlace: Off
--   Denoise: Off
--   Deblock: Off
--   Grayscale: Unchecked
+- Detelecine: Off
+- Decomb: Default
+- Deinterlace: Off
+- Denoise: Off
+- Deblock: Off
+- Grayscale: Unchecked
 
 Video
 
--   Video Codec: H.264 (x.264)
--   Framerate FPS: Same as source
--   Constant Framerate (this is different than High Profile)
--   x264 Preset: Slower
--   x264 Tune: Film, Animation, or Grain (depends on the source – I
+- Video Codec: H.264 (x.264)
+- Framerate FPS: Same as source
+- Constant Framerate (this is different than High Profile)
+- x264 Preset: Slower
+- x264 Tune: Film, Animation, or Grain (depends on the source – I
     change this per item ripped; this is different than High Profile)
--   H.264 Profile: High
--   H.264 Level: 4.1
--   Fast Decode: Unchecked
--   Extra Options: Empty
--   Quality: Constant Quality 18 (this is different than High Profile)
+- H.264 Profile: High
+- H.264 Level: 4.1
+- Fast Decode: Unchecked
+- Extra Options: Empty
+- Quality: Constant Quality 18 (this is different than High Profile)
 
 Audio
 
 Track 1:
 
--   Source: The best AC3 sound track on there with the most channels.
+- Source: The best AC3 sound track on there with the most channels.
     (It usually does a good job of auto-detecting.)
--   Codec: AAC (FDK) (this is different than High Profile)
--   Bitrate: 256 (this is different than High Profile)
--   Samplerate: Auto
--   Mixdown: Dolby Pro Logic II
--   DRC: 0.0
--   Gain: 0
+- Codec: AAC (FDK) (this is different than High Profile)
+- Bitrate: 256 (this is different than High Profile)
+- Samplerate: Auto
+- Mixdown: Dolby Pro Logic II
+- DRC: 0.0
+- Gain: 0
 
 Track 2:
 
--   Source: Same as Track 1.
--   Codec: AC3 Passthru
+- Source: Same as Track 1.
+- Codec: AC3 Passthru
 
 Track 3 (depending on source)
 
--   Source: The DTS track, if there is one.
--   Codec: DTS Passthru
+- Source: The DTS track, if there is one.
+- Codec: DTS Passthru
 
 Subtitles: Generally none, but there are some movies that need them, in
 which case I'll add one track. High Profile (and my settings) generally
 don't include this.
 
--   Source: English (VobSub)
--   Forced Only: Unchecked
--   Burn In: Checked
--   Default: Unchecked
--   Everything else default.
+- Source: English (VobSub)
+- Forced Only: Unchecked
+- Burn In: Checked
+- Default: Unchecked
+- Everything else default.
 
 Chapters: I do select "Create chapter markers" but I let the automatic
 detection do the naming and timing.
@@ -90,13 +90,13 @@ original source and the compressed version.
 
 I've found that I have to check for a few things to see if something needs to be tweaked or re-ripped.
 
--   **Cropping**: About 80% of the time, Handbrake does an awesome job
+- **Cropping**: About 80% of the time, Handbrake does an awesome job
     cropping the letterbox off and cleaning up the sides. That other
     20%, you get this odd floating black bar on one or more of the sides
     where the picture wasn't cropped right. This is much easier to catch
     if you always use the "Preview" button on the "Picture" tab. You can
     scan through the video and adjust the manual crop settings easily.
--   **Film grain**: By default I try the "Film" x264 Tune setting for
+- **Film grain**: By default I try the "Film" x264 Tune setting for
     most movies unless I'm sure there's a grain or high level of detail
     to it. Nevertheless, sometimes I'll come across a film where dark
     spots have the background appear as though it's "moving" – like a
@@ -105,7 +105,7 @@ I've found that I have to check for a few things to see if something needs to be
     up. I also sometimes see a film that looks like all the definition
     was lost and things are blocky – in this case, I'll also switch to
     "Grain."
--   **Lip sync**: I started out using the default "Variable Framerate"
+- **Lip sync**: I started out using the default "Variable Framerate"
     setting on the Video tab. I'm now in the process of re-ripping like
     a quarter of my movies because I didn't stop to see if the lips were
     synchronized with the words in the soundtrack. By switching to

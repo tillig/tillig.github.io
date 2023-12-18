@@ -34,14 +34,14 @@ Windows 7, but if you're on Vista [you may need to read this KB article
 first](http://support.microsoft.com/kb/939006). The settings it modifies
 (copied from their description page):
 
--   TCP 1323 Extensions - This parameter enables enhancements to the
+- TCP 1323 Extensions - This parameter enables enhancements to the
     TCP/IP protocol that provide improved performance over high speed
     connections.
--   TCP Receive Window - This parameter specifies the number of bytes a
+- TCP Receive Window - This parameter specifies the number of bytes a
     sender (the source you are downloading from) may transmit without
     receiving an acknowledgment. Modifying it determines the maximum
     size offered by the system.
--   MTU (Maximum Transmission Units) - The MTU defines the largest
+- MTU (Maximum Transmission Units) - The MTU defines the largest
     single unit of data that can be transmitted over your connection.
     The FiOS network requires an MTU of 1492 bytes.
 
@@ -49,4 +49,3 @@ After running the optimizer I was able to get 35/35 on wired
 connections. Wireless connections still report weird for me - like 3/50
 or something. It's nice and fast, though, so I'm chalking that up to
 incorrect reporting rather than misconfiguration.
-

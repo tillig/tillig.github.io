@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 300
 tags: [dotnet,personal]
 ---
+<!--markdownlint-disable MD036 -->
 *9:31a*
 
  I've entirely lost track of my concept of time. I had to look at the
@@ -96,6 +97,7 @@ to describe to me how to draw a Picasso piece. Crazy.
 
  Still panicking about the exams and my lack of preparation. I went
 looking to see what Microsoft offers as far as test preparation material
+
 - lists of what they're asking questions on, suggested preparation
 materials, etc. - and there's nothing I can see that would help me. The
 lists of question topics are sufficiently vague that they may as well

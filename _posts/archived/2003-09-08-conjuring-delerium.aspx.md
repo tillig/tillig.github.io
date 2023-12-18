@@ -62,7 +62,7 @@ That's about it.
 
  Today, I'm finally wearing normal shoes (not sandals) and one of my [*I
 [Heart] Toxic Waste*
-shirts](http://www.cafeshops.com/paraesthesia,like_to_help_01,hate_people_01,paraesthesia_02,tDt_01,toxicwaste_01),
+shirts](<http://www.cafeshops.com/paraesthesia,like_to_help_01,hate_people_01,paraesthesia_02,tDt_01,toxicwaste_01>),
 [*Real
 Genius*](http://www.amazon.com/exec/obidos/ASIN/B000065U1Q/mhsvortex)
 style. I have a test at 2:00 today on ASP.NET - the second to last test

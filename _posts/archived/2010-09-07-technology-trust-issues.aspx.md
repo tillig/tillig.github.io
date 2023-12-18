@@ -55,4 +55,3 @@ middle of an operation? Even if a product isn't super-feature-rich, if
 it does one thing and one thing *really well*, I'm fine with that.
 
 **Reliability is high on my priority list. Is it high on yours?**
-

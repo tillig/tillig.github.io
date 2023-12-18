@@ -14,7 +14,6 @@ in the mail, I got a plaque for my efforts:
  ![Office 2003 RAP
 Plaque]({{ site.url }}/images/20031210plaque.jpg)
 
-
  It says:
 
  *Microsoft Office

@@ -43,7 +43,4 @@ Once you have a custom rules file, you can reference it from your project. You w
 
 **With every iteration, NDepend just gets more compelling.** I get so much insight from it about our code and areas we need to improve - things that are hard to see when you're neck deep in code and NuGet package references and under a deadline. [You owe it to yourself to check it out.](http://www.ndepend.com/ndepend-v6)
 
-*Full disclosure: I got a free personal license
-from [Patrick](http://codebetter.com/patricksmacchia/) at NDepend.
-However, we have also purchased several licenses at work and make use of
-it to great benefit.*
+_Full disclosure: I got a free personal license from [Patrick](http://codebetter.com/patricksmacchia/) at NDepend. However, we have also purchased several licenses at work and make use of it to great benefit._

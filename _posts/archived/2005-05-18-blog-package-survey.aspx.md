@@ -12,4 +12,3 @@ have a blog (or if you would like to have a blog), please take a sec and
 fill in my six-question survey to tell me what you think is good or bad
 about their blog packages. What do you like? What don't you like?
  *Old survey has been removed.*
-

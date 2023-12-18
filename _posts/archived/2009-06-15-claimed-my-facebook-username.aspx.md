@@ -14,4 +14,3 @@ If you haven't gotten yours, you can get one at
 [http://www.facebook.com/username/](http://www.facebook.com/username/)
 
 First come, first serve!
-

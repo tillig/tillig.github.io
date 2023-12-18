@@ -79,14 +79,14 @@ information for the "About" box comes from.
 
 **In your derived ProductModule, you need to define some constants:**
 
--   The path to the embedded resource that is your product logo graphic.
--   A GUID that uniquely identifies your product. Note that there is ONE
+- The path to the embedded resource that is your product logo graphic.
+- A GUID that uniquely identifies your product. Note that there is ONE
     product GUID, but there may be many plugins in that product. This
     GUID is not the same as the plugin IDs.
--   The minimum DXCore version that your product works with. This will
+- The minimum DXCore version that your product works with. This will
     be used to help DXCore determine if your product is compatible with
     the user's installation.
--   A string with the short name of your plugin assembly
+- A string with the short name of your plugin assembly
     ("MyPlugin.dll"). You could technically calculate this on the fly,
     but chances are it's not going to change much (or ever) so it's
     fairly safe to just hardcode it.
@@ -101,10 +101,10 @@ This will end up looking something like the following:
 **Add a static constructor to your ProductModule** to calculate some
 values based on the assembly. You need to calculate and store:
 
--   The assembly title.
--   The assembly copyright information.
--   The assembly description.
--   The assembly version, converted to a DXCore version value.
+- The assembly title.
+- The assembly copyright information.
+- The assembly description.
+- The assembly version, converted to a DXCore version value.
 
 Get that information from the attributes you added to the assembly. For
 a ProductModule class called "About," that'll look like:
@@ -137,23 +137,23 @@ a ProductModule class called "About," that'll look like:
 
 **In your ProductModule, override and implement the following:**
 
--   **Copyright1 property**: Return the assembly copyright information.
--   **Description property**: Return the assembly description
+- **Copyright1 property**: Return the assembly copyright information.
+- **Description property**: Return the assembly description
     information.
--   **ID property**: Return the Product ID GUID you created.
--   **MinimumEngineVersion property**: Return the minimum engine version
+- **ID property**: Return the Product ID GUID you created.
+- **MinimumEngineVersion property**: Return the minimum engine version
     value you created.
--   **ModuleType property**: This indicates what kind of product you
+- **ModuleType property**: This indicates what kind of product you
     have. If it's a community/free plugin, return ModuleTypes.Free; if
     it's a paid product, return ModuleTypes.Full.
--   **Name property**: Return the assembly title information.
--   **SupportedLanguages property**: This property returns an array of
+- **Name property**: Return the assembly title information.
+- **SupportedLanguages property**: This property returns an array of
     language strings that indicate what languages your plugin is valid
     for. You can find these values in the "Language" dropdown on the
     DevExpress options menu. At the time of this writing, they are:
     Basic, C/C++, CSharp, HTML, JavaScript, Plain Text, and XML.
     ![]({{ site.url }}/images/20100922languages.png)
--   **Version property**: Return the assembly version information.
+- **Version property**: Return the assembly version information.
 
 There are other properties you can override to return additional
 information, but these pretty much handle the stuff that shows up in the

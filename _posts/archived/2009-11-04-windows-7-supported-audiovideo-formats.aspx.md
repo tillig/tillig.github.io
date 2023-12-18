@@ -37,6 +37,3 @@ Or, split/arranged a different way:
 | Audio Decoders | AAC, HE-AAC, HE-AAC v2 (new in Windows 7); Dolby Digital Plus (new in Windows 7) besides Dolby Digital/AC-3; WMA family of music decoders and speech decoders; MP3; MPEG-1 and -2 |
 | Image Decoders | HD Photo (JPEG-XR); JPEG; PNG; BMP; TIFF; GIF; ICO (Icon Format) |
 | Containers | MP4 and its close cousins MOV, 3GP, M4A (new in Windows 7); Media Center's WTV (new in Win7 and Media Center TV Pack) and DVR-MS; MPEG-2 Transport Streams and its cousin AVCHD; MPEG-1 and -2 Program Streams; AVI, WAV; ASF; DVD; ADTS |
-
-
-

@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 1290
 tags: [GeekSpeak]
 ---
+<!--markdownlint-disable MD036 -->
 **The topic of Day 1: Architecture.**
 
 **Keynote - [Anders
@@ -27,7 +28,7 @@ The biggest source of conflict I have with LINQ is that age-old argument
 of whether you write SQL in your code and query the database tables
 directly or whether you use stored procedures.  I'm a stored procedure
 guy. (Which, peripherally, explains why I'm not a big fan of the Active
-Record pattern - I don't want my database schema extended into my code. 
+Record pattern - I don't want my database schema extended into my code.
 A class per table?  What happens when my schema changes? No, no, no.)
 
 Luckily, Microsoft officially abstains from this battle.  You can use
@@ -40,7 +41,7 @@ Manolescu](http://micro-workflow.com/)**
 This was more of an interactive presentation where Manolescu brought to
 our attention (via polling the audience) that while we all claim to use
 software patterns, most of us don't really know where the resources are
-to read up on new pattern developments and contribute to the community. 
+to read up on new pattern developments and contribute to the community.
 Publicity is a problem for the patterns community and that needs to be
 fixed.
 
@@ -56,8 +57,8 @@ things like exceptions and logging... and that's about it.
 Neward's talk was sort of a reality check for folks who claim to be
 architects.  He started out by talking about the [Joel On Software
 "Hammer Factory" example - "Why I Hate
-Frameworks."](http://discuss.joelonsoftware.com/default.asp?joel.3.219431.12) 
-The danger: following patterns for the sake of following patterns. 
+Frameworks."](http://discuss.joelonsoftware.com/default.asp?joel.3.219431.12)
+The danger: following patterns for the sake of following patterns.
 Doing things in a purist fashion for the sake of idealism.  While it's
 important to have a good system architecture, you can't ignore the end
 goal - working software.
@@ -74,7 +75,7 @@ This was a discussion of things to think about when you're working on a
 scalable platform.  Things like using content distribution networks and
 unified logging were touched on.
 
-The biggest point here was the notion of building in fault tolerance. 
+The biggest point here was the notion of building in fault tolerance.
 One example is the "gold box" on the Amazon.com web site.  The "gold
 box" is actually an independent service that has a certain amount of
 time to respond.  If it doesn't respond, the page will render without
@@ -118,4 +119,3 @@ This is another one I'm going to have to think about.  This sounds like
 it applies more to IT development than it does with "off-the-shelf"
 style product development.  How we, as product developers, think outside
 the box and how we can change for the better is something to consider.
-

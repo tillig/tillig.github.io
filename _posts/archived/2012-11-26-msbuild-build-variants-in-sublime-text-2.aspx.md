@@ -22,12 +22,12 @@ As it turns out, it's not clear how you access build variants from inside Sublim
 
 **To access Sublime Text 2 build variants:**
 
--   Open the Command Palette (either "Ctrl+Shift+P" or "Tools -> Command Palette...").
--   In the window, type "Build:" to filter the list of commands. Note the colon ":" on the end there - it filters the list down to just the build commands.
--   Select the build type you'd like. For my MSBuild package, you'll see:
-    -   "Build: Build" - default, no configuration specified
-    -   "Build: Debug Configuration" - specifies "Configuration=Debug"
-    -   "Build: Release Configuration" - specifies "Configuration=Release"
+- Open the Command Palette (either "Ctrl+Shift+P" or "Tools -> Command Palette...").
+- In the window, type "Build:" to filter the list of commands. Note the colon ":" on the end there - it filters the list down to just the build commands.
+- Select the build type you'd like. For my MSBuild package, you'll see:
+  - "Build: Build" - default, no configuration specified
+  - "Build: Debug Configuration" - specifies "Configuration=Debug"
+  - "Build: Release Configuration" - specifies "Configuration=Release"
 
 Build variants are not specific to my package - other packages may also provide build variants with other names.
 

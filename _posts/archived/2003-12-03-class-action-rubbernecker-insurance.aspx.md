@@ -18,10 +18,10 @@ back to it, so I'll post it again.
 much traffic that backs up because of the rubberneckers out there having
 to catch a glimpse? And follow that through to the end results:
 
--   Lost time for everyone stuck in traffic
--   Depleted natural resources because of the decreased gas mileage of
+- Lost time for everyone stuck in traffic
+- Depleted natural resources because of the decreased gas mileage of
     all of the idling vehicles
--   Increased stress on everyone in the traffic
+- Increased stress on everyone in the traffic
 
 If I'm caught up in traffic because of an accident that's not my fault,
 I feel that I should be compensated for the time and resources wasted by

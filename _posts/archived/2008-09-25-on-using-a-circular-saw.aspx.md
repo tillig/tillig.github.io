@@ -21,14 +21,12 @@ During my first-ever-in-my-lifetime use of a circular saw, I learned a
 few things I thought I'd share to help out the other less-than-handy
 people out there:
 
--   Don't stand on the cord or the saw won't go.
--   Don't pinch the cord between your leg and the table or the saw won't
+- Don't stand on the cord or the saw won't go.
+- Don't pinch the cord between your leg and the table or the saw won't
     go.
--   If the saw doesn't go, the cut doesn't come out as clean as you
+- If the saw doesn't go, the cut doesn't come out as clean as you
     might hope.
--   Stop over-thinking it and move the saw faster than a snail's pace or
+- Stop over-thinking it and move the saw faster than a snail's pace or
     the cut won't be smooth.
--   Sandpaper can go a long way in cleaning up a messy cut on MDF.
--   MDF generates more sawdust than you will ever be able to clean up.
-
-
+- Sandpaper can go a long way in cleaning up a messy cut on MDF.
+- MDF generates more sawdust than you will ever be able to clean up.

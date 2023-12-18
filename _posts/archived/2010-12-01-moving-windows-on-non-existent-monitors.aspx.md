@@ -18,4 +18,3 @@ monitor that actually exists.
 
 (I tried it using the mouse, but the system keeps the mouse in "real
 monitor space" so it doesn't work.)
-

@@ -4,7 +4,7 @@ title: "Grant Drake on Sandcastle"
 date: 2007-01-19 -0800
 comments: true
 disqus_identifier: 1129
-tags: [build,process,net]
+tags: [build,process,dotnet]
 ---
 [Grant Drake (of NCoverExplorer note) speaks out about his dislike for
 Sandcastle.](http://www.kiwidude.com/blog/2007/01/building-castles-on-quicksand.html)

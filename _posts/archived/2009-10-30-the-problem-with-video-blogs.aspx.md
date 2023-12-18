@@ -43,12 +43,12 @@ longer or is it just me?)
 **Which brings me to video blogs/podcasts/whatever. This is the worst of
 all worlds.**
 
--   I can't do anything with them while I'm working because it's not
+- I can't do anything with them while I'm working because it's not
     even just audio content, it's video, too.
--   I can't do anything with them on my commute because it's video.
+- I can't do anything with them on my commute because it's video.
     Plus, most times the video is on a site like YouTube where you can't
     even download it and listen to the audio.
--   I can't do anything with them at home because, frankly, if I'm going
+- I can't do anything with them at home because, frankly, if I'm going
     to sit down and watch something, there are plenty of more
     entertaining things I can watch to help me unwind than technical
     videos.
@@ -57,4 +57,3 @@ It's [the same problem I have with the
 phone](/archive/2006/11/02/recruiter-pet-peeves.aspx). Instantly
 single-threaded. I might be able to do something that doesn't require
 much brainpower at all, but basically, phone + me = useless.
-

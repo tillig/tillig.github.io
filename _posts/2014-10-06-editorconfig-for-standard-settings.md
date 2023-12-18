@@ -25,7 +25,7 @@ Here's the deal:
 
 Here's the `.editorconfig` I use. I like tab indentation except in view markup. We're a Windows shop, so lines end in CRLF. I hate trailing whitespace. I also like to keep the default settings for some project/VS files.
 
-```
+```text
 root = true
 
 [*]
@@ -76,7 +76,7 @@ indent_size = 4
 
 Note there's a recent update to the EditorConfig format that supports multiple matching, like:
 
-```
+```text
 [{*.wxl,*.wxs}]
 indent_style = space
 indent_size = 4

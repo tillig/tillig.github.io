@@ -13,12 +13,9 @@ said:
 > [T]he answer to questions like "What is the maximum amount of memory
 > any single process on Windows can address?" is "Google." It's trivia.
 
-
  I'm feeling justified, at least in that particular case, by [Raymond
 Chen's post
 today](http://blogs.msdn.com/oldnewthing/archive/2007/03/01/1775759.aspx):
 
 > If you have to ask about various operating system limits, you're
 > probably doing something wrong.
-
-

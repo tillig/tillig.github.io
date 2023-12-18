@@ -25,4 +25,3 @@ to do it. I think it'd be a pretty neat experience and you'd get to take
 something cool home. I've never blown glass before. I did get myself
 some [Mo's clam chowder](http://www.moschowder.com), which is always
 worth the trip. And now, back to work!
-

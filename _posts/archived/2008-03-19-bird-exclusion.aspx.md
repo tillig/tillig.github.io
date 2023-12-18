@@ -34,4 +34,3 @@ service, reasonable prices, and he does more than just birds. Give him a
 call, he'll hook you up.
 
 Now to address the bathtub that's started a spiderweb crack upstairs...
-

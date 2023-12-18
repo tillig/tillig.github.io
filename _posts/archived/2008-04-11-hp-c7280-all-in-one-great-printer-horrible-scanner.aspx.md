@@ -61,4 +61,3 @@ avail. I'm about three days away from my 30 day return limit and I'm
 taking it back tonight.
 
 I'll be looking at Canon or Epson. Sorry, HP. I'm done.
-

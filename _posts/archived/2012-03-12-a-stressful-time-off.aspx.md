@@ -76,4 +76,3 @@ Not that work isn't stressful (particularly recently), but at least it's
 a type of stress I can just bury myself in. Could it be worse? Sure,
 things can *always* be worse... but here's hoping this week tapers off a
 bit.
-

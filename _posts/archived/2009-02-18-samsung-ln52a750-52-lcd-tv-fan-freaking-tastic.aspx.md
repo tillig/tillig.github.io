@@ -47,4 +47,3 @@ when I saw that. I'm still smiling about it.
 
 Anyway, I've admittedly only had it for a day, but Jenn and I are both
 floored by it. I can't wait to try some serious gaming on this thing.
-

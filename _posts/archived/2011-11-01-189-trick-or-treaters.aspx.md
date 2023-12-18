@@ -19,6 +19,7 @@ trick-or-treaters.]({{ site.url }}/images/20111101trickortreatgra.png)
 
 Cumulative data:
 
+<!--markdownlint-disable MD033 -->
 <table>
     <thead>
         <tr>
@@ -95,13 +96,14 @@ Cumulative data:
         </tr>
     </tfoot>
 </table>
+<!--markdownlint-enable MD033 -->
 
 We shut down at 8:00p this year rather than running until 8:30p for a
 couple of reasons:
 
-1.  The visitor count was really dwindling. The majority of the kids in
+1. The visitor count was really dwindling. The majority of the kids in
     that last half-hour block showed up closer to 7:30p than 8:00p.
-2.  Phoenix needed to go to bed. She goes to bed around 8:00p and if we
+2. Phoenix needed to go to bed. She goes to bed around 8:00p and if we
     have people ringing the doorbell and knocking, she'd never get to
     sleep.
 
@@ -128,4 +130,3 @@ on her face but remained silent. "Yeah, I didn't think so. Happy
 Halloween!" I put the Snickers bar back in the bowl and shut the door.
 
 I'm the Candy Nazi.
-

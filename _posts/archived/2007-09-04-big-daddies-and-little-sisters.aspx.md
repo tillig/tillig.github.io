@@ -16,7 +16,7 @@ In all seriousness, if you haven't bought this game yet, just go out and
 do it.  I think the last time I got so caught up in the plot of
 something like this to the point of sort of surreal obssession was [the
 first time I had a real-time *24*
-marathon](http://paraesthesia.com/archive/2004/10/11/24-in-less-than-20.aspx). 
+marathon](http://paraesthesia.com/archive/2004/10/11/24-in-less-than-20.aspx).
 I don't think I've ever been so caught up in a game.  (Yeah, [I'll take
 a full week off for *Grand Theft
 Auto*](http://paraesthesia.com/archive/2002/11/18/time-on-my-hands-could-be-time-spent-with-you.aspx),
@@ -25,9 +25,9 @@ up just watching the thing.  She's started playing her own way through.
 
 Once you finish - and you must finish - some things will happen that
 make you feel a lot like the first time you saw *[The Sixth
-Sense](http://www.amazon.com/gp/product/B00004BZIY?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00004BZIY)*. 
+Sense](http://www.amazon.com/gp/product/B00004BZIY?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00004BZIY)*.
 You'll be all, "Holy crap, I can't believe I didn't see that!"  Not only
-that, but choices you make during the game impact how things turn out. 
+that, but choices you make during the game impact how things turn out.
 All of that makes it such that I'm actually going to play it through *a
 second time* to pick up all the things I missed the first time around
 and make different choices so I can see how things change.
@@ -46,4 +46,3 @@ some community-created
 versions](http://www.threadless.com/submissions/designs,bioshock/showme,printed/thati,both),
 but nothing official.  I wonder why [2K](http://www.2kgames.com) hasn't
 stepped up to the plate on that.
-

@@ -164,7 +164,6 @@ and add a delay to the sound. But it's not - there's no way I can add a
 "video delay." It's gotta be bad ADR. And just about the time I'm really
 annoyed by it, the scene changes and there's no issue anymore.
 
-
  Anyway, I'm just annoyed by a lot of little things lately. No one of
 them is very big, and they all sound stupid and petty, but it doesn't
 make them less annoying. Here's to turning things around, eh?

@@ -14,4 +14,3 @@ Vista](http://push-a-button.com/products/youglevista/) - a plugin for
 Windows Vista Media Center to integrate YouTube, Flickr, Apple Trailers,
 and several other online media sources right into the interface. Might
 have to try that out.
-

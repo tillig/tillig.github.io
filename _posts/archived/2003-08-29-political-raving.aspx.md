@@ -195,6 +195,7 @@ work against common sense.
 
  I wonder sometimes if it might be better to go all the way back to the
 [Code of Hammurabi](http://eawc.evansville.edu/anthology/hammurabi.htm)
+
 - eye for an eye (code \#196) and all that. No lawyers, just one guy
 against another, and a jury using common sense rather than looking for
 legal loopholes. Would we convict a few more people wrongly? Maybe.
@@ -203,4 +204,3 @@ Reduction in crime? Almost definitely.
  There you go, my controversial post for the week. Got something to say?
 Either leave a comment, or, better still, [go bitch in the
 forums](http://www.mildperil.net/forum/).
-

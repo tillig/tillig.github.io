@@ -9,16 +9,16 @@ tags: [personal,gaming,playstation]
 Friday being Fred Meyer employee double-discount day, a few purchases
 were made:
 
--   [Dremel router
+- [Dremel router
     table](http://www.dremel.com/productdisplay/att_template.asp?SKU=231&Color=99CCFF)
--   [Dremel tile cutting
+- [Dremel tile cutting
     kit](http://www.dremel.com/productdisplay/att_template.asp?SKU=566&Color=99CCFF)
--   [*Shanghai
+- [*Shanghai
     Noon*](http://www.amazon.com/exec/obidos/ASIN/B00003CXJ1/mhsvortex)
     on DVD
--   [Toshiba SD-3750 DVD
+- [Toshiba SD-3750 DVD
     player](http://www.amazon.com/exec/obidos/ASIN/B00005N5XO/mhsvortex)
--   [*Dynasty Warriors
+- [*Dynasty Warriors
     3*](http://www.amazon.com/exec/obidos/ASIN/B00005RL4E/mhsvortex) for
     PS2
 

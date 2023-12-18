@@ -13,4 +13,3 @@ hoping it works!
 MetaWeblogAPI implementation in my version of Subtext. Either way, not
 good. Maybe this is my opportunity to learn Blackberry development.
 Until then, Opera Mini to the rescue!
-

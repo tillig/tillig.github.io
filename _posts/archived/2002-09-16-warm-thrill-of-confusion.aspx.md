@@ -103,6 +103,7 @@ compatible and maybe even serve you a drink while you're watching the
 
  Thus, I've continued on my quest and discovered the [Sony
 KV-40XBR800](http://www.sonystyle.com/home/item.jsp?itemid=50911&hierc=9685x9800x9801&catid=)
+
 - a 40" beauty that *is* HDTV compatible. Love it. It's a tube TV,
 though, so it's not going to be hanging on my wall any time soon, but
 it's just awesome. I wanna see it in person, and I'm sure I'll be forced

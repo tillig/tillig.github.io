@@ -8,7 +8,7 @@ tags: [media,music,auto]
 ---
 For my birthday, my lovely wife Jenn saved up and got me a new car
 stereo - an [Alpine
-iDA-X001](http://www.alpine-usa.com/US-en/products/product.php?model=iDA-X001). 
+iDA-X001](http://www.alpine-usa.com/US-en/products/product.php?model=iDA-X001).
 I've been wanting a stereo that has direct iPod integration for quite
 some time now so she took me to [Car Toys](http://www.cartoys.com) and
 we picked this one out.
@@ -52,4 +52,3 @@ custom box for the trunk.  I had the stock Bose stereo that came with my
 car, and it was decent and all, but the bass... sounded great when you
 were sitting still but disappeared as soon as you'd start driving down
 the road.  The new amp/sub combo has me back in action.  Thanks, Jenn!
-

@@ -21,7 +21,7 @@ to verify.  What gives?
 
 I had recently taken advantage of [the "linked ID" feature of Windows
 Live
-IDs](http://www.liveside.net/blogs/main/archive/2007/10/18/update-to-windows-live-account-enables-linked-ids.aspx). 
+IDs](http://www.liveside.net/blogs/main/archive/2007/10/18/update-to-windows-live-account-enables-linked-ids.aspx).
 The misleading thing here: I did need to verify an email address, just
 *not the one I was signing in with*.  Curiously, signing in with the
 other IDs didn't prompt me to verify... but that's neither here nor
@@ -32,4 +32,3 @@ back that, yes, it was something to do with one of the other accounts.
 Anyway, if you're getting prompted and you recently linked your IDs,
 it's probably a problem with one of the linked accounts.  Make sure
 they're *all*verified.
-

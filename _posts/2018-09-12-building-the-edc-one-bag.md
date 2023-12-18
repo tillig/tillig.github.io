@@ -17,18 +17,18 @@ The pattern is licensed by Adam Savage under a [Creative Commons Attribution-Non
 
 OK, let's get this going.
 
-# Assumptions
+## Assumptions
 
 I will make some assumptions as I go along here about a few things. You may have to Google some stuff if you don't know what I'm talking about. Here's what I assume:
 
 - **You have the EDC ONE pattern.** I'm not going to give you the pattern here. I'm going to show you how I used it and call things out about it.
 - **You have some sewing experience.** If I mention that I basted two pieces together, you should know it doesn't have anything to do with a turkey baster. Tons of YouTube videos and articles out there to catch you up if you don't recognize what I'm talking about.
 
-# Improvements and Errata
+## Improvements and Errata
 
 Along the way I'll point out the improvements that could be made in the pattern as well as some of the "bugs" I encountered in the pattern or provided instructions. If you're building along here, it'd be good to read through all of this first so you might know what's coming.
 
-# General Tips
+## General Tips
 
 - **Watch your sewing machine tension.** I had a heck of a time getting this right and some of my stitching from the inside looks bad. If you normally sew through a couple of layers of medium weight fabric, using heavier-weight fabric means you're going to have to adjust. For example, my machine usually sits on a tension level 4, but for something close to decent I had to almost double that to 7.75.
 - **Use the right needle for the job.** I used duck canvas for the body of my bag. I had some leather and denim needles but they really didn't work out in thicker areas. When putting the handle attachments on the bag, for example, you may be sewing through upwards of six thicknesses of fabric. Six layers of duck canvas bends a leather needle. I didn't find until the end that [there are "heavy duty needles" (size 110/18) that are made for this sort of job](https://amzn.to/2MeQk0S) and I wish I had known earlier.
@@ -39,7 +39,7 @@ Along the way I'll point out the improvements that could be made in the pattern 
 - **Use the drawings and reference photos.** Given the instructions are a little vague in places, use all the photos and drawings you can to fill in the gaps. I wouldn't have been able to finish this without the detailed photos for their finished bag.
 - **There are bugs in the pattern.** I will call them out shortly, but you're not crazy.
 
-# Initial References
+## Initial References
 
 - [EDC ONE bag](https://adamsavage.com/products/savage-industries-edc-one) - This is what the bag looks like fully put together. Really helpful for reference photos to see if you're building things right.
 - [EDC ONE pattern](https://adamsavage.com/collections/plans-tools/products/savage-industries-edc-one-plans) - This is the pattern I bought.
@@ -68,7 +68,7 @@ Inside:
 - Again, you can see the frame holder is stitched to the bag through all thicknesses. There's no crafty seam hiding here.
 - Also, again, you can see the metal frame appears slightly shorter than the width of the bag to allow the bag to open and close easily.
 
-# Pattern Bugs
+## Pattern Bugs
 
 Here are the things I found that are wrong on the pattern. Keep these things in mind as you are cutting and sewing.
 
@@ -81,7 +81,8 @@ Here are the things I found that are wrong on the pattern. Keep these things in 
 - There are no instructions explaining when you should attach the D rings or the strap loops to the main bag.
 - There is no measurement for the metal frame. I used two 22" pieces of 3/16" steel rod. I bent 3-5/8" legs on each end of the rod pieces for the U-shape of the frame.
 
-# Parts List
+## Parts List
+
 The parts list that ships with the pattern is amazingly vague. For example, they list "self fabric." Uh... how much? "Lining." Again, how much?
 
 Here's a more detailed parts list based on what I actually used. Note I used a different fabric color for the bottom than I did for the main bag body so I list those things separately. Also, I didn't really pay attention to fabric grainlines since I used duck canvas and it generally looks and works the same regardless of direction. You may need to factor that in.
@@ -95,8 +96,8 @@ Here's a more detailed parts list based on what I actually used. Note I used a d
 - 1 - webbing slide, 1" inside width
 - 70" of 1" wide Velcro
 - The pattern calls for 2 "tube magnets" for handles. I used...
-    - 2 - [10mm x 60mm neodymium cylinder magnets](https://amzn.to/2O1C9Oi)
-    - 8" [carbon fiber tube, 10mm inside diameter](https://amzn.to/2QeVGMB)
+  - 2 - [10mm x 60mm neodymium cylinder magnets](https://amzn.to/2O1C9Oi)
+  - 8" [carbon fiber tube, 10mm inside diameter](https://amzn.to/2QeVGMB)
 - 60" of 1" wide webbing
 - 7-3/4" x 15" plastic board for the bottom (corrugated sign)
 - 44" of 3/16" steel rod for the metal frame
@@ -111,7 +112,7 @@ In the parts list I show using two magnets (one for each handle) and 8" of tube 
 
 A note on neodymium magnets: They are powerful and they will jump out of your hands to attach to each other. If they do this, they may hit each other with enough force to break. This absolutely happened to me. Luckily I could just jam them into the carbon fiber tubes and it wasn't a big deal, but be aware this could happen.
 
-# Preparation
+## Preparation
 
 Cut out all the parts. I didn't bother transferring pattern markings onto every part because this pattern is very square - you can just measure where things need to be at the time you need to place them.
 
@@ -199,7 +200,7 @@ Attach the zipper ends to the zipper.
 
 [![Zipper ends attached to the zipper]({{ site.url }}/images/edcone/small/zipperendson.jpg)]({{ site.url }}/images/edcone/large/zipperendson.jpg)
 
-# Construction
+## Construction
 
 I'm not sure why the official instructions differentiate between "preparation" and "construction" since you've been constructing things all along, but it is what it is.
 
@@ -364,7 +365,7 @@ I attached the two halves and finished the edge of the patch with a very dense z
 
 [![The finished patch]({{ site.url }}/images/edcone/small/finishedpatch.jpg)]({{ site.url }}/images/edcone/large/finishedpatch.jpg)
 
-# The Finished Product
+## The Finished Product
 
 After attaching the shoulder strap and patch, here's what my bag looks like:
 

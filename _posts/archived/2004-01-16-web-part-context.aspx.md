@@ -14,8 +14,6 @@ Audience settings) in WSS, too.
 
  Here's a static method to help you out.
 
-
-
 ```csharp
 /// <summary>
 /// Returns a Boolean indicating whether we're running in SharePoint Portal Server

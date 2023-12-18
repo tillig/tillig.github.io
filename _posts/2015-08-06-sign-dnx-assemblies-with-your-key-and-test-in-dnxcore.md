@@ -22,7 +22,7 @@ Make sure not to specify `keyFile` and `strongName` at the same time - you can o
 
 The challenge we ran into was with testing: We wanted to run our tests under both DNX and DNX Core to verify the adjustments we made to handle everything in a cross-platform fashion. Basically, we wanted this:
 
-```
+```batch
 dnvm use 1.0.0-beta6 -r CLR
 dnx test/Autofac.Test test
 dnvm use 1.0.0-beta6 -r CoreCLR
@@ -31,7 +31,7 @@ dnx test/Autofac.Test test
 
 Unfortunately, that yields an error:
 
-```
+```text
 System.IO.FileLoadException : Could not load file or assembly 'Autofac, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. General Exception (Exception from HRESULT: 0x80131500)
 ---- Microsoft.Framework.Runtime.Roslyn.RoslynCompilationException : warning DNX1001: Strong name generation is not supported on CoreCLR. Skipping strongname generation.
 error CS7027: Error signing output with public key from file '../../Build/SharedKey.snk' -- Assembly signing not supported.
@@ -55,7 +55,7 @@ Stack Trace:
 
 **If you want to test the same build output under different runtimes, you need to publish your tests as though they are applications.** Which is to say, you need to use the `dnu publish` command on your unit test projects, like this:
 
-```
+```batch
 dnu publish test\Your.Test --configuration Release --no-source --out C:\temp\Your.Test
 ```
 
@@ -63,7 +63,7 @@ When you run `dnu publish` you'll get all of the build output copied to the spec
 
 The Autofac tests now run (basically) like this:
 
-```
+```batch
 dnvm use 1.0.0-beta6 -r CLR
 dnu publish test\Autofac.Test --configuration Release --no-source --out .\artifacts\tests
 .\artifacts\tests\test.cmd

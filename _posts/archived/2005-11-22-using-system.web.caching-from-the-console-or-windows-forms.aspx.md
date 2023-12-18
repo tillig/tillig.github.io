@@ -4,7 +4,7 @@ title: "Using System.Web.Caching From The Console Or Windows Forms"
 date: 2005-11-22 -0800
 comments: true
 disqus_identifier: 920
-tags: [gists,csharp,net]
+tags: [gists,csharp,dotnet]
 ---
 I'm looking at different ways to provide caching from within an
 application so I can read in some information from a file, keep it in
@@ -102,7 +102,6 @@ namespace ConsoleApplication1{
   }
 }
 ```
-
 
  If anyone finds a problem with it, do leave me a comment with
 reproduction info. Seems to work, though, which is pretty cool.

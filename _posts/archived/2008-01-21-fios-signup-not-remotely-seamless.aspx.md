@@ -104,4 +104,3 @@ would think the signup process - the process where a customer is
 literally waving money at you, asking you to take it - would be
 absolutely seamless. I mean, if they can't get the signup process right,
 what happens when I *actually have a problem*?
-

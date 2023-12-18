@@ -24,7 +24,7 @@ Next, **enable [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/wi
 
 In your WSL Ubuntu, **[install Docker CE](https://docs.docker.com/install/linux/docker-ce/ubuntu/)**. Once this is done, you're going to try running `docker run hello-world` and you'll get a message like this:
 
-```
+```text
 Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
 ```
 
@@ -38,7 +38,7 @@ This is the magic, right here. This will automatically provision a VirtualBox VM
 
 You need some info about the Docker host, so **run `docker-machine env docker-host`** - this will dump a bunch of values you'll want. Here's what a PowerShell output looks like:
 
-```
+```text
 PS> .\docker-machine env docker-host
 $Env:DOCKER_TLS_VERIFY = "1"
 $Env:DOCKER_HOST = "tcp://192.168.99.100:2376"

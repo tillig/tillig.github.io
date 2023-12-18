@@ -34,6 +34,8 @@ readers and got the same result.
 
  The one that appears with the styles displayed literally in the feed
 uses an inline style sheet to do the formatting. Something like this:
+
+```html
     <pre class="csharpcode">
     <span class="kwrd">virtual</span> BOOL Paint(<span class="kwrd">int</span> button) = 0;
     </pre>
@@ -47,7 +49,7 @@ uses an inline style sheet to do the formatting. Something like this:
     }
     .csharpcode .kwrd { color: #0000ff; }
     </style>
-
+```
 
  While that sort of thing works well on a web site, it turns out that
 [most RSS readers today don't support inline style
@@ -55,11 +57,13 @@ sheets](http://itmanagement.earthweb.com/columns/executive_tech/article.php/3617
 
  The ones that look correct on the web site and in RSS use code like
 this:
+
+```html
     <pre style="background-color:#FFFFB9;;overflow: auto;"><div><span style="color: #000000; ">@Test
     </span><span style="color: #0000FF; ">public</span><span style="color: #000000; "> </span><span style="color: #0000FF; ">void</span><span style="color: #000000; "> emptyTest() {
      assertTrue(foo);
     }</span></div></pre>
-
+```
 
  Notice how the styles applied are actually inline on the tags, not
 styles from a style sheet. This sort of local style application is

@@ -47,6 +47,7 @@ It's nice and compact so it's easy to hide behind the Xbox.
 Hub]({{ site.url }}/images/20070507usbhub.jpg)](http://catalog.belkin.com/IWCatProductPage.process?Product_Id=159070)
 
  You might ask why I didn't just plug everything into the Xbox directly
+
 - use the front ports on the Xbox as well as the back port. The reason
 is that I don't want a bunch of cables floating around on the front of
 the Xbox. It looks horrible. Plus, when I fire up *Dance Dance

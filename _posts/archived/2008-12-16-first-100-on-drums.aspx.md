@@ -37,4 +37,3 @@ Millinery... you get the idea. Here's Alyss:
 
 ![Alyss from Wonderland's
 Millinery](http://www.rockband.com/uploads/user-generated-content/165136/Alyss-422x281_1_avatar_420.jpg)
-

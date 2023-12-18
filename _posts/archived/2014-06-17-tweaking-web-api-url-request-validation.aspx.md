@@ -17,11 +17,11 @@ just... stick with me. I had to get it to work in IIS and OWIN hosting.
 
 **STOP. STOP RIGHT HERE. I'm going to tell you some ways to tweak URL
 request validation. This is a security thing. Security is Good. IN THE
-END, I DIDN'T DO THESE. I AM NOT RECOMMEDING YOU DO THEM.** But, you
+END, I DIDN'T DO THESE. I AM NOT RECOMMENDING YOU DO THEM.** But, you
 know, if you run into one of the issues I ran into... here are some ways
 you can work around it *at your own risk*.
 
-**Problem 1: The Overall URL Length**
+## Problem 1: The Overall URL Length
 
 By default, ASP.NET has a max URL length set at 260 characters.
 [Luckily, you can change that in
@@ -35,7 +35,7 @@ web.config](http://msdn.microsoft.com/en-us/library/e1f13641(v=vs.100).aspx):
 
 Setting that `maxUrlLength` value got me past the first hurdle.
 
-**Problem 2: URL Decoding**
+## Problem 2: URL Decoding
 
 Base 64 includes the "/" character – the path slash. Even if you encode
 it on the URL like this...
@@ -64,7 +64,7 @@ web.config](http://msdn.microsoft.com/en-us/library/ee656539.aspx):
 Now that the URL is allowed through and it's not being proactively
 decoded (so I can get routing working), the last hurdle is...
 
-**Problem 3: Max Path Segment Length**
+## Problem 3: Max Path Segment Length
 
 The key, if you recall, is about 750 characters long. I can have a URL
 come through that's 2048 characters long, but there's still validation
@@ -86,7 +86,7 @@ still being used in there somewhere**. I guess I just didn't realize
 that and maybe I should have. I mean, .NET is all just wrappers on
 unmanaged crap anyway, right? :)
 
-**WHAT I ENDED UP DOING**
+## What I Ended Up Doing
 
 Having to do all that to get this working set me on edge. I don't mind
 increasing, say, the max URL length, but I had to tweak a lot, and that

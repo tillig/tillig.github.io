@@ -25,6 +25,7 @@ eyes that the problem isn't there.
 
  If it turns out it really isn't there when it's in the shop... well, it
 looks like I'm screwed. They will claim it's "environmental" (sure it is
+
 - the North Pole is environmental) and they can't reproduce it, at which
 point I have to fight with the National Electronics Warranty company to
 get them to replace the tube, which, I'm told, rarely happens for

@@ -65,6 +65,7 @@ Invitation](http://developer.yahoo.com/ypatterns/pattern.php?pattern=hoverinvita
 Tour Invitation, [Drop
 Invitation](http://developer.yahoo.com/ypatterns/pattern.php?pattern=dropinvitation),
 [Tooltip](http://developer.yahoo.com/ypatterns/pattern.php?pattern=tooltipinvitation)
+
 + Hover + [Cursor
 Invitation](http://developer.yahoo.com/ypatterns/pattern.php?pattern=cursorinvitation).
 

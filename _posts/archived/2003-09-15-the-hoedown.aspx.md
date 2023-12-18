@@ -111,8 +111,6 @@ background info you're given:
 > 2.6GB
 > 26GB
 
-
-
  Give up?
 
  Now when I solved this, I figured it this way:

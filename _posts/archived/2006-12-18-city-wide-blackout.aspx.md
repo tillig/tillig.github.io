@@ -29,8 +29,9 @@ I'm really not satisfied with 128kbps compression.
 
  ![Placebo - Sleeping With
 Ghosts]({{ site.url }}/images/20061218placebo.jpg)[**Placebo
+
 - *Sleeping With
-Ghosts***](http://www.amazon.com/exec/obidos/ASIN/B00008AWOD/mhsvortex):
+Ghosts***](<http://www.amazon.com/exec/obidos/ASIN/B00008AWOD/mhsvortex>):
 I actually bought the import version of this, and not for the *Sleeping
 With Ghosts* album, but for the bonus second disc the import version
 comes with containing cover songs Placebo has done. Specifically, I was

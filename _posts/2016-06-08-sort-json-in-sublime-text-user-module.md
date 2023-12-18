@@ -20,7 +20,7 @@ Next, **create a folder called `SortJson` in your `User` package folder.** This 
 
 **Drop to a command prompt in the `SortJson` folder** and install the `json-stable-stringify` module.
 
-```
+```batch
 npm install json-stable-stringify
 ```
 

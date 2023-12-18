@@ -14,9 +14,9 @@ more a description of the problem and some of the things I've tried.
 
 I have, attached to our main TV:
 
--   A Playstation 3.
--   An Xbox 360.
--   A Windows 7 Media Center PC.
+- A Playstation 3.
+- An Xbox 360.
+- A Windows 7 Media Center PC.
 
 All of these have been rigged up to Netflix streaming. Upstairs I have
 an Xbox 360, a Windows 7 Media Center PC, and a Wii. (I'll be blogging
@@ -27,6 +27,7 @@ All of these things are attached via wireless network to Verizon FiOS
 (15 MBps).
 
 **The problem is that I can't consistently get a good stream - HD or not
+
 - and I can't figure out why.**
 
 About 75% of the time, I select a movie or show to watch and it works
@@ -78,13 +79,13 @@ entry's from almost a year ago now, so hopes aren't high.
 **I think the real problem is that there are too many things that could
 be going wrong and there's no way to diagnose the bottleneck.**
 
--   Is the local network too congested?
--   Is the connection to the local network too slow? (Maybe due to
+- Is the local network too congested?
+- Is the connection to the local network too slow? (Maybe due to
     wireless interference?)
--   Is there an issue with the ISP?
--   Is there congestion on the Netflix servers?
--   Is it a device-specific issue (Xbox, PS3, etc.)?
--   Do they just hate me?
+- Is there an issue with the ISP?
+- Is there congestion on the Netflix servers?
+- Is it a device-specific issue (Xbox, PS3, etc.)?
+- Do they just hate me?
 
 A real win, truly, would be if Netflix could put out a diagnostic tool
 that would let an advanced user run it and see what's going on. I think
@@ -104,4 +105,3 @@ UPDATE 3: I tried using OpenDNS on my Xbox 360 and it didn't improve any
 of my streaming issues; however, I have [a new hypothesis about what's
 up with my Xbox
 streaming](/archive/2010/02/24/a-hypothesis-on-xbox-netflix-streaming.aspx).
-

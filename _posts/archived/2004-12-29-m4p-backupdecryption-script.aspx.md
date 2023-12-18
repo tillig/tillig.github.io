@@ -41,15 +41,13 @@ versions. "M4P Backup.vbs" was born.
 
  The script will, for each \*.m4p file found in your music library:
 
-1.  XCopy the file into a backup folder for you. (By using XCopy, you
+1. XCopy the file into a backup folder for you. (By using XCopy, you
     get a folder tree for your protected music files mimicked from your
     original music library folder.)
-2.  Check for a corresponding .m4a file in the same library folder.
-3.  If a .m4a isn't found, the script calls "hymn.exe" to create one.
-4.  The decrypted .m4a file is backed up alongside the corresponding
+2. Check for a corresponding .m4a file in the same library folder.
+3. If a .m4a isn't found, the script calls "hymn.exe" to create one.
+4. The decrypted .m4a file is backed up alongside the corresponding
     .m4p.
-
-
 
  Below is a sample console session of the "M4P Backup.vbs" script. Click
 the image to enlarge it.
@@ -58,7 +56,8 @@ the image to enlarge it.
 enlarge.]({{ site.url }}/images/20041229m4pbackup_lg.gif)
 
  **Installation/Configuration:**
-1.  Download hymn at
+
+1. Download hymn at
     [http://hymn-project.org/](http://hymn-project.org/). Get that
     working - I cannot offer technical support on hymn. You may also
     need to get FairKeys from
@@ -66,14 +65,12 @@ enlarge.]({{ site.url }}/images/20041229m4pbackup_lg.gif)
     if hymn is unable to find your FairPlay keys. Check the [hymn
     forums](http://hymn-project.org/forums/) for information on using
     FairKeys with hymn.
-2.  Download "M4P Backup.vbs," below. Unzip the script into a known
+2. Download "M4P Backup.vbs," below. Unzip the script into a known
     location (i.e., your desktop).
-3.  Open your unzipped "M4P Backup.vbs" file in a text editor. At the
+3. Open your unzipped "M4P Backup.vbs" file in a text editor. At the
     top of the script, in a section marked "CONFIGURATION," set the
     configuration variables as specified. Examples are provided in the
     script.
-
-
 
  That's it! Once you're set, you can either double-click the script to
 execute it, or you can explicitly call the console script host to run

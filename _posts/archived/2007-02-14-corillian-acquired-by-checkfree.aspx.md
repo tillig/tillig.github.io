@@ -25,10 +25,9 @@ grass but no one would really commit to saying the grass is green.
 
  I've only got three questions:
 
-1.  Do I still have a job?
-2.  If I do, will I need to relocate to keep it?
-3.  What's the story with existing Corillian options and ESPP shares?
-
+1. Do I still have a job?
+2. If I do, will I need to relocate to keep it?
+3. What's the story with existing Corillian options and ESPP shares?
 
  I guess we'll see. I suppose short-term I can't complain - the stock's
 jumped like $1.50 just today.

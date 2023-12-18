@@ -36,19 +36,19 @@ in as an admin to use it. It doesn't add any navigation links to the
 admin site, so you do need to manually enter the URL to the page to get
 to it, but once you do, this page allows you to:
 
--   **Clear the error log.** Yes, you can do this from the error log
+- **Clear the error log.** Yes, you can do this from the error log
     page, too, but it's nice to have all of this in a central location.
--   **See how many referrals you have in your database vs. how many of
+- **See how many referrals you have in your database vs. how many of
     those are from search engines.** The page lists out what qualifies
     as a search engine or spam referral so you'll know what this means.
     It's basically just a list of expressions that the page tries to
     match the URL against - nothing fancy.
--   **Remove search engine referrals from the referral log.** Qualifying
+- **Remove search engine referrals from the referral log.** Qualifying
     spam referrals are also removed.
--   **Reindex the referrals table and shrink the database.** Do that
+- **Reindex the referrals table and shrink the database.** Do that
     after you clear out the garbage referrals.
--   **See some size statistics on your database.**
--   **See the SQL script that the page will execute** (in the event
+- **See some size statistics on your database.**
+- **See the SQL script that the page will execute** (in the event
     you'd rather run it yourself or are just curious).
 
 And, of course, since all the code is right in the ASPX markup, you can
@@ -64,4 +64,3 @@ database and kicks your mom, etc.
 
 [[**Download
 SubtextDatabaseMaintenance195.zip**](https://gist.github.com/tillig/73b0d5c676189f9d70dce65ba44ca9d1/archive/d58a94ea492c29419bbd58382ea43e329c4d5f9f.zip)]
-

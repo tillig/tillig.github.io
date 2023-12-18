@@ -30,4 +30,3 @@ Wondering if I'll need more or not. I don't know if I'll be totally
 hairless, but it'll be considerably thinner. I've definitely enjoyed the
 results so far - I haven't ruined any shirts, sheets, or pillowcases for
 quite some time now (my beard used to just destroy these things).
-

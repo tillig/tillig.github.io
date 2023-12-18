@@ -4,7 +4,7 @@ title: "Updated SNInfo"
 date: 2005-02-15 -0800
 comments: true
 disqus_identifier: 749
-tags: [downloads,net]
+tags: [downloads,dotnet]
 ---
 I updated the
 [SNInfo](/archive/2005/02/07/sninfo-strong-naming-info-for-.net-assemblies.aspx)

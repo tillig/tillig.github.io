@@ -4,7 +4,7 @@ title: "Speaking at InnoTech Oregon 2008"
 date: 2008-04-01 -0800
 comments: true
 disqus_identifier: 1367
-tags: [GeekSpeak,net]
+tags: [GeekSpeak,dotnet]
 ---
 The [InnoTech Oregon conference](http://www.innotechconference.com/pdx/)
 is going on April 16 and 17 at the Portland Convention Center. I'll be
@@ -24,4 +24,3 @@ speaking in the Developer track on "Unit Testing with TypeMock."
 I'm the last session of the last day - April 17, 3:30p - so if you want
 to see some [TypeMock Isolator](http://www.typemock.com) in action, come
 check it out.
-

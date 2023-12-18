@@ -9,19 +9,19 @@ tags: [dotnet,vs]
 I've been really struggling with the motivation to get CR_Documentor
 updated for Sandcastle support.  The problem is threefold:
 
-1.  .NET 1.1 XSLT performance is pretty slow (slow enough that it's
+1. .NET 1.1 XSLT performance is pretty slow (slow enough that it's
     noticeable when the preview refreshes) so the code actually manually
     recurses through an XML document object and generates HTML on the
     fly.  Every time either rendering engine changes the way they do
     things (or fixes a defect), I have to manually implement that
     transformation in code using XmlNode and XmlDocument objects.  I
     can't just take the changes to the XSLT that the products include.
-2.  Since I'm working at pre-compilation time, generating the method
+2. Since I'm working at pre-compilation time, generating the method
     signature in a nice formatted way is a huge pain, and it's different
     for each rendering engine.  Doing this involves manually running
     around the parsed code tree in DXCore and converting the parsed
     nodes into nicely formatted, human readable HTML.
-3.  CR_Documentor was originally a one-trick pony, so the rendering
+3. CR_Documentor was originally a one-trick pony, so the rendering
     mechanism isn't really... "pluggable."  I started refactoring to get
     there, but because the generation of the HTML is so specific to each
     renderer and there's so much to it... frankly, I've gotten
@@ -46,10 +46,10 @@ I think it'd be feasible to transform using XSLT rather than manual
 document manipulation.  However, if I convert to .NET 2.0, I have a few
 problems:
 
-1.  I'll only be able to support Visual Studio 2005 and later.  (I'm
+1. I'll only be able to support Visual Studio 2005 and later.  (I'm
     pretty sure DXCore won't let me run .NET 2.0 plugins from inside VS
     2003, though admittedly I haven't tried it.)
-2.  I will probably have to remove features like the ability to
+2. I will probably have to remove features like the ability to
     highlight "unsupported tags" or set a "supported tag set" for
     troubleshooting your documentation.  I'll still be able to notify
     you of errors (like if your doc doesn't parse out right) but the

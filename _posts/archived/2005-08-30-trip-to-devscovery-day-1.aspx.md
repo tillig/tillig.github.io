@@ -4,7 +4,7 @@ title: "Trip To Devscovery: Day 1"
 date: 2005-08-30 -0800
 comments: true
 disqus_identifier: 879
-tags: [personal,net]
+tags: [personal,dotnet]
 ---
 Got to the keynote this morning slightly early to get through
 registration and whatnot. They gave us binders with printouts of the

@@ -52,4 +52,3 @@ convince our friends to pick it up.)
 
 **UPDATE 3/31/08**: Looks like [Co-Optimus](http://www.co-optimus.com)
 has started a nice listing of co-op games for several systems.
-

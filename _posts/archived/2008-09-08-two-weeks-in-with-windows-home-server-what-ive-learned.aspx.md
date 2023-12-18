@@ -142,17 +142,17 @@ with top-level year folders and subfolders with the full date in
 YYYYMMDD and a description of the event being photographed - that way
 they sort, alphabetically, in date order. It looks like this:
 
--   2004
--   2005
--   2006
--   2007
-    -   20070704 - Independence Day
-    -   20071225 - Christmas
+- 2004
+- 2005
+- 2006
+- 2007
+  - 20070704 - Independence Day
+  - 20071225 - Christmas
 
--   2008
-    -   20080704 - Independence Day
-    -   20080723 - Trav's Birthday
-    -   20080908 - Screen Shots of Windows Home Server
+- 2008
+  - 20080704 - Independence Day
+  - 20080723 - Trav's Birthday
+  - 20080908 - Screen Shots of Windows Home Server
 
 This makes it very nice and easy to browse when you're looking at it
 from a client.
@@ -175,6 +175,7 @@ something that's officially supported, and while they say it should
 work, they won't support you backing up Windows Home Server. I'm also
 [not interested in "tweaking things" to get it to
 work](http://trevinchow.com/blog/2008/02/12/mozy-to-carbonite-oh-no-you-dont/)
+
 - one of the beauties of the WHS so far has been its "appliance-like"
 simplicity. I'm not eager to break that. Disqualified.
 
@@ -243,4 +244,3 @@ information on WMC a lot easier, but maybe I'm just not looking in the
 right places. On the other hand, most of the Mac solutions seem to be
 appliance-like, just like the Home Server, and I'm a big fan of simple.
 We'll see.
-

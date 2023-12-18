@@ -14,6 +14,7 @@ sharing common code snippets and links. Sort of like
 grabbing some common functionality from somewhere might get you going a
 little quicker, but remember [Scott's Rule of Programming
 \#0x3eA](http://www.hanselman.com/blog/MovingViewStateToTheSessionObjectAndMoreWrongheadedness.aspx)
+
 - "Just because code is on the Internet doesn't mean you should cut and
 paste it into your production system." It occurs to me that something
 like this is asking for all nature of trouble. You *know* that the

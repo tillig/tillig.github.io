@@ -4,9 +4,9 @@ title: "Book Review: Professional ASP.NET MVC 1.0"
 date: 2009-09-22 -0800
 comments: true
 disqus_identifier: 1566
-tags: [aspnet,books,net]
+tags: [aspnet,books,dotnet]
 ---
-[*![](http://ecx.images-amazon.com/images/I/41vsFoLZq9L._SL160_.jpg)*](http://www.amazon.com/gp/product/0470384611?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470384611 "Professional ASP.NET MVC 1.0")*[Professional
+[*![Professional ASP.NET MVC 1.0](http://ecx.images-amazon.com/images/I/41vsFoLZq9L._SL160_.jpg)*](http://www.amazon.com/gp/product/0470384611?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470384611) *[Professional
 ASP.NET MVC
 1.0](http://www.amazon.com/gp/product/0470384611?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470384611)*
 is definitely one of those books you should have on your shelf if you
@@ -17,16 +17,16 @@ probably familiar with.
 
 The topics covered are:
 
-1.  NerdDinner - A walkthrough of making a fully-functioning MVC app
+1. NerdDinner - A walkthrough of making a fully-functioning MVC app
     from start to finish
-2.  Model-View-Controller and ASP.NET
-3.  ASP.NET \> ASP.NET MVC
-4.  Routes and URLs
-5.  Controllers
-6.  Views
-7.  AJAX
-8.  Filters
-9.  Securing Your Application
+2. Model-View-Controller and ASP.NET
+3. ASP.NET \> ASP.NET MVC
+4. Routes and URLs
+5. Controllers
+6. Views
+7. AJAX
+8. Filters
+9. Securing Your Application
 10. Test Driven Development with ASP.NET MVC
 11. Testable Design Patterns
 12. Best of Both Worlds - Web Forms and MVC Together
@@ -57,8 +57,7 @@ extend it, and how it compares to URL rewriting. It helps when reading
 about routing if you have at least an entry-level understanding of
 regular expressions since they're used a lot in routing and that
 experience is assumed. (If you don't, I recommend *[Mastering Regular
-Expressions](http://www.amazon.com/gp/product/0596528124?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596528124)*
-- it's one of those mainstay books you should have on hand at all
+Expressions](http://www.amazon.com/gp/product/0596528124?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596528124)* - it's one of those mainstay books you should have on hand at all
 times.)
 
 Chapter 5 on controllers walks you through the simplest case of creating
@@ -148,4 +147,3 @@ intermediate level of development - more than "beginner" but less than
 
 This is a great book and I'd recommend it to anyone who has considered
 using ASP.NET MVC or is even just interested in learning more.
-

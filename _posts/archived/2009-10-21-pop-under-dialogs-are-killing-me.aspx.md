@@ -64,4 +64,3 @@ bar.
 
 I'm on WinXP right now at work (don't ask, I don't like it, either). Did
 this get fixed in Vista or Win7? Doubting it.
-

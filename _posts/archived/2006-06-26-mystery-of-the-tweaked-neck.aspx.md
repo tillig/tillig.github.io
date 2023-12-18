@@ -18,13 +18,13 @@ on my keyboard and I bumped one and entirely lost the post. All of it.
 So I'm not retyping the thing since I don't have time. Just imagine that
 you read a reasonably entertaining description of a murder mystery
 party. Tracy, accept my apologies for a less-than-thorough write-up.
- 
+
  I am currently in the process of disabling those fuckers.
- 
+
  So Saturday night was the party, and it was cool. Jenn looked great, I
 looked great, and it was hella fun. Even though it was hot like nothing
 describable. Death heat.
- 
+
  Sunday morning I woke up at 5:45a with this ridiculous tweak in my
 neck. Some Vicodin and a few Advil *only took the edge off*. It was
 *horrible*. All day long I was totally useless (not that that's

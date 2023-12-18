@@ -12,11 +12,11 @@ I'm using the **git-p4 command rather than [Perforce Helix Git Fusion](https://w
 
 Oh, and you'll probably notice _I'm not really a Perforce user_. I was tasked with migrating some Perforce stuff into Git recently and this is the process I pieced together. I may say some stuff that's like, "Well, duh!" to folks who use Perforce more often.
 
-# Install Windows Tools
+## Install Windows Tools
 
 The tool installation and setup is based on [the instructions here](http://ericlathrop.com/2012/12/how-to-set-up-git-p4-in-windows/).
 
-## Chocolatey Install
+### Chocolatey Install
 
 If you use chocolatey, install is pretty quick.
 
@@ -26,7 +26,7 @@ choco install python --version 2.7.11
 choco install p4
 ```
 
-## Manual Install
+### Manual Install
 
 You can manually install the requisite tools by downloading them and installing them from their respective pages:
 
@@ -34,7 +34,7 @@ You can manually install the requisite tools by downloading them and installing 
 - [Python 2.7.x](https://www.python.org/downloads/windows/)
 - [Perforce Command Line](https://www.perforce.com/downloads/helix#clients)
 
-# Enable git-p4
+## Enable git-p4
 
 The git-p4 Python script is installed when you install Git for Windows but it isn't enabled by default. Run this command to add the p4 alias to git:
 
@@ -50,7 +50,7 @@ Try C:/Program Files (x86)/Git/mingw32/libexec/git-core/git-p4 <command> --help 
 PS C:\Users\yourusername>
 ```
 
-# Set Perforce Environment Variables
+## Set Perforce Environment Variables
 
 The Perforce client needs environment variables so it knows which source control system to use, who you are, etc. **You must have an account on the Perforce system to do this migration.** Unlike Git, you can't just anonymously clone the repo. If you want to try this out, you can get a [free account on the public Perforce server](https://swarm.workshop.perforce.com/) and follow along cloning a public repo.
 
@@ -70,7 +70,7 @@ set P4USER=yourusername
 set P4PASSWD=yourpassword
 ```
 
-# Clone the Perforce Repo with git p4
+## Clone the Perforce Repo with git p4
 
 Cloning the Perforce repo is pretty simple, but making sure the branches in Perforce correctly map to branches in Git is a bit harder. The typical clone looks like this:
 
@@ -82,7 +82,7 @@ If there are more complex branching strategies at play, this page on the Git sit
 
 Once the repo is cloned, **Git sees the Perforce "repo" as a "remote" called "p4"** that it can use to push changes back. Any branches it sees are attached only with the "p4" remote that it has added. We'll fix that later.
 
-# Add a Remote to the New Git Repo
+## Add a Remote to the New Git Repo
 
 The way Git knows where to push the cloned data is by setting up a remote. Create the destination Git repo on the server and then...
 
@@ -95,7 +95,7 @@ The first remote is added and is the usual/standard remote for a Git repo.
 
 The second remote is added and called "p4" because the branches brought over are tied to a "p4" remote which is not actually defined in the repo by default. By adding this remote as a stand-in, you allow Git to bypass some logic that will fail when you try to move branches over when it sees "p4" doesn't exist.
 
-# Bring Branches to the New Git Repo
+## Bring Branches to the New Git Repo
 
 As noted earlier, branches that the import creates are still associated with the "p4" remote. We need to bring those over to the new repo.
 
@@ -118,13 +118,13 @@ This script...
 
 By tracking each of the "p4" branches in your local repo, it allows you to push those branches to the new Git remote repo. If you don't do that, the branches won't make the migration.
 
-# Push to the New Git Repo
+## Push to the New Git Repo
 
 Push the code, history, and branches all to the new repo.
 
 `git push -u origin --all`
 
-# Remove the Fake p4 Remote
+## Remove the Fake p4 Remote
 
 You don't need the fake "p4" remote that the "git p4" command added since the branches are all moved over now. Remove it to avoid confusion.
 

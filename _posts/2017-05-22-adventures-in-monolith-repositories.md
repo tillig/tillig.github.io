@@ -15,19 +15,19 @@ Some of what I do involves continuous integration and continuous delivery, build
 
 **Here are a few of the challenges I've seen in working with monolith repos.**
 
-# Slow Builds
+## Slow Builds
 
 Once a repository gets to a certain size the time it takes to build becomes unbearably long. I've seen estimates of about 10 - 15 minutes being a reasonable build time including tests. I think that's about right. Much longer and folks stop building everything.
 
 Don't get me wrong, it's OK to let the build server do its job and offload the task of running huge builds to detect things that are broken. What's _not_ OK is when your developers _can't_ build the whole thing - either because the build run takes several hours or because various tooling changes and build optimizations (see below) have made it so only build agents have the right configuration to enable a build to get out the door.
 
-# "Views" on the Source
+## "Views" on the Source
 
 If it takes too long to build, or the source is so big it's hard to work in, folks end up working in logical "views" over the source. For the most part this is a reasonable thing to consider, but this has an unforeseen effect on how you build, which leads to some of the challenges I'll explain below: incorrect build optimizations, inconsistent tools, non-modular modules, and so on.
 
 This becomes more challenging when people want their own custom views. For example, a person who might be working on a specific application also wants to be able to refactor things in dependencies of that application. Creating that custom "view" can give the impression that it's OK to just change things within that view and that it won't have any impact on anything outside.
 
-# Incorrect Build Optimizations
+## Incorrect Build Optimizations
 
 Once you have slow builds going on, folks are going to want to speed the build up, especially for their "view" (if you went that direction).
 
@@ -35,7 +35,7 @@ One way you might try optimizing is to run all the tests in a separate build - b
 
 Another way you might try optimizing is to use package management systems to handle dependencies. Each "view" can build independently and in any order, so you can have separate builds if you want, one for each "view" or logical component. That's actually a pretty decent idea as long as you do that consistently and with a lot of discipline... and as long as you acknowledge that building everything in the entire repository won't necessarily ensure that the latest versions of everything work together. With package management, the build output of this part of the build won't necessarily be the build input to some other part.
 
-# Stale and Inconsistent Tools
+## Stale and Inconsistent Tools
 
 Once the build gets too large or complicated, it can be an easy pattern to fall into to just tweak one or two code files, check them in, and let the build server do all the work to verify things.
 
@@ -47,7 +47,7 @@ A great example of this is MSBuild and Visual Studio: Say you start your project
 
 Another MSBuild / Visual Studio example: Again, say you start your project with Visual Studio 2010. New features and functions get added but in an effort to not change tooling for everyone, people start manually tweaking files used by the tooling - solution and project files. Now you have a situation where if you actually open the solution in VS 2010 you get an error saying there are project types in the solution that aren't supported... but if you open the solution in a newer version of Visual Studio you get a notice that the solution is on old tooling and must be upgraded to work.
 
-# Bad Versioning Strategies
+## Bad Versioning Strategies
 
 Generally a build of a codebase corresponds to a single version of something. In the case where the code has multiple logical _applications_ or _components_, the build might correspond to a single _release_ of those things.
 
@@ -61,7 +61,7 @@ Anyway, since the build number (or build version, or whatever) can really only t
 
 We tried ideas one and two in Autofac before splitting the repos in GitHub. I've seen idea three in other projects.
 
-# Circular Builds
+## Circular Builds
 
 If you build as a monolith, it's really easy to accidentally create a circular build dependency.
 
@@ -71,30 +71,30 @@ Bad times. You need to unravel that.
 
 Package management decoupling can also make it a piece of cake in the monolith to create a circular build dependency. Component A takes package B as part of its dependencies. Component A builds, publishes package A. Now component B builds... and takes package A as a dependency. This can be a really hard thing to detect, especially if package A and package B don't themselves properly declare package dependencies.
 
-# Non-Modular Modules
+## Non-Modular Modules
 
 Once the build gets broken up into logical components, applications, microservices, or modules, it's far too easy to "just add a dependency" on some other piece of the source code repository and ignore the application and process isolation required to ensure that module _actually stays modular_. A lot of times you'll see inconsistent application of dependencies - some come from a package management system, some come from the local repository's build output from some other component.
 
-# Ever-Changing Framework
+## Ever-Changing Framework
 
 If the shared libraries or shared dependencies you use are in the same repo as your consuming components, it takes a lot of discipline to not _start_ new functionality by instantly putting new items right in the common code. Your new application or component is going to need to validate phone numbers, why wouldn't you add a whole shareable framework component for phone number validation? Hey, just throw that in the lowest level dependency so it's readily available anywhere at any time!
 
 Of course, that means from that point on anyone using your shared library will assume the new functionality is there and removing it will be a breaking change... so... uh... maybe that's not the best idea.
 
-# It Failed, but Really Succeeded!
+## It Failed, but Really Succeeded
 
 The build server may say the build failed, but if you build "a view" of the monolith in isolation, that same piece may actually succeed. Which one is right? Is it a problem with the overall ordering of how the repository builds the logical components? Is the build server actually the system of record anymore?
 
-# It Succeeded, but Really Failed!
+## It Succeeded, but Really Failed
 
 After a certain level of complexity gets introduced, it gets pretty easy to start ignoring warnings that get generated or inadvertently cause errors to get ignored.
 
 For example, say your build uses MSBuild in some areas and PowerShell in others. MSBuild calls a PowerShell script which then ends up calling MSBuild. Errors reported in that innermost MSBuild execution may not actually cause the overall build to fail... which means the build will show as successful even though it's not.
 
-# Illig's Law of Monolithic Repositories
+## Illig's Law of Monolithic Repositories
 
 **The amount of discipline _required_ to maintain a build is directly proportional to the size of the source code repository. The amount of discipline _actually used_ is inversely proportional.**
 
 Most of the monolith repository problems you see could be avoided with enough developer due diligence and discipline. However, the larger a repository gets, the less personal responsibility folks start to feel for keeping the build performing and running clean. It's too easy to complain about the size and complexity, passing general housekeeping off as technical debt to be addressed later. Eventually people become complacent ("That's just how it is, we can't fix it.") and nothing ever does get fixed.
 
-_It's the opposite of "too big to fail": It's "too big to fix."_
+It's the opposite of "too big to fail": It's "too big to fix."

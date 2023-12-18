@@ -19,10 +19,10 @@ and there's [a FAQ about the
 tool](http://www.xbox.com/en-US/support/systemuse/xbox360/licensemigration/faq.htm).
 The two big points for me:
 
--   **When you get your console repaired by Microsoft, they'll do this
+- **When you get your console repaired by Microsoft, they'll do this
     for you** so you won't need to do it yourself. That's important
     because...
--   You can only do this **one time every 365 days**.
+- You can only do this **one time every 365 days**.
 
 Apparently this will work with all content but movies because movies
 aren't "download-to-own." I don't rent movies over Xbox Live, so I'm not
@@ -39,4 +39,3 @@ need to call them. **This is more for folks getting new consoles or
 getting repairs from non-Microsoft facilities.** That said, now that we
 know there's a tool, maybe they can do the transfer right there while
 I'm on the phone rather than waiting a week.
-

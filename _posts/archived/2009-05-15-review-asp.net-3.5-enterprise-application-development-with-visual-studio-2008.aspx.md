@@ -4,7 +4,7 @@ title: "Review: ASP.NET 3.5 Enterprise Application Development with Visual Studi
 date: 2009-05-15 -0800
 comments: true
 disqus_identifier: 1524
-tags: [books,net]
+tags: [books,dotnet]
 ---
 I just got finished reading through [*ASP.NET 3.5 Enterprise Application
 Development with Visual Studio
@@ -20,15 +20,15 @@ Each chapter is set up in the same format, and it's a decent format -
 outline the problem, explain the design, implement the solution. The
 chapters are:
 
-1.  A Framework for Enterprise Applications
-2.  The Data Access Layer
-3.  Designing the Business Logic Layer
-4.  The User Interface Layer
-5.  Exception Handling
-6.  Role-Based Security
-7.  The Workflow Engine
-8.  Notifications
-9.  Reporting
+1. A Framework for Enterprise Applications
+2. The Data Access Layer
+3. Designing the Business Logic Layer
+4. The User Interface Layer
+5. Exception Handling
+6. Role-Based Security
+7. The Workflow Engine
+8. Notifications
+9. Reporting
 10. The Query Builder Control
 11. The Dashboard
 12. Auditing
@@ -49,22 +49,22 @@ more damage than help. There are several reasons for this.
 **First, there are little things** through the code that are just bad
 practice.
 
--   **The naming conventions for everything in this book are absolutely
+- **The naming conventions for everything in this book are absolutely
     horrible.** "ENTBaseBO" is the name of the base class that all
     enterprise business objects derive from. The names only get worse
     and more unintelligible and distracting from there. When cruising
     through the method bodies presented you sometimes wonder if he's
     using Hungarian notation in C# and then you realize that it's just
     bad naming.
--   **Almost every exception that gets thrown in the code is the generic
+- **Almost every exception that gets thrown in the code is the generic
     System.Exception type.** Even if a more specific exception type
     would be more appropriate, it's always a general Exception.
--   **Rather than overriding the ToString() method on business objects,
+- **Rather than overriding the ToString() method on business objects,
     a new "GetDisplayText()" method gets added** in one of the myriad
     base classes which gets used throughout the book when displaying the
     object in UI. (Not a showstopper, but it's Just One More Thing that
     didn't make sense.)
--   The data access layer **uses the Microsoft Patterns and Practices
+- The data access layer **uses the Microsoft Patterns and Practices
     Data Access Application Block**, which is good... but the book
     **urges you to use an old version** of it "because it's simple to
     use and easy to understand" - even though the new one has many
@@ -73,27 +73,27 @@ practice.
 **Larger things start creeping up** on you once you get past the smaller
 stuff.
 
--   **There's no localization and no mention of it.** Every string seen
+- **There's no localization and no mention of it.** Every string seen
     in any UI is hardcoded somewhere in the system (not necessarily just
     in the UI) rather than being stored in resource files. Even if you
     only plan on supporting one language, it's still good practice to
     separate your strings from your code.
--   **There are no tests anywhere and no mention of them.** We're
+- **There are no tests anywhere and no mention of them.** We're
     building an enterprise application and we're not going to test it?
     Really?
--   **Rather than use standard functions built into ASP.NET**like the
+- **Rather than use standard functions built into ASP.NET**like the
     SiteMapProvider and navigation controls that can bind to it, **a lot
     of effort goes into writing your own** site map management system
     and custom controls to bind to that proprietary system. Role-based
     security that doesn't hook into the RoleProvider.
--   Chapter 7, on "the workflow engine," is almost **100 pages showing
+- Chapter 7, on "the workflow engine," is almost **100 pages showing
     you how to write a proprietary state machine workflow system.** I
     actually had to flip back and look at the cover to make sure we were
     in .NET 3.5, then I got really curious as to why this wasn't a 10
     page chapter showing how easy that sort of thing is to implement
     using Windows Workflow Foundation, which comes for free with the
     .NET framework.
--   **Why is the "code generator" chapter about creating a Visual Studio
+- **Why is the "code generator" chapter about creating a Visual Studio
     wizard** but has no mention of T4 or any third-party code generator?
     With all the code generation options out there, would I really want
     to roll my own using StringBuilders?
@@ -128,4 +128,3 @@ world" view with good patterns and practices.]
 recommend for learning enterprise app development so [I posted a short
 list of
 recommendations](/archive/2010/03/15/enterprise-application-development-books.aspx).
-

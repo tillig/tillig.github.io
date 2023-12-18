@@ -26,7 +26,6 @@ Overlay](/archive/2005/04/20/junction-shell-extensions.aspx)
 [.NET Command Prompt
 Everywhere](/archive/2004/06/28/.net-command-prompt-here.-and-everywhere-else.aspx)
 
-
  If you like those, check out the rest of the [Software/Downloads
 category](/) for other stuff I've got. My content here isn't always
 technical in nature, but sometimes I can pull out a good code snippet or

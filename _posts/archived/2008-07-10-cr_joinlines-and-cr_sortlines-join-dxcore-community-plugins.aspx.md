@@ -19,4 +19,3 @@ and any further dev on them will be done there.
 Hopefully this more public release area will be helpful to folks who not
 only want to find and use the plugins, but also who want to learn how to
 write plugins.
-

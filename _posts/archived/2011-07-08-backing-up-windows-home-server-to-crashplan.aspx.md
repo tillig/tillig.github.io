@@ -11,13 +11,13 @@ fashion](/archive/2009/08/17/backing-up-windows-home-server-to-mozyhome.aspx)
 to back up the share content from my Windows Home Server. There were two
 problems with this setup:
 
-1.  **Lots of moving pieces.** The way I had it, there was a scheduled
+1. **Lots of moving pieces.** The way I had it, there was a scheduled
     copy task from the WHS to a remote machine, then that remote machine
     would do the MozyHome backup. That, of course, relied on the remote
     machine to always be on and running, the process to properly run,
     etc. A lot of indirection and moving pieces to get around the
     MozyHome shortcoming that it won't install on Windows Home Server.
-2.  **MozyHome's pricing is changing.** They're moving away from the
+2. **MozyHome's pricing is changing.** They're moving away from the
     $55/year unlimited storage plans and going to a tiered storage
     plan. Probably not so bad for most folks, but for the 250GB of data
     I have, it'd cost me around $350/year - seven times what I'm
@@ -36,14 +36,14 @@ solution:**[**CrashPlan**](http://www.crashplan.com/)**.**
 I'm not sure why these guys didn't come up in my initial research, but
 they seriously solved all my problems.
 
--   **$50/year for unlimited storage.** And if you get multiple years'
+- **$50/year for unlimited storage.** And if you get multiple years'
     worth of storage, *you can get it down to $35/year*. For unlimited
     storage. That addresses the pricing problem.
--   **Installs directly on Windows Home Server.** Technically it's not
+- **Installs directly on Windows Home Server.** Technically it's not
     "officially supported" but it works like a charm. [They even have a
     wiki page explaining how to install
     it](http://support.crashplan.com/doku.php/recipe/whs_installation).
--   **Allows you to automate backup to the cloud *and* to a local
+- **Allows you to automate backup to the cloud *and* to a local
     drive.** With the multiple-backup-destination feature CrashPlan
     offers, you can automatically back up your data to the cloud
     ("CrashPlan Central,"), to another machine on your network, to a
@@ -108,16 +108,16 @@ documentation.
 
 You sort of have to read it like sentences:
 
--   Backup a new version every six hours. (Basically, this selects how
+- Backup a new version every six hours. (Basically, this selects how
     often to run the backup process.)
--   For backups in the last week, keep all the versions found every six
+- For backups in the last week, keep all the versions found every six
     hours.
--   For backups beyond the last week but within the last 90 days, keep a
+- For backups beyond the last week but within the last 90 days, keep a
     daily version.
--   For backups beyond the last 90 days but within the last year, keep a
+- For backups beyond the last 90 days but within the last year, keep a
     weekly version.
--   Beyond the last year, keep a monthly version.
--   If I delete a file, remove the deleted file from my backup archive
+- Beyond the last year, keep a monthly version.
+- If I delete a file, remove the deleted file from my backup archive
     after six months.
 
 Since the files on my home server don't change much, this is reasonable.
@@ -166,4 +166,3 @@ things.
 **If you're looking for a nice way to back up your Windows Home Server,
 I'd recommend CrashPlan.** Easy to set up, easy to use, and totally
 automatic. I wish I'd found this a long time ago.
-

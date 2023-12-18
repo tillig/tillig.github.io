@@ -11,18 +11,18 @@ some configuration files in preparation for
 [SlowCheetah](http://nuget.org/packages/SlowCheetah/) integration.
 Instead of seeing a folder structure like this in the project...
 
--   \~/Config
-    -   MyConfig.config
-    -   MyConfig.Debug.config
-    -   MyConfig.Release.config
+- \~/Config
+  - MyConfig.config
+  - MyConfig.Debug.config
+  - MyConfig.Release.config
 
 I wanted to see the file dependencies set up like you usually get with
 Web.config:
 
--   \~/Config
-    -   MyConfig.config
-        -   MyConfig.Debug.config
-        -   MyConfig.Release.config
+- \~/Config
+  - MyConfig.config
+    - MyConfig.Debug.config
+    - MyConfig.Release.config
 
 That's not really a straightforward thing to do, as it turns out.
 

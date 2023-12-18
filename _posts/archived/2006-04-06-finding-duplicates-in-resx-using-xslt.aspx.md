@@ -38,15 +38,13 @@ along with a count of how many were found:
 </xsl:stylesheet>
 ```
 
-
  A sample report might look like this:
 
-```
+```text
     ResourceID1 (3)
     ResourceID4 (2)
     ResourceID7 (4)
 ```
-
 
  Used in conjunction with a command-line tool like
 [nxslt](http://www.xmllab.net/Products/nxslt/tabid/62/Default.aspx),

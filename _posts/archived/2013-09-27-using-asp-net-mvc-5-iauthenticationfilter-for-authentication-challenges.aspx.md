@@ -12,13 +12,13 @@ Diving into [the source](https://github.com/ASP-NET-MVC/aspnetwebstack/blob/mast
 
 The real magic happens in the `ControllerActionInvoker.InvokeAction` method. [The source shows](https://github.com/ASP-NET-MVC/aspnetwebstack/blob/master/src/System.Web.Mvc/ControllerActionInvoker.cs) that the general flow is like this:
 
-1.  MVC action gets selected.
-2.  `IAuthenticationFilter.OnAuthentication` executes.
-3.  If there is any result set from `OnAuthentication`, then `IAuthenticationFilter.OnAuthenticationChallenge` executes.
-4.  `IAuthorizationFilter.OnAuthorization` executes. (The `AuthorizeAttribute`.)
-5.  If there is any result set from `OnAuthorization`, then `IAuthenticationFilter.OnAuthenticationChallenge` executes.
-6.  Assuming the user is authenticated/authorized, the controller action executes.
-7.  `IAuthenticationFilter.OnAuthentication` executes.
+1. MVC action gets selected.
+2. `IAuthenticationFilter.OnAuthentication` executes.
+3. If there is any result set from `OnAuthentication`, then `IAuthenticationFilter.OnAuthenticationChallenge` executes.
+4. `IAuthorizationFilter.OnAuthorization` executes. (The `AuthorizeAttribute`.)
+5. If there is any result set from `OnAuthorization`, then `IAuthenticationFilter.OnAuthenticationChallenge` executes.
+6. Assuming the user is authenticated/authorized, the controller action executes.
+7. `IAuthenticationFilter.OnAuthentication` executes.
 
 From the comments in the code, it appears the intent is that you somehow "chain" action results together. I'm not sure what that means, whether there's [a decorator pattern](http://en.wikipedia.org/wiki/Decorator_pattern) intended or whether the design assumes that authentication challenges would just add specific HTTP headers to the response or what.
 
@@ -74,10 +74,10 @@ public class ChallengeFilter : IAuthenticationFilter
 
 **Here's what you do in the controller** where you need to issue a challenge:
 
--   Check to see if the user's authorized. If they are, let the operation proceed.
--   If they're not...
-    -   Store any form state you'll need to complete the operation.
-    -   Issue the challenge result so the filter can pick it up.
+- Check to see if the user's authorized. If they are, let the operation proceed.
+- If they're not...
+  - Store any form state you'll need to complete the operation.
+  - Issue the challenge result so the filter can pick it up.
 
 A very, very simple controller might look like this:
 

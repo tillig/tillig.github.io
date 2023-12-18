@@ -51,6 +51,7 @@ back, it cost me $8.90 because they request you ship things via UPS,
 RPS, or some other insured shipping method, and that's the UPS charge.
 They also charge you a 15% restocking fee - in my case, that's $4.50.
 So that means it cost me ($5 original shipping + $8.90 return shipping
+
 + $4.50 restocking fee) a total of $18.40 to *try on a costume that
 didn't fit*. Web shopping is not all it's cracked up to be, at least
 when clothing is involved. Now you know why brick-and-mortar stores will

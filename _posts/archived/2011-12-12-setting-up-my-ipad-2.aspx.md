@@ -47,11 +47,11 @@ do that.)
 Another thing I discovered as I was setting things up: **There's no
 "back" button.** On Android, I can do something like...
 
--   Start up an application.
--   Log in and go to the settings panel.
--   Decide I don't want to do settings and hit the "back" key to get
+- Start up an application.
+- Log in and go to the settings panel.
+- Decide I don't want to do settings and hit the "back" key to get
     out.
--   Continue using the application.
+- Continue using the application.
 
 On iPad, **you are somewhat at the mercy of the application developer**.
 If they don't include a "back" button in the UI, the best you can do is
@@ -104,4 +104,3 @@ how to get pictures and video *off the iPad* and onto my computer). I
 can see that after I get settled into it, I'll have a good time. **It's
 just going to take some real getting used to**... and possibly me having
 to relinquish some of that control over my environment that I hold dear.
-

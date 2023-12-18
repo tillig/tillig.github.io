@@ -20,7 +20,7 @@ provide only does wireless-G networking. I wanted a faster network to
 accommodate my gaming and my media, so I added a wireless-N access
 point. This added a ton of fiddly shit to my list.
 
--   **Access point setup and maintenance.** I bought a
+- **Access point setup and maintenance.** I bought a
     [DAP-1522](http://www.amazon.com/gp/product/B001769K3O?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001769K3O)
     for its supposedly easy setup. Setting the thing up was not nearly
     as straightforward as the instructions would have you think. Even
@@ -30,7 +30,7 @@ point. This added a ton of fiddly shit to my list.
     but also requires me to reboot anything that was previously
     connected to the network because for some reason things won't just
     reconnect.
--   **Conversion to WPA security.** There is also an undocumented
+- **Conversion to WPA security.** There is also an undocumented
     "feature" on the DAP-1522 that makes it such that if you use WEP
     security the access point will not let you have wireless-N
     connectivity. Everything only ever connects at wireless-G. Not
@@ -41,7 +41,7 @@ point. This added a ton of fiddly shit to my list.
     wireless networks (WPA with wireless-N via the access point and WEP
     with wireless-G via the FiOS router) or just not connect the old
     devices. Right now: no old devices.
--   **USB wireless adapters and Windows 7.** I upgraded everything to
+- **USB wireless adapters and Windows 7.** I upgraded everything to
     Windows 7 at home and while I love the OS, the drivers don't seem to
     be quite up to snuff for any of the USB wireless-N adapters I have.
     They work... mostly. I found that in some cases you have to install
@@ -59,14 +59,14 @@ Server](http://ecx.images-amazon.com/images/I/41n6JU45wRL._SL500_AA200_.jpg "HP 
 **Windows Home Server.** I love my Windows Home Server, don't get me
 wrong, but there are some fiddly things that crop up.
 
--   **Random disk errors.** Every two or three months I'll get an error
+- **Random disk errors.** Every two or three months I'll get an error
     that says my system disk is having problems. I run the repair,
     everything checks out, and all is well with the world again for the
     next two or three months. Is it the weird disk replication thing
     they have going on? Is it PerfectDisk for Windows Home Server doing
     a disk defragmentation number on me? Disk actually going bad? Who
     knows.
--   **More random disk errors.** Since upgrading to Power Pack 3, I had
+- **More random disk errors.** Since upgrading to Power Pack 3, I had
     a thing where every week or so the server would just stop responding
     to any requests at all. You ended up having to reboot the server
     hard and it would all come back. The lockup seemed to correspond to
@@ -115,4 +115,3 @@ inherent with getting all this to work together. I don't mind investing
 time in getting things set up and configured appropriately as long as I
 don't have to keep adjusting and reconfiguring and troubleshooting. *I
 just want it to work.* It should. Why doesn't it?
-

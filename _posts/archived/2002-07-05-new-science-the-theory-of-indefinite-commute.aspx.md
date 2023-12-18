@@ -44,7 +44,6 @@ result in me commuting to work indefinitely.
 Commute]({{ site.url }}/images/20020705indefinitecommuto0.gif)
  Fig. 1: The Theory of Indefinite Commute, Illustrated
 
-
  The time I leave my apartment is represented by the X axis; the time it
 takes me to get to work is represented by the Y axis. The blue lines
 indicate how the commute normally functions. The red line is what the

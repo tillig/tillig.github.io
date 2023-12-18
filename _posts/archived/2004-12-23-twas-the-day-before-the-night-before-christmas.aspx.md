@@ -94,15 +94,14 @@ meeting at work and forgot to sign out during your presentation. It
 usually goes something like this:
 
 > **friend42:** whassup?
->  **travis:** i'm working right now, man. in a presentation.
->  **friend42:** want to get together the third friday after next
+> **travis:** i'm working right now, man. in a presentation.
+> **friend42:** want to get together the third friday after next
 > tuesday?
->  **travis:** working - send me email. gotta go.
->  **friend42:** i won't be on email again ever.
->  **travis:** then call me. i don't have anything to write on right now
+> **travis:** working - send me email. gotta go.
+> **friend42:** i won't be on email again ever.
+> **travis:** then call me. i don't have anything to write on right now
 > and i'm working.
->  **friend42:** okay, l8r.
-
+> **friend42:** okay, l8r.
 
  Of course, three weeks later I'll get an email asking what I'm doing
 *the next day*. I'll have it open, so I'll schedule a time and place to
@@ -196,16 +195,15 @@ just that once she's off I also have to think about what she wants to
 do, which usually works into a productive conversation like this:
 
 > **Jenn:** I'm bored.
->  **Travis:** What do you want to do?
->  **J:** I dunno.
->  **T:** We have games, movies, On Demand cable, projects, crafts, and,
+> **Travis:** What do you want to do?
+> **J:** I dunno.
+> **T:** We have games, movies, On Demand cable, projects, crafts, and,
 > as always, housework. Discounting the housework option, there are
 > still loads of things to do. Pick one.
->  **J:** Nothing sounds fun. What do you want to do?
->  **T:** Well, I *was* having fun playing my game, and I'd like to
+> **J:** Nothing sounds fun. What do you want to do?
+> **T:** Well, I *was* having fun playing my game, and I'd like to
 > continue.
->  **J:** But *I'm bored*.
-
+> **J:** But *I'm bored*.
 
  I think you see where that goes.
 
@@ -225,4 +223,3 @@ Height]({{ site.url }}/images/20041223taffybrick02.jpg)
 Depth]({{ site.url }}/images/20041223taffybrick03.jpg)
 
  I'm *still* eating this bad boy.
-

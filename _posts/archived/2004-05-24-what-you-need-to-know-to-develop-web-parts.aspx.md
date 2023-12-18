@@ -195,7 +195,6 @@ it works. Once you get it, the world is yours. Read through the SDK and
 you'll learn how to save custom properties, how to interact between web
 parts... now you're ready to really cut loose.
 
-
  That's it! It seems like a long list, but you have to figure there's a
 reason that developers get paid to write programs - if you could learn
 it all in a day, everyone would be doing it. That said, if you take the

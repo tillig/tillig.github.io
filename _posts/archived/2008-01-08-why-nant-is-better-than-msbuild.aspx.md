@@ -12,7 +12,7 @@ I've been writing a lot of build scripts and custom build tasks in both
 lately and, based on this experience, I've decided I like NAnt a lot
 more than MSBuild. Here's why:
 
--   **NAnt lets you run tasks before any targets run; MSBuild doesn't.**
+- **NAnt lets you run tasks before any targets run; MSBuild doesn't.**
     I commonly have some "setup" actions that need to happen before
     anything else in a build script happens. Stuff like registering
     NCover or starting up TypeMock. It's stuff that needs to happen
@@ -21,7 +21,7 @@ more than MSBuild. Here's why:
     all get run. In MSBuild, every task has to be inside a target, so I
     have to make sure that every single target in my build script
     depends on my "setup" target.
--   **NAnt custom tasks can interact with build properties; MSBuild
+- **NAnt custom tasks can interact with build properties; MSBuild
     custom tasks can't.**Some of the custom task stuff I want to do is
     to make things easy for people by letting them set up properties in
     the environment and having things "just work." For example, a task
@@ -36,23 +36,23 @@ more than MSBuild. Here's why:
 
      One parameter isn't so bad - but what if you want to perform logic
     in your task based on five or six parameters? 10?
--   **NAnt properties are manipulated in a consistent fashion; MSBuild
+- **NAnt properties are manipulated in a consistent fashion; MSBuild
     properties are handled differently in different contexts.** In NAnt,
     I can create or change a property just by calling the \<property\>
     task. In MSBuild, it's different if I'm outside of a target
     (\<PropertyGroup\>) or inside a target (\<CreateProperty\>). This
     inconsistency makes for a difficult learning curve.
--   **NAnt wildcards, when dealing with the filesystem, match both files
+- **NAnt wildcards, when dealing with the filesystem, match both files
     and folders; MSBuild wildcards only match files.** This is a heck of
     a problem when you want to create a dynamic item list in MSBuild of
     folders you want to clean up. You can't just delete "\*\*/bin" - you
     have to manually locate *every single one*.
--   **NAnt allows you to load an entire assembly's worth of tasks at
+- **NAnt allows you to load an entire assembly's worth of tasks at
     once; MSBuild requires each task to be separately loaded.** In NAnt,
     I do \<loadtasks\> on an assembly and I've got all of the tasks in
     the assembly at my disposal. In MSBuild, I have to do a
     \<UsingTask\> for every single task I'm using.
--   **NAnt includes task assemblies in the executing AppDomain; MSBuild
+- **NAnt includes task assemblies in the executing AppDomain; MSBuild
     doesn't.** This is a problem if you have one custom task assembly
     that references another custom task assembly. Say you have custom
     task MyDerivedTask that is a derived/modified version of

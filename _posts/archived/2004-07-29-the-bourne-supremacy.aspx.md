@@ -31,7 +31,7 @@ from the back of the book:
 > In a Kowloon Cabaret, scrawled in a pool of blood, is a name the world
 > wanted to forget: Jason Bourne.
 >
->  The Chinese vice-premier has been brutally slain by a legendary
+> The Chinese vice-premier has been brutally slain by a legendary
 > assassin. World leaders ask the same fearful questions: Why has Jason
 > Bourne come back? Who is paying him? Who is the next to die? But U.S.
 > officials know the shocking truth: There is no Jason Bourne. The name
@@ -44,8 +44,6 @@ from the back of the book:
 > impostor, and uncover an explosive secret plan, Webb must lauch a
 > desperate oddyssey into the espionage killing fields. But this time,
 > survival will not be enough. This time Bourne must reign supreme.
-
-
 
  Okay, now go see the movie. When no one ever even mentions China,
 you'll start to wonder what's up. Not to mention the constant pursuit of

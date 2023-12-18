@@ -23,4 +23,3 @@ later and the cookies are pretty hard.
 Note we didn't use liners, we just threw the dough right in.
 
 Oh, and they don't turn out pretty. But tasty!
-

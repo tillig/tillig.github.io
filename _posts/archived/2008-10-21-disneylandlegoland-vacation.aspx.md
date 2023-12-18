@@ -21,7 +21,9 @@ Disneyland and neither of us had been to California Adventure, so it was
 really fun to see not only the stuff we were familiar with, but the new
 rides and exhibits.
 
-[![](https://lh6.googleusercontent.com/-MigtuJDBKgQ/TqOT82tbLWI/AAAAAAAAGDs/PcrUE3Sx1X4/s288/20081015-094922.jpg)](https://picasaweb.google.com/lh/photo/_bbHzb8zuLXZCCVntF4pO9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)<br />From [Disneyland and Legoland](https://picasaweb.google.com/100275637557074554059/DisneylandAndLegoland02?authuser=0&feat=embedwebsite)
+[![Trav and Jenn](https://lh6.googleusercontent.com/-MigtuJDBKgQ/TqOT82tbLWI/AAAAAAAAGDs/PcrUE3Sx1X4/s288/20081015-094922.jpg)](https://picasaweb.google.com/lh/photo/_bbHzb8zuLXZCCVntF4pO9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+
+From [Disneyland and Legoland](https://picasaweb.google.com/100275637557074554059/DisneylandAndLegoland02?authuser=0&feat=embedwebsite)
 
 The 15th was primarily Disneyland. We stayed at the Disneyland Hotel, so
 we took the monorail into the park first thing in the morning and while
@@ -43,7 +45,9 @@ twice because the first time we rode, it broke down and we got stuck on
 it (with the lights on and everything) for quite some time. We finished
 off that first day watching the characters parade down Main Street, USA.
 
-[![](https://lh3.googleusercontent.com/-lFEwaVPzAKY/TqOT_oc5gWI/AAAAAAAAGEE/aJiRsgCqAjM/s288/20081015-113617.jpg)](https://picasaweb.google.com/lh/photo/T6kMLP8HUmK-jA1CRziyddMTjNZETYmyPJy0liipFm0?feat=embedwebsite)<br />From [Disneyland and Legoland](https://picasaweb.google.com/100275637557074554059/DisneylandAndLegoland02?authuser=0&feat=embedwebsite)
+[![Travis with Alice](https://lh3.googleusercontent.com/-lFEwaVPzAKY/TqOT_oc5gWI/AAAAAAAAGEE/aJiRsgCqAjM/s288/20081015-113617.jpg)](https://picasaweb.google.com/lh/photo/T6kMLP8HUmK-jA1CRziyddMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+
+From [Disneyland and Legoland](https://picasaweb.google.com/100275637557074554059/DisneylandAndLegoland02?authuser=0&feat=embedwebsite)
 
 The 16th we started the morning with a character breakfast at Goofy's
 Kitchen, an all-you-can-eat buffet of just about anything you'd ever
@@ -51,7 +55,9 @@ want to eat. Princess Jasmine and Princess Aurora were there, as was
 Goofy, Chip and Dale, Pluto, and Baloo. It sounds silly, but it was
 actually very fun (and great food).
 
-[![](https://lh6.googleusercontent.com/-v9pOaLWmEEo/TqOUDPNqkmI/AAAAAAAAGEU/eL56i87Fj1A/s288/20081016-081424.jpg)](https://picasaweb.google.com/lh/photo/6sitFIVznttW86W5eQGR2tMTjNZETYmyPJy0liipFm0?feat=embedwebsite)<br />From [Disneyland and Legoland](https://picasaweb.google.com/100275637557074554059/DisneylandAndLegoland02?authuser=0&feat=embedwebsite)
+[![Travis with Princess Jasmine](https://lh6.googleusercontent.com/-v9pOaLWmEEo/TqOUDPNqkmI/AAAAAAAAGEU/eL56i87Fj1A/s288/20081016-081424.jpg)](https://picasaweb.google.com/lh/photo/6sitFIVznttW86W5eQGR2tMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+
+From [Disneyland and Legoland](https://picasaweb.google.com/100275637557074554059/DisneylandAndLegoland02?authuser=0&feat=embedwebsite)
 
 Following breakfast, we spent the day going through California
 Adventure. California Adventure is less about the Disney cartoons and
@@ -74,7 +80,9 @@ Mountain easier later at night, but you really get soaked down and it
 doesn't dry up too well. Jenn and I walked the park soaking for quite
 some time after that.
 
-[![](https://lh4.googleusercontent.com/-0Vi6pVHwGZI/TqOUHu8ydKI/AAAAAAAAGD8/U5gc_kXxwWE/s288/20081017-081239.jpg)](https://picasaweb.google.com/lh/photo/DQH0lzSAIDsdrQlaxT_GudMTjNZETYmyPJy0liipFm0?feat=embedwebsite)<br />From [Disneyland and Legoland](https://picasaweb.google.com/100275637557074554059/DisneylandAndLegoland02?authuser=0&feat=embedwebsite)
+[![Travis with Mickey in Toontown](https://lh4.googleusercontent.com/-0Vi6pVHwGZI/TqOUHu8ydKI/AAAAAAAAGD8/U5gc_kXxwWE/s288/20081017-081239.jpg)](https://picasaweb.google.com/lh/photo/DQH0lzSAIDsdrQlaxT_GudMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+
+From [Disneyland and Legoland](https://picasaweb.google.com/100275637557074554059/DisneylandAndLegoland02?authuser=0&feat=embedwebsite)
 
 The 17th was dedicated to picking up rides and areas of the park we
 didn't get a chance to see. We started the day in Disneyland and enjoyed
@@ -116,7 +124,9 @@ everything else, including the Lego sets, were all things you could get
 at a Lego store or on their web site. There were a lot of things I
 wanted that simply didn't exist. Here's hoping they figure that one out.
 
-[![](https://lh4.googleusercontent.com/-UxOuAbUi5j8/TqOUIu1S54I/AAAAAAAAETg/8t_KKNBrQq4/s288/20081018-102226.jpg)](https://picasaweb.google.com/lh/photo/fyy7XzYd3VSiX8pateVFItMTjNZETYmyPJy0liipFm0?feat=embedwebsite)<br />From [Disneyland and Legoland](https://picasaweb.google.com/100275637557074554059/DisneylandAndLegoland02?authuser=0&feat=embedwebsite)
+[![Lego dragon](https://lh4.googleusercontent.com/-UxOuAbUi5j8/TqOUIu1S54I/AAAAAAAAETg/8t_KKNBrQq4/s288/20081018-102226.jpg)](https://picasaweb.google.com/lh/photo/fyy7XzYd3VSiX8pateVFItMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+
+From [Disneyland and Legoland](https://picasaweb.google.com/100275637557074554059/DisneylandAndLegoland02?authuser=0&feat=embedwebsite)
 
 Since we finished out Legoland in a day, we took the 19th to sleep in
 and rest our feet. Grabbed some breakfast at IHOP, drove down to see the
@@ -133,4 +143,3 @@ opportunity to go, or maybe hit Disney World in Florida so i can see
 Epcot. I probably will wait a while before going back to Legoland, to
 see if they do some renovations to address the older set or add some new
 models. Good times.
-

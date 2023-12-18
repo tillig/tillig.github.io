@@ -49,4 +49,3 @@ I'm still expected to fix it.
 (Note that this is no reflection on
 [Alex](http://twitter.com/ITBlogger), who's a smart guy and friend of
 mine. It just got me thinking, is all.)
-

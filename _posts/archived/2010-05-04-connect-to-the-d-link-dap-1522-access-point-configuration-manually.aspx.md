@@ -26,13 +26,12 @@ the access point.
 Update the TCP/IPv4 settings on the adapter so it's not DHCP anymore.
 Use these settings:
 
--   IP = 192.168.0.99
--   Subnet Mask = 255.255.255.0
--   Gateway = 192.168.0.50
+- IP = 192.168.0.99
+- Subnet Mask = 255.255.255.0
+- Gateway = 192.168.0.50
 
 Now open up a browser and go to 192.168.0.50 as you normally would to
 get to the configuration page. It should come up.
 
 I kinda wish that had been in the instruction manual, but since it's
 not, there you go.
-

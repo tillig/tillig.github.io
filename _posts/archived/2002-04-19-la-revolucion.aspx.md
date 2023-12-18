@@ -7,12 +7,12 @@ disqus_identifier: 46
 tags: [activities,gaming]
 ---
 [Days Until [Vegas](/archive/2002/04/08/vegas-baby-vegas.aspx): 25]
- 
+
  I decided the other day that I'm not as active as I should be. What I
 mean by that is, since I'm not actually required to *get up* during the
 day except to use the restroom, I should probably do something about my
 physical health before I atrophy into nonexistence.
- 
+
  I have tried several different exercise methods, but none of them work.
 More to the point, none of them are interesting enough to keep my
 attention, convenient enough to do when I have time, and terribly
@@ -30,12 +30,12 @@ finally return home is just not in the cards. Plus, joining one of
 proposition in the world. Tried the [Tae Bo](http://www.billyblanks.com)
 thing and quickly found out that there just isn't enough room in the
 apartment for that sort of activity.
- 
+
  You see where I'm going with this.
- 
+
  So I started looking around for something that fits the qualifications
 I require for exercise.
- 
+
  I found... [Dance Dance
 Revolution](http://www.amazon.com/exec/obidos/ASIN/B00005A774/mhsvortex)!
 It's this Playstation game that is apparently very popular in arcades in
@@ -49,10 +49,10 @@ What the pad does is allow you to stand up and step on the buttons
 instead of just pushing them with your thumbs, effectively making you
 dance along with the game. Brilliance, huh? Now it's not *exercise*,
 it's a *video game*, something my mind can handle a lot easier.
- 
+
  The game even has a "workout mode" that allows you to get an aerobic
 workout. Now *that's* entertainment.
- 
+
  I ordered my copy of the game and a pad yesterday. Got the notice they
 were shipped today, so next week I should be dancing my way to freedom
 and leisure. I'm stoked. I hear it's exceptionally addictive, which is

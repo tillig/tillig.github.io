@@ -35,4 +35,3 @@ it does make the preview more authentic.
 Hopefully that adds to you documentation preview enjoyment.
 
 As always, it's free. [Go get it!](http://cr-documentor.googlecode.com)
-

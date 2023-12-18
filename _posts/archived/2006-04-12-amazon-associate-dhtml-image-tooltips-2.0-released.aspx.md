@@ -18,6 +18,5 @@ Safely attaching to all events (thanks to Phil Haack for this).
 
 Updated so script is placed in HEAD of document.
 
-
  [Go get
 it!](/archive/2004/09/29/amazon-associate-dhtml-image-tooltips.aspx)

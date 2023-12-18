@@ -38,24 +38,23 @@ in here.
 about $80 to work with, so I could get lots of small things - DVDs,
 CDs, etc. - or I could get one big thing. I'm leaning towards one big
 thing. But what? Options include...
--   [Ottawa Senators home
+
+- [Ottawa Senators home
     jersey](http://shop.nhl.com/itmModelList.asp?s={2652B09B-A8F3-4F79-AE65-C35B857C07D3}&l=1&a=10088&c=8036&sf=2&cnl=3&i=10279)
--   [*Grand Theft Auto: Vice
+- [*Grand Theft Auto: Vice
     City*](http://www.amazon.com/exec/obidos/ASIN/B0000696CZ/mhsvortex)
     (preorder) - I'd actually probably get this at Software Etc. at the
     mall because you can preorder and get a free strategy guide with it
--   The big [Alphonse Mucha
+- The big [Alphonse Mucha
     book](http://www.amazon.com/exec/obidos/ASIN/0300074190/mhsvortex)
     I've been looking at
--   A [glare screen](http://www.glareshield.com/tvfilter.html) for my
+- A [glare screen](http://www.glareshield.com/tvfilter.html) for my
     television (the glare on our TV is *awful*)
--   A hooker (okay, I was kidding about that one, but I had to make sure
+- A hooker (okay, I was kidding about that one, but I had to make sure
     you were still paying attention)
--   A [Cost Plus World Market](http://www.costplus.com/) shopping spree
+- A [Cost Plus World Market](http://www.costplus.com/) shopping spree
     (which would last about six seconds because I like all the expensive
     stuff in there)
-
-
 
  I'm just not sure. I'm sort of an impulse shopper, so I don't know what
 I want until I walk through the store and see it. I'm leaning towards

@@ -14,48 +14,55 @@ So, in the spirit of "Not Invented Here," I decided to write my own. :)
 
 First was figuring out what the format looked like in the request. [I found an article that showed just that](http://www.15seconds.com/Issue/001003.htm). Not a very thorough article, but it got me started. Let me boil it down in terms that [at least I] understand.
 
--   **Generate a "boundary."** A boundary is a unique string that serves
-    as a delimiter between each of the form values you'll be sending in
-    your request. Usually these boundaries look something like<br />
-    `---------------------------7d01ecf406a6`<br />
-    with a bunch of dashes and a unique value.
--   **Set the request content type** to `multipart/form-data; boundary=`
-    and your boundary, like:<br />
-    `multipart/form-data; boundary=---------------------------7d01ecf406a6`
--   **Any time you write a standard form value** to the request stream,
-    you'll write:
-    -   Two dashes.
-    -   Your boundary.
-    -   One CRLF (`\r\n`).
-    -   A content-disposition header that tells the name of the form field you'll be inserting. That looks like:<br /> `Content-Disposition: form-data; name="yourformfieldname"`
-    -   Two CRLFs.
-    -   The value of the form field - not URL encoded.
-    -   One CRLF.
+- **Generate a "boundary."** A boundary is a unique string that serves
+  as a delimiter between each of the form values you'll be sending in
+  your request. Usually these boundaries look something like
 
--   **Any time you write a file**to the request stream (for upload),
-    you'll write:
-    -   Two dashes.
-    -   Your boundary.
-    -   One CRLF (`\r\n`).
-    -   A content-disposition header that tells the name of the form
-        field corresponding to the file and the name of the file. That
-        looks like:<br />
-        `Content-Disposition: form-data; name="yourformfieldname"; filename="somefile.jpg"`
-    -   One CRLF.
-    -   A content-type header that says what the MIME type of the file
-        is. That looks like:<br />
-        `Content-Type: image/jpg`
-    -   Two CRLFs.
-    -   The entire contents of the file, byte for byte. It's OK to
-        include binary content here. Don't base-64 encode it or
-        anything, just stream it on in.
-    -   One CRLF.
+  `---------------------------7d01ecf406a6`
 
--   **At the end of your request**, after writing all of your fields and
+  with a bunch of dashes and a unique value.
+- **Set the request content type** to `multipart/form-data; boundary=`
+  and your boundary, like:
+
+  `multipart/form-data; boundary=---------------------------7d01ecf406a6`
+- **Any time you write a standard form value** to the request stream,
+    you'll write:
+  - Two dashes.
+  - Your boundary.
+  - One CRLF (`\r\n`).
+  - A content-disposition header that tells the name of the form field you'll be inserting. That looks like:
+
+    `Content-Disposition: form-data; name="yourformfieldname"`
+  - Two CRLFs.
+  - The value of the form field - not URL encoded.
+  - One CRLF.
+
+- **Any time you write a file**to the request stream (for upload),
+    you'll write:
+  - Two dashes.
+  - Your boundary.
+  - One CRLF (`\r\n`).
+  - A content-disposition header that tells the name of the form
+    field corresponding to the file and the name of the file. That
+    looks like:
+
+    `Content-Disposition: form-data; name="yourformfieldname"; filename="somefile.jpg"`
+  - One CRLF.
+  - A content-type header that says what the MIME type of the file
+    is. That looks like:
+
+    `Content-Type: image/jpg`
+  - Two CRLFs.
+  - The entire contents of the file, byte for byte. It's OK to
+    include binary content here. Don't base-64 encode it or
+    anything, just stream it on in.
+  - One CRLF.
+
+- **At the end of your request**, after writing all of your fields and
     files to the request, you'll write:
-    -   Two dashes.
-    -   Your boundary.
-    -   Two more dashes.
+  - Two dashes.
+  - Your boundary.
+  - Two more dashes.
 
 That's how it works. The problem is that it's not built-in to [the
 HttpWebRequest

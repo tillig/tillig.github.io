@@ -77,4 +77,3 @@ in the bin...
 ...which means*I successfully passed along my OCD to the toddler*. A
 place for everything and everything in its place. Jenn, you're
 outnumbered!
-

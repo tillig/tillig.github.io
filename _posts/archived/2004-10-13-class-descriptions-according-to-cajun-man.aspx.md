@@ -4,7 +4,7 @@ title: "Class Descriptions According To Cajun Man"
 date: 2004-10-13 -0800
 comments: true
 disqus_identifier: 676
-tags: [humor,net]
+tags: [humor,dotnet]
 ---
 I'm not sure how my mind works or why it thinks of these things. Maybe
 I'm thinking of work too much. Thing is, I've had to explain this
@@ -22,52 +22,50 @@ character:
 > use it to display, for example, a tree-view of the available pages for
 > a site.
 >
->  **Cajun Man:** Hierarchical presenta-*shawn*.
+> **Cajun Man:** Hierarchical presenta-*shawn*.
 >
->  **Presenter:** The Navigation Service is accessed through a property
+> **Presenter:** The Navigation Service is accessed through a property
 > available in the base page class. You could cache an instance of the
 > Navigation Service class and then access that cached instance through
 > the property on the page.
 >
->  **Cajun Man:** Single-*tawn*.
+> **Cajun Man:** Single-*tawn*.
 >
->  **Presenter:** When getting a reference to the Navigation Service,
+> **Presenter:** When getting a reference to the Navigation Service,
 > you don't actually create the instance directly. Instead, call the
 > static "GetNavigationService" method and it will get an instance for
 > you.
 >
->  **Cajun Man:** Factory crea-*shawn*.
+> **Cajun Man:** Factory crea-*shawn*.
 >
->  **Presenter:** What the Navigation Service does is it takes the
+> **Presenter:** What the Navigation Service does is it takes the
 > navigation.config file and reads it into an object model based on the
 > file schema.
 >
->  **Cajun Man:** XML deserializa-*shawn*.
+> **Cajun Man:** XML deserializa-*shawn*.
 >
->  **Presenter:** Then it does some manual processing to make the
+> **Presenter:** Then it does some manual processing to make the
 > objects just a little bit "smarter" than that, filling in calculated
 > values and such.
 >
->  **Cajun Man:** Initializa-*shawn*.
+> **Cajun Man:** Initializa-*shawn*.
 >
->  **Presenter:** If you have a bunch of, for example, "Item" elements
+> **Presenter:** If you have a bunch of, for example, "Item" elements
 > in the "Site," those will come out in the Navigation Service as a...
 >
->  **Cajun Man:** Strongly-typed collec-*shawn*.
+> **Cajun Man:** Strongly-typed collec-*shawn*.
 >
->  **Presenter:** Right. And if there are no elements in a collection,
+> **Presenter:** Right. And if there are no elements in a collection,
 > you end up with...
 >
->  **Cajun Man:** Empty collec-*shawn*.
+> **Cajun Man:** Empty collec-*shawn*.
 >
->  **Presenter:** Well, no... actually you get a null value, though the
+> **Presenter:** Well, no... actually you get a null value, though the
 > Navigation Service could be updated to make any null collections be
 > empty collections. That way you could just iterate over the collection
 > rather than having to check for null all the time.
 >
->  **Cajun Man:** No NullReferenceExcep-*shawn*.
-
-
+> **Cajun Man:** No NullReferenceExcep-*shawn*.
 
  ...that's as far as I got before I made it home and my train of thought
 was lost, but I think you see how it goes. While I'm nowhere near as

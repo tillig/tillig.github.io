@@ -14,4 +14,3 @@ support standard IR remotes.
 [IR2BT to the rescue.](http://ir2bt.com/) It converts IR signals to
 Bluetooth specifically for this purpose. I can get one of those instead
 of yet-another-proprietary-remote.
-

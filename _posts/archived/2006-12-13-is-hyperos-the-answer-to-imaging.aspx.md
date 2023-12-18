@@ -21,4 +21,3 @@ optimizations in the world, with the hardware I'm using the overhead of
 a VM makes it noticeably slower than running natively and I need *more*
 speed, not *less*. This HyperOS application looks like it gives you the
 best of all worlds. Maybe I should try it out.
-

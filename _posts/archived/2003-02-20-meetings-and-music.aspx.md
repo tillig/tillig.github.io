@@ -12,6 +12,7 @@ the second meeting, the first being last week.
 
  The first meeting was bullshit. It was twenty minutes worth of
 information packed into an hour. Most of it was mutual masturbation crap
+
 - "It's a great opportunity to work with your company because " and
 "True, but it will also be good experience for us to work with you
 because " and so on. I still don't understand all that; it's not fucking
@@ -77,10 +78,10 @@ I just felt like picking that up for the bargain price of $8.99.
 put out a song around 1989 called "No Myth" with a chorus that goes:
 
 > What if I were Romeo in black jeans
->  What if I was [Heathcliff](http://www.filmsite.org/wuth.html), it's
+> What if I was [Heathcliff](http://www.filmsite.org/wuth.html), it's
 > no myth
->  Maybe she's just looking for
->  Someone to dance with
+> Maybe she's just looking for
+> Someone to dance with
 
 The thing is, I think it was a pretty popular song, but no one ever
 knows who sang it. Anyway, I found the album that it's on (which is hard

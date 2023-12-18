@@ -30,4 +30,5 @@ can't use anymore - $75.
 unwrap and re-wrap all of the cables for the cable box and the Xbox 360
 because [Comcast can't manage firmware
 updates](/archive/2006/11/10/comcastmotorola-firmware-update-breaks-dvi.aspx)
+
 - **PRICELESS**.

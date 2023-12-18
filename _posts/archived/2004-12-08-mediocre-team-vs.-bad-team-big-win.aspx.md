@@ -10,18 +10,18 @@ Went to the [Winter Hawks](http://www.winterhawks.com/) game last night,
 and while I insist that this season's Hawks are mediocre at best, the
 [Swift Current Broncos](http://www.scbroncos.com/) suck, so we kicked
 their ass 4 - 0.
- 
+
  It was nice to see such a blowout win, but I won't lie: it'd be nice if
 it was *good hockey*. Connect a pass, guys. Come on. You can do it. At
 least there were a couple of good fights.
- 
+
  You'll notice that I've turned on the requirement for folks to register
 prior to adding comments. I came in and looked at the 50 comment spams I
 had gotten and realized I had to do something, especially since it was
 still happening while I was reading email. I turned on the registration
 to stop the spider from adding more comments (they were going down the
 list of every single entry and adding comments).
- 
+
  I may or may not remove that registration requirement. I don't actually
 send anything out to the email list, so maybe I'll just leave it. It'd
 be nice to know how many folks come in. Then again, I should probably

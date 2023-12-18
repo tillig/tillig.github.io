@@ -22,4 +22,3 @@ The weather was totally agreeable - nice and sunny, in contrast to [our
 B-52s outing](/archive/2009/06/22/the-b-52s-at-the-oregon-zoo.aspx). We
 kicked back, relaxed, ate an elephant ear, and took in the music. If you
 get a chance, see these guys live. If they come back, I'm there.
-

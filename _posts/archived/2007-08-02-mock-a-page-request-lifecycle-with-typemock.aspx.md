@@ -4,7 +4,7 @@ title: "Mock a Page Request Lifecycle with TypeMock"
 date: 2007-08-02 -0800
 comments: true
 disqus_identifier: 1246
-tags: [testing,aspnet,gists,csharp,net]
+tags: [testing,aspnet,gists,csharp,dotnet]
 ---
 Let's say you're writing a service like an
 [HttpModule](http://msdn2.microsoft.com/en-us/library/system.web.ihttpmodule.aspx) that
@@ -19,7 +19,7 @@ is [hard
 enough](http://haacked.com/archive/2007/06/19/unit-tests-web-code-without-a-web-server-using-httpsimulator.aspx),
 and many times you end up going down the [UI
 automation](http://watin.sourceforge.net/)
-[road](http://www.hanselman.com/blog/PermaLink.aspx?guid=944a5284-6b8d-4366-81e8-2e241401e1b3). 
+[road](http://www.hanselman.com/blog/PermaLink.aspx?guid=944a5284-6b8d-4366-81e8-2e241401e1b3).
 Ugly.
 
 Enter [TypeMock](http://www.typemock.com).
@@ -82,4 +82,3 @@ that I prefer in TypeMock.  The reason is that I'm mocking a couple of
 internal things and mocking non-public items requires the Reflective
 mocks.  By mocking these internal convenience methods, I can greatly
 reduce the amount of setup for this to run.)
-

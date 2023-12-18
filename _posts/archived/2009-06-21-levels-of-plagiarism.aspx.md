@@ -22,7 +22,7 @@ out of Twhirl](/archive/2008/04/22/getting-the-most-from-twhirl.aspx). I
 posted that back on April 22, 2008. The anonymous comment told me I had
 plagiarized an article on a blog that was posted on February 18, 2009.
 The URL of the ripped-off article is
-http://www.themoxiemomblog.com/headline/how-to-easily-create-a-customized-twhirl-color-scheme
+<http://www.themoxiemomblog.com/headline/how-to-easily-create-a-customized-twhirl-color-scheme>
 (I'm not hyperlinking it because I'm not giving that ripoff any Google
 juice. Note, also, that IE8 crashes on certain pages on that site... I
 don't know if it's trying to do something malicious or if that's just
@@ -33,15 +33,14 @@ got exactly the same points, the same steps to create a custom Twhirl
 theme, everything... but sentence structure was switched. For example:
 
 > My sentence: Turn off "prefix tweets with sender's name."
->  Their sentence: You can turn off the prefixing of tweets with the
+> Their sentence: You can turn off the prefixing of tweets with the
 > sender's name.
 >
 > My sentence: Turn off "mark received tweets as new."
->  Their sentence: Turn off all new tweets as being marked.
+> Their sentence: Turn off all new tweets as being marked.
 
 If you open the articles side-by-side, it's a blatant theft of my
 content, yet I'd classify this as far more annoying than the robotic
 theft of my content wholesale because this level of theft actually
 requires a human to tweak it. And the fact that someone accused me of
 stealing my own content? ARGH.
-

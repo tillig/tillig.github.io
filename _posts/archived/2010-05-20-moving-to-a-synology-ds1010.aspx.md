@@ -33,10 +33,10 @@ drive goes out, I don't have to re-rip a bunch of stuff.
 I did some research on NAS solutions that support RAID of various levels
 and **I ended up on the Synology DS1010+.** Why?
 
--   **Speed.** Looking at various reviews for NAS devices, Synology
+- **Speed.** Looking at various reviews for NAS devices, Synology
     devices seem to always be rated high for speed, and usually higher
     than others.
--   **Expandability.** Most consumer-grade NAS solutions come with a max
+- **Expandability.** Most consumer-grade NAS solutions come with a max
     of four drive bays. After that, you can expand with eSATA ([like I
     did for my Windows Home
     Server](/archive/2009/02/04/increase-your-windows-home-server-capacity-with-esata.aspx))
@@ -44,17 +44,17 @@ and **I ended up on the Synology DS1010+.** Why?
     replicator or whatever. The DS1010+ actually has a specific port
     replicator that Synology sells that ensures the fast performance you
     expect and gives you a total of 10 drives' worth of storage.
--   **Data protection.** As mentioned earlier, I can't duplicate my DVD
+- **Data protection.** As mentioned earlier, I can't duplicate my DVD
     rips because I don't have the room to store everything twice. In a
     RAID 5 array, though, I have protection for my data if a drive dies
     but I don't have to have double the storage capacity to do it.
--   **Flexibility.** This thing appears to be a reasonable answer to WHS
+- **Flexibility.** This thing appears to be a reasonable answer to WHS
     as far as features are concerned. You can have it run FTP, iTunes
     library sharing, DLNA media serving, client PC backup, security
     camera monitoring/recording, or a ton of other stuff. (I'm not going
     to do that all immediately; right now, just storing the DVD images
     is enough.)
--   **Confidence.** This is more a psychological thing, but... after
+- **Confidence.** This is more a psychological thing, but... after
     having so many troubles with this WHS and the disks in it, I've lost
     some of the confidence I once had with it. I've started compulsively
     checking the light on the front to see if there's a "Network Health
@@ -80,7 +80,7 @@ $120 each at
 Amazon**](http://www.amazon.com/gp/product/B0028Y4CY6?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0028Y4CY6).
 Why?
 
--   **Reasonable reviews.** I found that unless you get into really
+- **Reasonable reviews.** I found that unless you get into really
     expensive drives, most hard drives have poor reviews. The general
     reason it appears is that sometimes folks will get a DOA drive and
     instantly go for the one-star rating rather than resolving the issue
@@ -89,11 +89,11 @@ Why?
     doesn't really say anything about the drive. Excluding those, it
     looks like [assuming you get fully functional drives] they're pretty
     good.
--   **Reasonable speed.** They're not 7200 RPM drives, but they are
+- **Reasonable speed.** They're not 7200 RPM drives, but they are
     faster than 5400 RPM drives and even [appear to compare favorably
     with some older 7200 RPM
     drives](http://hardwarelogic.com/articles.php?id=5578).
--   **Price.** There's a gap in 2TB drive pricing between some of the
+- **Price.** There's a gap in 2TB drive pricing between some of the
     5400 RPM drives and the faster 7200 RPM drives. Like, it jumps from
     around $150 drive up to $280 drive without anything in the middle.
     Price for supposed performance, I couldn't really beat $120 each.
@@ -141,6 +141,7 @@ you use a program called "Synology Assistant" that installs on your
 client computer. The Assistant detects your NAS and allows you to
 install the "DSM" or "DiskStation Manager" software/firmware over the
 network. It's a lot like installing Windows Home Server in that respect
+
 - the NAS is headless and you install and configure it all over the net.
 
 I downloaded the latest Synology Assistant and DSM patch from [the
@@ -162,12 +163,12 @@ install folder.
 After unblocking it from Windows Firewall, I got this screen showing the
 detection of the DS1010+ and that no firmware was installed.
 
-[![](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X21Hs9JuI/AAAAAAAABmw/XsHqL9kyzoM/s288/20100519-1825%20Synology%20Assistant%20First%20Run.jpg)](http://picasaweb.google.com/lh/photo/PH7f-pF5MZk8bAKDeeIHHw?feat=embedwebsite)
+[![Synology Assistant - no firmware installed](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X21Hs9JuI/AAAAAAAABmw/XsHqL9kyzoM/s288/20100519-1825%20Synology%20Assistant%20First%20Run.jpg)](http://picasaweb.google.com/lh/photo/PH7f-pF5MZk8bAKDeeIHHw?feat=embedwebsite)
 
 I double clicked on the server and it took me to an installation screen.
 First, I selected the DSM "patch" I had downloaded.
 
-[![](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X21X-7jGI/AAAAAAAABm0/tzlcmZwtLiI/s288/20100519-1826%20Selecting%20the%20Downloaded%20Patch%20File.jpg)](http://picasaweb.google.com/lh/photo/jsQGmSYvTZjsb8Rc8hbjHQ?feat=embedwebsite)
+[![Synology Assistant - Setup Wizard](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X21X-7jGI/AAAAAAAABm0/tzlcmZwtLiI/s288/20100519-1826%20Selecting%20the%20Downloaded%20Patch%20File.jpg)](http://picasaweb.google.com/lh/photo/jsQGmSYvTZjsb8Rc8hbjHQ?feat=embedwebsite)
 
 Then I walked through setting up the name of the NAS, the admin
 password, network settings, etc. Note that I used the "Step By Step"
@@ -175,11 +176,11 @@ setup rather than the "One-Click." Seeing as how I left everything as
 defaults except the administrator password, the one-click setup probably
 would have been fine.
 
-[![](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X217TlymI/AAAAAAAABm4/3kBqRoukllA/s144/20100519-1827%20Setup%2001%20-%20Name%20the%20DiskStation.jpg)](http://picasaweb.google.com/lh/photo/S_zyx504e55lJ5K2QbDPag?feat=embedwebsite) [![](http://lh5.ggpht.com/_P1NCAbHEm2Q/S_X210CMySI/AAAAAAAABm8/3XntHt8cKpo/s144/20100519-1827%20Setup%2002%20-%20Give%20Administrator%20a%20Password.jpg)](http://picasaweb.google.com/lh/photo/nPs7UHre_FxpcUnx5wGU7A?feat=embedwebsite)
+[![Synology Assistant - Step 1](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X217TlymI/AAAAAAAABm4/3kBqRoukllA/s144/20100519-1827%20Setup%2001%20-%20Name%20the%20DiskStation.jpg)](http://picasaweb.google.com/lh/photo/S_zyx504e55lJ5K2QbDPag?feat=embedwebsite) [![Synology Assistant - Step 2](http://lh5.ggpht.com/_P1NCAbHEm2Q/S_X210CMySI/AAAAAAAABm8/3XntHt8cKpo/s144/20100519-1827%20Setup%2002%20-%20Give%20Administrator%20a%20Password.jpg)](http://picasaweb.google.com/lh/photo/nPs7UHre_FxpcUnx5wGU7A?feat=embedwebsite)
 
-[![](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X22c9fJqI/AAAAAAAABnA/N8Am_nSe84g/s144/20100519-1827%20Setup%2003%20-%20Network%20Configuration.jpg)](http://picasaweb.google.com/lh/photo/hFvG8_x1vRbUFRz7EN7OIg?feat=embedwebsite) [![](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X22tQzm0I/AAAAAAAABnE/5kDSnhWcJj4/s144/20100519-1827%20Setup%2004%20-%20Time%20and%20Date.jpg)](http://picasaweb.google.com/lh/photo/ODXNB0EfFk3FKH-z47uBpw?feat=embedwebsite)
+[![Synology Assistant - Step 3](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X22c9fJqI/AAAAAAAABnA/N8Am_nSe84g/s144/20100519-1827%20Setup%2003%20-%20Network%20Configuration.jpg)](http://picasaweb.google.com/lh/photo/hFvG8_x1vRbUFRz7EN7OIg?feat=embedwebsite) [![Synology Assistant - Step 4](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X22tQzm0I/AAAAAAAABnE/5kDSnhWcJj4/s144/20100519-1827%20Setup%2004%20-%20Time%20and%20Date.jpg)](http://picasaweb.google.com/lh/photo/ODXNB0EfFk3FKH-z47uBpw?feat=embedwebsite)
 
-[![](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X228PSR1I/AAAAAAAABnI/9H-suq1mvEc/s144/20100519-1827%20Setup%2005%20-%20Confirmation%20Report.jpg)](http://picasaweb.google.com/lh/photo/Fun9lDOSiiz_0PfCoqG1KA?feat=embedwebsite)
+[![Synology Assistant - Step 5](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X228PSR1I/AAAAAAAABnI/9H-suq1mvEc/s144/20100519-1827%20Setup%2005%20-%20Confirmation%20Report.jpg)](http://picasaweb.google.com/lh/photo/Fun9lDOSiiz_0PfCoqG1KA?feat=embedwebsite)
 
 After finishing the install, I went back to the Synology Assistant
 management screen (using the icons at the top) and it sort of freaked me
@@ -187,23 +188,23 @@ out because the server status appeared hung on "Starting services." I
 did a manual refresh (using the not-so-intuitive "Search" button) and
 the status updated to "Ready."
 
-[![](http://lh4.ggpht.com/_P1NCAbHEm2Q/S_X226vXBnI/AAAAAAAABnM/A52fzqChn1g/s144/20100519-1839%20Install%20of%20DSM%20Complete.jpg)](http://picasaweb.google.com/lh/photo/vc_ybc2F_nQ7XJEx6SoNzw?feat=embedwebsite) [![](http://lh5.ggpht.com/_P1NCAbHEm2Q/S_X23UyuBZI/AAAAAAAABnQ/0Jg5USle0z8/s144/20100519-1850%20Status%20Ready.jpg)](http://picasaweb.google.com/lh/photo/v2vrDe5pUr0WexX7sVzPug?feat=embedwebsite)
+[![Synology Assistant](http://lh4.ggpht.com/_P1NCAbHEm2Q/S_X226vXBnI/AAAAAAAABnM/A52fzqChn1g/s144/20100519-1839%20Install%20of%20DSM%20Complete.jpg)](http://picasaweb.google.com/lh/photo/vc_ybc2F_nQ7XJEx6SoNzw?feat=embedwebsite) [![Synology Assistant](http://lh5.ggpht.com/_P1NCAbHEm2Q/S_X23UyuBZI/AAAAAAAABnQ/0Jg5USle0z8/s144/20100519-1850%20Status%20Ready.jpg)](http://picasaweb.google.com/lh/photo/v2vrDe5pUr0WexX7sVzPug?feat=embedwebsite)
 
 I selected the DiskStation and clicked the "Connect" button which
 brought up the web interface to log in. I could also have just gone to
 port 5000 on the DiskStation by manually entering a URL in a browser.
 
-[![](http://lh4.ggpht.com/_P1NCAbHEm2Q/S_X24o3ghHI/AAAAAAAABnU/puPvWyQ9pIg/s288/20100519-1852%20Login%20to%20DSM.jpg)](http://picasaweb.google.com/lh/photo/ZH0SqTT2_Zx5IcPegiHbAw?feat=embedwebsite)
+[![DSM 2.3](http://lh4.ggpht.com/_P1NCAbHEm2Q/S_X24o3ghHI/AAAAAAAABnU/puPvWyQ9pIg/s288/20100519-1852%20Login%20to%20DSM.jpg)](http://picasaweb.google.com/lh/photo/ZH0SqTT2_Zx5IcPegiHbAw?feat=embedwebsite)
 
 After logging in, I went into the "Management" section and then into
 Storage -\> Volume Manager, which automatically started the Volume
 Creation Wizard. I used the web-based wizard to create a RAID 5 volume
 out of the installed disks. Two notes on this:
 
-1.  I used the "Custom Volume" option rather than the "Standard Volume"
+1. I used the "Custom Volume" option rather than the "Standard Volume"
     option because I wasn't clear on what would happen in a multi-disk
     volume in "Standard" mode. I wanted RAID 5, so I specified.
-2.  I selected the option to check/remap all the bad sectors. There
+2. I selected the option to check/remap all the bad sectors. There
     shouldn't be any on the new drives, but I also wanted to do some
     burn-in/health checking and this appeared to be the way to do it.
     That said, it takes FOREVER. Click the "go" button and leave it
@@ -212,15 +213,15 @@ out of the installed disks. Two notes on this:
     an idea, I let it run for about a half hour and got to 7% before
     deciding to let it be.
 
-[![](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X246YKFJI/AAAAAAAABnY/TBh-WA9BAsU/s144/20100519-1856%20Volume%20Creation%2001.jpg)](http://picasaweb.google.com/lh/photo/RaqZAqV57RRWa_PWFtnRQw?feat=embedwebsite) [![](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X25T6g4MI/AAAAAAAABnc/SbncoSFi2RE/s144/20100519-1856%20Volume%20Creation%2002.jpg)](http://picasaweb.google.com/lh/photo/-F3vfjONxtBkvIvymnIBEg?feat=embedwebsite)
+[![Volume Creation Wizard](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X246YKFJI/AAAAAAAABnY/TBh-WA9BAsU/s144/20100519-1856%20Volume%20Creation%2001.jpg)](http://picasaweb.google.com/lh/photo/RaqZAqV57RRWa_PWFtnRQw?feat=embedwebsite) [![Volume Creation Wizard](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X25T6g4MI/AAAAAAAABnc/SbncoSFi2RE/s144/20100519-1856%20Volume%20Creation%2002.jpg)](http://picasaweb.google.com/lh/photo/-F3vfjONxtBkvIvymnIBEg?feat=embedwebsite)
 
-[![](http://lh5.ggpht.com/_P1NCAbHEm2Q/S_X25vvVXjI/AAAAAAAABng/qRwWOWQde9A/s144/20100519-1856%20Volume%20Creation%2003.jpg)](http://picasaweb.google.com/lh/photo/HDOA9-eY3dwseJsnvKxpww?feat=embedwebsite) [![](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X26QrX1mI/AAAAAAAABnk/9MJ0npkn8mE/s144/20100519-1856%20Volume%20Creation%2004.jpg)](http://picasaweb.google.com/lh/photo/RvRh2yyYb-V8ew4eHFS0fw?feat=embedwebsite)
+[![Volume Creation Wizard](http://lh5.ggpht.com/_P1NCAbHEm2Q/S_X25vvVXjI/AAAAAAAABng/qRwWOWQde9A/s144/20100519-1856%20Volume%20Creation%2003.jpg)](http://picasaweb.google.com/lh/photo/HDOA9-eY3dwseJsnvKxpww?feat=embedwebsite) [![Volume Creation Wizard](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X26QrX1mI/AAAAAAAABnk/9MJ0npkn8mE/s144/20100519-1856%20Volume%20Creation%2004.jpg)](http://picasaweb.google.com/lh/photo/RvRh2yyYb-V8ew4eHFS0fw?feat=embedwebsite)
 
-[![](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X27h3KrDI/AAAAAAAABno/g8GgHT4xL_s/s144/20100519-1856%20Volume%20Creation%2005.jpg)](http://picasaweb.google.com/lh/photo/Q3lYLrFkeC-ZRYlLdfutKA?feat=embedwebsite) [![](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X279kN1MI/AAAAAAAABns/m12j2GWMoAc/s144/20100519-1856%20Volume%20Creation%2006.jpg)](http://picasaweb.google.com/lh/photo/84cyrES_cjEP8QAWJIrQhg?feat=embedwebsite)
+[![Volume Creation Wizard](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X27h3KrDI/AAAAAAAABno/g8GgHT4xL_s/s144/20100519-1856%20Volume%20Creation%2005.jpg)](http://picasaweb.google.com/lh/photo/Q3lYLrFkeC-ZRYlLdfutKA?feat=embedwebsite) [![Volume Creation Wizard](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X279kN1MI/AAAAAAAABns/m12j2GWMoAc/s144/20100519-1856%20Volume%20Creation%2006.jpg)](http://picasaweb.google.com/lh/photo/84cyrES_cjEP8QAWJIrQhg?feat=embedwebsite)
 
-[![](http://lh5.ggpht.com/_P1NCAbHEm2Q/S_X28Uw6IHI/AAAAAAAABnw/H9E3kslmTO8/s144/20100519-1856%20Volume%20Creation%2007.jpg)](http://picasaweb.google.com/lh/photo/Re9Z8ukKFqmQDBIMbsq1JA?feat=embedwebsite) [![](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X28ypNz3I/AAAAAAAABn0/YHktOnZg2VQ/s144/20100519-1856%20Volume%20Creation%2008.jpg)](http://picasaweb.google.com/lh/photo/dek-I28NAw5CkpqBOFBakg?feat=embedwebsite)
+[![Volume Creation Wizard](http://lh5.ggpht.com/_P1NCAbHEm2Q/S_X28Uw6IHI/AAAAAAAABnw/H9E3kslmTO8/s144/20100519-1856%20Volume%20Creation%2007.jpg)](http://picasaweb.google.com/lh/photo/Re9Z8ukKFqmQDBIMbsq1JA?feat=embedwebsite) [![Volume Creation Wizard](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X28ypNz3I/AAAAAAAABn0/YHktOnZg2VQ/s144/20100519-1856%20Volume%20Creation%2008.jpg)](http://picasaweb.google.com/lh/photo/dek-I28NAw5CkpqBOFBakg?feat=embedwebsite)
 
-[![](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X29LEtQLI/AAAAAAAABn4/nuqD9qT8nwo/s144/20100520-0648%20Volume%20Creation%2009.jpg)](http://picasaweb.google.com/lh/photo/j-LR3CLcYBNv1tDvQG9g5A?feat=embedwebsite) [![](http://lh4.ggpht.com/_P1NCAbHEm2Q/S_X29Q5BmKI/AAAAAAAABn8/0JIz4XoSB0k/s144/20100520-0650%20SMART%20Info.jpg)](http://picasaweb.google.com/lh/photo/-TOpy6Ps97WOG4rkmxJ48g?feat=embedwebsite)
+[![Volume Creation Wizard](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X29LEtQLI/AAAAAAAABn4/nuqD9qT8nwo/s144/20100520-0648%20Volume%20Creation%2009.jpg)](http://picasaweb.google.com/lh/photo/j-LR3CLcYBNv1tDvQG9g5A?feat=embedwebsite) [![Volume Creation Wizard](http://lh4.ggpht.com/_P1NCAbHEm2Q/S_X29Q5BmKI/AAAAAAAABn8/0JIz4XoSB0k/s144/20100520-0650%20SMART%20Info.jpg)](http://picasaweb.google.com/lh/photo/-TOpy6Ps97WOG4rkmxJ48g?feat=embedwebsite)
 
 Once the volume was created, I wanted to make sure the disks were
 running in good order, so I ran an extended [SMART
@@ -228,16 +229,16 @@ Test](http://en.wikipedia.org/wiki/S.M.A.R.T.) on them. Granted, it's
 not like a major stress test or anything, but it's good to check what
 the drive's reported condition is.
 
-[![](http://lh4.ggpht.com/_P1NCAbHEm2Q/S_X29rDQ3iI/AAAAAAAABoA/Z7mvznjp_Ec/s288/20100520-0651%20SMART%20Test%2001.jpg)](http://picasaweb.google.com/lh/photo/BM3MtrFnGeZT44RZnPAgAw?feat=embedwebsite)
+[![SMART Test](http://lh4.ggpht.com/_P1NCAbHEm2Q/S_X29rDQ3iI/AAAAAAAABoA/Z7mvznjp_Ec/s288/20100520-0651%20SMART%20Test%2001.jpg)](http://picasaweb.google.com/lh/photo/BM3MtrFnGeZT44RZnPAgAw?feat=embedwebsite)
 
 I let that run because the extended test takes 255 minutes. In the end,
 the results came back "Normal."
 
-[![](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X2-FDdRdI/AAAAAAAABoE/DC-bh9BderY/s288/20100520-1750%20SMART%20Test%2002.jpg)](http://picasaweb.google.com/lh/photo/s4U7G2JPWVkZ_35xBHGfZw?feat=embedwebsite)
+[![SMART Test](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X2-FDdRdI/AAAAAAAABoE/DC-bh9BderY/s288/20100520-1750%20SMART%20Test%2002.jpg)](http://picasaweb.google.com/lh/photo/s4U7G2JPWVkZ_35xBHGfZw?feat=embedwebsite)
 
 And here's the detailed info for one of the drives:
 
-[![](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X2-RuHniI/AAAAAAAABoI/NN0pPr4-ah4/s288/20100520-1751%20SMART%20Info.jpg)](http://picasaweb.google.com/lh/photo/8WMI8V51cORKoISocOQ4Kg?feat=embedwebsite)
+[![Detailed info from SMART test](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X2-RuHniI/AAAAAAAABoI/NN0pPr4-ah4/s288/20100520-1751%20SMART%20Info.jpg)](http://picasaweb.google.com/lh/photo/8WMI8V51cORKoISocOQ4Kg?feat=embedwebsite)
 
 So, the disks seem to be working.
 
@@ -257,21 +258,21 @@ workgroup so we can use our Windows credentials. (All of my machines are
 in the default "WORKGROUP" workgroup so this was fine.) Easy enough
 through the web console:
 
-[![](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X2_EMA1HI/AAAAAAAABoM/Rg6eLcJsxhY/s288/20100520-1753%20Checking%20Sharing%20Settings.jpg)](http://picasaweb.google.com/lh/photo/T5JGIxQ2i8Y8l0fgJNHPnA?feat=embedwebsite)
+[![Enable Windows file service](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X2_EMA1HI/AAAAAAAABoM/Rg6eLcJsxhY/s288/20100520-1753%20Checking%20Sharing%20Settings.jpg)](http://picasaweb.google.com/lh/photo/T5JGIxQ2i8Y8l0fgJNHPnA?feat=embedwebsite)
 
 I then went in and created a user account on the system for all the
 users in the workgroup. I made sure to give them the same usernames and
 passwords as on the local machines so the Windows pass-through auth will
 work.
 
-[![](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X2_0NNN0I/AAAAAAAABoY/OL7pItY7uzc/s288/20100520-1759%20Creating%20a%20User.jpg)](http://picasaweb.google.com/lh/photo/evz9RvrEvkaTFI2oCSlEJA?feat=embedwebsite)
+[![Create user](http://lh6.ggpht.com/_P1NCAbHEm2Q/S_X2_0NNN0I/AAAAAAAABoY/OL7pItY7uzc/s288/20100520-1759%20Creating%20a%20User.jpg)](http://picasaweb.google.com/lh/photo/evz9RvrEvkaTFI2oCSlEJA?feat=embedwebsite)
 
 Finally, I had to create a shared folder for my DVDs to be stored in -
 also easy:
 
-[![](http://lh4.ggpht.com/_P1NCAbHEm2Q/S_X2_bHBaHI/AAAAAAAABoQ/21HNbWdZpZ0/s288/20100520-1754%20Creating%20a%20Shared%20Folder%2001.jpg)](http://picasaweb.google.com/lh/photo/JhuemkfloN3Tk3iQdfEHBQ?feat=embedwebsite)
+[![Create new shared folder](http://lh4.ggpht.com/_P1NCAbHEm2Q/S_X2_bHBaHI/AAAAAAAABoQ/21HNbWdZpZ0/s288/20100520-1754%20Creating%20a%20Shared%20Folder%2001.jpg)](http://picasaweb.google.com/lh/photo/JhuemkfloN3Tk3iQdfEHBQ?feat=embedwebsite)
 
-[![](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X2_mlniKI/AAAAAAAABoU/ts2wmhwNmc8/s288/20100520-1754%20Creating%20a%20Shared%20Folder%2002.jpg)](http://picasaweb.google.com/lh/photo/UVkiAyld63TWSeXwOfKjXA?feat=embedwebsite)
+[![Set permissions on folder](http://lh3.ggpht.com/_P1NCAbHEm2Q/S_X2_mlniKI/AAAAAAAABoU/ts2wmhwNmc8/s288/20100520-1754%20Creating%20a%20Shared%20Folder%2002.jpg)](http://picasaweb.google.com/lh/photo/UVkiAyld63TWSeXwOfKjXA?feat=embedwebsite)
 
 Note that I left the permissions read/write for the default system
 group. Since all the users are in that group, it means everyone has
@@ -329,4 +330,3 @@ some of the problem drives on my WHS and see how that goes.
 **UPDATE 5/6/2011:** I had an opportunity to talk about my experience
 with the DS1010+ [on the *Hanselminutes* podcast with Scott
 Hanselman](/archive/2011/05/06/hanselminutes-265-synology-network-attached-storage-and-windows-home-server.aspx).
-

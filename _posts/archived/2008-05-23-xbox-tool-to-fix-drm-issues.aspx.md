@@ -14,4 +14,3 @@ it](http://www.next-gen.biz/index.php?option=com_content&task=view&id=10620&Item
 This DRM garbage is exactly my biggest pain with the whole Xbox 360
 experience, second only to [the
 repairs](/archive/2008/05/15/getting-xbox-360-number-five.aspx).
-

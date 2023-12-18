@@ -27,6 +27,7 @@ books. That's crap.
 wife and I each have an Xbox Live account. Sometimes I want to play a
 game upstairs while she plays a different game downstairs (or vice
 versa). Sometimes we buy two copies of a game so we can play each other
+
 - we've had some great times in [*Burnout
 Paradise*](http://www.amazon.com/dp/B000MUXLOK?tag=mhsvortex) and [*Left
 4 Dead*](http://www.amazon.com/dp/B000QY9C90?tag=mhsvortex).
@@ -81,32 +82,32 @@ lot of *hopes* listed about things that *could have been* with the new
 licensing model but *no actual concrete facts*. Let's address each of
 the points in that article:
 
--   **Each game you buy would be tied to your account**: That's not
+- **Each game you buy would be tied to your account**: That's not
     necessarily a good thing. I mentioned the trouble I've had in the
     past in properly being able to loan Kindle books and in the XBLA
     content I've purchased. I think this is a fixable problem, but it
     wasn't addressed in the original communication.
--   **Publishers could create hubs to resell games**: "Could" is a key
+- **Publishers could create hubs to resell games**: "Could" is a key
     word there. We've heard no intention from anyone that it would
     happen. And I'm not super interested in going to each individual
     publisher's hub to resell stuff. What happened to the free market?
--   **Publishers could make money on resold games**: That is true. I'm
+- **Publishers could make money on resold games**: That is true. I'm
     not convinced that's a benefit to me.
--   **New games could be cheaper because publishers will make that money
+- **New games could be cheaper because publishers will make that money
     on resold games**: Again, "could" is a key word. I've yet to see a
     console release where games for the new console were cheaper than
     the previous generation. What's the impetus to lower the price?
--   **You'd get a better return on your used games**: That sounds like
+- **You'd get a better return on your used games**: That sounds like
     it'd be up to these hypothetical markets we have no information on.
     It'd be possible, but no guarantees.
--   **We know this is possible because of Steam**: I think there are a
+- **We know this is possible because of Steam**: I think there are a
     lot of factors that went into making Steam what it is today. FWIW,
     I'm not a Steam user or a PC gamer. It'd be nice to see other
     examples of similar marketplaces working - one example is not
     sufficient evidence beyond proving something is technically
     possible. Michael Jordan has a 48" vertical leap. I don't see a ton
     of other folks pulling that one off.
--   **Sharing games would have been cooler**: I'll give them this one.
+- **Sharing games would have been cooler**: I'll give them this one.
     That 10-person family sharing thing sounded neat.
 
 **I'm not sure going back to the "old way" was the right choice, but
@@ -143,4 +144,3 @@ a disc-based game, but if you buy a digital game... now you have that
 people used to some of the cool parts without doing the
 "rip-off-the-bandage" approach to changing it up. I don't see why they
 couldn't.
-

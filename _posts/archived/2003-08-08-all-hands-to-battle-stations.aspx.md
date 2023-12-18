@@ -17,6 +17,7 @@ what we pay some of the folks here for already? To figure that all out
 and get us going in that direction?
 
  Plus, I don't think it should take an hour to explain where we're going
+
 - cut to the chase already. The only thing I'm getting out of this is a
 glazed look and a loss of my will to live. Tell me what I need to know,
 and let's move on. I got shit to *do*.

@@ -21,4 +21,3 @@ out.
 
 Once that's done, run the installer again and the check will pass. Done
 and done.
-

@@ -15,6 +15,5 @@ Added preview of member syntax.
 
 Added member title banner in preview.
 
-
  [Go get
 it!](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)

@@ -22,18 +22,18 @@ Curve](http://www.blackberrycurve.com) 8330.
 
 I chose this one for a few reasons:
 
--   Of the selections available at [Verizon
+- Of the selections available at [Verizon
     Wireless](http://www.verizonwireless.com) at the time, this one
     seemed to have the most features I was looking for - GPS, all-around
     messaging, decent camera with a flash, ability to synchronize with
     Outlook.
--   My Pocket PC was a [Windows
+- My Pocket PC was a [Windows
     Mobile](http://www.microsoft.com/windowsmobile/default.mspx) device
     and while I tried to find another Windows Mobile device, I wasn't
     too into the way it handled messaging.
--   I wanted to try something a little different than I was used to -
+- I wanted to try something a little different than I was used to -
     break out of my little Windows Mobile world.
--   The BlackBerry plan was $15/month cheaper than the corresponding
+- The BlackBerry plan was $15/month cheaper than the corresponding
     Windows Mobile or Palm device plan. Go figure.
 
 So far I like it, but there are some things I wish someone told me while
@@ -75,29 +75,29 @@ BlackBerry has [BlackBerry Desktop
 Manager](http://na.blackberry.com/eng/services/desktop/). The key
 differences:
 
--   *ActiveSync runs as a service, BDM doesn't. *ActiveSync will just
+- *ActiveSync runs as a service, BDM doesn't.*ActiveSync will just
     start up and go - you need to have a BlackBerry Desktop Manager icon
     in your Windows Startup group to get it to go when you log in.
--   *ActiveSync sits nicely in your system tray, BDM takes up space in
+- *ActiveSync sits nicely in your system tray, BDM takes up space in
     the task bar.*Sort of annoying if you have it running all day. I'll
     tell you how to fix this below.
--   *ActiveSync detects changes in Outlook and syncs your device
+- *ActiveSync detects changes in Outlook and syncs your device
     real-time when it's connected, BDM requires you to manually initiate
     the sync.* I'm still getting used to this.
--   *ActiveSync syncs up way faster than BDM.* Not sure why this is, but
+- *ActiveSync syncs up way faster than BDM.* Not sure why this is, but
     an ActiveSync cycle would take about 5 - 10 seconds on my Pocket PC;
     a full sync cycle in BDM is more like 20 seconds.
 
 **Based on what I've learned, here are some recommendations to make
 things smooth:**
 
--   **Get the unlimited data plan for your phone.** I shouldn't even
+- **Get the unlimited data plan for your phone.** I shouldn't even
     have to say this, but once you start playing with BlackBerry, you're
     going to get pounded on data charges if you don't just pony up the
     extra $10/month or whatever for unlimited data. Plus, this way you
     can let your email and such constantly check and alert you when
     there are new messages. Isn't that the point?
--   **Talk to your carrier about GPS options.** It turns out that
+- **Talk to your carrier about GPS options.** It turns out that
     Verizon locks the GPS down on these things so it only works with
     their proprietary
     [VZNavigator](http://www.verizonwireless.com/b2c/splash/turnbyturn.jsp)
@@ -105,7 +105,7 @@ things smooth:**
     don't have any other options - even mobile Google Maps can't detect
     it because the signal's blocked. If you're going to use the GPS,
     find out if there are any restrictions.
--   **Separate your email and SMS/MMS text messages.** This will create
+- **Separate your email and SMS/MMS text messages.** This will create
     two separate "inbox" icons - one for your emails, one for SMS/MMS
     text messages. It's a nice way to help you make that mental
     distinction, and if you're just using GMail (see below), you can
@@ -113,7 +113,7 @@ things smooth:**
     to the "Messages" application, hit the BlackBerry key and select
     "Options," then "General Options." Set the "SMS and Email Inboxes"
     option to "Separate" and save your changes.
--   **If you use GMail, [get the mobile GMail
+- **If you use GMail, [get the mobile GMail
     application](http://www.google.com/m/products) and skip native
     integration.** GMail has a nice message threading model,
     searchability, and other features that you will sorely miss when
@@ -125,7 +125,7 @@ things smooth:**
     Advanced, then select the profile you want to change the
     notification for. Edit the profile and you'll see a "GMail - New
     Mail" option you can configure.)
--   **Manually configure synchronization settings.** When you set up
+- **Manually configure synchronization settings.** When you set up
     BlackBerry Desktop Manager to sync with Outlook or whatever, the
     default settings are a bit cumbersome to work with. In BDM, select
     the "Synchronize" option and a dialog will pop up. On the
@@ -133,7 +133,7 @@ things smooth:**
     allowed to click the button, connect your BlackBerry to the
     computer.) You should see a list of things you're synchronizing
     (Calendar, Contacts, etc.). Now...
-    -   **If you're synchronizing your calendar**, select "Calendar" and
+  - **If you're synchronizing your calendar**, select "Calendar" and
         click the "Setup..." button. This will walk you through setting
         up your calendar. If you've already set it up, the dialog will
         be populated with the values you previously selected and you can
@@ -152,7 +152,7 @@ things smooth:**
         all of the reminders for recurring meetings (past and
         future) cleared out after a sync because the sync thought it was
         being helpful.
-    -   **Click the "Advanced..." button** and another dialog will pop
+  - **Click the "Advanced..." button** and another dialog will pop
         up with a tab corresponding to every item you're syncing. **On
         each tab, uncheck the "Confirm record deletions" and "Confirm
         changes and additions" boxes.** Having these checked means that
@@ -161,13 +161,13 @@ things smooth:**
         any changes taking place. This is good for debugging, but a pain
         if you just want it to sync.
 
--   **Organize your applications with folders.** There are some of the
+- **Organize your applications with folders.** There are some of the
     applications, like the "Options" stuff, that you'll want to access
     occasionally (so you don't want to hide them) but you also don't
     want them cluttering up your home screen. Create folders for these
     and move the rarely-used apps into the folders. For example, I have
     a "Settings" folder that has all of the setup applications in it.
--   **Hide BlackBerry Desktop Manager in the system tray.**You don't
+- **Hide BlackBerry Desktop Manager in the system tray.**You don't
     want it taking up task bar space, right? [Go download and
     install TrayIt!](http://www.teamcti.com/trayit/trayit.htm) - it's an
     application that can take any other app and hide it in the system
@@ -184,7 +184,7 @@ things smooth:**
     This, in conjunction with TrayIt!, will make the BlackBerry Desktop
     Manager feel like it's working "in the background" instead of taking
     up space on the desktop.
--   **If you want a password manager, find a third-party app.** The
+- **If you want a password manager, find a third-party app.** The
     "Password Keeper" app that comes on the BlackBerry is really limited
     and doesn't let you sync up with your desktop... so it won't
     interact with any of the other password management apps you probably
@@ -201,4 +201,3 @@ BlackBerries are great for both corporate and personal use. If you're
 looking into it and were on the fence, it's a pretty good experience all
 around. Hopefully this will help you set things up in a reasonable way
 if you do take the plunge.
-

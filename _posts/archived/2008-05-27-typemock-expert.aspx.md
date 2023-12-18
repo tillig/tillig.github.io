@@ -4,7 +4,7 @@ title: "Typemock Expert"
 date: 2008-05-27 -0800
 comments: true
 disqus_identifier: 1391
-tags: [GeekSpeak,net]
+tags: [GeekSpeak,dotnet]
 ---
 [![Typemock
 Expert]({{ site.url }}/images/typemockexperteg1.gif)](http://www.typemock.com/experts.html)I
@@ -22,4 +22,3 @@ What does that mean? In their words...
 Thanks, [Typemock](http://www.typemock.com)! (And if you're not in the
 [Typemock community](http://www.typemock.com/Community.php) yet, what
 are you waiting for?)
-

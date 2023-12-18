@@ -16,7 +16,7 @@ I'm now working on a beta 8 compatible version of [Autofac.Configuration](https:
 
 Instead, I started getting a lot of build errors when targeting the `dotnet` framework moniker.
 
-```
+```text
 Building Autofac.Configuration for .NETPlatform,Version=v5.0
   Using Project dependency Autofac.Configuration 4.0.0-beta8-1
     Source: E:\dev\opensource\Autofac\Autofac.Configuration\src\Autofac.Configuration\project.json
@@ -50,7 +50,7 @@ Building Autofac.Configuration for .NETPlatform,Version=v5.0
 
 This was, at best, confusing. I mean, in the same target framework, I see these two things together:
 
-```
+```text
   Using Package dependency System.Collections 4.0.11-beta-23409
     Source: C:\Users\tillig\.dnx\packages\System.Collections\4.0.11-beta-23409
     File: ref\dotnet\System.Collections.dll
@@ -62,7 +62,7 @@ So it _found_ System.Collections, but it _didn't find_ System.Collections. Whaaa
 
 After a lot of searching (with little success) I found [David Fowler's indispensible article on troubleshooting dependency issues in ASP.NET 5](http://davidfowl.com/diagnosing-dependency-issues-with-asp-net-5/). This led me to the `dnu list --details` command, where I saw this:
 
-```
+```text
 [Target framework .NETPlatform,Version=v5.0 (dotnet)]
 
 Framework references:

@@ -22,7 +22,6 @@ open source**.  Apparently there was some political hoopla going on
 before that would have been bad had I released it, but that seems to
 have passed so it's cool now.  All you folks wanting new features and
 wondering why I've been stagnating - now you can contribute.  I'm going
-to finish up my refactor of it so it's stable and get it out there. 
+to finish up my refactor of it so it's stable and get it out there.
 This definitely gives me a renewed interest in finishing up the next
 release.  Yay!
-

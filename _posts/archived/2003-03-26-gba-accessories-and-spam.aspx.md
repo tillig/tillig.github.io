@@ -21,28 +21,28 @@ shot.
 
  Okay, so I found some GBA accessories I need to get...
 
--   **MP3 Player** - This actually comes in two varieties: the
+- **MP3 Player** - This actually comes in two varieties: the
     [SongPro](http://www.ebgames.com/ebx/categories/products/product.asp?pf_id=232091)
     ($100) and the
     [Innovation](http://www.ebgames.com/ebx/categories/products/product.asp?pf_id=228110)
     ($60). The SongPro is better with more features and higher quality
     sound, so obviously that's the way I'd like to go.
--   **[TV
+- **[TV
     Converter](http://www.ebgames.com/ebx/categories/products/product.asp?pf_id=219897)**
-    - So you can play the game on the TV instead of on the little
+  - So you can play the game on the TV instead of on the little
     screen.
--   **[Personal
+- **[Personal
     Organizer](http://www.ebgames.com/ebx/categories/products/product.asp?pf_id=230469)**
-    - Turn your GBA into a PDA...
--   **[Macro
+  - Turn your GBA into a PDA...
+- **[Macro
     Kit](http://www.ebgames.com/ebx/categories/products/product.asp?pf_id=234083)**
-    - A kit with a small carrying case, a headphone adapter, headphones,
+  - A kit with a small carrying case, a headphone adapter, headphones,
     and a car charger. At $15, I think I'll probably just order this
     and call it a day.
--   **[Ergo
+- **[Ergo
     Grips](http://www.ebgames.com/ebx/categories/products/product.asp?pf_id=234008)**
-    - Hand grips that attach to the GBA to relieve cramps.
--   **[Flash Advance Card](http://www.gba-flash-card.tk/)** - A card
+  - Hand grips that attach to the GBA to relieve cramps.
+- **[Flash Advance Card](http://www.gba-flash-card.tk/)** - A card
     that allows you to put downloadable game ROMs on it and then play
     them on your GBA.
 

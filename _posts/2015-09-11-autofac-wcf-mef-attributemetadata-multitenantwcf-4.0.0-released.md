@@ -3,7 +3,7 @@ layout: post
 title: "Autofac.Wcf, Autofac.Mef, Autofac.Extras.AttributeMetadata, Autofac.Multitenant.Wcf 4.0.0 Released"
 date: 2015-09-11 -0800
 comments: true
-tags: [autofac,net]
+tags: [autofac,dotnet]
 ---
 
 In the continuing journey toward the Autofac 4.0.0 release, some integration/extras packages have been released:

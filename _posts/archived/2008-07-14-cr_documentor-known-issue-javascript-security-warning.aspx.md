@@ -8,6 +8,7 @@ tags: [dotnet,vs]
 ---
 There's [a known issue with the latest
 CR_Documentor](http://code.google.com/p/cr-documentor/wiki/KnownIssues)
+
 - sometimes, on an unpredictable basis, it'll start issuing that "active
 content" JavaScript security warning. It does that because we're
 updating the document by poking data into the DOM directly. Usually
@@ -19,10 +20,10 @@ know the fix is to, well, stop doing that dynamic poking thing and just
 serve it up like a regular web server. [I have a couple of
 options](http://code.google.com/p/cr-documentor/wiki/ProductRoadmap):
 
-1.  **Create a custom in-proc web server from scratch.** I'd have the
+1. **Create a custom in-proc web server from scratch.** I'd have the
     most control over it and the least dependencies, but it's the most
     amount of work, too.
-2.  **Add a dependency to the ASP.NET development server and use that.**
+2. **Add a dependency to the ASP.NET development server and use that.**
     Basically, just fire up the ASP.NET development server and serve
     from a temporary filesystem location.
 

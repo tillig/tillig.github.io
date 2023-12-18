@@ -75,4 +75,3 @@ make it so I can't remove the drive.
 **UPDATE 6/16/2010**: Be careful of using the WD Green drives. [Only
 some model numbers appear to be
 good](/archive/2010/06/16/beware-the-wd-green-drives.aspx).
-

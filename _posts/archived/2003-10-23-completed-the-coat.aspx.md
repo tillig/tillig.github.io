@@ -36,13 +36,11 @@ pick it up.
  I'm really digging [iTunes](http://www.apple.com/itunes/) for Windows.
 It does everything I want it to, with a few shortcomings:
 
--   It doesn't synchronize your contacts with Outlook
--   It doesn't automatically start up when I plug my iPod in
--   When you lock your workstation using CTRL-ALT-DEL, it pauses
+- It doesn't synchronize your contacts with Outlook
+- It doesn't automatically start up when I plug my iPod in
+- When you lock your workstation using CTRL-ALT-DEL, it pauses
     playback (which is a problem if your screensaver locks your
     workstation but you're still listening to music)
-
-
 
  The demo project I'm working on is quickly coming to a close. I'm done
 with it on November 7th, when we have to ship it to the sales guys so

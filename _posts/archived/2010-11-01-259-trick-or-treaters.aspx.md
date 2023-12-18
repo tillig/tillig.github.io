@@ -20,6 +20,7 @@ Trick-or-Treaters]({{ site.url }}/images/20101101trickortreat.png)
 And the cumulative data from this year and the other years we've
 tracked:
 
+<!--markdownlint-disable MD033 -->
 <table>
     <thead>
         <tr>
@@ -89,6 +90,7 @@ tracked:
         </tr>
     </tfoot>
 </table>
+<!--markdownlint-enable MD033 -->
 
 As mentioned, Halloween was on a Sunday and we did the two giant bags of
 candy from Costco like we did last year. We had a little left over,

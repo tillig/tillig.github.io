@@ -175,6 +175,7 @@ In September, [besides my car getting
 hit](/archive/2008/09/19/watch-those-one-way-grids.aspx), the big
 happening of note was that [I finally solved my media server
 problem](/archive/2008/09/30/overview-of-my-media-center-solution.aspx)
+
 - all of my DVDs are now stored on a central server in VIDEO_TS format
 (so they're not just the movies - they're also disk backups) and can be
 played from a home theater PC in the living room. This was a lot of
@@ -269,4 +270,3 @@ economy's in the crapper, and we're generally on the cusp of some major
 change. It'll be an interesting time to see how it plays out. It makes
 me wonder if folks during the 60's felt this same sort of feeling in the
 air of things changing and major events happening.
-

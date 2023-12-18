@@ -27,7 +27,7 @@ mound of earth, like a bunker).
 After measuring things out, we headed out for some dinner.  Tuesday was
 the easiest day.
 
-Wednesday morning we got to the site around 9:00a to start setting up. 
+Wednesday morning we got to the site around 9:00a to start setting up.
 Greg was there much earlier to take the delivery of the fireworks.  Once
 the whole crew was there (seven of us), we got things moving.
 
@@ -67,7 +67,7 @@ into the mortar racks.
 
 It was about this time that the 100°F heat out in the middle of this
 field really started to get to me.  I had a headache that was creeping
-up on me, but by this time (probably around 5:00p or so), I was dying. 
+up on me, but by this time (probably around 5:00p or so), I was dying.
 The shade wasn't cool, the headache was pounding from my chest up, and
 every time I leaned over to drop a shell into a mortar tube, I felt like
 I was going to puke.  I ended up having to go sit in the car with the
@@ -75,9 +75,9 @@ A/C on for quite some time, and Jenn busted out a prescription migraine
 pill she had to help me with the headache.  Meantime, everyone else was
 wiring things up so the show could be shot electronically.
 
-When you shoot a show, there are basically three ways to do it. 
+When you shoot a show, there are basically three ways to do it.
 Hand-lit is where you actually manually go down the line of mortars and
-light them with a road flare.  That's the sort of show we usually do. 
+light them with a road flare.  That's the sort of show we usually do.
 Electronically-lit is where you wire all of the fireworks to blasting
 caps (basically) and each cap gets wired to a master panel where you can
 hit a button to send current down the wire, blow the cap, and the
@@ -125,7 +125,7 @@ mortar racks around.  I'm sure the exercise was good for me, but I'm not
 so sure the heat was.  I'm glad I took the day off from work; I'd be so
 unproductive.
 
-I think if we end up doing this show again, we need a bigger crew. 
+I think if we end up doing this show again, we need a bigger crew.
 Seven people is about right for the smaller show we're used to, but we
 need more folks, particularly for the cleanup effort.  Maybe twelve or
 so would be a better number.  That and some leaf blowers or something to
@@ -138,6 +138,5 @@ The crew we did have was awesome.  To [Greg](http://www.greghughes.net),
 folks.  *That was a damn fine show*.
 
 [Check out the
-pictures](http://picasaweb.google.com/travis.illig/WallaWallaFireworks2007). 
+pictures](http://picasaweb.google.com/travis.illig/WallaWallaFireworks2007).
 It's good stuff.
-

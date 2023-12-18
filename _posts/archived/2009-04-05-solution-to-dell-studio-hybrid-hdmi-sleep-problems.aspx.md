@@ -13,21 +13,21 @@ wouldn't display a video signal after resuming from sleep.
 
 This would work:
 
-1.  Turn the TV on.
-2.  Turn the Dell Studio Hybrid on (power on).
-3.  Put the Dell Studio Hybrid to sleep.
-4.  Wake the Dell Studio Hybrid up.
+1. Turn the TV on.
+2. Turn the Dell Studio Hybrid on (power on).
+3. Put the Dell Studio Hybrid to sleep.
+4. Wake the Dell Studio Hybrid up.
 
 Doing that sequence you would correctly see the PC go to sleep, wake up,
 and still display a signal on the screen. This, on the other hand, would
 not work:
 
-1.  Turn the TV on.
-2.  Turn the Dell Studio Hybrid on (power on).
-3.  Turn the TV off.
-4.  Put the Dell Studio Hybrid to sleep.
-5.  Turn the TV on.
-6.  Wake the Dell Studio Hybrid up.
+1. Turn the TV on.
+2. Turn the Dell Studio Hybrid on (power on).
+3. Turn the TV off.
+4. Put the Dell Studio Hybrid to sleep.
+5. Turn the TV on.
+6. Wake the Dell Studio Hybrid up.
 
 Doing that sequence, the TV would never get the video signal from the PC
 again. You'd have to hard power off and power it back on to get the
@@ -40,11 +40,11 @@ I also noticed that there was a problem where occasionally the TV would
 lose signal just switching inputs away from the Dell Studio Hybrid and
 back.
 
-1.  Turn the TV on.
-2.  Switch the TV to the HDMI input for the Dell Studio Hybrid -
+1. Turn the TV on.
+2. Switch the TV to the HDMI input for the Dell Studio Hybrid -
     everything looks fine.
-3.  Switch the TV to some other input.
-4.  Switch the TV back to the HDMI input for the Dell Studio Hybrid -
+3. Switch the TV to some other input.
+4. Switch the TV back to the HDMI input for the Dell Studio Hybrid -
     signal lost.
 
 This would only happen when Windows Media Center was running full
@@ -89,4 +89,3 @@ know more.
 
 **UPDATE** (5/28/09): I reformatted this post to be a little more clear
 about the issue and possible solutions.
-

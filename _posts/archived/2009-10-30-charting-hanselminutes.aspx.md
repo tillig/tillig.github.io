@@ -4,7 +4,7 @@ title: "Charting Hanselminutes"
 date: 2009-10-30 -0800
 comments: true
 disqus_identifier: 1581
-tags: [GeekSpeak,net]
+tags: [GeekSpeak,dotnet]
 ---
 Before I even get into this, let me preface it by saying
 [Scott's](http://www.hanselman.com) a friend of mine and he's a great
@@ -37,12 +37,12 @@ I'm not a Powershell guru but this sounded pretty Powershell-ish to me.
 The thing is, I already had some tools that would do some of the job for
 me, so I didn't write the whole thing in Powershell. It went like this:
 
--   Grab the RSS feed for the show by just right-click and save-as from
+- Grab the RSS feed for the show by just right-click and save-as from
     the site.
--   Get the URLs for the MP3s. I used a command-line XPath query tool
+- Get the URLs for the MP3s. I used a command-line XPath query tool
     for that, looking at `/rss/channel/item/enclosure/@url`. That gave
     me a nice list of the URLs to the show.
--   Get the MP3s. This is where I did a little brute force Powershell
+- Get the MP3s. This is where I did a little brute force Powershell
     scripting. I suppose I could have saved the list of URLs to a text
     file and then wrote a script that read in the lines from the text
     file, but I didn't. I did a regex search-and-replace to create a

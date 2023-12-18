@@ -11,6 +11,7 @@ Hanselminutes](http://www.hanselminutes.com/default.aspx?showID=9), re:
 developer tools (one of the best shows so far, IMHO), gives a bit of a
 shout out to
 [CR_Documentor](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
+
 - my DXCore plugin to allow preview of XML doc comments from within
 Visual Studio. Woohoo!
 

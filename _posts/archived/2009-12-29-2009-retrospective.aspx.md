@@ -152,6 +152,7 @@ Server](/archive/2009/10/26/one-year-retrospective-with-windows-home-server.aspx
 I discovered [the hugest gotcha with the "COMPLUS\_Version" environment
 variable and the .NET
 runtime](/archive/2009/10/29/complus_version-and-the-.net-framework-runtime.aspx)
+
 - I wish that was more clearly documented. And, finally, [this year we
 had 243 trick-or-treaters on
 Halloween](/archive/2009/11/03/243-trick-or-treaters.aspx).
@@ -197,4 +198,3 @@ I are both healthy, and we've got a nice place to live, we both have
 jobs, and we're otherwise doing well, so I can't say we're in a bad
 spot. I'll be glad to see 2009 past and I look forward to seeing what
 2010 holds.
-

@@ -15,15 +15,17 @@ clipboard but retrieve them as well.
  IE users, try this one on for size (this only works with Internet
 Explorer, to my knowledge):
 
- First, [click this link to copy the phrase "My Dog Has Fleas" to your
-clipboard](#). Now open up a Notepad window (or whatever your favorite
+> Update: Links disabled due to various permissions issues.
+
+ First, `click this link to copy the phrase "My Dog Has Fleas" to your
+clipboard`. Now open up a Notepad window (or whatever your favorite
 text editor is) and paste it in - sure enough, it adds info to your
 clipboard.
 
  Now copy some arbitrary text to your clipboard. Doesn't matter what it
 is - type something in that Notepad window, or highlight something on
-this page, and copy it. Now [click this link to show your clipboard
-contents](#).
+this page, and copy it. Now `click this link to show your clipboard
+contents`.
 
  Pretty freaky, huh?
 

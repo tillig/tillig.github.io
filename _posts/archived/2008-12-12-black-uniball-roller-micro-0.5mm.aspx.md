@@ -14,4 +14,3 @@ tags: [General Ramblings]
 Just went out at lunch and [picked myself up a box of
 these](http://www.amazon.com/gp/product/B00006IE8P?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00006IE8P).
 Life's too short to write with crappy pens.
-

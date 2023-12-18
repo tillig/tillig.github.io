@@ -11,8 +11,6 @@ Jenn sent me the following note just now...
 > Your UPS delivery was there when I left to come to work. I am prepared
 > for you to drive me nuts for the next few weeks.
 
-
-
  ***It's there! It's there!***
 
  I'm stoked. In case you didn't already know. I shall be playing a bit

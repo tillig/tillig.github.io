@@ -34,4 +34,3 @@ enough to jQuery your way to freedom and leisure:
 
 ...and now all of your required fields have the appropriate ARIA
 attribute.
-

@@ -12,7 +12,7 @@ things away in my cubicle since the move (right in the middle of that
 project, everyone in my department shifted cubicles around and I
 basically chucked all of my stuff in boxes and kept working... up until
 yesterday it was all a huge chaotic mess).
- 
+
  This coming Monday is the project post-mortem, so we'll go over the
 things that worked, the things that didn't work, and decide where we
 want to go from here. There's still a lot to do on that project, so I
@@ -23,7 +23,7 @@ it grow. (I just don't want to spend what's left of my sanity and
 patience on it, is all. If we can come up with a *reasonable schedule*
 and some *reasonable expectations*, I'm all over it. That'll never
 happen, though, so I'm in a quandary.)
- 
+
  I'm studying for my last Micrososft certification exam now, which will
 make me a Microsoft Certified Database Administrator. Then I'll have
 both my "Solutions Developer" and "Database Admin" certifications, and I
@@ -34,7 +34,7 @@ know. I mean, I like to keep current and all, but it's a lot of work to
 get a piece of paper, and studying for tests is nothing like actually
 doing the work on a day to day basis. Nothing substitutes for
 experience.
- 
+
  Seems that lots of folks are excited for the [next installation of
 *Harry Potter*](http://www.imdb.com/title/tt0304141/), including Jenn,
 who says we're definitely seeing it this weekend. I dunno. I've loved

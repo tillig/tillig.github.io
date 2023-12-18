@@ -44,10 +44,10 @@ schedule.
 
  The new schedule would look like this:
 
--   Every other week - training (or vacation)
--   I'm not really fond of Mondays, and Fridays everyone should have
+- Every other week - training (or vacation)
+- I'm not really fond of Mondays, and Fridays everyone should have
     off, so only Tuesdays through Thursdays
--   Half days on work days so I can get my nap in
+- Half days on work days so I can get my nap in
 
 I think that's pretty good. I could probably work that schedule without
 complaint. Or, well, with *less* complaint.

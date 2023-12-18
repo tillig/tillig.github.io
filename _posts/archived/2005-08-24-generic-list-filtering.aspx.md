@@ -4,7 +4,7 @@ title: "Generic List Filtering"
 date: 2005-08-24 -0800
 comments: true
 disqus_identifier: 873
-tags: [gists,csharp,net]
+tags: [gists,csharp,dotnet]
 ---
 While .NET provides the sorting of collections through things like
 [Array.Sort](http://msdn.microsoft.com/library/en-us/cpref/html/frlrfSystemArrayClassSortTopic.asp)
@@ -92,7 +92,6 @@ namespace Paraesthesia.Collections {
 }
 ```
 
-
  The idea is that you create a method that takes in an object and
 returns a Boolean indicating if it should be included in the filtered
 collection or not. Then pass your collection through the filter with the
@@ -117,7 +116,6 @@ namespace MyNamespace{
   }
 }
 ```
-
 
  Then your use of the filter might look like this:
 

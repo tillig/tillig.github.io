@@ -31,4 +31,3 @@ I still want to see *[Death
 Race](http://www.imdb.com/title/tt0452608/)*, though. I was totally in
 the mood for mindless action but we ended up hitting *Tropic Thunder*
 instead. My craving for destruction has not yet been sated.
-

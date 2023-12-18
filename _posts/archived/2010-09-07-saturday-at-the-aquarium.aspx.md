@@ -15,4 +15,3 @@ nice video of the [Passages of the Deep
 exhibit](http://www.aquarium.org/exhibitsPassages.asp) where you walk
 under the various fish. This particular video shows the sharks in the
 exhibit.
-

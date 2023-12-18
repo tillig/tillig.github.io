@@ -28,4 +28,3 @@ These sleeves allow you to store two discs per sleeve and the cover is
 actually the cover from the Blu-ray case, so it's a nice browsing
 experience. For the fewer-than-65 Blu-ray discs I have, this is great.
 Recommended.
-

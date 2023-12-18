@@ -13,19 +13,19 @@ Google Code](https://code.google.com/p/autofac/downloads/list).
 
 If you're upgrading from 2.6, the big changes are:
 
--   NuGet packages for everything - you can get core Autofac, the
+- NuGet packages for everything - you can get core Autofac, the
     integrations, and the extras, all on NuGet.
--   Symbol/source packages are deployed to
+- Symbol/source packages are deployed to
     [SymbolSource](http://www.symbolsource.org/Public) so you can debug
     into the source.
--   New integration with
+- New integration with
     [MVC4](https://nuget.org/packages/Autofac.Mvc4),
     [WebAPI](https://nuget.org/packages/Autofac.WebApi), and
     [SignalR](https://nuget.org/packages/Autofac.SignalR).
--   Autofac core is now a Portable Class Library that can work on the
+- Autofac core is now a Portable Class Library that can work on the
     full .NET stack, Windows Store apps, Silverlight 5, and Windows
     Phone 8 apps.
--   AutofacContrib projects are now Autofac.Extras (namespace and
+- AutofacContrib projects are now Autofac.Extras (namespace and
     assembly name change).
 
 There are also **a ton of issues resolved** and we're working on

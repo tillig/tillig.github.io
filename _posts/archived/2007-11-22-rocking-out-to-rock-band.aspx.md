@@ -73,7 +73,7 @@ and I haven't quite got drums down yet.
 is faulty or if I'm just a sucky drummer.**  I swear I hit the right pad
 at the right time, it just says I didn't.  Other times, everything's
 fine.  I can get like 98% in some cases, I just miss a couple.  I would
-think if the controller was faulty it would be... more predictable. 
+think if the controller was faulty it would be... more predictable.
 Again, the 60 day warranty might be good here.  Drums are definitely
 less forgiving than the guitar - with the guitar, you can "pretty much"
 get the note and it'll count it; with drums, you either get it dead on
@@ -97,7 +97,7 @@ cool.  There were only three points of confusion I had:
 
 **Point of Confusion 1:  Bands are attached to an Xbox Live profile
 *and* to a Rock Band character.**  When you create a band, the person
-who's creating the band gets the band saved to their Xbox Live profile. 
+who's creating the band gets the band saved to their Xbox Live profile.
 Further, as you select (or create) your character in the band, that
 specific character has to play in the band for the entire life of the
 band - they're the band leader.  This is very important because...
@@ -133,4 +133,3 @@ far] with the ease of customer support.
 
 Hey, since I've got the day off, I should probably go do a little
 rockin' right now.
-

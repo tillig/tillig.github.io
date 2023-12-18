@@ -69,4 +69,3 @@ it has that thing built in where you can take a picture of something and
 it'll find similar items that they sell on Amazon. I haven't tried that
 yet. Might have to later. I wonder what happens if I send a picture of
 myself in - what items do they sell that are similar to me?
-

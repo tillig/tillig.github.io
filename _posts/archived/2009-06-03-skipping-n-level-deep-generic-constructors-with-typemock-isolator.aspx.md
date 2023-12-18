@@ -83,4 +83,3 @@ support" doing what I'm telling you about here. It just happens to work.
 Whether it's functioning as designed or whether we're inadvertently
 exploiting something in the product that will be patched up later is yet
 to be seen.
-

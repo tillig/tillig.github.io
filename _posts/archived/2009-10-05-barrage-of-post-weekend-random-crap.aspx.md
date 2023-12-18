@@ -70,23 +70,23 @@ Other stuff that's been bugging me...
 Incorrect grammar and/or spelling. I don't claim to be perfect on this
 stuff, but there are some that just get me. Lately:
 
--   The phrase is "[hear,
+- The phrase is "[hear,
     hear](http://en.wikipedia.org/wiki/Hear,_hear)!" when you agree with
     someone, not "here, here."
--   When you get provoked into doing something, you're "goaded" into it,
+- When you get provoked into doing something, you're "goaded" into it,
     not "goated." A goat is an animal. A goad is a stick used to prod an
     animal.
--   You can ask me a question or you can make a request, but you don't
+- You can ask me a question or you can make a request, but you don't
     have "an ask" for me. "Ask" is a verb.
--   The spelling for an informal affirmative that you're thinking of is
+- The spelling for an informal affirmative that you're thinking of is
     ["yeah" (pronounced
     "'yaə")](http://www.merriam-webster.com/dictionary/yeah).
-    -   "ya" is either an abbreviation for "young adult" or is an
+  - "ya" is either an abbreviation for "young adult" or is an
         informal version of "you" ("What do ya think?") and would be
         prounced like "'yə".
-    -   "yah" rhymes with "saw" and is the sound you make when you want
+  - "yah" rhymes with "saw" and is the sound you make when you want
         to make your horse go. "YAH! YAH!" \<cracking whip\>
-    -   ["yea" is pronounced
+  - ["yea" is pronounced
         "'yā"](http://www.merriam-webster.com/dictionary/yea) and is
         used in formal voting (rhymes with, and is the opposite of,
         "nay").
@@ -97,4 +97,3 @@ buy it anyway. If you already have your mind made up to buy the damn
 shirt, why'd you bother asking for my opinion?
 
 OK. I'm done for now.
-

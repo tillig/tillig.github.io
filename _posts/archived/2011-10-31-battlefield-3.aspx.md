@@ -18,7 +18,7 @@ missions is enough to keep me interested.
 There are two things about the single-player missions that detract from
 my experience:
 
-1.  **The lights are too light and the darks are too dark.** When you're
+1. **The lights are too light and the darks are too dark.** When you're
     in a daytime mission, the environment is extremely light, in some
     cases to a point where it feels like you're missing details in
     things because it's all whiteout. The night/dark missions are really
@@ -31,7 +31,7 @@ my experience:
     dark, some lights hit you and BAM you can't see anything. However,
     it's really frustrating because you end up always missing something,
     making the game harder than it needs to be.
-2.  **It's sometimes hard to figure out what you're supposed to do.**
+2. **It's sometimes hard to figure out what you're supposed to do.**
     Sometimes they give you visual cues of who you're supposed to follow
     or what buttons to push, sometimes they don't. I've run off and
     totally gotten lost because I think I'm going the right way when I'm
@@ -78,4 +78,3 @@ of things where there's both teamwork and a mission.
 Anyway, like I said, *Battlefield 3* is decent... but I may sort of be
 done with the war-based FPS until someone can bring back co-op campaign.
 (Seriously waiting for *Borderlands 2*!)
-

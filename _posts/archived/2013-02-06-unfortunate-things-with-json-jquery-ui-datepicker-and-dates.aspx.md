@@ -14,7 +14,7 @@ into... I get to make one, too.)
 
 Something that will let me do this:
 
-`   `
+``
 
 @Html.DatePickerFor(m =\> m.SomeDate);
 
@@ -22,7 +22,7 @@ In doing that, I've uncovered a lot of frustration around getting the
 options specified on the server over to the client and working in a
 consistent format.
 
--   **JSON date serialization continues to be a joke.** I know there's
+- **JSON date serialization continues to be a joke.** I know there's
     no date support, but it means you get to roll your own, [even if
     several folks say they're "standardizing" on
     something](http://www.hanselman.com/blog/OnTheNightmareThatIsJSONDatesPlusJSONNETAndASPNETWebAPI.aspx).
@@ -35,7 +35,7 @@ consistent format.
     isn't really a necessity given you've only got a couple of date
     pickers on a page generally, each of which only have a couple of
     date-oriented options.
--   **jQuery UI datepicker has its own date formatting mechanism**. It
+- **jQuery UI datepicker has its own date formatting mechanism**. It
     doesn't use the same format strings as .NET, sprintf, strftime, or
     anything else I can figure. Same goes for parsing. That means
     integration with validation (or other stuff that needs to get the
@@ -49,7 +49,7 @@ consistent format.
     because then I can also let the default MVC model binder do whatever
     it needs to do in a locale-aware manner without having to
     special-case stuff.
--   **jQuery UI datepicker localization is lacking.** In .NET resources,
+- **jQuery UI datepicker localization is lacking.** In .NET resources,
     you have this sort of fallback mechanism where "en-US" falls back to
     "en" which falls back to invariant culture. You provide the most
     specific culture, fallback handles the rest. Not so with the jQuery
@@ -60,17 +60,16 @@ consistent format.
     formatted on the client side. I ended up generating all of the
     localized options on the server and piping them to the client rather
     than using the script-based localization.
--   **jQuery.data() hates camelCase attributes.** Yeah, I know HTML
+- **jQuery.data() hates camelCase attributes.** Yeah, I know HTML
     attributes are all supposed to be lowercase. But try this with
     jQuery 1.9.0: Set up an HTML element like this:
-    `<div id="test" data-someDataHere="1">Content</div>       `now try
+    `<div id="test" data-someDataHere="1">Content</div>`now try
     and get that using jQuery.data():
     `var data = $("#test").data().someDataHere;`
     It won't work. You'll get some sort of exception down in the bowels
     of things because it's looking for an attribute that's all
-    lower-case-dashes like `data-some-data-here `rather than the actual
+    lower-case-dashes like `data-some-data-here`rather than the actual
     attribute name.
 
 Anyway, I got to find these through experience so hopefully it'll help
 others save some time.
-

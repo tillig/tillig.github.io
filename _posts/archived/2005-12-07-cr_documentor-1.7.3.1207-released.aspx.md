@@ -16,7 +16,6 @@ Fixed bug that would display a security warning in the CR_Documentor
 window for VS 2005 users. CR_Documentor now executes the preview in the
 "Local Intranet" security zone.
 
-
  [Go get
 it!](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)
 

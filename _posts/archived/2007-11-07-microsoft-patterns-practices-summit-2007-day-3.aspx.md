@@ -35,15 +35,15 @@ Dutta](http://blogs.msdn.com/suhail/default.aspx)**
 This talk was specifically geared around the modeling tools built into
 Visual Studio Rosario.  Three modeling tools were shown:
 
--   Logical class diagram - An enhanced version of the exisitng class
+- Logical class diagram - An enhanced version of the exisitng class
     diagram functionality.  Generate class stubs based on the diagram
     and update the diagram based on code changes.
--   Sequence diagram - An extension from the logical class diagram. 
+- Sequence diagram - An extension from the logical class diagram.
     Show how classes interact in a standard sequence diagram.  As you
     add method calls to the sequence diagram, it updates the class
     diagram, which allows you to generate code.  What I didn't see here
     was whether the actual sequencing in the diagram generates any code.
--   Dependency analysis - They called this "Progression."  Pleading
+- Dependency analysis - They called this "Progression."  Pleading
     ignorance, I don't recall why.  Anyway, this frankly looked like a
     watered-down version of [NDepend](http://www.ndepend.com/).
 
@@ -53,35 +53,35 @@ Provost](http://www.peterprovost.org)**
 
 A discussion on the principles of dependency injection more than
 specific framework usage, which was just fine.  I won't go over the
-whole thing because there's plenty out there on dependency injection. 
+whole thing because there's plenty out there on dependency injection.
 The two things I liked were the list of different types of dependency
 injection and the potential drawbacks.
 
 Types of dependency injection they mentioned (who knew there were so
 many?):
 
--   Service locator (not really dependency injection, more late-binding
+- Service locator (not really dependency injection, more late-binding
     to services)
--   Interface injection
--   Setter injection
--   Constructor injection
--   Method call injection
--   Getter injection
+- Interface injection
+- Setter injection
+- Constructor injection
+- Method call injection
+- Getter injection
 
 ...and drawbacks of dependency injection.  (I liked this because
 proponents of dependency injection rarely mention these things as
 drawbacks, instead calling it "good design," which is debatable.)
 
--   Lots of little objects - you generally have to break things down
+- Lots of little objects - you generally have to break things down
     into very, very small pieces.  Rather than two-1000 line objects,
     you might have 20-100 line objects.
--   Runtime wire-up can be complicated and difficult to visualize -
+- Runtime wire-up can be complicated and difficult to visualize -
     figuring out which objects were populated by what context and how
     the dependency came to be can be hard to wrap your head around,
     especially in systems of any size.  Couple that with the "lots of
     little objects" drawback and you might realize you have a defect...
     but which of the bajillion little objects is it in?
--   Interface explosion - everything gets an interface because
+- Interface explosion - everything gets an interface because
     everything's gotta be pluggable.
 
 They recommended that if you write reusable libraries with these
@@ -96,15 +96,15 @@ by basically saying that there's not enough info out there to be able to
 identify best practices for workflow development.  That said, keep in
 mind the goals:
 
--   Capture long-running processes.  (Be able to "pause" and "resume" a
+- Capture long-running processes.  (Be able to "pause" and "resume" a
     long-running process.)
--   Provide "knowledge workers" with the ability to edit a process.
--   Provide a component market.  (Developers create activities -
+- Provide "knowledge workers" with the ability to edit a process.
+- Provide a component market.  (Developers create activities -
     components - that knowledge workers can use to compose workflows.)
--   Keep workflows decoupled from the environment.  (What if you started
+- Keep workflows decoupled from the environment.  (What if you started
     a process on a Blackberry and resumed it when you got to work and
     logged into the web application?)
--   Embrace flexibility in workflow hosting.  (You might host the
+- Embrace flexibility in workflow hosting.  (You might host the
     workflow in your web app, in a Windows forms app, etc.)
 
 The second half of the talk was open discussion.  The key that came out
@@ -149,7 +149,7 @@ They're working on it.
 **An Evening With Microsoft Research - [Jim
 Larus](http://research.microsoft.com/~larus/)**
 
-A peek at some of the stuff Microsoft Research has been working on. 
+A peek at some of the stuff Microsoft Research has been working on.
 You'd be surprised (or maybe not) at the breadth of topics they look at.
 
 I think my favorite one was the [analysis they did on a developer's day
@@ -157,7 +157,7 @@ including all of the interruptions and task
 switching](http://research.microsoft.com/hip/papers/Ko2007InformationNeeds.pdf)
 that goes on - things you might not even notice - and how that impacts
 not only that developer but others around them.  [They call it "Human
-Interactions in Programming."](http://research.microsoft.com/hip/) 
+Interactions in Programming."](http://research.microsoft.com/hip/)
 Looking at a graphical representation of a 90 minute period that shows
 interruptions for several developers was fascinating.  They even
 analyzed what the most frequent question types were that people
@@ -165,4 +165,3 @@ interrupted to ask ("Why is my code behaving like this?" sorts of
 things) and how satisfied they were with the answers they got back.
 
 Neat stuff.
-

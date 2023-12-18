@@ -11,7 +11,7 @@ I think my new favorite restaurant is
 guy," but I never really get tired of eating at Quizno's. I went there
 for lunch today, and if Jenn told me we were having it for dinner
 tonight, I'd be cool with that.
- 
+
  It's actually been kind of a staple in the new diet that Jenn and I
 have been on for a couple of months. I think we eat at Quizno's once or
 twice a week at least. And I'm doing well - I checked last night and I'm

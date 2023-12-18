@@ -21,4 +21,3 @@ are a little "split" between the two sites. If the content is on the doc
 site, go for that over the wiki. The doc site has content that's a
 little more robust and detailed than the wiki had (which is part of the
 desire to move to the doc site).
-

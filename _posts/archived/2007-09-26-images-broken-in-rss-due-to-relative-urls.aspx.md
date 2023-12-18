@@ -9,7 +9,7 @@ tags: [GeekSpeak]
 I just did a quick peek at my feed in RSSBandit and it looks like my
 images aren't showing up in my feed.  Turns out it's because, in many
 cases, I specify image URLs as "/path/to/image.gif" rather than
-"http://www.paraesthesia.com/path/to/image.gif" - relative rather than
+"<http://www.paraesthesia.com/path/to/image.gif" -> relative rather than
 absolute.
 
 I'm looking into ways to fix this in an automated fashion.  I don't want
@@ -21,4 +21,3 @@ same reasons.  I just need to find a .NET HttpModule that does this
 (that I can selectively enable just for the feed).
 
 If I can't find it, I guess I'll have to write it.
-

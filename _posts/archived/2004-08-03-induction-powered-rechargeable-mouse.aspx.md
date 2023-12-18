@@ -16,6 +16,7 @@ charge your mouse.*
 
  Now, I'm the first to admit that I'm no electrical engineer, and I'm
 probably talking through my ass right now, but I remember my physics 101
+
 - if you run a magnet along a wire, you get electrical current. Well,
 you're constantly moving your mouse around, right? What if you could
 apply some sort of power source to the mouse pad to speed things up a

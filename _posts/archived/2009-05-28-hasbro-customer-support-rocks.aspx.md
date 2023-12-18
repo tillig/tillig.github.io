@@ -8,7 +8,7 @@ tags: [General Ramblings]
 ---
 I have a copy of the [[older version of] *Electronic Battleship:
 Advanced
-Mission*](http://www.amazon.com/gp/product/B000GL1K5C?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000GL1K5C)
+Mission*](<http://www.amazon.com/gp/product/B000GL1K5C?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000GL1K5C>)
 game. We played it a bit, but we got really frustrated because the holes
 in the vertical grid were too big for the pegs to fit in well - a minor
 bump and the pegs would fall out, causing you to basically start the
@@ -40,4 +40,3 @@ Jenn and I played last night and it was a fantastic game. Came down to
 the very last turn - if I missed shooting down Jenn's last ship, she was
 going to shoot my last ship down. I made the right guess and got her,
 but just by that one turn. Great game.
-

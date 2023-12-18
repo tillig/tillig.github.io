@@ -32,4 +32,3 @@ The only real exceptions to this are internal sites - stuff like the
 expense report system or the PTO request form that I might use a lot but
 aren't in Google and aren't right on the intranet home page. Other than
 that, I think I'm going to clean out my bookmarks - I don't need 'em.
-

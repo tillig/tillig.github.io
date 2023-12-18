@@ -9,10 +9,10 @@ tags: [dotnet,blog]
 Well, folks, things seem to have worked out reasonably well for me
 today. I have:
 
--   Passed my Windows Application Programming in C# test
--   Moved my site over to my friend [Marty's](http://www.mildperil.net)
+- Passed my Windows Application Programming in C# test
+- Moved my site over to my friend [Marty's](http://www.mildperil.net)
     box
--   Not eaten anything but [Sour
+- Not eaten anything but [Sour
     Skittles](http://www.skittles.com/products/sour.jsp) all day long
 
 **The Test:** I actually thought I failed this while I was taking it.

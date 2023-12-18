@@ -11,12 +11,12 @@ UPDATE 11/4/2009: I got some feedback on this process from Raxco
 
 > The update process is as follows:
 >
-> -   While connected to your WHS and notified than an update to PD is
+> - While connected to your WHS and notified than an update to PD is
 >     available, choose Install
-> -   When notified that the Console is open and prompted to Retry,
+> - When notified that the Console is open and prompted to Retry,
 >     Ignore or Cancel, choose Ignore
-> -   When update has finished and prompted to reboot your WHS, reboot
-> -   Upon reboot of your WHS, PD should be updated.
+> - When update has finished and prompted to reboot your WHS, reboot
+> - Upon reboot of your WHS, PD should be updated.
 >
 > Note that if you run PD and click on Product Resources, PD shows that
 > it has been updated to new build. If you look in the add-ins, it still
@@ -45,16 +45,16 @@ little weird.
 
 **A fresh install** goes like this:
 
-1.  Download the full installation package for PerfectDisk to your
+1. Download the full installation package for PerfectDisk to your
     client computer.
-2.  Install PerfectDisk on your client computer.
-3.  As part of the installation, a folder will be created where the
+2. Install PerfectDisk on your client computer.
+3. As part of the installation, a folder will be created where the
     PerfectDisk add-in for Windows Home Server will be placed. The
     location is typically something like: C:\\Program
     Files\\Raxco\\PerfectDisk10Install\\PerfectDisk10\_Home\_Server\\PerfectDisk\_x86.msi
-4.  Drop the PerfectDisk\_x86.msi file into the
+4. Drop the PerfectDisk\_x86.msi file into the
     \\\\server\\software\\add-ins folder on your Windows Home Server.
-5.  Open the Windows Home Server console, go to the "Settings" tab, and
+5. Open the Windows Home Server console, go to the "Settings" tab, and
     under "Add-Ins" select to install the PerfectDisk add-in.
 
 The last few steps - dropping the installer in the "add-ins" folder,
@@ -80,26 +80,26 @@ something. Stuff gets messed up. Just don't do it.
 Instead, it appears that **this is the proper sequence of events for an
 upgrade**:
 
-1.  Go to the PerfectDisk site and [re-download the full [updated]
+1. Go to the PerfectDisk site and [re-download the full [updated]
     installer for the client
-    computer](http://www.perfectdisk.com/support/re-download-products).
-2.  Install the new version on your client computer. This will update
+    computer](<http://www.perfectdisk.com/support/re-download-products>).
+2. Install the new version on your client computer. This will update
     the installer files in the C:\\Program
     Files\\Raxco\\PerfectDisk10Install\\PerfectDisk10\_Home\_Server
     folder as well.
-3.  Log into the WHS console and uninstall the PerfectDisk add-in.
+3. Log into the WHS console and uninstall the PerfectDisk add-in.
     You'll need to restart the WHS console and possibly reboot the WHS
     after this.
-4.  Copy the new add-in from the C:\\Program
+4. Copy the new add-in from the C:\\Program
     Files\\Raxco\\PerfectDisk10Install\\PerfectDisk10\_Home\_Server
     folder into the \\\\server\\software\\add-ins folder on your server.
     You may want to keep a backup copy of the old version of the add-in
     somewhere before you overwrite it with the new version. Don't put
     two copies of the add-in in the server's "add-ins" folder, though.
-5.  Log into the WHS console and install the new version of the
+5. Log into the WHS console and install the new version of the
     PerfectDisk add-in. It will tell you to restart the WHS console. Do
     that.
-6.  On restarting the WHS console, go to the PerfectDisk add-in and
+6. On restarting the WHS console, go to the PerfectDisk add-in and
     re-enter your product key.
 
 You'll notice that this is pretty close to what a fresh install looks
@@ -113,20 +113,18 @@ the add-in.
 
 **Things you should NOT do:**
 
--   **Do not try to install the PerfectDisk update on your WHS through
+- **Do not try to install the PerfectDisk update on your WHS through
     the "Check for Updates" feature.** This ends you up with a
     mismatched add-in version and engine version and somehow corrupts
     the way the add-in is registered with the WHS console.
-    -   Don't do it from the WHS console.
-    -   Don't do it from a Terminal Service session to the WHS.
+  - Don't do it from the WHS console.
+  - Don't do it from a Terminal Service session to the WHS.
 
--   **Do not update your client computer's PerfectDisk install through
+- **Do not update your client computer's PerfectDisk install through
     the "Check for Updates" feature.** That will update your client
     computer just fine, but it won't update the installers so you won't
     get the updated WHS add-in.
--   **Do not uninstall PerfectDisk on your WHS through Add/Remove
+- **Do not uninstall PerfectDisk on your WHS through Add/Remove
     Programs.** I didn't do this, but it will end up corrupting the way
     the add-in is registered with the WHS console. Use the WHS console
     to remove PerfectDisk.
-
-

@@ -240,6 +240,7 @@ public class MyCustomObject : IConvertible
 ```
 
 ## Setting Swagger/Swashbuckle Doc
+
 Despite all of this, generated Swagger/Swashbuckle documentation will still show an expanded representation of your object, which is inconsistent with how a user will actually work with it from a client perspective.
 
 **At application startup need to register a type mapping with the Swashbuckle `SwaggerSpecConfig.Customize` method to map your custom type to a string.**

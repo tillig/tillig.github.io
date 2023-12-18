@@ -16,7 +16,7 @@ Create a build configuration that isn't attached to any source. The point of thi
 
 In the build configuration, add a single "Command Line" build step. Set the working directory to `%teamcity.tool.NuGet.CommandLine.DEFAULT%\tools` - this is where TeamCity has its default NuGet command line installation. For the custom script, put this:
 
-```
+```batch
 echo ##teamcity[buildNumber '%build.counter% (%teamcity.agent.name%)']
 nuget.exe locals -clear all
 ```

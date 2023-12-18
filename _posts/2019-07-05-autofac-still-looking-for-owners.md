@@ -3,7 +3,7 @@ layout: post
 title: "Help Wanted! Autofac (Still) Looking for Owners"
 date: 2019-07-05 -0800
 comments: true
-tags: [autofac,net]
+tags: [autofac,dotnet]
 description: "Are you an Autofac user who would like to help out on a larger scale? Wishing someone would address those long-running issues out there? Autofac is looking for owners!"
 ---
 [Back in April 2018 I posted a request for help to own some of the Autofac extension packages.](/archive/2018/04/02/autofac-looking-for-extension-owners)

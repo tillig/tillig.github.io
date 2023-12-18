@@ -25,4 +25,3 @@ will work correctly.
 
 Thanks to Ohad at Typemock, Alan at NCover, and Jamie Cansdale from
 TestDriven.NET for helping me track this one down.
-

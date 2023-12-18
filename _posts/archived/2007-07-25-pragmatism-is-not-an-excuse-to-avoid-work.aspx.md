@@ -13,14 +13,14 @@ this feature or not?  How far do I take the feature I'm working on?
 Since you're trying to ship product, sometimes you have to take
 shortcuts in the name of pragmatism.  What will get me to a shipping
 state faster?  Decisions get made on the [YAGNI (You Ain't Gonna Need
-It) principle](http://en.wikipedia.org/wiki/You_Ain't_Gonna_Need_It): 
-If the functionality doesn't get me to the goal, I won't implement it. 
+It) principle](http://en.wikipedia.org/wiki/You_Ain't_Gonna_Need_It):
+If the functionality doesn't get me to the goal, I won't implement it.
 In an agile environment, this can sometimes mean "If this doesn't get us
 to the goal of the end-of-sprint-demo, add it to the backlog."
 
 This is generally not a bad thing.  After all, you want to be
 successful, and success is meeting your goals and shipping.  That said,
-you have to use this as a general guideline, not a hard and fast rule. 
+you have to use this as a general guideline, not a hard and fast rule.
 You have to adapt your view of what pragmatism means in light of current
 circumstances.
 
@@ -45,4 +45,3 @@ that's a little less OK.
 
 Don't use pragmatism as an excuse to avoid work.  Let common sense
 prevail.
-

@@ -8,5 +8,5 @@ tags: [General Ramblings]
 ---
 My money is already spent. I'll have this thing launch day, and I will
 be taking my customary week off to play.
- 
+
  [The trailer is out.](http://www.rockstargames.com/IV)

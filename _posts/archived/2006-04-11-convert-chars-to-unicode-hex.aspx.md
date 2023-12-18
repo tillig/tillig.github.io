@@ -4,7 +4,7 @@ title: "Convert Chars to Unicode Hex"
 date: 2006-04-11 -0800
 comments: true
 disqus_identifier: 985
-tags: [gists,csharp,net]
+tags: [gists,csharp,dotnet]
 ---
 A minor follow-up to my [JavaScript and Unicode Character Validation
 entry](/archive/2005/04/25/javascript-and-unicode-character-validation.aspx)

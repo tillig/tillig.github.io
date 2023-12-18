@@ -21,48 +21,45 @@ site wondering which cable series is better than which. It's probably
 not complete because I didn't invest a whole lot of time into it, but it
 gives you an idea. From "worst" to "best," here you go...
 
- **Audio Cables**
+## Audio Cables
 
 Monster Cable Core Products
 
--   Interlink Junior
--   Interlink 100
--   Interlink 200
--   Interlink 250
--   Interlink 300
--   Interlink Reference
--   Z100i
--   Z200i
+- Interlink Junior
+- Interlink 100
+- Interlink 200
+- Interlink 250
+- Interlink 300
+- Interlink Reference
+- Z100i
+- Z200i
 
 M Series
 
--   M350i
--   M550i
--   M850i
--   M950i
--   M1000i
+- M350i
+- M550i
+- M850i
+- M950i
+- M1000i
 
 Sigma Retro
 
--   Sigma Retro
+- Sigma Retro
 
-
- **Video Cables**
+## Video Cables
 
 Monster Cable Core Products
 
--   Monster Video 1
--   Monster Video 2
--   Monster Video 3
--   Z300
+- Monster Video 1
+- Monster Video 2
+- Monster Video 3
+- Z300
 
 M Series
 
--   M500
--   M1000
--   M2000
-
-
+- M500
+- M1000
+- M2000
 
  The thing about that chart you need to remember is that the top end of
 the Monster Cable Core Products section will overlap slightly with the
@@ -75,28 +72,24 @@ video. They all run on the same scale and end up somewhere in the
 low-to-middle end of the M Series cables from the above charts (at
 least, price-wise). The THX cable scale goes like this:
 
- **THX Cables**
+## THX Cables
 
--   Standard
--   600
--   800
--   1000
-
-
+- Standard
+- 600
+- 800
+- 1000
 
  Price comparison-wise, as of this morning when I checked things out,
 this was the cost for a dual-RCA cable 2m/6ft long (the kind you connect
 your right-and-left audio channels on your VCR to the TV with):
 
--   $10 - Interlink Junior
--   $20 - Standard THX
--   $50 - M350i
--   $130 - Interlink Reference
--   $130 - THX 1000
--   $300 - M1000i
--   $1500 - Sigma Retro
-
-
+- $10 - Interlink Junior
+- $20 - Standard THX
+- $50 - M350i
+- $130 - Interlink Reference
+- $130 - THX 1000
+- $300 - M1000i
+- $1500 - Sigma Retro
 
  No, that's not a typo on the Sigma Retro set. It really is $1500 for
 six feet of cable. I only wish I had the disposable income to throw down

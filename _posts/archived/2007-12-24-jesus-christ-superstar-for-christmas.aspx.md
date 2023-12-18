@@ -40,4 +40,3 @@ to sing along*.
 Other than that, it was a great show and I'm glad we made it. I couldn't
 think of a better way to start the holiday season than a great show with
 some somewhat relevant subject matter. Good times.
-

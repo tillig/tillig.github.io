@@ -32,4 +32,3 @@ You can use the app to enter up to eight bar codes and then download the combine
 I made the app not only for this but as a way to play with some Javascript libraries. The whole app runs in the client with the exception of one tiny server-side piece that loads the high-resolution barcodes for the PDF.
 
 [You can check out the source over on GitHub.](https://github.com/tillig/LoyaltyCard)
-

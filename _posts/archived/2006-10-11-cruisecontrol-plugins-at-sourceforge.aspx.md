@@ -4,7 +4,7 @@ title: "CruiseControl Plugins at SourceForge"
 date: 2006-10-11 -0800
 comments: true
 disqus_identifier: 1086
-tags: [build,net]
+tags: [build,dotnet]
 ---
 There is a set of plugins for CruiseControl.NET out on SourceForge that
 lets you serialize tasks. Handy for those long-running

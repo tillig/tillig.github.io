@@ -38,4 +38,3 @@ you can get little patches showing up. That's a lot less of a problem,
 particularly since the cost of the maintenance treatments is less than a
 third of what the initial treatments cost and, with the hair pretty much
 gone, the pain really won't be there.
-

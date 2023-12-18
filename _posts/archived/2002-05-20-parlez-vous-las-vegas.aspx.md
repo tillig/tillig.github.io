@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 61
 tags: [activities]
 ---
+<!--markdownlint-disable MD036 -->
 Well, I've returned from my long-awaited and well-loved vacation to
 Vegas, and let me tell you, it was *the bomb*. Jenn and I saw so much
 stuff down there, it was incredible. Here's the edited play-by-play for

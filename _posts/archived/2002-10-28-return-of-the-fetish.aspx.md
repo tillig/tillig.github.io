@@ -13,7 +13,7 @@ just *get me*: Corsets, stockings, and boots - in that order. There is
 nothing sexier than a woman in a classy, tightly laced corset.
 *Nothing.* A good close second is a nice set of stockings - with or
 without garter belt (preferably with). Barring those two things, a
-stylish pair of boots is unbelieveable.
+stylish pair of boots is unbelievable.
 
  Hawks get trounced by Spokane. The score wasn't terrible (3-2), but the
 play was shameful.
@@ -56,7 +56,7 @@ theories I have on why stuff does what it does. My favorite thus far
 Commute*](/archive/2002/07/05/new-science-the-theory-of-indefinite-commute.aspx).
 I worked for a long time on that one.
 
- *each household appliance is like a new science*
+*each household appliance is like a new science* :)
 
  Jenn and I will be going to a sneak preview of
 [*I-Spy*](http://us.imdb.com/Title?0297181) tonight. I didn't know it

@@ -30,7 +30,7 @@ First things first, let's get connected.
 
 Here's what it should generally look like. I've left the comments in that are there by default.
 
-```
+```text
 dev tun
 tls-client
 
@@ -150,7 +150,7 @@ You need to know the name of your OpenVPN Connect profile - the text that shows 
         - Package: `net.openvpn.openvpn`
         - Class: `net.openvpn.openvpn.OpenVPNDisconnect`
         - Target: `Activity`
-    3. **OpenVPN Connect 3.0.0**: Fill in the `Send Intent` fields like this (it is case-sensitive, so be exact; also, these are all just one line, so if you see line wraps, ignore that):
+    4. **OpenVPN Connect 3.0.0**: Fill in the `Send Intent` fields like this (it is case-sensitive, so be exact; also, these are all just one line, so if you see line wraps, ignore that):
         - Action: `net.openvpn.openvpn.DISCONNECT`
         - Category: `None`
         - Mime Type:
@@ -186,4 +186,4 @@ If you're unable to get the `Connect To Home VPN` task working, things to check:
 
 The cool thing about OpenVPN that I didn't see with PPTP is that I don't have to set up a proxy with it. I got some comments on my [previous article]({{ site.url }}/archive/2014/11/14/secure-public-internet-with-synology-vpn-and-proxy) where some folks were lucky enough to not need to set up a proxy. I somehow needed it with PPTP but don't need it anymore with OpenVPN. Nice.
 
-**_NOTE: I can't offer you individual support on this._** Much as I'd like to be able to help everyone, I just don't have time. I ask questions and follow forum threads like everyone else. If you run into trouble, [Synology has a great forum where you can ask questions](http://forum.synology.com/) so I'd suggest checking that out. The above worked for me. I really hope it works for you. But it's not fall-down easy and sometimes weird differences in network setup can make or break you.
+***NOTE: I can't offer you individual support on this.*** Much as I'd like to be able to help everyone, I just don't have time. I ask questions and follow forum threads like everyone else. If you run into trouble, [Synology has a great forum where you can ask questions](http://forum.synology.com/) so I'd suggest checking that out. The above worked for me. I really hope it works for you. But it's not fall-down easy and sometimes weird differences in network setup can make or break you.

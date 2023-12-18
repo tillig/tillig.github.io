@@ -75,4 +75,3 @@ drives for a total of 4.55TB in
 storage.](/archive/2009/02/04/increase-your-windows-home-server-capacity-with-esata.aspx)
 It was an easy upgrade that enables future storage upgrades without
 using the USB ports up.
-

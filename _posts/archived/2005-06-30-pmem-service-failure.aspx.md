@@ -19,26 +19,22 @@ as for you:
 Annoyances.org](http://www.annoyances.org/exec/forum/win2000/r1069687493)
 works:
 
-1.  Run `regedit`
-2.  Browse to
+1. Run `regedit`
+2. Browse to
     `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PMEM\` and
     find the `ImagePath` key
-3.  The value will be something like
+3. The value will be something like
     `\??\\C:\WINDOWS\system32\drivers\PMEMNT.SYS` - change it to a valid
     version of that path: `C:\WINDOWS\system32\drivers\PMEMNT.SYS`
-4.  Do `net start pmem` at a command prompt to get the service running.
-
-
+4. Do `net start pmem` at a command prompt to get the service running.
 
  If you don't have `PMEMNT.SYS` on your machine, you can just disable
 the service instead:
 
-1.  Run `regedit`
-2.  Browse to
+1. Run `regedit`
+2. Browse to
     `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PMEM\` and
     find the `Start` key
-3.  Change the value to `4` to disable the service.
-4.  Next time you restart your computer, the service won't start up so
+3. Change the value to `4` to disable the service.
+4. Next time you restart your computer, the service won't start up so
     it won't check for the `PMEMNT.SYS` file.
-
-

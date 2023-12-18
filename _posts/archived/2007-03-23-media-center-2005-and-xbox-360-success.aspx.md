@@ -14,29 +14,30 @@ virtual machine overhead and limitations, but I saw it work, proving the
 concept.
 
  Here's what I had to do:
-1.  Install Windows XP Media Center Edition 2005.
-2.  Activate Windows XP. You have to do this to get all the updates you
+
+1. Install Windows XP Media Center Edition 2005.
+2. Activate Windows XP. You have to do this to get all the updates you
     need.
-3.  Hit Microsoft Update to get all the available patches.
-4.  Install [.NET
+3. Hit Microsoft Update to get all the available patches.
+4. Install [.NET
     1.1](http://www.microsoft.com/downloads/details.aspx?FamilyID=262d25e3-f589-4842-8157-034d1e7cf3a3&displaylang=en)
     and
     [SP1](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=A8F5654F-088E-40B2-BBDB-A83353618B38).
-5.  Install [MCE 2005 Update
+5. Install [MCE 2005 Update
     2](http://www.microsoft.com/windowsxp/mediacenter/upgrade/rollup2.mspx).
     (You might be able to get this from Windows Update; I got it from a
     separate download.)
-6.  Install [My Movies](http://www.mymovies.name/).
-7.  Install
+6. Install [My Movies](http://www.mymovies.name/).
+7. Install
     [Transcode360](http://www.runtime360.com/projects/transcode-360/).
-8.  Hit Microsoft Update again to make sure all the patches are in
+8. Hit Microsoft Update again to make sure all the patches are in
     place. (I did this twice because the first time I missed getting
     Windows Media Player 11 - I might have been able to skip it had I
     done everything the first time. I also had tried to avoid activating
     my MSDN copy of media center because I knew I'd only need it for a
     few days... but you have to be activated to get everything up to
     date.)
-9.  Start up Windows Media Player and configure it.
+9. Start up Windows Media Player and configure it.
 10. Install [FFDShow](http://www.free-codecs.com/download/FFDShow.htm)
     to get the MPEG2 codec. Set it to be the default decoder for MPEG2.
     (I'm given to understand that if you install some DVD player

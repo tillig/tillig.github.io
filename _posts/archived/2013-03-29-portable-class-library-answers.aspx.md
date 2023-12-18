@@ -23,7 +23,7 @@ questions we see. I also tried to summarize it [on the
 FAQ](https://code.google.com/p/autofac/wiki/FrequentlyAskedQuestions),
 but a couple of spots with the info never hurt.
 
--   **Why are old versions of .NET referenced?**
+- **Why are old versions of .NET referenced?**
     If you pop open Autofac in Reflector, dotPeek, or your favorite
     decompiler, you'll see that it looks like it references .NET
     2.0.5.0.
@@ -37,7 +37,7 @@ but a couple of spots with the info never hurt.
     it'll use that. You can [read more about what "Retargetable" means
     here](http://www.shujaat.net/2012/11/portable-retargetable-assemblies.html).
 
--   **Why do I get an exception where a 2.0.5.0 assembly fails to
+- **Why do I get an exception where a 2.0.5.0 assembly fails to
     load?**
     If it's retargetable, why is it blowing up in .NET 4.0? I get an
     exception that looks like this:
@@ -48,12 +48,11 @@ but a couple of spots with the info never hurt.
             at Autofac.RegistrationExtensions.RegisterInstance[T](ContainerBuilder builder, T instance)
             MyProject\MyFixture.cs(49,0): at MyNamespace.MyFixture.MyTest()
 
-
     You're getting an exception because you haven't got the latest .NET
     updates. [I have a blog article here that walks into that in more
     detail](/archive/2013/01/21/using-portable-class-libraries-update-net-framework.aspx).
 
--   **Why is FxCop failing with CA0060 assembly binding errors?**
+- **Why is FxCop failing with CA0060 assembly binding errors?**
     If you're building your project on Windows 8 or Windows Server 2012,
     chances are you haven't seen this error. However, on Windows 7 or
     Windows Server 2008R2, you might have seen FxCop fail with warning
@@ -76,7 +75,7 @@ but a couple of spots with the info never hurt.
     that handles both the FxCop version ignore thing and the CA0060
     error. Either way, ignoring it is the easiest way to go. Actually
     installing various SDKs doesn't seem to help. (I tried.)
--   **How come secannotate.exe isn't working for me?**
+- **How come secannotate.exe isn't working for me?**
     Congratulations, you're one of the seven people out there who
     actually use secannotate. :)
 
@@ -89,4 +88,3 @@ but a couple of spots with the info never hurt.
 Portable Class Libraries really do make targeting multiple platforms
 easy, but if you're new to them, hopefully this helps you understand why
 you're seeing some of the things you're seeing.
-

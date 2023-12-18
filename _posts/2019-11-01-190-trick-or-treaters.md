@@ -24,6 +24,7 @@ We did hand out candy in 2018 and I'm sure we tallied it but I have _no idea_ wh
 
 Cumulative data:
 
+<!--markdownlint-disable MD033 -->
 <table>
     <thead>
         <tr>
@@ -142,6 +143,7 @@ Cumulative data:
         </tr>
     </tbody>
 </table>
+<!--markdownlint-enable MD033 -->
 
 Our costumes this year:
 

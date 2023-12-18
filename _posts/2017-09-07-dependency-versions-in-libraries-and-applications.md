@@ -3,7 +3,7 @@ layout: post
 title: "Dependency Versioning in Libraries and Applications"
 date: 2017-09-07 -0800
 comments: true
-tags: [autofac,net]
+tags: [autofac,dotnet]
 description: "Addressing an FAQ where users want libraries to update minimum dependencies to fix application-level warnings."
 ---
 
@@ -15,7 +15,7 @@ I see this a lot in the .NET Core realm, where use of many small dependencies ra
 
 What it boils down to is that **there's a difference in how you manage dependencies in libraries and applications.**
 
-# Libraries Target Compatibility
+## Libraries Target Compatibility
 
 When you have a library, you want to make sure it's stable and compatible for your consumers, both at the outset and across upgrades. People want the latest features and bug fixes, right? This means a lot of things including:
 
@@ -28,7 +28,7 @@ As you can imagine, any changes here can cause unforeseen ripple effects. Upgrad
 
 **The general rule for dependency/framework versions is to target low and keep it stable.**
 
-# Applications Target Features
+## Applications Target Features
 
 When you write an app, your largest concerns are the features you need and the target environment in which it's going to run. It means priorities shift as far as compatibility and upgrades are concerned.
 
@@ -37,7 +37,7 @@ When you write an app, your largest concerns are the features you need and the t
 
 **Application dependencies generally don't end up affecting application consumers.**
 
-# Addressing Library Dependency Scenarios
+## Addressing Library Dependency Scenarios
 
 **By and large, when you see an issue with a transitive dependency coming into your application, the solution is to add a direct dependency in your application to the version you want.**
 
@@ -49,7 +49,7 @@ Some scenarios you may see in the .NET Core world to help make this concrete:
 
 The point is that many of the challenges seen at the application level due to transitive dependencies can be solved by adding direct dependencies; those same challenges may not be solved in the same way at the library level.
 
-# Wrapping It Up
+## Wrapping It Up
 
 Hopefully this helps clarify why _libraries_ you consume "don't just take a dependency upgrade" when you notice something in your _application_.
 

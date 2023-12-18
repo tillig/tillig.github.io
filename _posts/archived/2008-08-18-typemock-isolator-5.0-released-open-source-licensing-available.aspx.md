@@ -10,12 +10,12 @@ tags: [net]
 released](http://blog.typemock.com/2008/08/typemock-isolator-50-released.html)
 and there are a lot of cool things that come with it. The two big ones:
 
--   **Arrange/Act/Assert syntax**: A more fluent syntax style for
+- **Arrange/Act/Assert syntax**: A more fluent syntax style for
     setting up your mocks. [You can still use the old
     API](http://blog.typemock.com/2008/07/do-i-need-to-rewrite-my-tests-for-new.html),
     but the new one offers a nice alternative to the classic
     record/playback metaphor.
--   **Open Source licensing**: [I blogged about
+- **Open Source licensing**: [I blogged about
     this](/archive/2008/07/24/typemock-isolator-open-source-licenses.aspx)
     before, but it's finally [in
     effect](http://www.typemock.com/licenseinformation.php). You can get
@@ -25,4 +25,3 @@ and there are a lot of cool things that come with it. The two big ones:
 
 This is huge. I'm totally excited. [Check it
 out](http://blog.typemock.com/2008/08/typemock-isolator-50-released.html).
-

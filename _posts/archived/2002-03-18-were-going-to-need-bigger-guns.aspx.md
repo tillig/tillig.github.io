@@ -54,6 +54,7 @@ movie, but light on the "movie" part. So far I've driven a lot of people
 around, car-bombed a guy, and hijacked a payroll van in it. My stats say
 I'm only 9% done with it, which is very cool; I haven't even gotten onto
 the other islands yet. I think it's making me a little paranoid, though
+
 - I cruise through the bad part of town now and totally expect to get
 carjacked or beaten with a baseball bat. Then again, maybe that's just
 because it's *the bad part of town*. Hmmm.

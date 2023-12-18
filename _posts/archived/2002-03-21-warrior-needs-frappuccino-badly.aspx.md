@@ -12,7 +12,7 @@ Frappuccino right before work. I got one this morning with my
 friend/coworker/boss Greg at the local [Barnes &
 Noble](http://www.bn.com). Really just hit the spot. More [probably]
 later...
- 
+
  *\* "Venti" is actually a trademarked word of Starbucks, which I really
 don't understand because it's Italian for "twenty." How do you trademark
 a number? What's that all about?*

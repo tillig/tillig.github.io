@@ -49,4 +49,3 @@ grinding metal. The print happens, which is not too loud, and then when
 it's done it goes through something that sounds just like the
 initialization actions. If you can ignore the noise, this thing is
 pretty cool.
-

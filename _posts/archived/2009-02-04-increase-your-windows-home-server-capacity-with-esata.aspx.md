@@ -18,6 +18,7 @@ and [did a few upgrades](/archive/2008/09/28/home-server-upgrades.aspx),
 adding memory and filling out the drive bays.
 
 After ripping all of my movie DVDs to the server, I had about 470GB left
+
 - plenty for music and photos, but not enough for me to rip my TV DVDs
 to the server and have those available in the library.
 
@@ -54,4 +55,3 @@ model numbers perform
 well](/archive/2010/06/16/beware-the-wd-green-drives.aspx). I ended up
 replacing some of the ones I had bought when I originally wrote this
 post.
-

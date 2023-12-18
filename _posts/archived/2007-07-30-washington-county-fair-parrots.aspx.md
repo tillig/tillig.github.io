@@ -29,10 +29,9 @@ them.  All in all, a fantastic show.
 Of course, we also had to partake in the fair food - BBQ pork
 sandwiches, fresh lemonade, and funnel cake.  It really doesn't get much
 better than that, though I'm glad we walked all over the place so at
-least I could say I worked off two or three bites of that funnel cake. 
+least I could say I worked off two or three bites of that funnel cake.
 I'm sure my arteries are still irritated with me.
 
 A heck of a lot of fun, and, [as Tom Peterson
 says](http://www.imdb.com/name/nm0677426/bio), "Free is a very good
 price!"
-

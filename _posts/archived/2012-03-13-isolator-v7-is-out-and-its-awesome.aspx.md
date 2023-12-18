@@ -29,4 +29,3 @@ environment (System.Environment)**. *Nice*.
 
 [Go check it
 out.](http://www.plimus.com/jsp/redirect.jsp?contractId=1655929&referrer=tillig)
-

@@ -37,10 +37,9 @@ pot.
 
  What that amounts to is that the coffee pots are in one of two states
 at all times:
--   Half a cup of coffee in the bottom of the pot, cold; or
--   Empty and abandoned
 
-
+- Half a cup of coffee in the bottom of the pot, cold; or
+- Empty and abandoned
 
  The side product of this is that any time I want to get my seldom-drunk
 cup of coffee, I get to be the guy who brews the new pot. (I'm getting
@@ -63,22 +62,22 @@ the sink, down the front of the cabinets... you get the idea.
 
  So, for those of you in the cheap seats, here's how to make coffee:
 
-1.  Get some coffee beans.
-2.  Grind the beans.
-3.  Check: is that enough to make a whole pot of coffee? If not, you'll
+1. Get some coffee beans.
+2. Grind the beans.
+3. Check: is that enough to make a whole pot of coffee? If not, you'll
     need more [ground] [coffee] beans.
-4.  Put the beans in a *coffee filter*. If you don't use a filter,
+4. Put the beans in a *coffee filter*. If you don't use a filter,
     you're gonna get chunky coffee. Most people don't like that.
-5.  Put the filter into the filter holder of the machine. The ones here
+5. Put the filter into the filter holder of the machine. The ones here
     at work are a separate item, but I've seen machines where the filter
     just sticks right in the machine. I'll have to trust you to figure
     out where the filter goes.
-6.  Get an empty, clean pot that will be *large enough to hold the
+6. Get an empty, clean pot that will be *large enough to hold the
     coffee you're brewing*.
-7.  Put that empty, clean pot under (what we will call) *the coffee
+7. Put that empty, clean pot under (what we will call) *the coffee
     nozzle*.
-8.  Push the *GO* button.
-9.  Wait until the coffee is *finished brewing* before you remove the
+8. Push the *GO* button.
+9. Wait until the coffee is *finished brewing* before you remove the
     pot.
 10. Dispose of the filter and used coffee grounds. You can *not use the
     grounds again*. If you're environmentally conscious, compost them.

@@ -14,7 +14,7 @@ Yes.  Interesting that's the first reaction people have when they hear
 that.  But figure it this way: I can't actually allow my facial hair to
 grow.  If I do, I have all sorts of skin complications ranging from
 pretty bad ingrowns to severe acne and everything in between.  Talking
-to multiple dermatologists, I'm not ever supposed to let it grow. 
+to multiple dermatologists, I'm not ever supposed to let it grow.
 Ever.  So I get the exciting fun of shaving for, well, ever.  No point
 in that, now, is there?  Laser hair removal to the rescue.
 
@@ -35,7 +35,7 @@ Flash.
 
 When I went in on Saturday, the technician told me that the Dermo Flash
 was pretty new so they didn't know how well it would work on coarse hair
-like the stuff on my face, but hypothetically it should work. 
+like the stuff on my face, but hypothetically it should work.
 (According to the company, it should work.)  On the other hand, the
 MeDioStar is more of a "guaranteed results" thing... but it hurts. "No
 pain, no gain in hair removal," said the technician, Jessica.  "The
@@ -93,8 +93,8 @@ little worse along the jaw line."  She started in on the next area up...
 at my jawline.
 
 This time it shot me maybe 12 times.  That was pretty much all I could
-stand.  "Jesus, are you sure you can't just give me something for this? 
-Like the dentist gas or something?  Seriously, I'll pay for it.  A lot. 
+stand.  "Jesus, are you sure you can't just give me something for this?
+Like the dentist gas or something?  Seriously, I'll pay for it.  A lot.
 Anything.  Just give me something because I swear I'm going to pass out
 in a minute.  This is the worst.  Ever."
 
@@ -141,4 +141,3 @@ for the MeDioStar and I don't think there's anything that could have
 been done to *make* me ready.  We tried it, it hurt too bad, and I'm
 hoping against hope that Dermo Flash does the job.  We'll see in a week
 or so!
-

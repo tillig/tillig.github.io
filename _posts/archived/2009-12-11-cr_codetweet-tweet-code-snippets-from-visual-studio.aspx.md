@@ -31,4 +31,3 @@ menu](http://cr-codetweet.googlecode.com/svn/site/screenshots/context-menu.png)
 snippet](http://cr-codetweet.googlecode.com/svn/site/screenshots/tweet-rendered.png)
 
 Interested? [It's free! Go get it!](http://cr-codetweet.googlecode.com)
-

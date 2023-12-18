@@ -9,12 +9,12 @@ tags: [dotnet,gists,build,teamcity]
 We use [TeamCity](http://www.jetbrains.com/teamcity/) as our build
 server and one of the cool things TeamCity has built in is the ability
 to serve as a NuGet server. You build your product, run a
-`nuget pack `task on it, and TeamCity will automatically add it to the
+`nuget pack`task on it, and TeamCity will automatically add it to the
 feed.
 
 One of the somewhat odd things I've found with TeamCity's NuGet server
 is that it seems to require that you **let TeamCity run the actual
-`nuget pack `on packages it should host**. That is, even if you wanted
+`nuget pack`on packages it should host**. That is, even if you wanted
 to do that action in your build script, you can't – simply putting the
 package into your set of build artifacts doesn't get it into the feed.
 You actually have to use the "NuGet Pack" build step in your build. When

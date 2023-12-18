@@ -4,7 +4,7 @@ title: "Can't SendTo"
 date: 2004-09-24 -0800
 comments: true
 disqus_identifier: 663
-tags: [windows,net]
+tags: [windows,dotnet]
 ---
 I stayed late after work last night to try and get some help with my
 [SendTo menu

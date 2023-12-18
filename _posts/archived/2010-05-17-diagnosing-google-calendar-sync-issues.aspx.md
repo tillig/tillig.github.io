@@ -15,14 +15,14 @@ neither attendee  nor organizer." (Yes, there are two spaces between
 I haven't figured out what the problem there is but I did find this
 interesting nugget to help you troubleshoot issues:
 
-1.  Go to your Google Calendar log folder. On WinXP that'll be like
+1. Go to your Google Calendar log folder. On WinXP that'll be like
     C:\\Documents and Settings\\YOURUSERNAME\\Local
     Settings\\Application Data\\Google\\Google Calendar Sync\\logs
-2.  Put a text file in there called "level.txt" and put one word in it:
+2. Put a text file in there called "level.txt" and put one word in it:
     VERBOSE
-3.  Run a sync from Google Calendar Sync. The log will come out a lot
+3. Run a sync from Google Calendar Sync. The log will come out a lot
     larger and will have a ton more logging information in it.
-4.  Delete the "level.txt" file. You don't want verbose logging all the
+4. Delete the "level.txt" file. You don't want verbose logging all the
     time.
 
 Interestingly, for me the appointments that won't sync are all meetings

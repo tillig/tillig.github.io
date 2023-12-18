@@ -3,10 +3,10 @@ layout: post
 title: "Autofac: Looking for Extension Project Owners"
 date: 2018-04-02 -0800
 comments: true
-tags: [autofac,net]
+tags: [autofac,dotnet]
 description: "Autofac is looking for owners to take on some of the extension and integration projects. Is that you?"
 ---
-# The State of Autofac
+## The State of Autofac
 
 [Autofac](https://autofac.org/) is a pretty popular inversion of control container for .NET. [Core Autofac is approaching 10 million NuGet downloads.](https://www.nuget.org/packages/Autofac) There are over 20 extension packages that are part of [the GitHub Autofac organization](https://github.com/autofac) supporting everything from .NET Core to MVC/Web API to Service Fabric.
 
@@ -20,7 +20,7 @@ All of that happens in the "spare time" between full-time jobs, family obligatio
 
 We get a few pull requests, but IoC/DI integration is tricky business. Small changes can introduce pretty big penalties when it comes to app performance. To that end, we probably don't get quite as many PRs as you might think, and when we do there's a lot of analysis that has to go into many of them to ensure we're not inadvertently breaking something.
 
-# We Need Help!
+## We Need Help
 
 There's a lot to maintain and we're spread thin. **We're looking for people willing to step up and own some of the Autofac extensions and integrations.** If we can focus on core Autofac and core extensions we'll make better headway on things like [fixing up the decorator syntax](https://github.com/autofac/Autofac/issues/880) or addressing some of the longer-running issues that aren't five-minute fixes.
 
@@ -39,6 +39,6 @@ You won't just be handed a big lump of code and left on your own, but you'll be 
 
 **Let us know by filing an issue on the repo or tweeting `@AutofacIoC`.** It'll help if you let us know a little about yourself, any open source work you may be involved in, that sort of thing. It's not really a job interview, but we are a team so knowing if you'll be a team fit is valuable.
 
-# Not Interested in Owning?
+## Not Interested in Owning?
 
 That's fine, it's a lot to take on. **We'd love your PRs** that solve existing issues with a mind toward non-breaking changes. Especially in some of the lesser-used libraries, there's definitely some TLC needed.

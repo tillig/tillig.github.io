@@ -51,17 +51,17 @@ leave the rest of the crew high-and-dry with a lot of work to do. That's
 easier said than done. People, on the whole, fall into one of a few
 categories:
 
--   They're not interested in fireworks. Totally legit.
--   They're interested, but it's a holiday and they have other plans.
+- They're not interested in fireworks. Totally legit.
+- They're interested, but it's a holiday and they have other plans.
     This sometimes comes along with a "next year, I promise" as if there
     will always be another opportunity.
--   They've done the show once, had fun, but it's too much work to do
+- They've done the show once, had fun, but it's too much work to do
     again. Once was enough.
--   They commit to "definitely, 100%, no question" be there... and then
+- They commit to "definitely, 100%, no question" be there... and then
     cancel a couple of days before (or on the day). This is my favorite
     category of people because there's not enough time to get a
     replacement person.
--   You ask them if they're interested and you get no response, like
+- You ask them if they're interested and you get no response, like
     your voice mails and emails were never received.
 
 It's not just sending out an eVite and hoping for the best. You have to
@@ -82,4 +82,3 @@ year. Maybe we'll go back to it next year. I have a feeling that I may
 be done, though. I really haven't missed fighting the logistics of
 getting the whole thing set up. It doesn't always balance out the rush
 of actually shooting the show.
-

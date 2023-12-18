@@ -56,4 +56,3 @@ guitar? Can't ask for much more than that.
 **UPDATE:** While I'm happy to help folks out, I'm not in the o-ring
 business.  If you want some o-rings, head over to
 [McMaster-Carr](http://www.mcmaster.com/) and pick some up.
-

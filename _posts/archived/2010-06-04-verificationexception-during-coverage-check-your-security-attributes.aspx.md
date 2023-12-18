@@ -30,4 +30,3 @@ about the new .NET 4 security model to figure out what really needs to
 happen, but if you're seeing a VerificationException when you run tests
 under coverage but you don't see that exception when you run without
 coverage... **check your security attributes**.
-

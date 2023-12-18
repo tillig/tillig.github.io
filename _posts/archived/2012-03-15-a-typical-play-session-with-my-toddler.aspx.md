@@ -76,4 +76,3 @@ shark]({{ site.url }}/images/20120315sharkattack.jpg)
 me. I'm thinking it's just me. (Phoenix also accompanies me on occasion
 to the local [Things From Another World](http://www.tfaw.com/) comic
 store. Gotta start her early.)
-

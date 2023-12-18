@@ -15,14 +15,14 @@ realize what I had even said until a few seconds after I had gotten my
 beverage. It's sad to think that [some
 movies](http://www.amazon.com/exec/obidos/ASIN/B00001ODHJ/mhsvortex) can
 have such an influence on your daily life.
- 
+
  Speaking of movies, every time my friend Aarron listens to the album
 *[The White
 Room](http://www.amazon.com/exec/obidos/ASIN/B000002VMN/mhsvortex)* by
 The KLF, he always mentions that it says on the back something about
 this being the soundtrack to the KLF movie of the same name. Then Aarron
 says that he'd love to see that movie.
- 
+
  Up until the other day, I always thought that was just a marketing
 gimmick. Apparently, though, [it *really was* a
 movie](ftp://ftp.xmission.com/pub/users/l/lazlo/music/klf/etc/klf-script-thewhiteroom.txt).

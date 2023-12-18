@@ -17,17 +17,17 @@ either.
 Let's say you have a .NET project and you've got it totally wired up
 with automation.
 
--   You have a continuous integration server running the build on every
+- You have a continuous integration server running the build on every
     check-in.
--   You're running unit tests and failing the build if the test coverage
+- You're running unit tests and failing the build if the test coverage
     levels fall below a certain limit.
--   [FxCop](http://blogs.msdn.com/b/codeanalysis/archive/2010/07/26/fxcop-10-0-is-available.aspx)
+- [FxCop](http://blogs.msdn.com/b/codeanalysis/archive/2010/07/26/fxcop-10-0-is-available.aspx)
     runs with [almost all the rules turned
     on](/archive/2008/10/30/fxcop-rule-recommendations.aspx) to check
     for consistent behavior.
--   [StyleCop](http://stylecop.codeplex.com/) runs with almost all the
+- [StyleCop](http://stylecop.codeplex.com/) runs with almost all the
     rules turned on to ensure the code is consistently formatted.
--   [NDepend](http://www.ndepend.com/) runs to check your dependencies
+- [NDepend](http://www.ndepend.com/) runs to check your dependencies
     and ensure other custom project-specific standards are met.
 
 You even run your code through code reviews to ensure you get a second
@@ -122,4 +122,3 @@ don't know. Be amenable to refactoring - or rewriting - if something
 gets discovered after the fact.
 
 **Don't let the automation make you lazy.**
-

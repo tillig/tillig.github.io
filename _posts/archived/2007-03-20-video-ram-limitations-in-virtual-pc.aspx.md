@@ -14,6 +14,7 @@ limitations due to the video RAM that [Virtual PC
 gives me. [Virtual PC emulates an S3 Trio 64 video card with 8MB of
 video
 RAM](http://blogs.msdn.com/virtual_pc_guy/archive/2005/11/21/494961.aspx)
+
 - apparently not enough to get a DVD to play, at least for me.
 
  See, I installed Windows XP Media Center Edition 2005 on a Virtual PC

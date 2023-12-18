@@ -21,9 +21,9 @@ concept of a "ruleset").
 
 So here's what I want:
 
--   I want to run FxCop in continuous integration.
--   I don't want to have to install Visual Studio on the build server.
--   I want to be able to run analysis as a big batch job at the end
+- I want to run FxCop in continuous integration.
+- I don't want to have to install Visual Studio on the build server.
+- I want to be able to run analysis as a big batch job at the end
     rather than one project/solution at a time during the build process.
     (That way I can also potentially run it asynchronously with other
     analysis.)
@@ -43,14 +43,14 @@ distributing it, you just want to run it. YMMV. I'm no lawyer.)
 It used to be part of the FxCop project file, but they changed it up a
 bit. To get a RuleSet:
 
-1.  Create a new throwaway project in Visual Studio.
-2.  Right-click on the project and select "Properties."
-3.  On the left side of the properties window, select "Code Analysis."
-4.  You should see a "Rule Set" area with a dropdown box marked "Run
+1. Create a new throwaway project in Visual Studio.
+2. Right-click on the project and select "Properties."
+3. On the left side of the properties window, select "Code Analysis."
+4. You should see a "Rule Set" area with a dropdown box marked "Run
     this rule set." Select one of the pre-defined rule sets to start
     with and click "Open."
-5.  Make changes to the rule set. Deselect rules you want run, etc.
-6.  Select File -\> Save As... and save the modified rule set somewhere
+5. Make changes to the rule set. Deselect rules you want run, etc.
+6. Select File -\> Save As... and save the modified rule set somewhere
     you can get it later.
 
 **Put the RuleSet along with your build scripts.** The build script
@@ -94,11 +94,11 @@ list](/archive/2008/06/19/dynamic-fxcop-dependency-list-using-msbuild.aspx),
 you have to do some updates. I'll enumerate them first, then I'll show
 you my FxCop project file.
 
--   Change your `PlatformAssembliesLocation` to point to the .NET 4.0
+- Change your `PlatformAssembliesLocation` to point to the .NET 4.0
     install location.
--   Remove the `TargetFrameworkVersion` node. (There's no explicit .NET
+- Remove the `TargetFrameworkVersion` node. (There's no explicit .NET
     4 target it seems, so omitting it will automatically target .NET 4.)
--   Update the `Rules/RuleFiles` element to contain a list of all of the
+- Update the `Rules/RuleFiles` element to contain a list of all of the
     assemblies with rules in them, and make sure `AllRulesEnabled` on
     each is set to "True." You'll disable rules using your RuleSet.
 

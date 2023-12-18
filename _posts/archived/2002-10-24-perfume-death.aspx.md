@@ -17,6 +17,7 @@ that in perfume, "more" is not always "better.")
 
  My cubicle sits adjacent to the local meeting area. We don't have a
 conference room in our general location, it's more of an open air affair
+
 - a table with a bunch of chairs. Convenient when I have a meeting to
 attend; decidedly *inconvenient* when I'm trying to work and there's a
 meeting going on.

@@ -19,7 +19,7 @@ there.)
 
 We stayed at the MGM Grand and the night we got there we went to
 [KA](http://www.cirquedusoleil.com/Cirquedusoleil/ka/).  It's the second
-time I've seen that show, but it was just as spectacular as the first. 
+time I've seen that show, but it was just as spectacular as the first.
 Once again, front row center tickets, and well worth the price of
 admission.
 
@@ -53,4 +53,3 @@ To close - a picture of me and my parents outside the Treasure Island:
 
 ![Dad, Travis, and Mom outside the Treasure
 Island]({{ site.url }}/images/20071030vegasfamily.jpg)
-

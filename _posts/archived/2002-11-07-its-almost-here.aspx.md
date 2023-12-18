@@ -17,7 +17,7 @@ tags: [gaming,playstation]
 | Service Type:         | 2ND DAY AIR              |
 | Weight:               | 3.00 Lbs                 |
 
-**PACKAGE PROGRESS**
+Package Progress:
 
 | Date | Time | Location | Activity |
 | --- | --- | --- | --- |
@@ -32,4 +32,3 @@ tags: [gaming,playstation]
 | | 10:35 A.M. | US | BILLING INFORMATION RECEIVED |
 
 Tracking results provided by UPS: Nov 7, 2002 2:03 P.M. Eastern Time (USA)
-

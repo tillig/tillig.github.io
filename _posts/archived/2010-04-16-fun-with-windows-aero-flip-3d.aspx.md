@@ -90,4 +90,3 @@ way it does with the keyboard so Windows wasn't handling the key.
 Regardless, I learned a lot about some long-time Windows features and it
 looks like it could be useful in other situations. Hopefully it helps
 you, too.
-

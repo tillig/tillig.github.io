@@ -80,4 +80,3 @@ internet and into a mediocre pair of headphones... I don't think the
 Bluetooth portion of things is that noticeable. When there's a gap
 between songs or a really quiet section of a song, I do hear a low-level
 "buzzing" background noise. But for what I'm doing... it's good enough.
-

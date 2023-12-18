@@ -132,6 +132,7 @@ out, it wouldn't make a difference to the plot. Sort of like they were
 "placeholders" or something. There were some *very* interesting
 characters, but they just didn't play any *role*. For example, the
 [Monica Bellucci](http://us.imdb.com/Name?Bellucci,%20Monica) character
+
 - beautiful lady, but really didn't serve any purpose. There was a
 German guy, Monica Bellucci's husband, who was so extraneous that not
 only do I not remember his name, but the only thing I can classify him

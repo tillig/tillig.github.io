@@ -35,7 +35,6 @@ upload thing is an idea that shouldn't be missed.
  Anyway, it sucks when someone steals your idea, so I hope things pan
 out for everyone involved.
 
-
  Original entry...
 
  My friend [John](http://www.johnbatdorf.net/blog/) just sent me to my

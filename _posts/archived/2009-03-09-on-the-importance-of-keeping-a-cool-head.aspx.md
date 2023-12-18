@@ -43,4 +43,3 @@ situations.
 
 I think it's time for me to put the fire in my hair out, step back, take
 a breath, and *solve* some problems.
-

@@ -27,4 +27,3 @@ gather supplies and taking up residence in the papasan chair in the
 corner while I dutifully enter comics on the site.
 
 I think this is what Sundays are meant for.
-

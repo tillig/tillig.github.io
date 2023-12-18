@@ -18,6 +18,7 @@ the Roomba remains.
 
  I decided that if it wasn't going to vacuum any more, it needed to be
 speedy. Maybe I could take it one step closer to Nuttba? "Raceba" maybe
+
 - race it around the place?
 
  The endgame: make Roomba a remote controlled beast.
@@ -144,6 +145,7 @@ boxes]({{ site.url }}/images/20050713nuttba014re3.jpg)
  Disconnect the bumper spring arms from the main board, then remove the
 main board from the Roomba by unscrewing the little retaining brackets
 on either side. Use a Dremel tool to cut the two ends off the main board
+
 - just enough to leave the black plastic boxes on each side. You don't
 need the middle of the board, just those ends. Hot glue the two ends
 back into their original positions and replace the retaining brackets.
@@ -220,4 +222,3 @@ go!]({{ site.url }}/images/20050713nuttba023ef9.jpg)
  I took this thing to work and we had a blast with it. I think I'm going
 to put one of those orange kid bike flags on it so I can see where it is
 over the cube walls.
-

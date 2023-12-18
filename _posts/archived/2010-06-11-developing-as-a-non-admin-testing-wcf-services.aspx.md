@@ -25,9 +25,9 @@ how to grant the user the rights to use that URL.
 
 There is a special temporary URL base that anyone can use. Instead of
 starting up your service on an arbitrary port or URL like
-"http://localhost:1234/ServiceUnderTest" **try putting the test service
-under "http://localhost:80/Temporary\_Listen\_Addresses/"** like
-"http://localhost:80/Temporary\_Listen\_Addresses/ServiceUnderTest". You
+"<http://localhost:1234/ServiceUnderTest>" **try putting the test service
+under "<http://localhost:80/Temporary\_Listen\_Addresses/>"** like
+"<http://localhost:80/Temporary\_Listen\_Addresses/ServiceUnderTest>". You
 won't get prompted for credentials and things will run just fine on your
 local machine without having to grant your developer user any additional
 permissions.

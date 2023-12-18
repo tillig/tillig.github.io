@@ -4,12 +4,13 @@ title: "Programming Projects Piling Up"
 date: 2004-08-26 -0800
 comments: true
 disqus_identifier: 647
-tags: [personal,net]
+tags: [personal,dotnet]
 ---
 So I'm coming up with a list of all of the various programming projects
 I want to do and I'm finding that there's really just no shortage. So
 far, the top three are:
-1.  **Add 'Send To' to Solvent**: I want to add the Windows Explorer
+
+1. **Add 'Send To' to Solvent**: I want to add the Windows Explorer
     'Send To' menu to my add-in,
     [Solvent](/archive/2004/06/25/solvent-power-toys-for-visual-studio-.net.aspx).
     I have the part that builds the UI for the context menus done, I
@@ -20,7 +21,7 @@ far, the top three are:
     and that compiles warning-free (that DLL needs to be [converted to
     mixed
     mode](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vcmex/html/vcconconvertingmanagedextensionsforcprojectsfrompureintermediatelanguagetomixedmode.asp)).
-2.  **Remove Solution From VSS**: It turns out there's [a very manual
+2. **Remove Solution From VSS**: It turns out there's [a very manual
     process](http://www.knowdotnet.com/articles/removefromsourcesafe.html)
     if you want to remove solutions and projects from Visual SourceSafe.
     You have to delete certain files, you have to remove certain
@@ -29,7 +30,7 @@ far, the top three are:
     it and all contained projects from VSS (not actually deleting them
     from the VSS database, just removing references to VSS from the
     local copy).
-3.  **POP3 Proxy via Web Service**: To get around annoying firewall
+3. **POP3 Proxy via Web Service**: To get around annoying firewall
     constraints, I need a two-part solution: first, a web service that
     can take incoming POP commands and proxy them to a real POP server,
     then return the results; second, a client that acts like a POP
@@ -38,7 +39,6 @@ far, the top three are:
     POP-based mail program to get your email from, say, work, where they
     don't allow POP through the firewall but have no restrictions on web
     access.
-
 
  I've been working on that Solvent issue for a while now. I've learned
 (and, in many cases, re-learned) way too much about C++ while doing it,

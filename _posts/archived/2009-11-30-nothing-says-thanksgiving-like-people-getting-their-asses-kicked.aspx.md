@@ -18,12 +18,12 @@ podcast](http://www.howstuffworks.com/stuff-you-should-know-podcast.htm)
 during "Listener Mail" time because of my turkey loathing. I usually end
 up in one of two situations, neither of which are good:
 
-1.  **Eat only mashed potatoes and rolls for dinner.** Maybe sweet
+1. **Eat only mashed potatoes and rolls for dinner.** Maybe sweet
     potatoes if there are some, but generally, the potatoes and rolls
     are the only bits of the traditional Thanksgiving dinner that are
     remotely palatable to me. This isn't a good dinner and it's not
     super tasty.
-2.  **Eat a one-off meal totally different from everyone else.** This is
+2. **Eat a one-off meal totally different from everyone else.** This is
     bad in a different way. It means I'm eating something I like, but it
     also means I get to - yet again, and many times to the same people -
     explain *why* I'm eating something different. Not just a pain in the
@@ -61,4 +61,3 @@ The rest of the long weekend was spent playing a little Xbox 360,
 getting stuff done around the house, and generally relaxing, which
 always makes for a nice time. It looks like next weekend we'll be
 decorating the house for Christmas, which should be fun.
-

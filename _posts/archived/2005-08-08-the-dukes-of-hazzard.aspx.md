@@ -22,18 +22,17 @@ it's a great, fun show, but a movie?
 
  Again, keep in mind that a Dukes movie has to address certain points:
 
--   Boss Hogg is a rich, greedy asshole
--   Sheriff Coltrane is Boss Hogg's pawn and doesn't actually uphold any
+- Boss Hogg is a rich, greedy asshole
+- Sheriff Coltrane is Boss Hogg's pawn and doesn't actually uphold any
     laws
--   Cooter fixes the General Lee
--   Fight breaks out at the Boar's Nest
--   Daisy looks hot and kicks someone's ass
--   Poorly conceived jailbreak
--   Car chases, several jumps
--   Something goes down involving Uncle Jesse
--   Random freeze-frame in the middle of a climactic moment with the
+- Cooter fixes the General Lee
+- Fight breaks out at the Boar's Nest
+- Daisy looks hot and kicks someone's ass
+- Poorly conceived jailbreak
+- Car chases, several jumps
+- Something goes down involving Uncle Jesse
+- Random freeze-frame in the middle of a climactic moment with the
     narrator saying something that would lead you into commercial
-
 
  *All* points were addressed, and the cast did an excellent job. I
 particularly loved [Burt Reynolds](http://www.imdb.com/name/nm0000608/)

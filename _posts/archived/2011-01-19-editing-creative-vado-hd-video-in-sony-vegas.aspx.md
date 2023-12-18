@@ -80,12 +80,12 @@ At least they're aware of it.
 In the suggested forum link (and in other forums), people have arrived
 at basically three solutions:
 
-1.  Convert the Vado HD file to another format that Vegas understands
+1. Convert the Vado HD file to another format that Vegas understands
     and drop the converted file in.
-2.  Split the audio and video in the Vado HD file into separate files.
+2. Split the audio and video in the Vado HD file into separate files.
     Convert the video part but leave the audio alone. Add the two
     separately into Vegas.
-3.  Install x264vfw. That fixes it for Vegas 9 but not Vegas 10.
+3. Install x264vfw. That fixes it for Vegas 9 but not Vegas 10.
 
 My solution went with option 1 - convert the Vado HD file to another
 format that Vegas understands. I use Windows Live Movie Maker (since
@@ -95,11 +95,11 @@ In Windows Live Movie Maker, create a new custom setting for videos. Use
 the following values, which will work for converting the high quality
 Vado HD files into something with no noticeable quality loss:
 
--   Width: 1280
--   Height: 720
--   Bit rate: 8500
--   Frame rate: 30
--   Audio format: 192kbps, 48kHz, stereo
+- Width: 1280
+- Height: 720
+- Bit rate: 8500
+- Frame rate: 30
+- Audio format: 192kbps, 48kHz, stereo
 
 Drop your movie into the Windows Live Movie Maker timeline.
 
@@ -109,4 +109,3 @@ Import the new/converted movie into Vegas.
 
 Done and done. Not perfect, but better than nothing. Hopefully this gets
 addressed soon.
-

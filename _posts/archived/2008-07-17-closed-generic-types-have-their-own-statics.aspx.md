@@ -29,7 +29,7 @@ Console.WriteLine("Foo<int>: {0}", Foo<int>.StaticValue);
 
 I bet you can guess what the output is.
 
-```
+```text
 Foo<string>: Unset.
 Foo<int>: Unset.
 Foo<string>: String value.

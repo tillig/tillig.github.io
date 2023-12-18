@@ -30,4 +30,3 @@ general purpose module at the cost of increased development and testing
 or I can narrow the scope to my specific case and reduce the set of
 customers that would find it useful.  Ah, isn't that just the typical
 development dilemma?
-

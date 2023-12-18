@@ -20,6 +20,7 @@ Trick-or-Treaters]({{ site.url }}/images/20091031trickortreaters.png)
 And the cumulative data from this year and the other years we've
 tracked:
 
+<!--markdownlint-disable MD033 -->
 <table>
     <thead>
         <tr>
@@ -82,6 +83,7 @@ tracked:
         </tr>
     </tfoot>
 </table>
+<!--markdownlint-enable MD033 -->
 
 Halloween was on a Saturday this year so we prepared for this number of
 kids by getting two giant bags of candy at Costco. We did think there'd
@@ -115,4 +117,3 @@ my face because she thought we could see her eyes through the mask. You
 couldn't - it was total blackout from outside the mask. Wow, did they
 get us. Not sure we'll be able to get 'em back for that, but we owe them
 a big one now.
-

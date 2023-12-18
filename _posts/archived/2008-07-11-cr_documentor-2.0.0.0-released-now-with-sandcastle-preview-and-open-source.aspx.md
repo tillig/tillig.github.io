@@ -15,15 +15,15 @@ download**](http://code.google.com/p/cr-documentor/).
 
 Three major things to report in this release:
 
-1.  **All reported bugs have been fixed.** If you mailed me or left a
+1. **All reported bugs have been fixed.** If you mailed me or left a
     comment about a bug, it should be resolved in this release. While
     there are [some known
     issues](http://code.google.com/p/cr-documentor/wiki/KnownIssues),
     things should render right and it should behave itself reasonably.
-2.  **Sandcastle "Prototype" preview style is available.** You can
+2. **Sandcastle "Prototype" preview style is available.** You can
     choose between the classic NDoc preview style or the new Sandcastle
     "Prototype" style.
-3.  **The plugin is now open source.** I've [created a new home for the
+3. **The plugin is now open source.** I've [created a new home for the
     plugin on Google Code](http://code.google.com/p/cr-documentor/) and
     have released it under the Apache 2.0 license. I'd love to get some
     help and contributions on it, but even if you're just curious about
@@ -33,4 +33,3 @@ All the info - FAQ, known issues, etc. - is all on [the new
 CR_Documentor site at Google
 Code](http://code.google.com/p/cr-documentor/), as is the download. Head
 on over and check it out!
-

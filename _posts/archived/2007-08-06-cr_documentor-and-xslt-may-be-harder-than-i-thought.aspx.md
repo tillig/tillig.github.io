@@ -19,13 +19,13 @@ Not so much.
 I tried a simple test using the NDoc XSLT and it turns out that I have a
 few stumbling blocks.
 
--   **The input XML is complex.**  The format NDoc expects the XML to be
+- **The input XML is complex.**  The format NDoc expects the XML to be
     in prior to executing the transformation is pretty complex.  That's
     not really a problem in a post-build timeframe where you're not
     looking for real-time changes, but just creating the correct XML
     hierarchy is a pretty big task, let alone then getting it through
     the transform engine.
--   **Everything is relational.**  There are a lot of things in the NDoc
+- **Everything is relational.**  There are a lot of things in the NDoc
     XSLT that assume, for example, that you've got everything you need
     to document all in one file, so there are relational things going
     on.  For example, when you generate the documentation for a method,
@@ -34,7 +34,7 @@ few stumbling blocks.
     and everything.  To avoid setting up bad links, the XML that's
     generated gets heavily pre-processed.  Again, not something that can
     readily happen real-time.
--   **Much is assumed to be in the filesystem.**  Temporary files, the
+- **Much is assumed to be in the filesystem.**  Temporary files, the
     XSLT, images, script... there's a lot that the XSLT assumes is in
     specific spots in the filesystem, which means that I couldn't use
     the stylesheets as-is anyway; I'd have to heavily massage it to get

@@ -26,4 +26,3 @@ table]({{ site.url }}/images/20030814tubtable1.jpg)
  Here's another angle so you can see how truly huge she is.
  ![Tub on the table - another
 angle]({{ site.url }}/images/20030814tubtable2.jpg)
-

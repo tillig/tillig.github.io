@@ -28,31 +28,31 @@ _So why get expansion packs?_
 
 The packs Jenn and I have (after getting some for Christmas and grabbing a couple of extras) are:
 
-[_Portal_ level pack](http://www.amazon.com/gp/product/B00ZGDSG0W/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00ZGDSG0W&linkCode=as2&tag=mhsvortex&linkId=ZJ44VCRJFNOZRP6N)  
+[_Portal_ level pack](http://www.amazon.com/gp/product/B00ZGDSG0W/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00ZGDSG0W&linkCode=as2&tag=mhsvortex&linkId=ZJ44VCRJFNOZRP6N)
 [![Portal level pack](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ZGDSG0W&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mhsvortex)](http://www.amazon.com/gp/product/B00ZGDSG0W/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00ZGDSG0W&linkCode=as2&tag=mhsvortex&linkId=ZJ44VCRJFNOZRP6N)
 
-[_Back to the Future_ level pack](http://www.amazon.com/gp/product/B00VMB5VB4/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB5VB4&linkCode=as2&tag=mhsvortex&linkId=752B47S4BP2B3L6H)  
+[_Back to the Future_ level pack](http://www.amazon.com/gp/product/B00VMB5VB4/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB5VB4&linkCode=as2&tag=mhsvortex&linkId=752B47S4BP2B3L6H)
 [![Back to the Future level pack](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VMB5VB4&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mhsvortex)](http://www.amazon.com/gp/product/B00VMB5VB4/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB5VB4&linkCode=as2&tag=mhsvortex&linkId=752B47S4BP2B3L6H)
 
-[Emmet fun pack](http://www.amazon.com/gp/product/B00VMB5ZIS/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB5ZIS&linkCode=as2&tag=mhsvortex&linkId=FSSPBVUZHTWHEVJT)  
+[Emmet fun pack](http://www.amazon.com/gp/product/B00VMB5ZIS/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB5ZIS&linkCode=as2&tag=mhsvortex&linkId=FSSPBVUZHTWHEVJT)
 [![Emmet fun pack](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VMB5ZIS&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mhsvortex)](http://www.amazon.com/gp/product/B00VMB5ZIS/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB5ZIS&linkCode=as2&tag=mhsvortex&linkId=FSSPBVUZHTWHEVJT)
 
-[Zane fun pack](http://www.amazon.com/gp/product/B00VMB65AA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB65AA&linkCode=as2&tag=mhsvortex&linkId=BA27QPMGXI4UA5W5)  
+[Zane fun pack](http://www.amazon.com/gp/product/B00VMB65AA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB65AA&linkCode=as2&tag=mhsvortex&linkId=BA27QPMGXI4UA5W5)
 [![Zane fun pack](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VMB65AA&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mhsvortex)](http://www.amazon.com/gp/product/B00VMB65AA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB65AA&linkCode=as2&tag=mhsvortex&linkId=BA27QPMGXI4UA5W5)
 
-[Gollum fun pack](http://www.amazon.com/gp/product/B00VMB5ZU6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB5ZU6&linkCode=as2&tag=mhsvortex&linkId=UZNLSBDOYUMTF6GE)  
+[Gollum fun pack](http://www.amazon.com/gp/product/B00VMB5ZU6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB5ZU6&linkCode=as2&tag=mhsvortex&linkId=UZNLSBDOYUMTF6GE)
 [![Gollum fun pack](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VMB5ZU6&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mhsvortex)](http://www.amazon.com/gp/product/B00VMB5ZU6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB5ZU6&linkCode=as2&tag=mhsvortex&linkId=UZNLSBDOYUMTF6GE)
 
-[Eris fun pack](http://www.amazon.com/gp/product/B00XUYWUL0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00XUYWUL0&linkCode=as2&tag=mhsvortex&linkId=DGHRSC7QLKRIPEZO)  
+[Eris fun pack](http://www.amazon.com/gp/product/B00XUYWUL0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00XUYWUL0&linkCode=as2&tag=mhsvortex&linkId=DGHRSC7QLKRIPEZO)
 [![Eris fun pack](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XUYWUL0&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mhsvortex)](http://www.amazon.com/gp/product/B00XUYWUL0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00XUYWUL0&linkCode=as2&tag=mhsvortex&linkId=DGHRSC7QLKRIPEZO)
 
-[_Wizard of Oz_ Wicked Witch fun pack](http://www.amazon.com/gp/product/B00VMB641A/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB641A&linkCode=as2&tag=mhsvortex&linkId=474H4BND4WHA3FQB)  
+[_Wizard of Oz_ Wicked Witch fun pack](http://www.amazon.com/gp/product/B00VMB641A/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB641A&linkCode=as2&tag=mhsvortex&linkId=474H4BND4WHA3FQB)
 [![Wizard of Oz Wicked Witch fun pack](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VMB641A&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mhsvortex)](http://www.amazon.com/gp/product/B00VMB641A/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB641A&linkCode=as2&tag=mhsvortex&linkId=474H4BND4WHA3FQB)
 
-[_Doctor Who_ level pack](http://www.amazon.com/gp/product/B010R2RHME/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B010R2RHME&linkCode=as2&tag=mhsvortex&linkId=SEAD7VLHKOHKYSMK)  
+[_Doctor Who_ level pack](http://www.amazon.com/gp/product/B010R2RHME/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B010R2RHME&linkCode=as2&tag=mhsvortex&linkId=SEAD7VLHKOHKYSMK)
 [![Doctor Who level pack](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B010R2RHME&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mhsvortex)](http://www.amazon.com/gp/product/B010R2RHME/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B010R2RHME&linkCode=as2&tag=mhsvortex&linkId=SEAD7VLHKOHKYSMK)
 
-[Unikitty fun pack](http://www.amazon.com/gp/product/B00VMB649M/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB649M&linkCode=as2&tag=mhsvortex&linkId=MHTWORKTMHUA6YEI)  
+[Unikitty fun pack](http://www.amazon.com/gp/product/B00VMB649M/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB649M&linkCode=as2&tag=mhsvortex&linkId=MHTWORKTMHUA6YEI)
 [![Unikitty fun pack](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VMB649M&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mhsvortex)](http://www.amazon.com/gp/product/B00VMB649M/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VMB649M&linkCode=as2&tag=mhsvortex&linkId=MHTWORKTMHUA6YEI)
 
 Admittedly, this is a heck of an investment in a game. We're suckers. We know.

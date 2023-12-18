@@ -13,4 +13,3 @@ use this thing to convert a .BAT or .VBS to an
 .EXE](http://renegadetech.blogspot.com/2006/07/how-to-convert-bat-file-or-vbs-file.html)?
 
 Yeah, neither did I.
-

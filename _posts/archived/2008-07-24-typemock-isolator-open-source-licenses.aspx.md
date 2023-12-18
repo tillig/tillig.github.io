@@ -7,15 +7,16 @@ disqus_identifier: 1423
 tags: [dotnet,vs]
 ---
 Just got word from the folks over at [Typemock](http://www.typemock.com)
+
 - if you have an open source project and you want to use Typemock
 Isolator, they're going to be coming out with a new (free) license type
 that allows your open source project to use it. Here's the new licensing
 structure I've seen:
 
--   Commercial - $449 (same as today)
--   Personal - $200 (will include one year maintenance)
--   Open Source Project - Free
--   21-Day Trial - Free
+- Commercial - $449 (same as today)
+- Personal - $200 (will include one year maintenance)
+- Open Source Project - Free
+- 21-Day Trial - Free
 
 And, of course, discounts for upgrades, etc., on the paid licenses.
 

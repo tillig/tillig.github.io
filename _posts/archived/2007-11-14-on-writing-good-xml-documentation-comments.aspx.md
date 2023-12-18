@@ -22,12 +22,12 @@ amazed at how many people don't even know what Reflector is.
 **TL;DR - THE GOLDEN RULES OF DOCUMENTATION** There's a lot here. If you
 don't take anything else away, please at least take these two things:
 
--   **Write like it's MSDN.** After you write the documentation, read it
+- **Write like it's MSDN.** After you write the documentation, read it
     back to yourself, maybe even out loud. Does it sound like something
     you'd read from MSDN? How's the grammar? They have smart people
     writing docs over there - learn from them the same as you "View
     Source" to learn good HTML.
--   **Write like the reader doesn't have the source code.** Write the
+- **Write like the reader doesn't have the source code.** Write the
     doc, then collapse all the method definitions so all you see is XML
     doc. Go get a coffee. Come back. Now read the documentation. Does it
     tell you everything you will need to know to work with the function?
@@ -37,19 +37,19 @@ don't take anything else away, please at least take these two things:
 Given those two rules, here are some tips on writing better XML doc
 comments:
 
-1.  **Think about what you'd like to see and write that.**  I
+1. **Think about what you'd like to see and write that.**  I
     intentionally made this the number one rule because it's the most
     important.  When you're writing your documentation, step outside
     yourself for a minute and think, "If I was handed just this assembly
     and a help doc, and I didn't have access to Reflector or anything
     like that, what sort of documentation would help me to understand
     how to use this code?"  Remember:
-    -   Your users won't necessarily have the source to refer to, and
+    - Your users won't necessarily have the source to refer to, and
         even if they do, you shouldn't force them to resort to that.
-    -   Not everyone knows everything you know about the code.
-    -   The flow of control may not actually be as obvious as you
+    - Not everyone knows everything you know about the code.
+    - The flow of control may not actually be as obvious as you
         think.
-2.  **Learn the markup.**  If you only know about the \<summary/\> tag
+2. **Learn the markup.**  If you only know about the \<summary/\> tag
     that gets put in when you hit `///` (or `'''`, for you VB people),
     you don't know XML doc comments.  [MSDN has the reference for the
     base tag
@@ -58,12 +58,12 @@ comments:
     widely accepted
     extensions](http://issuu.com/pchew/docs/xml_document_guide).
     There's a lot more to comments than the summary.
-3.  **Keep the \<summary/\> short.**  The content in the `<summary/>`
+3. **Keep the \<summary/\> short.**  The content in the `<summary/>`
     and `<param/>` tags shows up in Intellisense in the Visual Studio
     IDE.  Don't write a novel there - one sentence, maybe two tops is
     all you need.  Leave the detailed comments for the `<remarks/>`
     section.
-4.  **Don't explain something in terms of itself.**  The documentation
+4. **Don't explain something in terms of itself.**  The documentation
     is where you should expound on what's going on and, in some cases,
     why.  Say you have a custom "ICoolThing" interface and you implement
     that in a "ReallyCoolThing" class.  A bad `<summary/>` would be, "An
@@ -72,19 +72,19 @@ comments:
     try something like, "Cool thing used to render XML doc comments."
     (Or whatever it's used for.)  Explaining something in terms of
     itself isn't clarifying, it's just redundant.
-5.  **Write in complete sentences...**  Writing code is a very terse
+5. **Write in complete sentences...**  Writing code is a very terse
     experience.  There's a grammar, and it [generally] reads well
     enough,  but it's a different beast than writing documentation.
     Documentation is where you need to describe in full, complete
     sentences and paragraphs what's going on.
-6.  **...But be straightforward and don't go overboard with
+6. **...But be straightforward and don't go overboard with
     verbosity.**  Basically, "know when to say when."  You're not
     writing a legal document.  You're not writing a scientific research
     paper.  (Or maybe you are, but you know what I mean.)  Don't "fluff
     up" your docs with extra language.  Don't over-formalize the
     language.  Make it easy to read, explain what's going on, and call
     it a day.
-7.  **I can has grammarz?**  Use proper spelling, grammar, and
+7. **I can has grammarz?**  Use proper spelling, grammar, and
     punctuation.  If you're not confident in your writing abilities,
     have someone who is good at this proofread for you.  (Or, better
     still, integrate the proofreading into your code review process.
@@ -96,13 +96,13 @@ comments:
     such is done right?)  The only time you can write your docs with bad
     spelling, grammar, and punctuation is if you're writing in
     [LOLCODE](http://lolcode.com/).
-8.  **Read your own documentation.**  Once you've written your docs,
+8. **Read your own documentation.**  Once you've written your docs,
     read them through to see if they make sense.  This sounds like
     common sense, but it's amazing how many times I've seen docs get
     written and the author never actually read through them to see if
     they were intelligible.  Docs aren't a write-only stream - read and
     revise as necessary.
-9.  **Remember that whitespace doesn't render.**  Or at least not like
+9. **Remember that whitespace doesn't render.**  Or at least not like
     you think it does.  Don't forget that you're writing in XML -
     throwing in a standard line break isn't going to actually get you
     onto a new line.  So, for example, this:
@@ -147,13 +147,13 @@ comments:
      `a null reference (Nothing in Visual Basic)`
 
      The recognized words are:
-    -   abstract
-    -   false
-    -   null
-    -   sealed
-    -   static
-    -   true
-    -   virtual
+    - abstract
+    - false
+    - null
+    - sealed
+    - static
+    - true
+    - virtual
 12. **Add valid code samples wherever possible.**  Nothing helps a
     developer like seeing a code snippet.  The key is to not only add
     these snippets where possible (in a nested `<code/>` tag inside the
@@ -185,18 +185,18 @@ comments:
 There are a few tools out there that can help you improve your XML doc
 comment writing experience.  My two favorites are:
 
--   [GhostDoc](http://submain.com/products/ghostdoc.aspx)- Gives you a
+- [GhostDoc](http://submain.com/products/ghostdoc.aspx)- Gives you a
     starting point for writing XML documentation.  Really helpful when
     you're implementing interfaces or overriding methods because it can
     grab the docs from the base method and use that as your starting
     point.
--   [CR_Documentor](http://cr-documentor.googlecode.com) - Shows a
+- [CR_Documentor](http://cr-documentor.googlecode.com) - Shows a
     preview of what your documentation will look like when rendered.
     Also adds some XML documentation templates to the editor context
     menu.
--   [CodeRush
+- [CodeRush
     Templates](/archive/2012/08/08/use-coderush-templates-to-help-write-xml-api-documentation.aspx)
-    - Expand templates to write documentation quickly and consistently.
+  - Expand templates to write documentation quickly and consistently.
 
 **Write the docs you'd like to see.** Start with that, and the rest
 should fall into place for you.

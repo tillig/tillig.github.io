@@ -47,4 +47,3 @@ II]({{ site.url }}/images/20070109legosw2.jpg)](http://www.amazon.com/exec/obido
 together because we are far too competitive, but [this one seems to
 work](http://www.amazon.com/exec/obidos/ASIN/B000G7X0AO/mhsvortex). I
 got it for Jenn for Christmas and it's hella fun.
-

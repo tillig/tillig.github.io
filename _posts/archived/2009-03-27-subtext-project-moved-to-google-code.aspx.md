@@ -12,4 +12,3 @@ migrating over today and the SourceForge project has been marked
 read-only. I'm excited - the interface is so much lighter weight and
 easy to get around in. [Check it
 out!](http://code.google.com/p/subtext/)
-

@@ -4,7 +4,7 @@ title: "A Break Today"
 date: 2003-08-27 -0800
 comments: true
 disqus_identifier: 340
-tags: [sharepoint,personal,net]
+tags: [sharepoint,personal,dotnet]
 ---
 I decided, since I've fought enough with SharePoint Portal Server 2003
 today to last three lifetimes, that, in the immortal words of

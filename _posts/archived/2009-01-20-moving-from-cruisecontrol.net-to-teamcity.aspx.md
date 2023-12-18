@@ -103,6 +103,7 @@ not running FxCop as part of your CI build, that's the easiest way to
 go. If you want to run the FxCop command line, though, and get the
 report into the UI, [you need to use a "service
 message"](http://www.jetbrains.net/confluence/display/TCD4/FxCop_#FxCop_-UsingServiceMessages)
+
 - a message to Console.Out in a special format - to tell TeamCity where
 to get the report.
 
@@ -121,10 +122,10 @@ reporting to show up in the UI, there's a little work to do. [This blog
 entry](http://weblogs.asp.net/lkempe/archive/2008/03/30/integration-of-ncover-into-team-city-for-tech-head-brothers.aspx)
 shows a great in-depth how-to, but the simple version boils down to:
 
-1.  Set up your HTML coverage report (e.g., the output from
+1. Set up your HTML coverage report (e.g., the output from
     NCoverExplorer) to be published as a build artifact (along with your
     binary/compiled output).
-2.  Update your TeamCity main-config.xml file to [include the
+2. Update your TeamCity main-config.xml file to [include the
     report](http://www.jetbrains.net/confluence/display/TCD3/Including+Third-Party+Reports+in+the+Build+Results).
     You'll most likely want to comment out the other code coverage
     related report tabs since you probably won't be using them.
@@ -144,6 +145,7 @@ graph to the build dashboard.
 The MSBuild logic to publish the code coverage overall percentage to
 TeamCity looks like this. Note that in this example, it's assumed that
 the output from NCoverExplorer has been written to "CoverageReport.xml"
+
 - adjust your paths as needed.
 
 ```xml
@@ -172,6 +174,7 @@ happen to be on a mailing alias that was added administratively to the
 notification list. I can't get out of it. In TeamCity, I get to
 configure my personal preferences for my notifications. This can be
 weird for some users who wonder why they're not getting notified anymore
+
 - they need to do the work themselves to subscribe.
 
 **Users need to tie their TeamCity accounts to version control system
@@ -212,9 +215,9 @@ but they don't tell you what to do if port 5222 (the Jabber port) is
 blocked off at your firewall - switch to port 80. Here's what works for
 me:
 
--   Server: talk.google.com
--   Port: 80
--   Server user: our-service-account@gmail.com
+- Server: talk.google.com
+- Port: 80
+- Server user: <our-service-account@gmail.com>
 
 All in all, TeamCity is the advance in the build server that I was
 hoping would come along for CC.NET. It's well worth the time to check

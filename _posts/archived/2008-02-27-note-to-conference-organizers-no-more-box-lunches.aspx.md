@@ -32,22 +32,21 @@ another bag of greasy chips.
 There are ways you can fix this and still keep your precious box lunch.
 Seriously.
 
--   **Stop pre-making the sandwiches**. Put the individually packaged
+- **Stop pre-making the sandwiches**. Put the individually packaged
     ingredients for each sandwich in the box instead so I can assemble
     it myself, ensuring the bread isn't soggy and that I can entirely
     ignore that overripe tomato slice.
--   **Offer the peanut butter and jelly option**. Yeah, I know there are
+- **Offer the peanut butter and jelly option**. Yeah, I know there are
     nut allergy people. I think they can figure out not to eat the PB&J.
--   Actually **ask me what I want** during conference registration. Not
+- Actually **ask me what I want** during conference registration. Not
     just a checkbox for the "vegetarian option," but actually a menu of
     four or five different things you could package up that maybe aren't
     sandwiches. Or let me select which ingredients go on my sandwich
     from the menu. It can't be that hard.
--   **Buffet.**  I get a plate, I walk down the line of available items,
+- **Buffet.**  I get a plate, I walk down the line of available items,
     I pick up what I want. Wow.
--   **Give me the money** you'd have spent on the box lunch **and enough
+- **Give me the money** you'd have spent on the box lunch **and enough
     time to hit the Burger King down the street**. I'll come back
     happier and probably have change left over.
 
 Conference organizers everywhere, heed my call! **No more box lunches!**
-

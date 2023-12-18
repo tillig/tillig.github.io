@@ -22,13 +22,13 @@ car](http://lh4.ggpht.com/_P1NCAbHEm2Q/S9TqAzKAivI/AAAAAAAABfA/wU8weIun1wo/s288/
 We had a good time on the train, but we learned two very important
 things to take forward with us:
 
-1.  **It is not as easy to sleep on a train as you might think.** It
+1. **It is not as easy to sleep on a train as you might think.** It
     sounds relaxing, right? The train will rock you to sleep, you'll be
     like a baby in a cradle. *This is a lie*. Sitting up, yeah, you rock
     to sleep and it's like a long car ride. Laying down, you wake up
     every half hour or so because you feel like you're going to roll
     clean out of bed.
-2.  **It will take a day to get your land legs back.** You know how you
+2. **It will take a day to get your land legs back.** You know how you
     go roller skating and after you take your skates off you walk around
     on solid ground and you still feel like you should be skating? When
     you get off the train after 14 hours, you feel like the ground
@@ -149,8 +149,9 @@ Francisco. Very similar atmosphere, similar kinds of shops, etc.
 The [full picture album is
 here](http://picasaweb.google.com/travis.illig/2010SanFranciscoVacation?feat=directlink):
 
-[![](http://lh6.ggpht.com/_P1NCAbHEm2Q/S9Tp_xo_h9E/AAAAAAAABho/1urYrUMQOcA/s160-c/2010SanFranciscoVacation.jpg)](http://picasaweb.google.com/travis.illig/2010SanFranciscoVacation?feat=embedwebsite)<br />[2010 San Francisco Vacation](http://picasaweb.google.com/travis.illig/2010SanFranciscoVacation?feat=embedwebsite)
+[![2010 San Francisco Vacation](http://lh6.ggpht.com/_P1NCAbHEm2Q/S9Tp_xo_h9E/AAAAAAAABho/1urYrUMQOcA/s160-c/2010SanFranciscoVacation.jpg)](http://picasaweb.google.com/travis.illig/2010SanFranciscoVacation?feat=embedwebsite)
+
+[2010 San Francisco Vacation](http://picasaweb.google.com/travis.illig/2010SanFranciscoVacation?feat=embedwebsite)
 
 Check it out to see more of the trip. We didn't get as many photos this
 time because most of the trip was on video, but you'll get the idea.
-

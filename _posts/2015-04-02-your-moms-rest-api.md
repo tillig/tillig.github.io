@@ -10,7 +10,7 @@ I was browsing around the other day and found your mom's REST API. Naturally, I 
 
 An abbreviated session follows:
 
-```
+```text
 GET /your/mom HTTP/1.1
 
 HTTP/1.1 200 OK

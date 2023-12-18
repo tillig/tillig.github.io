@@ -23,13 +23,13 @@ I called Xbox Support.
 I'll be sending my console in for repairs, this time for a failing DVD
 drive. This is the second bad DVD drive I've had. Let's see...
 
--   [Bad DVD drive in July
+- [Bad DVD drive in July
     2006](/archive/2006/07/24/caketastic-30th.aspx)
--   [Red Ring of Death in April
+- [Red Ring of Death in April
     2007](/archive/2007/04/10/xbox-360-red-ring-of-death.aspx)
--   [Frozen Screen in September
+- [Frozen Screen in September
     2007](/archive/2007/09/21/on-to-xbox-360-number-four.aspx)
--   [Xbox Dasbhoard Update Trashed my Hard Drive in December
+- [Xbox Dasbhoard Update Trashed my Hard Drive in December
     2007](/archive/2008/01/28/status-on-xbox-live-drm-and-dashboard-problems.aspx)
     (didn't require a new Xbox, but still)
 
@@ -39,4 +39,3 @@ The box to ship my console back to them should arrive tomorrow, per the
 UPS site. I'll probably play through the weekend and then send it back.
 It's not unplayable, just super annoying, and I'm *so close* to
 finishing the story missions in *GTA4*.
-

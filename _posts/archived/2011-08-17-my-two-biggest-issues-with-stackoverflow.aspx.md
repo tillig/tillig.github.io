@@ -61,13 +61,13 @@ phrased the titles as questions ("How do I fix a problem with ASP.NET?")
 they're still too broad, so you *have* to go in and read them to figure
 them out. Once you're in there, it's one of three things:
 
--   A "[plz send me the
+- A "[plz send me the
     codez](http://meta.stackoverflow.com/questions/16096/can-we-have-a-plz-send-me-the-codez-flag-for-moderation-editor-attention)"
     question that somehow never gets moderated away, regardless of
     flagging, etc.
--   Something so broad that you should send them an Amazon gift card so
+- Something so broad that you should send them an Amazon gift card so
     they can buy some books and read up.
--   Very specific to a problem in their system, and while they describe
+- Very specific to a problem in their system, and while they describe
     the error that's happening they don't provide any context, code,
     stack trace, or additional data that would possibly be needed to
     assist them.
@@ -84,4 +84,3 @@ quality of what's there that it's hard for me to value the site as a
 resource. I can't be alone here. This makes me wonder if I'm even the
 target audience for StackOverflow. Maybe I'm not. I guess I'll just keep
 checking in to see if it gets better.
-

@@ -56,4 +56,3 @@ Full size door, not so much.
 
 My new door will be here in a couple of weeks. Looking forward to
 getting that installed.
-

@@ -31,4 +31,3 @@ it's any less valid, and, in my opinion, certainly doesn't mean it's
 childish. It's within everyone's rights to choose their situation and
 decide what's best for them regardless of the emotion that may be
 associated with said decision.
-

@@ -22,17 +22,17 @@ DS1010+](/archive/2010/05/20/moving-to-a-synology-ds1010.aspx).
 
 I use the WHS for:
 
--   PC image-based backups
--   General file sharing
--   Image sharing
--   Music sharing (both via file system and [via UPnP using
+- PC image-based backups
+- General file sharing
+- Image sharing
+- Music sharing (both via file system and [via UPnP using
     Asset](/archive/2009/08/11/stream-more-music-from-windows-home-server-with-asset-upnp.aspx)).
--   Windows 8 File History
+- Windows 8 File History
 
 I use the Synology DS1010+ for:
 
--   Storing DVD movie images
--   Serving the MySQL instance for my XBMC machines
+- Storing DVD movie images
+- Serving the MySQL instance for my XBMC machines
 
 Both machines have all drive bays full. The Synology doesn't have enough
 space to hold all the stuff I have on the Home Server and the Home
@@ -40,19 +40,19 @@ Server can't hold all the stuff on the Synology. We're talking about
 terabytes on both machines. Keeping that in mind, if I were to want to
 change the OS on the WHS it'd require me to...
 
--   Move everything off the WHS to... somewhere.
--   Reformat and upgrade the OS on the HP MediaSmart box, which is older
+- Move everything off the WHS to... somewhere.
+- Reformat and upgrade the OS on the HP MediaSmart box, which is older
     and not super-powerful. It's also headless (no video card and no DVD
     drive) so... that's pretty limiting. If there's any troubleshooting to
     do during the installation, that's going to be painful.
--   Hope against hope that the new OS won't tank the HP box into
+- Hope against hope that the new OS won't tank the HP box into
     non-performance and that all the drivers are properly found.
--   If I go with Windows Server 2012 Essentials, I get to set up a
+- If I go with Windows Server 2012 Essentials, I get to set up a
     domain for my home computers and go around joining everything so
     they can be backed up. If I go with WHS 2011, I will get the same
     backup functionality I'm used to. If I go with something else... I get
     to figure out my backup solution.
--   Move everything back to the WHS that was previously there and set
+- Move everything back to the WHS that was previously there and set
     all that junk up again.
 
 If, instead, I moved everything to the Synology I'd need to upgrade all
@@ -81,4 +81,3 @@ figure out the backup strategy; probably something like Acronis
 TrueImage.
 
 In the meantime... the plan is "no action."
-

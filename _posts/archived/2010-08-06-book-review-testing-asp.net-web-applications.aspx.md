@@ -22,7 +22,7 @@ recommending it to my QA friends this year.**
 I'll run down the content chapter by chapter so you can see what's
 inside and decide for yourself.
 
-**Chapter 1: Preliminary Concerns**
+## Chapter 1: Preliminary Concerns
 
 The first chapter gives a nice, concise history of testing tools
 starting from sUnit (Smalltalk unit testing) and bringing us through
@@ -33,7 +33,7 @@ everyone's on the same page, talking about the same thing. Finally,
 there's a good test-related "mythbusters" section you can use to get
 testing moving forward in your organization.
 
-**Chapter 2: Design and Testability**
+## Chapter 2: Design and Testability
 
 This chapter starts off with a summary overview of what makes a good
 unit test. I agreed with some points and disagreed with others, but the
@@ -53,7 +53,7 @@ place, like they wanted to relate the refactoring examples to how easy
 refactoring can be if you design your code well, but it really felt
 bolted on and distracting.
 
-**Chapter 3: Unit Testing and Test Driven Development**
+## Chapter 3: Unit Testing and Test Driven Development
 
 The chapter on unit testing and TDD should have been one of the best
 chapters, but it wasn't as helpful as I'd hoped it would be. Since this
@@ -83,14 +83,14 @@ they also introduce a lot of patterns and concepts very quickly with
 little ceremony (e.g., the repository pattern, NHibernate usage, etc.)
 and that's a lot to take in, so be patient.
 
-**Chapter 4: Integration Testing**
+## Chapter 4: Integration Testing
 
 This chapter is a pretty short chapter and talks about the differences
 between unit testing and integration testing, then runs through adding
 some integration tests to the sample application so you can get a feel
 for doing that.
 
-**Chapter 5: Automated User Interface Testing**
+## Chapter 5: Automated User Interface Testing
 
 This chapter breaks down the different types of functional testing and
 talks about the benefits, drawbacks, and challenges of automating the
@@ -112,7 +112,7 @@ automated UI testing you do need some test data to populate the system
 with, but it's really confusing and distracting plopped right in the
 middle of everything.
 
-**Chapter 6: Acceptance Testing**
+## Chapter 6: Acceptance Testing
 
 The chapter on acceptance testing starts off with some good terminology,
 but then dives into Scrum project management methodology. It feels like
@@ -137,7 +137,7 @@ time better spent getting them to write use case documents and having
 the developers write WatiN tests to associate with those documents. (Of
 course, in thinking that, maybe I missed the point.)
 
-**Chapter 7: Manual Testing**
+## Chapter 7: Manual Testing
 
 This chapter talks about the things to look for in manual testing -
 usability, documentation, error messages - as well as scenarios you
@@ -148,7 +148,7 @@ but it's nice to formalize some of this stuff, or at least give teams a
 place to start discussing. "Manual testing" isn't just "jump in and
 start clicking buttons."
 
-**Chapter 8: Performance Testing**
+## Chapter 8: Performance Testing
 
 **Of all the chapters in the book, this one was my favorite.** It starts
 off by giving a high-level description of what performance testing is
@@ -171,7 +171,7 @@ Finally, they correlate performance testing with capacity planning so
 you can take the numbers you record and start figuring out what kind of
 resources you'll need to address your site's target audience.
 
-**Chapter 9: Accessibility Testing**
+## Chapter 9: Accessibility Testing
 
 Right after the chapter on performance testing, this was my next
 favorite chapter. There's a nice "accessibility mythbusters" section to
@@ -199,7 +199,7 @@ good list of tools you can use to help you test your site's
 accessibility and they do a bit of a walkthrough using these tools to
 test their sample web site.
 
-**Chapter 10: Security Testing**
+## Chapter 10: Security Testing
 
 This chapter starts out explaining some common security terminology and
 then dives into selling you the benefits of security testing. It's
@@ -225,7 +225,7 @@ isn't really a description of them or any example usage, just a list of
 URL links. This felt like a bit of missed opportunity here, or maybe a
 last-minute addition.
 
-**General Thoughts**
+## General Thoughts
 
 There were a ton of spelling and grammar mistakes through the book,
 enough that it was a little distracting. I sort of wondered if the
@@ -241,7 +241,7 @@ Finally, there were lots of good tool lists, good links to related
 sites... it'd have been nice to see those recapped in appendices at the
 end so you don't have to hunt them down later in the middle of the book.
 
-**In the end? Recommended.**
+## In the End: Recommended
 
 Despite some of the rough edges, I haven't seen a book before that
 captures all of this information in one place. I know it's earned a

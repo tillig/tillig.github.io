@@ -15,24 +15,24 @@ and I think I'm onto something.
 
 When you get online with the Xbox 360, it's usually like this:
 
-1.  Turn on Xbox 360.
-2.  Sign in with profile.
-3.  Dashboard refreshes and you're logged in.
-4.  About 10 seconds later an alert pops up telling you how many friends
+1. Turn on Xbox 360.
+2. Sign in with profile.
+3. Dashboard refreshes and you're logged in.
+4. About 10 seconds later an alert pops up telling you how many friends
     you have online.
 
 My usual Netflix experience is:
 
-1.  Turn on Xbox 360.
-2.  Sign in with profile.
-3.  Dashboard refreshes and I'm logged in.
-4.  Scroll up to find Netflix app.
-5.  Start Netflix app.
-6.  While Netflix app is loading, the alert pops up telling me how many
+1. Turn on Xbox 360.
+2. Sign in with profile.
+3. Dashboard refreshes and I'm logged in.
+4. Scroll up to find Netflix app.
+5. Start Netflix app.
+6. While Netflix app is loading, the alert pops up telling me how many
     friends are online.
-7.  Netflix app takes several seconds to load.
-8.  Select a show, start playing.
-9.  Connection speed determination takes around 15 seconds.
+7. Netflix app takes several seconds to load.
+8. Select a show, start playing.
+9. Connection speed determination takes around 15 seconds.
 10. Connection speed is determined to be one bar.
 11. Alert pops up saying there isn't enough bandwidth to stream.
 12. Exit the show, select the show, repeat from step 8 until I can get a
@@ -48,16 +48,16 @@ Sometimes I can't get anything over two bars period.
 However,**I noticed I generally didn't have this issue if I was playing
 a game before I tried Netflix.** That is:
 
-1.  Turn on Xbox 360.
-2.  Sign in with profile.
-3.  Dashboard refreshes and I'm logged in.
-4.  Start game.
-5.  While game is loading, the alert pops up telling me how many friends
+1. Turn on Xbox 360.
+2. Sign in with profile.
+3. Dashboard refreshes and I'm logged in.
+4. Start game.
+5. While game is loading, the alert pops up telling me how many friends
     are online.
-6.  Play, then exit game.
-7.  Scroll up to find Netflix app.
-8.  Start Netflix app.
-9.  Netflix app takes several seconds to load.
+6. Play, then exit game.
+7. Scroll up to find Netflix app.
+8. Start Netflix app.
+9. Netflix app takes several seconds to load.
 10. Select a show, start playing.
 11. Connection speed determination takes around 5 seconds.
 12. Connection speed is determined to be full HD.
@@ -67,15 +67,15 @@ a game before I tried Netflix.** That is:
 So, after running through my usual frustrating "can't get a signal"
 process last night, I thought I'd run a test:
 
-1.  Turn on Xbox 360.
-2.  Sign in with profile.
-3.  Dashboard refreshes and I'm logged in.
-4.  Sit and wait for the alert to pop up telling me how many friends are
+1. Turn on Xbox 360.
+2. Sign in with profile.
+3. Dashboard refreshes and I'm logged in.
+4. Sit and wait for the alert to pop up telling me how many friends are
     online.
-5.  Scroll up to find Netflix app.
-6.  Start Netflix app.
-7.  Netflix app takes several seconds to load.
-8.  Select a show, start playing. See what happens.
+5. Scroll up to find Netflix app.
+6. Start Netflix app.
+7. Netflix app takes several seconds to load.
+8. Select a show, start playing. See what happens.
 
 What I was doing was waiting for things to finish "settling down" after
 logging in. I'm not sure how else to quantify that, just waiting for
@@ -91,11 +91,11 @@ stream, no problems.**
 
 My current hypothesis:
 
--   There's something going on in the background when you first sign on
+- There's something going on in the background when you first sign on
     to Xbox Live that causes the Netflix app to not get all the
     bandwidth it should. If you wait for that to finish, Netflix will
     treat you well.
--   After finishing a show, there's something going on in the background
+- After finishing a show, there's something going on in the background
     on the network, possibly some sort of network connection being reset
     or resources being released. If you give it a few seconds to let
     that work, Netflix will treat you well.
@@ -112,4 +112,3 @@ Doesn't cost you anything but a few seconds.
 **UPDATE 12/22/2010**: This appears to only happen when using a wireless
 network. I ran ethernet cable to my Xbox a few months later and didn't
 have any problems after that.
-

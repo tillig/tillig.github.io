@@ -45,7 +45,6 @@ Community Plugins
 project**](http://code.google.com/p/dxcorecommunityplugins/)**. Head
 over there to get the latest and read more!**
 
-
  **Version History:**
  **1.0.0.0830**: First release.
  **1.1.0.1012**: Added ability to provide Delimiter parameter to join

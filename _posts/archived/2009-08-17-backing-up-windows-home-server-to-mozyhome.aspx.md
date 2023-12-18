@@ -89,48 +89,48 @@ pretty simple.
 
 **First, some startup costs.** Get yourself...
 
--  **An external USB drive big enough to hold the data you want to back up.** It doesn't have to be the same size as your full Home Server storage; it just has to be enough to hold the important stuff you want to have backed up. You may not need everything on your Windows Home Server backed up, and in some cases you're probably using the file doubling offered by WHS, so you need to do some calculations on space. For example, you probably don't need to back up your recorded TV episodes. **I picked up**[**a 1TB USB drive for $93 from NewEgg**](http://www.newegg.com/Product/Product.aspx?Item=N82E16822101121).
+- **An external USB drive big enough to hold the data you want to back up.** It doesn't have to be the same size as your full Home Server storage; it just has to be enough to hold the important stuff you want to have backed up. You may not need everything on your Windows Home Server backed up, and in some cases you're probably using the file doubling offered by WHS, so you need to do some calculations on space. For example, you probably don't need to back up your recorded TV episodes. **I picked up**[**a 1TB USB drive for $93 from NewEgg**](http://www.newegg.com/Product/Product.aspx?Item=N82E16822101121).
 - **A copy of [Allway Sync](http://www.allwaysync.com/) for $20**. You're going to use that to get your WHS data onto the external drive.
 
 **Now set up the backup:**
 
-1.  Install [Allway Sync](http://www.allwaysync.com/) onto a Windows
+1. Install [Allway Sync](http://www.allwaysync.com/) onto a Windows
     client computer that's generally always on. This will be the
     computer that backs up your WHS data.
-2.  Plug the external drive into that computer.
-3.  Set up Allway Sync to do a one-way sync from your WHS shared folders
+2. Plug the external drive into that computer.
+3. Set up Allway Sync to do a one-way sync from your WHS shared folders
     (the important ones) to the external drive. Make sure you propagate
     deletions so if you delete something from the WHS it'll delete from
     your external drive, and set deleted files to be deleted permanently
     so your recycle bin doesn't fill up. (These options are in the
     Advanced job properties dialog.)
-4.  For each of the Allway Sync jobs you set up (one per shared folder),
+4. For each of the Allway Sync jobs you set up (one per shared folder),
     set them to automatically synchronize on a scheduled basis. This
     will add an entry to the Windows Task Scheduler.
-    1.  Run the sync nightly (or more often, if you like).
-    2.  Make sure to select the "Wake up computer to perform this task"
+    1. Run the sync nightly (or more often, if you like).
+    2. Make sure to select the "Wake up computer to perform this task"
         option so the sync will wake your computer up if it happens to
         have gone to sleep.
 
-5.  Run the sync the first time and verify the results. Look at what got
+5. Run the sync the first time and verify the results. Look at what got
     copied onto the external drive and make sure it's getting everything
     you want.
-6.  Sign up for a [MozyHome](http://mozy.com/home) account. I got the
+6. Sign up for a [MozyHome](http://mozy.com/home) account. I got the
     yearly renewal in case some better backup solution pops up for
     Windows Home Server between now and then.
-7.  Download and install the Mozy software on the computer with the
+7. Download and install the Mozy software on the computer with the
     external drive.
-8.  Set up Mozy to back up the entire external drive. In the advanced
+8. Set up Mozy to back up the entire external drive. In the advanced
     configuration, go to the "File System" tab and select the external
     drive. (If you want to back other stuff up, that's fine, just make
     sure you've got the external drive selected.)
 
 **That's it.** What you've got:
 
--   Nightly (or more frequent) backups to the external drive allow you
+- Nightly (or more frequent) backups to the external drive allow you
     on-site access to things you might have accidentally deleted in the
     last period.
--   Continuous online backup to Mozy ensures you have historical
+- Continuous online backup to Mozy ensures you have historical
     versions of files and things that have been removed from the nightly
     backup. It also ensures that in the event of catastrophe, you have
     things stored elsewhere.
@@ -142,4 +142,3 @@ space - beats the next best thing, KeepVault, by $20 the first year
 (including startup costs) and $133 each subsequent year. It's
 potentially a little convoluted, but for the price and the results, I
 can't complain.
-

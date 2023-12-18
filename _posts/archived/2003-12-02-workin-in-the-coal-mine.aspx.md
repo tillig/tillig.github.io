@@ -26,6 +26,7 @@ working on my own personal code projects, playing with my cat, watching
 movies, playing games, etc.
 
  Being at work, I have more of a sense of dedication to the task at hand
+
 - I'm at work *so I can work*.
 
  I think I solve my problems best in the shower or in the car in the

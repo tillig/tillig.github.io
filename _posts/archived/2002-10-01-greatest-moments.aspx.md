@@ -65,4 +65,3 @@ is waiting for the TV to come in, and the shipment's been delayed... My
 TV is probably sitting on the fucking dock, waiting for some stupid
 contract negotiation or something to complete. I have a mind to go down
 there and start something. **Deliver my TV already.** Damn.
-

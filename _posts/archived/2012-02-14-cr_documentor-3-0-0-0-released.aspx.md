@@ -23,4 +23,3 @@ admittedly haven't tried it on earlier versions.)
 Free, as always, [so go get
 it!](http://code.google.com/p/cr-documentor/downloads/list) And watch
 for the VSIX installer, coming soon!
-

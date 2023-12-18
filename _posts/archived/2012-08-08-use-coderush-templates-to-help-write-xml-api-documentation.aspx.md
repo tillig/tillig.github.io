@@ -34,7 +34,7 @@ You can set up some pretty nice templates for helping you write
 standardized documentation. Here's how.
 
 First, **open up the CodeRush Options window** (`Ctrl+Shift+Alt+O` or
-`DevExpress -> Options `from the Visual Studio menu). On the left side,
+`DevExpress -> Options`from the Visual Studio menu). On the left side,
 in the tree view, expand the "Editor" node and select "Templates."
 
 ![]({{ site.url }}/images/20120808_editortemplates.png)
@@ -88,18 +88,18 @@ you don't want "Null" or "NULL" expanding.
 **The last and most important thing is the context for the expansion.**
 You want your template to only run when:
 
--   The active language is C# (you can set up a similar "Nothing"
+- The active language is C# (you can set up a similar "Nothing"
     expansion for VB, which comes with my template set).
--   There is no selection in the editor.
--   You are typing code (not in the designer).
--   You are working in an XML doc comment (not in executable code).
+- There is no selection in the editor.
+- You are typing code (not in the designer).
+- You are working in an XML doc comment (not in executable code).
 
 To accomplish this, **there are three boxes to check in the context tree
 view** below your macro expansion:
 
--   Editor/Code/InXmlDocComment
--   Editor/Selection/No Selection
--   Language/C#
+- Editor/Code/InXmlDocComment
+- Editor/Selection/No Selection
+- Language/C#
 
 There is a very, very rich context selection mechanism in CodeRush, so I
 won't show you the entire tree view with all of the boxes selected -
@@ -154,38 +154,38 @@ that, you'll see a bunch of templates available to you:
 There is a lot here, so I recommend you explore and see what's there,
 what's useful, etc. Conventions I used in naming templates:
 
--   Documentation blocks/elements are generally prefixed with "d" (for
+- Documentation blocks/elements are generally prefixed with "d" (for
     "documentation").
-    -   "ds" - document \<summary\> content.
-    -   "dx" - document \<exception\> content.
-    -   "dp" - document \<param\> content.
+  - "ds" - document \<summary\> content.
+  - "dx" - document \<exception\> content.
+  - "dp" - document \<param\> content.
 
--   One-liner tags just start with "x" (for XML) because there's no
+- One-liner tags just start with "x" (for XML) because there's no
     content.
--   Keywords that expand are the exact keyword (e.g., "null") so you
+- Keywords that expand are the exact keyword (e.g., "null") so you
     don't have to think about it.
--   List template expansions start with "l".
+- List template expansions start with "l".
 
 **Some particular highlights I use almost daily:**
 
--   `dxargnull` expands to standard
+- `dxargnull` expands to standard
     `<exception type="System.ArgumentNullException">` documentation for
     when a parameter is null including a placeholder for parameter
     reference info.
--   `dxargempty` expands to standard
+- `dxargempty` expands to standard
     `<exception type="System.ArgumentException">` documentation for when
     a parameter is empty including a placeholder for parameter reference
     info.
--   `<see langword="..." />` expansions for all of the standard C#
+- `<see langword="..." />` expansions for all of the standard C#
     language words (null, abstract, true, false, sealed, static,
     virtual) and VB.NET language words (CanOverride, False, MustInherit,
     Nothing, NotInheritable, Shared, True).
--   `xseealsome` expands to a `<seealso cref="..." />` link where the
+- `xseealsome` expands to a `<seealso cref="..." />` link where the
     link destination is the current type you're working on. `xseeme`
     does the same thing, but `<see cref="..." />`
--   `lb` starts you a bullet list with one item.
--   `lt` starts you a table with a header and one item.
--   `li` creates a new list item with both the `<term>` and
+- `lb` starts you a bullet list with one item.
+- `lt` starts you a table with a header and one item.
+- `li` creates a new list item with both the `<term>` and
     `<description>` elements.
 
 Again, you'll only see these things expand in XML API doc comment
@@ -197,19 +197,19 @@ don't want. It should all import into the same folder, so it won't
 
 **Tips for writing your own doc comment templates:**
 
--   **Pick a consistent set of template naming schemes.** I outlined
+- **Pick a consistent set of template naming schemes.** I outlined
     mine, above, but if you don't like that one, pick something
     different. It's good if it's consistent, though, because if you have
     a lot of templates that you don't use daily, it can be easy to
     forget what you have. Consistency means you can possibly "guess" if
     you already have it and you may well be right.
--   **Copy/paste contexts.** Once you have a working template set up,
+- **Copy/paste contexts.** Once you have a working template set up,
     you don't need to always manually check all the boxes to set up the
     context. When you create a new template, right-click on an existing
     working template and select "Copy Context," then right-click on your
     brand new template and select "Paste Context." All the boxes will be
     checked for you.
--   **Pay attention to the little "Command" dropdown beneath the
+- **Pay attention to the little "Command" dropdown beneath the
     "Expansion" box.** It inserts things that can help you out in your
     template. For example, selecting "Caret" in there will place a
     special marker `«Caret»` into your template. After your template

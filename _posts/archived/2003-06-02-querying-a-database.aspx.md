@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 264
 tags: [sql]
 ---
+<!--markdownlint-disable MD036 -->
 I'll post about the weekend shortly, but I thought I'd get the entries
 from my class last Wednesday and Thursday posted up here since people
 might be interested.
@@ -247,4 +248,3 @@ all coming together.
  *2:37p*
 
  I'm outta here! Time for my haircut!
-

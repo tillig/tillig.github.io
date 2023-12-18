@@ -121,9 +121,9 @@ Now you can use that build task along with the MSBuild Community Tasks "FileUpda
 
 Generally what you'll want to do from a process perspective, then, is:
 
-1.  Build and test your project as usual.
-2.  Create a temporary folder to stage your NuGet packages. Copy the .nuspec file in along with the built assemblies, etc. [in the appropriate folder structure](http://docs.nuget.org/docs/creating-packages/creating-and-publishing-a-package).
-3.  Run the file update process outlined above to update the staged .nuspec files.
-4.  Run `nuget pack `on the staged packages to build the final output.
+1. Build and test your project as usual.
+2. Create a temporary folder to stage your NuGet packages. Copy the .nuspec file in along with the built assemblies, etc. [in the appropriate folder structure](http://docs.nuget.org/docs/creating-packages/creating-and-publishing-a-package).
+3. Run the file update process outlined above to update the staged .nuspec files.
+4. Run `nuget pack`on the staged packages to build the final output.
 
 This will ensure the final built NuGet packages all have dependencies set to be the same version you're building and testing against.

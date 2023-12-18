@@ -44,30 +44,26 @@ directly to tell them there's a problem with their knowledge base and it
 needs to be rectified:
 > Hello!
 >
->  I'm trying to search your knowledge base but it tells me to "select a
+> I'm trying to search your knowledge base but it tells me to "select a
 > product from the dropdown box." Problem is, it doesn't POPULATE the
 > dropdown box with any product names, so I CAN'T.
 >
->  Please either fix the selection box or remove the requirement that I
+> Please either fix the selection box or remove the requirement that I
 > select a product.
 >
->  Thanks,
->  -T
-
-
+> Thanks,
+> -T
 
  Pretty reasonable request, right? Here's what I get back:
 > Hi Travis,
 >
->  Thank you for contacting us with your request. Please provide your
+> Thank you for contacting us with your request. Please provide your
 > customer ID so that we may open a technical support call for this
 > issue.
 >
->  Please also include your customer ID in any future correspondence
+> Please also include your customer ID in any future correspondence
 > with the support department as it allows us to track your issues more
 > efficiently.
-
-
 
  What? You want my customer ID and all that because *your site* is
 broken? I don't want you to open a call, I just want your fucking site
@@ -81,10 +77,8 @@ now, and I'm fresh out of patience.
 > don't have the actual customer ID number or product serial info, I'm
 > just an IT guy trying to troubleshoot a potentially related item.
 >
->  Thanks for the lack of help, I'll see if I can get the QA guys to log
+> Thanks for the lack of help, I'll see if I can get the QA guys to log
 > me in on the site with their accounts or something.
-
-
 
  I figured it was over at that point. One of the QA guys logged me in
 and, wonder of wonders, the product selection box populates, things seem
@@ -93,21 +87,19 @@ to magically work. But their tech folks aren't letting up.
 > customer id number so that we can confirm your entitlement to support
 > whether that be information or more in depth technical help.
 >
->  With regards to access to information on the support website you
+> With regards to access to information on the support website you
 > should note the following.
 >
->  In order to log into our site you must first create your own user
+> In order to log into our site you must first create your own user
 > profile. During the registration process we must validate your
 > entitlement to create that profile. One of the ways we do so is by
 > confirming your customer id number, and that, that number is tied to a
 > customer with valid maintenance.
 >
->  Further if you are not listed on our customer database as a bona fide
+> Further if you are not listed on our customer database as a bona fide
 > contact for that customer id, then you will not be able access any of
 > the secure areas of the support website. (from your correspondence it
 > appears that this is the problem you experienced).
-
-
 
  Since when has the knowledge base been a "secure area?" An even better
 question: How come I can get to the "secure area" but have some broken
@@ -125,7 +117,7 @@ my last nerve.
 > product and want to search the KB? Looks to me like I'd STILL be
 > denied, and I wouldn't have a customer number to provide you.
 >
->  Assuming that you don't provide support without qualification, you
+> Assuming that you don't provide support without qualification, you
 > might want to either actively disable the knowledge base search form
 > or put something on the site somewhere so it doesn't just look like
 > you guys messed up when a non-qualified user logs in and tries to
@@ -133,12 +125,10 @@ my last nerve.
 > the option. Instead, I get taunted with a form and end up in a
 > ridiculous email chain like this.
 >
->  Consider me unimpressed. I have since gotten a QA guy to "loan" me an
+> Consider me unimpressed. I have since gotten a QA guy to "loan" me an
 > account so I can actually search the knowledge base, so I suppose the
 > point is moot. I know what recommendation I'll be making if and when
 > they ask me about what software company to go with, though.
-
-
 
  And that's where it stands. Here's a message to all those companies out
 there who require people jump through ridiculous hoops to get

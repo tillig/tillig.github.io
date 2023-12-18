@@ -62,4 +62,3 @@ switching.)
 to rip the disc and play the Handbrake game.**
 
 Way to go, Hollywood. You obviously have it *all figured out*.
-

@@ -23,4 +23,3 @@ mail?"]({{ site.url }}/images/20080117comcastsupport.png)
 
 I didn't end up giving out my password, obviously - they ended up
 "finding a workaround." Hehehehehe...
-

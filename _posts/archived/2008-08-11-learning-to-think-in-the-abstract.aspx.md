@@ -60,4 +60,3 @@ the abstract, and I'm definitely not saying that all senior developers
 (or at least people with a "senior" title) can. What I'm saying is that
 **the ability to think in the abstract is key to being able to step
 beyond simple *coding* and into the world of *development*.**
-

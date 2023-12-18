@@ -94,7 +94,6 @@ method and skip all that. Here's what an NUnit test might look like:
       MockManager.Verify();
     }
 
-
  That's it - when the `DoWork` method calls the factory, it'll return
 the object you set up. No need to dump config to the filesystem,
 over-architect the factory, or dummy up a lot of extra "helper"

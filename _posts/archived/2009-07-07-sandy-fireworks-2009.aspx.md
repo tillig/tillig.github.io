@@ -6,7 +6,8 @@ comments: true
 disqus_identifier: 1547
 tags: [personal,activities]
 ---
-[![](http://lh3.ggpht.com/_P1NCAbHEm2Q/SlIGuJVd-_E/AAAAAAAABEk/LNpTHnIp6Bg/s160-c/2009SandyFireworksShoot.jpg)](http://picasaweb.google.com/travis.illig/2009SandyFireworksShoot?feat=embedwebsite)<br />[2009 Sandy Fireworks Shoot](http://picasaweb.google.com/travis.illig/2009SandyFireworksShoot?feat=embedwebsite)
+[![2009 Sandy Fireworks Shoot](http://lh3.ggpht.com/_P1NCAbHEm2Q/SlIGuJVd-_E/AAAAAAAABEk/LNpTHnIp6Bg/s160-c/2009SandyFireworksShoot.jpg)](http://picasaweb.google.com/travis.illig/2009SandyFireworksShoot?feat=embedwebsite)
+[2009 Sandy Fireworks Shoot](http://picasaweb.google.com/travis.illig/2009SandyFireworksShoot?feat=embedwebsite)
 
 Jenn and I normally go work on a professional fireworks shoot each year,
 but this year was special - we were in charge of our own show in Sandy,

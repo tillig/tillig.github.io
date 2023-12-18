@@ -47,7 +47,9 @@ co-op, which was fun, while Jenn and my mom went shopping.
 
 That was Saturday.
 
-[![](http://ecx.images-amazon.com/images/I/51Piq8g0YBL._SL500_AA300_.jpg)](http://www.amazon.com/dp/B0041I0N9A?tag=mhsvortex)Sunday,
+[![Lego Imperial Shuttle](https://ecx.images-amazon.com/images/I/51Piq8g0YBL._SL500_AA300_.jpg)](http://www.amazon.com/dp/B0041I0N9A?tag=mhsvortex)
+
+Sunday,
 other than the little chores that need to get done because you're lazy
 about them all week, I finally got the opportunity to sit down with my
 new Lego set that I got thanks to the tax return. [It's a big 2503-piece
@@ -74,4 +76,3 @@ happened. We didn't have a saw, we didn't have time, we didn't have
 inclination. Well, now that I have the saw, I know how to use it, and
 I'm already in that DIY mode, I figure it's time. I've got the boards,
 they're painted, they just need to be cut and put up.
-

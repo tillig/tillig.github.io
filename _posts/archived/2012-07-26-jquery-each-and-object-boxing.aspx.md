@@ -64,4 +64,3 @@ $.each(parsed, function(rulename, message){
 
 That way the string value isn't boxed into an object and you won't lose
 the type information.
-

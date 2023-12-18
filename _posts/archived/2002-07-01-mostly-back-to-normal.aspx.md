@@ -42,16 +42,14 @@ Winona, just stop on by my place. I promise Jenn won't mind.
 was double-discount day for employees at [Fred
 Meyer](http://www.fredmeyer.com). I ended up getting:
 
--   [Ferris Bueller's Day
+- [Ferris Bueller's Day
     Off](http://www.amazon.com/exec/obidos/ASIN/B00001MXXH/mhsvortex)
--   [The
+- [The
     Goonies](http://www.amazon.com/exec/obidos/ASIN/B00005J6UP/mhsvortex)
--   [The Long Kiss
+- [The Long Kiss
     Goodnight](http://www.amazon.com/exec/obidos/ASIN/0800195175/mhsvortex)
--   [Say
+- [Say
     Anything](http://www.amazon.com/exec/obidos/ASIN/B00003CXCI/mhsvortex)
-
-
 
  I watched the director's commentary on *Ferris Bueller* and it was
 pretty cool. Unfortunately, my PS2 started crapping out toward the end;

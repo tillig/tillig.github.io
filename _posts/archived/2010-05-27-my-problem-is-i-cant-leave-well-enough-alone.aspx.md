@@ -60,4 +60,3 @@ so will create work - work that, once I'm in the thick of it, I really
 wish I didn't have to do. Like I'm punishing myself for something.
 
 I really need to learn to just leave well enough alone.
-

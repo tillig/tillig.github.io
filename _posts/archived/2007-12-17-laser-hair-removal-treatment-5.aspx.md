@@ -40,18 +40,18 @@ appointment.
 
 To manage the intensity of it all, here's what worked for me:
 
--   Between one and four laser pulses at a time, max.  In really dense
+- Between one and four laser pulses at a time, max.  In really dense
     hair areas, like the point of my chin, one pulse is just insanely
     painful and is all I can take without a break.  In less dense areas,
     like on my neck, I can take up to four.  That fourth pulse is the
     edge of my pain threshold.
--   Ignore the ice pack.  It's just a distraction and doesn't help any.
--   Take advantage of air cooling.  They have this hose that blows
+- Ignore the ice pack.  It's just a distraction and doesn't help any.
+- Take advantage of air cooling.  They have this hose that blows
     super-cool air that they can use to chill the skin prior to using
     the laser.  Before and after getting zapped, cool things waaaay down
     with that cold air hose.
--   Get one stress ball for each hand.  Something to squeeze is helpful.
--   Breathe.  Seriously.  I darn close to passed out from tensing up and
+- Get one stress ball for each hand.  Something to squeeze is helpful.
+- Breathe.  Seriously.  I darn close to passed out from tensing up and
     holding my breath.
 
 All told, it took the full hour appointment to do my face, but we did
@@ -67,4 +67,3 @@ As painful as it was, I think I'll probably do MedioStar next time,
 too.  I need to start seeing some real change and knowing that the
 intensity gets reduced as hair disappears, it sounds like next time will
 be easier than this one.
-

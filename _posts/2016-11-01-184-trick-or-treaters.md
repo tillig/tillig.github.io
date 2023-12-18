@@ -22,6 +22,7 @@ We shut down at 8:00p to get Phoenix into bed (since that's bedtime). I foresee 
 
 Cumulative data:
 
+<!--markdownlint-disable MD033 -->
 <table>
     <thead>
         <tr>
@@ -131,6 +132,7 @@ Cumulative data:
         </tr>
     </tbody>
 </table>
+<!--markdownlint-enable MD033 -->
 
 Our costumes this year:
 

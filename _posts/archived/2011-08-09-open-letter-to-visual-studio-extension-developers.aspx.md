@@ -22,35 +22,35 @@ you to help me.
 that guy who blogs about how double-plus-awesome you are. In order to do
 that, I have some ideas for you:
 
--   **Don't require administrative privileges to run.** I don't develop
+- **Don't require administrative privileges to run.** I don't develop
     as an administrator. You shouldn't either. Even if you do, for
     whatever reason, your QA process should test the extension as a
     non-admin. I don't want to get all energized to use the stuff just
     to fire up VS and get an inexplicable exception message that I have
     to trace back to your extension.
--   **Remember the state in which I left your extension.** If you have
+- **Remember the state in which I left your extension.** If you have
     some sort of window or menu bar addition, make sure if I close the
     window, move it, dock it, or otherwise use the standard window/menu
     customization options that I won't totally lose that customization
     when I close VS and restart it later.
--   **Test your upgrade path.** If I install your extension, change some
+- **Test your upgrade path.** If I install your extension, change some
     settings, and then later upgrade, I don't want to lose my settings.
     Also, if your product is offered as a standalone installer and
     through the VS Extension Gallery, make sure the two mechanisms
     understand each other so I don't manually install the latest version
     just to be prompted to "upgrade" by the VS Extension Gallery.
--   **Don't write files to my source tree.** In my ideal world, I don't
+- **Don't write files to my source tree.** In my ideal world, I don't
     want you writing anything to my source tree because in most cases
     are those files are going to be per-user settings (right?) which I
     don't want to accidentally check into my repository. I also don't
     want to have to chase everyone down that's using your extension and
     make sure they don't check them into their branches/clones/etc.
--   **If you absolutely must write files to the source tree, use a file
+- **If you absolutely must write files to the source tree, use a file
     extension I'm already ignoring.** Most source code control projects
     for .NET have \*.suo and \*.user ignored. Feel free to use those
     extensions so for your per-solution or per-project files so it's
     seamless.
--   **Don't add a top-level menu to Visual Studio.** You don't need to
+- **Don't add a top-level menu to Visual Studio.** You don't need to
     show up at the same level as File, Edit, View, etc. **I have no less
     than 19 of these top-level menus** right now, counting the stock
     items. If I size the VS window less than 1200 pixels wide, the menu
@@ -63,7 +63,7 @@ that, I have some ideas for you:
     if your plugin actually does have a huge ton of things that are
     menu-driven. Chances are, though, your plugin doesn't fall into this
     territory. You might think it does, but it probably doesn't.*
--   **Have options to enable/disable sets of functionality.** If your
+- **Have options to enable/disable sets of functionality.** If your
     plugin does more than one logical "thing" (e.g., it does syntax
     highlighting and enhances the Solution Explorer) you need to offer
     me options to enable or disable the individual features. You may
@@ -84,4 +84,3 @@ Anyway, thanks, VS Extension Developers, for hearing me out.
 
 Sincerely,
 Me
-

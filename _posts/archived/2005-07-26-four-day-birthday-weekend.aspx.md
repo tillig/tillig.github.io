@@ -66,29 +66,27 @@ it's full.)
  Got some pretty cool stuff from folks. In all, I got (not necessarily
 credited by person):
 
--   Anakin Skywalker Jedi Fighter
--   [*Sopranos
+- Anakin Skywalker Jedi Fighter
+- [*Sopranos
     Cookbook*](http://www.amazon.com/exec/obidos/ASIN/0446530573/mhsvortex)
     (I loooove Italian!)
--   [*Blade
+- [*Blade
     Runner*](http://www.amazon.com/exec/obidos/ASIN/0790729628/mhsvortex)
--   [*Beetlejuice*](http://www.amazon.com/exec/obidos/ASIN/0790731479/mhsvortex)
--   [$15 gift certificate to
+- [*Beetlejuice*](http://www.amazon.com/exec/obidos/ASIN/0790731479/mhsvortex)
+- [$15 gift certificate to
     iTunes](http://www.amazon.com/exec/obidos/ASIN/B0002CZPPG/mhsvortex)
--   [Bruce Campbell's *Make
+- [Bruce Campbell's *Make
     Love*](http://www.amazon.com/exec/obidos/ASIN/0312312601/mhsvortex)
--   [*The Professional* Deluxe
+- [*The Professional* Deluxe
     Edition](http://www.amazon.com/exec/obidos/ASIN/B0006GVJEE/mhsvortex)
--   An iPod car charger
--   This weird sticky thing that you can use to stick your iPod to your
+- An iPod car charger
+- This weird sticky thing that you can use to stick your iPod to your
     dashboard
--   A 64MB memory card for GameCube
--   A game player connector thing that you can use to play GameBoy games
+- A 64MB memory card for GameCube
+- A game player connector thing that you can use to play GameBoy games
     through your GameCube on your TV
--   A video switchbox to connect all the game consoles and things
+- A video switchbox to connect all the game consoles and things
     through
-
-
 
  Hopefully I didn't miss anything. The point is that I got a lot of cool
 stuff from a lot of cool people, and thanks very much to those folks -

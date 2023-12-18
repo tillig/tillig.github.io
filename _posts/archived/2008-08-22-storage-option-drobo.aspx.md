@@ -15,4 +15,3 @@ whole thing into NAS. Slick.
 
 **UPDATE 8/25/08**: I ended up [getting a Windows Home
 Server](/archive/2008/08/25/windows-home-server-first-impressions.aspx).
-

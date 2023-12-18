@@ -20,18 +20,18 @@ User Account Control turned on. In that scenario, it's *not quite as
 simple* as unzip and go if you want to put the application in the
 Program Files folder as is recommended. The steps I had to go through:
 
-1.  Unzip the program to a folder on my desktop.
-2.  Copy my license XML file into that folder.
-3.  [Use the streams tool from Sysinternals to unblock all the
+1. Unzip the program to a folder on my desktop.
+2. Copy my license XML file into that folder.
+3. [Use the streams tool from Sysinternals to unblock all the
     files](/archive/2010/05/19/unblocking-multiple-files-at-once.aspx).
-4.  Copy the folder from my desktop to the Program Files folder. (This
+4. Copy the folder from my desktop to the Program Files folder. (This
     will ask for admin credentials.)
-5.  Create a folder at C:\\ProgramData\\Microsoft\\Windows\\Start
+5. Create a folder at C:\\ProgramData\\Microsoft\\Windows\\Start
     Menu\\Programs\\NDepend so I can have a shortcut to the program in
     the Start Menu. (This will ask for admin credentials.)
-6.  Create a shortcut to VisualNDepend.exe on my desktop (because you
+6. Create a shortcut to VisualNDepend.exe on my desktop (because you
     can't create a shortcut directly in the Start Menu).
-7.  Move the shortcut from the desktop to the folder I created in the
+7. Move the shortcut from the desktop to the folder I created in the
     Start Menu. (This will ask for admin credentials.)
 
 So, not insurmountable, but more than a single step. **It would be nice

@@ -14,6 +14,7 @@ the colors, look, and feel of my site at a later time. What it also
 means is that I'm starting to save a little more space on my server,
 which prolongs the inevitable move to a hosted environment. I'm not even
 done with the reformat on the templates and I've already saved about 2MB
+
 - just from removing some static HTML that didn't need to be there.
 
  Anyway, I'm going to continue reformatting this thing, but it'll be a

@@ -17,4 +17,3 @@ preview refreshes.
 
 If you upgraded before and are ready for a fix, [go get
 it!](http://code.google.com/p/cr-documentor/)
-

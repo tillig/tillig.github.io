@@ -17,6 +17,7 @@ Extreme](http://ecx.images-amazon.com/images/I/81bm2uqf%2B4L._SL500_AA200_.jpg)]
 my actual birthday, I woke up and Jenn gave me my gift: [a Snap Circuits
 Extreme
 set](http://www.amazon.com/gp/product/B0002AHQWS?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0002AHQWS)
+
 - 750 projects to help you learn about electronics. I've been wanting
 that for a while since I'm not really "electrical engineer" inclined and
 it's pretty awesome.
@@ -53,4 +54,3 @@ it was pretty hot on Sunday afternoon and who can beat the heat better
 than the movie theater?
 
 All in all, four days' worth of fun and celebration, which was relaxing.
-

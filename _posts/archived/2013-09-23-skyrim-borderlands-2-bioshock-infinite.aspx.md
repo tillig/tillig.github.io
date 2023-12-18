@@ -113,4 +113,3 @@ the "jumping onto skyhook lines" stuff got a little frantic. It was a
 neat idea, but seemed to make it a little more complex than it should
 have been. I didn't play through the DLC in that, and I may at some
 point since they'll be returning to Rapture, but, again, after *GTA5*.
-

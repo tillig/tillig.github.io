@@ -6,7 +6,9 @@ comments: true
 disqus_identifier: 1561
 tags: [General Ramblings]
 ---
-[![](http://lh6.ggpht.com/_P1NCAbHEm2Q/Spx9nsMw12E/AAAAAAAABQU/sUqFsLtWQjM/s160-c/2009VictoriaBCVacation.jpg)](http://picasaweb.google.com/travis.illig/2009VictoriaBCVacation?feat=embedwebsite)<br />[2009 Victoria BC Vacation](http://picasaweb.google.com/travis.illig/2009VictoriaBCVacation?feat=embedwebsite)
+[![2009 Victoria BC Vacation](http://lh6.ggpht.com/_P1NCAbHEm2Q/Spx9nsMw12E/AAAAAAAABQU/sUqFsLtWQjM/s160-c/2009VictoriaBCVacation.jpg)](http://picasaweb.google.com/travis.illig/2009VictoriaBCVacation?feat=embedwebsite)
+
+[2009 Victoria BC Vacation](http://picasaweb.google.com/travis.illig/2009VictoriaBCVacation?feat=embedwebsite)
 
 It was time to take another vacation, so this time Jenn and I set our
 sights on a non-Vegas destination: Victoria, British Columbia. We headed
@@ -52,4 +54,3 @@ We only saw about 30, but it was pretty crazy.
 In all, a good trip. Left a few things (like [the Royal BC
 Museum](http://www.royalbcmuseum.bc.ca)) to see on future trips, but saw
 a lot and had a good time.
-

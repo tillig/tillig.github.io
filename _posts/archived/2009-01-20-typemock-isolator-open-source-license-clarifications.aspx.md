@@ -22,28 +22,27 @@ it](http://blog.typemock.com/2008/10/isolator-open-source-license.html),
 and I've found out a little more about them, so I'll just bullet point
 it all here.
 
--   You can get a license for Typemock Isolator to use on open source
+- You can get a license for Typemock Isolator to use on open source
     projects [from their request
     page](http://www.typemock.com/free_open_source_license_form.php).
--   The license is **free**.
--   The license is **per-developer**. Each developer working on the open
+- The license is **free**.
+- The license is **per-developer**. Each developer working on the open
     source project needs to request one.
--   The license has a **10-year lifespan** on it so you're not in danger
+- The license has a **10-year lifespan** on it so you're not in danger
     of having it expire on you in the middle of your project.
--   If you have your project running in continuous integration, **you
+- If you have your project running in continuous integration, **you
     can use one of the developer's licenses for the build server**- you
     don't have to get a separate license for the server.
--   If you work on more than one open source project that needs Typemock
+- If you work on more than one open source project that needs Typemock
     Isolator, **you only need one open source license** - you don't need
     a separate license for every project.
--   If you already have a commercial (paid) license, **you can use your
+- If you already have a commercial (paid) license, **you can use your
     commercial license on the open source project**. You don't need to
     request a separate license.
--   **Everyone on a project needs to use the same version of Typemock
+- **Everyone on a project needs to use the same version of Typemock
     Isolator.** You can't mix-and-match versions.
 
 This is fantastic. For CR_Documentor, it means I can test not only the
 new server stuff, but also start adding tests for the code that
 interacts with the DXCore parser, since you can't really create those
 structures in unit tests, either.
-

@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 279
 tags: [dotnet,personal]
 ---
+<!--markdownlint-disable MD036 -->
 We're just about done here. I'm going to post now and get things ready
 to go.
 

@@ -39,9 +39,9 @@ this as well.
 
 Per these sources, **the only reliable WD Green model numbers are**:
 
--   **2TB: WD20EADS-00R6B0**
--   **1.5TB: WD15EADS-00R6B0**
--   **1TB: WD10EADS-00L5B1**
+- **2TB: WD20EADS-00R6B0**
+- **1.5TB: WD15EADS-00R6B0**
+- **1TB: WD10EADS-00L5B1**
 
 I looked at my drives in my Windows Home Server and, sure enough, about
 half of the drives were the "good" model numbers and half were "bad"
@@ -54,15 +54,15 @@ over two weeks now with no issue.**
 
 There are a lot of factors in play here, to be sure.
 
--   I moved the drives in the WHS around so they're in different slots
+- I moved the drives in the WHS around so they're in different slots
     than they originally were. If there was some sort of problem with a
     drive being seated incorrectly or a particular slot disagreeing with
     a particular drive, that may no longer exist.
--   There are fewer drives in the eSATA port multiplier just because
+- There are fewer drives in the eSATA port multiplier just because
     there are fewer drives in the system in general. If the port
     multiplier didn't like having so many drives in it, that issue may
     not be showing itself now.
--   I moved several terabytes of data off the home server so the
+- I moved several terabytes of data off the home server so the
     majority of the space there is empty. If the problem was with
     PerfectDisk managing drives that have very little free space, that
     may not be displaying now.
@@ -73,4 +73,3 @@ It's not just me. Moving these drives out of my system seems to have
 increased reliability quite a bit.
 
 **YMMV, but my recommendation: Beware the WD Green drives.**
-

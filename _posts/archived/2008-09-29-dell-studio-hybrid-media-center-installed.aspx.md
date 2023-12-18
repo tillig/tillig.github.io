@@ -39,7 +39,7 @@ shape quickly.
 There are only a couple of things I need to deal with, neither of which
 are showstoppers so much as generally annoying.
 
-1.  **Monitor resolution.** When you've got a home theater PC, your TV
+1. **Monitor resolution.** When you've got a home theater PC, your TV
     is effectively your monitor. Unfortunately, my TV only supports a
     certain number of resolutions, only a few of which are also
     supported by the out-of-the-box video card and drivers that came
@@ -78,7 +78,7 @@ are showstoppers so much as generally annoying.
     hooked the PC up via HDMI, and instantly got full 1080p high-def
     output. No tweak required. No letterboxing along the sides.
     Everything looks brilliant. Whew!
-2.  **Remote control IR frequency conflict.** The [Media Center remote
+2. **Remote control IR frequency conflict.** The [Media Center remote
     control and IR receiver that I
     bought](http://www.newegg.com/Product/Product.aspx?Item=N82E16880121004),
     which is a nice yet inexpensive unit, happens to use the exact same
@@ -87,7 +87,7 @@ are showstoppers so much as generally annoying.
     use the Xbox 360 remote (only when watching HD DVDs) I'll probably
     find some sort of temporary cover for the IR receiver port on the
     360 so I can cover/uncover it as needed.
-3.  **Windows Home Server backup and machine sleep.** When you "turn the
+3. **Windows Home Server backup and machine sleep.** When you "turn the
     PC off" with the remote, you're really putting it to sleep. When
     Windows Home Server connects to the PC to back it up, it wakes the
     PC up. Unfortunately, it isn't going back to sleep after that. I
@@ -108,4 +108,3 @@ system came together. I've been looking at solutions to my media center
 problem [for almost two years to the
 date](http://paraesthesia.com/archive/2006/09/18/dvd-iso-via-mediaportal.aspx),
 so it's nice to finally have it solved.
-

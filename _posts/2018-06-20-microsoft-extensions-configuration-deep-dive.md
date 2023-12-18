@@ -13,7 +13,7 @@ Also, it's [definitely worth looking at the official docs](https://docs.microsof
 
 **As of this writing, .NET Core 2.1.1 is out.** That's the version I'll be writing about here. If you show up in a year or three, this could be out of date.
 
-# Everything is Key/Value
+## Everything is Key/Value
 
 The most important thing to know about the new configuration system is that **everything boils down to key/value pairs**. You may have a pseudo-hierarchy of these key/value pairs so you can walk it like a tree, but in the end it's still key/value pairs, like a dictionary. No matter the input format, it all gets normalized.
 
@@ -45,7 +45,7 @@ Here's a JSON file with some configuration:
 
 When this flattens out, you get:
 
-```
+```text
 components:database:connection = "connection-string"
 components:files:path = "/etc/path"
 logging:enabled = "True"
@@ -111,13 +111,13 @@ Note by default the environment variable configuration source will bring _all en
 
 And let's finish up with command line parameters:
 
-```
+```batch
 mycommand.exe --components:database:connection=connection-string --components:files:path=/etc/path --logging:enabled=True --logging:level=Debug
 ```
 
 Each switch gets converted to be a key and the value after the equals sign is the value. You can also do space delimited:
 
-```
+```batch
 mycommand.exe --components:database:connection connection-string --components:files:path /etc/path --logging:enabled True --logging:level Debug
 ```
 
@@ -127,13 +127,13 @@ mycommand.exe --components:database:connection connection-string --components:fi
 
 Yields this config:
 
-```
+```text
 badswitch = "--goodswitch=value"
 ```
 
 I'll talk more about this later in the "Advanced Command Line" section.
 
-# Overriding Values
+## Overriding Values
 
 One of the coolest things (I think) about the way the Microsoft Configuration system works is that you can use all these providers and set up a _configuration precedence_ to layer differnet config sources on top of each other.
 
@@ -197,7 +197,7 @@ Command line arguments:
 
 What does that yield?
 
-```
+```text
 aspnetcore_environment = "Staging"
 logging:includescopes = "False"
 logging:loglevel:default = "Warning"
@@ -218,7 +218,7 @@ Given everything in the config system is a key/value string pair, the closest yo
 
 **Since you can't remove things, specify _as little configuration as possible_ and behave correctly using defaults in your code when configuration isn't there.** This will save you a lot of time when you have some base configuration specifying a value that you don't want and you can't figure out how to override and "remove it."
 
-# Ordinal Collections (Arrays)
+## Ordinal Collections (Arrays)
 
 Ordinal collections (think arrays) are a sort of interesting special case in configuration. It's pretty easy to think about it when using JSON like this:
 
@@ -242,7 +242,7 @@ This is a big one, since JSON, INI, XML, environment variables, command line par
 
 The answer is that **numeric 0-based keys get generated for each element**. The flattened config looks like this:
 
-```
+```text
 components:0:database:enabled = "True"
 components:1:files:enabled = "False"
 ```
@@ -282,7 +282,7 @@ For reference let's look at some _bad XML configuration_ for ordinal collections
 
 This version missing names will generate:
 
-```
+```text
 components:database:enabled = "True"
 components:files:enabled = "False"
 ```
@@ -328,7 +328,7 @@ What happens if you skip an index?
 
 **It doesn't matter. It's all just string key/value.** The above XML will become:
 
-```
+```text
 components:1:database:enabled = "True"
 components:4:files:enabled = "False"
 ```
@@ -359,7 +359,7 @@ set COMPONENTS__1__FILES__ENABLED=True
 
 If you then layer environment variables over the JSON configuration you'll get the desired effect:
 
-```
+```text
 components:0:database:enabled = "True"
 components:1:files:enabled = "True"
 ```
@@ -396,7 +396,7 @@ Notice the index is in the key and there's no array at all. Either way it will f
 
 **The complexity around ordinal collections is something to consider when you're picking a configuration format.** Especially if you want to override something in the environment or via command line at runtime, you'll have to know which _index_ to use in your override.
 
-# No Built-In Validation
+## No Built-In Validation
 
 One of the things that made the old System.Configuration mechanism nice was the ability to put pretty rich type converters, default values, and configuration validation into the `ConfigurationSection` you write. The new Microsoft.Extensions.Configuration mechanism doesn't have any of this. You can sort of fake it by binding configuration to objects (which I'll cover later) but there's no notion of configuration "schema" or any sort of validation/annotation you can provide to ensure values are in a form you expect.
 
@@ -404,7 +404,7 @@ To that end, **make sure you validate your configuration values before using the
 
 Also, **use `String.IsNullOrEmpty()` to check for presence/absence of values**. If you only check against `null` then you won't be able to "remove" configuration later if you need to by setting it to an empty string.
 
-# Configuration Object Model
+## Configuration Object Model
 
 It really helps to know how to navigate around the configuration object model if you're going to do more than read just a small set of values.
 
@@ -474,7 +474,7 @@ This is easier to see if we look at some code. Let's say we have the following c
 
 The flattened configuration will look like:
 
-```
+```text
 debug = "True"
 logging:includescopes = "False"
 logging:loglevel:default = "Warning"
@@ -566,7 +566,7 @@ var checkSectionExists =
 
 As you can see, there is a lot of power in the new system, but also a little challenge with respect to checking for values or existence of an item. Also, since everything comes out as strings, it means a lot of parsing... but hold on, check this next section out.
 
-# Binding to Objects
+## Binding to Objects
 
 Since everything comes out as strings one of the first things you're likely going to do is parse the strings into strongly typed objects. You're going to have a lot of `Int32.TryParse()` and stuff all over the place. But wait! There's another package for you!
 
@@ -574,7 +574,7 @@ Since everything comes out as strings one of the first things you're likely goin
 
 Let's say we have a configuration that looks like this:
 
-```
+```text
 debug = "True"
 logging:includescopes = "False"
 logging:loglevel:default = "Warning"
@@ -678,7 +678,7 @@ if (!Validator.TryValidateObject(
 }
 ```
 
-# Default Providers
+## Default Providers
 
 Out of the box there are several providers shipped (you can always see the latest [in the repo](https://github.com/aspnet/Configuration/)):
 
@@ -693,7 +693,7 @@ Out of the box there are several providers shipped (you can always see the lates
 
 Any or all of these can be used together to layer configuration into your application. You can also write your own custom provider to, for example, read configuration out of Redis or SQL.
 
-# Refreshing on Change
+## Refreshing on Change
 
 When configuration is initially built the usual pattern is to read all the configuration from the underlying source and store it in-memory in a dictionary for later retrieval.
 
@@ -713,7 +713,7 @@ Conversely, some providers do not handle change events. In this case, you'd have
 - Key-Per-File
 - User Secrets (the underlying provider here is JSON files but the code specifically turns off the reload on change flag)
 
-# Environment Variable Prefixes
+## Environment Variable Prefixes
 
 When you use environment variables as a configuration source, you may get a lot of junk you didn't really want. To avoid that, you can signal the provider to only include variables that have a given prefix.
 
@@ -737,7 +737,7 @@ var config = new ConfigurationBuilder()
 
 You'd get everything, even maybe stuff you don't want:
 
-```
+```text
 components:database:connection = "connection-string"
 components:files:path = "/etc/path"
 logging:enabled = "True"
@@ -765,7 +765,7 @@ var config = new ConfigurationBuilder()
 
 The prefix gets trimmed off and the correct environment variables make it in:
 
-```
+```text
 components:database:connection = "connection-string"
 components:files:path = "/etc/path"
 logging:enabled = "True"
@@ -792,7 +792,7 @@ set CUSTOMCONNSTR_CUSTOMRESOURCE=connect-to-custom
 
 If you bring all of the environment variables in (don't specify a prefix) you get:
 
-```
+```text
 connectionstrings:customresource = "connect-to-custom"
 connectionstrings:mysqldatabase = "connect-to-mysql"
 connectionstrings:mysqldatabase_providername = "MySql.Data.MySqlClient"
@@ -810,7 +810,7 @@ ASP.NET Core also has several things it uses in the `ASPNETCORE_` prefix. [The c
 - `ASPNETCORE_URLS`: Defines the addresses/ports on which the server should listen.
 - `ASPNETCORE_WEBROOT`: If your web root isn't `wwwroot`, this override can be used to point to the new location.
 
-# Advanced Command Line
+## Advanced Command Line
 
 When you add command line parameters to configuration, the parser lets you use one of two formats:
 
@@ -826,6 +826,7 @@ Rules for specifying keys:
 - If you specify the same key on the command line twice, last in wins.
 
 Here are some examples:
+
 ```powershell
 # YES
 myapp.exe --key1 value1 /key2 value2 -k3 value3
@@ -853,7 +854,7 @@ Finally, be aware that, like with environment variable prefixes, some systems yo
 
 There's no built-in filtering for command line arguments the way there is for environment variables with prefixes, so be aware when you're building your app.
 
-# Advanced XML
+## Advanced XML
 
 Given the previous .NET configuration system was so rooted in XML it's understandable that many folks coming in start out looking at how to transform existing XML config into new XML config.
 
@@ -899,7 +900,7 @@ There are two `components` elements that the parser will see as identical. Even 
 
 Note even though there's a `database` element in both `components` elements, they're not seen as identical because the parent on each has a `name`. It'll flatten out to this:
 
-```
+```text
 components:100:database:enabled = "True"
 components:100:name = "100"
 components:200:database:enabled = "False"
@@ -923,7 +924,7 @@ If you have multiple XML files, you can add a prefix on the elements by setting 
 
 This will become:
 
-```
+```text
 settings:components:database:enabled = "False"
 settings:components:files:enabled = "False"
 settings:name = "settings"
@@ -962,7 +963,7 @@ The encrypted XML portion entirely replaces the element being encrypted along wi
 
 A full example showing both how to encrypt and decrypt XML in configuration is seen [in the XML configuration provider unit tests](https://github.com/aspnet/Configuration/blob/7405009c24b4fbbc33e872cf7fbff98a9fa946e4/test/Config.Xml.Test/XmlConfigurationTest.cs#L401-L452).
 
-# Testing Using launchSettings.json
+## Testing Using launchSettings.json
 
 You will no doubt want to test your configuration setup to ensure things are being read in/parsed correctly. That's easy when it's file based, but what about command line parameters and environment variables?
 
@@ -1000,7 +1001,7 @@ This is a really great way to do quick configuration changes without modifying b
 
 In an ASP.NET Core project, you'll likely see there's an element under `environmentVariables` called `ASPNETCORE_ENVIRONMENT`. You can use that to switch your local dev work to emulate staging or production.
 
-# Key Takeaways
+## Key Takeaways
 
 It's a long article, so there are a lot of takeaways.
 

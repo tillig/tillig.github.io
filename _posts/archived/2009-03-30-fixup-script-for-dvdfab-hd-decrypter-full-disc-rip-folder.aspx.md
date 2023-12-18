@@ -18,6 +18,7 @@ it difficult to just copy over the movie to my Windows Home Server. Say
 I tell it to rip to the "C:\\Movies\\Really Cool Movie" folder - I'll
 come out with a structure like this:
 
+```text
     C:\Movies\Really Cool Movie
         |
         +-FullDisc
@@ -26,38 +27,41 @@ come out with a structure like this:
               |
               +-AUDIO_TS
               +-VIDEO_TS
+```
 
 The problem is, I want the AUDIO\_TS and VIDEO_TS folders up in the
 "C:\\Movies\\Really Cool Movie" folder, not two levels down in some
 generated hierarchy:
 
+```text
     C:\Movies\Really Cool Movie
         |
         +-AUDIO_TS
         +-VIDEO_TS
+```
 
 It requires manual file moves to get things rearranged. Not a big deal,
 but do it 100 times and it's a pain in the ass. This script fixes that
 up:
 
-```
-    @echo off
-    if .%1. == .. goto :help
-    pushd %1
-    pushd FullDisc
-    for /d %%s in (*) do pushd %%s
-    for /d %%s in (*) do move %%s ..\..
-    for %%s in (*) do move %%s ..\..
-    popd
-    popd
-    rmdir /s /q FullDisc
-    popd
-    goto :eof
+```batch
+@echo off
+if .%1. == .. goto :help
+pushd %1
+pushd FullDisc
+for /d %%s in (*) do pushd %%s
+for /d %%s in (*) do move %%s ..\..
+for %%s in (*) do move %%s ..\..
+popd
+popd
+rmdir /s /q FullDisc
+popd
+goto :eof
 
-    :help
-    echo This script fixes up DVDFab rip folder structures.
-    echo fixmovie [moviefolder]
-    goto :eof
+:help
+echo This script fixes up DVDFab rip folder structures.
+echo fixmovie [moviefolder]
+goto :eof
 ```
 
 Copy that into a batch file called "fixmovie.bat" and save it in your
@@ -68,4 +72,3 @@ example, I'd run `fixmovie.bat "Really Cool Movie"` from the
 
 Standard disclaimers apply. YMMV, not responsible for destruction of
 your universe, etc.
-

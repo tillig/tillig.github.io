@@ -42,13 +42,13 @@ A little Reflectoring shows that **you can actually specify a lot more
 on the command line than running `FxCopCmd /?` says you can**. Here are
 the ones I found that don't show up:
 
--   assemblycomparemode
--   dump
--   failonassert
--   outputculture
--   targetframeworkversion
--   trace
--   tracefile
+- assemblycomparemode
+- dump
+- failonassert
+- outputculture
+- targetframeworkversion
+- trace
+- tracefile
 
 **That `assemblycomparemode` one is what ties to the
 `AssemblyResolveReferenceMode` value** from `FxCopCmd.exe.config`. In

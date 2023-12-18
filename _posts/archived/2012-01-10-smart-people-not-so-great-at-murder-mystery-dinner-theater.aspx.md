@@ -66,4 +66,3 @@ I ended up getting it right, despite over-thinking it.
 Anyway, it was a pretty sweet event. The actors were good and were
 obviously having fun with it, which made it all the more fun for us. I
 would totally do it again.
-

@@ -26,4 +26,3 @@ Windows Vista."
 
 Downloaded and installed the hotfix, problem solved. If you're seeing
 this problem, grab the hotfix.
-

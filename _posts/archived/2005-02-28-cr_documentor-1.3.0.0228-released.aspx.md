@@ -28,6 +28,5 @@ Added context menu for expanding/collapsing XML doc comment blocks.
 
 Added context menu for toggling visibility of CR_Documentor window.
 
-
  **[Go get
 it!](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)**

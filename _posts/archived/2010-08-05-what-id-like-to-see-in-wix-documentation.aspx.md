@@ -9,7 +9,7 @@ tags: [net]
 I've been ~~working~~ struggling with WiX for the last few days and I
 feel like it's mostly for two reasons:
 
-1.  **WiX assumes you know MSI.** That is, Windows Installer XML is a
+1. **WiX assumes you know MSI.** That is, Windows Installer XML is a
     thin veneer over Microsoft Installer technology, not an abstraction
     layer for it. I think this is a faulty assumption. While I
     understand WiX isn't meant to teach you MSI, if I'm building a new
@@ -18,7 +18,7 @@ feel like it's mostly for two reasons:
     actually thinking, "I'm building a new installer, I'm building it in
     WiX, and I should be able to read the WiX documentation or find WiX
     examples that show me how to do that."
-2.  **WiX documentation is thin.** I think this is the result of the
+2. **WiX documentation is thin.** I think this is the result of the
     faulty assumption in item \#1. There is very little linking from the
     WiX documentation back to the corresponding MSI docs on MSDN so
     you'd never know that the construct on this WiX page corresponds to
@@ -31,11 +31,11 @@ feel like it's mostly for two reasons:
 I'm guessing there are three schools of thought going on when it comes
 to contributing to WiX documentation:
 
--   I already know how this works so everyone else must already know as
+- I already know how this works so everyone else must already know as
     well.
--   The "smart user" can go "check out the source and figure it out" so
+- The "smart user" can go "check out the source and figure it out" so
     that's good enough.
--   I've just struggled for the last week trying to get this to work and
+- I've just struggled for the last week trying to get this to work and
     now that it does I'm too exhausted and frustrated to contribute
     anything back.
 
@@ -54,7 +54,7 @@ Hmmm. I'll have to think about that. But I digress.
 All that leads me up to **a list of things I'd love to see in WiX
 documentation**.
 
--   **A disclaimer on the front page saying "you need to know MSI."**
+- **A disclaimer on the front page saying "you need to know MSI."**
     Buried [a couple of pages
     down](http://wix.sourceforge.net/manual-wix3/overview.htm) they
     mention that "in order to fully utilize the features in WiX, you
@@ -67,7 +67,7 @@ documentation**.
     I can understand WiX. Either that, or all of the WiX docs need to be
     updated to stop making that assumption. (I like that better, but I
     know it's not realistic.)
--   **A complete table of contents or index of all help topics.** If you
+- **A complete table of contents or index of all help topics.** If you
     go to [the main documentation
     page](http://wix.sourceforge.net/manual-wix3/main.htm), you'll see a
     fairly short table of contents. Say I want to add a dialog to my
@@ -87,7 +87,7 @@ documentation**.
     page](http://wix.sourceforge.net/manual-wix3/authoring_getting_started.htm),
     there is no link at all to the "Modifying the Installation User
     Interface" topic. That whole tree is orphaned.)
--   **Screen shots of all of the standard dialogs.** There is [a page
+- **Screen shots of all of the standard dialogs.** There is [a page
     that describes the "standard dialog
     set"](http://wix.sourceforge.net/manual-wix3/WixUI_dialogs.htm) that
     comes with WiX and there are textual descriptions of each of the
@@ -95,14 +95,14 @@ documentation**.
     troubleshooting your installer, you need to sort of... guess...
     which dialog you're looking at. Screen shots would really help to
     visually identify the dialogs.
--   **Flow charts of the standard UI.** Once you figure out how to get a
+- **Flow charts of the standard UI.** Once you figure out how to get a
     UI into your installer, you'll probably want to modify it. Maybe
     you'll want to add a new dialog into the flow. Except... what's the
     flow? Where do I insert my dialog? I have to know the ID of the
     dialogs between which I want to insert my custom dialog but there's
     no way to find that out. At least, none that I could figure. It was
     trial and error for me.
--   **Tips on troubleshooting and debugging.** If I get [error
+- **Tips on troubleshooting and debugging.** If I get [error
     2819](http://msdn.microsoft.com/en-us/library/aa372835.aspx) in my
     installer, what the hell is that supposed to mean? I know WiX is
     just a veneer over MSI and I don't expect them to reproduce the MSI
@@ -112,7 +112,7 @@ documentation**.
     there are none, a doc saying "you're screwed" and a link to the
     error codes on MSDN would be helpful. Maybe some common solutions to
     common problems... if there are common problems.
--   **More cross-linking with relevant MSI documentation.** The WiX
+- **More cross-linking with relevant MSI documentation.** The WiX
     documentation reads like it's standalone, but it's really not. For
     every document on there, there's at least one corresponding page of
     MSDN documentation about MSI that would be helpful. Unfortunately,
@@ -121,7 +121,7 @@ documentation**.
     page](http://wix.sourceforge.net/manual-wix3/msi_useful_links.htm),
     and even then, there are only three links... and one is just to "the
     Windows Installer 4.5 SDK." Not so helpful.
--   **More advanced how-to guides.** Most of the guides on the site -
+- **More advanced how-to guides.** Most of the guides on the site -
     and on the web in general - are "basic guides." You know, "here's
     how to install that EXE you built that has no dependencies, no
     configuration settings, and doesn't need anything set in the
@@ -134,7 +134,7 @@ documentation**.
     install time." "I have a Windows service to install and it needs to
     ask for service credentials during install and maybe whether it
     should run on startup or manually." Good luck with that.
--   **Rich examples, particularly around UI customization.** One of the
+- **Rich examples, particularly around UI customization.** One of the
     things I needed to do in my installer was add a custom dialog to get
     some data from the user about web site parameters (port number, app
     pool info). I want to reuse that dialog (sort of like the "Browse
@@ -153,7 +153,7 @@ documentation**.
     easier to do that, but it's not what you should be doing. *Where are
     the examples that show it the right way?* This goes hand-in-hand
     with the more advanced "how-to" guides idea, above.
--   **More information about web application deployment.** WiX appears
+- **More information about web application deployment.** WiX appears
     to be great about deploying, say, a console application, but if you
     follow [the simple setup
     example](http://wix.sourceforge.net/manual-wix3/authoring_first_votive_project.htm)
@@ -182,4 +182,3 @@ book I could find on
 WiX](http://www.amazon.com/dp/1590592972?tag=mhsvortex), it's from 2004,
 and several of the reviews claim it as "incomplete" or "not deep
 enough." I'd totally buy a more recent, more complete book.)
-

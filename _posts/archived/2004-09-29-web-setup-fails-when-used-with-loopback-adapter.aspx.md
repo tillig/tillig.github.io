@@ -10,6 +10,7 @@ tags: [dotnet,vs]
 Hanselman](http://www.hanselman.com/blog/PermaLink.aspx?guid=c45d4e3c-4883-4686-bf95-793b1863ff8c)
 like three months ago and didn't mention it here, but I ran into this
 again today (with the same set of users that originally had the problem
+
 - surprise, surprise) so I figured it was worthy of repetition.
 
  If you have the Microsoft Loopback Adapter running on a machine where
@@ -17,7 +18,7 @@ you try to execute a web setup project generated from Visual Studio .NET
 (an MSI file), you'll get the following error:
 
  **The specified path
-'http://MACHINENAME/http://MACHINENAME/InstallFolder' is unavailable.
+'<http://MACHINENAME/http://MACHINENAME/InstallFolder>' is unavailable.
 The Internet Information Server might not be running or the path exists
 and is redirected to another machine. Please check the status of this
 virtual directory in the Internet Services Manager.**

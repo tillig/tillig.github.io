@@ -31,12 +31,10 @@ search.
 
 Available Two Minute WF topics:
 
--   [Workflow
+- [Workflow
     Types](/archive/2008/03/20/two-minute-wf-workflow-types.aspx)
--   [Activities](/archive/2008/03/21/two-minute-wf-activities.aspx)
--   [WorkflowRuntime](/archive/2008/04/02/two-minute-wf-workflowruntime.aspx)
--   [WorkflowInstance](/archive/2008/04/29/two-minute-wf-workflowinstance.aspx)
--   [Core
+- [Activities](/archive/2008/03/21/two-minute-wf-activities.aspx)
+- [WorkflowRuntime](/archive/2008/04/02/two-minute-wf-workflowruntime.aspx)
+- [WorkflowInstance](/archive/2008/04/29/two-minute-wf-workflowinstance.aspx)
+- [Core
     Services](/archive/2008/05/16/two-minute-wf-core-services.aspx)
-
-

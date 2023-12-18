@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 1573
 tags: [media,windows]
 ---
-[![](http://ecx.images-amazon.com/images/I/41mqYLz8fKL._SL160_.jpg)](http://www.amazon.com/gp/product/B002MV2MG0?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002MV2MG0)I
+[![Windows 7](http://ecx.images-amazon.com/images/I/41mqYLz8fKL._SL160_.jpg)](http://www.amazon.com/gp/product/B002MV2MG0?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002MV2MG0)I
 went ahead and pre-ordered my upgrades for Windows 7 today. I opted to
 get the "family pack" upgrade - [three licenses to upgrade to Windows 7
 Home Premium for
@@ -25,6 +25,3 @@ might be the way to go. Considering [a single upgrade license for
 Windows 7 Home Premium is
 $120](http://www.amazon.com/gp/product/B002DHLUWK?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002DHLUWK),
 three licenses for $150 is a steal.
-
-![](http://www.assoc-amazon.com/e/ir?t=mhsvortex&l=as2&o=1&a=B002MV2MG0)
-

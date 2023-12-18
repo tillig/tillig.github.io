@@ -76,4 +76,3 @@ laptop has Vista Ultimate on it, and I have another license for it that
 I can put on my Windows XP desktop (once I've migrated the shared data
 off there - it's my "file server" right now), so I can try out [My
 Movies](http://www.mymovies.dk/) on one of those and see how it goes.
-

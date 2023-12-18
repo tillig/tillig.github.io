@@ -4,7 +4,7 @@ title: "DXCore Plugins May Be Blocked By Windows Security"
 date: 2010-03-29 -0800
 comments: true
 disqus_identifier: 1626
-tags: [vs,net]
+tags: [vs,dotnet]
 ---
 **If you're using third-party plugins with DXCore (CodeRush/Refactor)
 from**[**DevExpress**](http://www.devexpress.com)**and you're moving to
@@ -41,13 +41,12 @@ of like how you have to unblock .CHM files so you can read them.
 These instructions should work in any version of Windows from WinXP SP3
 and up.
 
-1.  Close all instances of Visual Studio.
-2.  Right-click the plugin assembly and select "Properties."
-3.  On the "General" tab, click the "Unblock" button.
-4.  Click "OK" to apply the changes and close the properties window.
+1. Close all instances of Visual Studio.
+2. Right-click the plugin assembly and select "Properties."
+3. On the "General" tab, click the "Unblock" button.
+4. Click "OK" to apply the changes and close the properties window.
 
 Everything should work correctly now.
 
 ![Click the "Unblock" button to enable the
-plugin.](http://cr-documentor.googlecode.com/svn/site/screenshots/windows_unblock_button.png "Click the "Unblock" button to enable the plugin.")
-
+plugin.](<http://cr-documentor.googlecode.com/svn/site/screenshots/windows_unblock_button.png> "Click the "Unblock" button to enable the plugin.")

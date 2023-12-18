@@ -61,15 +61,13 @@ buried]({{ site.url }}/images/20040709fireworks1.jpg)
  As we got working on that, Jenn grabbed my attention and pulled me
 aside.
 > **Jenn**: Trav... look in the dirt.
->  **Trav**: What? [fully expecting to see lumps of crap]
->  **J**: Are you *looking* in the dirt?
->  **T**: I don't see anything. Rocks.
->  **J**: Look at the rocks. Close.
->  **T**: Is that...?
->  **J**: Yes. There are *plastic tampon applicator tubes* all over in
+> **Trav**: What? [fully expecting to see lumps of crap]
+> **J**: Are you *looking* in the dirt?
+> **T**: I don't see anything. Rocks.
+> **J**: Look at the rocks. Close.
+> **T**: Is that...?
+> **J**: Yes. There are *plastic tampon applicator tubes* all over in
 > there.
-
-
 
  Now, hold on a sec. I had leather gloves, not a fucking *hazmat suit*.
 I gotta dig around in that? Yeaaaah.

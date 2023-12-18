@@ -110,7 +110,7 @@ item donated to *the cause* (me).
 
  Stuff I Got:
 
--   Books: [*Tassel Making for
+- Books: [*Tassel Making for
     Beginners*](http://www.amazon.com/exec/obidos/ASIN/186108062X/mhsvortex)
     by Enid Taylor; [*The Art of Tassel
     Making*](http://www.amazon.com/exec/obidos/ASIN/1864481226/mhsvortex)
@@ -120,13 +120,13 @@ item donated to *the cause* (me).
     by Tom Clancy; [*Inside Delta
     Force*](http://www.amazon.com/exec/obidos/ASIN/0385336039/mhsvortex)
     by Eric Haney
--   Two sconces in the shape of a fleur de lis
--   [A Corgi version of the Lotus Esprit from the Bond movie *The Spy
+- Two sconces in the shape of a fleur de lis
+- [A Corgi version of the Lotus Esprit from the Bond movie *The Spy
     Who Loved
     Me*](http://www.corgi-shop.co.uk/pages/product/product.asp?txtCategoryPath=Categories~James%20Bond&txtCatalog=Corgi&txtCategory=James%20Bond&txtProductID=TY04510)
--   A shirt that says "Hi, I'm on my break" on the front, and on the
+- A shirt that says "Hi, I'm on my break" on the front, and on the
     back says "If you can read this, I'm busy. Bug off."
--   DVDs: [*Back to the Future*
+- DVDs: [*Back to the Future*
     trilogy](http://www.amazon.com/exec/obidos/ASIN/B00006AL1E/mhsvortex);
     [*Romy and Michele's High School
     Reunion*](http://www.amazon.com/exec/obidos/ASIN/6305428425/mhsvortex);
@@ -134,23 +134,21 @@ item donated to *the cause* (me).
     Murderer*](http://www.amazon.com/exec/obidos/ASIN/B00000IQBW/mhsvortex);
     [*The NeverEnding
     Story*](http://www.amazon.com/exec/obidos/ASIN/B00005LKHZ/mhsvortex)
--   Two hanger-things that you stick on your mantle that have hooks on
+- Two hanger-things that you stick on your mantle that have hooks on
     them... they look sort of like large finials of some sort, but I
     don't know what they're called
--   Food: One pound of fudge and a one pound box of [Russell
+- Food: One pound of fudge and a one pound box of [Russell
     Stover](http://www.russellstover.com) chocolates
--   An Atari 10-in-1 joystick - it's got 10 classic Atari games, all
+- An Atari 10-in-1 joystick - it's got 10 classic Atari games, all
     inside a replica Atari joystick; all you have to do is plug it into
     your TV! Avon used to sell these, but I don't see them on the site
     anymore.
--   [Harry Potter
+- [Harry Potter
     Legos](http://shop.lego.com/leaf.asp?Type=4&CatID={B337EFCB-E080-4A1B-BEC1-3797C30F9BFB}):
     ["Quidditch
     Practice"](http://shop.lego.com/product.asp?id={053AA2E4-BF70-11D6-801F-00065BA09B53}&CatID={B337EFCB-E080-4A1B-BEC1-3797C30F9BFB}&OrderBy=0)
     and ["Escape from Privet
     Drive"](http://shop.lego.com/product.asp?id=%7B053AA2F2%2DBF70%2D11D6%2D801F%2D00065BA09B53%7D&OrderBy=0&CatID=%7BB337EFCB%2DE080%2D4A1B%2DBEC1%2D3797C30F9BFB%7D)
-
-
 
  I'm pretty sure I got some other stuff, too, but I don't recall off
 hand. If/when I do, I'll tack it on to the list above.

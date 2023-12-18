@@ -4,7 +4,7 @@ title: "Trip To Devscovery: Day 2"
 date: 2005-08-31 -0800
 comments: true
 disqus_identifier: 880
-tags: [personal,net]
+tags: [personal,dotnet]
 ---
 We're nearing the end of day 2 of Devscovery (I'm in the last lecture of
 the day now) and today has been quite a bit better than yesterday.

@@ -48,4 +48,3 @@ fine.
 
 So... if you're finding iTunes crashing in the middle of your sync over
 and over... go look to see if you have a bad track.
-

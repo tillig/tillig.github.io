@@ -28,13 +28,13 @@ I'll wait.
 Good. Now let me tell you what the standup means *to me* and why *I
 believe* you shouldn't skip the standup.
 
-1.  **The standup is for the team, not the manager.** It's great when
+1. **The standup is for the team, not the manager.** It's great when
     the manager is there. And, yes, I know that in some projects you may
     not have a manager - it may be a peer scrummaster or some other
     leader. Regardless, the meeting isn't for that leader - it's for the
     team. You're not reporting your status to the manager, you're
     reporting to the team.
-2.  **The standup is a vestigial sign of discipline.** In any team, it's
+2. **The standup is a vestigial sign of discipline.** In any team, it's
     important to know that your peers can meet commitments and that you
     can trust them to have your back. If you can't trust your team
     to make a simple standup, how can you trust that they're on top of
@@ -50,4 +50,3 @@ article](http://martinfowler.com/articles/itsNotJustStandingUp.html)
 talks about some of these problems and potential solutions.
 
 Regardless, it is not OK to skip the standup.
-

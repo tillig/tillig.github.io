@@ -25,6 +25,5 @@ as well as in relation to the XML comment begin/end.)
 Fixed bug where attributes on unrecognized tags weren't passing through
 to be rendered.
 
-
  **[Go get
 it!](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)**

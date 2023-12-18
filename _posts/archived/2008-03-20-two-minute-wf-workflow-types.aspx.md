@@ -12,8 +12,8 @@ Foundation.
 
 Out of the box, you get two types of workflow:
 
--   Sequential workflow
--   State machine workflow
+- Sequential workflow
+- State machine workflow
 
 A **sequential workflow** runs a lot like a flow chart and its
 design-time experience reflects that. (Yes, I realize that's technically
@@ -39,4 +39,3 @@ Visual Studio 2008 comes with templates that let you very easily create
 console applications that host either of these workflow types so you can
 experiment with them and decide which type is right for your
 application.
-

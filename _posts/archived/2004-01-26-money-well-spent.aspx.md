@@ -57,6 +57,7 @@ can't have them sleep with us). We tried a mat that makes noise, but she
 didn't care. We tried spraying smells, using the water bottle... none of
 it worked. The Scat Mat uses a nine volt battery to generate an electric
 shock that you get when you step on it. The shock comes in three levels
+
 - "mildly annoying," "just got out of the car on a staticky day and
 touched the door," and "gaping flesh wound." We leave it on "mildly
 annoying" and the cat leaves us alone all night. I can tell you now that
@@ -70,4 +71,3 @@ bought a new computer and I found that half my time was spent connecting
 to the Internet so I could not only download information slowly but also
 busy up the phone line at the same time. Now I've got cable Internet and
 a wireless router. I can't believe I was in the Dark Ages for so long.
-

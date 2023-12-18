@@ -17,6 +17,8 @@ those in that final time block.)
 trick-or-treaters.]({{ site.url }}/images/20131101_289trickortreaters.png)
 
 Cumulative data:
+
+<!--markdownlint-disable MD033 -->
 <table>
     <thead>
         <tr>
@@ -107,6 +109,7 @@ Cumulative data:
         </tr>
     </tfoot>
 </table>
+<!--markdownlint-enable MD033 -->
 
 The costume this year was a BioShock splicer.
 
@@ -128,4 +131,3 @@ This was also Phoe's first trick-or-treat year. She went to Jenn's work,
 my mom's work, and my work; and she also ran up and down our block.
 There's more candy at our house than we know what to do with, and she
 had a total blast.
-

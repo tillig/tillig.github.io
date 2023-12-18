@@ -99,4 +99,3 @@ you're looking for catalog programs, I recommend both of those.
 
 **UPDATE:** For my Blu-ray discs, [I'm using DiscSox HiDef Pro
 sleeves](/archive/2011/08/30/discsox-blu-ray-storage.aspx).
-

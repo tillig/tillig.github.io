@@ -29,7 +29,7 @@ developer, to "sharpen the saw." What can you do to increase your
 skills/value that doesn't involve technical abilities? Here are some
 ideas:
 
--   **Take a writing course.** Your local higher-education facilities
+- **Take a writing course.** Your local higher-education facilities
     (and many correspondence schools) most likely offer courses in basic
     writing. Not writing code, just writing. Prose. Why is that
     important? Most likely you aren't writing just code all day. Whether
@@ -44,7 +44,7 @@ ideas:
     out the window in favor of shortcuts and 140-character limits,
     having a good set of solid, basic writing skills will help you
     long-term.
--   **Learn about UI design and user experience.** It's pretty well
+- **Learn about UI design and user experience.** It's pretty well
     known that developers generally create some pretty horrible UI out
     of the box. It's not because developers are incompetent, but because
     when they're crafting that UI they're not thinking about design
@@ -57,7 +57,7 @@ ideas:
     part in conversations about the UI in a more meaningful fashion**
     and understand not just *what* you're doing when the UX team asks
     you to fix something, but also *why you're doing it*.
--   **Take a class on being a mentor.** [Hanselman mentions in his
+- **Take a class on being a mentor.** [Hanselman mentions in his
     post](http://www.hanselman.com/blog/SharpenTheSawForDevelopers.aspx)
     that one idea to help sharpen technical skills is to create a
     mentorship program. That's a really good idea. But do you know how
@@ -74,7 +74,7 @@ ideas:
     recommend it enough. It's one of the best courses I've ever taken
     and it totally changed the way I approach helping and teaching
     people.
--   **Improve your interpersonal communication skills.** If you've
+- **Improve your interpersonal communication skills.** If you've
     worked in any sort of team, you'll have run into a situation where
     there was a confrontation between two team members that probably
     could have been handled better. In coding, for example, sometimes
@@ -99,4 +99,3 @@ Again, the idea here is that **there are things other than technical
 skills that will help you sharpen your saw** as a developer.
 
 **What do you do in a non-technical capacity to sharpen your saw?**
-

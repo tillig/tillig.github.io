@@ -22,20 +22,20 @@ Using [Dependency Walker](http://www.dependencywalker.com/) on
 `Microsoft.VisualStudio.CodeAnalysis.Interop.dll`, you can see a ton of
 missing assembly references:
 
--   `msvcp110.dll`
--   msvcr110.dll
--   `ieshims.dll`
--   mf.dll
--   mfplat.dll
--   mfreadwrite.dll
--   `wlanapi.dll`
+- `msvcp110.dll`
+- msvcr110.dll
+- `ieshims.dll`
+- mf.dll
+- mfplat.dll
+- mfreadwrite.dll
+- `wlanapi.dll`
 
-The `msvc*.dll `assemblies are part of [the Visual C++
+The `msvc*.dll`assemblies are part of [the Visual C++
 redistributable](http://www.microsoft.com/en-us/download/details.aspx?id=30679),
 so I tried installing that and it did fix those issues. The ieshims.dll
 is part of Internet Explorer, so adding
-`C:\Program Files\Internet Explorer `to the path fixed that. The
-`mf*.dll `files, though... that's media related. Like, "Media Player"
+`C:\Program Files\Internet Explorer`to the path fixed that. The
+`mf*.dll`files, though... that's media related. Like, "Media Player"
 style. I've seen places that you can get that with WPF bits.
 
 I made sure my build server had all the latest patches after dealing
@@ -72,7 +72,7 @@ so... what gives?
 is there in Premium.** Like... *the whole Phoenix analysis engine is
 totally missing*. What gives? Honestly, I ended up not only having to
 install VS Express, but also copy over the missing stuff into
-`C:\Program Files (x86)\Microsoft Visual Studio 11.0\Team Tools\Static Analysis Tools\FxCop `so
+`C:\Program Files (x86)\Microsoft Visual Studio 11.0\Team Tools\Static Analysis Tools\FxCop`so
 I could get apples-to-apples builds on my build server and dev machines.
 (Alternatively, I guess you could install VS Premium on the build server
 since, *hell, you're already installing Visual Studio, so you lost that

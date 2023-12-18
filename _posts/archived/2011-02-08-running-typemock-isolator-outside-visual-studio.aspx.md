@@ -18,9 +18,9 @@ additional info and clarifications.
 
 First, the setup:
 
--   NCover 3.4.16
--   Typemock Isolator 6.0.6
--   MSTest with Visual Studio 2010
+- NCover 3.4.16
+- Typemock Isolator 6.0.6
+- MSTest with Visual Studio 2010
 
 If you have different versions of these tools, you may need to tweak
 things. Also, I'm building on a 64-bit machine, so you may see some
@@ -40,11 +40,11 @@ which don't.
 
 **THE BIG TAKEAWAY: You have to start things in a specific order.**
 
-1.  Start Typemock so it can link with NCover.
-2.  Start NCover so it can run and profile your unit tests.
-3.  Start your unit test runner so NCover can gather statistics.
-4.  When the test runner ends, NCover automatically ends.
-5.  Make sure Typemock stops when everything is over, regardless of
+1. Start Typemock so it can link with NCover.
+2. Start NCover so it can run and profile your unit tests.
+3. Start your unit test runner so NCover can gather statistics.
+4. When the test runner ends, NCover automatically ends.
+5. Make sure Typemock stops when everything is over, regardless of
     whether the tests pass or fail.
 
 If you don't start things in the right order, your tests won't work and
@@ -70,7 +70,7 @@ Problems.
 Given that, let's talk about ways to run Typemock Isolator and get
 coverage when outside of Visual Studio.
 
-**BUILD SCRIPTS**
+## Build Scripts
 
 **Running things through a build script is the most common and
 recommended way of doing things.** It allows you to automate the whole
@@ -166,11 +166,11 @@ use those to run our tests.
 
 **The "All," "Clean," and "Compile" targets are standard fare.**
 
--   The "All" target is our build script entry point. Run that target
+- The "All" target is our build script entry point. Run that target
     and it does the full clean/build/test run.
--   The "Clean" target deletes all the binaries and log files so we can
+- The "Clean" target deletes all the binaries and log files so we can
     get a nice clean build run.
--   The "Compile" target actually builds the assemblies. In this case, I
+- The "Compile" target actually builds the assemblies. In this case, I
     have two - a class library and the corresponding set of unit tests.
 
 **The "Test" target** creates the folder where we'll dump our coverage
@@ -194,17 +194,17 @@ executable.** Typemock Isolator comes with a program called
 NCover - it lets you start up a process that will have Typemock enabled
 on it. If you dissect that big long command line, you'll see:
 
--   We lead with TMockRunner.exe, tell it we'll be running coverage
+- We lead with TMockRunner.exe, tell it we'll be running coverage
     (-first) and link it to NCover (-link NCover3.0).
--   We run NCover.Console.exe with its usual command line options,
+- We run NCover.Console.exe with its usual command line options,
     telling it where to put logs and which assembly to profile.
--   Finally we run MSTest.exe and tell it where our unit tests are.
+- Finally we run MSTest.exe and tell it where our unit tests are.
 
 In the command line version, we don't have to explicitly shut down
 Typemock Isolator because it's only enabled for that one process, just
 as NCover.Console.exe only enables NCover for the one process it starts.
 
-**COMMAND LINE EXECUTION**
+## Command Line Execution
 
 I showed you a command line in the build script example above, but you
 don't have to use it inside a build script. It'll work just as well
@@ -214,7 +214,7 @@ line more readable the way you can in the build script, but if you make
 a little batch file or something with the command line in it, that'll
 work perfectly.
 
-**NCOVER EXPLORER**
+## NCover Explorer
 
 NCover Explorer offers a way to start an application and profile it from
 right in the UI.
@@ -251,19 +251,18 @@ Now when you click the "Run Coverage" button, things will work as
 expected because TMockRunner.exe has enabled Typemock Isolator inside
 NCover Explorer.
 
-**NUNIT GUI OR OTHER TEST RUNNER TOOLS**
+## NUnit GUI Or Other Test Runner Tools
 
 I know we're using MSTest in this example, but I figured a quick note
 was in order:
 
 If you're using, say, NUnit and want Typemock to work inside the NUnit
 GUI, you need to do a similar trick as we did in NCover Explorer, above
+
 - start NUnit GUI through TMockRunner.exe, just omit the "-first" and
 "-link NCover3.0" command line options.  This same trick holds for other
 test runner tools - starting the tool through TMockRunner.exe should get
 you the results you're looking for.
-
-
 
 Hopefully this helps you get your tests running with Typemock Isolator
 outside Visual Studio. Happy testing!

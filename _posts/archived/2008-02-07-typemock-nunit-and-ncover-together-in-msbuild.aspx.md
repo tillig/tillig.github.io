@@ -44,17 +44,17 @@ MSBuild tasks.
 
 The general flow of what needs to happen is this:
 
-1.  Register TypeMock with the system (if it's not a developer
+1. Register TypeMock with the system (if it's not a developer
     workstation - our devs have it installed).
-2.  Register NCover with the system.
-3.  Start TypeMock and link it with NCover.
-4.  Run NCover and pass it the command line parameters to run your NUnit
+2. Register NCover with the system.
+3. Start TypeMock and link it with NCover.
+4. Run NCover and pass it the command line parameters to run your NUnit
     tests. Tell it which assemblies to profile.
-5.  Stop TypeMock.
-6.  Unregister NCover with the system.
-7.  Use NCoverExplorer to aggregate the coverage reports into a single
+5. Stop TypeMock.
+6. Unregister NCover with the system.
+7. Use NCoverExplorer to aggregate the coverage reports into a single
     report.
-8.  On error, stop TypeMock and unregister NCover.
+8. On error, stop TypeMock and unregister NCover.
 
 Here's the example:
 
@@ -155,12 +155,12 @@ coverage log.
 
 Additional notes:
 
--   Obviously you're going to need to change the paths and other
+- Obviously you're going to need to change the paths and other
     placeholder parameters to fit your build.
--   If you've got TypeMock installed on dev machines *and* on the build
+- If you've got TypeMock installed on dev machines *and* on the build
     box, you can skip the TypeMockRegister task and just start/stop
     TypeMock.
--   If you've got NCover installed on dev machines and on the build box,
+- If you've got NCover installed on dev machines and on the build box,
     you don't need to execute "regsvr32" to register/unregister NCover.
     As long as NCover is registered before you start TypeMock, you're
     OK.

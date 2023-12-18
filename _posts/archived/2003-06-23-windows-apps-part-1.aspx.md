@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 277
 tags: [dotnet,personal]
 ---
+<!--markdownlint-disable MD036 -->
 I've found that I have some limited web access from the class, so I'm
 going to post this first day's worth of info because, frankly, it's just
 too much if it's combined with anything else. This trip has become quite

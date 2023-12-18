@@ -5,6 +5,7 @@ date: 2015-11-02 -0800
 comments: true
 tags: [halloween,costumes]
 ---
+<!--markdownlint-disable MD036 -->
 It was raining again this year and that _definitely_ took down the number of visitors. Again this year we also didn't put out our "Halloween projector" that puts a festive image on our garage. In general, it was pretty slow all around. I took Phoenix out this year while Jenn answered the door so I got to see what was out there firsthand. Really hardly anyone out there this year.
 
 ## Trick-or-Treaters
@@ -17,6 +18,8 @@ trick-or-treaters.]({{ site.url }}/images/20151102_trickortreatcount.png)
 The table's also starting to get pretty wide; might have to switch it so time block goes across the top and year goes down.
 
 Cumulative data:
+
+<!--markdownlint-disable MD033 -->
 <table>
     <thead>
         <tr>
@@ -117,6 +120,7 @@ Cumulative data:
         </tr>
     </tbody>
 </table>
+<!--markdownlint-enable MD033 -->
 
 ## Costumes
 
@@ -141,6 +145,7 @@ Let's start with the pieces I bought:
 **Total: $99.10**
 
 ### The Shirt
+
 The shirt is made of a gauzy fabric that was pretty hard to work with. The pattern was also not super helpful because you'd see "a step" in the pattern consisting of several actions.
 
 ![Confusing shirt pattern]({{ site.url }}/images/20151102_shirt1.jpg)
@@ -257,6 +262,7 @@ One of the big learning things for me with this cape was that with a thicker fab
 **Total: $133.75**
 
 ### Total
+
 - Accessories and props - $99.10
 - Shirt - $26.66
 - Pants - $33.51

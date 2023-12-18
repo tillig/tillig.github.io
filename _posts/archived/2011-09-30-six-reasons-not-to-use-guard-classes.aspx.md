@@ -34,13 +34,13 @@ It seems like a good idea, right? Reduce the three lines of if/throw
 checking to a tiny, fluent-looking one-liner. There are some common
 reasons people seem to like them:
 
--   Makes the code tighter/more readable.
--   If you want to add common logging, you can do it in one place.
+- Makes the code tighter/more readable.
+- If you want to add common logging, you can do it in one place.
 
 Both are totally legit. **But there are a lot more reasons not to like
 them, and here are mine:**
 
-1.  **Guard classes defeat static analysis like FxCop.** I like FxCop. I
+1. **Guard classes defeat static analysis like FxCop.** I like FxCop. I
     treat it like it's another set of unit tests that help me to make
     sure my code behaves consistently. [I don't use all the
     rules](/archive/2008/10/30/fxcop-rule-recommendations.aspx), but
@@ -54,7 +54,7 @@ them, and here are mine:**
     refactoring that renames parameters and you forget to fix that. You
     either have to turn these FxCop rules off or write custom rules that
     understand your Guard class.
-2.  **Guard classes become giant validation dumping grounds.** How many
+2. **Guard classes become giant validation dumping grounds.** How many
     things can you imagine you need to Guard against? Null values, sure.
     Maybe strings that are null or empty. Collections that are null or
     empty. How about ranges? Things like "if this date is in the
@@ -64,15 +64,15 @@ them, and here are mine:**
     of code doing dozens of different validations that aren't actually
     all that common, and there's no real way to "draw the line" and say
     "this should be in, but this shouldn't."
-3.  **Guard classes mess up the call stack.** The place where the
+3. **Guard classes mess up the call stack.** The place where the
     exception gets thrown is now no longer actually the method that
     should be doing the validation - it's one level deeper (possibly
     more if you call Guard methods from other Guard methods).
-4.  **Guard classes become a single point of failure.** Someone messes
+4. **Guard classes become a single point of failure.** Someone messes
     up or tweaks the logic in one Guard check, that affects literally
     every method through the whole application. It also means you'd
     better check performance well in there because it's totally central.
-5.  **Guard classes tend to get used in the wrong places.** Say you have
+5. **Guard classes tend to get used in the wrong places.** Say you have
     a check that validates for null, as seen in the example above.
     That's great for validating arguments to a method... but what about
     if you read in a configuration value and you want to check it for
@@ -80,7 +80,7 @@ them, and here are mine:**
     argument, so you shouldn't throw an ArgumentNullException.
     Unfortunately, it's very tempting to go shorthand everywhere and end
     up throwing the wrong exceptions just because it's convenient.
-6.  **Guard classes fool your unit test coverage.** If you ship the
+6. **Guard classes fool your unit test coverage.** If you ship the
     validation of arguments or values off to a Guard class, then
     suddenly your unit test coverage is 100% whether or not you test the
     failure scenario of an invalid argument - it passed through the
@@ -93,9 +93,9 @@ them, and here are mine:**
 **I'm not convinced that saving one (or three, pending on your counting)
 lines of code for an argument check is really worth all the downsides.**
 
--   If you want the code tighter/one line, maybe you should check into
+- If you want the code tighter/one line, maybe you should check into
     [Code Contracts](http://msdn.microsoft.com/en-us/devlabs/dd491992).
--   If you want logging to be done in a more common fashion, consider
+- If you want logging to be done in a more common fashion, consider
     [Enterprise Library Exception Handling
     Block](http://msdn.microsoft.com/en-us/library/ff664698%28v=PandP.50%29.aspx)
     to log it at a global level or use something like

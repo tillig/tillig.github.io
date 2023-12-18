@@ -37,4 +37,3 @@ entry and gotten things basically connected. We'll see how she goes
 soon.
 
 Oh, and it's like $50/month cheaper, which doesn't hurt.
-

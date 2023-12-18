@@ -49,13 +49,11 @@ tooltip]({{ site.url }}/images/20040929tooltipsample.jpg)
 
  The download includes:
 
--   dhtmltooltip.js - The actual script that performs the DHTML and link
+- dhtmltooltip.js - The actual script that performs the DHTML and link
     rewrites. Information on usage is included in the header of the
     script.
--   test.html - A test page illustrating the script usage (both Amazon
+- test.html - A test page illustrating the script usage (both Amazon
     Associate and text tooltips).
-
-
 
  Note: Since the original release of this DHTML tooltip script, Amazon
 has released their own "link-enhancer" script that performs a similar

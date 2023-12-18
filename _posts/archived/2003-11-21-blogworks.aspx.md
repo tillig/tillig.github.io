@@ -65,7 +65,6 @@ and put it back in the appropriate entries.
 Fix entries that link to other entries so they don't link into
 Greymatter.
 
-
  I think that's it. At least for now.
 
  In other news, I'm stewing a little over the whole [Playstation 2

@@ -11,4 +11,3 @@ tags: [gaming,playstation]
 
 [![Grand Theft Auto V - Trailer
 11/2/11]({{ site.url }}/images/20111026gta5trailercomi.jpg)](http://www.rockstargames.com/newswire/article/19341/grand-theft-auto-v-trailer-110211.html)
-

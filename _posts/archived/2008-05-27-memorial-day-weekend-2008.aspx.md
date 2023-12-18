@@ -46,4 +46,3 @@ Regardless, good times.
 This morning I am ridiculously exhausted. I slept like crap and I'm way
 behind on my current project due to some unforeseen meetings and things.
 Muscling through, but I gotta say I could really use a nap.
-

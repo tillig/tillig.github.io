@@ -14,17 +14,17 @@ Edition](http://www.gamestop.com/product.asp?product%5Fid=200338)*.
 
 This version comes with (from the GameStop site)...
 
--   Grand Theft Auto IV the game with special packaging (a lock box).
--   The Sounds of Grand Theft Auto IV: A selection of our favorite music
+- Grand Theft Auto IV the game with special packaging (a lock box).
+- The Sounds of Grand Theft Auto IV: A selection of our favorite music
     from the soundtrack of GTA IV. This album will only be available
     within the Special Edition package and will feature original tracks
     from some of today's hottest artists.
--   The Grand Theft Auto IV and Rockstar Games Art Book: This will be
+- The Grand Theft Auto IV and Rockstar Games Art Book: This will be
     the 1st ever GTA art book to be published by Rockstar Games and will
     feature exclusive art unreleased anywhere else.
--   A Limited edition Grand Theft Auto IV/Rockstar Games bag which has
+- A Limited edition Grand Theft Auto IV/Rockstar Games bag which has
     been designed especially for this Special Edition
--   An exclusive Rockstar Games keychain to hold your lock box keys.
+- An exclusive Rockstar Games keychain to hold your lock box keys.
 
 Yeah, I'm crazy, and yeah, it did cost me $90... $30 more than the
 game alone.  But I'm a GTA junkie, and they make this crap *targeting me
@@ -34,4 +34,3 @@ replica helmet.
 
 The thing is scheduled to ship on October 16.  If they could guarantee
 it would be in my hands on that day, I'd schedule my PTO *right now*.
-

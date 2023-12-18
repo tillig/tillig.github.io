@@ -46,4 +46,3 @@ To fix it, I stored the DateTime in a local variable.
 Something to keep in the back of your mind as you're working with
 DateTime - or times in general. If you are setting up a date range based
 on a fixed point, best to store that fixed point somewhere and reuse it.
-

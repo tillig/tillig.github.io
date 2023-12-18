@@ -21,4 +21,3 @@ tool](http://weblogs.asp.net/rosherove/archive/2008/07/08/a-sneak-preview-of-typ
 he's working on that will help detect thread deadlock. Very promising,
 indeed. [Check out his site for some great
 screenshots](http://weblogs.asp.net/rosherove/archive/2008/07/08/a-sneak-preview-of-typemock-racer.aspx).
-

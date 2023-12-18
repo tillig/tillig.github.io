@@ -14,4 +14,3 @@ seconds, can you take my eight-question survey on it?
 
 [Go to the survey site](http://www.AdvancedSurvey.com) and use **survey
 number 68141**.
-

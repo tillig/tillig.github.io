@@ -20,6 +20,7 @@ We didn't hand out candy last year due to the COVID-19 outbreak. Looking up and 
 
 Cumulative data:
 
+<!--markdownlint-disable MD033 -->
 <table>
     <thead>
         <tr>
@@ -147,6 +148,7 @@ Cumulative data:
         </tr>
     </tbody>
 </table>
+<!--markdownlint-enable MD033 -->
 
 Our costumes this year:
 

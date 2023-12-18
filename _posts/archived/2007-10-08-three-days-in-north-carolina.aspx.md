@@ -43,7 +43,7 @@ into the aisle rather than riding the seat in front of me like a horse.
 The flight east had three legs - Portland to Seattle, Seattle to
 Charlotte, Charlotte to Asheville.
 
-From Portland to Seattle we were on a little puddle-jumper prop plane. 
+From Portland to Seattle we were on a little puddle-jumper prop plane.
 I got stuck in the back row by the window - not an aisle seat.  The back
 row was a lot like sitting at the back of the bus - it was more like a
 long bench with arm rests than a row of seats.  No seat reclining here -
@@ -95,7 +95,7 @@ The puddle jumper back from Asheville to Charlotte was an interesting
 experience, more from the airport standpoint than from the flight.  It
 was sort of like flying out of the airport from
 *[Wings](http://www.imdb.com/title/tt0098948/)*.  Everyone knows
-everyone.  They don't use a PA system - they just talk really loud. 
+everyone.  They don't use a PA system - they just talk really loud.
 Just... very interesting.  Oh, and I got another window seat on that
 flight.
 
@@ -119,4 +119,3 @@ administrivia that didn't get done while I was out.  But I was super
 tired and am just now really starting to level out sleep-wise.
 
 Next time, I'm not taking that damn red eye.
-

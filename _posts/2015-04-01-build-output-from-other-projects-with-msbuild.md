@@ -11,9 +11,9 @@ In making a package similar to the [NuGet.Server package](https://docs.nuget.org
 That is, in a solution like:
 
 - MySolution.sln
-    - Server.csproj
-    - Project1.csproj
-    - Project2.csproj
+  - Server.csproj
+  - Project1.csproj
+  - Project2.csproj
 
 ...from the `Server.csproj` I wanted to get the build output assembly paths for the `Project1.csproj` and `Project2.csproj` projects.
 

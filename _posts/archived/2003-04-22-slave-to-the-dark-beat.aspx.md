@@ -6,19 +6,19 @@ comments: true
 disqus_identifier: 245
 tags: [movies,sharepoint,music]
 ---
+<!--markdownlint-disable MD036 -->
 > *I feel it deep inside me
->  I wanna ride it
->  Can't fight it
->  I might as well rely on the drum beat
->  DJ, pump the low end frequency
->  Can't hide it
->  I won't deny it
->  'Cause I'm addicted to drums
->  And I'm a slave to the Dark Beat*
+> I wanna ride it
+> Can't fight it
+> I might as well rely on the drum beat
+> DJ, pump the low end frequency
+> Can't hide it
+> I won't deny it
+> 'Cause I'm addicted to drums
+> And I'm a slave to the Dark Beat*
 >
->  - Oscar G & Ralph Falcon feat. OBA Frank Lord's
+> - Oscar G & Ralph Falcon feat. OBA Frank Lord's
 >  *Dark Beat*
-
 
  Lots to say, lots to say, but where to begin? It's been over a week
 since I last posted, and loads has happened. Well, let's begin at the
@@ -433,4 +433,3 @@ anything decent to listen to around here):
  *Creativity and inspiration are outlets more for angst than for joy.*
 
  Talk amongst yourselves.
-

@@ -53,4 +53,3 @@ Visual Studio does for you when you create a new web project.)
 [Hanselman has a more complete article on the
 issue](http://www.hanselman.com/blog/HowToSetAnIISApplicationOrAppPoolToUseASPNET35RatherThan20.aspx),
 but at a minimum, you need to update the compiler in your web.config.
-

@@ -3,7 +3,7 @@ layout: post
 title: "PowerShell as Your Visual Studio Command Prompt"
 date: 2015-09-22 -0800
 comments: true
-tags: [powershell,vs,net]
+tags: [powershell,vs,dotnet]
 ---
 I love PowerShell, but I do a lot with the Visual Studio developer prompt and that's still good old `cmd`.
 

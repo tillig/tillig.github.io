@@ -4,7 +4,7 @@ title: "Challenges of Multi-Tenant, Enterprise ASP.NET Applications"
 date: 2009-04-21 -0800
 comments: true
 disqus_identifier: 1516
-tags: [aspnet,net]
+tags: [aspnet,dotnet]
 ---
 I've been doing ASP.NET for a while, mostly at my current employer where
 we make large-scale online banking web sites. During that, what I've
@@ -36,7 +36,7 @@ customized, which means it needs to have a lot of extensibility points.
 
 So, with that context, here are the big challenges.
 
-**Multi-Tenancy**
+## Multi-Tenancy
 
 Everything in the .NET framework assumes there's only one tenant running
 on the application. When you ask for a configuration value, the value
@@ -53,7 +53,7 @@ for the development group that wants to have a multi-tenant app. That's
 unfortunate, particularly in light of the "Software as a Service" push
 that was going on just a couple of years back. What ever came of that?
 
-**Localization**
+## Localization
 
 Where do resources get stored? In compiled assemblies, right? What if I
 need some text on a page changed at runtime but for security reasons I
@@ -65,7 +65,7 @@ You get to write that. Want the out-of-the-box stuff (like the ASP.NET
 localization expressions) to work with it? You get to write the
 factories and providers for that, too.
 
-**Theming**
+## Theming
 
 The whole ASP.NET theming thing is broken. Not "broken" in that it
 doesn't work, but "broken" in that there are actually two different ways
@@ -76,7 +76,7 @@ crap.
 
 Don't forget each tenant wants their own theme, too.
 
-**Configuration**
+## Configuration
 
 There are a lot of things that you might want to configure in an app.
 Unfortunately, the place that stuff gets stored by default is in an
@@ -92,16 +92,16 @@ through web.config.
 
 Oh, and throw in that multi-tenancy thing, too.
 
-**Extensibility**
+## Extensibility
 
 ASP.NET apps basically aren't extendable at the page level. You can't
 "derive and override" markup. If you want to interject your own logic,
 you have roughly three choices:
 
-1.  Put code blocks inside the markup.
-2.  Override the page class and change the markup to inherit from your
+1. Put code blocks inside the markup.
+2. Override the page class and change the markup to inherit from your
     custom page.
-3.  Try to anticipate what people might want to extend and allow plugins
+3. Try to anticipate what people might want to extend and allow plugins
     through inversion of control, Microsoft Extensibility Framework, or
     some similar approach.
 
@@ -113,7 +113,7 @@ make everything infinitely extensible.
 
 This actually has a direct impact on...
 
-**Deployment and Upgradeability**
+## Deployment and Upgradeability
 
 So, you put together your web app installer, run the MSI, and it puts a
 bunch of markup and config in the filesystem and some assemblies in the
@@ -157,4 +157,3 @@ Visual Studio? Or is it a case of self-fulfilling prophecy, where the
 features aren't there so people don't make these apps... and because
 people aren't making these apps, the features aren't considered
 important so they aren't there?
-

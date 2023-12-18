@@ -106,4 +106,3 @@ disappear... today I found that they've "lost" my blog skin images, so my
 blog doesn't render right. I'm going to switch to a
 simpler/lighter-weight skin until I can get that fixed (probably until I
 move to WordPress – it was time for a change anyway).
-

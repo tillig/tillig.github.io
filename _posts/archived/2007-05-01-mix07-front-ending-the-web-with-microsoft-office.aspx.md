@@ -4,7 +4,7 @@ title: "MIX07 - Front-Ending the Web with Microsoft Office"
 date: 2007-05-01 -0800
 comments: true
 disqus_identifier: 1193
-tags: [conferences,aspnet,net]
+tags: [conferences,aspnet,dotnet]
 ---
 There's a lot of [Silverlight](http://www.silverlight.net) content
 floating around at [MIX07](http://visitmix.com), so I thought I'd check
@@ -21,6 +21,7 @@ a user, as an additional offering for ways to access data, this is good
 stuff.
 
  Demos were done using Visual Studio "Orcas" (an as-yet-unreleased build
+
 - so you can't do all the things quite as easily as the demos showed,
 but once it's out, it looks like extending Office is a piece of cake)
 and Visual Studio Tools for Office.

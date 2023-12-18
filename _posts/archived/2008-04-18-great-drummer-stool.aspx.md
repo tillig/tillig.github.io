@@ -17,12 +17,11 @@ what I need when I'm rocking out. I ended up finding [the "Vitamin"
 stool at Ikea](http://www.ikea.com/us/en/catalog/products/90118811) and
 it's perfect.
 
--   Adjustable height.
--   Comfortable seat.
--   Tolerant of the need to lean forward or backward (at least if you're
+- Adjustable height.
+- Comfortable seat.
+- Tolerant of the need to lean forward or backward (at least if you're
     playing on carpet) - underneath the bottom is sort of angled on the
     edges.
 
 Plus, it's pretty reasonably priced. If you're looking for a good
 drummer stool, grab yourself one of these.
-

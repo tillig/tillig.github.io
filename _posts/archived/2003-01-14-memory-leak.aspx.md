@@ -27,15 +27,15 @@ same temperature as the outside? Not this time.
 today to fill up my pre-order schedule. I like getting prizes in the
 mail. I ended up buying:
 
--   [*The Bourne
+- [*The Bourne
     Identity*](http://www.amazon.com/exec/obidos/ASIN/B00003CXXM/mhsvortex)
--   [*Lexx* Season 4, Volume
+- [*Lexx* Season 4, Volume
     1](http://www.amazon.com/exec/obidos/ASIN/B00007L4O6/mhsvortex)
--   [*Lexx* Season 4, Volume
+- [*Lexx* Season 4, Volume
     2](http://www.amazon.com/exec/obidos/ASIN/B000083C4A/mhsvortex)
--   [*Angel* Season
+- [*Angel* Season
     1](http://www.amazon.com/exec/obidos/ASIN/B00005JLEW/mhsvortex)
--   [*The Osbournes* Season
+- [*The Osbournes* Season
     1](http://www.amazon.com/exec/obidos/ASIN/B00005JLBW/mhsvortex)
 
 I even still had a [$5 promotional gift certificate in my

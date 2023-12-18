@@ -26,14 +26,12 @@ tree. Monad to the rescue, right? One command line:
 
  That will:
 
--   Recurse through the filesystem from the current location down
--   Sort all the files found by last write time
--   Get the first five in that list (the most recent five modified
+- Recurse through the filesystem from the current location down
+- Sort all the files found by last write time
+- Get the first five in that list (the most recent five modified
     files)
--   Get the last write time and full name properties, and
--   Format the property list into a nice table
-
-
+- Get the last write time and full name properties, and
+- Format the property list into a nice table
 
  It ends up looking like this (click to enlarge):
 

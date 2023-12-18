@@ -17,4 +17,3 @@ found](http://www.vacuumformerplans.blogspot.com/) on creating a cheap
 crafts achievable. There's [a great walkthrough on Instructables for
 it](http://www.instructables.com/id/Make-a-good%2c-cheap%2c-upgradeable-sheet-plastic-vacu/)
 (by the same guy). Here's the vacuum former in action:
-

@@ -158,4 +158,3 @@ Good going, Xbox DRM people.  Thanks for everything.
 **UPDATE:** The problem was [corruption on my hard
 drive](/archive/2008/01/28/status-on-xbox-live-drm-and-dashboard-problems.aspx).
 They ended up sending me a new hard drive.
-

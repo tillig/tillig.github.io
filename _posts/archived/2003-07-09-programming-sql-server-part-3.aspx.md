@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 291
 tags: [sql,personal]
 ---
+<!--markdownlint-disable MD036 -->
 *9:24a*
 
  I'm glad I don't have to do anything tonight, because after last

@@ -12,12 +12,12 @@ The [DefaultModelBinder](http://msdn.microsoft.com/en-us/library/system.web.mvc.
 
 If you're writing a custom model binder and you want to participate in this...
 
--   Get the value to parse from the value provider. If there is no value to parse, return null and you're done.
--   Create a ModelState object and set the Value property to the value you're about to parse.
--   Add the ModelState object to the incoming ModelBindingContext. -   Attempt to parse the value. If it's successful, great. Return the properly parsed value and you're done.
--   If you can't parse the value...
-    -   Add a FormatException to the ModelState object.
-    -   Return null.
+- Get the value to parse from the value provider. If there is no value to parse, return null and you're done.
+- Create a ModelState object and set the Value property to the value you're about to parse.
+- Add the ModelState object to the incoming ModelBindingContext. -   Attempt to parse the value. If it's successful, great. Return the properly parsed value and you're done.
+- If you can't parse the value...
+  - Add a FormatException to the ModelState object.
+  - Return null.
 
 A simple skeleton binder that does all that looks like this:
 
@@ -69,8 +69,8 @@ The {0} parameter is the original value result; the {1} parameter is the display
 
 The DefaultModelBinder uses resources in the System.Web.Mvc assembly for its default set of error messages. There are two resource IDs to be aware of:
 
--   **PropertyValueInvalid**: The message for a value that couldn't be parsed and resulted in a FormatException. This gets a String.Format call on it where the first parameter is the attempted value and the second parameter is the name of the property. Default value: `The value '{0}' is not valid for {1}.`
--   **PropertyValueRequired**: The message for a value that wasn't available but is required, like a null sent in for an integer. No String.Format on this happens. Default value: `A value is required.`
+- **PropertyValueInvalid**: The message for a value that couldn't be parsed and resulted in a FormatException. This gets a String.Format call on it where the first parameter is the attempted value and the second parameter is the name of the property. Default value: `The value '{0}' is not valid for {1}.`
+- **PropertyValueRequired**: The message for a value that wasn't available but is required, like a null sent in for an integer. No String.Format on this happens. Default value: `A value is required.`
 
 **If you want to use your own strings, you need to set the**[**DefaultModelBinder.ResourceClassKey**](http://msdn.microsoft.com/en-us/library/system.web.mvc.defaultmodelbinder.resourceclasskey.aspx)**static property.**
 

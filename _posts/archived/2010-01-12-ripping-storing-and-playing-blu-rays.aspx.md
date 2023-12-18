@@ -13,4 +13,3 @@ Doesn't sound too different from [how I have my Media Center stuff set
 up](/archive/2008/09/30/overview-of-my-media-center-solution.aspx)
 except he's using [MyMovies](http://www.mymovies.dk) to list the titles
 and I'm using the built-in Media Center movie library.
-

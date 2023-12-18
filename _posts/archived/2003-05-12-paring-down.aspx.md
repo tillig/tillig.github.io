@@ -167,4 +167,3 @@ with after vacation is more work to try to catch up on.
 Federal jury duty. I've got training courses scheduled during the time
 I'm supposed to go, though, so I've got to see if I can get out of it.
 With my luck... well, let's not jinx it here, shall we?
-

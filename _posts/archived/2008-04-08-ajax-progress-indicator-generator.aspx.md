@@ -11,4 +11,3 @@ Great site that generates custom AJAX progress indicator graphics.
 Indicator]({{ site.url }}/images/20080408progress.gif) Select
 your colors, select the indicator type, and generate it. Free.
 [http://ajaxload.info](http://ajaxload.info)
-

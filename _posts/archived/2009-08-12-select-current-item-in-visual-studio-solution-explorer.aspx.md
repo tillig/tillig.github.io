@@ -14,7 +14,6 @@ key TWICE - once to select the current item, once to turn the setting
 back off. If I find a better solution to the problem I'll update this
 post.
 
-
 When I'm working in Visual Studio, I generally turn off the option to
 automatically track the current item in the Solution Explorer. I don't
 like the Solution Explorer hopping about as I switch from file to file.
@@ -30,4 +29,3 @@ and bind it yourself. I've got mine bound to Ctrl+Shift+Alt+T. ('T' for
 
 ![View.TrackActivityinSolutionExplorer key
 binding]({{ site.url }}/images/20090812trackactivityinsolutone.png)
-

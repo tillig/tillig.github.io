@@ -33,12 +33,12 @@ for illegal fireworks that night.
 
 From a retrospective standpoint there are a couple of things to mention:
 
--   **I still hate driving the truck.** Just thinking about driving a
+- **I still hate driving the truck.** Just thinking about driving a
     moving truck makes me tense up. Lighting explosives next to my head?
     No problem. Driving the moving truck? Problem. Jenn is a freaking
     truck-driving maniac so she took care of it most of the time, but I
     still had ample opportunity to tense up behind the wheel.
--   **It is really, really hard to get a crew together.** Really hard.
+- **It is really, really hard to get a crew together.** Really hard.
     Beyond hard. We had a really great crew this year, just as we did
     last year, but even giving people over a month's notice it's
     difficult to get folks to commit to being there... and you really
@@ -52,7 +52,7 @@ From a retrospective standpoint there are a couple of things to mention:
     not for everyone, so you sort of "burn through your contacts list"
     pretty quickly looking for folks. I was working on getting crew
     together until a week ago.
--   **We probably could have gone just a tad faster.** Looking back at
+- **We probably could have gone just a tad faster.** Looking back at
     the video, things felt a little slow overall. I don't remember it
     being that way when we were there, and watching fireworks on video
     is sort of dumb and anticlimactic anyway, but there were a few dead
@@ -69,6 +69,7 @@ crew together this year, and there was so much work around coordinating
 the whole thing - getting the truck, scheduling people to be where they
 need to be, making sure people have their questions answered, following
 up to make sure everyone brought everything they were supposed to, etc.
+
 - that it's really started to be much less fun than it used to be.
 
 In some cases getting a show together is like getting a small wedding
@@ -86,4 +87,3 @@ is basically just to have the ability to say I'm licensed.
 Anyway, something to think about. In the meantime, we had a great show
 this year, so thanks to the crew for all their hard work in making it
 happen!
-

@@ -55,4 +55,3 @@ Fair](http://www.faircomplex.com/wcf2008/index.html) so we can see [the
 Pirate's Parrot Show](http://www.thepiratesparrot.com/) and maybe have a
 funnel cake. Since it's free admission, we may even go Friday night and
 Saturday. It's a lot of fun and only a few minutes away from home.
-

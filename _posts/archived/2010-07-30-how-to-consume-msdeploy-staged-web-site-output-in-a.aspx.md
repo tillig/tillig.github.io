@@ -40,11 +40,11 @@ web project.** It just takes a little manual hacking to get it to work.
 Not much, but it is manual.
 
 First, add a project reference from your Wix .wixproj to your web
-project. In Visual Studio, set the properties on that project reference
-- set "Harvest" to False and "Project Output Group" to "None." If you
+project. In Visual Studio, set the properties on that project reference - set "Harvest" to False and "Project Output Group" to "None." If you
 look at the .wixproj source, that reference will look something like
 this:
 
+```xml
     <ItemGroup>
       <ProjectReference Include="..\..\UI\UI.csproj">
         <Name>UI</Name>
@@ -56,6 +56,7 @@ this:
         <RefTargetDir>INSTALLLOCATION</RefTargetDir>
       </ProjectReference>
     </ItemGroup>
+```
 
 Once you have that, it's time to do a little manual hacking.
 
@@ -63,6 +64,7 @@ Open up the .wixproj in a text editor. Find the ProjectReference you
 just added. Just before the end of the ProjectReference, add a metadata
 property called "WebProject" and set it to "True" like this:
 
+```xml
     <ItemGroup>
       <ProjectReference Include="..\..\UI\UI.csproj">
         <Name>UI</Name>
@@ -75,6 +77,7 @@ property called "WebProject" and set it to "True" like this:
         <WebProject>True</WebProject>
       </ProjectReference>
     </ItemGroup>
+```
 
 This will set web projects apart from other projects - in case you have
 multiple project references going. This is how you can identify which
@@ -87,6 +90,7 @@ node at the bottom of the file. You may even see a little comment that
 is there telling you where to place the Target. The empty Target will
 look something like this:
 
+```xml
         <!-- ...here's your project reference... -->
         </ProjectReference>
       </ItemGroup>
@@ -94,20 +98,22 @@ look something like this:
       <Target Name="BeforeBuild">
       </Target>
     </Project>
+```
 
 The magic goes inside the BeforeBuild target. What you want to do there
 is:
 
--   Use the MSDeploy stuff to "stage" the web site with all of its
+- Use the MSDeploy stuff to "stage" the web site with all of its
     transformed configuration files and everything.
--   Tell Wix where the staged output is.
--   Tell Wix to generate a Wix source file that includes the entire
+- Tell Wix where the staged output is.
+- Tell Wix to generate a Wix source file that includes the entire
     staged web site contents.
--   Do this for all of the project references that are marked as
+- Do this for all of the project references that are marked as
     WebProject = True.
 
 That's done with just a few lines of MSBuild script:
 
+```xml
     <Target Name="BeforeBuild">
       <MSBuild
         Projects="%(ProjectReference.FullPath)"
@@ -130,13 +136,14 @@ That's done with just a few lines of MSBuild script:
         ToolPath="$(WixToolPath)"
         Condition="'%(ProjectReference.WebProject)'=='True'" />
     </Target>
+```
 
 (Note that it's line-wrapped for readability, but in the .wixproj file
 it's only five lines in the Target.)
 
 Let's walk through that:
 
--   **The MSBuild task calls the "Package" target on each of the project
+- **The MSBuild task calls the "Package" target on each of the project
     references where WebProject = True.** The property it passes in for
     "Platform" is AnyCPU because it's a platform target that pretty much
     everything knows about by default. It's important to specify a
@@ -152,7 +159,7 @@ Let's walk through that:
     web.config transforms - that's how it knows which transform to use.
     Finally, you'll see the Condition on the MSBuild task - that's how
     we make sure to only run this for web projects.
--   **The ItemGroup sets up an item for Wix.** Wix needs to know where
+- **The ItemGroup sets up an item for Wix.** Wix needs to know where
     the staged output base path is. The Package target builds its staged
     output by convention. It goes in a folder called:
     obj\\[Configuration]\\Package\\PackageTmp
@@ -165,7 +172,7 @@ Let's walk through that:
     C:\\MyWebApp\\obj\\Debug\\Package\\PackageTmp
     The crazy long MSBuild-script-variable string you see there builds
     up the location of the Package output using that convention.
--   **The HeatDirectory task builds the Wix source from the Package
+- **The HeatDirectory task builds the Wix source from the Package
     output.** The file it builds will match the name of the
     ProjectReference, so if your web application is called
     "MyWebApp.csproj" then the Wix script it builds will be
@@ -189,6 +196,7 @@ Feature that should install your web site and use the generated
 "ProjectName\_Project" (e.g., "MyWebApp\_Project") component ID, like in
 this fragment:
 
+```xml
     <?xml version="1.0" encoding="UTF-8"?>
     <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
       <Product Id="YOURGUID-HERE-abcd-abcd-abcdabcdabcd" Name="YourProduct" ...>
@@ -198,6 +206,7 @@ this fragment:
         </Feature>
       </Product>
     </Wix>
+```
 
 That's it! (Actually, that wasn't a small amount of work, but it's not
 as hard as some things in Wix.)

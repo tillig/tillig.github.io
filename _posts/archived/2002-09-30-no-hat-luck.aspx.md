@@ -59,4 +59,3 @@ work.
  Plus, it doesn't hurt that [Jennifer
 Garner](http://abc.abcnews.go.com/primetime/alias/profiles/actor_garner.html)
 is hot.
-

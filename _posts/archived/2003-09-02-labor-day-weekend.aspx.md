@@ -124,18 +124,16 @@ damn check and hope for the best.
 (in reference to the [political raving I was
 doing](/archive/2003/08/29/political-raving.aspx)):
 
--   Bondage / Chains
--   Spiritual Faith
--   Courage
--   Liberty
--   Abundance
--   Selfishness
--   Complacency
--   Apathy
--   Dependency and Degeneracy
--   Bondage / Chains
-
-
+- Bondage / Chains
+- Spiritual Faith
+- Courage
+- Liberty
+- Abundance
+- Selfishness
+- Complacency
+- Apathy
+- Dependency and Degeneracy
+- Bondage / Chains
 
  Looks to me like we passed through Abundance and Selfishness in the
 80's, hit Complacency and Apathy in the 90's, and we're currently

@@ -39,6 +39,7 @@ were never allowed to touch it. When I say "never allowed to touch it,"
 I don't mean "never allowed to use it." I mean, *never allowed to touch
 it*. Dad put the Fear of God in us about that sprayer - assumedly due to
 the weed killer that was used so often in it, but I can't recall exactly
+
 - as though VX gas would erupt from its bowels and melt us to the ground
 if we so much as looked at it sideways.
 

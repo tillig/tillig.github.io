@@ -21,9 +21,9 @@ through Visual Studio directly?
 
 The community seems to have settled on one of three options:
 
--   Build .vdproj using devenv.exe from a command line.
--   Use [WiX](http://wix.sourceforge.net/) instead of .vdproj.
--   Skip MSI altogether and look at some other install technology like
+- Build .vdproj using devenv.exe from a command line.
+- Use [WiX](http://wix.sourceforge.net/) instead of .vdproj.
+- Skip MSI altogether and look at some other install technology like
     [InstallShield](http://www.macrovision.com/products/installation/installshield.htm)
     or [NSIS](http://nsis.sourceforge.net/) or something.
 
@@ -34,9 +34,9 @@ functionality the way, oh, *almost everything* glares at me from
 
 Here's my proposal for the Visual Studio team:
 
--   Lose the .vdproj project format.
--   Use WiX in Visual Studio and have a converter from .vdproj to WiX.
--   Enable MSBuild to build WiX.
+- Lose the .vdproj project format.
+- Use WiX in Visual Studio and have a converter from .vdproj to WiX.
+- Enable MSBuild to build WiX.
 
 I'm positive there are glaring problems with my simple proposal, not the
 least of which is that WiX is a whole separate product (with its own VS

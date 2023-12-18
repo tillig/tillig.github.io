@@ -52,4 +52,3 @@ thick.
 
 **UPDATE 10/02/05**: The costume came out well. [Here are the
 details.](/archive/2005/10/02/wonka-costume-complete.aspx)
-

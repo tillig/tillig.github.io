@@ -7,6 +7,7 @@ disqus_identifier: 1720
 tags: [personal]
 ---
 I associate [Radio Shack](http://www.radioshack.com/) with the DIY crowd
+
 - folks who probably know more than average about electronic
 componentry, or at least enough to be dangerous, and need someplace to
 get raw materials.
@@ -45,6 +46,7 @@ A guy came out of the back and we went through the whole
 aisle, but he went much faster, emulating "purpose." After visiting each
 of the three aisles a couple of times, we finally ended in the middle
 aisle where, lo and behold, they had not one but *two* models available
+
 - a digital ($50) and an analog ($15).
 
 "What's the difference between these two models?" I asked.
@@ -61,4 +63,3 @@ of that is actually anything of substance. You don't know where stuff is
 or even what you have?
 
 *That*, my friends, is why Radio Shack is failing.
-

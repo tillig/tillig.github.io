@@ -42,24 +42,22 @@ much the same thought process entirely. It began with a conversation
 Andrew and I had about reality TV:
 
 > **Andrew:** Do you watch reality TV?
->  **Travis:** Yeah, *Survivor* and sometimes *American Idol*. You?
->  **A:** Both of those. Oh, and *Average Joe*.
->  **T:** Is that the one where the guys wear the masks?
->  **A:** No, it's the one where the lady has to choose between a group
+> **Travis:** Yeah, *Survivor* and sometimes *American Idol*. You?
+> **A:** Both of those. Oh, and *Average Joe*.
+> **T:** Is that the one where the guys wear the masks?
+> **A:** No, it's the one where the lady has to choose between a group
 > of average guys and a group of models.
->  **T:** Who'd she choose last season?
->  **A:** The model.
->  **T:** Of course she did. Was there ever any doubt?
+> **T:** Who'd she choose last season?
+> **A:** The model.
+> **T:** Of course she did. Was there ever any doubt?
 >
->  \*\*\* Time passes... conversations change, the trivia game
+> \*\*\* Time passes... conversations change, the trivia game
 > continues, and somehow someone starts talking about reality TV
 > again... \*\*\*
 >
->  **Jenn:** So you like reality TV?
->  **A:** I watch a couple of shows. *Average Joe*...
->  **J:** Is that the one where the guys wear the masks?
-
-
+> **Jenn:** So you like reality TV?
+> **A:** I watch a couple of shows. *Average Joe*...
+> **J:** Is that the one where the guys wear the masks?
 
  I think you see where that's going.
 

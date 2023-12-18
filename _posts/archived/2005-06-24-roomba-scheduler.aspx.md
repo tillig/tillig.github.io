@@ -12,7 +12,7 @@ the [Roomba
 Scheduler](http://irobot.com/consumer/product_detail.cfm?prodid=52): It
 allows you to program your Roomba to automatically run at scheduled
 times.
- 
+
  Of course, if you already have a Roomba, you can just [add on the
 scheduling
 capability](http://irobot.com/consumer/product_detail.cfm?prodid=51).

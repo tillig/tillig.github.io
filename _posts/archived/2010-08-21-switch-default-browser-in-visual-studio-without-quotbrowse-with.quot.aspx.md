@@ -17,4 +17,3 @@ is a nightmare.
 
 [Enter Hanselman, who has posted a Powershell solution to the problem.
 YAY!](http://www.hanselman.com/blog/HowToChangeTheDefaultBrowserInVisualStudioProgrammaticallyWithPowerShellAndPossiblyPokeYourselfInTheEye.aspx)
-

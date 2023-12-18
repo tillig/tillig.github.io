@@ -4,7 +4,7 @@ title: "Introducing AutofacContrib.Multitenant - Multitenant Dependency Injectio
 date: 2010-07-28 -0800
 comments: true
 disqus_identifier: 1655
-tags: [autofac,net]
+tags: [autofac,dotnet]
 ---
 It's taken some time and a couple of
 [long](http://groups.google.com/group/autofac/browse_thread/thread/c21616ef0a029ddb)
@@ -17,20 +17,20 @@ available as a contributed library.
 
 The basic usage pattern is:
 
--   **Determine a strategy by which tenants are identified.** That is,
+- **Determine a strategy by which tenants are identified.** That is,
     which tenant is making a given request? This might come from an
     environment variable, a request parameter, a role on the user's
     principal, or wherever.
--   **Build up your application container with the default dependency
+- **Build up your application container with the default dependency
     set.** For tenants that don't override anything, they'll use these
     defaults.
--   **Create a multitenant-aware container based on the application
+- **Create a multitenant-aware container based on the application
     defaults.** This is where the magic of AutofacContrib.Multitenant
     comes into play.
--   **Configure tenant-specific overrides with the multitenant-aware
+- **Configure tenant-specific overrides with the multitenant-aware
     container.** Tenants can override things, add new dependencies, or
     whatever they need to do.
--   **Resolve everything out of the multitenant-aware container.** All
+- **Resolve everything out of the multitenant-aware container.** All
     of the resolutions will automatically use your tenant identification
     strategy so you'll always get a tenant-specific result.
 
@@ -65,4 +65,3 @@ Group](http://groups.google.com/group/autofac). What did you like? What
 were the pain points? Did you find a scenario that didn't work? How was
 the documentation? The more feedback we get, the better we can make it!
 Thanks!
-

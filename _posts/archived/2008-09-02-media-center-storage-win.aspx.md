@@ -31,11 +31,11 @@ story I was
 reading](http://angryhacker.com/blog/archive/2007/08/20/the-death-of-dvd.aspx).
 The question is, what software do I want to run?
 
--   Under Windows Vista Media Center, I have two choices:
-    -   The out-of-the-box DVD Library, which is the simplest way to go
+- Under Windows Vista Media Center, I have two choices:
+  - The out-of-the-box DVD Library, which is the simplest way to go
         but doesn't offer much in the way of searching/sorting by genre,
         cast, etc.
-    -   [My Movies](http://www.mymovies.name), a plugin for Media
+  - [My Movies](http://www.mymovies.name), a plugin for Media
         Center, which provides a much richer interface but also is
         higher-touch. There's [a server component I'd have to install on
         the Windows Home
@@ -43,18 +43,18 @@ The question is, what software do I want to run?
         that, frankly, scares me because the WHS is working so well
         right now, I'd hate to start hacking on it.
 
--   Sticking with straight Mac, I have some choices, too (probably more
+- Sticking with straight Mac, I have some choices, too (probably more
     than I'm aware of):
-    -   [Front Row](http://en.wikipedia.org/wiki/Front_Row), which, as
+  - [Front Row](http://en.wikipedia.org/wiki/Front_Row), which, as
         of version 10.5, [finally supports playback of VIDEO_TS
         folders](http://www.macosxhints.com/article.php?story=20071029182617245).
         Doesn't look like it's much richer than the DVD Library in Vista
         Media Center, but if I went Mac Mini, it'd require less to be
         installed on the Mac. (No Boot Camp running Vista, for example.)
-    -   [Matinee](http://matinee.dizandat.com/), which looks pretty
+  - [Matinee](http://matinee.dizandat.com/), which looks pretty
         thin. I'm thinking if Front Row supports VIDEO_TS, I'd probably
         be best off with that over Matinee.
-    -   [DistantDVD](http://www.distantdvd.com/), which is also pretty
+  - [DistantDVD](http://www.distantdvd.com/), which is also pretty
         thin but is specifically geared towards what I'm trying to do -
         play the video off the network. It doesn't show any more info
         than the DVD Library, though, so, again, if Front Row supports
@@ -70,16 +70,15 @@ as much out-of-the-box, it-just-works as I can get, the better.
 
 It looks like it boils down to a small hierarchy of choices:
 
--   Do I need to have cast/genre/etc. information with the movies or is
+- Do I need to have cast/genre/etc. information with the movies or is
     the title and cover art enough?
-    -   If I need more than title/cover art, My Movies seems to be the
+  - If I need more than title/cover art, My Movies seems to be the
         way.
-    -   If I don't need more than title/cover art... Do I want to use
+  - If I don't need more than title/cover art... Do I want to use
         out-of-the-box Mac stuff or do I want Vista Media Center?
-        -   If it's OOTB Mac, which would be the easiest, it looks like
+    - If it's OOTB Mac, which would be the easiest, it looks like
             Front Row is probably the answer.
-        -   If it's Vista Media Center, DVD Library.
+    - If it's Vista Media Center, DVD Library.
 
 I'll do a little more research on Front Row, but my media center
 solution is getting close...
-

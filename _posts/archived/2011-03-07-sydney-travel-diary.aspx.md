@@ -182,6 +182,6 @@ Picasa](https://picasaweb.google.com/travis.illig/2011SydneyAustralia)
 (but only a fraction of the 550+ photos I took). Go check that out if
 you'd like to see more.
 
-[![Travis, Derek, and a couple of locals on the Sydney Harbour bridge climb.](https://lh4.googleusercontent.com/_P1NCAbHEm2Q/TXLMvc4kgrI/AAAAAAAAB-U/Qo1CI1otVHg/s400/20110227_145205%20BridgeClimb%2011.jpg)](https://picasaweb.google.com/lh/photo/KlYiCd0exImI80p9qgmp-w?feat=embedwebsite)<br />From [2011 Sydney Australia](https://picasaweb.google.com/travis.illig/2011SydneyAustralia?feat=embedwebsite)
+[![Travis, Derek, and a couple of locals on the Sydney Harbour bridge climb.](https://lh4.googleusercontent.com/_P1NCAbHEm2Q/TXLMvc4kgrI/AAAAAAAAB-U/Qo1CI1otVHg/s400/20110227_145205%20BridgeClimb%2011.jpg)](https://picasaweb.google.com/lh/photo/KlYiCd0exImI80p9qgmp-w?feat=embedwebsite)
 
-
+From [2011 Sydney Australia](https://picasaweb.google.com/travis.illig/2011SydneyAustralia?feat=embedwebsite)

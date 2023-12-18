@@ -22,14 +22,14 @@ your computer has a fixed amount of capacity to solve them in. Your disk
 isn't getting any faster, your CPU isn't going to magically process at
 an extra gigahertz faster. You've got what you've got. With that,
 besides getting work done, you probably also want to:
--   **Back things up** - It'd be a shame if you lost your work.
--   **Stop the spread of viruses** - You don't want to get infected,
+
+- **Back things up** - It'd be a shame if you lost your work.
+- **Stop the spread of viruses** - You don't want to get infected,
     now, do you?
--   **Keep company data secure** - If someone breaks into your car and
+- **Keep company data secure** - If someone breaks into your car and
     steals your laptop while you're picking up donuts for the morning
     meeting at the store, they shouldn't get access to your proprietary
     data
-
 
  Each of those things are valuable, but they also eat resources on your
 system. In some cases, not a trivial amount, either.

@@ -13,6 +13,7 @@ pleased with how it turned out.
  Parts (along with where I got them and my original cost):
 Cambria Gun Metal Paragon Finials ([Bed Bath &
 Beyond](http://www.bedbathandbeyond.com/product.asp?order_num=-1&SKU=13596239))
+
 - Set of 2, $15
 White spray paint and spray primer ([Fred
 Meyer](http://www.fredmeyer.com/)) - $7
@@ -142,4 +143,3 @@ have a larger volume.
 
 **UPDATE 10/02/05**: The whole Wonka costume I made came out well. [Here
 are the details.](/archive/2005/10/02/wonka-costume-complete.aspx)
-

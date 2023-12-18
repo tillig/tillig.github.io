@@ -18,6 +18,7 @@ to go.
  Watched [*Survivor*](http://www.cbs.com/primetime/survivor5/) last
 night on [my new
 TV](http://www.sonystyle.com/home/item.jsp?hierc=9685x9800x9801&catid=9801&itemid=36589&type=o)
+
 - the first real show I've gotten to just sit down and watch since I got
 the thing hooked up. It was the bomb. Didn't hurt that they voted that
 whiny bitch

@@ -51,7 +51,7 @@ If you don't follow these blogs, go subscribe. These are some smart guys.
 
 ### You Need to Know Jekyll and Liquid
 
-You don't have to be an expert, but it is very, *very* helpful to know [Jekyll](http://jekyllrb.com/) (the HTML content generator) and [Liquid](http://docs.shopify.com/themes/liquid-documentation/basics) (the template engine) at least on a high-level basis. As you work through issues and fix styles or config items, this helps a lot to track things down. 
+You don't have to be an expert, but it is very, *very* helpful to know [Jekyll](http://jekyllrb.com/) (the HTML content generator) and [Liquid](http://docs.shopify.com/themes/liquid-documentation/basics) (the template engine) at least on a high-level basis. As you work through issues and fix styles or config items, this helps a lot to track things down.
 
 ### Initialize the Repository
 
@@ -93,11 +93,11 @@ Oh, and Haack was on some newer/custom version of Subtext where the database sch
 
 **[Here's my forked version of Haack's subtext-jekyll-exporter](https://github.com/tillig/subtext-jekyll-exporter)** that you can use for exporting your content and comments. You can also fork it as a starter for your own export process.
 
-* Drop the `JekyllExport.aspx` and `DisqusCommentExport.aspx` files into your Subtext blog.
-* Save the output of each as an XML file.
-* Make your URLs relative. I have a little section on this just below, but it's way easier to deal with local blog development if your URLs don't have the protocol or host info in them for internal links. It's easier to do this in the exported content before running the exporter to process into Markdown.
-* Run the `SubtextJekyllExporter.exe` on the XML from `JekyllExport.aspx` to convert it into Markdown. These will be the Markdown pages that go in the `_posts/archived` folder and they'll have Disqus identifiers ready to go to tie existing comments to the articles.
-* In Disqus, import a "general" WXR file and use the XML from `DisqusCommentExport.aspx` as the WXR file. It may take a while to import, so give it some time.
+- Drop the `JekyllExport.aspx` and `DisqusCommentExport.aspx` files into your Subtext blog.
+- Save the output of each as an XML file.
+- Make your URLs relative. I have a little section on this just below, but it's way easier to deal with local blog development if your URLs don't have the protocol or host info in them for internal links. It's easier to do this in the exported content before running the exporter to process into Markdown.
+- Run the `SubtextJekyllExporter.exe` on the XML from `JekyllExport.aspx` to convert it into Markdown. These will be the Markdown pages that go in the `_posts/archived` folder and they'll have Disqus identifiers ready to go to tie existing comments to the articles.
+- In Disqus, import a "general" WXR file and use the XML from `DisqusCommentExport.aspx` as the WXR file. It may take a while to import, so give it some time.
 
 You can test this out locally when it's done. Using Jekyll to host your site locally, check out your comment section on one of the posts in your site with comments. They should show up.
 
@@ -121,9 +121,9 @@ My blog is at `www.paraesthesia.com` (I like the `www` part, some folks don't). 
 
 For the `www` case, like mine:
 
-* **Add a CNAME file to the root of your blog repo.** It should contain one line: `www.yourdomain.com`
-* **In your DNS provider, set an A record for your main domain.** That is, for `@` and `*` on your domain, set `A` records [as outlined on the GitHub A record tips page](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider).
-* **In your DNS provider, set a CNAME record for your www subdomain.** For `www`, set a `CNAME` pointed to `yourusername.github.io` [as outlined on the GitHub CNAME record tips page](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider)
+- **Add a CNAME file to the root of your blog repo.** It should contain one line: `www.yourdomain.com`
+- **In your DNS provider, set an A record for your main domain.** That is, for `@` and `*` on your domain, set `A` records [as outlined on the GitHub A record tips page](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider).
+- **In your DNS provider, set a CNAME record for your www subdomain.** For `www`, set a `CNAME` pointed to `yourusername.github.io` [as outlined on the GitHub CNAME record tips page](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider)
 
 What got me/wasn't clear was that for the `www` special case, you have to do *both* the `A` and `CNAME` records.
 

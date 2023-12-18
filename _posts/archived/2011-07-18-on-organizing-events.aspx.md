@@ -14,12 +14,12 @@ It's not any one event that led me to this; it's more the ongoing
 experience of attempting to organize events that's brought it on. A long
 history of non-success. This includes, but is not limited to:
 
--   Housewarming parties.
--   General gatherings of friends.
--   Birthday parties.
--   Fireworks crews.
--   Online gaming.
--   Vacations.
+- Housewarming parties.
+- General gatherings of friends.
+- Birthday parties.
+- Fireworks crews.
+- Online gaming.
+- Vacations.
 
 From this point on, you're free to abandon ship because I know most of
 this will probably end up coming across as "poor me" and fairly
@@ -87,4 +87,3 @@ just us anymore.
 Anyway, like I said, it all sounds like a big "poor me" rant, but that's
 why I'm not coordinating stuff anymore, or, at least, I'll avoid it
 wherever possible.
-

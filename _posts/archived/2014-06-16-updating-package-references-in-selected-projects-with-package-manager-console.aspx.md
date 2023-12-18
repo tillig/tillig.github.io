@@ -24,16 +24,16 @@ command on those filtered projects. It looks like this:
 
 In that little script...
 
--   `Get-Project -All` gets the entire list of projects in the current
+- `Get-Project -All` gets the entire list of projects in the current
     loaded solution.
--   The `Where-Object` is where you filter out the stuff you don't want
+- The `Where-Object` is where you filter out the stuff you don't want
     upgraded. I don't want to run the Autofac upgrade on Autofac itself,
     but I could also add other projects.
--   The `ForEach-Object` runs the package update for each selected
+- The `ForEach-Object` runs the package update for each selected
     project.
-    -   The `-Version` parameter is the build from [our MyGet
+  - The `-Version` parameter is the build from [our MyGet
         feed](https://www.myget.org/F/autofac) that I want to try out.
-    -   The `-Source` parameter is the NuGet source name I've added for
+  - The `-Source` parameter is the NuGet source name I've added for
         our MyGet feed.
 
 You might see a couple of errors go by if you don't filter out the

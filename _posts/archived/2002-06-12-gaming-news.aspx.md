@@ -33,12 +33,11 @@ That's another one that's pretty difficult for the less than coordinated
 
  Other games that I'm going to have to pick up for my PS2 soon/when they
 come out:
--   *[Shinobi](http://www.gamespy.com/games/4303.shtml)*
--   *[Auto Modellista](http://www.gamespy.com/games/4578.shtml)*
--   *[Wipeout
+
+- *[Shinobi](http://www.gamespy.com/games/4303.shtml)*
+- *[Auto Modellista](http://www.gamespy.com/games/4578.shtml)*
+- *[Wipeout
     Fusion](http://www.amazon.com/exec/obidos/ASIN/B000066EXR/mhsvortex)*
-
-
 
  And, last but not least, for the XBox at work, the next must-buy is
 *[Dead or Alive Extreme

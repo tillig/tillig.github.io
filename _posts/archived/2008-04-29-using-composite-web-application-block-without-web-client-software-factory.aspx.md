@@ -4,7 +4,7 @@ title: "Using Composite Web Application Block Without Web Client Software Factor
 date: 2008-04-29 -0800
 comments: true
 disqus_identifier: 1384
-tags: [aspnet,net]
+tags: [aspnet,dotnet]
 ---
 The [Web Client Software Factory](http://www.codeplex.com/websf) is a
 great software factory from Microsoft Patterns & Practices that enables
@@ -28,14 +28,14 @@ two primary reasons you wouldn't want the Web Client Software Factory in
 its entirety, both of which have to do with the associated guidance
 packages:
 
--   **You don't want the stock guidance packages.** That is, the recipes
+- **You don't want the stock guidance packages.** That is, the recipes
     and templates and other automation items don't do what you want them
     to or are otherwise just something you don't want. Maybe it'd cost
     more to modify the guidance package to do what you want than it
     would be to just manually do the work. Maybe you don't want the
     dependencies that the guidance packages assume you want. Whatever
     the case may be, you don't want the guidance packages.
--   **You don't want to deal with the developer environment cost.**
+- **You don't want to deal with the developer environment cost.**
     Having guidance packages that everyone has to use also means you
     have one more thing to install on every developer machine. When
     upgrades come around, it's not just dropping an assembly in a folder
@@ -45,25 +45,25 @@ packages:
 Either way, you may not want the whole thing. What do you get by not
 taking it all?
 
--   **Slightly ore complex setup.**It's a little more effort to manually
+- **Slightly ore complex setup.**It's a little more effort to manually
     get a CWAB project going if you don't use the guidance packages. Not
     much worse, but this is a legitimate downside.
--   **Manual control over everything.** File placement, assembly
+- **Manual control over everything.** File placement, assembly
     breakdown, naming, etc. You could customize the guidance packages to
     do things your way, but it's not a 20-minute undertaking to do so.
     If you're not going to be adding pages or projects every single day,
     it's probably cheaper to just do it manually.
--   **Fewer implied dependencies.** The guidance packages assume you
+- **Fewer implied dependencies.** The guidance packages assume you
     want the Patterns and Practices logging, security, and exception
     handling application blocks, so there's a lot of extra stuff that
     goes into the templates and such to support that. It can be a pain
     to rip all of this out if you don't want it. **The only extra
     dependencies you have when you're using CWAB solo are CWAB proper
     and ObjectBuilder.**
--   **Easier upgrades.**When a new version of CWAB comes out, it's an
+- **Easier upgrades.**When a new version of CWAB comes out, it's an
     assembly update, not something that has to be installed on every dev
     box.
--   **Easier ability to implement standard forms authentication.**Out of
+- **Easier ability to implement standard forms authentication.**Out of
     the box, CWAB uses the security application block for locking down
     page access. If you just want standard location-based authorization
     it's easier to do it without the security application block in your
@@ -76,47 +76,47 @@ sample later in this article that you can look at for a more concrete
 representation. I followed this general process in creating that
 sample.)
 
-1.  Create a web application project.
-2.  Add references to the Microsoft.Practices.CompositeWeb.dll and
+1. Create a web application project.
+2. Add references to the Microsoft.Practices.CompositeWeb.dll and
     Microsoft.Practices.ObjectBuilder.dll.
-3.  Add modules (class libraries). In most CWAB projects, there's a sort
+3. Add modules (class libraries). In most CWAB projects, there's a sort
     of default "Shell" module that corresponds to the main content of
     your site and registers most core services. Add at least this
     module. For each module you add:
-    1.  Add a reference to Microsoft.Practices.CompositeWeb.dll and
+    1. Add a reference to Microsoft.Practices.CompositeWeb.dll and
         Microsoft.Practices.ObjectBuilder.dll.
-    2.  Add a reference from the web application to the module.
-    3.  Add a module initializer class to the module. (A class deriving
+    2. Add a reference from the web application to the module.
+    3. Add a module initializer class to the module. (A class deriving
         from ModuleInitializer.)
 
-4.  Add a Global.asax that derives from
+4. Add a Global.asax that derives from
     Microsoft.Practices.CompositeWeb.WebApplication.
-5.  For the Default.aspx page (which comes for free with your web
+5. For the Default.aspx page (which comes for free with your web
     application project)...
-    1.  Break the page up into Model-View-Presenter format with the
+    1. Break the page up into Model-View-Presenter format with the
         presenter and view interface in your "Shell" module.
-    2.  Update the page namespace to match the namespace the presenter
+    2. Update the page namespace to match the namespace the presenter
         and view interface are in.
-    3.  Update the page to implement the view interface.
-    4.  Update the page to derive from
+    3. Update the page to implement the view interface.
+    4. Update the page to derive from
         Microsoft.Practices.CompositeWeb.Web.UI.Page.
-    5.  Add a Presenter property to the page with a [CreateNew]
+    5. Add a Presenter property to the page with a [CreateNew]
         ObjectBuilder attribute on it.
-    6.  Add the page to the "Shell" module initializer's site map
+    6. Add the page to the "Shell" module initializer's site map
         registration.
 
-6.  Rinse and repeat for additional pages - put the presenter and view
+6. Rinse and repeat for additional pages - put the presenter and view
     interface in the proper "business module" and implement the
     interface on the page.
 
 There are a lot of things you can do to make this way, way easier.
 
--   **Create abstract generic "View" and "MasterPage" base classes.**
+- **Create abstract generic "View" and "MasterPage" base classes.**
     There's a lot of common "template" sort of stuff (like the
     "Presenter" property on every single web page) that can be removed
     by creating some abstract generic classes and deriving from those
     instead.
--   **Create abstract module initializer classes for business modules
+- **Create abstract module initializer classes for business modules
     and foundational modules.** Every business/foundational module
     initializer is almost identical. You can make it easier to create
     initializers if you have some base classes that have abstract
@@ -139,16 +139,16 @@ sample project and you should be good to go.
 
 Of interest in my sample:
 
--   The "Framework" module has some example abstract base classes for
+- The "Framework" module has some example abstract base classes for
     views and initializers.
--   The "Navigation" module has a service that helps you locate existing
+- The "Navigation" module has a service that helps you locate existing
     nodes in the site map and contribute to them - something the CWAB
     doesn't come with out of the box.
--   I called my "Shell" module "Core" to make sure there was no reliance
+- I called my "Shell" module "Core" to make sure there was no reliance
     on the assembly name "Shell."
--   The "Core" module has a location-based authorization SiteMapProvider
+- The "Core" module has a location-based authorization SiteMapProvider
     example.
--   The sample master pages and style sheets are the ones that come with
+- The sample master pages and style sheets are the ones that come with
     the WCSF default site template.
 
 **The sample is exactly that - a sample. It's not really tested (it

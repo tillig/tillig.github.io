@@ -14,4 +14,3 @@ presentation](http://www.innotechconference.com/pdx/files/PDF/Presentations/2008
 as well as [the demo
 code](http://www.innotechconference.com/pdx/files/PDF/Presentations/2008_Oregon_Presentations/Unit_Testing_with_Typemock_Demo.zip)
 from there.
-

@@ -21,4 +21,3 @@ they leave it up to the community to fill such a huge gap with projects
 like [Sandcastle Help File Builder](http://www.codeplex.com/SHFB). I've
 had to set up Sandcastle in several builds now and I always dread it
 because it's such a nightmare even with helper programs like that. Sigh.
-

@@ -97,4 +97,3 @@ now will never be seen.
 
 I'm sorry we didn't get to spend that time together, Jackal-boy. We'll
 miss you and we love you.
-

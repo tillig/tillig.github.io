@@ -54,4 +54,3 @@ So I'm an Ikea convert.  I finally get it.  I don't know that I'll
 have a Pavlovian response or anything, but if someone says they want to
 venture out to Ikea, I'll go.  As long as we have at least three hours
 to kill.
-

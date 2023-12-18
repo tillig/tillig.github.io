@@ -110,11 +110,11 @@ free of ingrowns. Basically, success.
 **Notes based on my experience to people considering getting laser hair
 removal:**
 
--   **Prepare for the long haul.** The clinic might sell you treatments
+- **Prepare for the long haul.** The clinic might sell you treatments
     in bundles of six or something, but you will probably need more than
     that, particularly in areas you have more hair and/or where the hair
     is coarse.
--   **It hurts a LOT.** I can't understate this. You may hear people
+- **It hurts a LOT.** I can't understate this. You may hear people
     tell you "it's like a rubber band snap." The Dermo Flash IPL is
     actually like that - a quick snap and you're done. (For me, about 10
     quick snaps and you're done.) On the other hand, it's only really
@@ -129,7 +129,7 @@ removal:**
     instant-eye-watering-please-I'll-tell-you-anything-just-stop kind of
     pain. Once you get further in, it eases up, but some things still
     hurt. My upper lip makes me wince just thinking about it.
--   **It only works well on dark hair.** The basic premise of the thing
+- **It only works well on dark hair.** The basic premise of the thing
     is that the laser heat is drawn to the hair pigment. The heat
     transfers down through the hair and cooks the root. If you have
     blonde hair on light skin, you're kind of hosed because there's not
@@ -139,7 +139,7 @@ removal:**
     was "salt and pepper" is now just "salt" - I have a few spots where
     there is some thick, coarse white hair. Laser hair removal will
     never get that.
--   **Once you start, you're committed.** This is more for the folks
+- **Once you start, you're committed.** This is more for the folks
     doing visible areas like the face, but it's good to be aware of.
     When the hair starts coming out, it's not necessarily "even." There
     were points where my beard looked a little like a zebra pattern
@@ -149,7 +149,7 @@ removal:**
     you'd even notice when it was shaved. Once they start removing hair,
     you're committed to the whole procedure, as long as it takes,
     because if you quit before the hair's all gone it'll be weird.
--   **You will not end up hairless.** You will still have to shave. I
+- **You will not end up hairless.** You will still have to shave. I
     did not fully realize this at the outset, but I can see that it's
     somewhat unavoidable. The combination of diminishing returns as I
     neared the 30th treatment and the white hairs in my beard that
@@ -174,23 +174,21 @@ time by not leaving them.
 UPDATE 2/27/2012: I get a lot of questions about how I've fared since I
 wrote this entry nearly two years ago so I'll answer them here:
 
--   Have I had any regrowth? A bit, but not a ton. My cheeks and neck
+- Have I had any regrowth? A bit, but not a ton. My cheeks and neck
     are still really clear, just like in the photos. If I've had
     regrowth, it's been in my lip/chin region, which, as you can see,
     didn't come clear anyway.
--   Do I have to shave? Yes. I've always had to shave, even immediately
+- Do I have to shave? Yes. I've always had to shave, even immediately
     following treatment. You won't end up hairless.
--   Does it look patchy? Not as long as I stay shaved. Again, you don't
+- Does it look patchy? Not as long as I stay shaved. Again, you don't
     end up hairless, so you will have to keep yourself shaved. When I'm
     shaved you'd never notice that I had anything done at all except
     that I don't have that super-dark beard line I used to have. When I
     wake up in the morning it is a little patchy looking, but not too
     bad. I wouldn't go a full day or more without shaving, though.
--   Does it look feminine? Not from what I can tell. Like I said, it
+- Does it look feminine? Not from what I can tell. Like I said, it
     just looks like I've shaved. Shave your own face and decide if you
     look feminine. That's your answer.
--   Would I do it again? Yes. I can't tell you how much of a pain it was
+- Would I do it again? Yes. I can't tell you how much of a pain it was
     to be tearing up my shirt necks and sheets and such with the beard I
     had. Not having to deal with that has been worth it.
-
-

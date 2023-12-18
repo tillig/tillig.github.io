@@ -12,42 +12,42 @@ to rip my movies to VIDEO_TS
 format](/archive/2008/09/30/overview-of-my-media-center-solution.aspx).
 I did that for a few reasons:
 
--   **I wanted to keep the fidelity of the original movie.** I didn't
+- **I wanted to keep the fidelity of the original movie.** I didn't
     want a whole bunch of additional compression artifacts that would
     detract from the watching experience.
--   **I wanted to keep the sound.** I didn't want everything downmixed
+- **I wanted to keep the sound.** I didn't want everything downmixed
     to stereo sound, I wanted the full surround experience you'd
     normally get with the movie.
--   **I wanted a backup of the original disc.** In the event a disc goes
+- **I wanted a backup of the original disc.** In the event a disc goes
     bad, I wanted to be able to re-burn the disc.
 
 Well, six years (!) have passed since I made that decision and a lot has
 changed, not only with technology, but with my own thoughts on what I
 want.
 
--   **Full DVD rips take a lot of space.** That native MPEG-2
+- **Full DVD rips take a lot of space.** That native MPEG-2
     compression is really not great. Not to mention the digital files
     some DVDs come with for "interactive features" and things.
--   **We don't use the extra features.** After running the media center
+- **We don't use the extra features.** After running the media center
     for this long, our usage pattern with it has become pretty clear –
     we watch the main movie but we generally don't make use of the
     behind-the-scenes featurettes, audio commentary, or other features
     of the movies.
--   The FBI warning, menus, previews, and other "up front stuff" is
+- The FBI warning, menus, previews, and other "up front stuff" is
     annoying. We've known that all along, but it's like that five minute
     tax you just accept for watching a movie. I'm tired of paying that
     tax.
--   **Discs don't go bad as often as you think.** Of the literally
+- **Discs don't go bad as often as you think.** Of the literally
     *hundreds* of discs I have, I think I've had like two go bad. I know
     I've jinxed it now that I've said it.
--   **Disk space isn't free. It's cheap, but not free.** The real
+- **Disk space isn't free. It's cheap, but not free.** The real
     challenge is that if you have a NAS with all full bays and a RAID 5
     array, it's not really that easy or cheap to expand. You have to
     move all the data off the giant array (to where?), upgrade the
     disks, and move it all back. (Basically. Yeah, there are other ways
     to swap one disk out oat a time, etc., but the idea is that it's
     painful and not free.)
--   **Video containers are way better and more compatible now.**
+- **Video containers are way better and more compatible now.**
     Originally it was nigh unto impossible to get actual surround sound
     out of a compressed video in an MKV or MP4 container. I say "nigh
     unto" because some people had figured out this magic incantation and
@@ -58,7 +58,7 @@ want.
     them; one device would only play MP4 but only certain bit-rates of
     audio. It was horrible. Now pretty much everything plays MP4 and
     DLNA servers stream it nicely.
--   **Compression is way better.** [Handbrake](http://handbrake.fr/) has
+- **Compression is way better.** [Handbrake](http://handbrake.fr/) has
     changed a lot since I originally looked and the filters it uses are
     way better. You don't notice the difference in a converted movie the
     way you once did, and it's way easier to get "the right" settings
@@ -75,11 +75,11 @@ again.
 
 **I ended up switching to:**
 
--   [**Handbrake**](http://handbrake.fr/)**'s "High Profile" preset
+- [**Handbrake**](http://handbrake.fr/)**'s "High Profile" preset
     modified with...**
--   **The primary audio channel updated from 160kbps to 256kbps**
--   **The "x264 Preset" set to "Slower"**
--   **Based on the content type, choose an "x264 Tune" of "Film,"
+- **The primary audio channel updated from 160kbps to 256kbps**
+- **The "x264 Preset" set to "Slower"**
+- **Based on the content type, choose an "x264 Tune" of "Film,"
     "Animation," or "Grain."**
 
 These settings yield results that are visually comparable to the
@@ -124,12 +124,12 @@ Some documents that helped me determine this new format:
 [The Handbrake Guide](https://trac.handbrake.fr/wiki/HandBrakeGuide),
 particularly
 
--   [The discussion on video container
+- [The discussion on video container
     options](https://trac.handbrake.fr/wiki/Containers)
--   [The x264
+- [The x264
     preset/tune/profile](https://trac.handbrake.fr/wiki/x264VideoSettings)
     page
--   [The guide to surround
+- [The guide to surround
     sound](https://trac.handbrake.fr/wiki/SurroundSoundGuide)
 
 [This amazingly well done "best settings" guide for Handbrake
@@ -141,4 +141,3 @@ Handbrake](http://mattgadient.com/2013/06/20/comparing-x264-rf-settings-in-handb
 If you're interested in the rest of my media center solution, [check out
 the main
 article](/archive/2008/09/30/overview-of-my-media-center-solution.aspx).
-

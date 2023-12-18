@@ -12,21 +12,20 @@ storage](/archive/2014/03/18/switched-dvd-archiving-to-mp4.aspx).
 
 I blogged a bit ago about [setting up a Windows Media Center DVD
 Library](/archive/2008/09/12/how-to-set-up-a-dvd-library-in-windows-media.aspx)
+
 - where to store, how to handle metadata, etc. What I didn't cover was
 how to choose a format to rip your movies into.
 
 When I created my DVD Library, I had three primary goals:
 
--   No loss of quality.
--   Menus, etc. intact.
--   Backup of movie that can be re-ripped to DVD if the original gets
+- No loss of quality.
+- Menus, etc. intact.
+- Backup of movie that can be re-ripped to DVD if the original gets
     damaged.
 
 I ended up selecting VIDEO_TS format for my movies. Based on your
 requirements, you may choose a different format. The following table
 outlines some common format choices and their relative pros/cons.
-
- 
 
 ISO
 
@@ -140,14 +139,12 @@ Given that...
 
 **The quick recommendations:**
 
--   **VIDEO_TS**: If you want a backup with menus, no lost quality, and
+- **VIDEO_TS**: If you want a backup with menus, no lost quality, and
     don't mind watching your movies through a Windows Media Center (or
     Front Row, for you Mac people), then VIDEO_TS is the way to go.
     It's the easiest of the two full-rip formats to set up and is most
     compatible with media center style software.
--   **MPEG-2**: If you want just the main movie, don't mind losing a
+- **MPEG-2**: If you want just the main movie, don't mind losing a
     little quality, and/or have lots of different devices (PS3, Xbox360,
     etc.) that you want to watch on, go with MPEG-2. It's a pretty
     common format that almost everything will play.
-
-

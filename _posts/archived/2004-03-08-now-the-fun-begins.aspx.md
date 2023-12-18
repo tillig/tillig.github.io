@@ -11,18 +11,16 @@ grueling part of the process, the coordination of all of the post-offer
 efforts is like a novelty plate-spinning act. This weekend I scheduled a
 U-Haul truck for the move. Thus far today, I have:
 
--   Locked down an interest rate on my 80% conventional loan
--   Called the insurance company to get my homeowner's policy started (I
+- Locked down an interest rate on my 80% conventional loan
+- Called the insurance company to get my homeowner's policy started (I
     now have a questionnaire to fill out)
--   Turned in my earnest money check ($5000... that's a large check)
--   Contacted my mortgage broker and received a new Good Faith Estimate
+- Turned in my earnest money check ($5000... that's a large check)
+- Contacted my mortgage broker and received a new Good Faith Estimate
     based on the tax and homeowner's insurance numbers I know
--   Scheduled time off for the Monday and Tuesday we're moving
--   Called the house inspector and left a message to schedule the
+- Scheduled time off for the Monday and Tuesday we're moving
+- Called the house inspector and left a message to schedule the
     inspection
--   Got recommendations on a moving company so I can schedule that
-
-
+- Got recommendations on a moving company so I can schedule that
 
  That's all just one day. There's a lot more to go, too - this is just
 the beginning. Jenn asked me if I thought the time would go by quickly

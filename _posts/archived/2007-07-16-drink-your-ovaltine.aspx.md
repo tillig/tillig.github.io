@@ -65,4 +65,3 @@ ruining the environment by consuming resources, and I don't need any
 more rags to wax my car with.  Instead, give away one good prize that
 you won't award to me because I'm a loser and save me the effort of
 another blog entry.
-

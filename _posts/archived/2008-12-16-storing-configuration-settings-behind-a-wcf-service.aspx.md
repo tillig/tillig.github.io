@@ -4,7 +4,7 @@ title: "Storing Configuration Settings Behind a WCF Service"
 date: 2008-12-16 -0800
 comments: true
 disqus_identifier: 1479
-tags: [wcf,gists,csharp,net]
+tags: [wcf,gists,csharp,dotnet]
 ---
 One of the challenges I'm facing in the project I'm working on is that
 we want to store configuration values for the system in a central
@@ -92,12 +92,12 @@ you did something like this:
 
 See what we have there?
 
--   A custom section that (for simplicity) is just a key/value section
+- A custom section that (for simplicity) is just a key/value section
     like AppSettings.
--   A custom protected config provider that has a special extra
+- A custom protected config provider that has a special extra
     configuration property - an endpoint name (that would correspond to
     something in your \<system.serviceModel\> configuration).
--   A section that uses the configuration provider you specified... and
+- A section that uses the configuration provider you specified... and
     notice how the contents of the \<EncryptedData\> are simply keys?
     These are the values you'd want to retrieve from your configuration
     service.
@@ -255,4 +255,3 @@ you around the caching issue. That said, the developer using this
 mechanism should probably be made aware of what's going on so he or she
 doesn't wonder why performance has gone down the tubes on that page that
 uses 150 bajillion configuration values.
-

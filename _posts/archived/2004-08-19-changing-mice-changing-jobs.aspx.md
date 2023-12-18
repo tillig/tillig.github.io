@@ -16,11 +16,11 @@ Jenn's niece all came over and we barbecued and watched the show. It was
 cool - the [Blue Angels](http://www.blueangels.navy.mil/) flew close to
 rooftop level (low enough you could read the writing on the plane) right
 over my house and down my street.
- 
+
  Anyway.
- 
+
  Lots of change going on at work.
- 
+
  I've had this [Wireless IntelliMouse
 Explorer](http://www.amazon.com/exec/obidos/ASIN/B00005NVBT/mhsvortex)
 (cordless USB mouse) I've been using for the past few months. I like the
@@ -29,14 +29,14 @@ batteries pretty quickly, on the order of a pair of batteries every
 three weeks or so. When the batteries get low (which I'm sure means
 they're at half-strength), the mouse response gets crappy, like there's
 signal interference or something.
- 
+
  After a few months of that, I've had enough and have switched back to a
 corded mouse. It's [the same mouse, just with a
 cord](http://www.amazon.com/exec/obidos/ASIN/B00005TQ09/mhsvortex). Now
 I need to get a [decent rechargeable wireless
 mouse](http://www.amazon.com/exec/obidos/ASIN/B00006HZ0L/mhsvortex). Not
 the highest of priorities, but definitely on the list.
- 
+
  I've also changed jobs. As of Monday, August 16, I'm officially moved
 out of the Corporate Information Technologies department and now I'm in
 Applications Engineering. I'll be working on actual product code now

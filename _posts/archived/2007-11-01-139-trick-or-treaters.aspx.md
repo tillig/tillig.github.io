@@ -28,16 +28,15 @@ poor turnout of the first half-hour starting at 6:00.
 Still, it was a pretty decent sized reduction in kids this year, and I
 think it may have been one or more of several factors at play:
 
--   Average age of the neighborhood kids increases as time goes by -
+- Average age of the neighborhood kids increases as time goes by -
     less locals seeking candy.
--   This is the first year daylight saving time was changed for that
+- This is the first year daylight saving time was changed for that
     energy bill - it's darker a little earlier until we switch over and
     that may have stopped the earlier/smaller kids from venturing out.
--   Last year we had a projector showing an animated Halloween scene on
+- Last year we had a projector showing an animated Halloween scene on
     our garage.  I got home too late to put it out this year.  Less
     decoration - less enticing to knock on the door.
 
 I think next year I'll make it a point to put the projector out and see
 if that changes things.  The average age of kids can't be helped, but
 the DST issue won't have changed.
-

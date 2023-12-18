@@ -21,10 +21,10 @@ sugar that collects at the bottom of the bulk bin - you'll need that.
 
 Now, combine the following in a shaker:
 
--   1.5 oz limoncello
--   1.5 oz vanilla vodka
--   a splash of sweet and sour mix
--   a generous pinch of that sugar from the candied ginger
+- 1.5 oz limoncello
+- 1.5 oz vanilla vodka
+- a splash of sweet and sour mix
+- a generous pinch of that sugar from the candied ginger
 
 Shake that up and pour it in a martini glass. Garnish with a long slice
 of candied ginger (long enough to stick out of the drink like a cinnamon
@@ -32,4 +32,3 @@ stick, or else it'll just sort of float in there and might look nasty).
 
 At the end of the drink, which is pretty sweet, the garnish will have
 soaked up some of that lemon and will be a very tasty treat at the end.
-

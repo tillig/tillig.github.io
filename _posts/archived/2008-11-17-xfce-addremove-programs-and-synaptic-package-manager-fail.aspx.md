@@ -73,4 +73,3 @@ just needed to vent my frustrations in getting what I feel should be a
 simple thing up and running. **I'm excited to get back into the Linux
 world and to have the XO as an excuse to mess around with it.** We'll
 see how the journey continues.
-

@@ -104,30 +104,30 @@ to show in an example.
 Say I have everything stored on a \\\\server\\DVD share. When I explore
 \\\\server\\DVD, I'll see a hierarchy like this:
 
--   \\\\server\\DVD
-    -   Movies
-        -   Aliens (1986)
-            -   AUDIO\_TS
-            -   VIDEO_TS
+- \\\\server\\DVD
+  - Movies
+    - Aliens (1986)
+      - AUDIO\_TS
+      - VIDEO_TS
 
-        -   Blade Runner (1982)
-            -   AUDIO\_TS
-            -   VIDEO_TS
+    - Blade Runner (1982)
+      - AUDIO\_TS
+      - VIDEO_TS
 
-        -   Die Hard (1988)
-            -   AUDIO\_TS
-            -   VIDEO_TS
+    - Die Hard (1988)
+      - AUDIO\_TS
+      - VIDEO_TS
 
-    -   TV
-        -   Alias
-            -   Season 01
-                -   s01e01e02e03
-                    -   AUDIO\_TS
-                    -   VIDEO_TS
+  - TV
+    - Alias
+      - Season 01
+        - s01e01e02e03
+          - AUDIO\_TS
+          - VIDEO_TS
 
-                -   s01e04e05e06e07
-                    -   AUDIO\_TS
-                    -   VIDEO_TS
+        - s01e04e05e06e07
+          - AUDIO\_TS
+          - VIDEO_TS
 
 ...and so on. Under that \\\\server\\DVD share, I split things into
 Movies and TV.
@@ -246,14 +246,14 @@ enabled.](http://lh6.ggpht.com/travis.illig/SMwym9VGkvI/AAAAAAAAAjw/YpPnE6fIgKk/
 
 Now you need to tell Windows Media Center where your DVDs are ripped to.
 
-1.  Open Windows Media Center.
-2.  Go to Settings -\> Library Setup.
-3.  Select "Add folder to watch" and click Next.
-4.  Here you can either select to "Add folders on this computer" (if you
+1. Open Windows Media Center.
+2. Go to Settings -\> Library Setup.
+3. Select "Add folder to watch" and click Next.
+4. Here you can either select to "Add folders on this computer" (if you
     ripped your DVDs to the Windows Media Center PC) or "Add shared
     folders from another computer" (if you ripped your DVDs to a network
     location). Click Next.
-5.  Select the place where you ripped your DVDs. You only need to select
+5. Select the place where you ripped your DVDs. You only need to select
     the top level folder (e.g., \\\\server\\DVD) and you're set.
 
 There is a decent [walkthrough of this when using a Windows Home Server
@@ -267,9 +267,9 @@ you've added your movie folder and it's not finding your movies, try
 restarting Media Center. If it still doesn't find your movies, you may
 have to add the folder through the DVD Library:
 
-1.  Open Windows Media Center.
-2.  Go to the DVD Library.
-3.  Inside the DVD Library, right-click and select "Add Movies." This
+1. Open Windows Media Center.
+2. Go to the DVD Library.
+3. Inside the DVD Library, right-click and select "Add Movies." This
     will take you to a similar screen as the Library Setup (noted above)
     where you can add folders to watch that contain movies.
 
@@ -289,22 +289,22 @@ folder *just above* the VIDEO_TS folder and call the image
 folder as the name of the movie and automatically use this image as the
 cover image and you're done. It'd look like this:
 
--   \\\\server\\DVD
-    -   Movies
-        -   Aliens (1986)
-            -   folder.jpg
-            -   AUDIO\_TS
-            -   VIDEO_TS
+- \\\\server\\DVD
+  - Movies
+    - Aliens (1986)
+      - folder.jpg
+      - AUDIO\_TS
+      - VIDEO_TS
 
-        -   Blade Runner (1982)
-            -   folder.jpg
-            -   AUDIO\_TS
-            -   VIDEO_TS
+    - Blade Runner (1982)
+      - folder.jpg
+      - AUDIO\_TS
+      - VIDEO_TS
 
-        -   Die Hard (1988)
-            -   folder.jpg
-            -   AUDIO\_TS
-            -   VIDEO_TS
+    - Die Hard (1988)
+      - folder.jpg
+      - AUDIO\_TS
+      - VIDEO_TS
 
 I actually want full metadata, though, so that's not good enough for me.
 
@@ -386,22 +386,22 @@ where "MovieName" is the name of the movie (which should also be the
 name of the folder containing the movie - it all needs to match). That
 looks like this:
 
--   \\\\server\\DVD
-    -   Movies
-        -   Aliens (1986)
-            -   Aliens.dvdid.xml
-            -   AUDIO\_TS
-            -   VIDEO_TS
+- \\\\server\\DVD
+  - Movies
+    - Aliens (1986)
+      - Aliens.dvdid.xml
+      - AUDIO\_TS
+      - VIDEO_TS
 
-        -   Blade Runner (1982)
-            -   Blade\_Runner.dvdid.xml
-            -   AUDIO\_TS
-            -   VIDEO_TS
+    - Blade Runner (1982)
+      - Blade\_Runner.dvdid.xml
+      - AUDIO\_TS
+      - VIDEO_TS
 
-        -   Die Hard (1988)
-            -   Die\_Hard.dvdid.xml
-            -   AUDIO\_TS
-            -   VIDEO_TS
+    - Die Hard (1988)
+      - Die\_Hard.dvdid.xml
+      - AUDIO\_TS
+      - VIDEO_TS
 
 Inside these tiny XML files are two lines - the name of the movie and
 the movie's DVD ID. A sample looks like this:
@@ -477,12 +477,12 @@ metadata yourself. See above for more on that.
 this post and this recommendation as time goes on, but right now what
 I'm doing is:
 
--   Use DVDFab HD Decrypter and/or [DVDXML](http://www.dvdxml.com) to
+- Use DVDFab HD Decrypter and/or [DVDXML](http://www.dvdxml.com) to
     get the initial "dvdid" file. You'll need that anyway.
--   Open Media Center and visit the DVD Library once to download the
+- Open Media Center and visit the DVD Library once to download the
     initial set of metadata. This does a quick, automated pre-population
     of most of the requisite fields.
--   Use [DVD Library
+- Use [DVD Library
     Manager](http://thegreenbutton.com/forums/thread/211911.aspx) to
     update any missing fields and/or modify the titles, etc. through
     Amazon and IMDb. Saving in DVD Library Manager will also remove the
@@ -501,11 +501,8 @@ There are nice high-res cover scans there that I'd like to take
 advantage of, and it's a nicely formatted and consistent set of data to
 pull from.
 
- 
-
 This process is exactly what I'm doing to get my full DVD library ripped
 and accessible. So far it has pretty decent Wife Acceptance Factor, and
 I like having accessibility to my movies without having to do a lot of
 additional work. Hopefully this can help you to get your DVD library in
 order.
-

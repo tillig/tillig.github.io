@@ -41,6 +41,7 @@ before.
 [ContactJuggling.org](http://www.contactjuggling.org) and
 [ContactJuggling.com](http://www.contactjuggling.com) are the two I've
 found to be most helpful. They've got resources and step by step guides
+
 - even videos - that show you the beginning steps. It looks to me like
 the best place to start is with a lacrosse ball. Guess I'm going to the
 sporting goods store sometime soon.

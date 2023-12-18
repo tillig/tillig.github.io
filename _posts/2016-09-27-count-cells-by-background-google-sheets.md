@@ -22,7 +22,6 @@ Instead, I wrote a script to do this. It was based on [this StackOverflow questi
 
 **First, go to "Tools > Script Editor..."** in your sheet and paste in this script:
 
-
 ```js
 /**
  * Counts the number of items with a given background.

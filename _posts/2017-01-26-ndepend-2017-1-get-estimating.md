@@ -3,7 +3,7 @@ layout: post
 title: "NDepend 2017.1: Get Estimating!"
 date: 2017-01-26 -0800
 comments: true
-tags: [ndepend,net]
+tags: [ndepend,dotnet]
 description: "NDepend 2017.1 has been released and today I'm looking at my favorite new feature - technical debt estimation!"
 ---
 
@@ -53,7 +53,4 @@ And, of course, you shouldn't let anyone instantly just take it as gospel. It's 
 
 [**Go grab yourself a copy of NDepend 2017 and get estimating!**](http://www.ndepend.com/purchase)
 
-*Full disclosure: I got a free personal license
-from [Patrick](https://blog.ndepend.com/author/psmacchia/) at NDepend.
-However, we have also purchased several licenses at work and make use of
-it to great benefit.*
+_Full disclosure: I got a free personal license from [Patrick](https://blog.ndepend.com/author/psmacchia/) at NDepend. However, we have also purchased several licenses at work and make use of it to great benefit._

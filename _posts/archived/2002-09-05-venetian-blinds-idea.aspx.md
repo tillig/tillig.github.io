@@ -30,4 +30,3 @@ also make it so that when you close the blinds, you see a picture on
 BOTH SIDES. That might be cool, too.
 
  Does that already exist? If not, maybe I just found my way to retire...
-

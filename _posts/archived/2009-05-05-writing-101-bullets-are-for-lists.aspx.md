@@ -18,14 +18,14 @@ prose describing something, it's not a bullet point list.**
 For example, say you're describing the process by which you take out the
 trash. **This is not a good bullet point list:**
 
--   I go in the kitchen and pull out the garbage can.
--   Sometimes the garbage stinks a little because of the food in there.
--   Other times it doesn't stink, but it's OK because there's air
+- I go in the kitchen and pull out the garbage can.
+- Sometimes the garbage stinks a little because of the food in there.
+- Other times it doesn't stink, but it's OK because there's air
     freshener in the room next door.
--   I might go get the air freshener, but not yet.
--   I pull the garbage bag out of the trash can and walk it outside.
+- I might go get the air freshener, but not yet.
+- I pull the garbage bag out of the trash can and walk it outside.
     Then I stick it in the large trash can outside.
--   Now I might get the air freshener.
+- Now I might get the air freshener.
 
 Again, that's not a good bullet point list. It's a series of sentences
 that, with some help, would make a prose paragraph describing the trash
@@ -37,20 +37,20 @@ No, no, no. That's just... painful.
 
 **A decent bullet list is more like this**:
 
--   Go in kitchen.
--   Pull out garbage can.
--   Get bag out of garbage can.
--   Take bag outside and place in large can.
--   If necessary, spray air freshener in the kitchen.
+- Go in kitchen.
+- Pull out garbage can.
+- Get bag out of garbage can.
+- Take bag outside and place in large can.
+- If necessary, spray air freshener in the kitchen.
 
 Short, to the point. A list of self-contained thoughts.
 
 Another use of bullets might be in denoting section breaks in short,
 self-contained text blocks. Like a question/answer thing:
 
--   **Question**: Where is the garbage can?
+- **Question**: Where is the garbage can?
      **Answer**: In the kitchen.
--   **Question**: Where do I take the garbage bag?
+- **Question**: Where do I take the garbage bag?
      **Answer**: To the large can outside.
 
 Here you see the individual thoughts outlined by the bullets, while
@@ -69,4 +69,3 @@ if it's a bullet list or not... it's probably not**.
 
 *Note: This is particularly applicable to the folks who think Excel is a
 word processor. It's not. Just stop. Now. Seriously.*
-

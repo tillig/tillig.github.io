@@ -20,4 +20,3 @@ not counting the real-time virus scanner overhead.
 I'm all about security and all, but man, what I wouldn't give to just
 have a separate data partition encrypted and *leave the system partition
 unencrypted*.
-

@@ -16,4 +16,3 @@ employees. It was a powerful event to watch and I look forward to the
 coming years to see how he does. I have a lot of hope.
 
 Where were you for the inauguration?
-

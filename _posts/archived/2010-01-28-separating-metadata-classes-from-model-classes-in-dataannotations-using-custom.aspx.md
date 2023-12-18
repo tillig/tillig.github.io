@@ -141,6 +141,7 @@ various metadata - attributes and properties - on your buddy class. The
 thing is, Microsoft already did all of that for us, they just
 inconveniently marked the type they use -
 System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor
+
 - as internal. With a little fancy, maybe slightly unsupported,
 reflection work we can pretty easily make use of the code that's already
 there. Instead of doing a giant full implementation of a new
@@ -223,21 +224,21 @@ CustomTypeDescriptor, we can write a wrapper around the existing one.
 
 **We're doing a few interesting things here** to be aware of:
 
--   On static initialization, **we get a handle on the original
+- On static initialization, **we get a handle on the original
     AssociatedMetadataTypeTypeDescriptor** - the internal type that does
     all the attribute reflection action. If we don't get a reference to
     that type for some reason, we'll throw an exception so we
     immediately know.
--   **We have a GetAssociatedMetadataType method** that you can pass any
+- **We have a GetAssociatedMetadataType method** that you can pass any
     type to - ostensibly a LINQ to SQL model type - and you should come
     back with the correct metadata buddy class type. First we check the
     type mapping class that we created before and if it's not there, we
     fall back to the default behavior - getting the
     MetadataTypeAttribute off the LINQ to SQL class.
--   **The two-parameter constructor, which is used by Dynamic Data, is
+- **The two-parameter constructor, which is used by Dynamic Data, is
     where we call our GetAssociatedMetadataType method.** That's our
     point of interception.
--   **The three-parameter constructor, which lets a developer manually
+- **The three-parameter constructor, which lets a developer manually
     specify the associated metadata type, creates an instance of the
     original AssociatedMetadataTypeTypeDescriptor** and passes the
     information into it first. We do that because that type has a bunch
@@ -245,7 +246,7 @@ CustomTypeDescriptor, we can write a wrapper around the existing one.
     metadata type. Rather than re-implementing all of that validation,
     we'll use what's there. We'll hang onto that created object so we
     can use it later.
--   **The GetAttributes and GetProperties overrides call the
+- **The GetAttributes and GetProperties overrides call the
     corresponding overrides in that
     AssociatedMetadataTypeTypeDescriptor** object we created. We do that
     because there's a lot of crazy stuff that goes into recursing down
@@ -286,10 +287,10 @@ As you can see, **this basically just provides an override for the
 
 **That's the entirety of the infrastructure:**
 
--   **The map.**
--   **A CustomTypeDescriptor that looks in the map and then falls back
+- **The map.**
+- **A CustomTypeDescriptor that looks in the map and then falls back
     to reflection.**
--   **A TypeDescriptionProvider that uses our CustomTypeDescriptor.**
+- **A TypeDescriptionProvider that uses our CustomTypeDescriptor.**
 
 To use this mechanism, in your Dynamic Data project you need to register
 the mappings and register the TypeDescriptionProvider. Remember the

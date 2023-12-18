@@ -17,12 +17,10 @@ This morning, with a fresh set of eyes, suddenly looking for the same
 search terms yielded two super-helpful articles. For those in the same
 [late] boat as me...
 
--   "[Getting Around in Windows
+- "[Getting Around in Windows
     8](http://windowsteamblog.com/windows/b/windowsexperience/archive/2012/03/08/getting-around-in-windows-8.aspx)"
     tells you where your cheese went.
--   "[Windows 8 Key Combinations Inside of
+- "[Windows 8 Key Combinations Inside of
     Hyper-V](http://blogs.msdn.com/b/virtual_pc_guy/archive/2012/05/03/windows-8-key-combinations-inside-of-hyper-v.aspx)"
     tells you how to get the Windows key (and other key combinations) to
     work right.
-
-

@@ -13,10 +13,10 @@ central location, I figured I needed to get my info Googlefied.
 
 I need keep the following in sync:
 
--   **Outlook**: My current system of record. Meetings get scheduled
+- **Outlook**: My current system of record. Meetings get scheduled
     here, I do most of my daily work here.
--   **Blackberry Curve**: My phone (for now).
--   **Google**: A centrally accessible place, plus my interface with the
+- **Blackberry Curve**: My phone (for now).
+- **Google**: A centrally accessible place, plus my interface with the
     Android phone I want to get (not sure on model yet).
 
 For the Blackberry, the Blackberry Desktop Manager software works fine
@@ -50,7 +50,7 @@ have been using it successfully, though I'm not sure how. I didn't find
 any problems during my trial period, so I purchased... and then
 instantly found four problems.
 
--   **Some Outlook contact fields don't sync right.** I couldn't figure
+- **Some Outlook contact fields don't sync right.** I couldn't figure
     out exactly what the pattern here was, but I noticed that some of my
     contacts were not synchronizing. SyncMyCal tries to synchronize some
     Outlook contact fields as "user defined fields" in Google (because
@@ -59,21 +59,21 @@ instantly found four problems.
     custom contact field has to be a key/value pair. You end up getting
     a Google API error if you don't do it right... and SyncMyCal doesn't
     always do it right.
--   **Reminder information isn't synchronized if you don't set up your
+- **Reminder information isn't synchronized if you don't set up your
     Google calendar with a default reminder.** In order for meeting
     reminder information to be synchronized to Google, you have to go
     into your Google calendar settings and configure a default reminder
     value. If you don't, none of the appointments that get synchronized
     will have the reminders attached. This was a hard one to figure out,
     but at least there's a workaround.
--   **Contacts with multiple mailing addresses don't synchronize all
+- **Contacts with multiple mailing addresses don't synchronize all
     addresses.** Say you have a contact with a work address and a home
     address. SyncMyCal picks one (apparently arbitrarily) and that's the
     one that gets synchronized with Google. The other address(es) don't
     get synchronized or even acknowledged. (Multiple *email* addresses
     synchronize fine; it's multiple *physical mailing addresses* that
     have problems.)
--   **Recurrence exceptions don't synchronize from Google to Outlook
+- **Recurrence exceptions don't synchronize from Google to Outlook
     correctly.** Set up a recurring appointment in Google that runs
     every weekday for two weeks. On the second week, delete the Tuesday
     and Thursday appointments. Move the Wednesday appointment to one
@@ -185,4 +185,3 @@ do is look at the debug/error log, but it's not straightforward.
 Anyway, if you're looking for sync software, [check out
 gSyncit](http://www.daveswebsite.com/software/gsync/). I really like it,
 and for $15 (at the time of this writing), you can't really beat it.
-

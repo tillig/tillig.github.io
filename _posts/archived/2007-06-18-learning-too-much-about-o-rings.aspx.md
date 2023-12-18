@@ -13,7 +13,7 @@ sounds dirty.)
 
 Anyway, I thought that one way to fix it would be to get one or two tiny
 o-rings, put them around the whammy bar, and push them down as far as
-they'd go to create friction between the whammy bar and the guitar. 
+they'd go to create friction between the whammy bar and the guitar.
 Hey, it's worth a shot.  (I've also contacted RedOctane to see if they
 have some suggestions.)
 
@@ -44,4 +44,3 @@ I ended up getting two sizes of ring from
 should fit.  And shipping was fairly reasonable at $4.50 for the two
 packs of rings.  Hopefully this will fix the whammy bar issue, but I can
 tell you right now I've learned far too much about o-rings.
-

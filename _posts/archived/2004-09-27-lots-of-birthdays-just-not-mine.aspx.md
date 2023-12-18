@@ -56,6 +56,7 @@ their Halloween party.
 
  Sunday I had planned on getting together with an old friend who I've
 been trying to get ahold of since before last Christmas. I like the guy
+
 - we were like brothers in high school - but over time our schedules
 have become conflicted and we just don't see each other much anymore.
 I'll shoot an email or a phone call his way every so often to see if

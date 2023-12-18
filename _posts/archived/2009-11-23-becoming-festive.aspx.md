@@ -20,13 +20,16 @@ likely buy something; if you take the sign-up sheet to work and stick it
 on the break area table and expect me to register... well, good luck
 with that. Hard work gets rewarded.
 
-[![](http://lh6.ggpht.com/_P1NCAbHEm2Q/Swojt-N1ojE/AAAAAAAABTE/h2oTbUEjNq4/s160-c/2009TransSiberianOrchestra.jpg)](http://picasaweb.google.com/travis.illig/2009TransSiberianOrchestra?feat=embedwebsite)<br />[2009 Trans-Siberian Orchestra](http://picasaweb.google.com/travis.illig/2009TransSiberianOrchestra?feat=embedwebsite)
+[![2009 Trans-Siberian Orchestra](http://lh6.ggpht.com/_P1NCAbHEm2Q/Swojt-N1ojE/AAAAAAAABTE/h2oTbUEjNq4/s160-c/2009TransSiberianOrchestra.jpg)](http://picasaweb.google.com/travis.illig/2009TransSiberianOrchestra?feat=embedwebsite)
+
+[2009 Trans-Siberian Orchestra](http://picasaweb.google.com/travis.illig/2009TransSiberianOrchestra?feat=embedwebsite)
 
 Second, we went to the [Trans-Siberian
 Orchestra](http://www.trans-siberian.com/) concert on Sunday. Not the
 first time we've seen them, but a brilliant show. Everything with TSO is
 always larger-than-life. Every number is *huge* and that just makes it
 *full of awesome*. We were in the tenth row, center section on the aisle
+
 - perfect seats. I snuck a few pictures toward the end with my crappy
 Blackberry camera. Epic stuff. I'd totally go again.
 
@@ -40,4 +43,3 @@ other and see each other all the time.)
 But I'm not going to let that drag me down. I've got this free-standing
 two-foot-tall green M&M in a Santa hat to stick by our front door and
 I've been waiting to put her out. Onward to the holidays!
-

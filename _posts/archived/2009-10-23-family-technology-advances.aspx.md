@@ -14,4 +14,3 @@ Rock Band* with me online. That's *huge*. But bigger still - my Grandpa
 just recently got his very first email account and has sent his first
 email. *Huge*, I'm telling you. I can't tell you how proud I am of both
 of them. Great stuff that just makes me smile.
-

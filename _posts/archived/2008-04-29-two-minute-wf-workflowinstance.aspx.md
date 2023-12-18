@@ -58,4 +58,3 @@ from the event and the event subscriber goes out of scope, you may have
 a memory leak on your hands. (The Garbage Collector won't clean up the
 now-unreferenced event subscriber because there's still one reference to
 it - the subscription to the global WorkflowRuntime event.)
-

@@ -13,4 +13,3 @@ to a breaking change in iTunes 9 where it doesn't handle selected tracks
 in the UI the same way, I updated it. Still free, and source available
 (and updated to .NET 3.5/VS 2008). [If you want it, grab
 it.](/archive/2007/10/29/copytrackmetadata-copy-itunes-track-info.aspx)
-

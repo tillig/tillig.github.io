@@ -51,11 +51,11 @@ Jenn arrived, so there was no way she was going to get taken care of
 early, and may be a few minutes late. It was at this point I was getting
 worried because I started doing the math:
 
--   10 minutes for Jenn to come home from the chiropractor and pick me
+- 10 minutes for Jenn to come home from the chiropractor and pick me
     up.
--   10 minutes to go pick up one of our friends.
--   20 minutes to make it downtown in medium traffic.
--   5 minutes to park if we're lucky.
+- 10 minutes to go pick up one of our friends.
+- 20 minutes to make it downtown in medium traffic.
+- 5 minutes to park if we're lucky.
 
 So as long as Jenn could leave by 6:30p, we could still barely make it
 in time to get the tickets. Close, but not a big problem. Plus, since I
@@ -74,11 +74,11 @@ to bring her the spare keys.
 We're a little behind where I was hoping to be, but we're still looking
 OK.
 
--   5 minutes to get my shoes on, find the spare key, and leave.
--   10 minutes for me to take Jenn the spare key and unlock the car.
--   10 minutes to go get our friend and leave my car at their house.
--   20 minutes to make it downtown in medium traffic.
--   5 minutes to park if we're lucky.
+- 5 minutes to get my shoes on, find the spare key, and leave.
+- 10 minutes for me to take Jenn the spare key and unlock the car.
+- 10 minutes to go get our friend and leave my car at their house.
+- 20 minutes to make it downtown in medium traffic.
+- 5 minutes to park if we're lucky.
 
 It's about 6:15p, and with the 50 minutes it's going to take to get
 things together, we have a 10 minute window (between 7:05p and 7:15p)
@@ -89,11 +89,11 @@ both hop in and get ready to go. I say "get ready" because Jenn's
 battery is dead and she needs a jumpstart. Now I know we're not going to
 make it.
 
--   15 minutes to push Jenn's car to a spot where I can get to it, move
+- 15 minutes to push Jenn's car to a spot where I can get to it, move
     my car, give the jump start, and put everything away.
--   10 minutes to go get our friend and leave my car at their house.
--   20 minutes to make it downtown in medium traffic.
--   5 minutes to park if we're lucky.
+- 10 minutes to go get our friend and leave my car at their house.
+- 20 minutes to make it downtown in medium traffic.
+- 5 minutes to park if we're lucky.
 
 It's about 6:30p and we won't make it to the ticket booth until 7:20p,
 and that's if everything goes right.
@@ -129,4 +129,3 @@ out for the most part. Makes me wonder if we shouldn't have just gone
 for the smaller plans - just dinner - to begin with. Maybe next time. If
 there's a next time. Maybe we should just wait until the weekend like we
 always do so it won't go so horribly wrong.
-

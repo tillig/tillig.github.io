@@ -10,10 +10,10 @@ Coming out of the grocery store yesterday, I swore I heard an ice cream
 truck.
 
 It started quiet, sort of peaceful, like that background music you hear
-sitting outside a decent coffee shop.  Second by second, it got louder. 
+sitting outside a decent coffee shop.  Second by second, it got louder.
 And louder.
 
-Looking around, I saw this car come *tearing* into the parking lot. 
+Looking around, I saw this car come *tearing* into the parking lot.
 Tires squealing, careening around other cars, totally unsafe style, and
 coming this way.
 
@@ -34,4 +34,3 @@ the neighborhood, but I mind it a little less if it's at least halfway
 decent music.  I'd even take some ridiculous hardcore gangster rap over
 this fluffy-pink-clouds garbage.  If you're gonna blare music, at least
 make sure you're blaring *good* music.
-

@@ -8,7 +8,8 @@ tags: [personal]
 ---
 
 ![Drs. Foster & Smith](http://www.drsfostersmith.com/images/cart/dfs_mag_logo.gif)
-```
+
+```text
 August 26, 2003
  Drs. Foster & Smith, Inc.           Order Number: XXXXXXXXXX
  2253 Air Park Road, P.O. Box 100

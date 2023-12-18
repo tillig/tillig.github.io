@@ -110,17 +110,17 @@ Settings & Apps
 
 Change Phone Settings
 
--   Alarm Time
--   Alarm Switch
--   Car Mode
--   Night Mode
--   Bluetooth
--   WiFi
--   Silent
--   Ringer Volume
--   Music Volume
--   Automatic Brightness
--   Brightness
+- Alarm Time
+- Alarm Switch
+- Car Mode
+- Night Mode
+- Bluetooth
+- WiFi
+- Silent
+- Ringer Volume
+- Music Volume
+- Automatic Brightness
+- Brightness
 
 Launch an App
 
@@ -130,25 +130,25 @@ Show a Message
 
 Phone & Text
 
--   Make a Call
--   Send a Text Message
--   Share a Contact
--   Start a Google Talk Conversation
+- Make a Call
+- Send a Text Message
+- Share a Contact
+- Start a Google Talk Conversation
 
 Location & Web
 
--   Show an Address or Location
--   Foursquare Check In
--   Facebook Check In
--   Open a Web Page
+- Show an Address or Location
+- Foursquare Check In
+- Facebook Check In
+- Open a Web Page
 
 Social
 
--   Update Facebook Status
--   Facebook Like
--   Tweet a Status
--   Follow a Twitter User
--   Connect on LinkedIn
+- Update Facebook Status
+- Facebook Like
+- Tweet a Status
+- Follow a Twitter User
+- Connect on LinkedIn
 
 I mean, that doesn't look small, but the first thing I wanted to do was
 set my phone in Vibrate mode since I use that at work, not Silent.
@@ -181,5 +181,5 @@ something similar with TecTiles if you wanted - just program the TecTile
 and stick it to your card. Or, if you're at a trade show, stick it to
 your vendor badge and hold it out for people to scan. I may have to do
 this for the next conference I go to. Rather than exchange cards, "Here
-- scan my badge."
 
+- scan my badge."

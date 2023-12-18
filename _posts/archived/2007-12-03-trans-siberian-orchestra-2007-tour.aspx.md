@@ -36,7 +36,7 @@ roll arrangements of other classical tunes.
 
 Let me tell you something:  You have never heard "O Fortuna" or
 Beethoven's Fifth until you've heard them [done by Trans-Siberian
-Orchestra](http://www.amazon.com/gp/product/B00004S7LI?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00004S7LI). 
+Orchestra](http://www.amazon.com/gp/product/B00004S7LI?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00004S7LI).
 The standard arrangements are, of course, classics, but the TSO versions
 are *invigorating*.  Life gets brought back to these pieces in a way
 it's hard to describe.
@@ -58,4 +58,3 @@ It's a hell of a show.
 If you get a chance to check them out, definitely do.  The music on CD
 is good, but it's nothing compared to the live production.  I'll be
 there again next year, no question about it.
-

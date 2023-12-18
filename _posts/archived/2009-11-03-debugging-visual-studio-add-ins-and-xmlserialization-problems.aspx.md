@@ -19,11 +19,11 @@ I'm working on a DXCore plugin that talks to a web service. It takes
 some selected code and sends it to a web service to do something with.
 Since you need code to work with, the easiest way to debug it was to:
 
-1.  Hit F5 to start another Visual Studio environment with the add-in
+1. Hit F5 to start another Visual Studio environment with the add-in
     installed.
-2.  Go to File -\> Recent Projects and grab the first one in the list -
+2. Go to File -\> Recent Projects and grab the first one in the list -
     the add-in project.
-3.  Test out the plugin.
+3. Test out the plugin.
 
 At one point I made a call to the web service using a complex type (not
 a string or integer, but a data transfer object) like this:
@@ -47,10 +47,8 @@ The solution ends up being "don't do that." Opening up a different
 solution, I no longer had issues debugging my web service calls and the
 plugin worked fine.
 
-1.  Hit F5 to start another Visual Studio environment with the add-in
+1. Hit F5 to start another Visual Studio environment with the add-in
     installed.
-2.  Go to File -\> Open Project... and find *some other project that is
+2. Go to File -\> Open Project... and find *some other project that is
     not the add-in project*.
-3.  Test out the plugin.
-
-
+3. Test out the plugin.

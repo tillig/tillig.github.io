@@ -69,6 +69,7 @@ and posted [a few findings after a couple weeks of
 use](/archive/2010/04/27/two-weeks-in-with-the-onkyo-tx-nr3007.aspx). [I
 released
 DX\_FormatOnSave](/archive/2010/04/13/dx_formatonsave-format-documents-in-visual-studio-when-you-save.aspx)
+
 - a DXCore plugin that will automatically format documents in Visual
 Studio when you hit the save button so you never have to remember to do
 it yourself. I had [some fun with Windows Aero Flip
@@ -194,4 +195,3 @@ but she's still pretty great.)
 Elf.](http://lh5.ggpht.com/_P1NCAbHEm2Q/TRI2bheIQ3I/AAAAAAAAB1c/4Zan6Fz5LPY/s400/20101218-114123.jpg)
 
 Happy holidays, folks!
-

@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 294
 tags: [sql,personal]
 ---
+<!--markdownlint-disable MD036 -->
 *10:47a*
 
  I got in to class just as it was starting at 8:30a because I had to

@@ -25,4 +25,3 @@ tint](http://androidandme.com/2010/05/phones/the-incredible-camera-showdown-droi
 
 Maybe in a couple of weeks or so, when I have a weekend free to head in
 and switch. I'll need the weekend to get myself all set up. :)
-

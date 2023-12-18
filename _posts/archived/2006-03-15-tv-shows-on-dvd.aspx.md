@@ -12,7 +12,7 @@ combined with the distinct lack of time-wasting commercials. Found this
 site called [TV Shows On DVD](http://www.tvshowsondvd.com/) that tells
 you all about the current and scheduled releases of TV on DVD. If you're
 into that, it's definitely a site worth bookmarking.
- 
+
  Now the question is, when are they going to get around to putting
 [*Voyagers!*](http://us.imdb.com/title/tt0083500/) or [*The
 Wizard*](http://us.imdb.com/title/tt0090547/) on DVD?

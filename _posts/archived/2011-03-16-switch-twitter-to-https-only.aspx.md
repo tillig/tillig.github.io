@@ -18,4 +18,3 @@ While you're at it, [go set Facebook to use HTTPS
 only](http://www.facebook.com/blog.php?post=486790652130) and [enable
 two-factor authentication on your Google
 account](http://googleblog.blogspot.com/2011/02/advanced-sign-in-security-for-your.html).
-

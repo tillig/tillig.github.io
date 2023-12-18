@@ -77,4 +77,3 @@ Note: Some folks have found that the first time you plug the drive in
 and test it, Xbox 360 says the drive passes, but on subsequent tests it
 fails. I'll move those drives from the "pass" to "fail" tables as
 they're discovered.
-

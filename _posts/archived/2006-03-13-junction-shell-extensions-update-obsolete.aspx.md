@@ -18,6 +18,7 @@ integrated the property sheet into his extension. Woohoo!]**
 
  [Check this thing
 out](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html)
+
 - it's the bomb. Plus, once he's got the property sheet in there, it
 totally obsoletes mine. (Of course, I offer the source code to mine, so
 for those wanting to learn a little, [go check that

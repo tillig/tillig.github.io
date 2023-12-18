@@ -16,7 +16,6 @@ Decent headphones with my iPod Classic playing lossless directly is pretty good.
 My first step was getting some decent headphones. Not being, as I said, an audiophile, I went with some good-bang-for-the-buck [Sony MDR7506 over the ear headphones](https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E/ref=as_li_ss_il?ie=UTF8&qid=1530112053&sr=8-5&keywords=mdr-7506&linkCode=li2&tag=mhsvortex&linkId=b1d01f3535b4e2a371c292cd3b107d29).
 
 [![Sony MDR7506 Headphones](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000AJIF4E&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mhsvortex)](https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E/ref=as_li_ss_il?ie=UTF8&qid=1530112053&sr=8-5&keywords=mdr-7506&linkCode=li2&tag=mhsvortex&linkId=b1d01f3535b4e2a371c292cd3b107d29)
-<img src="https://ir-na.amazon-adsystem.com/e/ir?t=mhsvortex&l=li2&o=1&a=B000AJIF4E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 That was a definite improvement, but then I started looking at amps.
 
@@ -31,7 +30,6 @@ Anyway, this particular preamp is said to "make the sound more warm." It doesn't
 I also got a [Behringer HA400 amplifier](https://amzn.to/2Iy5qfR). That's the thing that will help with the volume.
 
 [![Behringer HA400 amplifier](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000KIPT30&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mhsvortex)](https://www.amazon.com/Behringer-HA400-BEHRINGER-MICROAMP/dp/B000KIPT30/ref=as_li_ss_il?s=musical-instruments&ie=UTF8&qid=1530112177&sr=1-1&keywords=behringer+ha400&linkCode=li2&tag=mhsvortex&linkId=d674e5e84fd4a61bcb89cbc3d66eea5f)
-<img src="https://ir-na.amazon-adsystem.com/e/ir?t=mhsvortex&l=li2&o=1&a=B000KIPT30" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 All put together, here's the whole setup:
 

@@ -15,22 +15,22 @@ yet-another-Visual-Studio-command-prompt, I figured I'd do a round-up of
 all of the "Command Prompt Here" power toys that I've gathered to assist
 me in keeping this all working.
 
--   Doshere.inf - Standard, no-frills command prompt (basically [the
+- Doshere.inf - Standard, no-frills command prompt (basically [the
     original
     PowerToy](http://www.microsoft.com/windowsxp/downloads/powertoys/xppowertoys.mspx)).
--   powershellhere.inf - PowerShell command prompt ([from Scott
+- powershellhere.inf - PowerShell command prompt ([from Scott
     Hanselman](http://www.hanselman.com/blog/IntroducingPowerShellPromptHere.aspx)).
--   VSNet2003cmdhere.inf - Visual Studio 2003 command prompt ([from
+- VSNet2003cmdhere.inf - Visual Studio 2003 command prompt ([from
     Scott
     Hanselman](http://www.hanselman.com/blog/VisualStudioCommandPromptHereAndSearchUnknownFileExtensions.aspx)).
--   VSNet2005cmdhere.inf - Visual Studio 2005 command prompt ([from
+- VSNet2005cmdhere.inf - Visual Studio 2005 command prompt ([from
     Scott
     Hanselman](http://www.hanselman.com/blog/VisualStudioCommandPromptHereAndSearchUnknownFileExtensions.aspx)).
--   VSNet2008cmdhere.inf - Visual Studio 2008 command prompt for x86 (my
+- VSNet2008cmdhere.inf - Visual Studio 2008 command prompt for x86 (my
     own).
--   VSNet2008Admincmdhere.inf - Visual Studio 2008
+- VSNet2008Admincmdhere.inf - Visual Studio 2008
     elevated/Administrator command prompt for x86 (my own).
--   VSNet2010cmdhere.inf - Visual Studio 2010 command prompt for x86 (my
+- VSNet2010cmdhere.inf - Visual Studio 2010 command prompt for x86 (my
     own).
 
 Pick any or all of them, your choice.  Of course, if you only use one of
@@ -57,4 +57,3 @@ to check out [the Elevation Power Toys on
 TechNet](http://technet.microsoft.com/en-us/magazine/2008.06.elevation.aspx).
 Everything from "elevate this script" to "PowerShell Admin prompt here"
 is waiting for you.
-

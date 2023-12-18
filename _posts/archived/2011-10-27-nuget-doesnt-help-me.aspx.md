@@ -17,8 +17,8 @@ That said, I have what I'm *sure* is going to be an unpopular opinion:
 
 It seems to me the primary benefits of NuGet are:
 
--   Get third-party dependencies into new projects faster.
--   Help you more easily update packages in your project.
+- Get third-party dependencies into new projects faster.
+- Help you more easily update packages in your project.
 
 That's all well and good, but**I think I'm not the target audience for
 this**, and I think I may not be alone.

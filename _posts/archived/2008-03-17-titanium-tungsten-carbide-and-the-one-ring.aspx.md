@@ -57,4 +57,3 @@ professional helping me has a pair of vice grips. I have to assume the
 medical field has figured this one out. Or maybe I should get one of
 those [MedicAlert bracelets](http://www.medicalert.org) that says,
 "Don't cut off my finger, just get some channel locks."
-

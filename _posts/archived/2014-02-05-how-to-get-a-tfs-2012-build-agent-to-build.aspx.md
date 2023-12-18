@@ -37,31 +37,31 @@ full VS 2013 stack – no falling back to VS 2012 tools:**
 
 On the **build agent**...
 
-1.  Install Visual Studio 2013.
-2.  Update the build agent configuration to have a tag "vs2013" – you
+1. Install Visual Studio 2013.
+2. Update the build agent configuration to have a tag "vs2013" – you
     need a tag so you can target your build configurations to agents
     that support the new requirements.
 
 In your **project/solution**...
 
-1.  Update all of your .csproj and MSBuild scripts to specify
+1. Update all of your .csproj and MSBuild scripts to specify
     `ToolsVersion="12.0"` at the top in the `<Project>` element. In VS
     2012 this used to be `ToolsVersion="4.0"` so you might be able to
     search for that.
-2.  Update any path references in your scripts, project files, custom
+2. Update any path references in your scripts, project files, custom
     FxCop ruleset definitions, etc., to point to the VS 2013 install
     location. That is, switch from
     `C:\Program Files (x86)\Microsoft Visual Studio 11.0\...` to
     `C:\Program Files (x86)\Microsoft Visual Studio 12.0\...`; or from
     `VS110COMNTOOLS` to `VS120COMNTOOLS`.
-3.  If you're using NuGet and have package restore enabled, make sure
+3. If you're using NuGet and have package restore enabled, make sure
     you have the latest NuGet.targets file. You can get that by setting
     up a new project really quickly and just enabling package restore on
     that, then stealing the NuGet.targets. You may need to tweak the
     ToolsVersion at the top.
-4.  Update your project's TFS build configuration so...
-    -   It requires a build agent with the "vs2013" flag.
-    -   In the "MSBuild Arguments" setting, pass
+4. Update your project's TFS build configuration so...
+    - It requires a build agent with the "vs2013" flag.
+    - In the "MSBuild Arguments" setting, pass
         `/p:VisualStudioVersion=12.0` so it knows to use the latest
         tools.
 
@@ -72,4 +72,3 @@ that there are any paths or anything set to the VS 2012 install
 location, you'll know you missed a reference. You will still probably
 see the `VS110COMNTOOLS` environment variable, but it won't be getting
 used anywhere.
-

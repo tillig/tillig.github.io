@@ -4,7 +4,7 @@ title: "The Self-Signed Certificate Disappearing Act"
 date: 2016-08-08 -0800
 comments: true
 tags: [dotnet,aspnet]
-description: "When testing with SSL/TLS on a local site, your self-signed certifcates can lose trust. Where'd they go?"
+description: "When testing with SSL/TLS on a local site, your self-signed certificates can lose trust. Where'd they go?"
 ---
 It's good to develop and deploy your .NET web apps using SSL/TLS to ensure you're doing things correctly and securely.
 
@@ -24,7 +24,7 @@ You can try capturing changes to the CA list with [Procmon](https://technet.micr
 
 It's easy enough to put it back, but it will eventually get removed again.
 
-# What is Going On?
+## What is Going On?
 
 **The reason for this is the [Automatic Third-Party CA Updates](https://technet.microsoft.com/en-us/library/cc734054(v=ws.10).aspx) process that runs as a part of of Windows.** This process goes to Windows Update periodically to get an updated list of trusted third-party certificate authorities and if it finds any certificates not present in the list they get deleted.
 
@@ -32,13 +32,13 @@ Obviously your self-signed dev cert won't be in the list, so, _poof_. Gone. It w
 
 There are basically two options to fix this (assuming you don't want to ignore the issue and just put the self-signed CA cert back every time it gets removed):
 
-# Option 1: Stop Using Self-Signed Certificates
+## Option 1: Stop Using Self-Signed Certificates
 
 Instead of using a self-signed development cert, try something from an actual, trusted third-party CA. You can get a free certificate from [LetsEncrypt](https://letsencrypt.org/), for example. Note LetsEncrypt certificates [currently only last 90 days](https://letsencrypt.org/2015/11/09/why-90-days.html) but you'll get 90 _uninterrupted days_ where your certificate won't magically lose trust.
 
 Alternatively, if you have an internal CA that's already trusted, use that. Explaining how to set up an internal CA is a bit beyond the scope of this post and it's not a single-step five-minute process, but if you don't want a third-party certificate, this is also an option.
 
-# Option 2: Turn Off Automatic Third-Party CA Updates
+## Option 2: Turn Off Automatic Third-Party CA Updates
 
 If you're on an Active Directory domain you can do this through group policy, but in the local machine policy you can see this under Computer Configuration / Administrative Templates / System / Internet Communication Management / Internet Communication Settings - You'd set "Turn off Automatic Root Certificate Update" to "Enabled."
 

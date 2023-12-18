@@ -14,10 +14,10 @@ Thing is... they didn't work for me.
 
 No matter what I tried, something went awry.
 
--   The video rotated but no sound came through.
--   The video rotated and sound came through but the quality was
+- The video rotated but no sound came through.
+- The video rotated and sound came through but the quality was
     horrible.
--   The audio came through but the video wasn't visible.
+- The audio came through but the video wasn't visible.
 
 ...and so on. Ugh.
 
@@ -38,10 +38,10 @@ Yeah.
 
 The "transpose" option at the end is the bit that rotates.
 
--   0 = 90 degrees counterclockwise and vertical flip
--   1 = 90 degrees clockwise
--   2 = 90 degrees counterclockwise
--   3 = 90 degrees clockwise and vertical flip
+- 0 = 90 degrees counterclockwise and vertical flip
+- 1 = 90 degrees clockwise
+- 2 = 90 degrees counterclockwise
+- 3 = 90 degrees clockwise and vertical flip
 
 And I know someone is going to want to comment something about *blah
 blah orientation flag blah blah file metadata blah blah some players
@@ -56,4 +56,3 @@ research, I figured I'd post it.
 Note that command line works great with the build of FFmpeg that comes
 with WinFF, but they've updated some of the options in later builds so
 it needs to be adjusted.
-

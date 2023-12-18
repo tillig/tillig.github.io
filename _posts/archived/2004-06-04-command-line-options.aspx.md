@@ -16,7 +16,6 @@ technical option and then decided that in future programs I need to
 follow that same standard. As such, here are some command line options
 I'm contemplating for programs I write in the future:
 
-
  **/passiveagressive**: Install unattended and force overwrite of any
 old file versions without asking.
 

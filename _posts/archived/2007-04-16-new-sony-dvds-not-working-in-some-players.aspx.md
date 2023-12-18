@@ -28,7 +28,6 @@ ejecting the disc.
 > do not intend to fix it. Sony says it's up to the manufacturers to
 > update their hardware."
 
-
  Did I just buy a new DVD player *because Sony screwed me*?
 
  At least I didn't buy a new *Sony* DVD player. It's a Samsung. :)

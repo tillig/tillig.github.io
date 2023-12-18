@@ -17,4 +17,3 @@ IV]({{ site.url }}/images/20080124gta4logo.gif)
 
 I'd best be scheduling my time off now. Oh, and I need to stock up
 on provisions.
-

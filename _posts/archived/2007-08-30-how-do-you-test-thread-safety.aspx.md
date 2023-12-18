@@ -4,7 +4,7 @@ title: "How Do You Test Thread Safety?"
 date: 2007-08-30 -0800
 comments: true
 disqus_identifier: 1260
-tags: [GeekSpeak,net]
+tags: [GeekSpeak,dotnet]
 ---
 I'm all about testing.  I do my best to adhere to test-driven
 development (though, admittedly, sometimes that's hard when you're doing
@@ -29,4 +29,3 @@ But say you have a little code block like this:
 Standard lock/double-check stuff to ensure things only get initialized
 once.  Does anyone have a good way to test that?  A quick search of the
 net turns up... well, pretty much nothing.
-

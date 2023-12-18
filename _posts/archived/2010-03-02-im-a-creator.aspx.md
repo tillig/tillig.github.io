@@ -74,4 +74,3 @@ to deal with, but... well, them's the breaks.
 
 I wanted to be 3D modeler/animator at one point. That would have been
 along these lines, too. Hmmm.
-

@@ -71,4 +71,3 @@ In fact, this morning after we got her up she went straight for the
 flashlights. "Jungle, Daddy." I had to laugh. "Did you have a good time
 playing last night? Did the tigers get you?" She nodded her head, her
 wild curls shaking. "Tigers no get me. Fun!"
-

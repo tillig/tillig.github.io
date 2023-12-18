@@ -28,5 +28,4 @@ other things I'm thinking about doing, but you can check all that out
 you want to try it out, you can [get it on the Mozilla
 site](https://addons.mozilla.org/en-US/firefox/addon/13816).
 
-![](http://firefox-ntlmauth.googlecode.com/svn/site/screenshots/edit-dialog.png)
-
+![Edit dialog](http://firefox-ntlmauth.googlecode.com/svn/site/screenshots/edit-dialog.png)

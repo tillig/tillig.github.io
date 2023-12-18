@@ -52,4 +52,3 @@ Their part of the show ran, oh, maybe an hour and a half, then they were
 done, but it was a great 90 minutes. Hearing "Love Shack" and "Rock
 Lobster" live was worth the price of admission. "Knock a little louder,
 Portland!"
-

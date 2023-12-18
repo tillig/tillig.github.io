@@ -19,4 +19,3 @@ trying to accomplish, why I chose VIDEO_TS instead of MPEG or some
 other compressed format, etc. - check out [the overview of my Media
 Center
 solution](/archive/2008/09/30/overview-of-my-media-center-solution.aspx).
-

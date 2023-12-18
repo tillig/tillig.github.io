@@ -15,4 +15,3 @@ could spread the joy.)
 
 [If you're into the multi-user iTunes thing, check it
 out.](/archive/2005/04/10/multi-user-itunes.aspx)
-

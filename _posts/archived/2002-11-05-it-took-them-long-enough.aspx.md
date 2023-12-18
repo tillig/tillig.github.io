@@ -7,7 +7,7 @@ disqus_identifier: 162
 tags: [gaming,movies]
 ---
 
-```
+```text
 From: ship-confirm@amazon.com
 Date: Tuesday, November 05, 2002 1:25 PM
 To: me@me.me

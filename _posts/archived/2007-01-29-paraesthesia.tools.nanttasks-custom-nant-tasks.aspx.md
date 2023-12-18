@@ -4,7 +4,7 @@ title: "Paraesthesia.Tools.NAntTasks - Custom NAnt Tasks"
 date: 2007-01-29 -0800
 comments: true
 disqus_identifier: 1139
-tags: [downloads,vs,build,net]
+tags: [downloads,vs,build,dotnet]
 ---
 I use NAnt to do my automated builds both at home and at work. As such,
 I decided to start keeping a little library of custom NAnt tasks that
@@ -21,7 +21,7 @@ look like this:
  The available tasks include:
 
 >
->  **alpharesx**: The `<alpharesx />` task is used to alphabetize
+> **alpharesx**: The `<alpharesx />` task is used to alphabetize
 > resource files (`*.resx`) by resource ID. This is helpful in an
 > environment where automated tools are used to merge resource file
 > contents (like the built-in merge facilities in many source control
@@ -34,7 +34,7 @@ look like this:
 > looking for in an easier fashion.
 >
 >
->  **lintrelativepaths**: When you add a reference to an assembly from a
+> **lintrelativepaths**: When you add a reference to an assembly from a
 > project, a "HintPath" is added to point to the location of that
 > assembly. If it's a standard .NET Framework assembly, that "HintPath"
 > will point to the .NET Framework assembly deep inside the WINDOWS
@@ -50,12 +50,12 @@ look like this:
 > `\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll`. (Not
 > foolproof, but far more reliable.)
 >
->  This task searches specified files using a regular expression and
+> This task searches specified files using a regular expression and
 > fails the build if you have relative paths to common locations like
 > `WINDOWS`, `Inetpub`, or `Program Files`.
 >
 >
->  **nunitexec**: The `<nunitexec />` task is a replacement for the
+> **nunitexec**: The `<nunitexec />` task is a replacement for the
 > built-in `<nunit2 />` task. With NAnt and NUnit versions changing,
 > there's all nature of trouble in getting the built-in task to work
 > using assembly binding redirects and so forth. Generally people switch
@@ -63,7 +63,7 @@ look like this:
 > `<exec />` task doesn't allow the nice syntax of the built-in
 > `<nunit2 />` task and changing working build scripts over is a pain.
 >
->  `<nunitexec />` has identical syntax to the built-in `<nunit2 />`
+> `<nunitexec />` has identical syntax to the built-in `<nunit2 />`
 > task, it just runs the console app. An option is included to allow you
 > to specify the location of the NUnit console application. Refer to
 > [the `<nunit2 />`
@@ -71,7 +71,7 @@ look like this:
 > for a description of how to specify formatters and tests to run.
 >
 >
->  **propertydelete**: NAnt lets you create properties, change property
+> **propertydelete**: NAnt lets you create properties, change property
 > values... but not delete them. That makes the `property::exists` test
 > fairly limited. There are times when you might want to make a property
 > *not exist* so you can better make use of simple tests like
@@ -99,11 +99,9 @@ Source](https://github.com/tillig/nant-tasks/archive/v2.0.0.zip)
 
  **2.0.0**:
 
--   Updated to .NET 2.0.
--   Updated to NAnt 0.86 beta 1.
--   Fixed nunitexec task to no longer output the "framework" parameter.
--   Fixed nunitexec task to properly quote only the value of
+- Updated to .NET 2.0.
+- Updated to NAnt 0.86 beta 1.
+- Fixed nunitexec task to no longer output the "framework" parameter.
+- Fixed nunitexec task to properly quote only the value of
     command-line parameters.
--   Fixed alpharesx to output .resx files in 2.0 schema format.
-
-
+- Fixed alpharesx to output .resx files in 2.0 schema format.

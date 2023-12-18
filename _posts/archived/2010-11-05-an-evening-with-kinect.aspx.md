@@ -61,10 +61,10 @@ Adventures!]({{ site.url }}/images/20101105postcard.jpg)
 This is actually a decent workflow if you have an Android phone (and
 possibly iPhone, but I've not tried it):
 
-1.  Upload from Xbox to KinectShare.
-2.  Visit KinectShare on the phone browser and post the photo to
+1. Upload from Xbox to KinectShare.
+2. Visit KinectShare on the phone browser and post the photo to
     Facebook.
-3.  Open the Facebook app and share the photo from there - email,
+3. Open the Facebook app and share the photo from there - email,
     [Twitter](http://twitter.com), or whatever.
 
 Another cool feature is the facial recognition. You can sign into Xbox
@@ -115,4 +115,3 @@ Anyway, Kinect is fun, but we don't have enough room. I haven't even
 cracked *[Dance
 Central](http://www.amazon.com/dp/B002I0HBOI?tag=mhsvortex)* out of the
 plastic yet and I know I'm not going to have enough space.
-

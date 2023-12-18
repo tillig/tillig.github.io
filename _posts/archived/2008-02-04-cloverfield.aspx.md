@@ -46,10 +46,10 @@ There were really only three parts I dug about it (and, technically,
 these are spoilers, but you're going to be smart and save your money,
 right?):
 
-1.  The part where the stealth bombers show up to lay waste on the
+1. The part where the stealth bombers show up to lay waste on the
     monster.
-2.  The part where the girl explodes after getting bitten.
-3.  The fact that little mini-creatures get dropped off the one big
+2. The part where the girl explodes after getting bitten.
+3. The fact that little mini-creatures get dropped off the one big
     creature. That shit creeped me out.
 
 Other than that, lame, lame, lame. I wanted less of the morons running
@@ -59,4 +59,3 @@ was going on.
 
 Save your money. Or, better, go see
 *[Juno](http://www.imdb.com/title/tt0467406/)*. *That* movie was great.
-

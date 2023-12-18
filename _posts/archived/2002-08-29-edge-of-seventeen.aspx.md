@@ -45,18 +45,16 @@ some of these "perfect songs."
  What else would I consider a "perfect song?" Let's see... a list of
 some of them (that I thought up in the car this morning) include:
 
--   [Stevie Nicks: *Edge of
+- [Stevie Nicks: *Edge of
     Seventeen*](http://www.amazon.com/exec/obidos/ASIN/B000002JO6/mhsvortex)
--   [Any Fleetwood Mac song featuring Christine McVie (i.e., *Little
+- [Any Fleetwood Mac song featuring Christine McVie (i.e., *Little
     Lies*)](http://www.amazon.com/exec/obidos/ASIN/B000002LFZ/mhsvortex)
--   [The Weather Girls: *It's Raining
+- [The Weather Girls: *It's Raining
     Men*](http://www.amazon.com/exec/obidos/ASIN/B00005J6SN/mhsvortex)
--   [Robert Miles:
+- [Robert Miles:
     *Fable*](http://www.amazon.com/exec/obidos/ASIN/B000002VRQ/mhsvortex)
--   [Sarah Brightman: *Deliver
+- [Sarah Brightman: *Deliver
     Me*](http://www.amazon.com/exec/obidos/ASIN/B00000IL1K/mhsvortex)
-
-
 
  There are lots of others, I just happen to think of these today.
 

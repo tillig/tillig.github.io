@@ -36,4 +36,3 @@ From her obituary:
 > Summerplace for 10 years, and has lived in Milwaukie since 2001. She
 > loved square dancing and was a member of the Record Breakers Square
 > Dance Club. She also enjoyed ceramic painting and artwork.
-

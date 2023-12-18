@@ -3,7 +3,7 @@ layout: post
 title: "Upcoming Rename: Autofac.Framework.DependencyInjection to Autofac.Extensions.DependencyInjection"
 date: 2015-10-05 -0800
 comments: true
-tags: [autofac,net]
+tags: [autofac,dotnet]
 ---
 [As part of DNX RC1, the `Microsoft.Framework.*` packages are getting renamed to `Microsoft.Extensions.*`.](https://github.com/aspnet/Announcements/issues/77)
 

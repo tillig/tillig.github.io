@@ -17,8 +17,14 @@ There are several articles out there that say "just attach to `XDesProc.exe` wit
 3. Enter the command `setx XPROCESS_PROMPT 1` and hit enter.
 4. Close the command prompt.
 5. Open the problem project in Visual Studio and get to the designer to trigger the problem.
-6. When the designer is about to start, you'll get a little dialog box telling you _exactly which process to debug_.<br />![Attach debugger now!]({{ site.url }}/images/20170313_attachdebugger.png)
-7. Open a second instance of Visual Studio and attach to that process. Make sure in the "Attach to Process" dialog you select "Managed (v4.6, v4.5, v4.0)" - you may have to manually change the value here.<br />![Attach to managed code]({{ site.url }}/images/20170313_attachtocode.png)
+6. When the designer is about to start, you'll get a little dialog box telling you _exactly which process to debug_.
+
+   ![Attach debugger now!]({{ site.url }}/images/20170313_attachdebugger.png)
+
+7. Open a second instance of Visual Studio and attach to that process. Make sure in the "Attach to Process" dialog you select "Managed (v4.6, v4.5, v4.0)" - you may have to manually change the value here.
+
+   ![Attach to managed code]({{ site.url }}/images/20170313_attachtocode.png)
+
 8. If you're interested in setting a breakpoint on your project code, open your project in that _second_ copy of Visual Studio (the one attached to `XDesProc.exe`) and set your breakpoints.
 9. Click the "OK" button in the "Attach debugger now!" dialog to allow the _first_ instance of VS to continue the design-time rendering.
 

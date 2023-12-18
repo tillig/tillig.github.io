@@ -26,4 +26,3 @@ explorer %CD%
 So now it's just "explore" at the prompt and magic happens. (Yes, I do realize it's only five characters shorter, but I also get a nice little echo message to tell me what's going on, plus I don't have to remember it anymore.)
 
 Note you can get some slightly different functionality if you use [some of the command line switches for Windows Explorer](http://support.microsoft.com/kb/130510), but for me, this works.
-

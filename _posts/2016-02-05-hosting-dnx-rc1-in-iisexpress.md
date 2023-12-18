@@ -27,6 +27,7 @@ When Visual Studio starts up your application, it actually creates an all-new `a
 Let's walk through each step.
 
 ## applicationhost.config Updates
+
 Before you can host DNX apps in IIS Express, you need to update your default IIS Express `applicationhost.config` to know about the `httpPlatformHandler` module that DNX uses to start up its child process.
 
 **You only have to do this one time.** Once you have it in place, you're good to go and can just configure your apps as needed.
@@ -124,13 +125,14 @@ Note that the `HttpPlatformHandler` isn't actually a DNX-specific thing. [It's a
 Now you're set for the next step.
 
 ## Configure Apps with IIS Express
+
 I know you can run IIS Express with a bunch of command line parameters, and if you want to do that, go for it. However, it's just a bunch easier if you set it up as an app within IIS Express so you can more easily launch it.
 
 **Set up applications pointing to the `wwwroot` folder.**
 
 A simple command to set up an application looks like this:
 
-```
+```batch
 "C:\Program Files (x86)\IIS Express\appcmd.exe" add app /site.name:"MyApplication" /path:/ /physicalPath:C:\some\folder\src\MyApplication\wwwroot
 ```
 

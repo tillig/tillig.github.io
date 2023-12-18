@@ -25,10 +25,10 @@ built them a few times and compared the average times.
 
 I noticed two interesting things here:
 
-1.  From a time perspective, you don't get much if you have 100
+1. From a time perspective, you don't get much if you have 100
     solutions or 100 projects - the real gain (and it's significant) is
     if you put everything into the same project/assembly.
-2.  The working copy size post-build (the amount of disk space taken by
+2. The working copy size post-build (the amount of disk space taken by
     the source and build output) is orders of magnitude smaller if you
     put everything into the same project/assembly.
 

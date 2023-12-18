@@ -30,4 +30,3 @@ I can't say I've heard much anything else by My Chemical Romance, but it
 does make me curious to hear more.  Maybe I'll have to pick up something
 else by them and see how it fares.  Regardless, this thing rocks, and I
 totally recommend it.
-

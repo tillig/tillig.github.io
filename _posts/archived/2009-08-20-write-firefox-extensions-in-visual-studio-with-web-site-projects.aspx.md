@@ -33,7 +33,7 @@ Now **we're going to create a Visual Studio solution to manage the code
 with**. We'll end up with a folder/file structure that looks something
 like this:
 
-[![](http://lh5.ggpht.com/_P1NCAbHEm2Q/So2kQdM-IKI/AAAAAAAABLk/uONZ9VMkAhA/s288/Extension%20Folder%20Structure.png)](http://picasaweb.google.com/lh/photo/6abCFiE__uY4dXlSmwbRrw?feat=embedwebsite)
+[![Extension folder structure](http://lh5.ggpht.com/_P1NCAbHEm2Q/So2kQdM-IKI/AAAAAAAABLk/uONZ9VMkAhA/s288/Extension%20Folder%20Structure.png)](http://picasaweb.google.com/lh/photo/6abCFiE__uY4dXlSmwbRrw?feat=embedwebsite)
 
 You have a folder that houses your extension ("ExampleExtension") and
 then you have the actual folder structure under that which has the
@@ -68,7 +68,7 @@ really matter which language you select, since you're not going to be
 really making a web site, so select what you want. (I selected Visual
 C#.)
 
-[![](http://lh6.ggpht.com/_P1NCAbHEm2Q/So2mkh7qpbI/AAAAAAAABLs/iFTkpi1RIso/s288/New%20Web%20Site%20for%20Extension.png)](http://picasaweb.google.com/lh/photo/p8X36XBjOe2vGQVK4RloLQ?feat=embedwebsite)
+[![New web site for extension](http://lh6.ggpht.com/_P1NCAbHEm2Q/So2mkh7qpbI/AAAAAAAABLs/iFTkpi1RIso/s288/New%20Web%20Site%20for%20Extension.png)](http://picasaweb.google.com/lh/photo/p8X36XBjOe2vGQVK4RloLQ?feat=embedwebsite)
 
 When you click "OK," it's going to find the extension folders and such
 you already have. It will then ask you how you want to proceed. **Select
@@ -77,7 +77,7 @@ for your extension into the "web site" without adding anything to it.
 You should see it all in Solution Explorer. Here's a screen shot of my
 extension in Solution Explorer with all the requisite files.
 
-[![](http://lh3.ggpht.com/_P1NCAbHEm2Q/So2osEcJDLI/AAAAAAAABL4/7x6eir71GXE/s800/Solution%20Explorer%20for%20Firefox%20Extension.png)](http://picasaweb.google.com/lh/photo/KMTV-RPD3cFJ3IN8hlUOLA?feat=embedwebsite)
+[![Solution explorer for Firefox extension](http://lh3.ggpht.com/_P1NCAbHEm2Q/So2osEcJDLI/AAAAAAAABL4/7x6eir71GXE/s800/Solution%20Explorer%20for%20Firefox%20Extension.png)](http://picasaweb.google.com/lh/photo/KMTV-RPD3cFJ3IN8hlUOLA?feat=embedwebsite)
 
 **That's it.** You should now be able to add, remove, and update files
 for your extension from Visual Studio.
@@ -101,7 +101,7 @@ environment](https://developer.mozilla.org/en/Setting_up_extension_development_e
 In the "Friendly Name" box, put something like "Firefox Extension
 Developer Environment." Then click OK.
 
-[![](http://lh3.ggpht.com/_P1NCAbHEm2Q/So2q8V8cCsI/AAAAAAAABMA/8sMj_h8u3Dg/s800/Browse%20With%20Firefox%20Extension%20Developer%20Environment.png)](http://picasaweb.google.com/lh/photo/Yc3mP4vhyppVtMJCkOTxHw?feat=embedwebsite)
+[![Browse with Firefox extension developer environment](http://lh3.ggpht.com/_P1NCAbHEm2Q/So2q8V8cCsI/AAAAAAAABMA/8sMj_h8u3Dg/s800/Browse%20With%20Firefox%20Extension%20Developer%20Environment.png)](http://picasaweb.google.com/lh/photo/Yc3mP4vhyppVtMJCkOTxHw?feat=embedwebsite)
 
 You will get warned with something that says "File name does not exist,
 is invalid, or contains parameters that cannot be validated. Do you want
@@ -162,4 +162,3 @@ is a starting point.
 
 Hopefully this will help some of you folks trying to break into Firefox
 extension development!
-

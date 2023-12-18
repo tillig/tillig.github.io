@@ -15,7 +15,7 @@ is pretty full-featured and understands format strings. For example, you
 can do `String.format("{0:d}", mydate)`` to format a date in short date
 format. Snazzy stuff. Unfortunately, the jQuery Validation one isn't
 that robust... so I figured I'd marry the two worlds. Allow you to still
-use the `$.validator.format` method, just like you always do, but under
+use the`$.validator.format` method, just like you always do, but under
 the covers it'll pass through to ASP.NET AJAX to do the
 replacement/formatting.
 

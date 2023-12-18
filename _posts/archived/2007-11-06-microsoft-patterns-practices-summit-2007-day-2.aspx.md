@@ -24,14 +24,14 @@ A couple of interesting quotes:
 
 Practices he's seen succeed in Agile environments:
 
--   Short release cycles.
--   Highly interactive release planning.
--   Timebox development.
--   Empowered, small, cross-functional teams.
--   Involvement of active management.
--   Coding standards.
--   Frequent integration and test.
--   Automated regression tests.
+- Short release cycles.
+- Highly interactive release planning.
+- Timebox development.
+- Empowered, small, cross-functional teams.
+- Involvement of active management.
+- Coding standards.
+- Frequent integration and test.
+- Automated regression tests.
 
 On the other hand, things like daily stand-ups should be evaluated -
 make sure you're not meeting just for the sake of meeting.  And don't
@@ -74,13 +74,13 @@ manage your backlog and work items.  It looked, to me, a lot like
 
 Other features that stuck out to me:
 
--   Continuous integration support - They're building in a continuous
-    integration server that's supposedly better than CruiseControl. 
+- Continuous integration support - They're building in a continuous
+    integration server that's supposedly better than CruiseControl.
     I'll have to see that to believe it.
--   Drop management - Once you've built something in your continuous
+- Drop management - Once you've built something in your continuous
     integration server, where does it go? How long do you maintain it?
     That's what this does.
--   Test impact analysis - If you change a line of code, this will tell
+- Test impact analysis - If you change a line of code, this will tell
     you which tests need to be run to validate the change you made.
 
 **Lessons Learned in Unit Testing - [Jim
@@ -89,41 +89,41 @@ Newkirk](http://blogs.msdn.com/jamesnewkirk/)**
 Some very interesting discussion about things learned in the creation of
 NUnit and other experiences in unit testing.
 
--   Lesson 1: Just do it.  You have to write your tests and they have to
+- Lesson 1: Just do it.  You have to write your tests and they have to
     be first-class citizens.
--   Lesson 2: Write tests using the 3A pattern.  Arrange, Act, Assert. 
+- Lesson 2: Write tests using the 3A pattern.  Arrange, Act, Assert.
     Each test should have code that does those things in that order.
--   Lesson 3: Keep your tests close.  Close to the original code, that
+- Lesson 3: Keep your tests close.  Close to the original code, that
     is.  Consider putting them in the same assembly as the code they
     test and ship the tests.  One possibilty to still maintain the
     ability to not ship tests includes using multi-module assemblies -
-    put your production code in one module and your tests in another. 
+    put your production code in one module and your tests in another.
     When you're debugging/testing, compile both modules into the
-    assembly; when you release, only include the product module. 
+    assembly; when you release, only include the product module.
     Unfortunately, Visual Studio doesn't support creating this sort of
     assembly.
--   Lesson 4: Use alternatives to ExpectedException.  The
+- Lesson 4: Use alternatives to ExpectedException.  The
     ExpectedException attribute, part of NUnit, breaks the 3A principle
     because it puts the "Assert" - the ExpectedException attribute - at
     the top.
--   Lesson 5: Small fixtures.  Keeping test fixtures small helps
+- Lesson 5: Small fixtures.  Keeping test fixtures small helps
     readability and maintainability.  One idea is to create one main
     test fixture class and each method's tests go in a nested
     class/fixture.  (Of course, this does introduce nested classes,
     which isn't supported by all test runners...)
--   Lesson 6: Don't use SetUp or TearDown.  The problem is that they
+- Lesson 6: Don't use SetUp or TearDown.  The problem is that they
     become a dumping ground for every test's setup/teardown even though
     they apply to every test.  Forcing each test to do its own setup and
     teardown makes each test isolated and more readable... but it will
     introduce duplicate initialization code.
--   Lesson 7: Improve testability with inversion of control.  This was
+- Lesson 7: Improve testability with inversion of control.  This was
     sort of a nod to "design-for-testability" with interfaces that allow
-    you to swap in test implementations of objects at test time. 
+    you to swap in test implementations of objects at test time.
     (Dependency injection centralizes the management of this.)  The
     benefits are better test isolation and decoupled class
     implementaiton.  The drawbacks are that it decreases encapsulation
     and risks "interface explosion" (a high proliferation of interfaces
-    - every object ends up with a corresponding interface, even if it's
+  - every object ends up with a corresponding interface, even if it's
     just for testing).  Plus, in many cases a dependency injection
     framework is overkill.
 
@@ -140,16 +140,16 @@ there's no one way to get it in there.
 
 Ideas include:
 
--   Appoint a security owner, ideally someone who's interested in it. 
+- Appoint a security owner, ideally someone who's interested in it.
     That person will be responsible for ensuring the team meets security
     goals.
--   Agile threat modeling is sometimes just as good as a heavyweight
+- Agile threat modeling is sometimes just as good as a heavyweight
     process.  Sketch data flow diagrams on the whiteboard and make sure
     threat mitigations get added to the backlog.
--   Use code scanning tools daily or weekly.  Also use peer code
+- Use code scanning tools daily or weekly.  Also use peer code
     review - this can not only catch functional defects but security
     defects, too.
--   Build security tests at the same time you build your other tests.
+- Build security tests at the same time you build your other tests.
 
 **"Yet Another Agile Talk On Agility" - [Peter
 Provost](http://www.peterprovost.org)**
@@ -179,4 +179,3 @@ Newkirk, Sara Ford, [Stuart
 Celarier](http://cs.ferncrk.com/blogs/stuart/), and Rory Plaire.  I have
 to say, it was pretty sweet sitting up there with that crowd.  Maybe I
 need to seek me out some speaking gigs.
-

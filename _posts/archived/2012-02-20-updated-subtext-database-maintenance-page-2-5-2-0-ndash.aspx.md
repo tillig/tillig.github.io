@@ -19,4 +19,3 @@ Enable/disable, push-button style. All yours, free, YMMV. Do note that
 it does actually modify the stored proc, so if you've got your DB locked
 down or you've customized stuff, this may not be something you want to
 do. **You have been warned.**
-

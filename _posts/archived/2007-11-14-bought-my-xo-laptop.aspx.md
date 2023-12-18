@@ -20,6 +20,3 @@ life, but for me it's more likely a toy to hack.)
 
 A charity to help teach kids computing skills? Oh, *hellz yeah*.  I
 bought mine; have you got yours?
-
- 
-

@@ -18,13 +18,13 @@ ProGet supports three user directories:
 2. LDAP or Single Domain Active Directory - uses a single LDAP directory for users.
 3. Active Directory with Multiple Domains - enables the local Active Directory as well as an additional domain.
 
-# General Troubleshooting
+## General Troubleshooting
 
 **There's a hidden integrated auth debugging page** at `http://yourprogetserver/debug/integrated-auth` and it dumps out a bunch of data about which user directory you're using, which user account you're using to authenticate currently, and so on.
 
 I'm not putting a screen shot here because the view would be nearly useless given the amount of info I'd have to redact. Just try it, you'll see.
 
-# Built-in Directory
+## Built-in Directory
 
 There's not much to say about the built-in directory. It's very simple. Members, groups, done. However, you may, at some point want to test searching for specific users or groups if folks are reporting trouble.
 
@@ -34,7 +34,7 @@ That page allows you to do a test search. There's really nothing to configure ot
 
 ![Built-in directory test page]({{ site.url }}/images/20170317_builtinpage.png)
 
-# LDAP or Single Domain Active Directory
+## LDAP or Single Domain Active Directory
 
 Connecting to the local Active Directory is pretty straightforward. [There's good doc on how to do that.](https://inedo.com/support/documentation/proget/administration/ldap-active-directory)
 
@@ -50,7 +50,7 @@ This is super useful if you need to authenticate as a service account for AD que
 
 In order to use a _different_ domain than the service account or machine you need to switch to the "Active Directory with Multiple Domains" option.
 
-# Active Directory with Multiple Domains
+## Active Directory with Multiple Domains
 
 This option lets you authenticate users against a _different_ or _second_ directory. In this case, "Multiple Domains" means "the default domain and an additional one."
 

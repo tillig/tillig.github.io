@@ -59,4 +59,3 @@ create the animation, or make that happen for other people. My friends
 admit it makes me a little jealous.
 
 Hey, Pixar... need any remote developers in Oregon?
-

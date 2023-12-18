@@ -22,12 +22,11 @@ sounded more like that [electronic voice phenomena](http://aaevp.com/)
 thing than a human - sort of waify and weak.
 
 >
->  **EVP Girl:** ...yeah, hi, Beads Forever...
->  **Me:** Hi, can you tell me your hours today?
->  **EVP Girl:** ...I'm... uh... open... ten to six today... eleven to
+> **EVP Girl:** ...yeah, hi, Beads Forever...
+> **Me:** Hi, can you tell me your hours today?
+> **EVP Girl:** ...I'm... uh... open... ten to six today... eleven to
 > six tomorrow...
->  **Me:** Riiiiiight.
-
+> **Me:** Riiiiiight.
 
  So I get to the bead store ("Beads Forever") around 11:00.
 

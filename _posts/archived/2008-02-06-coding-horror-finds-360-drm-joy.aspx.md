@@ -13,4 +13,3 @@ of](/archive/2008/01/28/status-on-xbox-live-drm-and-dashboard-problems.aspx)
 for far longer, as have many other people. Sorry you're having trouble,
 Jeff. Maybe you'll have better luck getting a DRM fix out of Microsoft
 than the rest of us poor saps.
-

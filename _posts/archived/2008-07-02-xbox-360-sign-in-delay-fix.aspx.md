@@ -27,4 +27,3 @@ devices connected to it. **Shut down all the stuff connected to the
 network (laptop, PS3, etc.), reboot the router, and turn everything back
 on. That fixed it.** No more sluggish login. Whatever was gummed up in
 the works has been flushed out.
-

@@ -29,7 +29,7 @@ got prepared.
 accepted. So, from the category "a day late and a dollar short," we were
 a day late.
 
- *sigh*
+*sigh*...
 
  I guess we're going to take a day and go through some more this
 weekend, but I don't think we have that many now that we want to see. I

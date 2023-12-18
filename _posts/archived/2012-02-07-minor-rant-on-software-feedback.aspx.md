@@ -148,4 +148,3 @@ CodeRush/DXCore
 plugins](http://community.devexpress.com/forums/default.aspx?GroupID=18),
 has a *vastly* lower percentage of crap feedback. Everyone seems willing
 to work together to make the ecosystem better. Something to think about.
-

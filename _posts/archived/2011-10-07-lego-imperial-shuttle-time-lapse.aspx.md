@@ -15,4 +15,3 @@ in the film. I'm really pleased with the model - really well done and
 nice quality. I have it sitting on my desk at home now.
 
 If you want to see it better, open it up full screen in HD.
-

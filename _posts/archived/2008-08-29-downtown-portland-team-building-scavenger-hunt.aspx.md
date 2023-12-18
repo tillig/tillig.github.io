@@ -36,4 +36,3 @@ we didn't know (and I've lived here my entire life!) and came out all
 the better for it.
 
 Maybe next time we'll go skydiving.... nah.
-

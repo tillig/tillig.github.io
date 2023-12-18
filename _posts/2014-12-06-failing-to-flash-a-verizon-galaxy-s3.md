@@ -17,7 +17,7 @@ So given all that, I figured rather than write a guide to *how* to put a custom 
 
 **Disclaimers, disclaimers**: I'm a Windows guy, though I have some limited Linux experience. Things that might be obvious to Linux folks may not be obvious to me. I also may not have the 100% right description at a technical level for things, but this outlines how I understand it. *My blog is on GitHub - if you want to correct something, feel free to submit a pull request.*
 
-#Background/Terminology
+## Background/Terminology
 
 **An "OS image" that you want to install on your phone is a ROM.** I knew this going in, but just to level-set, you should know the terminology. A ROM generally contains a full default setup for a version of Android, and there are a lot of them. The ones you get from your carrier are "stock" or "OTA" ROMs. Other places, like Cyanogenmod, build different configurations of Android and let you install their version.
 
@@ -47,7 +47,7 @@ What's interesting is that people have created "custom recovery modes" that you 
 
 **Odin is software for Samsung devices that uses download mode to flash a ROM onto a device.** When you go into download mode on the phone, something has to be running on your computer to push the software to the phone. For Samsung devices, this software is called "Odin." I can't really find an "official" download for Odin, which is sort of scary and kind of sucks. (You can apparently also use software called [Heimdall](http://glassechidna.com.au/heimdall/), but I didn't try that.)
 
-#The Process (And Where I Failed)
+## The Process (And Where I Failed)
 
 Now that you know the terminology, understanding what's going on when you're putting a custom ROM on the phone should make a bit more sense. It should also help you figure out better what's gone wrong (should something go wrong) so you know where to look to fix it.
 

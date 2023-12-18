@@ -17,14 +17,14 @@ there are certain things going on to help manage the environment the
 WorkflowInstance is running in. These runtime-level, globally accessible
 services are the Core Services. There are four Core Services:
 
--   **Scheduler**: This is responsible for managing the threads used to
+- **Scheduler**: This is responsible for managing the threads used to
     run workflow instances. The default scheduler service implementation
     used if you don't specify otherwise is the
     [DefaultWorkflowSchedulerService](http://msdn.microsoft.com/en-us/library/system.workflow.runtime.hosting.defaultworkflowschedulerservice.aspx).
     If you're hosting your workflows in an environment with specific
     threading requirements (like within an ASP.NET application), you'll
     need to change the scheduler.
--   **Persistence**: This is responsible for saving and restoring
+- **Persistence**: This is responsible for saving and restoring
     workflow instance state. For example, you may have a long-running
     workflow (maybe minutes, maybe days) and you don't want it in memory
     that whole time - this service saves the state when the workflow
@@ -32,13 +32,13 @@ services are the Core Services. There are four Core Services:
     resume. There is no default implementation of persistence, but a
     [SqlWorkflowPersistenceService](http://msdn.microsoft.com/en-us/library/system.workflow.runtime.hosting.sqlworkflowpersistenceservice.aspx)
     is available out-of-the-box.
--   **Tracking**: This service helps in monitoring workflow instance
+- **Tracking**: This service helps in monitoring workflow instance
     progress. Very helpful in troubleshooting and tracing workflow
     instances for auditing and management. There is no default
     implementation of tracking, but a
     [SqlTrackingService](http://msdn.microsoft.com/en-us/library/system.workflow.runtime.tracking.sqltrackingservice.aspx)
     is available.
--   **Commit Work Batch**: This service manages the transactions around
+- **Commit Work Batch**: This service manages the transactions around
     batched work. For example, if you have several activities in a
     workflow that need to succeed or fail as an atom, they'll
     participate in a work batch. If you don't specify otherwise, the
@@ -55,4 +55,3 @@ persistence service that stores all of your workflow states in XML files
 in the filesystem, you could do that. Or if you had a special way you
 wanted to track workflow instance events, like in a proprietary logging
 system, you could implement your own tracking service.
-

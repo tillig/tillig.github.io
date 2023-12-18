@@ -12,7 +12,7 @@ Your results:
 
 You work well with others and often fix problems quickly. Your romantic relationships are often bungled.
 
-![](http://www.seabreezecomputers.com/startrek/pics/geordi.jpg)
+![Geordi LaForge](http://www.seabreezecomputers.com/startrek/pics/geordi.jpg)
 
 - Geordi LaForge: 75%
 - Jean-Luc Picard: 70%

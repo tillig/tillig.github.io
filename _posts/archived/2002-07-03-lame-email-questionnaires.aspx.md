@@ -23,15 +23,15 @@ to see my answers, they can come to the site.
 
  So here you go.
 
-1.  **If you could build a house anywhere, where would it be?**
+1. **If you could build a house anywhere, where would it be?**
      That's a tough one. I've never really *been* anywhere, so I can't
     really say. But I suppose, given the choice, I'd probably choose
     either somewhere in Paris or maybe Rome. I should probably visit
     those places before committing to anything, though.
-2.  **What's your favorite article of clothing?**
+2. **What's your favorite article of clothing?**
      My Spider-Man baseball jersey. I also like my [Winter
     Hawks](http://www.winterhawks.com) jersey.
-3.  **Favorite physical feature of the opposite sex?**
+3. **Favorite physical feature of the opposite sex?**
      Yow. I have to say "bust," like "statue" sort of "bust" - kind of
     from the armpits up. I have sort of an eye/teeth ratio that needs to
     be maintained - if you have great eyes but crappy teeth, you won't
@@ -40,24 +40,24 @@ to see my answers, they can come to the site.
     those little wispy bits flowing down around the ears. All of these
     features may be overridden partially by a nice display of cleavage,
     though.
-4.  **What's the last CD that you bought?**
+4. **What's the last CD that you bought?**
      I bought [Kylie Minogue's *Hits
     +*](http://www.amazon.com/exec/obidos/ASIN/B0000649MT/mhsvortex) and
     [Michelle Branch's *The Spirit
     Room*](http://www.amazon.com/exec/obidos/ASIN/B00005M987/mhsvortex)
     at the same time.
-5.  **Where's your favorite place to be?**
+5. **Where's your favorite place to be?**
      At the movies.
-6.  **Where's your least favorite place to be?**
+6. **Where's your least favorite place to be?**
      Gigantic family events; or events where there are a large number of
     people that I don't know, don't really *want* to know, yet am
     expected to mingle with. Yes, this includes holidays.
-7.  **What's your favorite place to be massaged?**
+7. **What's your favorite place to be massaged?**
      On the inside of my forearms.
-8.  **Strong in mind or strong in body?**
+8. **Strong in mind or strong in body?**
      Definitely strong in mind. I sit on my ass all day long
     programming. I'm a huge wuss.
-9.  **What time do you wake in the morning?**
+9. **What time do you wake in the morning?**
      6:30a
 10. **What's your favorite kitchen appliance?**
      The microwave has some serious appeal, though we just bought this
@@ -118,5 +118,3 @@ to see my answers, they can come to the site.
     really respond at all.
 27. **Who's least likely to respond?**
      Well, everyone. Again, since it's not being emailed...
-
-

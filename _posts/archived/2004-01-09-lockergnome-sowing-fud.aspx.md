@@ -37,7 +37,6 @@ but his mail serve seems to be down.)
 
  So we're on the same page, let me paste in what I read him as saying:
 
-
  1) Is Your Browser Set To Allow Cookies?
  Why? Well, gee, if I go to this game site, they automatically plug in
 my username and password. Very nice. I hope you know better than to
@@ -51,7 +50,6 @@ program was executing or implanting garbage on your PC?
 
  Yeah, eventually. When you need to reboot and strange things start to
 happen!
-
 
  The web has become a much more accessible platform for application
 development and delivery than it was even a few years ago. Being a web
@@ -118,7 +116,6 @@ to happen" is a FUD statement if I've ever read one. Are there malicious
 script kiddies out there? Sure. Are there more constructive ways to warn
 people about configuring security on their browser? You bet.
 
-
  I'm sorry if I seem to have run off at the virtual mouth here. I just
 find that, as I develop applications of my own and support both
 customers internal and external to my company, I run into people who
@@ -132,4 +129,3 @@ feel was missing from the whole thing.
 
  Thanks for your time,
  -T
-

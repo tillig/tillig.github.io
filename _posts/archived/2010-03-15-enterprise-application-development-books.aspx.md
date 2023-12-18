@@ -55,7 +55,7 @@ it'll be out of date (if it isn't already); and while this is a
 .NET-centric list, you really need to look beyond just .NET so you can
 choose the right solution.
 
--   *[Design Patterns: Elements of Reusable Object-Oriented
+- *[Design Patterns: Elements of Reusable Object-Oriented
     Software](http://www.amazon.com/dp/0201633612?tag=mhsvortex)*:
     Understanding design patterns will help you recognize different ways
     to implement various functionality as well as giving you a common
@@ -64,12 +64,12 @@ choose the right solution.
     apply every single design pattern in your code? No - it's not a
     checklist. Will it help you do things in a standard way and maybe
     open your eyes to some different ways to solve the problem? Sure.
--   [*Design Patterns in
+- [*Design Patterns in
     C#*](http://www.amazon.com/dp/0321126971?tag=mhsvortex): Less
     comprehensive (and easier to read) than the "Gang of Four" book, but
     provides concrete examples of common patterns in C# and helps to
     solidify some of the concepts.
--   [*Framework Design Guidelines: Conventions, Idioms, and Patterns for
+- [*Framework Design Guidelines: Conventions, Idioms, and Patterns for
     Reusable .NET
     Libraries*](http://www.amazon.com/dp/0321545613?tag=mhsvortex): This
     book will help you understand various patterns (and anti-patterns)
@@ -83,14 +83,14 @@ choose the right solution.
     literally every single rule. [I have some
     recommendations](/archive/2008/10/30/fxcop-rule-recommendations.aspx)
     on which rules to run based on my experience.)
--   [*SOA: Principles of Service
+- [*SOA: Principles of Service
     Design*](http://www.amazon.com/dp/0132344823?tag=mhsvortex): If
     you're not familiar with service-oriented architecture, this will
     help you become familiar. Remember, though, that SOA is *just one
     option* for separating logic into components. The *ASP.NET 3.5
     Enterprise Application Development* book doesn't even mention
     services, and that's a big oversight.
--   *[Professional ASP.NET 4 in C# and
+- *[Professional ASP.NET 4 in C# and
     VB](http://www.amazon.com/dp/0470502207?tag=mhsvortex)*: If your UI
     will be a web app, you owe it to yourself to get this book. It
     covers the ASP.NET pipeline and the common providers you'll need to
@@ -98,27 +98,27 @@ choose the right solution.
     on ASP.NET MVC. Note that there is a lot to ASP.NET. It's not just
     throwing a few controls on a page or whatever. This book is a
     behemoth at around 1400 pages with fairly small text. Be ready.
--   [*Professional ASP.NET MVC
+- [*Professional ASP.NET MVC
     2.0*](http://www.amazon.com/dp/0470643188?tag=mhsvortex): A smaller
     book that focuses on the MVC portion of ASP.NET. This complements
     the more general ASP.NET book listed above. (At the time of this
     writing, the MVC 2.0 book is a pre-order; if you're looking for
     something right now, get [the MVC 1.0
     book](http://www.amazon.com/dp/0470384611?tag=mhsvortex).)
--   [*Writing Secure
+- [*Writing Secure
     Code*](http://www.amazon.com/dp/0735617228?tag=mhsvortex): If you're
     creating an enterprise app, it probably means you're going to have a
     user base larger than one trusted user. You'll want to make sure
     what you're doing has security built-in from the ground up. Security
     is not an afterthought.
--   [*Code
+- [*Code
     Complete*](http://www.amazon.com/dp/0735619670?tag=mhsvortex): If
     you're a developer of moderate experience then a lot of what you'll
     find in here will feel like review. If you're not, this book will
     help you understand some general good programming practices. In
     enterprise development, you'll want to be aware of this stuff. It's
     not just "jamming some code together."
--   [*Code Leader: Using People, Tools, and Processes to Build
+- [*Code Leader: Using People, Tools, and Processes to Build
     Successful
     Software*](http://www.amazon.com/dp/0470259248?tag=mhsvortex): Part
     of development of enterprise apps is the *process* - not just the
@@ -128,23 +128,23 @@ choose the right solution.
     This one is sort of like gaining some "free experience" - it took a
     lot of us years to arrive at the conclusions you're just handed
     here.
--   [*The Art of Unit Testing: With Examples in
+- [*The Art of Unit Testing: With Examples in
     .NET*](http://www.amazon.com/dp/1933988274?tag=mhsvortex): If you're
     doing an enterprise app, you'd best be testing it. "It works" isn't
     good enough at this level. While unit testing isn't the only kind of
     testing you should be doing, it is fundamental. This book will help
     you understand how unit testing works and how to make a good unit
     test.
--   Other technology-specific books: You'll end up with a lot of books
+- Other technology-specific books: You'll end up with a lot of books
     that tell you how to work specific tech in .NET. Depending on your
     solution, you may or may not need these; or you may need more than
     this.
-    -   [*Essential Windows Communication
+  - [*Essential Windows Communication
         Foundation*](http://www.amazon.com/dp/0321440064?tag=mhsvortex):
         If you're going to be writing services, you'll want a WCF book.
         I happen to like this one since it specifically addresses some
         of the issues of getting ASP.NET to integrate nicely with WCF.
-    -   [*Pro WF: Windows Workflow Foundation in .NET
+  - [*Pro WF: Windows Workflow Foundation in .NET
         4.0*](http://www.amazon.com/dp/1430227214?tag=mhsvortex): If
         you've got some workflow needs (say you're creating something in
         your system that needs approvals), you'll probably want to use

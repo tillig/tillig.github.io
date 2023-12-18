@@ -41,13 +41,13 @@ use *outside of a build system*?
 
 Actually, it turns out to be super easy. Basically:
 
-1.  Add references to the `Microsoft.Build.Framework`,
+1. Add references to the `Microsoft.Build.Framework`,
     `Microsoft.Build.Tasks`, and `Microsoft.Build.Utilities assemblies`.
     They should be in the GAC.
-2.  Instantiate a `Microsoft.Build.Tasks.CreateItem` task object.
-3.  Add items to the Include/Exclude list.
-4.  Execute the task and ensure the operation was successful.
-5.  Read the results out of the "Include" property on the task object.
+2. Instantiate a `Microsoft.Build.Tasks.CreateItem` task object.
+3. Add items to the Include/Exclude list.
+4. Execute the task and ensure the operation was successful.
+5. Read the results out of the "Include" property on the task object.
     Read the metadata off of the items using the "GetMetadata" method.
     The metadata items available are [the MSBuild Well-Known Item
     Metadata

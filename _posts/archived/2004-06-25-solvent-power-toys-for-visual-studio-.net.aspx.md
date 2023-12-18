@@ -11,23 +11,22 @@ Solvent is a set of simple but effective tools for Visual Studio .NET
 the Solution Explorer.
 
  Bad science puns aside, here's a list of what Solvent provides:
--   **Recursive Expand/Contract**: Ever notice when you click the +/-
+
+- **Recursive Expand/Contract**: Ever notice when you click the +/-
     icon next to a folder (or double click on a Solution/Project file),
     it collapses that particular node in the Solution Explorer... but
     not any of the sub-nodes? If you have a really large project with a
     deep hierarchy, wouldn't it be nice to be able to recursively close
     all of the items beneath a current node so when you expand it again
     it doesn't re-expand everything below it? Now you can.
--   **Open All SubItems**: Easily open all of the subitems within a
+- **Open All SubItems**: Easily open all of the subitems within a
     containing object (folder or project).
--   **Open Containing Folder In Windows Explorer**: Open the folder
+- **Open Containing Folder In Windows Explorer**: Open the folder
     containing a document or project in Windows Explorer (if you select
     a folder, it opens that folder, not it's containing folder).
--   **Command Prompt Here**: Open a command prompt at an object's
+- **Command Prompt Here**: Open a command prompt at an object's
     containing folder (if you select a folder, it opens the command
     prompt to that folder).
-
-
 
  Solvent adds itself to the Tools menu and to the context menu for items
 in the Solution Explorer.
@@ -64,6 +63,7 @@ As Solvent does not support VS 2005, you may be interested in checking
 that out.
 
  **Version History:**
+
 - 1.0.0: First public release.
 - 1.1.1: Updated "Command Prompt Here" to use "cd /d [path]" rather than
 just "cd [path]" to allow for opening command prompt to drives other

@@ -8,7 +8,7 @@ tags: [General Ramblings]
 ---
 ...and the only prescription is [more
 cowbell](http://www.radmonkeycowbells.com/vlc800.html).
- 
+
  (The idea of [a digital
 cowbell](http://www.radmonkeycowbells.com/vlc800.html) is pretty
 ridiculous, but what a gimmick to sell t-shirts...)

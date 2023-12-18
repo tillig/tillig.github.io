@@ -109,4 +109,3 @@ our day with us. We had a great time, and we hope you did, too.
  ![The Illig Wedding Party (Left to Right): Stu, Apryl, Jenn, Travis,
 Danelle, and
 Aaron.]({{ site.url }}/images/20061027weddingparty.jpg)
-

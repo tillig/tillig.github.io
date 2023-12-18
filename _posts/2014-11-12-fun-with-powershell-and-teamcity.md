@@ -106,9 +106,11 @@ Export-ModuleMember -Function Update-TeamCityVcsAccount
 
 Save that as `TeamCity.psm1` and then you can do this:
 
-    Import-Module .\TeamCity.psm1
-    $credential = Get-Credential
-    Update-TeamCityVcsAccount -TeamCityUrl "http://your-teamcity-dash/" -TeamCityCredential $credential -VcsUserName "serviceaccount" -VcsPassword "TheNewPassword"
+```powershell
+Import-Module .\TeamCity.psm1
+$credential = Get-Credential
+Update-TeamCityVcsAccount -TeamCityUrl "http://your-teamcity-dash/" -TeamCityCredential $credential -VcsUserName "serviceaccount" -VcsPassword "TheNewPassword"
+```
 
 When you run `Get-Credential` you'll be prompted for some credentials. Enter your TeamCity username and password. Fill in the appropriate values for the parameters and you'll see progress rolling by for the password updates. The return value is the list of VCS root URLs that got updated.
 

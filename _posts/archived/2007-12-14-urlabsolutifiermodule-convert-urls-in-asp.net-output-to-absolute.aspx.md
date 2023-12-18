@@ -4,7 +4,7 @@ title: "UrlAbsolutifierModule - Convert URLs in ASP.NET Output to Absolute"
 date: 2007-12-14 -0800
 comments: true
 disqus_identifier: 1321
-tags: [aspnet,blog,dotnet,subtext,downloads,net]
+tags: [aspnet,blog,dotnet,subtext,downloads,dotnet]
 ---
 So here's the problem:
 
@@ -48,17 +48,17 @@ won't be looked at.
 
 Included in the compiled package:
 
--   The UrlAbsolutifierModule assembly.
--   XML class documentation.
--   A readme explaining how to use it with an example showing how to
+- The UrlAbsolutifierModule assembly.
+- XML class documentation.
+- A readme explaining how to use it with an example showing how to
     configure it for use with [Subtext](http://www.subtextproject.com),
     my blog of choice.
 
 Included in the source package:
 
--   Source for the UrlAbsolutifierModule assembly.
--   Unit tests and a demonstration web site showing it in action.
--   The very same readme explaining how to use it.
+- Source for the UrlAbsolutifierModule assembly.
+- Unit tests and a demonstration web site showing it in action.
+- The very same readme explaining how to use it.
 
 Want it? Need it? Come and get it. Yours, free, at (of course) your own
 risk.

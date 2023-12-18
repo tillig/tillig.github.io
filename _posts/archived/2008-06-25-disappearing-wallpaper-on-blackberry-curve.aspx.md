@@ -17,4 +17,3 @@ The answer: **Store any picture you want as your home screen image on
 the device memory, not on a media card.** If you store the image on the
 media card, it'll get reset when you sync. If you store it on the device
 memory, it's stays persistent the way you'd expect.
-

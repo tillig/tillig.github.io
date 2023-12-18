@@ -4,7 +4,7 @@ title: "&quot;App-Domain could not be created&quot; - Check Your ISAPI Filters"
 date: 2007-09-25 -0800
 comments: true
 disqus_identifier: 1272
-tags: [aspnet,net]
+tags: [aspnet,dotnet]
 ---
 Ran into an issue this morning where I was working on an IIS instance
 that just could not for the life of it create an AppDomain to run any
@@ -32,6 +32,7 @@ After investigating, you know what the difference was?
 The troubled server instance had an ISAPI filter in it - [specifically
 one to force a certain version of the .NET CLR to load
 up](http://www.hanselman.com/blog/SOLVEDHowToForceIISToLoadACertainVersionOfTheNETCLR.aspx)
+
 - and the working server instance did not.  After removing the ISAPI
 filter in the troubled server instance, everything suddenly started
 working again.  Problem solved.
@@ -50,4 +51,3 @@ ISAPI filter was not pursued.
 
 Long story short - if you're having trouble not being able to create an
 AppDomain in ASP.NET, don't forget to check your ISAPI filters.
-

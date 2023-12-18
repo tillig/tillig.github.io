@@ -124,14 +124,14 @@ creates a duplicate copy of the web album. Fantastic.
 
 **The way you re-attach an album is**:
 
-1.  Re-create the album with the exact same name, date, etc.
-2.  Put the pictures into the album, ideally in the right order.
-3.  Right-click on the album and select "Upload to web albums."
-4.  When the dialog pops up, scroll down to find the existing album
+1. Re-create the album with the exact same name, date, etc.
+2. Put the pictures into the album, ideally in the right order.
+3. Right-click on the album and select "Upload to web albums."
+4. When the dialog pops up, scroll down to find the existing album
     that's already been uploaded. Select that.
-5.  Click OK and the upload should happen pretty quickly because Picasa
+5. Click OK and the upload should happen pretty quickly because Picasa
     will see the photos are already there.
-6.  Now click the sync button and things should sync up right. Should.
+6. Now click the sync button and things should sync up right. Should.
 
 Let me tell you the **ridiculous amount of trial and error** that went
 into that.
@@ -183,4 +183,3 @@ I'll be watching her while Jenn continues on her costume all day. Which
 means tomorrow I won't really get to do anything relaxing, either.
 
 I guess there goes the weekend.
-

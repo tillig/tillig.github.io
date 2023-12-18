@@ -19,7 +19,6 @@ front of me from the right-hand lane. I got to test my brakes out
 
 Here's a map of what happened:
 
-
  [View Larger
 Map](http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&t=k&msid=117555518006850959910.00045740b4883e1f2ba1b&ll=45.523495,-122.982379&spn=0.001315,0.00228&z=18&source=embed)
 
@@ -27,4 +26,3 @@ Got the accident reported to the insurance company right at the scene.
 Cops didn't come because it was so minor. Now I need to pick a body shop
 and get my bumper fixed up. Really glad no one got hurt, but like I
 said, just one more thing to deal with. Sigh.
-

@@ -61,8 +61,8 @@ only allows one instance to run at a time.) Now navigate to the
 HKEY\_CURRENT\_USER\\Environment key and add two string (REG\_SZ)
 values:
 
--   Cor\_Enable\_Profiling = 0x1
--   COR\_PROFILER = {B146457E-9AED-4624-B1E5-968D274416EC}
+- Cor\_Enable\_Profiling = 0x1
+- COR\_PROFILER = {B146457E-9AED-4624-B1E5-968D274416EC}
 
 Yes, they look like numbers, but make sure they're string values.
 Setting those two environment variables will make it so *any process
@@ -111,14 +111,14 @@ add a class called "ProjectInstaller" to your wrapper application.
 design view. You should see a two components on the designer surface:
 "serviceInstaller1" and "serviceProcessInstaller1."
 
--   Select "serviceInstaller1." In the Properties window, check the
+- Select "serviceInstaller1." In the Properties window, check the
     ServiceName to ensure it's what you want folks to see in the
     Services control panel (it should have taken the name from your
     Windows service). Also set the StartType to be what you want -
     Automatic, Manual, or Disabled.
--   Select "serviceProcessInstaller1." In the Properties window, set the
+- Select "serviceProcessInstaller1." In the Properties window, set the
     Account property to "User."
--   Right-click the designer surface of "ProjectInstaller" and select
+- Right-click the designer surface of "ProjectInstaller" and select
     "View Code." In the ProjectInstaller constructor, just after the
     call to "InitializeComponent," update serviceProcessInstaller1
     with the username and password for the service account you created.

@@ -21,4 +21,3 @@ medium trust.
 problem.](http://www.kowitz.net/archive/2008/08/15/upgrading-to-subtext-2.0-fail.aspx)
 
 I guess I'll have to see if I can help rectify some of this.
-

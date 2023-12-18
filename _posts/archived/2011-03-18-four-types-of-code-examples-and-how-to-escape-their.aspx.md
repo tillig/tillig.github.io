@@ -12,7 +12,7 @@ illustrate the point you're trying to make. The problem is, regardless
 of the example, you will most likely fall into one of these losing
 traps:
 
-**THE PROSE EXAMPLE**
+## The Prose Example
 
 This example is where you try to describe the code in a paragraph like
 this one, in natural language.
@@ -30,7 +30,7 @@ Even if the example you're trying to explain requires some additional
 detail, attention spans wane and... you're not even reading this
 anymore, are you?
 
-**THE FOOBAR EXAMPLE**
+## The FooBar Example
 
 This example is intentionally obscured from a naming perspective so that
 people ignore the names and focus on what the code is actually doing.
@@ -52,7 +52,7 @@ was not concrete enough** to make sense.
 
 To address this, you get into...
 
-**THE IMPRECISE CONCRETE EXAMPLE**
+## The Imprecise Concrete Example
 
 This is when you want to show a quick example of something but you don't
 want people to get hung up on the names for things. The implementation
@@ -84,7 +84,7 @@ thing and wonder why that wasn't included.
 
 So, that leads you to...
 
-**THE PRECISE CONCRETE EXAMPLE**
+## The Precise Concrete Example
 
 This type of example is when you provide some code where all the details
 are there. It addresses the shortcomings in the imprecise example, but
@@ -188,4 +188,3 @@ something.**
 
 Did I miss an example trap? Ideas on how to provide better examples?
 Leave a comment!
-

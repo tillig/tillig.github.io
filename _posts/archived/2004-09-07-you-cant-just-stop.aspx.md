@@ -37,7 +37,6 @@ fucking lane and wouldn't let anyone by*.
  ![Don't stop in the Goddamn
 lane]({{ site.url }}/images/20040907taotw.gif)
 
-
  For all you out-of-state people or folks that think this is OK: *It's
 not fucking OK*. If it's busy traffic and you accidentally turn into the
 wrong lane, *suck it up and deal with it*. Accept the consequences of

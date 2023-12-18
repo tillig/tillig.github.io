@@ -55,12 +55,12 @@ you're either dedicated or you're stuck on "Easy."
 I'm not as concerned as other folks that some focus has moved to
 competition.  The co-op career is fun and I feel like it compensates for
 the competition aspect that's been added.  They needed a little
-something new and the competition aspect is an interesting direction. 
+something new and the competition aspect is an interesting direction.
 Jury's still out on whether I think they should go further in that
 direction, but it's *not bad*.  There are some interesting glitches with
 the co-op achievements where if you're playing co-op career mode both
 partners will get the co-op note streak achievements but only the person
-logged in as "player 1" will get the career completion achievements. 
+logged in as "player 1" will get the career completion achievements.
 Hopefully that will be fixed in a patch.
 
 In all... I generally like *GH3*, but I think it could generally have
@@ -70,4 +70,3 @@ that *GH4*, if they come out with it, has better songs.  I did order
 *[Rock Band](http://en.wikipedia.org/wiki/Rock_band_game)* and I'm
 looking forward to it.  I think the new instruments (and a mildly
 better, albeit slightly overlapping, song list) will be a nice change.
-

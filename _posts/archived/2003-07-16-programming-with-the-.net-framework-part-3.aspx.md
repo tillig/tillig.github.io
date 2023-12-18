@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 299
 tags: [dotnet,personal]
 ---
+<!--markdownlint-disable MD036 -->
 *9:38a*
 
  I'm back in class again, which means I'm back to waiting for the rest
@@ -76,6 +77,7 @@ back into your config file.
 
  [Check this
 out](http://babelfish.altavista.com/babelfish/urltrurl?lp=ja_en&url=http%3A%2F%2Fwww.watch.impress.co.jp%2Fakiba%2Fhotline%2F20030719%2Fetc_et128m.html)
+
 - 128MB USB drive for $37, and it's smaller than other USB drives. I
 may have to splurge on this.
 

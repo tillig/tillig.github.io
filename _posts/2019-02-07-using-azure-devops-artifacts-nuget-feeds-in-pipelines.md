@@ -15,7 +15,7 @@ However, getting this to work from a pipeline build is challenging. Once you've 
 
 > At the time of writing in this article (February 2019) I was told the second half of 2019 would include some improvements to this. It appears there's a new [`NuGetAuthenticate` task](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/package/nuget-authenticate?view=azure-devops) that might be helpful here. I'm also unclear if any changes have been made in how the `NuGetCommand` or `DotNetCoreCLI` tasks deal with authentication. I'll leave this article as it was for reference. Note as of May 2021, I'm _still_ using option #3 below and it still works.
 
-# Option 1: Separate Restore from Build
+## Option 1: Separate Restore from Build
 
 The documentation shows how to use NuGet or the dotnet CLI for package restore from your feed. Both of the solutions effectively amount to separating the call to `NuGet restore` or `dotnet restore` from the rest of your build.
 
@@ -29,7 +29,7 @@ However, if you later try running `dotnet build` or `dotnet publish` it'll fail 
 
 If you have a build script, like a bash or PowerShell script, manually executing `dotnet restore` in that script will _also_ not work. You _must_ use the build tasks to get the magic to happen.
 
-# Option 2: Use the Azure Artifacts Credential Provider
+## Option 2: Use the Azure Artifacts Credential Provider
 
 [Another option in the docs](https://docs.microsoft.com/en-us/azure/devops/artifacts/nuget/dotnet-exe?view=azure-devops#on-build-machines-and-in-non-interactive-scenarios) is that you can use the [Azure Artifacts credential provider](https://github.com/Microsoft/artifacts-credprovider). While it seems this is primarily geared toward running on build agents you host yourself, you can possibly get this working on hosted agents.
 
@@ -53,7 +53,7 @@ Anyway, if all the planets have aligned, when you run your standard `dotnet rest
 
 One other note there - the username `vsts` isn't special. It can be any value you want, the endpoint doesn't actually end up checking. It just can't be omitted.
 
-# Option 3: Update NuGet.Config
+## Option 3: Update NuGet.Config
 
 The final option is to update your NuGet.Config on the fly with the system access token as part of the build. **I went with this option because it was simpler and had fewer moving pieces.**
 

@@ -21,7 +21,7 @@ Here's a video where you can see it in action.
 
 [![Volume monitor in action](https://img.youtube.com/vi/8WN-ZNZASWc/0.jpg)](https://www.youtube.com/watch?v=8WN-ZNZASWc)
 
-# Parts
+## Parts
 
 - [Arduino Uno](http://amzn.to/2o3TCfH) ($10.86)
 - [9V power supply](http://amzn.to/2nFYgj8) ($6.99)
@@ -33,7 +33,7 @@ _Prices listed are the prices I paid - they may have changed since I bought them
 
 In that list I didn't include the box you may or may not want to put the finished product in; and little stuff like solder and a length of wire you'll need to patch the 1602 shield.
 
-# How It Works
+## How It Works
 
 Marantz receivers have an HTTP API used for remote control programs and general network interaction. By making a `GET` request to `http://<receiver-ip-address>/goform/formMainZone_MainZoneXml.xml` you will get a fairly large XML document that has all the information about the receiver's current status.
 
@@ -50,7 +50,7 @@ The basic algorithm is:
 
 [The wiki on GitHub where I posted my code](https://github.com/tillig/MarantzVolumeMonitor/wiki) has a lot more details on specifically what the Marantz API responses look like and how that works.
 
-# Assembling the Hardware
+## Assembling the Hardware
 
 The hardware itself is pretty easy to assemble. We're going to stack the shields in the order (from bottom to top): Arduino, Ethernet shield, 1602 shield. We'll do that **after we do two things.**
 
@@ -75,7 +75,7 @@ I did clip the stackable header pins down a bit so they sat nice and flush with 
 
 Now just stack 'em up and you're ready to go!
 
-# Installing the Software
+## Installing the Software
 
 [I published the software on GitHub.](https://github.com/tillig/MarantzVolumeMonitor) You can head over there, grab it, and upload it to your Arduino.
 
@@ -83,7 +83,7 @@ I used the [Visual Micro extension for Visual Studio](http://www.visualmicro.com
 
 **You may need to adjust the button resistance tolerances.** In the `DFRobotLCDShield.h` I have some input values as the buttons are read on analog pin 0. These don't match the values I saw in any other code snippet or data sheet they posted. I don't know if yours will match mine, but if they don't, you'll have to tweak it.
 
-# Using the Software
+## Using the Software
 
 When you first start up the Arduino it will get a DHCP address and then try to read the configured IP address for your Marantz receiver. If none is configured, you'll be sent into a setup routine to configure the receiver's IP address. Alternatively, you can push the "SELECT" button on the 1602 shield keypad and enter the setup routine.
 
@@ -108,7 +108,7 @@ Time | Action | Arduino Display | Actual Volume
 
 The Arduino is going to display the volume _at the time the receiver sent the response_, which may not be the same volume _at the time of display_. Not to worry, it should catch up on the next request. At most you'll be about a half second behind, which isn't so bad.
 
-# Finishing Touches
+## Finishing Touches
 
 I put my volume monitor in a box. I used one of those little unfinished boxes from a craft store and stained it dark. I padded the inside with a little craft foam to keep it in place.
 
@@ -118,7 +118,7 @@ Once it was all put together, it looked pretty good on the shelf!
 
 ![The finished monitor on the shelf]({{ site.url }}/images/20170327_ontheshelf.jpg)
 
-# Interesting Points
+## Interesting Points
 
 I learned a lot while working on this project.
 
@@ -128,7 +128,7 @@ I noticed that a lot of projects skip the "nice UI" thing and hardcode a lot of 
 
 Since you only get 2K of RAM to work with, the Marantz HTTP response being in XML was challenging. Even if it was in JSON, it'd still be far too large to read in its entirety so I had to do some pretty basic string parsing to read the XML and process it as a stream. I'm kind of surprised there aren't SAX parsers for Arduino, though I suppose these projects generally avoid XML altogether.
 
-# The Repository
+## The Repository
 
 [The code is all free on GitHub.](https://github.com/tillig/MarantzVolumeMonitor) I included a lot of more technical info [in the wiki for that repo](https://github.com/tillig/MarantzVolumeMonitor/wiki).
 

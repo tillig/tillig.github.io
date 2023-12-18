@@ -19,10 +19,10 @@ I scripted it.
 
 I put everything in a folder structure like this:
 
--   \~/TestFeed
-    -   backup – contains all of the original .nupkg files (renamed
+- \~/TestFeed
+  - backup – contains all of the original .nupkg files (renamed
         without the "-CI-XYZ")
-    -   msbuildcommunitytasks – contains the [MSBuild Community
+  - msbuildcommunitytasks – contains the [MSBuild Community
         Tasks](https://github.com/loresoft/msbuildtasks) set
 
 Then I wrote up a quick MSBuild script for doing all the
@@ -81,4 +81,3 @@ Here's "fixrefs.proj":
           WorkingDirectory="$(MSBuildProjectDirectory)\%(Package.Filename)" />
       </Target>
     </Project>
-

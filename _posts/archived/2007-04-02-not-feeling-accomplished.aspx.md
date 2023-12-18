@@ -262,6 +262,7 @@ options.
  (There are some that might argue I got freaking three hours to play and
 that's plenty for anyone. Sure I did. And, yeah, it's a lot of time. But
 in that time, try as I might, I really didn't accomplish - in the games
+
 - the goals I was trying to accomplish. Did I try for too much? Maybe.
 Did I feel like I "got my gaming in?" Not really, no.)
 

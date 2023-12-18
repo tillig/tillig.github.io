@@ -65,14 +65,14 @@ Oooookay.
 **First, we need to understand how the `IMappingEngine` we build will
 come together.**
 
-1.  The implementation of `AutoMapper.IMappingEngine` we'll be using is
+1. The implementation of `AutoMapper.IMappingEngine` we'll be using is
     `AutoMapper.MappingEngine` (the only implementation available).
-2.  `MappingEngine` takes in an `IConfigurationProvider` as a
+2. `MappingEngine` takes in an `IConfigurationProvider` as a
     constructor parameter.
-3.  `IConfigurationProvider` has a property `ServiceCtor` that is the
+3. `IConfigurationProvider` has a property `ServiceCtor` that is the
     factory we need to manipulate to resolve things out of a per-request
     lifetime scope.
-4.  The main `AutoMapper.Mapper` has a `Configuration` property of type
+4. The main `AutoMapper.Mapper` has a `Configuration` property of type
     `IConfiguration`... but the backing store for it is really an
     `AutoMapper.ConfigurationStore`, which is also an
     `IConfigurationProvider`. (This is where the somewhat delicate
@@ -184,9 +184,9 @@ it simple here.
 
 **Now we need to register `IMappingEngine` with Autofac** so that it:
 
--   Creates a per-request engine that
--   Uses a per-request lifetime scope to resolve dependencies and
--   Leverages the root AutoMapper configuration for everything else.
+- Creates a per-request engine that
+- Uses a per-request lifetime scope to resolve dependencies and
+- Leverages the root AutoMapper configuration for everything else.
 
 That's actually pretty easy:
 

@@ -30,8 +30,7 @@ PowerCommands just for the one functionality.)
 You also have the ability to choose which types of documents you want
 formatted on save:
 
-![](https://dxcorecommunityplugins.googlecode.com/svn/trunk/DX_FormatOnSave/screenshots/options.png)
+![Options dialog](https://dxcorecommunityplugins.googlecode.com/svn/trunk/DX_FormatOnSave/screenshots/options.png)
 
 [It's free, right now, on the DXCore Community Plugins site. Go get
 it!](http://code.google.com/p/dxcorecommunityplugins/wiki/DX_FormatOnSave)
-

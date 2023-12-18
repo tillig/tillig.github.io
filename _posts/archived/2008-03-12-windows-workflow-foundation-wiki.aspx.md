@@ -21,4 +21,3 @@ I was raising an event from a service where the event arguments were
 serializable but the sender was not. Everything has to be marked
 [Serializable], even the sender. Sounds obvious now, but let me tell you
 what a pain that was to try and track down.
-

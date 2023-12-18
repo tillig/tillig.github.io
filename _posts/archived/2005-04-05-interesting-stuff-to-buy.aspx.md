@@ -13,7 +13,7 @@ how relevant it is to VS 2005. [Eric J.
 Smith](http://weblogs.asp.net/ericjsmith/) reviewed it and gave it 5
 stars, which holds some weight (even though he did contribute to the
 book...).
- 
+
 [*Elektra*](http://www.amazon.com/exec/obidos/ASIN/B0007P0Y7C/mhsvortex)
 is out on DVD today. Might have to pick that up this weekend. It wasn't
 terribly faithful to the comic, but it was reasonably entertaining, and

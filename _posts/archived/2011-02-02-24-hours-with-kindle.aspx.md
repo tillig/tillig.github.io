@@ -56,7 +56,7 @@ looking.
 **Getting your own files onto the Kindle is confusing.** They talk about
 how to get your own books or documents onto the Kindle, but the way it's
 written is kind of confusing. You get an email address with your Kindle
-(like "mykindle@kindle.com" and they tell you that you can send
+(like "<mykindle@kindle.com>" and they tell you that you can send
 documents to that address and they'll show up on your Kindle, except
 there's some sort of charge... unless you send to
 "mykindle@**free**.kindle.com" in which case there's no charge but
@@ -145,4 +145,3 @@ guide](http://www.amazon.com/gp/help/customer/display.html/ref=help_search_T1_1-
 Aside from this stuff, I'm enjoying my Kindle so far. I'm planning on
 taking it to Australia with me at the end of the month, so that should
 really be the true test of how I like it.
-

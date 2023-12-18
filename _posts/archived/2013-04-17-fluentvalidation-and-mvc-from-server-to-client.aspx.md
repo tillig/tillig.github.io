@@ -61,7 +61,7 @@ FluentValidation has an associated FluentValidation.Mvc library that has the MVC
 
 **Right now we'll talk about the validator factory piece**. I'll get to the custom validator mappings later.
 
-As mentioned, when you run `FluentValidationModelValidatorProvider.Configure()`, you can tell it which `FluentValidation.IValidatorFactory `to use for mapping server-side validators (like the `MyModelValidator`) to models (like `MyModel`). Out of the box, FluentValidation ships with the `FluentValidation.Attributes.AttributedValidatorFactory`. This factory type lets you attach validators to your models with attributes, like this:
+As mentioned, when you run `FluentValidationModelValidatorProvider.Configure()`, you can tell it which `FluentValidation.IValidatorFactory`to use for mapping server-side validators (like the `MyModelValidator`) to models (like `MyModel`). Out of the box, FluentValidation ships with the `FluentValidation.Attributes.AttributedValidatorFactory`. This factory type lets you attach validators to your models with attributes, like this:
 
 ```csharp
 [Validator(typeof(MyModelValidator))]
@@ -134,7 +134,7 @@ For DataAnnotations, there are implementations of `ModelValidator` corresponding
 
 When you do an MVC HtmlHelper call to render a data entry field for a model property, it looks something like this:
 
-```
+```text
 @Html.TextBoxFor(m => m.Name)
 ```
 
@@ -189,11 +189,11 @@ When you want to add a custom server-side validator, you have to hook into that 
 **The basic steps for adding a new custom FluentValidation validator in MVC are**:
 
 - **Create your server-side validator.** This means implementing `FluentValidation.Validators.IPropertyValidator`. It's what gets used on the server for validation but doesn't do anything on the client. I'd look at existing validators to get ideas on how to do this, since it's a little different based on whether, say, you're comparing two properties on the same object or comparing a property with a fixed value. I'd recommend starting by looking at a validator that does something similar to what you want to do. The beauty of open source.
--   **Add an extension method that allows your new validator type** to participate in the fluent grammar. The standard ones are in `FluentValidation.DefaultValidatorExtensions`. This is how you get nice syntax like `RuleFor(m => m.Name).MyCustomValidator();` for your custom validator.
-- **Create a `FluentValidation.Mvc.FluentValidationPropertyValidator` corresponding to your server-side validator.** This will be responsible for creating the appropriate `ModelClientValidationRule` objects to tie your server-side validator to the client and for executing the corresponding server-side logic. (Really the work is in the client-side part of things. The base `FluentValidationPropertyValidator` already passes-through logic to your custom server-side validator so you don't have to really _do anything_ to get that to happen.)
+- **Add an extension method that allows your new validator type** to participate in the fluent grammar. The standard ones are in `FluentValidation.DefaultValidatorExtensions`. This is how you get nice syntax like `RuleFor(m => m.Name).MyCustomValidator();` for your custom validator.
+- **Create a `FluentValidation.Mvc.FluentValidationPropertyValidator` corresponding to your server-side validator.** This will be responsible for creating the appropriate `ModelClientValidationRule` objects to tie your server-side validator to the client and for executing the corresponding server-side logic. (Really the work is in the client-side part of things. The base `FluentValidationPropertyValidator` already passes-through logic to your custom server-side validator so you don't have to really *do anything* to get that to happen.)
 - **Add a mapping between your server-side validator and your `FluentValidationPropertyValidator`.** This takes place in `FluentValidationModelValidatorProvider.Configure`. Let's talk about that.
 
-**Remember earlier I said we'd talk about adding custom validator mappings to the `FluentValidationModelValidatorProvider` **during configuration time? You need to do that if you write your own custom validator. When you want to map a server-side validator to a client-side validator, it looks like this:
+**Remember earlier I said we'd talk about adding custom validator mappings to the `FluentValidationModelValidatorProvider`**during configuration time? You need to do that if you write your own custom validator. When you want to map a server-side validator to a client-side validator, it looks like this:
 
 ```csharp
 FluentValidationModelValidatorProvider.Configure(
@@ -210,7 +210,7 @@ FluentValidationModelValidatorProvider.Configure(
 
 **I won't walk through the full creation of an end-to-end custom validator here.** That's probably another article since this is already way, way too long without enough pictures to break up the monotony. Instead, I'll just mention a couple of gotchas.
 
-**GOTCHA: DERIVING FROM OUT-OF-THE-BOX VALIDATORS**
+**GOTCHA**: DERIVING FROM OUT-OF-THE-BOX VALIDATORS
 
 Say you have a custom email validator. You decide you want to shortcut a few things by just deriving from the original email validator and overriding a couple of things. Sounds fine, right?
 
@@ -223,6 +223,7 @@ Or maybe you don't do that, but you do decide to implement the standard FluentVa
 ```csharp
 public class MyCustomEmailValidator : PropertyValidator, IEmailValidator
 ```
+
 The gotcha here is that server-side-to-client-side mapping that I showed you earlier. FluentValidation maps by type and already ships with mappings for the out-of-the-box validators. If you implement your custom validator like this, chances are you're going to end up with the default client-side logic rather than your custom one. The default was registered first, right? It'll never get to your override... and there's not really a way to remove mappings.
 
 You also **don't want to override the mapping** like this:
@@ -240,9 +241,9 @@ This is really painful to debug. Sometimes this is actually what you
 want - reuse of client (or server) logic but not both... but generally,
 you want a unique custom validator from end to end.
 
-Recommendation: **Don't implement the standard interfaces unless you plan on _replacing the standard behavior across the board_** and not using the out-of-the-box validator of that type. (That is, if you want to totally replace everything about client and server validation for `IEmailValidator`, then implement `IEmailValidator` on your server-side validator and don't use the standard email validator anymore.)
+Recommendation: **Don't implement the standard interfaces unless you plan on *replacing the standard behavior across the board*** and not using the out-of-the-box validator of that type. (That is, if you want to totally replace everything about client and server validation for `IEmailValidator`, then implement `IEmailValidator` on your server-side validator and don't use the standard email validator anymore.)
 
-**GOTCHA: CUSTOM VALIDATION LAMBDAS ONLY RUN ON THE SERVER**
+**GOTCHA**: CUSTOM VALIDATION LAMBDAS ONLY RUN ON THE SERVER
 
 Say you don't want to implement a whole custom validator and would rather use the FluentValidation lambda syntax like this:
 
@@ -252,7 +253,7 @@ RuleFor(m => m.Age).Must(val => val - 2 > 6);
 
 That lambda will only run on the server. Maybe that's OK for a quick one-off, but if you want corresponding client-side validation you actually need to implement the end-to-end solution. There's no automated functionality for translating the lambdas into script, nor is there an automatic facility for converting this into an AJAX remote validation call. (But that's a pretty neat idea.)
 
-**GOTCHA: MVC CLIENT-SIDE VALIDATION ADAPTERS OVERLAP TYPES**
+**GOTCHA**: MVC CLIENT-SIDE VALIDATION ADAPTERS OVERLAP TYPES
 
 If you dive deep enough, you'll notice that certain server-side FluentValidation validators boil down to the same `ModelClientValidationRule` values when it's time to emit the `data-val-` attributes. For example, the FluentValidation `GreaterThanValidator` and `LessThaValidator` both end up with `ModelClientValidationRule` values that say the validation type is "range" (not "min" or "max" as you might expect). What that means is that on the server side, this looks sweet and works:
 

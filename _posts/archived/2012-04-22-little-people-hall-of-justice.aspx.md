@@ -36,7 +36,9 @@ Justice]({{ site.url }}/images/20120422_cartoonhall.jpg)
 So I took a cardboard box, went to the craft store and picked up some
 supplies... and I present to you: The Little People Hall of Justice!
 
-[![](https://lh5.googleusercontent.com/-z4jMGKkOP-c/T5RHnrquaMI/AAAAAAAAGWU/o8Xt2KNcR4c/s400/P1000007.JPG)](https://picasaweb.google.com/lh/photo/6hv0_BqH69tD5y6I-EgkttMTjNZETYmyPJy0liipFm0?feat=embedwebsite)<br />From [20120422 Hall of Justice](https://picasaweb.google.com/100275637557074554059/20120422HallOfJustice?authuser=0&feat=embedwebsite)
+[![Hall of Justice](https://lh5.googleusercontent.com/-z4jMGKkOP-c/T5RHnrquaMI/AAAAAAAAGWU/o8Xt2KNcR4c/s400/P1000007.JPG)](https://picasaweb.google.com/lh/photo/6hv0_BqH69tD5y6I-EgkttMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+
+From [20120422 Hall of Justice](https://picasaweb.google.com/100275637557074554059/20120422HallOfJustice?authuser=0&feat=embedwebsite)
 
 The main form is just a cardboard box. The outside is covered in a thin
 white foam that makes it soft. I lined the inside with tagboard and
@@ -53,4 +55,3 @@ The pictures have captions that explain how things are put together...
 in case you want to make your own.
 
 *Wonder Twin powers ACTIVATE!*
-

@@ -40,4 +40,3 @@ bad guy." The Doctor will get him, honey. You know he will. "Cheers!"
 
 And when one episode ends: "We watch that again, Daddy!" Good girl. My
 job here is done.
-

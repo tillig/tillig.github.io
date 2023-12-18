@@ -13,6 +13,5 @@ documentation view or open the CR_Documentor settings.
 
 Updated settings to allow toolbar to be shown/hidden.
 
-
  **[Go get
 it!](/archive/2004/11/15/cr_documentor-the-documentor-plug-in-for-dxcore.aspx)**

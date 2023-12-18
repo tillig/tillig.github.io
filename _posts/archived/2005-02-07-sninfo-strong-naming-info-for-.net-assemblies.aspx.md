@@ -4,7 +4,7 @@ title: "SNInfo - Strong-Naming Info for .NET Assemblies"
 date: 2005-02-07 -0800
 comments: true
 disqus_identifier: 742
-tags: [downloads,net]
+tags: [downloads,dotnet]
 ---
 I've been working on tracking down different assemblies' strong naming
 information this morning and I've decided that `sn -T [assemblyname]` is
@@ -13,7 +13,7 @@ plentifully already yet I couldn't be bothered to search for. If it's
 out there, great. If it's not, here you go.
 
  This utility is a simple Windows forms app that allows you to drag a
-.NET assembly onto it and view the strong name information about it. 
+.NET assembly onto it and view the strong name information about it.
 You can copy/paste any of the information directly, plus I even threw in
 a little thing that will generate a sample binding redirect you can put
 in your app.config file.
@@ -32,17 +32,14 @@ source**](https://github.com/tillig/sninfo/releases/download/v1.1.0/SNInfo_1.1.0
 
  **Version History:**
 
--   **1.1.0.0725:**
-    -   Converted to .NET 2.0.
-    -   Added binding redirect generation (for easy copy/paste of
+- **1.1.0.0725:**
+  - Converted to .NET 2.0.
+  - Added binding redirect generation (for easy copy/paste of
         binding redirect configuration).
 
--   **1.0.2.1101:**
-    -   Added main menu bar (thanks to James McShane for pushing this
+- **1.0.2.1101:**
+  - Added main menu bar (thanks to James McShane for pushing this
         one over to me).
 
--   **1.0.1.0:**
-    -   First release.
-
-
-
+- **1.0.1.0:**
+  - First release.

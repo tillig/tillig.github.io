@@ -38,11 +38,11 @@ started to put the project in there) but *the folder is empty*.
 
 To work around this, you have to:
 
-1.  **Add a second project** to your solution so that the solution
+1. **Add a second project** to your solution so that the solution
     itself shows up in Solution Explorer.
-2.  **Select the Solution node in Solution Explorer** by clicking it
+2. **Select the Solution node in Solution Explorer** by clicking it
     once. It can't be one of the projects. It has to be the solution.
-3.  **Now do File -\> Add New Project** and go through the steps to add
+3. **Now do File -\> Add New Project** and go through the steps to add
     the Empty ASP.NET MVC3 web application and it will work.
 
 I'm not sure what's going on where the project template is somehow keyed

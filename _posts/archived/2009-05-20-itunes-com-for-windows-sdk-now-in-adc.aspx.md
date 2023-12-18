@@ -8,7 +8,7 @@ tags: [media,music,windows]
 ---
 The iTunes COM for Windows SDK seems to have been moved from the
 location they originally had it -
-http://developer.apple.com/sdk/itunescomsdk.html. It is now inside the
+<http://developer.apple.com/sdk/itunescomsdk.html>. It is now inside the
 Apple Developer Connections site and you need [a free membership for
 it](http://developer.apple.com/products/membership.html).
 
@@ -20,4 +20,3 @@ you'll find the iTunes COM for Windows SDK.
 (You'll need this if you want to write scripts or programs to automate
 iTunes from Windows. It used to be really easy to find, but now it's
 buried, so here's a pointer.)
-

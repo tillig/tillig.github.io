@@ -22,21 +22,19 @@ because it was just dumb.
 > company I don't recall the name of] and we'd like to build you up a
 > web site and send you the URL to it so you can look at it and see what
 > you think for 15 days.
->  **Me:** You'd like to build us a web site?
->  **Carl:** Yes, we would.
->  **Me:** That's interesting, Carl, but building web sites around here
+> **Me:** You'd like to build us a web site?
+> **Carl:** Yes, we would.
+> **Me:** That's interesting, Carl, but building web sites around here
 > is my job. Thanks, though.
->  **Carl:** We're not looking to replace you or anything, we just want
+> **Carl:** We're not looking to replace you or anything, we just want
 > to build you an additional site.
->  **Me:** Carl, why would we need another site?
->  **Carl:** The more sites you have, the more people you reach. [Does
+> **Me:** Carl, why would we need another site?
+> **Carl:** The more sites you have, the more people you reach. [Does
 > this guy know what he's talking about?]
->  **Me:** Riiight. I don't think so. Sorry.
->  **Carl:** Are you sure? Even if you don't use it, maybe you could get
+> **Me:** Riiight. I don't think so. Sorry.
+> **Carl:** Are you sure? Even if you don't use it, maybe you could get
 > some ideas from it.
->  **Me:** Somehow I'm thinking *not*. Thanks anyway, Carl. \*click\*
-
-
+> **Me:** Somehow I'm thinking *not*. Thanks anyway, Carl. \*click\*
 
  I hate sales calls.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Autofac Conditional Registration Support"
 date: 2017-03-01 -0800
 comments: true
-tags: [autofac,net]
+tags: [autofac,dotnet]
 description: "Autofac 4.4.0 has added the ability to execute registrations conditionally based on other registrations already made."
 image: https://camo.githubusercontent.com/a734afb6cde01fc96f42f6041ce6227bd1613cc9/68747470733a2f2f6175746f6661632e6f72672f696d672f6361726f7573656c2d6c6f676f2e706e67
 ---

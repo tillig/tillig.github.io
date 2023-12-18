@@ -50,19 +50,19 @@ I'm going to post updates to this entry as I get experience with the XO
 using Ubuntu and include additional things you may want to do, or
 gotchas you might run into.
 
--   **Make sure to read the comments on that blog article** that
+- **Make sure to read the comments on that blog article** that
     explains the SD card installation of Ubuntu. There are some things
     in there that you'll need to know or might help you out.
--   **Check out [this wiki entry about customizing Ubuntu on
+- **Check out [this wiki entry about customizing Ubuntu on
     XO](http://wiki.laptop.org/go/Customizing_Ubuntu_for_XO).** It has a
     lot of things you might want to do to this base install.
--   **Change your hostname.** The default hostname for the installation
+- **Change your hostname.** The default hostname for the installation
     is "OLPC" - a little generic, and if you have more than one at home,
     problematic. In order to do this, edit your `/etc/hostname` file to
     have your new hostname. Also, edit the `/etc/hosts` file, find the
     line in there for "OLPC," and replace "OLPC" with your new hostname.
     Yes, you have to do it in both places. Reboot and you're good.
--   **Some settings you change won't persist across reboots.** I think
+- **Some settings you change won't persist across reboots.** I think
     this boils down to my not understanding where various settings get
     updated. For example, the touch pad speed was super slow for me and
     no matter how many times I changed the setting in the control panel,
@@ -77,5 +77,3 @@ gotchas you might run into.
     seems to work really well. I assume you could just remove the line
     and have it fall back to use the settings from the control panel...
     but I didn't try it.
-
-

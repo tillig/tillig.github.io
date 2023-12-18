@@ -91,4 +91,3 @@ $40 I paid for the license.
 were not performing well. [Removing them from the system allowed
 PerfectDisk to function
 properly](/archive/2010/06/16/beware-the-wd-green-drives.aspx).
-

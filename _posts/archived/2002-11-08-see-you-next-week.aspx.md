@@ -22,4 +22,3 @@ Avon](http://shop.avon.com/avonshop/product.asp?pf_id=3870&department=search&fin
 right into your TV! And *only $20!!!*
 
  I may have to get one of these.
-

@@ -20,8 +20,8 @@ the whole app and I forget the command-lines to do all that.
 
 The overall process:
 
-1.  Convert your .resx files to .resources files using `resgen.exe`.
-2.  Link your .resources files into assembly format using `al.exe`.
+1. Convert your .resx files to .resources files using `resgen.exe`.
+2. Link your .resources files into assembly format using `al.exe`.
 
 Again, what I'm showing here assumes that the assemblies you're
 compiling are *resource-only* - which is to say, there is no code to
@@ -53,11 +53,11 @@ In the above example, we're compiling general Spanish resources, as
 noted by the "es" in there. If we wanted Spanish specific to Mexico,
 we'd use "es-MX" as the culture. The key differences to note:
 
--   In the .resx and .resources files, we specify the culture before the
+- In the .resx and .resources files, we specify the culture before the
     extension. While this isn't mandatory, it is standard convention and
     helps you keep your source .resx and output .resources files
     organized.
--   In the `al.exe` command line, we add the `/c:` parameter to specify
+- In the `al.exe` command line, we add the `/c:` parameter to specify
     what culture we're linking for and we put the output assembly in a
     folder under "bin" that is named after the culture we're linking
     for. We also add "resources" just before the .dll extension so the

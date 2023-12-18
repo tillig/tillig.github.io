@@ -11,7 +11,7 @@ culture. I don't mind it so much. It just seems like some folks still
 "don't get it." I've got some email pet peeves, I'm sure you do, too.
 Here are some of mine:
 
-**Subject-Line-Only Email with Long Subject**
+## Subject-Line-Only Email with Long Subject
 
 If you have a quick thing to tell people, it's convenient to just stick
 the message in the subject line.
@@ -32,7 +32,7 @@ put-the-message-in-the-message-body email. I have to actually *scroll
 the subject line* in the tiny Outlook subject line area to see all of
 that. Not helpful.
 
-**Forward Upon Forward Upon Forward**
+## Forward Upon Forward Upon Forward
 
 Getting jokes in the mail is de rigueur for email. It'd be nice to just
 get the joke, though, and not see the 350-forward-long chain of headers
@@ -57,20 +57,20 @@ done.
 Delete all of the stupid headers that show up above the joke. That
 includes:
 
--   The "Forwarded Message" garbage with all of the email addresses of
+- The "Forwarded Message" garbage with all of the email addresses of
     past recipients.
--   The "Hey, I saw this and thought it was great!" commentary inserted
+- The "Hey, I saw this and thought it was great!" commentary inserted
     by previous recipients.
--   All of the email signatures including the ones saying something
+- All of the email signatures including the ones saying something
     about how this is a confidential email and you shouldn't be
     forwarding it.
--   Anything below the joke that isn't the joke or may be duplicate
+- Anything below the joke that isn't the joke or may be duplicate
     copies of the joke.
 
 Once the only thing remaining in that email is the joke, and only one
 copy of the joke, fine, go ahead and send it.
 
-**Giant Video File Attachments**
+## Giant Video File Attachments
 
 I'm not sure about the rest of you, but even if it's the funniest thing
 in the world, when someone sends me a 10MB video file through email it
@@ -83,7 +83,7 @@ Do a search for whatever it is you're going to forward. It's probably on
 there. If it's not already on YouTube, get a free account on YouTube and
 post the video. Send me *a link to the video, not the whole video file*.
 
-**Broken Embedded Images**
+## Broken Embedded Images
 
 If you're forwarding an email with a ton of embedded images, make sure
 they're going to come through. This is sort of a tricky thing because
@@ -111,7 +111,7 @@ like a monkey with ADHD.
 Maybe try forwarding it to yourself - really - before sending it to
 everyone in your address book. A dry run doesn't cost you anything.
 
-**Check Your Facts**
+## Check Your Facts
 
 There are a lot of rumors out there that sound funny or cool and they
 compel you, almost like "[the power of Christ compels
@@ -143,4 +143,3 @@ unreadable, but that's more a general written communication issue than
 email-specific.
 
 **What are your email pet peeves?**
-

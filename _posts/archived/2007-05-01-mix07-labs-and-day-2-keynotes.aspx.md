@@ -4,7 +4,7 @@ title: "MIX07 - Labs and Day 2 Keynotes"
 date: 2007-05-01 -0800
 comments: true
 disqus_identifier: 1196
-tags: [conferences,aspnet,net]
+tags: [conferences,aspnet,dotnet]
 ---
 I've run late all day long today for some unknown reason so I ended up
 coming in on the tail end of lunch and missing my last session because

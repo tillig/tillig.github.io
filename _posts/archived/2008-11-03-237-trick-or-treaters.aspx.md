@@ -20,15 +20,15 @@ ran from about 6:00p to 8:30p and that seemed to encompass the majority
 of visitors. There may have been some folks we missed pre-6:00p, but we
 had quite a lull after about 8:20p so shut it down at 8:30p.
 
--   Lots more little kids this year compared to last year, where we saw
+- Lots more little kids this year compared to last year, where we saw
     average age increase.
--   Halloween was on a Friday this year and I think that contributed to
+- Halloween was on a Friday this year and I think that contributed to
     the increase in visitors. More parents willing to take their kids
     out for longer if they don't have to get up early the next day.
--   We got the animated Halloween projector running and showing a "Happy
+- We got the animated Halloween projector running and showing a "Happy
     Halloween" message on the garage, which I think contributed to the
     number of visitors. A more festive atmosphere increases interest.
--   This is the second year for the new daylight saving time change due
+- This is the second year for the new daylight saving time change due
     to the energy bill that passed, but I don't think it affected the
     trick-or-treat count.
 
@@ -45,16 +45,16 @@ a few youngsters. (Sorry, kids, it's all I had!)
 I had a few favorite costumes that came by, but the three most
 memorable:
 
--   A kid of unknown age had a huge homemade fabric garbage can costume.
+- A kid of unknown age had a huge homemade fabric garbage can costume.
     A great costume by any count, but I had to ask where to put the
     candy since there were no arms, bags, or other receptacles. The
     garbage can rotated 90 degrees and a little flap opened with a hand
     poking out - "Put it in my hand."
--   A middle-school aged kid was a Lego brick made of cardboard and
+- A middle-school aged kid was a Lego brick made of cardboard and
     paper. Really accurate - six Lego studs hanging out of the front,
     the whole thing to scale... but no arm holes, so his dad was
     carrying his candy bag.
--   A high school kid with a banana costume, a backpack, and a plastic
+- A high school kid with a banana costume, a backpack, and a plastic
     knife. Normally I don't like handing candy out to older kids, but
     when a banana shows up and yells, "I'm a banana! Put the candy in
     the bag!" I was dying laughing. You win - here's your candy.
@@ -63,4 +63,3 @@ A banner year for trick-or-treaters this year. Next year I'm considering
 doing more than just the projector on the garage. I think Halloween
 falls on a Saturday next year, so I anticipate even more
 trick-or-treaters.
-

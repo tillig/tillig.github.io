@@ -17,4 +17,3 @@ StackOverflow.
 [Today I pushed out the doc answering that timeless question, "How do I
 pick a service implementation based on a particular context or consuming
 object?"](http://autofac.readthedocs.io/en/latest/faq/select-by-context.html)
-

@@ -60,4 +60,3 @@ haven't finished the new [*Portal
 2*](http://www.amazon.com/dp/B002I0J9M0?tag=mhsvortex) co-op levels,
 either. And when *Borderlands 2* comes out... I'll definitely be on
 that.
-

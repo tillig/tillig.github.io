@@ -11,7 +11,6 @@ out, [I ended up going with
 ClipX](/archive/2007/01/25/clipboard-follow-up-clipx.aspx), a free
 product that does exactly what I'm looking for.
 
-
  Clipboard manager, clipboard organizer... whatever you call it, what I
 went searching for yesterday was something that would help me with
 multiple copy/paste selections so I could re-use earlier items I'd
@@ -102,7 +101,6 @@ and figure out how to get it to work.
 feature-creep. Definitely by programmers for programmers. My mom would
 never be able to figure this out. And, honestly, I'm not eager to
 personally take something like this on.
-
 
  So there you have it. I haven't yet found "the perfect clipboard
 manager." Like I said above, though - if someone has one that they think

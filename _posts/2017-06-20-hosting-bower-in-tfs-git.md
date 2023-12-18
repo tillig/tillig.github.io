@@ -11,7 +11,7 @@ For better or worse, I'm trying to host a Bower package in a Git repository host
 
 Something I noticed when trying to install the package into my project is that the default Git credential manager was totally being ignored. That is, this was happening:
 
-```
+```text
 PS> bower install --save http://my.tfs.server:8080/tfs/Collection/Project/_git/my-package
 bower my-package#*      not-cached http://my.tfs.server:8080/tfs/Collection/Project/_git/my-package#*
 bower my-package#*         resolve http://my.tfs.server:8080/tfs/Collection/Project/_git/my-package#*
@@ -23,7 +23,7 @@ I had authenticated to the TFS server before and credentials should have been st
 
 [The answer, as it turns out](https://social.msdn.microsoft.com/Forums/vstudio/en-US/a1986859-59d3-426c-8b17-6a0f3382e2ca/use-git-on-tfs-to-host-bower-component?forum=TFService), is to **prefix the URL with `git+`** and suddenly the credential manager kicks in.
 
-```
+```text
 PS> bower install --save git+http://my.tfs.server:8080/tfs/Collection/Project/_git/my-package
 bower my-package#*      not-cached http://my.tfs.server:8080/tfs/Collection/Project/_git/my-package#*
 bower my-package#*         resolve http://my.tfs.server:8080/tfs/Collection/Project/_git/my-package#*

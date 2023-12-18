@@ -4,7 +4,7 @@ title: "Simplest Embedded Web Server Ever with HttpListener"
 date: 2008-07-16 -0800
 comments: true
 disqus_identifier: 1418
-tags: [gists,aspnet,csharp,net]
+tags: [gists,aspnet,csharp,dotnet]
 ---
 While working on solving [a CR_Documentor known
 issue](/archive/2008/07/14/cr_documentor-known-issue-javascript-security-warning.aspx),
@@ -304,4 +304,3 @@ I'm using this approach in CR_Documentor to serve up the content
 preview and maybe augment it a bit later so I can also serve images from
 embedded resources and such, making the preview that much richer and
 more accurate.
-

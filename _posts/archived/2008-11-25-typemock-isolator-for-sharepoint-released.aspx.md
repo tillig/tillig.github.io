@@ -4,7 +4,7 @@ title: "Typemock Isolator for SharePoint Released"
 date: 2008-11-25 -0800
 comments: true
 disqus_identifier: 1467
-tags: [sharepoint,testing,net]
+tags: [sharepoint,testing,dotnet]
 ---
 The folks over at Typemock have done something special to help address
 the needs of the SharePoint development community and have released a
@@ -31,4 +31,3 @@ I did quite a bit of SharePoint development in my last job and something
 like this would have been amazing to have. If you're doing SharePoint
 work right now, you owe it to yourself to [give it a
 look](http://www.typemock.com/sharepointpage.php).
-

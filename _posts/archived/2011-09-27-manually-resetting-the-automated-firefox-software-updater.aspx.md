@@ -13,11 +13,11 @@ user account that runs admin tasks.
 This appears to be a problem for the automated Firefox software update
 process. What I run into goes something like this:
 
-1.  Open Firefox and get notified there's a software update.
-2.  Click the button to close Firefox and apply the update.
-3.  Firefox closes and prompts me for admin credentials, which I
+1. Open Firefox and get notified there's a software update.
+2. Click the button to close Firefox and apply the update.
+3. Firefox closes and prompts me for admin credentials, which I
     provide.
-4.  The update installs, Firefox restarts, and then notifies me there is
+4. The update installs, Firefox restarts, and then notifies me there is
     a software update.
 
 What seems to be happening is that Firefox downloads the update for my
@@ -40,13 +40,13 @@ cache.
 Per [this Mozillazine
 article](http://kb.mozillazine.org/Software_update), to do this:
 
-1.  **Close Firefox.
+1. **Close Firefox.
     **
-2.  **Open the temporary application data folder for Firefox**. In
+2. **Open the temporary application data folder for Firefox**. In
     Windows Vista and above, this is:
     `C:\Users\your-username-here\AppData\Local\Mozilla\Firefox\Mozilla Firefox`
 
-3.  Inside that folder, you'll see a folder called "updates" and two
+3. Inside that folder, you'll see a folder called "updates" and two
     files "active-update.xml" and "updates.xml" - **delete the "updates"
     folder and the two XML files**.
 
@@ -60,4 +60,3 @@ check for updates and apply as necessary.
     del "%localappdata%\Mozilla\Firefox\Mozilla Firefox\active-update.xml"
     del "%localappdata%\Mozilla\Firefox\Mozilla Firefox\updates.xml"
     rmdir /s /q "%localappdata%\Mozilla\Firefox\Mozilla Firefox\updates"
-

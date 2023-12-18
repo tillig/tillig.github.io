@@ -88,4 +88,3 @@ folder as nunit.framework.dll. You may need to open the
 nunit.framework.dll.tdnet file in a text editor (it's an XML file) and
 modify the "AssemblyPath" node in there. I haven't actually tried this
 myself, so YMMV, but it should work.
-

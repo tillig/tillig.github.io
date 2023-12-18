@@ -27,4 +27,3 @@ sounds like it adds up to this.
 
 I damn near clicked that pre-order button just now. Just the $300 price
 tag stopped me. It may not stop me for long.
-

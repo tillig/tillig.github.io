@@ -6,7 +6,9 @@ comments: true
 disqus_identifier: 1325
 tags: [personal]
 ---
-[![](http://lh3.google.com/travis.illig/R2nlZJJGnvE/AAAAAAAAATE/6Pi_Rqwf_7w/s160-c/XOLaptopUnbox.jpg)](http://picasaweb.google.com/travis.illig/XOLaptopUnbox)<br />[XO Laptop Unbox](http://picasaweb.google.com/travis.illig/XOLaptopUnbox)
+[![XO Laptop Unbox](http://lh3.google.com/travis.illig/R2nlZJJGnvE/AAAAAAAAATE/6Pi_Rqwf_7w/s160-c/XOLaptopUnbox.jpg)](http://picasaweb.google.com/travis.illig/XOLaptopUnbox)
+
+[XO Laptop Unbox](http://picasaweb.google.com/travis.illig/XOLaptopUnbox)
 
 Yesterday I received [my XO
 laptop](/archive/2007/11/14/bought-my-xo-laptop.aspx) from [the One
@@ -35,7 +37,7 @@ a Windows person, and while I have run Linux before, I'm not really that
 knowledgeable about it, so the best I could do was try [their manual
 wireless network association
 steps](http://wiki.laptop.org/go/Manual_Wireless_Association) to see if
-that worked.  It did... for as long as I was in that terminal session. 
+that worked.  It did... for as long as I was in that terminal session.
 But as soon as I rebooted, the connection was lost and I was back to
 square one.  So, rather than fight that beast, I just turned SSID
 broadcast on.  Hey, that wasn't really stopping the malicious folks out
@@ -44,7 +46,7 @@ there anyway.
 It won't connect to [WPA networks
 (yet)](http://wiki.laptop.org/go/WPA_Manual_Setting), which isn't a
 problem for me since I'm still in the stone age using WEP.  After some
-trouble getting the security on it set up, I finally got connected. 
+trouble getting the security on it set up, I finally got connected.
 Honestly, I don't know how kids are supposed to do this, but maybe they
 assume that school wireless access points are just open without any
 security or something.  Maybe that's how it really is.
@@ -55,7 +57,7 @@ your little computer icon to be.  (Your icon represents you on the
 network.)  Once you've set them, though... there's no control panel
 applet or anything to change them with.  It took me a while, but I found
 that they have [a command-line interface to change these things called
-"sugar-control-panel."](http://wiki.laptop.org/go/Sugar_Control_Panel) 
+"sugar-control-panel."](http://wiki.laptop.org/go/Sugar_Control_Panel)
 Got my stuff all customized up and now I'm set.
 
 The interface is primarily graphically-driven.  There's very little
@@ -87,4 +89,3 @@ this](http://wiki.laptop.org/go/Mono).)
 If you're interested in learning more about the One Laptop Per Child
 charity, how to give, or how to use the XO laptop, check out
 [www.laptop.org](http://www.laptop.org).
-

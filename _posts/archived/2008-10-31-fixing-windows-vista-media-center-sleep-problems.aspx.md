@@ -30,11 +30,11 @@ that pointed me down some avenues I would never have thought of.
 
 The solution to my sleep mode problems:
 
--   In power options, I changed the "Multimedia Settings/When sharing
+- In power options, I changed the "Multimedia Settings/When sharing
     media" setting to "Allow Computer to Sleep."
--   Reduced the time to turn off the display to 15 minutes.
--   Reduced the time to go to sleep to 30 minutes.
--   Switched to a different screen saver. This is one of those things
+- Reduced the time to turn off the display to 15 minutes.
+- Reduced the time to go to sleep to 30 minutes.
+- Switched to a different screen saver. This is one of those things
     I'd never have thought of. According to the tutorial, some screen
     savers interfere with the ability of the computer to sleep. [I
     recommend the "Bubbles" screen
@@ -50,4 +50,3 @@ it, so I'm thinking it was the screen saver.
 
 If you're having Vista sleep troubles, [check out that
 tutorial](http://www.vistax64.com/tutorials/63567-power-options-sleep-mode-problems.html).
-

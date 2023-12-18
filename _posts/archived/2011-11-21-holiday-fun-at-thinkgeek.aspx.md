@@ -18,4 +18,3 @@ It might be a good time to get a [BigTrak
 Jr.](/archive/2011/05/18/bigtrak-awesome-toy-for-subversive-programming-education.aspx)
 or some [Star Wars
 glassware](/archive/2011/08/23/star-wars-drink-time.aspx)...?
-

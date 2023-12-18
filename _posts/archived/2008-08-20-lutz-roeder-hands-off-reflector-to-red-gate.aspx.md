@@ -19,4 +19,3 @@ Wow. This is huge. I'm interested to see what his next move is. (This is
 particularly interesting to me since I started
 [CR_Documentor](http://cr-documentor.googlecode.com) based on his
 original Documentor project.)
-

@@ -39,4 +39,3 @@ is disappointing.  I'd like to blame the pattern for leaving too much
 extra fabric on the sleeve at the top where it joins to the body, but I
 suppose if I was a better tailor I'd be able to accommodate for that.  I
 think it'll be okay; it'll withstand a cursory inspection.
-

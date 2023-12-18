@@ -16,22 +16,24 @@ I decided my pilot project would be to get a VSIX installer attached to [CR_Docu
 
 **TWO IMPORTANT NOTES before you begin:**
 
--   I converted a **C#/.csproj plugin** so the steps I took here assume you're using C#, too.**If you're using VB**, you may have to do some different/additional steps that I'm unaware of.
--   **You will lose support for Visual Studio versions before 2010** because you'll need to update the target .NET framework. If you can't afford to lose that support for your plugin, stop now.
+- I converted a **C#/.csproj plugin** so the steps I took here assume you're using C#, too.**If you're using VB**, you may have to do some different/additional steps that I'm unaware of.
+- **You will lose support for Visual Studio versions before 2010** because you'll need to update the target .NET framework. If you can't afford to lose that support for your plugin, stop now.
 
 **First, install the prerequisites**. You'll need...
 
--   **The Visual Studio SDK** so you have all the stuff required to compile VSIX. **Be sure to get the right version** for your Visual Studio install or you'll get odd errors. If you have VS 2010 SP1, you need [the VS 2010 SP1 version of the SDK](http://www.microsoft.com/download/en/details.aspx?id=21835).
--   **DXCore 11.2 or higher**. If you have a [CodeRush/Refactor](http://devexpress.com/Products/Visual_Studio_Add-in/Coding_Assistance/) license, you've already got this. If you're starting fresh, [you'll need at least DXCore (free)](http://devexpress.com/Products/Visual_Studio_Add-in/DXCore/). But you know what?****[**Just get the CodeRush/Refactor license**](http://devexpress.com/Subscriptions/DXperience/chooser.xml)**. I'll wait. I promise it's worth it.** (And if you're using an Express Edition of Visual Studio, you can even get [a free version of CodeRush called CodeRush Xpress](http://devexpress.com/Products/Visual_Studio_Add-in/CodeRushX/) because DevExpress is awesome like that.)
+- **The Visual Studio SDK** so you have all the stuff required to compile VSIX. **Be sure to get the right version** for your Visual Studio install or you'll get odd errors. If you have VS 2010 SP1, you need [the VS 2010 SP1 version of the SDK](http://www.microsoft.com/download/en/details.aspx?id=21835).
+- **DXCore 11.2 or higher**. If you have a [CodeRush/Refactor](http://devexpress.com/Products/Visual_Studio_Add-in/Coding_Assistance/) license, you've already got this. If you're starting fresh, [you'll need at least DXCore (free)](http://devexpress.com/Products/Visual_Studio_Add-in/DXCore/). But you know what?****[**Just get the CodeRush/Refactor license**](http://devexpress.com/Subscriptions/DXperience/chooser.xml)**. I'll wait. I promise it's worth it.** (And if you're using an Express Edition of Visual Studio, you can even get [a free version of CodeRush called CodeRush Xpress](http://devexpress.com/Products/Visual_Studio_Add-in/CodeRushX/) because DevExpress is awesome like that.)
 
 **Optional: Create a new, empty DXCore VSIX standard plugin project for reference.** You won't actually be doing any coding in here, but having a populated skeleton plugin really helps if you need to grab some code copy/paste style or check to see how something is set up. This was pretty key for me to figure out what I needed to do to add VSIX to my plugin – a skeleton plugin and a diff tool. Once you've created it, build it once and close it. You're done with it unless you need to go refer to something or troubleshoot it.
 
 **Open up your plugin project**. We're going to make a few modifications to the project properties.
 
--   **Switch the target framework to .NET 4.0.** You need to do this because VSIX only supports .NET 4.0. It does mean you'll be giving up support in your plugin for versions of Visual Studio before 2010.<br />![Set the target framework to .NET 4.0]({{ site.url }}/images/20120201apptab.png)
+- **Switch the target framework to .NET 4.0.** You need to do this because VSIX only supports .NET 4.0. It does mean you'll be giving up support in your plugin for versions of Visual Studio before 2010.
 
--   **Switch your build output paths to `bin\Debug\` and `bin\Release\`** for the Debug and Release build configurations, respectively. Most plugin projects have the build output set so the plugin will build right into your Community Plugins folder. This makes it easy to debug. Once you switch to VSIX, you debug in a different way, so you don't want the plugin going into the Community Plugins folder anymore. You do need to have a build output location, though, so switch it back to the standard `bin\Debug\` or `bin\Release\` location.
--   **Remove any post-build copy/deployment tasks.** In my plugins, rather than change the build output paths, I use post-build copy tasks to copy the plugin into my Community Plugins folder. Again, you don't want to auto-deploy like this because there's a different mechanism for VSIX, so remove any of these steps from the project.
+![Set the target framework to .NET 4.0]({{ site.url }}/images/20120201apptab.png)
+
+- **Switch your build output paths to `bin\Debug\` and `bin\Release\`** for the Debug and Release build configurations, respectively. Most plugin projects have the build output set so the plugin will build right into your Community Plugins folder. This makes it easy to debug. Once you switch to VSIX, you debug in a different way, so you don't want the plugin going into the Community Plugins folder anymore. You do need to have a build output location, though, so switch it back to the standard `bin\Debug\` or `bin\Release\` location.
+- **Remove any post-build copy/deployment tasks.** In my plugins, rather than change the build output paths, I use post-build copy tasks to copy the plugin into my Community Plugins folder. Again, you don't want to auto-deploy like this because there's a different mechanism for VSIX, so remove any of these steps from the project.
 
 That's all for now with the project properties. We'll come back to that
 in a little bit once we've made a few more modifications.
@@ -39,8 +41,8 @@ in a little bit once we've made a few more modifications.
 **Add some assembly references to your project** if you haven't got them
 already:
 
--   System.Core
--   System.ComponentModel.Composition
+- System.Core
+- System.ComponentModel.Composition
 
 You'll need these so the MEF portion of the VSIX installer will work.
 
@@ -51,9 +53,9 @@ few things by hand.
 the top-level `PropertyGroup` node, which appears just below the root
 `Project` node, you need to:
 
--   **Add a `ProjectTypeGuids` node** that has the VSIX project GUIDs in
+- **Add a `ProjectTypeGuids` node** that has the VSIX project GUIDs in
     it.
--   **Add the VSIX properties** that help direct the VSIX build.
+- **Add the VSIX properties** that help direct the VSIX build.
 
 ```xml
 <ProjectTypeGuids>{82b43b9b-a64c-4715-b499-d71e9ca2bd60};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -93,13 +95,19 @@ I've made the additions **bold**.
 </Project>
 ```
 
-**These properties are really important** to getting the project to build successfully. For example, early on I forgot to add the `GeneratePkgDefFile` property over and set it to `false`. For quite some time I got an odd error that I couldn't figure out and stopped the build from finishing:<br />`CreatePkgDef : error : No Visual Studio registration attribute found in this assembly.`
+**These properties are really important** to getting the project to build successfully. For example, early on I forgot to add the `GeneratePkgDefFile` property over and set it to `false`. For quite some time I got an odd error that I couldn't figure out and stopped the build from finishing:
+
+`CreatePkgDef : error : No Visual Studio registration attribute found in this assembly.`
 
 Adding the property fixed the build. I was able to find my error by comparing my .csproj to the empty/skeleton VSIX plugin .csproj I had created. That's why I mentioned that as an optional step at the top – it's good to have something working to compare against.
 
-**Now add the build targets that allow VSIX to compile.** At the bottom of your project file, locate the following line:<br />`<Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />`
+**Now add the build targets that allow VSIX to compile.** At the bottom of your project file, locate the following line:
 
-Just below that, add this line to reference the VS SDK targets:<br />`<Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v10.0\VSSDK\Microsoft.VsSDK.targets" />`
+`<Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />`
+
+Just below that, add this line to reference the VS SDK targets:
+
+`<Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v10.0\VSSDK\Microsoft.VsSDK.targets" />`
 
 **If there's any additional project cleanup you want to do, now's a decent time.** For me, CR_Documentor has been around for a while so there was a lot of stuff referring to old versions of .NET and/or old versions of Visual Studio, all of which has persisted over the course of several project upgrades. **I can't give you any guidance on this and you do it all at your own risk.** You aren't required to do any additional cleanup to get the VSIX stuff to work; I just mention it since you're already neck-deep in .csproj hacking.
 
@@ -107,9 +115,9 @@ Just below that, add this line to reference the VS SDK targets:<br />`<Import Pr
 
 **Add a VSIX Plugin Extension class to your plugin.** This is the little "shim" that signals DXCore to load your plugin from VSIX. Super easy and not even really any code.
 
--   Add a new class to your project. I called mine "VsixPluginExtension"because I'm all about naming. :)
--   Set the class to implement DevExpress.CodeRush.Common.IVsixPluginExtension. This is a marker interface; no code to write or implement for it.
--   Add a System.ComponentModel.Composition.ExportAttribute to the class so it exports IVsixPluginExtension.
+- Add a new class to your project. I called mine "VsixPluginExtension"because I'm all about naming. :)
+- Set the class to implement DevExpress.CodeRush.Common.IVsixPluginExtension. This is a marker interface; no code to write or implement for it.
+- Add a System.ComponentModel.Composition.ExportAttribute to the class so it exports IVsixPluginExtension.
 
 That's it. Here's a copy/paste version you can grab and just change the
 namespace, even:
@@ -129,8 +137,8 @@ namespace YourNamespaceHere
 
 **Finally, add a VSIX manifest to the project.** The VSIX manifest is a little XML file that describes what's in the VSIX package. Unfortunately, there's no template for this file type so you either need to copy one in from a different project (another reason having that empty/skeleton VSIX plugin project is handy) or you need to manually create the file yourself.
 
--   Add an XML file to the project called `source.extension.vsixmanifest `and set the "Build Action" on it to "None." If you copy it in from the skeleton project, you're done.
--   Add some empty/placeholder manifest data. You can edit the data later in a nice designer in Visual Studio, but to get you going you have to have something in it. Here's the content from a skeleton VSIX plugin if you want to copy/paste.
+- Add an XML file to the project called `source.extension.vsixmanifest`and set the "Build Action" on it to "None." If you copy it in from the skeleton project, you're done.
+- Add some empty/placeholder manifest data. You can edit the data later in a nice designer in Visual Studio, but to get you going you have to have something in it. Here's the content from a skeleton VSIX plugin if you want to copy/paste.
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -194,19 +202,19 @@ Obviously those values won't be right for your project. Your project isn't calle
 
 **Finally, do some minimum update to the manifest** to tailor the package for your plugin.
 
--   Double-click the `source.extension.vsixmanifest` file you added earlier. This will open it up in a nice designer.
--   At a minimum, change the following properties:
-    -   **ID**: This is the "unique ID" for your package. Usually it's the name of your plugin, but you may or may not want that. Just as long as you don't change it later, you'll be fine.
-    -   **Product Name**: This is the name of your plugin. You'll see it appear in the Extension Manager in Visual Studio.
-    -   **Version**: This is the version of your plugin. You probably want this to match the version of your plugin assembly.
+- Double-click the `source.extension.vsixmanifest` file you added earlier. This will open it up in a nice designer.
+- At a minimum, change the following properties:
+  - **ID**: This is the "unique ID" for your package. Usually it's the name of your plugin, but you may or may not want that. Just as long as you don't change it later, you'll be fine.
+  - **Product Name**: This is the name of your plugin. You'll see it appear in the Extension Manager in Visual Studio.
+  - **Version**: This is the version of your plugin. You probably want this to match the version of your plugin assembly.
 
 **Save your changes and hit F5 to build and start a debugging session.** Once the experimental version of Visual Studio starts up, check to see that your plugin is available. You can even go into the Visual Studio Extension Manager (Tools –> Extension Manager...) to see your plugin listed as an extension.
 
 **Troubleshoot your build.** If you are getting warnings or errors, now's the time to fix them. I had several warnings about different things in CR_Documentor because I updated the .NET target framework from 2.0 to 4.0 and a lot has changed. **Unfortunately, I can't give you much guidance on this part.** If you've followed the instructions up to now, you should have all of the pieces in place to get this building and debugging properly. **If you're getting odd VSIX errors...**
 
--   Go back and make sure you got ALL of the properties in place in your project.
--   Verify you have the right version of the Visual Studio SDK installed for the version of Visual Studio you have installed. If you have VS 2010 SP1, the regular VS 2010 SDK won't work – you need VS 2010 SP1 SDK.
--   Compare your plugin project to an empty/skeleton VSIX DXCore plugin project. Pop the files open in a diff tool and see what the differences are. This was key in my troubleshooting efforts.
+- Go back and make sure you got ALL of the properties in place in your project.
+- Verify you have the right version of the Visual Studio SDK installed for the version of Visual Studio you have installed. If you have VS 2010 SP1, the regular VS 2010 SDK won't work – you need VS 2010 SP1 SDK.
+- Compare your plugin project to an empty/skeleton VSIX DXCore plugin project. Pop the files open in a diff tool and see what the differences are. This was key in my troubleshooting efforts.
 
 Once you've verified the deployment is working, **it's time to do a little fine-tuning on the manifest.**
 
@@ -214,14 +222,26 @@ The manifest file is what determines how your plugin appears in the Visual Studi
 
 **Open the manifest in the Visual Studio designer.** A [somewhat terse] explanation of the main values you see at the top of the designer [is on MSDN](http://msdn.microsoft.com/en-us/library/dd393688.aspx). I'll tell you how I set up CR_Documentor and you can make the appropriate changes for your project.
 
--   **Author**: The name of the person/group responsible for the plugin. Since mine's open source, I put "CR_Documentor Contributors" as the author.
--   **Description**: A short text description explaining what the plugin does. This can be used to search for plugins, so having keywords in the description can help people locate your plugin.
--   **Supported VS Editions**: Open this and select all of the standard VS 2010 editions as well as all Express editions. Since DXCore can run on any of these, you want your plugin for DXCore to also be discoverable by people with any of these versions.<br /><br />Note that you may start getting a build warning once you select the Express Editions of Visual Studio:<br />`source.extension.vsixmanifest : warning : VSIX targets Express Versions of Visual Studio but VSIX contains non-template content.`<br /><br /> From what I can tell, [this warning is erroneous and can be ignored](http://social.msdn.microsoft.com/Forums/en-NZ/vsx/thread/264c4a1f-a550-4d2b-8d59-a896f47312ca).<br /><br /> On the other hand,**if you choose the Express Editions and see this warning, you won't be able to upload your VSIX to the Visual Studio Extension Gallery**. The Gallery auto-checks the uploaded VSIX and rejects any VSIX with non-template content targeted to VS Express SKUs.<br /><br /> ![Select all of the VS editions]({{ site.url }}/images/20120201vseditions.png)
--   **License Terms**: This is a small text file that will contain license information for your plugin. You'll see this information when you install the plugin. I called mine "license.txt" because it's easy.<br /> ![License content shows up in the installer]({{ site.url }}/images/20120201license.png)
--   **Icon**: A 32x32 image (png/bmp/jpg/ico) that will appear in the Extension Manager and the Gallery next to your plugin's name and description.
--   **Preview Image**: A 200x200 image (png/bmp/jpg/ico) that will appear in the Extension Manager and the Gallery showing a screen shot of your plugin.
--   **More Info URL**: A URL people can click from within the Extension Manager to read more about your plugin. I pointed mine to [the CR_Documentor home page](http://code.google.com/p/cr-documentor/).
--   **Getting Started Guide**: A URL people can click from within the Extension Manager to learn how to get working with your plugin. I pointed mine to [the CR_Documentor installation and usage wiki page](http://code.google.com/p/cr-documentor/wiki/InstallationAndUsage).
+- **Author**: The name of the person/group responsible for the plugin. Since mine's open source, I put "CR_Documentor Contributors" as the author.
+- **Description**: A short text description explaining what the plugin does. This can be used to search for plugins, so having keywords in the description can help people locate your plugin.
+- **Supported VS Editions**: Open this and select all of the standard VS 2010 editions as well as all Express editions. Since DXCore can run on any of these, you want your plugin for DXCore to also be discoverable by people with any of these versions.
+
+  Note that you may start getting a build warning once you select the Express Editions of Visual Studio:
+
+  `source.extension.vsixmanifest : warning : VSIX targets Express Versions of Visual Studio but VSIX contains non-template content.`
+
+  From what I can tell, [this warning is erroneous and can be ignored](http://social.msdn.microsoft.com/Forums/en-NZ/vsx/thread/264c4a1f-a550-4d2b-8d59-a896f47312ca).
+
+  On the other hand,**if you choose the Express Editions and see this warning, you won't be able to upload your VSIX to the Visual Studio Extension Gallery**. The Gallery auto-checks the uploaded VSIX and rejects any VSIX with non-template content targeted to VS Express SKUs.
+
+  ![Select all of the VS editions]({{ site.url }}/images/20120201vseditions.png)
+- **License Terms**: This is a small text file that will contain license information for your plugin. You'll see this information when you install the plugin. I called mine "license.txt" because it's easy
+
+  ![License content shows up in the installer]({{ site.url }}/images/20120201license.png)
+- **Icon**: A 32x32 image (png/bmp/jpg/ico) that will appear in the Extension Manager and the Gallery next to your plugin's name and description.
+- **Preview Image**: A 200x200 image (png/bmp/jpg/ico) that will appear in the Extension Manager and the Gallery showing a screen shot of your plugin.
+- **More Info URL**: A URL people can click from within the Extension Manager to read more about your plugin. I pointed mine to [the CR_Documentor home page](http://code.google.com/p/cr-documentor/).
+- **Getting Started Guide**: A URL people can click from within the Extension Manager to learn how to get working with your plugin. I pointed mine to [the CR_Documentor installation and usage wiki page](http://code.google.com/p/cr-documentor/wiki/InstallationAndUsage).
 
 Here's what my manifest looks like, fully populated (click to enlarge):
 

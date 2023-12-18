@@ -8,7 +8,7 @@ tags: [General Ramblings]
 ---
 Just looked at my stats. The number two search phrase that leads people
 to my site is:
- 
- **you don t have to be rich to be my girl**
- 
+
+"you don t have to be rich to be my girl"
+
  What in the...?!

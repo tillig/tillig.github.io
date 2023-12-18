@@ -15,4 +15,3 @@ interview with Katie Couric.
 It's like Saturday Night Live, only real life. I've watched this like 10
 times now and I fall down laughing every time. It's all about Cafferty's
 deadpan delivery. I think I'm gonna go watch this again.
-

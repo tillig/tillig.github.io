@@ -56,9 +56,9 @@ tech support.
 
 First we did a speed test on two different sites. My results:
 
--   [speedtest.comcast.net](http://speedtest.comcast.net): 10ms ping,
+- [speedtest.comcast.net](http://speedtest.comcast.net): 10ms ping,
     28.52Mbps down, 5.95Mbps up
--   [www.speedtest.net](http://www.speedtest.net): 0ms ping, 28.67Mbps
+- [www.speedtest.net](http://www.speedtest.net): 0ms ping, 28.67Mbps
     down, 5.90Mbps up
 
 Looking good. On that same computer, I then tried streaming Netflix.
@@ -107,4 +107,3 @@ periodically](/archive/2009/04/04/verizon-fios-router-auto-updating-and-configur
 and fully reconfigure the network.
 
 But, you know, Google Fiber...
-

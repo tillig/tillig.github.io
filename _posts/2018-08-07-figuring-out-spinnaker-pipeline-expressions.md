@@ -16,6 +16,7 @@ I'm somewhat new to Spinnaker and I just got through trying to figure out a way 
 That's a lot to build on: The Spinnaker object model, Spring Expression Language, and Java. If you're, say, a Node or .NET developer, it's a bit of an uphill battle.
 
 **Resources**:
+
 - [Spinnaker Pipeline Expressions User Guide](https://www.spinnaker.io/guides/user/pipeline/expressions/)
 - [Spinnaker Pipeline Expressions Reference](https://www.spinnaker.io/reference/pipeline/expressions/)
 - [Spring Expression Language](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions)
@@ -36,6 +37,7 @@ The JSON doc is an "execution." In there you'll see the "stages" each of which h
 If you want to use the REST API to test an expression, first find a pipeline execution you want to use for testing. As with earlier, go get the JSON doc for a pipeline run by clicking the "Source" link on a complete pipeline. Now look at the URL. It'll look like `http://spin-api.your.com/pipelines/01CMAJQ6T8XC0NY39T8M3S6906`. Grab that URL.
 
 Now with your favorite tool (`curl`, Postman, etc.)...
+
 - Create a POST request to the `evaluateExpression` endpoint for that pipeline, like: `http://spin-api.your.com/pipelines/01CMAJQ6T8XC0NY39T8M3S6906/evaluateExpression`
 - In the body of the request, send a single parameter called `expression`. The value of `expression` should be the expression you want to evaluate, like `${ 1 + 1 }` or whatever.
 - The response will come back with the result of the expression, like `{ result: 2 }`. _If you get an error, read the message carefully!_ The error messages will usually help you know where to look to solve the issue. For example, if you see the error `Failed to evaluate [expression] EL1004E: Method call: Method length() cannot be found on java.util.ArrayList type` - you know that whatever you're calling `length()` on is actually an `ArrayList` so go [look at the `ArrayList` documentation](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html) and you'll find out it's `size()` not `length()`. The errors will help you search!

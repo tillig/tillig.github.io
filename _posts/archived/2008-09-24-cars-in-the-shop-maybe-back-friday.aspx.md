@@ -19,4 +19,3 @@ parking it in my garage because I can't figure out where the front and
 back on the thing are yet.
 
 It's Wednesday, but Friday is comin'...
-

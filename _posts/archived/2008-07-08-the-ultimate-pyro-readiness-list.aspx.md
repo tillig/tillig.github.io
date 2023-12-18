@@ -19,50 +19,47 @@ Obviously if you've got more than one person, you may need to adjust
 quantities. Also, sometimes the company you're shooting for will provide
 some equipment. Here we go...
 
--   **Tools**
-    -   Shovel
-    -   Rake (like, one of those wide plastic ones for raking leaves)
-    -   Pocket knife
-    -   Pliers (if you have a Leatherman tool, use that)
-    -   Cordless drill with screwdriver bits
-    -   Hammer
-    -   Large marker (like a Sharpie)
-    -   Masking tape
-    -   Flashlight
-    -   Continuity tester
+- **Tools**
+  - Shovel
+  - Rake (like, one of those wide plastic ones for raking leaves)
+  - Pocket knife
+  - Pliers (if you have a Leatherman tool, use that)
+  - Cordless drill with screwdriver bits
+  - Hammer
+  - Large marker (like a Sharpie)
+  - Masking tape
+  - Flashlight
+  - Continuity tester
 
--   **Clothing**
-    -   Leather work gloves
-    -   Firefighter turnout or other flame-retardant overcoat
-    -   Knee pads
-    -   Sunglasses
-    -   Hat with brim
-    -   Foam ear plugs
-    -   Helmet (motorcycle or firefighter)
+- **Clothing**
+  - Leather work gloves
+  - Firefighter turnout or other flame-retardant overcoat
+  - Knee pads
+  - Sunglasses
+  - Hat with brim
+  - Foam ear plugs
+  - Helmet (motorcycle or firefighter)
 
--   **Sustenance**
-    -   Water
-    -   Gatorade
-    -   Energy drinks
-    -   Dry food - crackers, granola bars, etc.
+- **Sustenance**
+  - Water
+  - Gatorade
+  - Energy drinks
+  - Dry food - crackers, granola bars, etc.
 
--   **Amenities**
-    -   Cooler (for your food/drinks)
-    -   Camp chair
-    -   Camp table
-    -   Shade shelter (one of those four-metal-legs-and-a-tarp things
+- **Amenities**
+  - Cooler (for your food/drinks)
+  - Camp chair
+  - Camp table
+  - Shade shelter (one of those four-metal-legs-and-a-tarp things
         works great)
-    -   Moist washcloth in plastic bag
-    -   Digital camera
-    -   Book/magazine
+  - Moist washcloth in plastic bag
+  - Digital camera
+  - Book/magazine
 
--   **Health products**
-    -   Excedrin Migraine
-    -   Ibuprofen
-    -   Pseudoephedrine (or other decongestant)
-    -   Sunscreen - SPF45 or better
-    -   Moist towelettes
-    -   Bug repellent
-
-
-
+- **Health products**
+  - Excedrin Migraine
+  - Ibuprofen
+  - Pseudoephedrine (or other decongestant)
+  - Sunscreen - SPF45 or better
+  - Moist towelettes
+  - Bug repellent

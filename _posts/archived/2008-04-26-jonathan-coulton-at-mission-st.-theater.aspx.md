@@ -50,4 +50,3 @@ surprise - the Thing a Week box set was signed and numbered inside.
 Awesome.
 
 We'll definitely be going again when he comes back to town.
-

@@ -86,4 +86,3 @@ Other than that, our stay was great. The room was great, the rest of the
 service was great, the food was great... Hopefully the Paris won't turn
 into a low-end nickel-and-dime you sort of establishment. I've loved my
 stays before, and aside from these two issues it was another good stay.
-

@@ -13,19 +13,17 @@ goodness they broadcast online.
 
  I hate normal radio for several reasons:
 
--   Too many commercials. For every minute of music, there are like two
+- Too many commercials. For every minute of music, there are like two
     minutes of commercials. This is worse during most morning shows,
     where there are three minutes of commercials for every minute of
     comedic drivel.
--   Radio "powers." Songs that are considered "power" on the radio get
+- Radio "powers." Songs that are considered "power" on the radio get
     repeated over... and over... and over... Most of the time I hate
     those songs. Who says payola doesn't exist anymore?
--   I'm WHITE. Let's be frank - most of the new stuff coming out is
+- I'm WHITE. Let's be frank - most of the new stuff coming out is
     Ebonic-laden hip-hop. Admittedly, I can dig some of it, but not as
     much as is getting cranked out. Pronounce your words, people. And
     make it something I can hum along to. You can't hum to hip-hop.
-
-
 
  C89.5 overcomes all of these obstacles. It doesn't play commercials
 because it's a public radio station, run by a Seattle high school. It

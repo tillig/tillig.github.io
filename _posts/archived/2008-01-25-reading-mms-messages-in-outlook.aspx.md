@@ -27,10 +27,10 @@ image, one for the text.) The trick, then, is to know what type of file
 each attachment piece is. Here are a couple of basic tips for viewing
 each piece:
 
--   If it's smaller than 1KB, it's probably text. Try opening the file
+- If it's smaller than 1KB, it's probably text. Try opening the file
     in Notepad or some other text editor. If it looks garbled, well,
     it's not text. Just don't save it and you'll be OK.
--   If it's larger than 1KB or doesn't display right in Notepad, open
+- If it's larger than 1KB or doesn't display right in Notepad, open
     the file in your favorite image editor. You can even use MS Paint -
     open the editor and drag the attachment in there. You can then save
     it as a particular file type.
@@ -42,4 +42,3 @@ didn't find anything. There seems to be a lot out there for sending
 these messages, but nothing much on receiving or reading them. If you
 have a way to get Outlook to do this automatically, please leave it in
 the comments - I'd love to check it out.
-

@@ -18,7 +18,6 @@ begin with? Does it ever get rebuilt? Having a separate cache that is,
 in effect, a disparate data source from the actual data is asking for
 integrity problems.
 
-
 The templates really bug me. The more I think about it, the more they
 bug me. I appreciate that the idea is to allow for folks that "just know
 HTML" to code up a template and run with it. As such, they use sort of a
@@ -31,11 +30,9 @@ could dream up? Right now, I've got to do some fancy
 tap-dancing-and-jazz-hands to put the server control into a user control
 and... uh, no. Seriously.
 
-
 If the templates were made for a user who "just knows HTML" to use, how
 come the setup and upgrade procedures take an ASP.NET guru to figure
 out?
-
 
 I shouldn't have to modify the administrative interface to get it to do
 things I want. Nor should I have to manually log in to the server,
@@ -43,14 +40,12 @@ download a config file, edit it, then re-upload it due to lack of an
 administrative interface. Ever. If you add the feature and it requires
 config, you add the admin interface.
 
-
 If everyone using dasBlog is using some external application (i.e.,
 BlogJet) to post entries, it occurs to me that this means not one, but
 two things: First, that BlogJet is cool and convenient to use. Second,
 that there is a dire shortcoming in the built-in interface to create new
 entries that needs to be addressed. If it's so inconvenient to use, what
 is it that makes it inconvenient? Address that.
-
 
 While we're on the topic of the built-in new entry interface, the usage
 of text editing components must be questioned. I know the dasBlog guys
@@ -63,13 +58,11 @@ part of why I want to update. To get a nice, clean template that does.)
 Even if that means I enter a new entry in a plain old textbox manually
 (which is what I currently do anyway).
 
-
 I might want the ability to upload images into one folder and other
 content, like downloadable software, into another folder. I, further,
 might even want a file browser so I can see (without having to FTP) what
 I've got up there and delete or rename files as I see fit. Hook me up,
 guys. It's not rocket science.
-
 
 If it doesn't *just work* without tweaking, don't put it in. If it's not
 going to be documented so people can take advantage of it, don't put it
@@ -80,14 +73,12 @@ configuration of the site can't really be achieved through the admin
 interface right now, so you have to know where/how certain things work -
 undocumented - in order to get things configured just so.
 
-
 Where was the common sense when writing some of this stuff. If you have
 a class called `DayEntry` and that class has a static method like
 `OccursBefore(DayEntry entry, DateTime dt)`, then it occurs to me that,
 since you have to have a DayEntry instance *anyway*, the method should
 be an instance method, not a static one. Am I wrong? (There's a lot of
 that kind of stuff in there.)
-
 
  I know what's going to happen here. I'm going to convert over to
 dasBlog and get pissed off that there are weird things in there. I'm

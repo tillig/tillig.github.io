@@ -37,4 +37,3 @@ not in others.
 **YMMV. This works for me, might not for you. I'm not responsible if you
 delete something important and your machine comes crashing down around
 you. You have to be extra careful when you muck with the registry.**
-

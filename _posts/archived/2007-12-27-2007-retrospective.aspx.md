@@ -77,6 +77,7 @@ types can be added
 together](/archive/2007/05/24/how-do-you-tell-if-two-objects-can-be-added.aspx),
 but never did get an answer. Just at the end of the month, [I posted the
 EmbeddedPageHandlerFactory](/archive/2007/05/31/embeddedpagehandlerfactory-binary-only-asp.net-1.1.aspx)
+
 - a way to serve up ASP.NET 1.1 from embedded resources.
 
 In June [*The Sopranos* ended with a
@@ -101,6 +102,7 @@ to your
 clipboard](/archive/2007/07/10/copy-amazon-associates-product-url-bookmarklet.aspx) while
 browsing Amazon. [I published the
 EmbeddedResourcePathProvider](/archive/2007/07/13/embeddedresourcepathprovider-binary-only-asp.net-2.0.aspx)
+
 - a way to serve up ASP.NET 2.0 from embedded resources. Oh, and [I
 turned 31](/archive/2007/07/22/birthday-in-the-lost-room.aspx).
 
@@ -167,6 +169,7 @@ posted [some maintenance
 secrets](/archive/2007/12/10/xbox-360-maintenance-secrets.aspx) that
 might help you avoid a call to Xbox Support. I posted
 [UrlAbsolutifierModule](/archive/2007/12/14/urlabsolutifiermodule-convert-urls-in-asp.net-output-to-absolute.aspx)
+
 - an HttpModule that helps you convert URLs from relative to absolute
 format in ASP.NET. I watched [the sixth season of *24* all in one
 day](/archive/2007/12/17/24-season-6.aspx), found that [FxCop 1.35 uses
@@ -179,4 +182,3 @@ That pretty much brings us to current. It's been a heck of a year - I
 got acquired twice, went to some great conferences (and met some cool
 people), and posted some [hopefully helpful] stuff for folks. Here's to
 a great upcoming 2008!
-

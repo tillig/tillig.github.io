@@ -15,9 +15,9 @@ I figured out a reasonable, if slightly kludgy, solution and I figured
 I'd share. The general idea is to have a project in Visual Studio
 that...
 
--   Acts as the point of entry for debugging the packaged version of the
+- Acts as the point of entry for debugging the packaged version of the
     web site.
--   Automatically updates IIS Express configuration to point to the
+- Automatically updates IIS Express configuration to point to the
     packaged web site.
 
 What it allows you to do is hit F5 and IIS Express will start up pointed
@@ -40,9 +40,9 @@ Now it's time to manually edit the debug placeholder project a bit.
 Scroll down until you find the list of project references. **Inside each
 ProjectReference node**...
 
--   Add a node called **IISExpressUrl**. Inside that node put the URL
+- Add a node called **IISExpressUrl**. Inside that node put the URL
     that IIS Express will host the site on.
--   Add a node called **IISExpressBindings**. This is another way of
+- Add a node called **IISExpressBindings**. This is another way of
     writing the URL, but in IIS binding format.
 
 A sample modified ProjectReference node looks like this:
@@ -85,9 +85,9 @@ Scroll down to almost the bottom of the debug placeholder .csproj and
 
 What those do:
 
--   Run the "Package" target on the web application projects that you've
+- Run the "Package" target on the web application projects that you've
     referenced.
--   Deletes and then re-adds the IIS Express configuration that points
+- Deletes and then re-adds the IIS Express configuration that points
     to the referenced projects. (That way if you've got multiple copies
     of the source checked out, you'll be sure to always be pointed to
     the one you're working on.)

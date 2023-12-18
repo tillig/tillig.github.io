@@ -20,19 +20,19 @@ all of the hits were registered.  I also hit various combinations of two
 pads simultaneously and all of those hits were registered.  So I was/am
 encountering a combination of issues, all adding up to Bad News for Me:
 
-1.  The timing on the drums is utterly unforgiving.  If you're playing
+1. The timing on the drums is utterly unforgiving.  If you're playing
     guitar, you get a little plus/minus room for strumming and hitting a
     note.  Sort of a "close enough" buffer.  With drums, you're either
     ON or you're NOT.  No fudge room.  A millisecond or two off, and it
     won't count.
-2.  The USB hub that comes with the game is pretty bad and seems to
+2. The USB hub that comes with the game is pretty bad and seems to
     introduce a little latency.  Not a lot, but with timing having to be
     pretty precise, I notice a little better response when I plug the
     drums into the Xbox directly and everything else goes in the hub.
-3.  Calibrating the game is hugely important.  Sometimes the presets
+3. Calibrating the game is hugely important.  Sometimes the presets
     work; I manually calibrated mine and things seemed to be a little
     better.
-4.  I may just be a sucky drummer.  After checking out the
+4. I may just be a sucky drummer.  After checking out the
     responsiveness of the drums, calibrating everything, and plugging
     the drums right into the Xbox, I'm doing a little better but am
     still missing a couple of notes per song on Easy mode.  It's usually
@@ -43,8 +43,7 @@ encountering a combination of issues, all adding up to Bad News for Me:
 
 I'm pretty good at [*Donkey Konga*
 bongos](/archive/2005/04/17/amped-up.aspx).  I think playing drums with
-your hands and playing them with sticks might be two different beasts. 
+your hands and playing them with sticks might be two different beasts.
 I'm OK with that - knowing that it means practice is one thing; doubting
 yourself without knowing if it's the equipment or not is a whole other
 set of insecurities.
-

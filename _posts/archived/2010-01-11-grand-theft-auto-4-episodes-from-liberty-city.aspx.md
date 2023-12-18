@@ -59,7 +59,7 @@ takes some serious getting used to. Anyway, I didn't do the races
 because I don't like the race missions, but I suppose I could have if I
 really cared.
 
-**So, overall, I liked "The Lost and Damned."**
+So, overall, **I liked "The Lost and Damned."**
 
 After "The Lost and Damned," I moved on to "The Ballad of Gay Tony." In
 that, you play a guy who runs some night clubs with a business partner,
@@ -75,9 +75,7 @@ few tie-ins in "The Lost and Damned," but the connections with "The
 Ballad of Gay Tony" are, like the characters, more fun and colorful.
 
 I also like the addition of the "base jumping/parachuting" activities.
-It reminds me of [*Grand Theft Auto: San
-Andreas*](http://www.amazon.com/gp/product/B000EHQDA0?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000EHQDA0),
-which was a really fun game.
+It reminds me of [*Grand Theft Auto: San Andreas*](http://www.amazon.com/gp/product/B000EHQDA0?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000EHQDA0), which was a really fun game.
 
 That said, **I'm actually pretty irritated with "The Ballad of Gay
 Tony"** and here's why:
@@ -157,4 +155,3 @@ Tony."**
 
 I'd love to be able to give this feedback to Rockstar somehow but I'm
 not sure how. If you know, leave it in the comments for me.
-

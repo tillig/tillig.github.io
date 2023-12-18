@@ -10,10 +10,10 @@ I got this email from this guy last night (who I will not name, for his
 own sake) that went like this:
 
 > I object to the existence of your site.
->  Who do you think you are to make fun of paraesthesia? You know what
+> Who do you think you are to make fun of paraesthesia? You know what
 > that is? You know what that means?
 >
->  I am looking for sites to get to know what's the problem with my
+> I am looking for sites to get to know what's the problem with my
 > girlfriend's health (she had hit her back and now she has paraesthesia
 > in her legs and arms) just to find the main site:
 > [www.paraesthesia.com](/) occupied by something completely

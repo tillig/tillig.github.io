@@ -11,4 +11,3 @@ the stuff that we got traumatized with as children watching TV in the US
 and I remembered the dancing slinkies - one of my favorite Muppet skits
 next to classic [Mahna
 Mahna](http://www.youtube.com/watch?v=QTXyXuqfBLA).
-

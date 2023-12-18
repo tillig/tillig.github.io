@@ -34,20 +34,20 @@ might look that way to the folks providing that component, but in larger
 environments that take third-party components on as dependencies, for
 every new version that comes out you have to consider:
 
--   Has the licensing changed? (If so, do we need to run this by Legal
+- Has the licensing changed? (If so, do we need to run this by Legal
     to get approval for the upgrade?)
--   Is there any fee associated with taking the upgrade?
--   What are the breaking changes?
--   What got fixed?
--   Were we inadvertently assuming incorrect behavior that has changed?
--   Were we working around incorrect behavior that's now rectified?
--   For .NET dependencies, if it's strongly-named and not installed into
+- Is there any fee associated with taking the upgrade?
+- What are the breaking changes?
+- What got fixed?
+- Were we inadvertently assuming incorrect behavior that has changed?
+- Were we working around incorrect behavior that's now rectified?
+- For .NET dependencies, if it's strongly-named and not installed into
     the GAC, do we need to add binding redirects to configuration? If
     so, where?
--   Does the product need to be installed on each developer machine or
+- Does the product need to be installed on each developer machine or
     is it a dependency that can be checked in to the central source code
     repository and seamlessly updated?
--   If we have to support developers working on different versions of
+- If we have to support developers working on different versions of
     our product at the same time and each of our product versions relies
     on different versions of the dependencies, how does this change the
     manner in which developers switch their envrionments from version to
@@ -71,4 +71,3 @@ if I paid a licensing fee and expect support.)
 your end users are.** It's great that you're getting the latest version
 out as often as possible, but it may not be feasible for your customers
 to take what you're dishing out as soon as it's available.
-

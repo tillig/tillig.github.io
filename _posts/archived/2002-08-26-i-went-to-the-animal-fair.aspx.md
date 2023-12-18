@@ -68,4 +68,3 @@ the second disc is bad. So I've been trying to find a [Fred
 Meyer](http://www.fredmeyer.com) locally to exchange it, but no Freddy's
 in the Portland metro area *has* it. Unbelievable. So I'm still looking.
 Guess I'll have to try again this weekend.
-

@@ -16,9 +16,9 @@ The problem is that the default controller factory in ASP.NET MVC 3 and 4 (the l
 
 The [DefaultControllerFactory](http://aspnetwebstack.codeplex.com/SourceControl/changeset/view/c53dfc7ee085#src/System.Web.Mvc/DefaultControllerFactory.cs) in ASP.NET MVC, in the CreateController method, uses a [ControllerTypeCache](http://aspnetwebstack.codeplex.com/SourceControl/changeset/view/c53dfc7ee085#src/System.Web.Mvc/ControllerTypeCache.cs) internal type to locate the controller type being instantiated. The ControllerTypeCache uses another internal, [TypeCacheUtil](http://aspnetwebstack.codeplex.com/SourceControl/changeset/view/c53dfc7ee085#src/System.Web.Mvc/TypeCacheUtil.cs), to load the set of controllers from the list of referenced assemblies. TypeCacheUtil uses the [BuildManager.GetReferencedAssemblies()](http://msdn.microsoft.com/en-us/library/system.web.compilation.buildmanager.getreferencedassemblies.aspx) method to initialize that list. BuildManager.GetReferencedAssemblies() includes:
 
--   Assemblies that are referenced by the main web application.
--   Assemblies you list in the `<assemblies>` part of web.config.
--   Assemblies built from `App_Code`.
+- Assemblies that are referenced by the main web application.
+- Assemblies you list in the `<assemblies>` part of web.config.
+- Assemblies built from `App_Code`.
 
 Note that none of those automatically include non-referenced, already-built plugin assemblies.
 

@@ -9,7 +9,7 @@ tags: [personal,movies]
 Not sure I agree with the list of best movies... but here's a little bit
 of fun [I saw over at Tanya's](http://www.livejournal.com/users/jezriel/27605.html) and thought I'd participate.
 
-**IMDB's Top 100 Best Movies of All Time**
+## IMDB's Top 100 Best Movies of All Time
 
 Generate this HTML for your own page at [ObeytheFist.com](http://www.obeythefist.com/movies/index.php?list=best).
 
@@ -116,7 +116,7 @@ Generate this HTML for your own page at [ObeytheFist.com](http://www.obeythefist
 | 99 | [Sjunde inseglet, Det (1957)](http://www.imdb.com/Title?tt0050976) | |
 | 100 | [Lola rennt (1998)](http://www.imdb.com/Title?tt0130827) | Finished It |
 
-**IMDB's Top 100 Crappy Movies of All Time**
+## IMDB's Top 100 Crappy Movies of All Time
 
 Generate this HTML for your own page at [ObeytheFist.com](http://www.obeythefist.com/movies/index.php?list=worst).
 

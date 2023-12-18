@@ -21,13 +21,13 @@ in the backed-up source code control system, what else is there?"
 build server just being there and working. But ask yourself some
 questions:
 
--   If you had to re-create your build server, how long would it take
+- If you had to re-create your build server, how long would it take
     you?
--   If someone modifies your build configuration and messes it up, can
+- If someone modifies your build configuration and messes it up, can
     you roll back the changes?
--   How easy is it to add or remove a project from your build
+- How easy is it to add or remove a project from your build
     configuration?
--   How easy is it to set up a brand new build server?
+- How easy is it to set up a brand new build server?
 
 Sure, some of those don't sound like disaster recovery issues, but by
 solving some of the issues, you can make your life easier on others.
@@ -37,19 +37,19 @@ server experience a little more trouble-free. (We use
 [CruiseControl.NET](http://ccnet.thoughtworks.com/) at Corillian, so
 I'll use that in my examples.)
 
--   **Check in your build server configuration.** Store your build
+- **Check in your build server configuration.** Store your build
     server configuration files (e.g., ccnet.config) in source code
     control, just like your product source. If you ever have to restore
     the configuration or roll back a bad change, this will make it
     vastly easier.
--   **Isolate build artifacts from the rest of the server.** Put
+- **Isolate build artifacts from the rest of the server.** Put
     everything that has to do with your build - your source, the build
     server configuration files, state information - in an isolated
     folder. If you can, put it on its own logical drive. This will help
     you in backing up, restoring, and moving to a new server (should you
     ever need to). You'll know that all you need for the build server to
     run is in this one folder; everything else is peripheral.
--   **Standardize everything.** Your source code repository layout. The
+- **Standardize everything.** Your source code repository layout. The
     build output structure. The format of logs that get generated.
     Everything. This doesn't sound like it'd be helpful in easing your
     continuous integration experience, but it is very helpful. By
@@ -58,7 +58,7 @@ I'll use that in my examples.)
     the build configuration. It also makes your configuration files look
     a lot like copy/paste work with minor substitutions. This ties into
     the next tip...
--   **Generate your server configuration.** If you have a standard
+- **Generate your server configuration.** If you have a standard
     repository layout, a standard build output structure, and so on,
     you're only a step away from using a code generation tool to
     generate any server configuration you need. We have a small XML
@@ -75,7 +75,7 @@ I'll use that in my examples.)
     **A keen side benefit of all this is that adding or removing a
     project on the server is as simple as updating the small XML
     configuration file and regenerating all the config.**
--   **Build on a virtual machine.** If your build server is a virtual
+- **Build on a virtual machine.** If your build server is a virtual
     machine, you can easily take periodic snapshots of the system and
     restore the whole system to a previous state. It also allows you to
     start new build servers easier by cloning a good build server image

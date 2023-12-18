@@ -35,4 +35,3 @@ could combine that with [the stage kit coming in
 June](http://www.joystiq.com/2008/01/13/rock-band-stage-show-coming-to-gamestop-in-june/)
 and have yourself a full production, ready to go on tour. I'd totally
 buy it.
-

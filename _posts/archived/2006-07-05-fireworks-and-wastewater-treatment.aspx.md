@@ -24,38 +24,36 @@ goodies.]({{ site.url }}/images/20060704fireworks01jj9.jpg)
 year](/archive/2005/07/05/independence-day-warzone.aspx), removing a few
 things we didn't end up needing and adding a few we decided we did:
 
--   Two (2) shovels - One scoop, one spade
--   Two (2) pairs leather gloves (one for each of us)
--   Two (2) folding camp chairs
--   One (1) folding camp table
--   One (1) cooler filled with:
-    -   Six (6) bottles water, two (2) frozen
-    -   Six (6) bottles Gatorade (fruit punch flavor)
+- Two (2) shovels - One scoop, one spade
+- Two (2) pairs leather gloves (one for each of us)
+- Two (2) folding camp chairs
+- One (1) folding camp table
+- One (1) cooler filled with:
+  - Six (6) bottles water, two (2) frozen
+  - Six (6) bottles Gatorade (fruit punch flavor)
 
--   Two (2) moist wash cloths in plastic bags
--   One (1) army surplus canvas jacket (for Travis to wear during show;
+- Two (2) moist wash cloths in plastic bags
+- One (1) army surplus canvas jacket (for Travis to wear during show;
     Jenn to borrow fire uniform)
--   One (1) pair knee pads (for Travis to wear during show; Jenn doesn't
+- One (1) pair knee pads (for Travis to wear during show; Jenn doesn't
     own any)
--   One (1) digital camera
--   Two (2) books (for reading during off-times)
--   One (1) iPod
--   Two (2) cell phones with car chargers for each
--   One (1) bottle Excedrin Migraine
--   One (1) box pseudoephedrine
--   One (1) box DayQuil
--   One (1) bottle SPF 45 sport sunscreen
--   One (1) can of spray mosquito repellant
--   Two (2) pairs sunglasses (one each for Travis and Jenn,
+- One (1) digital camera
+- Two (2) books (for reading during off-times)
+- One (1) iPod
+- Two (2) cell phones with car chargers for each
+- One (1) bottle Excedrin Migraine
+- One (1) box pseudoephedrine
+- One (1) box DayQuil
+- One (1) bottle SPF 45 sport sunscreen
+- One (1) can of spray mosquito repellant
+- Two (2) pairs sunglasses (one each for Travis and Jenn,
     respectively)
--   One (1) beach umbrella
--   Two (2) hats (one each for Travis and Jenn, respectively)
--   One (1) pocketknife
--   One (1) metal rake
--   One (1) container Wet Wipes moist towelettes
--   Assorted boxes dry food (crackers, granola bars, etc.)
-
-
+- One (1) beach umbrella
+- Two (2) hats (one each for Travis and Jenn, respectively)
+- One (1) pocketknife
+- One (1) metal rake
+- One (1) container Wet Wipes moist towelettes
+- Assorted boxes dry food (crackers, granola bars, etc.)
 
  To that list next year, we need to add one (1) box Imodium (don't ask)
 and we will probably have to substitute some pseudoephedrine analog

@@ -18,9 +18,9 @@ Watching Me" that you might have heard in the background of a Geico
 commercial. Anyway, if you're into this sort of thing, there are some
 great tracks they've made available for free.
 
--   Geico will let you have [their version of "Somebody's Watching
+- Geico will let you have [their version of "Somebody's Watching
     Me."](http://www.geico.com/about/commercials/music/)
--   Mysto & Pizzi have [a download
+- Mysto & Pizzi have [a download
     page](http://www.mystoandpizzi.com/download/) with tracks from Kanye
     West, Britney Spears, and Beyonce.
 
@@ -37,4 +37,3 @@ from my friends? *All the time.* It gets their music out there, gets the
 names out there, and gets them fans... who will keep coming back, see
 concerts, buy the merch, etc. Makes me wonder if they aren't onto
 something here.
-

@@ -44,4 +44,3 @@ I'm hoping these cats grow out of it. It'd be nice not to have to
 consider wrapping the tree in chicken wire or something to stop the
 inevitable destruction. Hey, at least we've not seen puke with fake pine
 needles in it. Yet.
-

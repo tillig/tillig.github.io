@@ -22,6 +22,7 @@ item template of `<li><%# DataBoundField %></li>` to make an unordered
 list... and the output HTML is no more or less than exactly what you
 specified - great control over the HTML. The DataPager control is an
 extender for any databound control that allows you to easily add paging
+
 - no more having to natively support it in your controls.
 
  The JavaScript developments were the big show here, though. Full

@@ -14,9 +14,9 @@ pages up there so folks coming in can still refer to them if they really
 want to. The "tributes" sections are gone, too, since they really never
 got updated or anything. Hopefully you can just read about what I'm into
 or whatever in the blog.
- 
+
  Oh, and "AssKick!", as awesome of an idea as it was, is also gone.
- 
+
  I'm also pleased to announce that, in related news, I have MUCH more
 free space on my account now that all of that stuff is gone. Maybe now I
 can post some more interesting and changing items in the coming times.

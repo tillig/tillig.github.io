@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 297
 tags: [dotnet,personal]
 ---
+<!--markdownlint-disable MD036 -->
 *9:22a*
 
  Second week of training is now underway. This time it's *MS-2349:

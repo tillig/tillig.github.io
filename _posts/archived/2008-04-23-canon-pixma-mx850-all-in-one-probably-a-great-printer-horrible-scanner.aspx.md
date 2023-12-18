@@ -24,15 +24,14 @@ It's already in the box to be taken back.
 
 I've learned something, but I'm not sure what.
 
--   Should I not trust all-in-one units because their scan capabilities
+- Should I not trust all-in-one units because their scan capabilities
     will be mediocre at best compared to a dedicated scanner?
--   Should I not trust units with [CIS
+- Should I not trust units with [CIS
     scanners](http://www.webopedia.com/TERM/C/contact_image_sensor.html)
     (as both the HP and Canon had) and look for something with a [CCD
     scanner](http://en.wikipedia.org/wiki/Charge-coupled_device)?
--   Should I not trust units that can attach over the network and/or
+- Should I not trust units that can attach over the network and/or
     USB? (Though the connection didn't matter when I tried it out both
     ways, so I doubt it's this one.)
 
 Anyway, back to square one.
-

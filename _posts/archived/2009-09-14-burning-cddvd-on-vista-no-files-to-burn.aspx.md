@@ -19,4 +19,3 @@ disc alongside the folder magically made things work.
 
 What's up with that crazy must-have-two-files requirement? Who thought
 that was a good idea?
-

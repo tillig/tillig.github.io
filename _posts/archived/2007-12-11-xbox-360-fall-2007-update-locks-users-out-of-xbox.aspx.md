@@ -23,6 +23,7 @@ the Fall 2007 one, but the Spring 2007 one) and that's supposed to at
 least unlock things long enough for me to recover my profile so I can
 play... well, anything.  Can't do much without your profile.  As for
 being "unlocked," the answer was just to "keep trying to take the update
+
 - when you can take it, you know it's fixed."  No ETA on that, by the
 way.
 
@@ -32,4 +33,3 @@ sure this crap happens on every dashboard update.
 **UPDATE:** The problem was [corruption on my hard
 drive](/archive/2008/01/28/status-on-xbox-live-drm-and-dashboard-problems.aspx).
 They ended up sending me a new hard drive.
-

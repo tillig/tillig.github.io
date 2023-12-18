@@ -7,7 +7,7 @@ disqus_identifier: 1237
 tags: [media,movies]
 ---
 We went out last night to see
-*[Transformers](http://us.imdb.com/title/tt0418279/)* for my birthday. 
+*[Transformers](http://us.imdb.com/title/tt0418279/)* for my birthday.
 I had heard from some friends that they liked it, so I went in sort of
 interested and came out feeling like this was the coolest thing *ever*.
 
@@ -57,4 +57,3 @@ wanted.
 
 I definitely got my money's worth and I'm hoping this hits HD DVD sooner
 rather than later.  Good times.
-

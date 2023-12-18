@@ -72,4 +72,3 @@ Wait, what? "Phoe, you *shot* the bear?"
 
 Um. Well, uh... I'm not really sure where she picked that one up, but... I
 guess... bear problem solved, right?
-

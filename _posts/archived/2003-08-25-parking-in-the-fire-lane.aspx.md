@@ -19,7 +19,6 @@ like this going on:
 ![Parked in the fire lane... (7k
 image)]({{ site.url }}/images/20030825firelane1.jpg)
 
-
  What? What is this going on here? Look closely, and you can see it -
 the *red curb marked "No Parking"* that the car is parked along. For
 those not in the know, this is called the "fire lane." It's there in
@@ -30,7 +29,6 @@ complex.
 
 ![Yes, that's definitely the fire lane. (18k
 image)]({{ site.url }}/images/20030825firelane2.jpg)
-
 
  That's what I thought. Old people who shouldn't be driving, parking
 illegally *for hours at a time* and risking the safety of my apartment.

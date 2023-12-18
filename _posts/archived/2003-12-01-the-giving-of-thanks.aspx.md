@@ -29,12 +29,12 @@ Candleholders]({{ site.url }}/images/20031201candleholders.jpg)
 a few problems with candleholders, particularly candleholders of this
 nature:
 
--   They're large, and we're out of storage space.
--   They're delicate, and the Tiny Cat will knock anything off a shelf
+- They're large, and we're out of storage space.
+- They're delicate, and the Tiny Cat will knock anything off a shelf
     if you look away for more than two minutes.
--   They hold *candles*, and even unscented candles bug my allergies
+- They hold *candles*, and even unscented candles bug my allergies
     like nothing else.
--   You can only use them during a short period of the year.
+- You can only use them during a short period of the year.
 
 Sigh.
 

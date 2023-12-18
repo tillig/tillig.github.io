@@ -24,4 +24,3 @@ interface with something you didn't write (SharePoint, .NET Framework)
 and you're still going to want to test that interface code, which is
 where Isolator comes in. I'm so glad [they've got an open source license
 now](http://www.typemock.com/free_open_source_license_form.php)!
-

@@ -54,28 +54,28 @@ still simple.
 
 To create your own scheme:
 
-1.  Go into the twhirl "colorschemes" folder (C:\\Program
+1. Go into the twhirl "colorschemes" folder (C:\\Program
     Files\\twhirl\\colorschemes) and you'll see a bunch of XML files in
     there. The names of these files roughly correspond to the names of
     the available twhirl color schemes.
-2.  Find one that is reasonably similar to what you want yours to look
+2. Find one that is reasonably similar to what you want yours to look
     like and copy it.
-3.  Rename the copy to a short/small version of the name of your new
+3. Rename the copy to a short/small version of the name of your new
     color scheme - for example, if your color scheme is "Navy Blue" you
     might call the file "navyblue.xml" or something.
-4.  Open the copy in a text editor. The XML is pretty self explanatory.
+4. Open the copy in a text editor. The XML is pretty self explanatory.
     Read through it to familiarize yourself, then...
-5.  Update the \<title\>, \<version\>, \<author\>, and \<date\>
+5. Update the \<title\>, \<version\>, \<author\>, and \<date\>
     information. The title is what will appear in twhirl.
-6.  In the \<colors\> section, you'll see all sorts of available
+6. In the \<colors\> section, you'll see all sorts of available
     options. The value in each tag is a hex color number. Use a [hex
     color picker](http://www.colorschemer.com/online.html) or your
     favorite paint tool to update the colors.
-7.  When you think you have it right, save your changes and exit twhirl.
+7. When you think you have it right, save your changes and exit twhirl.
     Make sure it's not running - just closing the chat or the accounts
     window won't do it. You have to click "Exit twhirl" from the
     accounts window.
-8.  Restart twhirl and switch to your new color scheme. If you need to
+8. Restart twhirl and switch to your new color scheme. If you need to
     make adjustments, switch to a different color scheme before exiting
     twhirl. (I had trouble where it seemed to cache the previous color
     scheme values if I didn't do that.)
@@ -83,15 +83,15 @@ To create your own scheme:
 When I created my custom scheme, I wanted to address the following
 issues:
 
--   **Easy readability** - I'm not a dark-background-light-text person,
+- **Easy readability** - I'm not a dark-background-light-text person,
     so I picked a white background with black text.
--   **"Standard" link color** - The web has sort of conditioned people
+- **"Standard" link color** - The web has sort of conditioned people
     (me) to think link == blue. Not creative, but I don't have to think
     about what's clickable and what's not.
--   **Ability to locate relevant tweets** - I want to easily be able to
+- **Ability to locate relevant tweets** - I want to easily be able to
     scroll through and find tweets from me and tweets to me (both
     replies and direct messages).
--   **Nothing too ridiculously garish** - I was limited a bit by the
+- **Nothing too ridiculously garish** - I was limited a bit by the
     inflexibility of the theme options, but basically I tried for
     something that wasn't, like, "high contrast" or something overtly
     offensive to my rods and cones.
@@ -110,4 +110,3 @@ Overall, twhirl is pretty good. Snitter is a little better from a style
 flexibility perspective, and if it gets updated to have some of the
 features I like, I'll probably switch back. On the other hand, if twhirl
 can give me some additional style flexibility, I'll be totally won over.
-

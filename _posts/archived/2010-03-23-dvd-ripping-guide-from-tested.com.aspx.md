@@ -23,4 +23,3 @@ purpose.
 
 Nevertheless, a good guide, especially if you're just looking to stream
 the movie content.
-

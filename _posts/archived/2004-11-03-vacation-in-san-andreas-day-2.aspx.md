@@ -84,6 +84,7 @@ Santos so now I have a place to stay wherever I'm at. Gotta love it.
  Heard from home that Bush got elected for a second term and [Oregon
 Measure
 36](http://www.sos.state.or.us/elections/nov22004/guide/meas/m36_bt.html)
+
 - a measure *amending the state constitution* to ban gay marriage -
 passed. I'm thinking about staying in San Andreas and never coming home
 because it's going to hell in a handbasket out there. I can't say it any

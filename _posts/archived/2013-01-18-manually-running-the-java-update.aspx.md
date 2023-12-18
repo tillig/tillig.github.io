@@ -21,10 +21,8 @@ The only way I can get this thing to go away is to manually run the
 update (or download the entire package and manually install the update).
 For my own reference, here's how I do it:
 
-1.  Log in as the administrative user.
-2.  Run "C:\\Program Files (x86)\\Common Files\\Java\\Java
+1. Log in as the administrative user.
+2. Run "C:\\Program Files (x86)\\Common Files\\Java\\Java
     Update\\jucheck.exe" with elevated privileges.
-3.  Follow the prompts to get the update and make sure to uncheck all
+3. Follow the prompts to get the update and make sure to uncheck all
     the freeware crap they want to install alongside it.
-
-

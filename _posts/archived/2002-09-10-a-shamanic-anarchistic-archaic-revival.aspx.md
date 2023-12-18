@@ -8,11 +8,12 @@ tags: [blog,music]
 ---
 The longer I do this whole "blog" thing, the more I realize several
 things:
-1.  I can type what I'm thinking faster than I can write it
-2.  I can write what I'm thinking faster than I can say it
-3.  I think more clearly in my head than I am able to convey in a verbal
+
+1. I can type what I'm thinking faster than I can write it
+2. I can write what I'm thinking faster than I can say it
+3. I think more clearly in my head than I am able to convey in a verbal
     fashion, yet
-4.  I seem to be reasonably able to put down what I'm thinking in a
+4. I seem to be reasonably able to put down what I'm thinking in a
     written format
 
 The reason I think this is somewhat important is my ongoing nagging at

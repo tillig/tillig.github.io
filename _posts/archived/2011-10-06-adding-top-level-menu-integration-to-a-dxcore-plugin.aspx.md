@@ -44,11 +44,11 @@ it's for.
 **Select the "menuAction" Action and open the Properties window.** You
 need to set...
 
--   **ActionName** - Set this to the name of the action. It won't be
+- **ActionName** - Set this to the name of the action. It won't be
     visible, but I usually set this to the text I expect to see in the
     menu.
--   **ButtonText** - This is the text you'll actually see in the menu.
--   **CommonMenu** - This is the top-level menu to which your item
+- **ButtonText** - This is the text you'll actually see in the menu.
+- **CommonMenu** - This is the top-level menu to which your item
     should be added.
 
 For our demo integration, we'll set "ActionName" and "ButtonText" to

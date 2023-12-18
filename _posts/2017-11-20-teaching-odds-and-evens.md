@@ -14,7 +14,7 @@ The other night we did, "Make a list of ten odd numbers." Easy enough. They'd be
 
 To help cement the pattern in her mind, I thought I'd show her how all the odd numbers end in 1, 3, 5, 7, or 9. I wrote the numbers in a little table like this so the pattern would be easy to see:
 
-```
+```text
 1    11    21    31
 3    13    23    33
 5    15    25    35

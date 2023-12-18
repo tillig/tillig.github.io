@@ -14,8 +14,7 @@ I got the following email from my mom the other day:
 > Do you pick the sons-of-bitches up and put them back in the box and
 > never say a word (maybe a small "shit" would be uttered) or do you
 > throw the works away and tell everyone what happened?
->  
->  GUESS WHAT YOUR MOTHER DID????
-
+>
+> GUESS WHAT YOUR MOTHER DID????
 
  *My mom rules.*

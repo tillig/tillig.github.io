@@ -20,14 +20,13 @@ ever happened to [Crazy Daisy
 Ed](http://www.everything2.com/index.pl?lastnode_id=379673&node_id=27419)...
 
  How did I get there? It went something like this:
--   Heard lyrics to Kylie Minogue song: "I thought that I was going
+
+- Heard lyrics to Kylie Minogue song: "I thought that I was going
     crazy / Just having one of those days, yeah..."
--   I wonder why she used "days, yeah" to rhyme with "crazy." That
+- I wonder why she used "days, yeah" to rhyme with "crazy." That
     doesn't really work. What rhymes with "crazy?" "Daisy" works...
--   Crazy / Daisy...
--   Hey, I wonder what happened to Crazy Daisy Ed?
-
-
+- Crazy / Daisy...
+- Hey, I wonder what happened to Crazy Daisy Ed?
 
  See how that works? That one was pretty simple. It's sort of like "[Six
 Degrees of Kevin Bacon](http://www.cs.virginia.edu/oracle/)" - any

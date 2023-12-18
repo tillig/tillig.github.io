@@ -35,4 +35,3 @@ bearable. They also fairly recently got this cold air machine that blows
 supercooled air and freezes you right up, making things, again, more
 bearable. It beats the crap out of putting ice on your face, [which
 doesn't work](/archive/2007/08/27/laser-hair-removal-treatment-1.aspx).
-

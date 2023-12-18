@@ -77,15 +77,14 @@ run this script:
 
 What it does is:
 
--   Iterate through all of the tracks in your library and find the ones
+- Iterate through all of the tracks in your library and find the ones
     that aren't Podcasts that have no album artist.
--   Creates a playlist.
--   Sets the artist as the album artist on the tracks it found.
--   Adds those tracks to the playlist so you know which tracks were
+- Creates a playlist.
+- Sets the artist as the album artist on the tracks it found.
+- Adds those tracks to the playlist so you know which tracks were
     updated.
 
 In the event it does something wrong, you can always select all the
 tracks in the created playlist and set the album artist back to empty.
 
 Again, YMMV, use at your own risk... but it worked great for me.
-

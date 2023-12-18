@@ -11,7 +11,7 @@ tags: [media,music,movies,hardware,home,synology]
 
 I've tried to keep that up to date somewhat, but I figured it was time to provide a nice, clean update with everything I've got set up thus far and a little info on where I'm planning on taking it. Some of my requirements have changed, some of the ideas about what I want out of it have changed.
 
-# Requirements
+## Requirements
 
 - **Access to my DVD collection**: I want to be able to get to all of the movies and TV shows in my collection. I am not terribly concerned with keeping the menus or extra features, but I do want the full audio track and video without noticeably reduced fidelity.
 - **Family acceptance factor**: I want my wife and daughter to be able to navigate through the system and find what they want to watch with minimal effort.
@@ -19,7 +19,7 @@ I've tried to keep that up to date somewhat, but I figured it was time to provid
 - **Access to my music**: I want to be able to listen to my music collection from any room in the house.
 - **As compatible as possible**: When choosing formats, software, communication protocols, etc., I want it to be compatible with as many devices I own as possible. I have an Android phone, an iPod classic, an iPad, Windows machines, a PS4, an Xbox 360, a Kindle Fire, and a Google Chromecast.
 
-# Hardware
+## Hardware
 
 My hardware footprint has changed a bit since I started, but I'm in a pretty comfortable spot with my current setup and I think it has a good way forward.
 
@@ -28,7 +28,7 @@ My hardware footprint has changed a bit since I started, but I'm in a pretty com
 - **Playstation 3**: My main TV has an Xbox 360, a PS3, and a small home theater PC attached to it... but I primarily use the PS3 for the front end for all of this stuff. The Xbox 360 may become the primary item once the Plex app is released for it. The PC was primary for a while but it's pretty underpowered and cumbersome to turn on, put to sleep, etc.
 - **Google Chromecast**: Upstairs I have the Chromecast and an Xbox 360 on it. The Chromecast does pretty well as the movie front end. I sort of switch between this and the 360, but I find I spend more time with the Chromecast when it comes to media.
 
-# Software
+## Software
 
 I use a fairly sizable combination of software to manage my media collection, organize the files, and convert things into compatible formats.
 
@@ -42,13 +42,13 @@ I use a fairly sizable combination of software to manage my media collection, or
 - [**Music Collector**](http://www.collectorz.com/music/): I use this for tracking [my music collection](http://cloud.collectorz.com/tillig/music). The feature set is nice, though the metadata isn't quite as clean. Again, big help when looking at new stuff to make sure I don't get duplicates as well as for insurance purposes.
 - [**CrashPlan**](http://www.code42.com/crashplan/): I back up my music and photo collection using CrashPlan. I don't have my movies backed up because I figured I can always re-rip from the original media... but with CrashPlan it's unlimited data, so *I could back it up if I wanted*. CrashPlan runs on my MediaSmart home server right now; if I moved everything to Plex, I might switch CrashPlan to run on the DS1010+ instead.
 
-# Media Formats and Protocols
+## Media Formats and Protocols
 
 - **DLNA**: I've been a fan from the start of DLNA, but the clients and servers just weren't quite there when I started out. This seems to be much less problematic nowadays. The PS3 handles DLNA really well and I even have a DLNA client on my Android phone so I can easily stream music. This is super helpful in getting compatibility out there.
 - **Videos are MP4**: I started out with full DVD rips for video, but as I've moved to Plex [I've switched to MP4]({{ site.url }}/archive/2014/03/18/switched-dvd-archiving-to-mp4.aspx). While it can be argued that MKV is a more flexible container, MP4 is far more compatible with my devices. The video codec I use is x264. For audio, I put the first track as a 256kbps AAC track (for compatibility) and make the second track the original AC3 (or whatever) for the home theater benefit. [I blogged my settings info.]({{ site.url }}/archive/2014/03/18/switched-dvd-archiving-to-mp4.aspx)
 - **Audio is MP3, AAC, and Apple Lossless**: I like MP3 and [get them from Amazon](http://www.amazon.com/MP3-Music-Download/b/?_encoding=UTF8&*Version*=1&*entries*=0&camp=1789&creative=390957&linkCode=ur2&node=163856011&redirected=1&tag=mhsvortex&linkId=ILDIAON5TQZJS6ML) on occasion, but I am still not totally convinced that 256kbps MP3 is *the way and the light*. I still get a little scared that there'll be some better format at some point and if I bought the MP3 directly I won't be able to switch readily. I still buy CDs and I rip those into Apple Lossless format. (Asset UPnP will transcode Apple Lossless for devices that need the transcoding; or I can plug the iPod/iPad in and play the lossless directly from there.) And I have a few AAC files, but not too many.
 
-# Media Organization
+## Media Organization
 
 **Videos are organized using the Plex recommendations**: I have a share on the Synology DS1010+ called "video" and in there I have "Movies," "TV," and "Home Movies" folders. I have Plex associating the appropriate data scrapers for each folder.
 
@@ -90,7 +90,7 @@ You can read about the Plex media naming recommendations here:
 
 Picasa works well with this sort of folder structure and it appears nicely in DLNA clients when they browse the photos by folder via Plex.
 
-# Network
+## Network
 
 My main router is a [Netgear WNDR3700v2](http://www.amazon.com/dp/B002HWRJY4?tag=mhsvortex) and *I love it*. I've been through a few routers and wireless access points in the past but this thing has been solid and flexible enough with the out-of-the-box firmware such that I don't have to tweak with it to get things working. It just works.
 
@@ -98,7 +98,7 @@ I have wired network downstairs between the office/servers and the main TV/PS3/X
 
 The router provides simultaneous dual-band 2.4GHz and 5GHz wireless-N through the house which covers *almost everywhere* except a few corners. I've just recently added [some Netgear powerline adapters](http://www.amazon.com/dp/B008LTPEXU?tag=mhsvortex) to start getting wired networking upstairs into places where the wireless won't reach.
 
-# The Road Ahead
+## The Road Ahead
 
 This setup works pretty well so far. I'm really enjoying the accessibility of my media collection and I find I'm using it even more often than I previously was. So where do I go next?
 

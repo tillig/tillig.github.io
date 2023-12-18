@@ -22,4 +22,3 @@ VB6!]({{ site.url }}/images/20071010vb6time.png)
 I can see the sales droid selling this now, invoking adjectives like
 "minimalist" and "rugged."  It doesn't matter what it looks like as long
 as it works, right?  Right?
-

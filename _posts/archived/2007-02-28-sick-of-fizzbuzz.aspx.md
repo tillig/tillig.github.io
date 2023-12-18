@@ -33,6 +33,7 @@ three and five print "FizzBuzz.")
 
  [Hanselman has a pretty good
 response](http://www.hanselman.com/blog/YouCantTeachHeightMeasuringProgrammerCompetenceViaFizzBuzz.aspx)
+
 - that some features are inherent in the person ("When you're putting
 together a basketball team, you have to remember that you can't teach
 height."). I sort of buy that and sort of don't. There have been
@@ -45,6 +46,7 @@ times may have changed since then).
 
  [Phil Haack brings up an interesting
 corollary](http://haacked.com/archive/2007/02/27/Why_Cant_Programmers._Read.aspx)
+
 - that it's fascinating how many people solved Atwood's puzzle in the
 comments (utterly missing the point) and got it wrong because they
 didn't read the requirements thoroughly. That's just as bad as not being
@@ -62,7 +64,6 @@ Grind](http://www.larkware.com/dg7/TheDailyGrind1088.aspx):
 > basic techniques, brute force, and good skills at looking things up
 > can go a long way in this industry - not that those are the most
 > common skills in this industry (or any other) either.
-
 
  **So there are really *two issues* here: What can you *do* and what do
 you *know*?**

@@ -17,12 +17,12 @@ cleanup in a more automated fashion.
 
 As a refresher, this page lets you...
 
--   Clear the error log.
--   See how many referrals you have in your database.
--   Remove search engine and spam referrals from the database.
--   Reindex the referrals table.
--   Shrink the database.
--   See additional stats like table and overall database size.
+- Clear the error log.
+- See how many referrals you have in your database.
+- Remove search engine and spam referrals from the database.
+- Reindex the referrals table.
+- Shrink the database.
+- See additional stats like table and overall database size.
 
 This new version adds some [super rudimentary] AJAX goodness so you can
 click the button to remove the junk referrals and it will iterate over
@@ -35,7 +35,7 @@ over the web.)
 
 Anyway, drop the two enclosed pages into your /aspx/Admin folder and
 you'll be able to access them after logging into the Admin console by
-visiting http://yourblog/admin/DatabaseMaintenance.aspx. It won't add
+visiting <http://yourblog/admin/DatabaseMaintenance.aspx>. It won't add
 any navigation links to the site into the page, so you'll have to
 manually enter the URL to get there.
 
@@ -52,4 +52,3 @@ I'm hoping that Subtext enables the ability to either stop tracking
 referrals altogether or enables some sort of spam filter on referrals so
 these never make it into the logs to begin with.**I shrank my database
 from 245MB to 23MB just by running this maintenance.**
-

@@ -72,4 +72,3 @@ the mall always smells so sickeningly sweet it catches my breath.
 
 OK, the ham sandwich appears to be dying down. I can probably take this
 mask off and get back to work.
-

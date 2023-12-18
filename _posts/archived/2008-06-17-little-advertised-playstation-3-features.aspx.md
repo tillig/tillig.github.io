@@ -75,4 +75,3 @@ partition your hard drive and install a second OS. It reminds me of [the
 short-lived PS2 Linux kit](http://playstation2-linux.com/) they had out.
 I'm not sure what your options are for OS right now, but it's a
 forward-thinking option.
-

@@ -4,8 +4,9 @@ title: "Training and Rubberneckers"
 date: 2003-06-18 -0800
 comments: true
 disqus_identifier: 274
-tags: [personal,net]
+tags: [personal,dotnet]
 ---
+<!--markdownlint-disable MD036 -->
 I'm home tonight, posting through the ever-speedy dial-up connection
 I've got here, freshly out of training. As is the emerging standard,
 here is the play-by-play for the training and, in fact, the last three
@@ -441,7 +442,6 @@ I've seen how this stuff works, and I am pretty sure I saw the extent of
 my damage... $600 is a bit on the high side, but, well, I guess that's
 why I pay insurance.
 
-
  *3:02p*
 
  I'm realizing that I have to go to work tomorrow and I don't wanna.
@@ -468,4 +468,3 @@ more time.
  *4:30p*
 
  That's that! I'm outta here!
-

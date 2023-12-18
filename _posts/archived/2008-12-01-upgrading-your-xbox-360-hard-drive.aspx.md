@@ -24,4 +24,3 @@ content, which proves that the content was still licensed to the
 console, not just his account.
 
 Maybe an upgrade will be in order soon.
-

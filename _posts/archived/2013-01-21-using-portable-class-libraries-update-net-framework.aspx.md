@@ -50,4 +50,3 @@ go trying to manually hack around and install it. But don't freak out,
 that version is expected and it's OK. The .NET framework patches should
 allow you to dynamically redirect that reference at runtime to the
 appropriate version (e.g., 4.0.0.0) and the error will go away.
-

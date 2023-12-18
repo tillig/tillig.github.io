@@ -26,4 +26,3 @@ Window](http://dxcorecommunityplugins.googlecode.com/svn/trunk/DX_ContextLab/scr
 If you want it (or any of the other awesome FREE community plugins),
 head over to [the DXCore Community Plugins
 site](http://code.google.com/p/dxcorecommunityplugins/).
-

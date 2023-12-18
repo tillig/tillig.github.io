@@ -75,4 +75,3 @@ I could go on, but that won't really help anything, either. Suffice to
 say, I am looking forward to the joy of parenting, whenever it decides
 to arrive. In the meantime, I'm headed back to work next week and I will
 be figuring out how to make all this work together.
-

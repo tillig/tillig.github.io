@@ -12,27 +12,27 @@ Media Center last night, and I have to say - the playback quality is
 
 The test:
 
--   Pick a movie from my instant queue. From that movie, pick a section
+- Pick a movie from my instant queue. From that movie, pick a section
     as the test.
--   Watch the section of the movie from the Xbox 360.
--   Watch the section of the movie through Windows Media Center
+- Watch the section of the movie from the Xbox 360.
+- Watch the section of the movie through Windows Media Center
     (Silverlight based player).
--   On the same PC as the Windows Media Center test, watch the section
+- On the same PC as the Windows Media Center test, watch the section
     of the movie through the normal Netflix streaming player (Windows
     Media Player based player).
 
 I ran the test. The results:
 
--   The Xbox 360 had the best picture and sound quality. Streaming was
+- The Xbox 360 had the best picture and sound quality. Streaming was
     smooth with no hiccups and the video came through in HD. Initial
     video buffering was fast and playback started in a couple of
     seconds.
--   The standard Netflix player (Windows Media Player based) was the
+- The standard Netflix player (Windows Media Player based) was the
     next best. The video wasn't as high quality as the Xbox 360, but the
     video was smooth and watchable, and the audio was reasonable.
     Initial video buffering was fast and playback started in a couple of
     seconds.
--   The Windows Media Center integrated player (Silverlight based) was
+- The Windows Media Center integrated player (Silverlight based) was
     unwatchable. The video looked like it wanted to stream in HD, but
     something (network? processor speed? video card?) wasn't liking it
     so much, so the video was very jumpy, like you'd see about half a
@@ -50,4 +50,3 @@ network that caused the issue.
 
 Long story short, though, I'm totally unimpressed. I had high hopes,
 too. Guess I'll stick with the Xbox 360 streaming for now.
-

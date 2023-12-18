@@ -56,4 +56,3 @@ achievements.  PS3 doesn't have achievements (there's a notion of
 multiple people in at the same time, so we ended up playing with only me
 signed in even though Jenn has her own account. We both thought that was
 sort of weird. Hopefully they'll fix that in the future.
-

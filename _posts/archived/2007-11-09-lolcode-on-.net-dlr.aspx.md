@@ -11,4 +11,3 @@ Lam](http://www.iunknown.com/) and [Martin
 Maly](http://www.zapisnik.net/) have implemented
 [LOLCODE](http://lolcode.com/) on the DLR.  [Go check that
 out](http://www.iunknown.com/2007/11/lolcode-on-dlr.html).
-

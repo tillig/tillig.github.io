@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 254
 tags: [dotnet,personal]
 ---
+<!--markdownlint-disable MD036 -->
 Well, I'm back from training and, after a stressful weekend (which I
 will try to post more on later), I'm here to fill you in on last week.
 
@@ -490,6 +491,7 @@ content and can't vouch for it, its current state, or anything else
 content-related.
 
  She didn't seem to like that so much, so she got snippy with a, "No, no
+
 - LISTEN TO ME!" and then she repeated the question. Because getting
 pissy with me is going to somehow enlighten me as to the status of
 content I don't own.

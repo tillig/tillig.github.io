@@ -17,4 +17,3 @@ Plus, with the release, **they're giving away free licenses**. Try Racer
 out, blog about the experience, and tell Typemock about it, and you'll
 get a license for Racer. The full details are [over on the Typemock
 blog](http://blog.typemock.com/2009/06/easy-deadlock-detection-get-free.html).
-

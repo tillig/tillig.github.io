@@ -26,6 +26,7 @@ and/or have nothing to do with... it's brilliance. It's like a nonstop
 party. Maybe I should be paid to go to training all day.
 
  Second, while I absolutely hated school - both high school and college
+
 - I dig the whole technical training gig. Maybe it's the fact that I'm
 learning something I see value in, or maybe it's that I'm learning
 things that I find interesting. Maybe both. The fact of the matter is,

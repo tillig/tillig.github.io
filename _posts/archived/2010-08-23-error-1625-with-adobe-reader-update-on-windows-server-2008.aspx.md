@@ -20,12 +20,11 @@ Today I found [this forum
 thread](http://forums.adobe.com/thread/674459?tstart=0) with the actual
 answer:
 
-1.  Open C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0 in
+1. Open C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0 in
     Windows Explorer.
-2.  Right-click AdobeARM.exe and "Run As Administrator."
-3.  When the "update available" balloon pops up in the corner, tell it
+2. Right-click AdobeARM.exe and "Run As Administrator."
+3. When the "update available" balloon pops up in the corner, tell it
     to install. It should work now because it has the right permissions.
 
 Done and done. Sort of annoying that Adobe hasn't fixed this but...
 well, it is what it is.
-

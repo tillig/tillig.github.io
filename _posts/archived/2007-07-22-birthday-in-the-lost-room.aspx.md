@@ -43,7 +43,7 @@ yet, definitely do - it was fantastic.  Anyway, he went to the trouble
 of cutting out all of this perfectly fitting foam to package up a copy
 of the DVD, prop replicas of the bus ticket and the pen, and an actual
 room key he got from a collector on eBay (so, no, it's not a prop
-replica, nitpickers; it's from a real hotel room, not the Lost Room). 
+replica, nitpickers; it's from a real hotel room, not the Lost Room).
 It's super cool - check it out:
 
 ![Lost Room gift box: DVD, bus ticket, pen, and
@@ -57,4 +57,3 @@ experience under my belt (along with, probably, a few more pounds).  A
 lot of life change since 30.  I sense more change on the horizon, but I
 guess as a friend once told me, "life is change."  We'll see what the
 future holds.
-

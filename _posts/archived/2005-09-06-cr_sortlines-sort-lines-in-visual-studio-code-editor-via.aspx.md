@@ -9,7 +9,6 @@ tags: [downloads,vs,coderush]
 **UPDATE: CR_SortLines has found a new home with the [DXCore Community
 Plugins project](http://code.google.com/p/dxcorecommunityplugins/). Head
 over there to get the latest and read more!**
- 
 
 Just like [I use the "Join Lines" function a
 lot](/archive/2005/08/30/cr_joinlines-join-lines-in-visual-studio-code-editor-via.aspx),

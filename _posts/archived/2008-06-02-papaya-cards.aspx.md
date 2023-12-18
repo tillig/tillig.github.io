@@ -16,4 +16,3 @@ Deli](http://www.elephantsdeli.com/) this weekend and I'm sold. They're
 blank inside, which is fine, and the art is amazing and cool and
 creative and different. I'm going to have to see what holidays are
 coming up that I need to send cards for and start ordering.
-

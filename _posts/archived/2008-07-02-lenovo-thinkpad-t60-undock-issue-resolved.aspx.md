@@ -38,4 +38,3 @@ may not be the best solution for you.
 under Config -\> Docking Station. Set the "Legacy Devices on Mini Dock"
 setting to "Disabled" to disallow the docking station access to the
 parallel port.
-

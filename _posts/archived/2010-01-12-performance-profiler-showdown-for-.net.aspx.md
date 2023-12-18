@@ -16,15 +16,15 @@ isn't my primary job function.
 
 The five profilers I tried out:
 
--   Visual Studio 2008 Team System Developer Edition (there's a profiler
+- Visual Studio 2008 Team System Developer Edition (there's a profiler
     that comes along with the install of VSTS 2008 Developer).
--   [ANTS Performance Profiler
+- [ANTS Performance Profiler
     5.2](http://www.red-gate.com/products/ants_performance_profiler/index.htm).
--   [Intel VTune Performance Analyzer
+- [Intel VTune Performance Analyzer
     9.1](http://software.intel.com/en-us/intel-vtune/).
--   [JetBrains dotTrace
+- [JetBrains dotTrace
     3.1](http://www.jetbrains.com/profiler/index.html).
--   [AutomatedQA AQtime
+- [AutomatedQA AQtime
     6](http://forums.automatedqa.com/products/aqtime/).
 
 I put an explanation of what each feature "means" in tooltip form, so
@@ -33,8 +33,6 @@ An "X" in the box means it has the feature.
 
 Testing was done on a dual-2.8GHz processor machine running Windows
 Server 2008 R2 64-bit and 4GB RAM.
-
-
 
 VSTS 2008
 
@@ -52,17 +50,11 @@ Visual Studio integration
 
 X
 
-
-
-
-
 X
 
 X
 
 Standalone application
-
-
 
 X
 
@@ -78,21 +70,13 @@ X
 
 X
 
-
-
 X
 
-
-
 Robust reporting
-
-
 
 X
 
 ?
-
-
 
 X
 
@@ -126,8 +110,6 @@ Measurements Recorded
 
 CPU time
 
-
-
 X
 
 X
@@ -150,19 +132,11 @@ X
 
 Additional perf counters
 
-
-
 X
-
-
-
-
 
 X
 
 Notes
-
-
 
 This requires Visual Studio, which means you have to have VS installed
 on the machine running the app you're profiling. That said, this was the

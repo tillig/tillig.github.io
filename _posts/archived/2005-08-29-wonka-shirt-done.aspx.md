@@ -53,6 +53,7 @@ the end of the day, my back and neck were killing me.
 
  Shirts are a bitch. I made a [Neo costume last
 year](http://paraesthesia.com/archive/2003/10/31/i-am-the-scariest-man-alive.aspx)
+
 - a long black trenchcoat thing. It was a piece of cake compared to this
 shirt. There was a lot of hand-stitching and crap on this shirt, and a
 hell of a lot more pieces. Of course, the costume I had last year was a
@@ -77,4 +78,3 @@ work that's going to be. Good thing I got started early.
 
 **UPDATE 10/02/05**: The costume came out well. [Here are the
 details.](/archive/2005/10/02/wonka-costume-complete.aspx)
-

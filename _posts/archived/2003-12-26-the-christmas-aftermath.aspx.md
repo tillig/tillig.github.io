@@ -30,28 +30,26 @@ business.
 
  Other highlights...
 
--   [*Bond Girls Are
+- [*Bond Girls Are
     Forever*](http://www.amazon.com/exec/obidos/ASIN/0810943026/mhsvortex)
--   [*Harry Potter* Legos - The Chamber Of
+- [*Harry Potter* Legos - The Chamber Of
     Secrets](http://www.amazon.com/exec/obidos/ASIN/B0000649DR/mhsvortex)
--   Several gift certificates to places like Michael's, Target, See's
+- Several gift certificates to places like Michael's, Target, See's
     Candy, and Krispy Kreme donuts
--   A generous donation to the Travis Fund by my grandparents
--   [*Emmet Otter's Jug-Band
+- A generous donation to the Travis Fund by my grandparents
+- [*Emmet Otter's Jug-Band
     Christmas*](http://www.amazon.com/exec/obidos/ASIN/B00005OSJS/mhsvortex)
     and [*A Muppet Family
     Christmas*](http://www.amazon.com/exec/obidos/ASIN/B00005OSJR/mhsvortex)
     on DVD
--   A nice pair of black leather gloves (now I can garotte people and
+- A nice pair of black leather gloves (now I can garotte people and
     leave no fingerprints!)
--   A clock for our dining room wall (goes perfect with the rest of the
+- A clock for our dining room wall (goes perfect with the rest of the
     decor)
--   [*Eragon*](http://www.amazon.com/exec/obidos/ASIN/0375826688/mhsvortex),
+- [*Eragon*](http://www.amazon.com/exec/obidos/ASIN/0375826688/mhsvortex),
     which is supposed to be really good
--   A [Strong Bad](http://www.homestarrunner.com/sbemail.html) t-shirt
+- A [Strong Bad](http://www.homestarrunner.com/sbemail.html) t-shirt
     (how can you NOT have one?)
-
-
 
  That's not all, but that's the majority of it. If you're reading this
 and I didn't mention your present, nothing personal.

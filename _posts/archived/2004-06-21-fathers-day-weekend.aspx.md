@@ -8,11 +8,11 @@ tags: [General Ramblings]
 ---
 This weekend was Father's Day, which meant carting around town visiting
 family.
- 
+
  Saturday night we hung out at my parents' condo and visited with them,
 my sisters, mom's sisters, and mom's dad. Not sure where my dad's
 parents were.
- 
+
  Granddad got going on telling a story and had us rolling. Apparently
 his dog likes to sleep under the footrest of his recliner while Granddad
 watches TV. One time there was a power failure and Granddad got up to
@@ -23,26 +23,26 @@ hilarious is that? The best writers in Hollywood would never come up
 with "the devil done shut off my lights and stole my dog." Too funny.)
 Turns out when he stood up, he pushed the dog under the recliner with
 the footrest and trapped the dog under the chair. Heh.
- 
+
  Sunday afternoon we had lunch with Jenn's family at [Marie
 Callender's](http://www.mcpies.com/). Pretty tasty, and we all ended up
 with leftovers.
- 
+
  All in all, a good weekend hanging out with the family. Not
 particularly restful, but a good weekend nonetheless.
- 
+
  Went to [Home Depot](http://www.homedepot.com/) to check out paint
 colors for the bathrooms. Our entire house is the same color of white
 inside - trim, doors, walls, etc. - so we need a little color. Found
 some great stuff and will have to get on that as soon as we get money.
- 
+
  Spent a little at [Bed, Bath, and
 Beyond](http://www.bedbathandbeyond.com/), too, picking up some new
 bathroom rugs to replace the ones the cats have torn up and have seen
 better days. Plus, we had to get something that goes with [the shower
 curtain we bought last
 weekend](http://www.bedbathandbeyond.com/product.asp?order_num=-1&SKU=104359&RN=10&).
- 
+
  In other news, I think I have a little athlete's foot - minor, but
 annoying - on my right foot. Not sure how I got it since I don't go
 tromping around in public showers or really ever go around barefoot, but

@@ -43,9 +43,9 @@ Valid settings for **COMPLUS\_Version** seem to be the same as the names
 of the folders you see when you go to the
 `%WINDIR%\Microsoft.NET\Framework` directory, like:
 
--   v1.1.4322
--   v2.0.50727
--   v3.5
+- v1.1.4322
+- v2.0.50727
+- v3.5
 
 ...and so on.
 
@@ -86,4 +86,3 @@ task to unset the environment variable:
 Doing that removes the variable from the process space and later
 executables can allow the CLR to choose which environment to target
 automatically.
-

@@ -28,10 +28,9 @@ quite like that.  We had thought that he was just doing that to
 furniture that didn't smell like him or something, but it seems to be...
 well, fairly arbitrary.  Again, awesome.
 
-So things are pretty well coming together for a great holiday season. 
+So things are pretty well coming together for a great holiday season.
 Granted, [the Trans-Siberian Orchestra
 concert](/archive/2007/12/03/trans-siberian-orchestra-2007-tour.aspx)
 was a big plus to the start of the season, but now that the good stuff's
 out of the way, we're getting settled in for a good old-fashioned
 Griswold family Christmas.  Where's the Tylenol?
-

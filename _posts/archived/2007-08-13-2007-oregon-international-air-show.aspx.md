@@ -12,7 +12,7 @@ formation.]({{ site.url }}/images/20070813blueangels.jpg)The
 past weekend and it was pretty cool.  Since Jenn and I live near the
 airport, we get a pretty decent view of the show just by sitting on our
 front porch, so we popped some chairs out there and watched [the Blue
-Angels](http://www.blueangels.navy.mil/) literally fly down our street. 
+Angels](http://www.blueangels.navy.mil/) literally fly down our street.
 (The photo is from the Blue Angels web site, but the view looks almost
 identical from our house.)
 
@@ -65,8 +65,7 @@ on my front porch, but then, the airport has a noise easement over my
 house for this sort of thing, so I kind of feel like my property taxes
 already go to support these things.  My house is the one the pilot's
 going to crash into [if he goes
-down](http://blog.oregonlive.com/washingtoncounty/2007/08/fatal_2006_air_show_crash.html). 
+down](http://blog.oregonlive.com/washingtoncounty/2007/08/fatal_2006_air_show_crash.html).
 You people parking on the side of the freeway?  You were on the way to
 the store and decided to get a free show.  That's bullshit.  Either keep
 driving or go get a ticket, you freeloader.
-

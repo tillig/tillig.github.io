@@ -19,4 +19,3 @@ upload pictures to that rather than directly to my blog. (Saves on
 bandwidth, right?) Did a quick search and didn't find anything. I
 suppose if I like WLW and use it, I should probably write the plugin,
 eh?
-

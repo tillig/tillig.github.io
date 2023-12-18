@@ -21,4 +21,3 @@ Not sure why it just started doing this today; it was working fine
 before. No network changes have happened... except I had to reboot my
 router yesterday. I wonder if that's what started it. Maybe another
 router reboot is in order.
-

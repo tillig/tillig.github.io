@@ -27,23 +27,22 @@ same token, almost all of them have committed the following *gaucheries*
 while discussing their various interests with me... keeping in mind that
 I, too, am a reasonably well-versed sysadmin, at least where the
 applications I am responsible for are concerned:
--   Treated me like I dropped out of school in the fourth grade.
--   Directly contradicted everything I said, then later restated my
+
+- Treated me like I dropped out of school in the fourth grade.
+- Directly contradicted everything I said, then later restated my
     thought, taking it as their own, denying that I said it to begin
     with.
--   Spoke to me as though English were *not* my first language (hey,
+- Spoke to me as though English were *not* my first language (hey,
     slower and louder always makes me feel like I'm speaking with a
     peer).
--   Explained to me a basic concept as though it were the first time I'd
+- Explained to me a basic concept as though it were the first time I'd
     ever heard of such a thing. For example, I'm a *web application
     developer*... why would you explain to me what a *web server does*?
     I'm pretty sure I've got that down.
--   Quoted, verbatim, security notifications received from agencies like
+- Quoted, verbatim, security notifications received from agencies like
     [CERT](http://www.cert.org/), and claimed it as their own thought.
--   Suggested that they, as an *admitted non-programmer*, might know
+- Suggested that they, as an *admitted non-programmer*, might know
     more about programming than me.
-
-
 
  I think you see where I'm going. I don't like being treated as though
 I'm stupid. And you can't just say "it's because they're trying to teach

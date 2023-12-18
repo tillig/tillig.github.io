@@ -55,4 +55,3 @@ skin with my sandpaper beard.
 
 I have a few more treatments (a total of 30) and we'll see where I'm at
 then.
-

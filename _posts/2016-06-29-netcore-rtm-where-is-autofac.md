@@ -10,7 +10,7 @@ As we all saw, [ASP.NET Core and .NET Core went RTM this past Monday](https://bl
 
 Every time an RC (or, now, RTM) comes out, questions start flooding in [on Autofac](https://github.com/autofac/Autofac), sometimes literally within minutes of the go-live, asking when Autofac will be coming out with an update. While [we have an issue you can track](https://github.com/autofac/Autofac/issues/594) if you want to watch the progress, I figured I'd give a status update on where we are and where we're going with respect to RTM. I'll also explain why we are where we are.
 
-# Current Status
+## Current Status
 
 **We have an RC build of core Autofac out on NuGet that is compatible with .NET Core RTM.** That includes a version of `Autofac.Extensions.DependencyInjection`, the Autofac implementation against `Microsoft.Extensions.DependencyInjection`. We'll be calling this version 4.0.0. We are working hard to get a "stable" version released, but we've hit a few snags at the last minute, which I'll go into shortly.
 
@@ -18,7 +18,7 @@ Every time an RC (or, now, RTM) comes out, questions start flooding in [on Autof
 
 **We are working hard to get the other half of the integration projects updated.** Portable projects are being converted to use the new `project.json` structure and target `netstandard` framework monikers. Non-portable projects are sticking with `.csproj` but are being verified for compatibility with Autofac 4.0.0, getting updated as needed.
 
-# Why It's Taking So Long
+## Why It's Taking So Long
 
 Oh, where do I begin.
 
@@ -67,7 +67,7 @@ The answers are not so straightforward.
 
 While it may not be obvious, **adding lots of duplicate issues asking for status or "me too" comments on issues in the repo doesn't help**. In some cases it's frustrating (it's a "no pressure, but hurry up" vote) and may slow things down as we spend what little time we have responding to the dupes and the questions rather than actually getting things done. I love the enthusiasm and interest, but please help us out by not adding duplicates. GitHub recently added "reactions" to issues (that little smiley face at the top-right of an issue comment) - jump in with a thumbs-up or smile or something; or subscribe to an issue if you're interested in following along (there's a subscribe button along the right up near the top of the issue, under the tags).
 
-# Thanks (So Far)
+## Thanks (So Far)
 
 **Finally, I have some thanks to hand out.** Like I said, we couldn't get this done without support from the community. I know I'm probably leaving someone out, and if so, I'm sorry - please know I didn't intentionally do it.
 

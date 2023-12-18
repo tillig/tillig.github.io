@@ -25,4 +25,3 @@ lose faith. There's a lot of "works on my machine in full trust" that
 sort of makes survival on Subtext in a medium trust world a bit
 problematic. I'm glad I have a staging machine to try things out on or
 I'd never be able to upgrade.
-

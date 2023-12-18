@@ -4,13 +4,13 @@ title: "Potential Typemock Gotcha: Allow Static Construction to Happen Before Mo
 date: 2012-02-10 -0800
 comments: true
 disqus_identifier: 1768
-tags: [dotnet,testing,net]
+tags: [dotnet,testing,dotnet]
 ---
 I love [Typemock Isolator](http://www.plimus.com/jsp/redirect.jsp?contractId=1655929&referrer=tillig). I do. The power it gives me to deal with legacy code interaction testing is phenomenal.
 
 However, every once in a while, I'll get an odd failure that doesn't make sense. Today's error message looks like this:
 
-```
+```text
     SetUp method failed. SetUp : TypeMock.ArrangeActAssert.NestedCallException :
     *** WhenCalled does not support using a property call as an argument.
     -   To fix this pass null instead of LoggerWrapperImpl.Logger
@@ -36,8 +36,8 @@ We weren't doing anything odd in the test that failed, and we have other tests t
 
 Doing a little poking around in the TeamCity build logs, I found that the failing test...
 
--   Was the first one to run in the given test assembly, and
--   The test fixture setup had a call to mock a static method on a static class.
+- Was the first one to run in the given test assembly, and
+- The test fixture setup had a call to mock a static method on a static class.
 
 Which means **static construction wasn't happening on the static class** and was causing some weird problems.
 

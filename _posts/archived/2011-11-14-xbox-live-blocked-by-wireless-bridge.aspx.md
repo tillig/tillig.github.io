@@ -59,4 +59,3 @@ couple of times where I had to reset it to factory defaults and start
 over. Like running for an extended period of time causes some sort of
 "buildup" that has to be flushed out. I may have to replace it with
 something more reliable.
-

@@ -37,6 +37,7 @@ isn't it?)
 
  We, again, didn't run out of candy this year, so it looks like two big
 Costco bags will work. We didn't know how far it would go, so from 6:00
+
 - 7:00 we were giving out two mini-candy-bars each, but at 7:00 we
 switched to one because we were running low. We had enough left over
 that I think we could have stuck with two bars per kid and maybe had

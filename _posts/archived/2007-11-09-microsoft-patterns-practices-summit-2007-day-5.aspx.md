@@ -6,11 +6,12 @@ comments: true
 disqus_identifier: 1300
 tags: [GeekSpeak]
 ---
+<!--markdownlint-disable MD036 -->
 **The topic of Day 5: Applications.**
 
 **Keynote - [Scott Hanselman](http://www.computerzen.com)**
 
-Yes, you're reading that right - Hanselman keynoted two days in a row. 
+Yes, you're reading that right - Hanselman keynoted two days in a row.
 This time the presentation tended toward the humorous and sort of tied
 things in with a message to the community that was basically the end of
 Bill and Ted's Excellent Adventure:  "Be excellent to each other... and
@@ -31,7 +32,7 @@ things like technology changes (so many changes so quickly), increasing
 complexity of software, and compliance with standards and regulatory
 issues.
 
-What the future boils down to: They've focused previously on tools. 
+What the future boils down to: They've focused previously on tools.
 They're switching focus to developer centers and documentation - helping
 people find which tools will help them get the job done.
 
@@ -67,12 +68,12 @@ in the Silverlight/HTML app and use it in your WPF app.  Very cool.
 
 The technologies she reviewed, on the scale of "reach" to "rich":
 
--   ASP.NET 2.0
--   ASP.NET 3.5
--   Silverlight 1.0
--   Silverlight 1.1
--   WPF 3.0
--   WPF 3.5
+- ASP.NET 2.0
+- ASP.NET 3.5
+- Silverlight 1.0
+- Silverlight 1.1
+- WPF 3.0
+- WPF 3.5
 
 **Fresh Cracked CAB - [Ward
 Bell](http://www.neverindoubtnet.blogspot.com)**
@@ -94,11 +95,11 @@ we normally think about "MVC").
 Think about this - how many times do you basically have what amounts to
 generated code where you...
 
--   Data bind model information to controls?
--   Set error provider information?
--   Set control visibility/editability?
--   Format data in the view?
--   Localize control text?
+- Data bind model information to controls?
+- Set error provider information?
+- Set control visibility/editability?
+- Format data in the view?
+- Localize control text?
 
 All that just fattens up the interfaces and makes code cumbersome.  The
 idea of the MicroViewController is that it's a facade over all of these
@@ -125,11 +126,9 @@ The question now is - how do we fix it?  Maybe some ideas here...
 
 *The Simplicity Manifesto v1.0* (per Billy Hollis):
 
--   Stop adding features.
--   Make help helpful.
--   Fix the bugs.
--   CRUD for free.
--   Hide the plumbing.
--   Get better names.
-
-
+- Stop adding features.
+- Make help helpful.
+- Fix the bugs.
+- CRUD for free.
+- Hide the plumbing.
+- Get better names.

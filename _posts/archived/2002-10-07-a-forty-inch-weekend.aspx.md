@@ -78,9 +78,9 @@ from [my new DVD player](/archive/2002/09/23/the-art-of-war.aspx).
  A lot of people have asked me questions about the TV, so I thought I'd
 answer them.
 
-**Travis's TV FAQ**
+**Travis's TV FAQ**:
 
-1.  **Q: How much did you pay for your TV? I heard it was expensive.**
+1. **Q: How much did you pay for your TV? I heard it was expensive.**
      A: It seems a lot of folks are genuinely concerned for my budgetary
     needs, and I have to thank them for that concern. Contrary to
     popular belief, I do *not* have any credit problems or any
@@ -90,11 +90,11 @@ answer them.
      $200 - Magnolia Four-Year Performance Guarantee
      $47 - Middle-tier component video cables
      **$3082 - TOTAL**
-2.  **Q: Why would you spend that much on a TV?**
+2. **Q: Why would you spend that much on a TV?**
      A: I like TV. I like my PS2. I like DVDs. Maybe you just bought a
     computer for $3000. Maybe you just bought a car stereo for $3000.
     I bought a TV. I like TV.
-3.  **Q: Why wouldn't you just buy a rear projection TV like everyone
+3. **Q: Why wouldn't you just buy a rear projection TV like everyone
     else?**
      A: If you look dead-on at a rear projection TV, it looks great. You
     ever *stand up* while trying to watch it? It fades out. Maybe not
@@ -105,9 +105,9 @@ answer them.
     they aren't quite to the point where the price justifies the
     performance. Which leaves tube TVs. The Sony KV40XBR800 is the
     largest tube TV made.
-4.  **Q: That thing must be *huge*...**
+4. **Q: That thing must be *huge*...**
      A: It is, thanks.
-5.  **Q: What does a TV like that *do*?**
+5. **Q: What does a TV like that *do*?**
      A: Lots of stuff. Check out the [Sony page on
     it](http://www.sonystyle.com/home/item.jsp?itemid=50911&hierc=9685x9800x9801&catid=)
     and read up. You'll want one, too.

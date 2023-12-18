@@ -3,7 +3,7 @@ layout: post
 title: "Autofac 5.0 Released"
 date: 2020-01-27 -0800
 comments: true
-tags: [autofac,net]
+tags: [autofac,dotnet]
 description: "Autofac 5.0 has been released. This article outlines the new features and breaking changes of which you should be aware."
 ---
 
@@ -114,7 +114,7 @@ Some of this is sitting in branches ready to go, other things need to be done no
 
 **If your favorite integration isn't ready yet, we're doing our best.** Rather than filing "When will this be ready?" issues, consider pull requests with the required updates.
 
-## Thank You!
+## Thank You
 
 On a more personal note, I'd like to thank [all the folks that threw code at Autofac](https://github.com/autofac/Autofac/graphs/contributors) in the past few months. We appreciate the effort and the contributions. NuGet tells me we're at 41,587,203 total downloads as I write this, #27 on [the list of top package downloads in the last six weeks](https://www.nuget.org/stats/packages). We have 25 integration packages we maintain along with documentation, examples, and support.
 

@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 290
 tags: [sql,personal]
 ---
+<!--markdownlint-disable MD036 -->
 I forgot to post yesterday's class log, but there wasn't much, so I'll
 just throw it up here and call it good.
 

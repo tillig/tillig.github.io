@@ -14,4 +14,3 @@ like as a Simpson character.
 Once I master [drawing the
 Simpsons](http://paraesthesia.com/archive/2007/08/20/bart-and-bicycles.aspx),
 maybe I should master drawing myself?
-

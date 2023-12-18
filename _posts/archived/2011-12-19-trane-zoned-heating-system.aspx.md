@@ -78,4 +78,3 @@ recommend it. If you're in the market for something like this, or if you
 want your house to feel the way it's supposed to - *comfortable* - look
 into it. If you're in the Portland, OR area, [give Sky Heating a
 call](http://www.skyheating.com/). You'll be glad you did.
-

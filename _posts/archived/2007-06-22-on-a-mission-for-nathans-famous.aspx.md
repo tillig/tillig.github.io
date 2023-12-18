@@ -35,11 +35,10 @@ the refrigerator case.  Come to me, sweet dogs.
 Fired up the grill at home, threw the dogs on, and watched the flame
 fizzle out after about three minutes of cooking because we were out of
 gas.  Not to be stopped, the franks made their way quickly into the oven
-to be broiled to perfection.  (I can't stand boiled hot dogs. 
+to be broiled to perfection.  (I can't stand boiled hot dogs.
 Seriously.  No go.)
 
 I ate two, but I swear I could have eaten the whole package.  I'll
 definitely be partaking this weekend (after refilling the grill tank).
 
 When was the last time you went on a mission for food?
-

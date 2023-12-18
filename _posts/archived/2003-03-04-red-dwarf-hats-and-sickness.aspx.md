@@ -43,5 +43,6 @@ just guesswork and making things hook up right; I don't make clothing so
 much as just decorative items that don't require exactitude), and I
 think it is so far pretty good. The only thing that stopped me from
 finishing the sewing part last night was that I ran out of bobbin thread
+
 - I can use the sewing machine, but for the life of me I can't figure
 out how to set it up. Oh well, I guess it takes practice.

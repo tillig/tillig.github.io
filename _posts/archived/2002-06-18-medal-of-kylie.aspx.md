@@ -15,7 +15,6 @@ Meyer](http://www.fredmeyer.com) stores and neither had it.
 album,
 *[Fever](http://www.amazon.com/exec/obidos/ASIN/B00005Y228/mhsvortex)*.
 
-
  I bought it, and I dig it thoroughly.
 
  I don't think there's really a *bad* song on there. I definitely have

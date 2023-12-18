@@ -28,4 +28,3 @@ content will transfer.
 Took about 15 minutes to go through my history and download everything a
 second time, but after that, I was totally in business again. And, hey,
 it only took, what - four months?
-

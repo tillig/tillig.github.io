@@ -22,4 +22,3 @@ a channel, it'd [best have some boobs on
 it](http://www.playboy.com/pbtv-hv/). And I don't mean the scary native
 ones you see in [*National
 Geographic*](http://www.nationalgeographic.com/).
-

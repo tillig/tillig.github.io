@@ -74,4 +74,3 @@ now because I can't get it to set.
 
 **Basically I'm just tired all the time now.** I'm hoping things pick up
 soon because I'm really just falling apart.
-

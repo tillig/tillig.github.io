@@ -4,7 +4,7 @@ title: "Autofac 3.0.1 Released"
 date: 2013-02-08 -0800
 comments: true
 disqus_identifier: 1809
-tags: [autofac,net]
+tags: [autofac,dotnet]
 ---
 We had to roll out [a minor
 feature](https://code.google.com/p/autofac/issues/detail?id=397)
@@ -13,4 +13,3 @@ running a long-lived app (Windows service, web site) you'll want this.
 
 [Only the core Autofac package](https://nuget.org/packages/Autofac) was
 updated; the rest remained. Assembly versions didn't change.
-

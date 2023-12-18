@@ -20,18 +20,18 @@ have where I actually really need to know the answer). I got a couple of
 responses from folks who wondered the same thing, but **the opposition
 to the idea cited basically two problems:**
 
-1.  Most metadata out there is stored this way so it's easier to just
+1. Most metadata out there is stored this way so it's easier to just
     use it as-is than it is to fix it for your own collection.
-2.  There could be confusion if you have a solo artist who also has a
+2. There could be confusion if you have a solo artist who also has a
     band. For example, "Ben Folds" should show up by "Ben Folds Five" if
     you have music by both.
 
 **My logic in storing "Lastname, Firstname" is pretty simple.**
 
--   When I go looking in the store (or at the library) for "Michael
+- When I go looking in the store (or at the library) for "Michael
     Jackson," I don't go looking under "M." I don't think that should be
     different on my iPod.
--   I have no desire to store separate "display data" and "sort data,"
+- I have no desire to store separate "display data" and "sort data,"
     though that possibility exists. Doing it that way means
     double-metadata to manage and makes the list look messy.
 
@@ -41,9 +41,9 @@ rules](http://www.loc.gov/cds/catman.html) I did gather that,
 **generally speaking, the accepted convention for Folks Who File For a
 Living is:**
 
--   **If it's an individual person: Lastname, Firstname** (e.g., "Folds,
+- **If it's an individual person: Lastname, Firstname** (e.g., "Folds,
     Ben")
--   **If it's a collective, corporation, or group: Firstname Lastname**
+- **If it's a collective, corporation, or group: Firstname Lastname**
     (e.g., "Ben Folds Five" or "Steve Miller Band")
 
 That's actually how I have my music filed, and that makes sense to me. I
@@ -77,4 +77,3 @@ Too bad [iTunes doesn't](http://www.id3.org/iTunes). (Yeah, I know, MP4
 doesn't directly support ID3 [but
 atoms](http://atomicparsley.sourceforge.net/mpeg-4files.html)... I still
 think it's possible to support multiple artists.)
-

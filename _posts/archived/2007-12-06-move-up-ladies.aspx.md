@@ -12,4 +12,3 @@ new GTA4 trailer (\#3) is
 out](http://www.rockstargames.com/IV/trailer_splash.html) and it is
 awesome.  I can hardly wait for this thing to come out.  As soon as they
 have a date, I'll have to schedule my time off.
-

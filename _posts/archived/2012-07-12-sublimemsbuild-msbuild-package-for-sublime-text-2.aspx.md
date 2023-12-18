@@ -14,40 +14,40 @@ One of the things it was missing was support for MSBuild scripting - syntax high
 
 Here's a list of the features it includes:
 
--   **MSBuild file extension handling**:
-    -   .proj
-    -   .targets
-    -   .msbuild
-    -   .csproj
-    -   .vbproj
+- **MSBuild file extension handling**:
+  - .proj
+  - .targets
+  - .msbuild
+  - .csproj
+  - .vbproj
 
--   **Build system**: Execute the currently loaded MSBuild script and capture the results in the output pane.
--   **Syntax highlighting**:
-    -   MSBuild keywords and flow-control elements
-    -   Standard MSBuild tasks
-    -   C#/VB special project item elements
-    -   Well-known item metadata
-    -   Reserved properties
-    -   Variables
-    -   Conditional operators
-    -   Framework support functions
-    -   Comment blocks
+- **Build system**: Execute the currently loaded MSBuild script and capture the results in the output pane.
+- **Syntax highlighting**:
+  - MSBuild keywords and flow-control elements
+  - Standard MSBuild tasks
+  - C#/VB special project item elements
+  - Well-known item metadata
+  - Reserved properties
+  - Variables
+  - Conditional operators
+  - Framework support functions
+  - Comment blocks
 
--   **Snippets**:
-    -   New MSBuild Script
-    -   Comment blocks [trigger = `c` + tab]
-    -   Self-closing/simple tags [trigger = `>` + tab]
-    -   Content/end-tag tags [trigger = `<` + tab]
+- **Snippets**:
+  - New MSBuild Script
+  - Comment blocks [trigger = `c` + tab]
+  - Self-closing/simple tags [trigger = `>` + tab]
+  - Content/end-tag tags [trigger = `<` + tab]
 
--   **Autocompletion**:
-    -   Standard/default tasks (e.g., `CallTarget`, `CombinePath`, `MakeDir`)
-    -   Project file entities (e.g., `Target`, `Choose`, `Import`)
-    -   Common item definitions (e.g., `Compile`, `Reference`, `EmbeddedResource`)
-    -   Well-known item metadata references (e.g., `%(Item.FullPath)`)
-    -   Reserved properties (e.g., `$(MSBuildProjectDirectory)`)
-    -   [MSBuild Community Tasks](https://github.com/loresoft/msbuildtasks) (if the `MSBuild.Community.Tasks.Targets` file is imported)
-    -   C#/VB special project item elements (e.g., `Reference`, `Compile`)
-    -   Supported framework method calls (e.g., `$([System.DateTime]::Now)`)
+- **Autocompletion**:
+  - Standard/default tasks (e.g., `CallTarget`, `CombinePath`, `MakeDir`)
+  - Project file entities (e.g., `Target`, `Choose`, `Import`)
+  - Common item definitions (e.g., `Compile`, `Reference`, `EmbeddedResource`)
+  - Well-known item metadata references (e.g., `%(Item.FullPath)`)
+  - Reserved properties (e.g., `$(MSBuildProjectDirectory)`)
+  - [MSBuild Community Tasks](https://github.com/loresoft/msbuildtasks) (if the `MSBuild.Community.Tasks.Targets` file is imported)
+  - C#/VB special project item elements (e.g., `Reference`, `Compile`)
+  - Supported framework method calls (e.g., `$([System.DateTime]::Now)`)
 
 **Installation is simple. There are two options:**
 
@@ -55,8 +55,8 @@ Here's a list of the features it includes:
 
 **Manual installation**:
 
--   [Download the MSBuild.sublime-package from the GitHub site](https://github.com/tillig/SublimeMSBuild/downloads).
--   [Drop the package file into the "Installed Packages" folder in Sublime Text 2](http://sublimetext.info/docs/en/extensibility/packages.html#installation-of-packages).
+- [Download the MSBuild.sublime-package from the GitHub site](https://github.com/tillig/SublimeMSBuild/downloads).
+- [Drop the package file into the "Installed Packages" folder in Sublime Text 2](http://sublimetext.info/docs/en/extensibility/packages.html#installation-of-packages).
 
 Plus, if you want to muck around with it, add features, or even just see how it works, you can hack on it yourself. [There are some pointers in the readme](https://github.com/tillig/SublimeMSBuild#sublimemsbuild).
 

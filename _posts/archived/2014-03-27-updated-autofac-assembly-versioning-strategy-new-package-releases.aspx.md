@@ -54,4 +54,3 @@ because you've not updated all of your Autofac packages.**
 Relevant GitHub issues:
 [\#502](https://github.com/autofac/Autofac/issues/502),
 [\#508](https://github.com/autofac/Autofac/issues/508)
-

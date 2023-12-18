@@ -26,9 +26,8 @@ addon]({{ site.url }}/downloads/firefox-with-hanselman.xpi).)
 
 This addon does pretty much exactly what the Bing addon does:
 
--   Set your home page to
+- Set your home page to
     [http://www.hanselman.com/](http://www.hanselman.com/)
--   Add a search provider so you can search Scott's web site.
+- Add a search provider so you can search Scott's web site.
 
 Free. No warranty expressed or implied. Works on my machine, etc.
-

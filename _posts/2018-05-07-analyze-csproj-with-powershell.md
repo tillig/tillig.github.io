@@ -15,7 +15,7 @@ PowerShell to the rescue! All the .csproj files are XML, so we can get the whole
 
 The output of that will look something like...
 
-```
+```text
 Count Name                      Group
 ----- ----                      -----
   698 v4.5                      {v4.5, v4.5, v4.5, v4.5...}

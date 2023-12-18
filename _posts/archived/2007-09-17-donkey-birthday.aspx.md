@@ -12,13 +12,13 @@ Saturday we got together with our friends Angela and Keaka and we headed
 to the coast.  We usually head to
 [Seaside](http://maps.google.com/maps?f=q&hl=en&geocode=&q=seaside,+or&ie=UTF8&ll=45.73686,-123.381958&spn=1.219207,2.477417&z=9&om=1),
 but this time we took a longer trip and went down to [Lincoln
-City](http://maps.google.com/maps?f=q&hl=en&geocode=&q=Lincoln+City,+OR&ie=UTF8&om=1&ll=45.805829,-123.475342&spn=2.680483,3.295898&z=7&iwloc=addr&source=embed). 
+City](http://maps.google.com/maps?f=q&hl=en&geocode=&q=Lincoln+City,+OR&ie=UTF8&om=1&ll=45.805829,-123.475342&spn=2.680483,3.295898&z=7&iwloc=addr&source=embed).
 We cruised around there for quite some time, then headed down to Depoe
 Bay.
 
 The weather at the coast was nice - mid 60's, little wind, no rain,
 slightly overcast.  By the end of the day, it cleared up and we stopped
-at a pullout along the highway to watch the sunset, which was gorgeous. 
+at a pullout along the highway to watch the sunset, which was gorgeous.
 (If I get off my lazy butt, I can get some pictures posted.  We got some
 nice photos.)
 
@@ -55,4 +55,3 @@ at [Macaroni Grill](http://www.macaronigrill.com).  Very tasty.
 
 It was a heck of a long weekend, and a lot of fun.  According to Jenn,
 she had a great birthday, and that's what matters.
-

@@ -4,7 +4,7 @@ title: "Paraesthesia.Tools.NAntTasks 1.1.0.0 Released"
 date: 2007-01-31 -0800
 comments: true
 disqus_identifier: 1142
-tags: [downloads,vs,build,net]
+tags: [downloads,vs,build,dotnet]
 ---
 New tasks added:
 

@@ -22,14 +22,14 @@ and it's one of the primary reasons I settled on Windows Home Server.
 From a features-I-use standpoint, there are really three key use cases
 for me:
 
-1.  **Storage**. Photos, music, videos, documents... just general
+1. **Storage**. Photos, music, videos, documents... just general
     storage. Being able to expand that easily and have some fault
     tolerance through the data duplication in Drive Extender is key.
-2.  **Backup**. The ability to have my computers automatically backed up
+2. **Backup**. The ability to have my computers automatically backed up
     to a central location is really cool. It's a full disk image, too,
     so if anything goes south you can restore the complete machine, OS
     and all.
-3.  **Media (DLNA) server**. Streaming pictures, videos, and music to
+3. **Media (DLNA) server**. Streaming pictures, videos, and music to
     devices on my network.
 
 **It appears that the next version of Windows Home Server
@@ -81,4 +81,3 @@ had good luck with mine so far** and if I had to choose between that and
 the new Windows Home Server, I'd probably end up with the Synology. It's
 a little more expensive than some of the WHS offerings out there, but
 you do seem to get what you pay for, at least in this case.
-

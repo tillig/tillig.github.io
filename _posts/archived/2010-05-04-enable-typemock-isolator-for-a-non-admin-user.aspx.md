@@ -4,7 +4,7 @@ title: "Enable Typemock Isolator for a Non-Admin User"
 date: 2010-05-04 -0800
 comments: true
 disqus_identifier: 1636
-tags: [testing,windows,net]
+tags: [testing,windows,dotnet]
 ---
 Generally speaking, it's good practice to [develop as a
 non-administrative
@@ -77,4 +77,3 @@ the program; YMMV; use at your own risk; etc.
 
 [[EnableTypemockForNonAdmin Source - 1.0.1.0
 (zip)](https://github.com/tillig/EnableTypemockForNonAdmin/archive/v1.0.1.zip)]
-

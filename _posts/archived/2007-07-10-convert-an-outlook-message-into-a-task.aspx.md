@@ -21,7 +21,7 @@ tasks.
 To that end, I wanted to set up a rule that would just take those
 one-liners and process the mail into a task automatically.  Since I use
 Outlook, I can do that with a rule that runs a script.  Here's how to do
-this in Outlook 2003.  Not sure, but it might also work in 2007. 
+this in Outlook 2003.  Not sure, but it might also work in 2007.
 Haven't tried.
 
 First, go to "Tools -> Macro -> Visual Basic Editor." This gets you to
@@ -115,7 +115,6 @@ run in "Medium" or "Low" setting because it's not signed.  **If you
 change your security level, you do so at your own peril.**  I'm not
 responsible if you get hit by the next big Internet worm.  If you don't
 want to change your security level, you can [digitally sign your macro
-project](http://office.microsoft.com/en-us/outlook/HA012317811033.aspx). 
+project](http://office.microsoft.com/en-us/outlook/HA012317811033.aspx).
 The digital signature route is the recommended way to go to stay safe,
 but it's the biggest pain, too.
-

@@ -4,7 +4,7 @@ title: "Needed: pMachine To dasBlog Conversion Utility"
 date: 2004-01-13 -0800
 comments: true
 disqus_identifier: 447
-tags: [blog,net]
+tags: [blog,dotnet]
 ---
 My site [may be moving from a Unix-based server over to a Windows 2003
 server](http://www.mildperil.net/mblog/comments.php?id=61_0_1_0_C). To

@@ -16,6 +16,7 @@ things I use to make it easier to keep a clean place.
 
  ![Roomba
 Discovery]({{ site.url }}/images/20061220roomba.jpg)[**Roomba**](http://www.amazon.com/exec/obidos/ASIN/B00022HYJ6/mhsvortex)
+
 - Roomba is my \#1 weapon in my passive-aggressive fight for a clean
 home. Roomba is an automatic vacuuming robot made by
 [iRobot](http://www.irobot.com). It has a home base that it charges its
@@ -35,6 +36,7 @@ resolved, no questions. If you have to choose just one of the things on
 this list to pick up, make it a Roomba.
 
 ![Scooba]({{ site.url }}/images/20061220scooba.jpg)[**Scooba**](http://www.amazon.com/exec/obidos/ASIN/B000DN7CD2/mhsvortex)
+
 - Scooba is the cousin of Roomba. While Roomba vacuums, Scooba mops.
 Most of my downstairs is hardwood and it gets nasty. Scooba to the
 rescue! Technically Scooba does some vacuuming, too, but not as much as
@@ -69,6 +71,7 @@ isn't for you (or you'll have to make sure you keep the lid closed).
 Cleaner]({{ site.url }}/images/20061220showercleaner.jpg)[**Scrubbing
 Bubbles Automatic Shower
 Cleaner**](http://www.amazon.com/exec/obidos/ASIN/B000GCPZC0/mhsvortex)
+
 - Hang this in the shower and, when you're done, push the button.
 Fifteen seconds later, it sprays a cleaning solution around in the
 shower that gets rid of soap scum and mold. Do this daily and it'll
@@ -88,6 +91,7 @@ to pay a little attention to them. Not as effective as the Kaboom! Never
 Scrub, but pretty darn good.
 
 ![Plink]({{ site.url }}/images/20061220plink.jpg)[**Plink**](http://www.amazon.com/exec/obidos/ASIN/B000A3I39M/mhsvortex)
+
 - Less a cleaner and more of a freshener/deodorizer. Drop one of these
 in your garbage disposal and run it to get rid of the stink and give it
 a nice fresh lemon scent. You still will have to clean out your garbage

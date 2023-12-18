@@ -62,45 +62,44 @@ tells you if you won or not. It went something like this:
 
 >
 >
->  INT - FRED MEYER STORE - DAY
+> INT - FRED MEYER STORE - DAY
 >
->  Travis, 26, ENTERs the store and strides confidently to the lottery
+> Travis, 26, ENTERs the store and strides confidently to the lottery
 > scanning machine. He wonders what he will do with the millions of
 > dollars that are going to soon be entering his pockets when he
 > discovers he is the winner.
 >
->  Arriving at the lottery scanning machine, he pulls the ticket out of
+> Arriving at the lottery scanning machine, he pulls the ticket out of
 > his wallet and runs it under the scanner.
 >
 > TRAVIS
->  Oh, yeah. Moneymoneymoneymoneymoney! Here we go...
+> Oh, yeah. Moneymoneymoneymoneymoney! Here we go...
 >
 >
->  Travis scans the ticket in the machine. The machine does nothing.
+> Travis scans the ticket in the machine. The machine does nothing.
 >
 > TRAVIS [grumbling]
->  Okay, come on now. Scan me, baby.
+> Okay, come on now. Scan me, baby.
 >
 >
->  Travis scans the ticket again. Again, nothing happens. Travis wags
+> Travis scans the ticket again. Again, nothing happens. Travis wags
 > the ticket furiously under the scanning mechanism and finally the
 > ticket machine responds with a message on its screen that somehow is
 > heard as a very loud robot voice, almost as though on the PA system of
 > the store.
 >
 > SCANNING MACHINE
->  You are a fucking loser. Next time you should just light your money
+> You are a fucking loser. Next time you should just light your money
 > on fire. If you feel up to it, please come back next week so your
 > hopes can be trampled again. Thank you.
 >
 >
 > TRAVIS [yelling]
->  God dammit, machine! I hate you! I hate you!
+> God dammit, machine! I hate you! I hate you!
 >
 >
->  Travis EXITs the store at a fast walk, obviously irritated at the
+> Travis EXITs the store at a fast walk, obviously irritated at the
 > outcome of the scanning operation.
-
 
  Okay, maybe that's not *exactly* how it went, but it was damn close to
 that.

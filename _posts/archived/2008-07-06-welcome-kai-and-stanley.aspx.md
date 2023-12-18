@@ -6,7 +6,9 @@ comments: true
 disqus_identifier: 1409
 tags: [personal,cats]
 ---
-[![](http://lh4.ggpht.com/travis.illig/SHGYGeW-vOE/AAAAAAAAAZk/Ld6RfwK9PPc/s160-c/WelcomeKaiAndStanley.jpg)](http://picasaweb.google.com/travis.illig/WelcomeKaiAndStanley)<br />[Welcome Kai and Stanley](http://picasaweb.google.com/travis.illig/WelcomeKaiAndStanley)
+[![Welcome Kai and Stanley](http://lh4.ggpht.com/travis.illig/SHGYGeW-vOE/AAAAAAAAAZk/Ld6RfwK9PPc/s160-c/WelcomeKaiAndStanley.jpg)](http://picasaweb.google.com/travis.illig/WelcomeKaiAndStanley)
+
+[Welcome Kai and Stanley](http://picasaweb.google.com/travis.illig/WelcomeKaiAndStanley)
 
 We were out running errands today and decided to stop in at the Petco
 because today was the day the local shelter brings kitties in to show
@@ -27,4 +29,3 @@ interesting.
 
 (Oh, and bonus points if you know why our cats are named Xev, Kai, and
 Stanley *without Googling it*.)
-

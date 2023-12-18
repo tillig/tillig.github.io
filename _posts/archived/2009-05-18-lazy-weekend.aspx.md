@@ -18,7 +18,7 @@ is one of those things I like to check off.
 Saturday was my day to accomplish stuff. The two items I got to check
 off my list of ongoing crap:
 
-1.  **I got my recliner fixed.** Jenn and I bought [some nice La-Z-Boy
+1. **I got my recliner fixed.** Jenn and I bought [some nice La-Z-Boy
     recliners](http://www.la-z-boy.com/furniture/product.aspx?pid=5162)
     for our game room upstairs. When they arrived, we noticed that one
     was really comfortable, but the other felt like you were sort of
@@ -31,7 +31,7 @@ off my list of ongoing crap:
     wasn't just me. The repair folks came back on Saturday and added
     some padding on the low side to reinforce the seat. Now it feels
     great! One less thing to worry about.
-2.  **I figured out how to play iTunes music through Windows Media
+2. **I figured out how to play iTunes music through Windows Media
     Center.** I'll actually post a separate blog article on this later,
     but I figured out how to get Apple Lossless and AAC music playing
     through Windows Media Center just like MP3 files, and it didn't
@@ -54,4 +54,3 @@ thereby negating any good the bike ride would have done. We watched some
 movies, had a little lunch, then around 4:00p Jason and I reconvened
 online for some more zombie mayhem. I rounded off the night with a very
 tasty barbecue meal Jenn made. Good times.
-

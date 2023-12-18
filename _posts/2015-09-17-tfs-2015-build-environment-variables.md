@@ -15,7 +15,7 @@ The build runs using the **Visual Studio Build** build step. I couldn't find any
 
 ...and got the environment variables. For reference, here's what you get when you run the **Visual Studio Build** task on an agent with **Visual Studio 2015**:
 
-```
+```text
 agent.jobstatus=Succeeded
 AGENT_BUILDDIRECTORY=C:\a\ba99c3da
 AGENT_HOMEDIRECTORY=C:\LR\MMS\Services\Mms\TaskAgentProvisioner\Tools

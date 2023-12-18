@@ -28,17 +28,15 @@ things are "global" than you might realize. Normally this doesn't cause
 problems, but most problems, in my experience, boil down to one of three
 things:
 
--   **Too much is being mocked - things that don't actually need to be
+- **Too much is being mocked - things that don't actually need to be
     mocked.**
--   **Mocks are being set up and not properly cleaned up.**
--   **A static or application-wide variable is being set in a test or
+- **Mocks are being set up and not properly cleaned up.**
+- **A static or application-wide variable is being set in a test or
     test fixture and isn't being put back to its original value.**
 
 These tips generally have to do with finding and fixing these issues.
 
-
-
-**ALWAYS CLEAN UP YOUR MOCKS**
+## Always Clean Up Your Mocks
 
 **Prior to Typemock Isolator version 4.0**, mocks needed to be manually
 cleaned up:
@@ -65,9 +63,7 @@ For the newer Arrange-Act-Assert (AAA) API, you would use:
 up**. Failing to clean things up can sometimes cause
 hard-to-troubleshoot issues.
 
-
-
-**DON'T OVER-CLEAN YOUR MOCKS**
+## Don't Over-Clean Your Mocks
 
 While it technically shouldn't matter if you clean up or verify mocks
 multiple times during the run of a test, occasionally you run into
@@ -91,27 +87,25 @@ For example, if you see something like this:
 **...this is a problem.** In this example, mocks will actually be
 cleaned up *three times* after each test:
 
-1.  The TearDown method manually calls MockManager.ClearAll().
-2.  The [VerifyMocks] attribute verifies the mock calls and clears the
+1. The TearDown method manually calls MockManager.ClearAll().
+2. The [VerifyMocks] attribute verifies the mock calls and clears the
     mocks after each test.
-3.  The [ClearMocks] attribute clears the mocks after each test.
+3. The [ClearMocks] attribute clears the mocks after each test.
 
 If you see redundant cleaning like this, it needs to be fixed.
 
 **The best way to solve this problem** is to:
 
-1.  Add the [VerifyMocks] attribute to the test fixture. Let it do the
+1. Add the [VerifyMocks] attribute to the test fixture. Let it do the
     verify and clean steps for you.
-2.  Remove all MockManager.ClearAll() calls from the entire fixture.
-3.  Remove all MockManager.Verify() calls from the entire fixture.
+2. Remove all MockManager.ClearAll() calls from the entire fixture.
+3. Remove all MockManager.Verify() calls from the entire fixture.
 
 Note this example is for the older record/replay mocking API. You can
 get into less over-cleaning trouble by using the newer AAA API, where
 there's only one [Isolated] attribute to put on your test fixture.
 
-
-
-**DON'T OVER-MOCK**
+## Don't Over-Mock
 
 It is especially tempting, especially in the old record/replay API, to
 use something akin to the MockManager.MockAll() method to just mock
@@ -123,11 +117,11 @@ call this "kitchen sink mocking"** because you're mocking everything
 
 The problem with over-mocking is twofold:
 
--   You lose the focus between what you're isolating and what you're
+- You lose the focus between what you're isolating and what you're
     testing. Many times use of "MockAll" results in you testing your
     mocks rather than the code you're isolating, particularly if you're
     not being careful.
--   "MockAll" has historically been a notorious problem for cleanup to
+- "MockAll" has historically been a notorious problem for cleanup to
     deal with, especially if there are a lot of things getting mocked
     with "MockAll." (This was addressed in newer versions of Isolator.)
 
@@ -142,9 +136,7 @@ Isolate.Swap.AllInstances()**... though historically the AAA syntax has
 been less afflicted with the over-mocking problems that the
 record/replay syntax has.
 
-
-
-**DON'T MIX MOCKING STYLES**
+## Don't Mix Mocking Styles
 
 **Prior to Typemock Isolator version 5.0, all mocking was done using a
 record/replay** style of syntax. This used classes named things like
@@ -185,10 +177,10 @@ at the top, it is wrong.** That's mixing mocks. You can't have both
 attributes run on the same fixture. Again, you can *technically* have
 them on *different tests*, just not at the *fixture level*.
 
-**PROBLEM: Two different mock cleanup attributes on the same fixture**
+## PROBLEM: Two different mock cleanup attributes on the same fixture
 
-> Here's an example showing the issue:
->
+Here's an example showing the issue:
+
 >     // BAD CODE: Two mock cleanup attributes.
 >     [VerifyMocks]
 >     [Isolated]
@@ -203,13 +195,13 @@ them on *different tests*, just not at the *fixture level*.
 >         // Test code that uses RecorderManager/MockManager mocking.
 >       }
 >     }
->
-> **SOLUTION: Move the mock attributes to the test level.** If you HAVE
-> to mix mock types in a fixture, you'll need to mark each test that
-> uses the mocks with the appropriate cleanup attribute. Note if you
-> move the attribute to the test level, you need to remove it from the
-> top-level fixture.
->
+
+**SOLUTION: Move the mock attributes to the test level.** If you HAVE
+to mix mock types in a fixture, you'll need to mark each test that
+uses the mocks with the appropriate cleanup attribute. Note if you
+move the attribute to the test level, you need to remove it from the
+top-level fixture.
+
 >     // BETTER CODE: Different mock cleanup attributes on the associated tests.
 >     public class MyFixture
 >     {
@@ -225,10 +217,10 @@ them on *different tests*, just not at the *fixture level*.
 >       }
 >     }
 
-**PROBLEM: Two different mock types in the same test**
+## PROBLEM: Two different mock types in the same test**
 
-> Here's an example showing the issue:
->
+Here's an example showing the issue:
+
 >     // BAD CODE: Two mock types in the same test.
 >     public class MyFixture
 >     {
@@ -240,19 +232,17 @@ them on *different tests*, just not at the *fixture level*.
 >         var mock2 = RecorderManager.CreateMockedObject();
 >       }
 >     }
->
-> **SOLUTION: Refactor the test to use only one type of mocks.** You
-> have no easy choice in this scenario. You have to rewrite the test so
-> only one mock type is being used. All things being equal, try to use
-> the new AAA syntax over the older record/replay syntax. That said, if
-> the entire rest of the fixture is in the old syntax, don't introduce a
-> new AAA syntax in just because. It's better to have all the tests in
-> the fixture using the same syntax so you don't run into the
-> multiple-attribute issue.
 
+**SOLUTION: Refactor the test to use only one type of mocks.** You
+have no easy choice in this scenario. You have to rewrite the test so
+only one mock type is being used. All things being equal, try to use
+the new AAA syntax over the older record/replay syntax. That said, if
+the entire rest of the fixture is in the old syntax, don't introduce a
+new AAA syntax in just because. It's better to have all the tests in
+the fixture using the same syntax so you don't run into the
+multiple-attribute issue.
 
-
-**BE CAREFUL OF STATICS AND ENVIRONMENT VARIABLES**
+## Be Careful Of Statics And Environment Variables
 
 Not necessarily a Typemock-specific issue, but something that is
 commonly seen and causes issues is when tests set static values or
@@ -268,19 +258,17 @@ later tests.
 The same can be said for other environmental settings. Look for things
 like...
 
--   Setting the current thread principal.
--   Setting the current thread culture.
--   Modifying environment variables.
--   Modifying registry keys.
--   Writing actual physical files.
--   Storing things in a static cache (like HttpRuntime.Cache).
--   Reading values that get cached in static variables (for example, in
+- Setting the current thread principal.
+- Setting the current thread culture.
+- Modifying environment variables.
+- Modifying registry keys.
+- Writing actual physical files.
+- Storing things in a static cache (like HttpRuntime.Cache).
+- Reading values that get cached in static variables (for example, in
     configuration-related classes where the config gets read,
     deserialized, and cached in a static).
 
-
-
-**DON'T AUTO-DEPLOY IF TYPEMOCK IS ALREADY INSTALLED**
+## Don't Auto-Deploy If Typemock Is Already Installed
 
 It is possible to auto-deploy and auto-register Typemock Isolator from a
 build script. This is an OK practice on a build server that doesn't have
@@ -305,9 +293,7 @@ environment:
         AutoDeploy="true"
         Condition="'$(BuildConfiguration)'!='Debug'"/>
 
-
-
-**USE THE TYPEMOCK TRACER UTILITY**
+## Use The Typemock Tracer Utility
 
 When you install Typemock Isolator, it installs [a Tracer
 utility](http://docs.typemock.com/Isolator/##typemock.chm/Documentation/Tracer.html)

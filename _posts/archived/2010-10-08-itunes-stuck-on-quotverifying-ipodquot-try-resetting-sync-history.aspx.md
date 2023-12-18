@@ -16,14 +16,14 @@ it's more than 160GB.
 
 At this point, I basically have three options:
 
-1.  Resample everything so it's not lossless. Not on your life. I have
+1. Resample everything so it's not lossless. Not on your life. I have
     it in lossless so I can back up the original quality and, if need
     be, create lower bit rate versions as needed. Plus, hello, too much
     work.
-2.  Don't include everything in the sync. This is actually plan B, but I
+2. Don't include everything in the sync. This is actually plan B, but I
     do like having everything on there. I find I get in weird moods and
     always seem to want to listen to the stuff I don't have.
-3.  Check that "Convert higher bit rate songs to 128 kbps AAC" box and
+3. Check that "Convert higher bit rate songs to 128 kbps AAC" box and
     sync the whole library. This is what I'm trying to do. I wish they
     had a 256 kbps option, but my primary iPod use case is listening
     with reasonably cheap headphones, so 128 isn't killing me.
@@ -47,24 +47,24 @@ a week or so now.
 But I did find something that seems to get me up and running, past the
 "Verifying iPod," without having to fully wipe the iPod.
 
-1.  Plug in the iPod and wait until the "Verifying iPod" message shows
+1. Plug in the iPod and wait until the "Verifying iPod" message shows
     up.
-2.  Eject the iPod. It'll warn you that the sync's not done, and that's
+2. Eject the iPod. It'll warn you that the sync's not done, and that's
     fine. Eject and disconnect the iPod.
 
     **Steps 1 and 2 are important. If you skip them and go straight for
     the reset sync history bit, things don't get fixed.**
-3.  Go into Edit -\> Preferences and look at the "Devices" tab.
+3. Go into Edit -\> Preferences and look at the "Devices" tab.
     ![Devices tab in iTunes
     preferences.]({{ site.url }}/images/20101008deviceoptions.png)
 
-4.  Click the "Reset Sync History" button. You'll get a little warning.
+4. Click the "Reset Sync History" button. You'll get a little warning.
 
     ![Reset sync history
     warning.]({{ site.url }}/images/20101008resethistory.png)
 
-5.  Click the "Reset Sync History" button on the warning.
-6.  Plug the iPod back in. It will start syncing again.
+5. Click the "Reset Sync History" button on the warning.
+6. Plug the iPod back in. It will start syncing again.
 
 Now, something I've noticed - if it fails in the middle of a sync, after
 doing this it won't remember any of the stuff it already completed. For
@@ -73,4 +73,3 @@ and syncing bit by bit.
 
 YMMV; This has worked for me a few times now so hopefully it'll work for
 you.
-

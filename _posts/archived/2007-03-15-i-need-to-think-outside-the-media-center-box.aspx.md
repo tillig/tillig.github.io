@@ -25,20 +25,19 @@ my original die.
 
  So I need to open myself to new possible solutions:
 
--   Would it be better to have a dedicated home theater PC for each room
+- Would it be better to have a dedicated home theater PC for each room
     where I want to access the movies? I could just have each one talk
     to the network attached storage device.
--   Is Windows Media Center really the answer? Is there some other
+- Is Windows Media Center really the answer? Is there some other
     Windows product that might do the job like
     [MediaPortal](http://www.team-mediaportal.com/)?
--   If I just go for a dedicated home theater PC, am I limiting myself
+- If I just go for a dedicated home theater PC, am I limiting myself
     with Windows? Would Mac and [Front
     Row](http://www.apple.com/imac/frontrow.html) or
     [iTheater](http://www.itheaterproject.com/index.php) be a better
     solution?
--   Is there some sort of hardware device *that just works* that I don't
+- Is there some sort of hardware device *that just works* that I don't
     already know about?
-
 
  I'll continue to search, but I think I'm going to broaden the scope.
 Unfortunately, I don't have a Mac that I can try this stuff out on, so

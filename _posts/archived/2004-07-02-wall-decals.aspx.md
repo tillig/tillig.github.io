@@ -48,24 +48,22 @@ about that) I realized the Kilz was *not* doing the trick.
 where they have never done me wrong, and consulted the paint guy. It
 went down a little like this:
 > **Trav**: What's your best stain-blocking primer?
->  **Paint Guy Bob**: What are you trying to do?
->  **T**: We're painting the bathroom. The last owners left this...
+> **Paint Guy Bob**: What are you trying to do?
+> **T**: We're painting the bathroom. The last owners left this...
 > uh... decal... and... it's been painted over... and I just want to
 > block it out.
->  **PGB**: I hate to be the bearer of bad tidings...
->  **T**: [Seeing what's coming] ...no...
->  **PGB**: ...but you're going to have to sand it off and retexture the
+> **PGB**: I hate to be the bearer of bad tidings...
+> **T**: [Seeing what's coming] ...no...
+> **PGB**: ...but you're going to have to sand it off and retexture the
 > wall.
->  **T**: Retexture?
->  **PGB**: Retexture.
->  **T**: Seriously, you have to be shitting me. There is no way I'm
+> **T**: Retexture?
+> **PGB**: Retexture.
+> **T**: Seriously, you have to be shitting me. There is no way I'm
 > retexturing my bathroom.
->  **PGB**: You can paint over it to your heart's content, but you'll
+> **PGB**: You can paint over it to your heart's content, but you'll
 > never get rid of it unless you sand it off and retexture.
->  **T**: Shit... [sigh] Where's the texturing spray?
->  **PGB**: Right around the corner, over there.
-
-
+> **T**: Shit... [sigh] Where's the texturing spray?
+> **PGB**: Right around the corner, over there.
 
  Un-fucking-believable. I sort of want to hunt down the prior owners of
 the house and ask them what the hell they were thinking. Next time I get

@@ -13,11 +13,11 @@ Some quick statistics:
 
 * Total number of files: 4998
 * Total content runtime: 134 days, 8 hours, 56 minutes, 47 seconds
-    - SD runtime: 115 days, 12 hours, 25 minutes, 17 seconds
-    - HD runtime: 18 days, 20 hours, 31 minutes, 30 seconds
+  * SD runtime: 115 days, 12 hours, 25 minutes, 17 seconds
+  * HD runtime: 18 days, 20 hours, 31 minutes, 30 seconds
 * Total file size: 5182.3GB
-    - SD file size: 3042.04GB
-    - HD file size: 2140.26GB
+  * SD file size: 3042.04GB
+  * HD file size: 2140.26GB
 * Average MB/minute for SD content: 18.73
 * Average MB/minute for HD content: 80.72
 

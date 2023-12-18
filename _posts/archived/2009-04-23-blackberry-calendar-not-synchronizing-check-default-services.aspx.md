@@ -44,4 +44,3 @@ Facebook is because I have family and friends on there and I want to
 keep up with what they're doing. I don't post, I don't add content
 there, I don't participate in apps, I have Twitter update my status, and
 that's that.
-

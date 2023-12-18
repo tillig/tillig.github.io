@@ -16,24 +16,23 @@ when it'll be done. I hope it will be soon, because instead of my car
  The Babemobile earned its name because that is precisely what it is
 *not*. It's a 1988(?) Plymouth Voyager. There are several issues with
 it:
--   It's a 4 cylinder engine. In a minivan. Floor it, and it *might* go
+
+- It's a 4 cylinder engine. In a minivan. Floor it, and it *might* go
     50mph. *Downhill, with a tailwind.*
--   The hood is rusting through, which gives the paint a nice, *abused*
+- The hood is rusting through, which gives the paint a nice, *abused*
     patina.
--   It shoots *black smoke* out of the tailpipe. I tried to convince
+- It shoots *black smoke* out of the tailpipe. I tried to convince
     myself that it was just a camouflaging device, similar to the ink
     that squids shoot at predators. But then when Scotty called up from
     the engine room ["She can't take much more of
     this!"](http://www.geocities.com/Yosemite/2667/star_trek_sex_lines.htm)
     I knew it was all just a lie.
--   It turns like a [wounded
+- It turns like a [wounded
     tugboat](http://www.freecoolpages.com/surfcity/towboat/tugboat.htm).
     I've taken to calling out directions in terms of "port" and
     "starboard."
--   *Everything* on it is *loose*. As you drive, the whole van chatters
+- *Everything* on it is *loose*. As you drive, the whole van chatters
     and squeaks like a small herd of lab rats.
-
-
 
  That's not a comprehensive list by any means, but you get the idea.
 

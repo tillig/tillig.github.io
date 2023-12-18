@@ -135,8 +135,6 @@ instead have to rely on the PS3. I'd honestly rather have the receiver
 doing that decoding... but it's not enough for me to warrant getting a
 new PS3 or a different Blu-ray player. Not yet at least.
 
- 
-
 Anyway, I'm still learning stuff, and as I figure it out I'll post it.
 This is what I've learned so far, and so far I like the receiver a lot.
 The clicking thing had me a little worried and still sometimes makes me
@@ -145,4 +143,3 @@ something wrong every time it switches... but it's not, it's just the TV
 broadcast being flaky.
 
 Hope this helps!
-

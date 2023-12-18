@@ -13,4 +13,3 @@ around in DXCore and caused CR_Documentor to fail to load. The latest
 version fixes that.
 
 As always, free - [go get it](http://cr-documentor.googlecode.com/)!
-

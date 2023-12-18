@@ -11,13 +11,14 @@ some of my web part development troubles and thought I'd share the
 [undocumented] wealth with the community.
 
  Web part properties can only be:
--   string
--   bool
--   int
--   float
--   enum
--   System.DateTime
--   System.Drawing.KnownColor
+
+- string
+- bool
+- int
+- float
+- enum
+- System.DateTime
+- System.Drawing.KnownColor
 
 The reason for this is that they use their own custom XML Serializer,
 not the standard one that .NET Framework ships with. (That's why I keep

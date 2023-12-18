@@ -41,4 +41,3 @@ If you didn't get this game, go get it now. It's well worth your $60.
 If you can, take the week off and play it. It's surreal, just like
 watching [a marathon of a full season of
 *24*](/archive/2004/10/11/24-in-less-than-20.aspx).
-

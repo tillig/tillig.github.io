@@ -16,9 +16,9 @@ To make it read "Open," you need to forward the following ports through
 your router to your Xbox (which means you'll also need a static IP
 address on your Xbox):
 
--   UDP 88
--   UDP 3074
--   TCP 3074
+- UDP 88
+- UDP 3074
+- TCP 3074
 
 Lucky for me, [PortForward.com](http://portforward.com/) has some great
 free how-to articles on setting up just that. Here's [the guide to
@@ -31,4 +31,3 @@ Interestingly enough, after futzing around with this and getting it to a
 situation where I couoldn't even connect to Xbox Live at all, I put all
 my settings back the way they were (remember they were "Moderate?") and
 suddenly it was seen as "Open." I guess you never can tell.
-

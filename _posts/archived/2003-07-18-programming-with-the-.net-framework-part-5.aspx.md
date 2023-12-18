@@ -6,6 +6,7 @@ comments: true
 disqus_identifier: 301
 tags: [dotnet,personal]
 ---
+<!--markdownlint-disable MD036 -->
 *8:14a*
 
  I've loaded up the car, checked out of the hotel, and I'm in my last

@@ -6,17 +6,17 @@ comments: true
 disqus_identifier: 1375
 tags: [net]
 ---
-Introduction
-============
+
+## Introduction
 
 This quick start gets you up to speed on the basic functionality of
 [Typemock Isolator](http://www.typemock.com). As you go through it,
 note:
 
--   While some basic unit testing will be reviewed, this is not a quick
+- While some basic unit testing will be reviewed, this is not a quick
     start for NUnit or unit testing in general, so proper test design
     and specifics on NUnit usage will not be addressed.
--   The quick start shows usage of the Enterprise features of [Typemock
+- The quick start shows usage of the Enterprise features of [Typemock
     Isolator](http://www.typemock.com). While all of this is possible in
     the community edition, the alternate mechanisms for accomplishing
     things won't be discussed.
@@ -30,16 +30,15 @@ to the exercises - that's for the reader), but it's recommended you
 create your solution and walk through the work and not just get the
 finished deal: [[View Complete Source](https://github.com/tillig/TypemockQuickStart)]
 
-Required Tools
-==============
+## Required Tools
 
 You'll need to have the following to work through the quick start:
 
--   [Visual Studio
+- [Visual Studio
     2008](http://msdn2.microsoft.com/en-us/vstudio/default.aspx)
--   [NUnit](http://www.nunit.org)
--   [Typemock Isolator](http://www.typemock.com)
--   [TestDriven.NET](http://www.testdriven.net)
+- [NUnit](http://www.nunit.org)
+- [Typemock Isolator](http://www.typemock.com)
+- [TestDriven.NET](http://www.testdriven.net)
 
 [Visual Studio
 2008](http://msdn2.microsoft.com/en-us/vstudio/default.aspx), [Typemock
@@ -49,86 +48,83 @@ developer machine. [NUnit](http://www.nunit.org) should be in an
 accessible location but doesn't necessarily have to be installed. Get
 the latest available versions.
 
-Create Test Solution
-====================
+## Create Test Solution
 
 You'll need a place where you can run through these exercises, so...
 
-1.  In Visual Studio, select "File -\> New Project..."
-2.  In the "New Project" dialog...
-    1.  In the tree view on the left, under "Visual C#" select
+1. In Visual Studio, select "File -\> New Project..."
+2. In the "New Project" dialog...
+    1. In the tree view on the left, under "Visual C#" select
         "Windows."
-    2.  In the "Templates" section on the right, select "Class Library."
-    3.  Give your libary a name like "TypeMockQuickStart."
+    2. In the "Templates" section on the right, select "Class Library."
+    3. Give your library a name like "TypeMockQuickStart."
 
-3.  In the Solution Explorer, in your new class library...
-    1.  Delete "Class1.cs" - we'll add more appropriately named classes
+3. In the Solution Explorer, in your new class library...
+    1. Delete "Class1.cs" - we'll add more appropriately named classes
         later.
-    2.  Add references to NUnit and Typemock Isolator.
-        1.  Right-click the "References" folder and select "Add
+    2. Add references to NUnit and Typemock Isolator.
+        1. Right-click the "References" folder and select "Add
             Reference..."
-        2.  In the .NET tab, select "Typemock Isolator for .NET 2.0" and
+        2. In the .NET tab, select "Typemock Isolator for .NET 2.0" and
             click OK.
-        3.  Right-click the "References" folder and select "Add
+        3. Right-click the "References" folder and select "Add
             Reference..."
-        4.  Reference NUnit. If you've installed NUnit, select the NUnit
+        4. Reference NUnit. If you've installed NUnit, select the NUnit
             Framework assembly from the .NET tab; if you're accessing
             NUnit from a known location, go to the Browse tab and find
             "nunit.framework.dll" and add a reference to that.
 
-Patterns
-========
+## Patterns
 
 This section discusses basic patterns you'll need to understand while
 working with unit testing and mocking.
 
-Unit Tests: Setup, Execute, Assert
-----------------------------------
+## Unit Tests: Setup, Execute, Assert
 
 The basic pattern for a unit test is "Setup, Execute, Assert":
 
--   **Setup**: Set up the test environment and the code that you're
+- **Setup**: Set up the test environment and the code that you're
     testing. This usually involves initializing some variables,
     instantiating your class, or setting up some configuration files
     that the code being tested needs.
--   **Execute**: Execute the code being tested.
--   **Assert**: Check to make sure that what you just executed had the
+- **Execute**: Execute the code being tested.
+- **Assert**: Check to make sure that what you just executed had the
     desired behavior.
 
 To examine this pattern, set up a simple class that can be tested and
 perform some unit tests on it.
 
-1.  Add a class called `Calculator`. Make it public.
-2.  In the `Calculator` class, add a method with this signature that
+1. Add a class called `Calculator`. Make it public.
+2. In the `Calculator` class, add a method with this signature that
     adds two doubles (a + b): `public double Add(double a, double b)`
-3.  Fill in the body for the `Calculator.Add` method.
-4.  In the `Calculator` class, add a method with this signature that
+3. Fill in the body for the `Calculator.Add` method.
+4. In the `Calculator` class, add a method with this signature that
     divides two doubles (a / b):
     `public double Divide(double a, double b)`
-5.  Fill in the body for the `Calculator.Divide` method. If "b" is zero,
+5. Fill in the body for the `Calculator.Divide` method. If "b" is zero,
     throw a `DivideByZeroException`.
 
 Now you have a simple class to test, let's add a test fixture for it.
 
-1.  Add a class called `CalculatorFixture`. Make it public.
-2.  Add an NUnit `[TestFixture]` attribute to `CalculatorFixture`. This
+1. Add a class called `CalculatorFixture`. Make it public.
+2. Add an NUnit `[TestFixture]` attribute to `CalculatorFixture`. This
     is how you tell NUnit and TestDriven.NET that this class contains
     unit tests.
 
 You now have a class to test and a fixture to contain your tests. Add a
 test for the `Calculator.Add` method.
 
-1.  In your test fixture class, add a `public void` method that takes no
+1. In your test fixture class, add a `public void` method that takes no
     parameters called "AddTwoPositiveNumbers":
     `public void AddTwoPositiveNumbers()`
-2.  Add an NUnit `[Test]` attribute to the `AddTwoPositiveNumbers`
+2. Add an NUnit `[Test]` attribute to the `AddTwoPositiveNumbers`
     method. This is how you tell NUnit and TestDriven.NET that this is a
     test to run.
-3.  Follow the "Setup, Execute, Assert" pattern to create your test.
-    1.  Setup: Create an instance of the Calculator class.
-    2.  Execute: Call the Add method on the instance with two positive
+3. Follow the "Setup, Execute, Assert" pattern to create your test.
+    1. Setup: Create an instance of the Calculator class.
+    2. Execute: Call the Add method on the instance with two positive
         numbers of your choosing.
-    3.  Assert: Verify that it returned the expected result.
+    3. Assert: Verify that it returned the expected result.
 
 Your test fixture will look something like this:
 
@@ -149,17 +145,17 @@ Your test fixture will look something like this:
       }
     }
 
-### Exercise
+### Exercise - Add Tests
 
 Add more tests.
 
--   Test the `Add` method:
-    -   Test adding of two negative numbers.
-    -   Test adding a number to zero.
+- Test the `Add` method:
+  - Test adding of two negative numbers.
+  - Test adding a number to zero.
 
--   Test the `Divide` method:
-    -   Test dividing one positive number by another.
-    -   Test dividing by zero (don't catch the exception - use the NUnit
+- Test the `Divide` method:
+  - Test dividing one positive number by another.
+  - Test dividing by zero (don't catch the exception - use the NUnit
         `[ExpectedException]` attribute on your test method).
 
 Notice how the pattern is basically the same? You do some
@@ -168,23 +164,22 @@ expected. You see a slight deviation from that pattern when testing for
 expected exceptions, but it's still basically doing an assertion, just
 expressed differently.
 
-Mocking: Record, Playback, Verify
----------------------------------
+### Mocking: Record, Playback, Verify
 
 The basic pattern for mocking an object is "Record, Playback, Verify":
 
--   **Record**: Tell the mocking framework what you're about to do on
+- **Record**: Tell the mocking framework what you're about to do on
     the mock object.
--   **Playback**: As you're executing the test, the mocking framework
+- **Playback**: As you're executing the test, the mocking framework
     "repeats" what you recorded.
--   **Verify**: Check to make sure that all the mocks you set up were
+- **Verify**: Check to make sure that all the mocks you set up were
     called correctly.
 
 This parallels the unit test "Setup, Execute, Assert" pattern. Part of
 your setup is to record your mocks; part of execution is playing back
 your mocks; part of assertion is verifying your mocks.
 
-Add a new method to the `Calcuator` class that has additional
+Add a new method to the `Calculator` class that has additional
 complexity. We'll use mocking to test this method:
 
     public double AddThenMultiply(double a, double b, double c)
@@ -201,10 +196,10 @@ re-test the `Add` method; we want to isolate the logic in the new method
 and just test that. Let's add a new fixture with tests that use Typemock
 Isolator to isolate the new logic.
 
-1.  Add a class called `CalculatorMockingFixture`. Make it public.
-2.  Add an NUnit `[TestFixture]` attribute to
+1. Add a class called `CalculatorMockingFixture`. Make it public.
+2. Add an NUnit `[TestFixture]` attribute to
     `CalculatorMockingFixture`.
-3.  Add a Typemock Isolator `[VerifyMocks]` attribute to
+3. Add a Typemock Isolator `[VerifyMocks]` attribute to
     `CalculatorMockingFixture`. This tells Typemock Isolator to
     automatically do the mock verification part of the test for you when
     the test is complete. It saves you from having to manually verify in
@@ -236,12 +231,12 @@ test method called `MultiplyPositiveAddResult`. Here is the method body:
 
 There's a lot happening here, so let's look over it:
 
-1.  The `Calculator` object we're going to test gets instantiated.
-2.  A `using` block is created where a new `RecordExpectations` object
+1. The `Calculator` object we're going to test gets instantiated.
+2. A `using` block is created where a new `RecordExpectations` object
     is created. This is a very common block you will see in Typemock
     Isolator usage that says, "Everything in this block is fake! Record
     it and get ready to play it back." Inside that block...
-    1.  We're calling the `Add` method on the `Calculator`. Notice that
+    1. We're calling the `Add` method on the `Calculator`. Notice that
         we're passing 0 for both parameters. The reason for this is that
         the `Add` method really isn't getting called, so it doesn't
         matter what we pass. The important part of this is that we're
@@ -249,14 +244,14 @@ There's a lot happening here, so let's look over it:
         don't even really care what we name the variable where we store
         the result because we'll never use it - hence, we'll just call
         it "dummy."
-    2.  We tell the recorder the value we want `Add` to return - in this
+    2. We tell the recorder the value we want `Add` to return - in this
         case, we want it to return 15. We don't care what gets passed
         in, the first time `Add` gets called, we want 15 to come back.
 
-3.  The `using` block closes, meaning we're done recording for now. Time
+3. The `using` block closes, meaning we're done recording for now. Time
     for playback.
-4.  We call the `AddThenMultiply` method and get the result.
-5.  We assert that we got the correct result.
+4. We call the `AddThenMultiply` method and get the result.
+5. We assert that we got the correct result.
 
 What did mocking get us? Try this: change this line:
 
@@ -273,18 +268,17 @@ Typemock Isolator sees that call to `Add` and doesn't actually let `Add`
 execute - instead, it returns the value we told it to return. In this
 case, we'll get 15 back.
 
-### Exercise
+### Exercise - Experiment
 
 Do some experimentation...
 
--   What happens if you call `Add` a second time in your test? Try
+- What happens if you call `Add` a second time in your test? Try
     adding a call to `calc.Add` after the `AddThenMultiply` call.
--   Why does that happen?
--   Can you set it up so the recorder returns 15 for the first call to
+- Why does that happen?
+- Can you set it up so the recorder returns 15 for the first call to
     `Add` but 25 for the second call?
 
-Practical Application
-=====================
+## Practical Application
 
 Once you've gotten your first mock down and get the patterns, the next
 question is, "How can I actually use this in my job? I'm not writing
@@ -295,23 +289,22 @@ section you'll walk through an example of isolating your code from .NET
 proper and look at some additional mocking verification that can be done
 to ensure your code is calling the framework correctly.
 
-Add a Class That Uses Configuration
------------------------------------
+### Add a Class That Uses Configuration
 
 To experiment with isolation from .NET, we'll add a new class. This
 class will make use of the .NET configuration system to read a value
 from configuration and perform an action based on that.
 
-1.  Add a reference to the `System.Configuration` assembly.
-2.  Add a class called `ConfigReader`. Make it public.
-3.  Add a `public` method called `AppendValueToSetting` that takes in a
+1. Add a reference to the `System.Configuration` assembly.
+2. Add a class called `ConfigReader`. Make it public.
+3. Add a `public` method called `AppendValueToSetting` that takes in a
     `string` and returns a `string`:
     `public string AppendValueToSetting(string valueToAppend)`
-4.  Fill in the `AppendValueToSetting` method:
-    1.  Read the `AppSettings` key "configReader" and store the result.
-    2.  Append the contents of the `valueToAppend` parameter to the end
+4. Fill in the `AppendValueToSetting` method:
+    1. Read the `AppSettings` key "configReader" and store the result.
+    2. Append the contents of the `valueToAppend` parameter to the end
         of the value from configuration.
-    3.  Return the concatenation results.
+    3. Return the concatenation results.
 
 It should look like this:
 
@@ -325,38 +318,36 @@ It should look like this:
       }
     }
 
-Test Cases
-----------
+### Test Cases
 
 Consider what you need to test about this method:
 
--   What happens if the setting isn't found?
--   What happens if the setting is empty?
--   What happesn if the setting is found?
+- What happens if the setting isn't found?
+- What happens if the setting is empty?
+- What happens if the setting is found?
 
 Now consider: It reads from the `App.config` file - how do you change
 that between tests? Is that even a good idea?
 
 Again - mocking to the rescue.
 
-Isolate Yourself From the Framework
------------------------------------
+### Isolate Yourself From the Framework
 
-1.  Add a test fixture for testing this class. Call the fixture
+1. Add a test fixture for testing this class. Call the fixture
     `ConfigReaderFixture` and include both the `[TestFixture]` attribute
     and `[VerifyMocks]` attribute.
-2.  Add a unit test to the fixture. Call it `SettingFound` - we'll test
+2. Add a unit test to the fixture. Call it `SettingFound` - we'll test
     what happens when the setting is correctly read from configuration.
-3.  In the test...
-    1.  Create an instance of `ConfigReader`.
-    2.  Create a recorder block. Inside the recorder block...
-        1.  Read the `ConfigurationManager.AppSettings["configReader"]`
+3. In the test...
+    1. Create an instance of `ConfigReader`.
+    2. Create a recorder block. Inside the recorder block...
+        1. Read the `ConfigurationManager.AppSettings["configReader"]`
             key.
-        2.  Tell the recorder to return the value "readFromAppSettings".
+        2. Tell the recorder to return the value "readFromAppSettings".
 
-    3.  Call the `AppendValueToSetting` method and pass in
+    3. Call the `AppendValueToSetting` method and pass in
         "PassedInFromTest".
-    4.  Assert that the value you get back is
+    4. Assert that the value you get back is
         "readFromAppSettingsPassedInFromTest" - the result of
         concatenating the two strings.
 
@@ -379,17 +370,16 @@ Notice how you didn't actually have to put anything in `App.config` -
 you don't really want to re-test the functionality of the .NET
 framework, you just want to test that your code is correct.
 
-### Exercise
+### Exercise - More Practical Ideas
 
 Take this to the next step...
 
--   Add a test where the app settings value is null to simulate what
+- Add a test where the app settings value is null to simulate what
     happens when it's not found.
--   Add a test where the app settings value is empty string to simulate
+- Add a test where the app settings value is empty string to simulate
     when the key is there but has an empty configured value.
 
-Verifying Mock Behavior
------------------------
+## Verifying Mock Behavior
 
 Try this: Go to your `ConfigReader` class and modify this line:
 
@@ -449,16 +439,14 @@ in the test ("configReader") was expected, but your production code used
 the wrong value ("theWrongKey"). Fix the `ConfigReader` class back to
 the correct settings key and your test will pass again.
 
-Mocking Instances
-=================
+## Mocking Instances
 
 Once you get past the simplest of cases, you start needing to mock
 specific instances of classes and sometimes you need to mock methods on
 instances that get created inside non-test code. Typemock Isolator can
 do both of these things.
 
-Mocking a Current Instance
---------------------------
+### Mocking a Current Instance
 
 This exercise will show you how to create an instance of an object where
 the constructor of the object is mocked and you control the entire life
@@ -509,8 +497,7 @@ new test:
       Assert.AreEqual(4, result);
     }
 
-This test runs the constructor for the object inside the recorder block
-- that means the constructor itself will be mocked. In this case, think
+This test runs the constructor for the object inside the recorder block - that means the constructor itself will be mocked. In this case, think
 about what that means - the default value for an uninitialized Boolean
 is `false`, so the `_allowAdd` value, which normally gets initialized to
 `true` in the default constructor, will remain `false` and won't let the
@@ -529,14 +516,13 @@ configuration, try to initialize a file in the filesystem, or do some
 other actions that you may want to control. In cases like these, you may
 need to mock the constructor for the object.
 
-### Exercise
+### Exercise - Mock a Current Instance
 
 Add a test where you mock the constructor logic but also test the
 `AddThenMultiply` method. What does that look like? How does it differ
 from the original test you ran with `AddThenMultiply`?
 
-Mocking a Future Instance
--------------------------
+### Mocking a Future Instance
 
 This exercise will show you how to set up expectations on an object that
 gets created in code you don't control.
@@ -570,23 +556,23 @@ Notice how the `BackwardsCalculator` constructor is creating a
 That's okay - you can still use mocks to mock out the call to
 `Calculator.Add` so you're isolating your code.
 
-1.  Add a test fixture for testing this class. Call the fixture
+1. Add a test fixture for testing this class. Call the fixture
     `BackwardsCalculatorFixture` and include both the `[TestFixture]`
     attribute and `[VerifyMocks]` attribute.
-2.  Add a unit test to the fixture. Call it `ReverseAddPositive` - we'll
+2. Add a unit test to the fixture. Call it `ReverseAddPositive` - we'll
     test two positive inputs.
-3.  In the test...
-    1.  Create a recorder block. Inside the recorder block...
-        1.  Create an instance of the `Calculator` class.
-        2.  Call the `Add` operation and pass in two known values.
-        3.  Check the arguments on the `Add` operation to make sure
+3. In the test...
+    1. Create a recorder block. Inside the recorder block...
+        1. Create an instance of the `Calculator` class.
+        2. Call the `Add` operation and pass in two known values.
+        3. Check the arguments on the `Add` operation to make sure
             you're getting called with the expected parameters.
-        4.  Return the known good result.
+        4. Return the known good result.
 
-    2.  Create an instance of `BackwardsCalculator`.
-    3.  Call the `ReverseAdd` method and pass in the parameters you
+    2. Create an instance of `BackwardsCalculator`.
+    3. Call the `ReverseAdd` method and pass in the parameters you
         decided on in the record block.
-    4.  Assert that the value you get back the reversed sum of the two
+    4. Assert that the value you get back the reversed sum of the two
         numbers.
 
 The test will look something like this:
@@ -613,37 +599,36 @@ expectations on that object." When we instantiate the
 goes into playback mode and mocks the creation of the `Calculator` in
 the `BackwardsCalculator` constructor.
 
-### Exercise
+### Exercise - Mock a Future Instance
 
--   If `Add` was doing more than just adding, this would be perfect for
+- If `Add` was doing more than just adding, this would be perfect for
     isolating our code. Add is a simple method, though. Look at the
     `CallOriginal` method on the recorder and see if you can get a test
     to pass where you're checking arguments but actually calling a live
     version of the `Calculator.Add` method.
--   The `ReverseAdd` method is using LINQ to reverse the string. Try
+- The `ReverseAdd` method is using LINQ to reverse the string. Try
     mocking the LINQ `Reverse` or `ToArray` statements.
--   Look at the `WhenArgumentsMatch` method on the recorder. It lets you
+- Look at the `WhenArgumentsMatch` method on the recorder. It lets you
     conditionally mock a statement based on the arguments that get
     passed into a method. Can you set up the mock so it only runs when
     the arguments match what is getting passed in?
 
-Advanced Mocking
-================
+## Advanced Mocking
 
 Mocking lets you isolate yourself from a lot of common situations,
 including:
 
--   **Class factories** - Instantiate a class based on a configured
+- **Class factories** - Instantiate a class based on a configured
     value. Isolate yourself from configuration when testing the factory
     or isolate yourself from the factory when testing code that uses the
     factory.
--   **Third-party dependencies** - Components from external vendors.
+- **Third-party dependencies** - Components from external vendors.
     Isolate yourself from the behavior of the dependency so you're not
     testing the component, you're testing your code.
--   **.NET framework** - Built-in framework classes. Isolate yourself
+- **.NET framework** - Built-in framework classes. Isolate yourself
     from the internal workings of the framework and test just how you're
     using it.
--   **Legacy API** - Code you have to interact with on legacy systems.
+- **Legacy API** - Code you have to interact with on legacy systems.
     Isolate your interaction code from the legacy system so you're not
     testing the system.
 
@@ -651,42 +636,40 @@ There are other cases where you might need to use Typemock Isolator,
 too, like adding tests for an API that was already written and can't
 change. You can mock lots of things that can make testing tricky...
 
--   Fields.
--   Static methods/properties.
--   Private methods/properties.
--   Sealed classes.
+- Fields.
+- Static methods/properties.
+- Private methods/properties.
+- Sealed classes.
 
-Take-Away
-=========
+## Take-Away
 
 If you forget everything else, remember these rules of thumb:
 
--   **Record, Playback, Verify.**
--   **If it's in a mock recorder block, it's not actually running** -
+- **Record, Playback, Verify.**
+- **If it's in a mock recorder block, it's not actually running** -
     it's recording to be played back later, like a tape recorder.
--   **Only mock what you need.** You can get into some crazy situations
+- **Only mock what you need.** You can get into some crazy situations
     by mocking too much, and you might end up in a spot where you're
     just testing your mocks and no actual code.
--   **Just because you can mock it doesn't mean you should.** For
+- **Just because you can mock it doesn't mean you should.** For
     example, Typemock Isolator can mock fields, but you should really
     stop and look at what you're mocking before you get too deep.
     Knowing too much about the internal implementation of a class will
     make your tests very brittle if anything has to change.
--   **You still need to design your application with good principles.**
+- **You still need to design your application with good principles.**
     Typemock Isolator enables you to test poorly designed code, but
     that's not a green light to stop proper software design.
 
-Additional Resources
-====================
+## Additional Resources
 
 The [Typemock Learn](http://www.typemock.com/Learn.html) page has a
 great set of resources, including:
 
--   API documentation
--   Examples
--   Multimedia
--   Cheat sheets
--   FAQ
+- API documentation
+- Examples
+- Multimedia
+- Cheat sheets
+- FAQ
 
 The [Cheat Sheets](http://www.typemock.com/Docs/CheatSheets.html) are
 particularly helpful - one-page references you can print off and use
@@ -696,4 +679,3 @@ If you use [Snippet
 Compiler](http://www.sliver.com/dotnet/SnippetCompiler/), you can
 experiment with Typemock Isolator using [a special template for Snippet
 Compiler.](/archive/2008/02/21/template-for-quick-typemock-testing.aspx)
-

@@ -125,14 +125,14 @@ to see it, I consider it good.
  In fact, I have a sort of different five-star scale by which I rate
 movies:
 
--   **5 Stars**: See it for full price in the theater
--   **4 Stars**: See it during the matinee price in the theater; it's
+- **5 Stars**: See it for full price in the theater
+- **4 Stars**: See it during the matinee price in the theater; it's
     good, but not worth full price
--   **3 Stars**: Rent it when it's a new release; it's not good enough
+- **3 Stars**: Rent it when it's a new release; it's not good enough
     for the theater, but you'll want to see it when it's out on video
--   **2 Stars**: Rent it once it's off "new release" status; you might
+- **2 Stars**: Rent it once it's off "new release" status; you might
     want to see it, but it's worth closer to $0.99/week than $3.49/day
--   **1 Star**: Don't bother. Not even worth the rental.
+- **1 Star**: Don't bother. Not even worth the rental.
 
 Most movies fit into the 3- or 4-Star range if I bother to see them. But
 the movies I put into the 5 Star range are never the movies that critics
@@ -150,4 +150,3 @@ seen more movies than the average person, I'm sure, and I still enjoy
 them for the entertainment value. When I become *too art-oriented* and
 stop enjoying them for what they are - entertainment - someone just come
 over and shoot me.
-

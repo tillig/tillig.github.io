@@ -30,4 +30,3 @@ I'm currently the \#1 result:
 girl"]({{ site.url }}/images/20080516rich.jpg)
 
 What are the crazy search terms that bring people to your site?
-

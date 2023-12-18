@@ -101,14 +101,14 @@ I don't know how much time it took exactly, but I know that I watch TV/Netflix w
 
 As far as cost, that's another thing I didn't really keep track of, but roughly (guessing on a few of these)...
 
- - Shoes: $45
- - Tie: $15
- - Pinstripe Suiting: $50
- - Lining: $10
- - Interfacing: $10
- - Felt (for the collar): $5
- - Twill: $10
- - Thread, buttons, zipper, notions: $30
+- Shoes: $45
+- Tie: $15
+- Pinstripe Suiting: $50
+- Lining: $10
+- Interfacing: $10
+- Felt (for the collar): $5
+- Twill: $10
+- Thread, buttons, zipper, notions: $30
 
 So... uh... $175? Give or take. It's not cheap. Even if you take out the cost for the shoes and tie, which I can wear elsewhere, you're still looking at over $100. Plus the time.
 

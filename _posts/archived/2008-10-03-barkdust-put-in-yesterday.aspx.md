@@ -22,4 +22,3 @@ We used [**Grimm's Advanced Bark
 Blowing**](http://www.grimmsfuel.com/blower.htm). We've had ProGrass do
 it before, too, but they're slightly more expensive. Grimm's does a
 really good job at a decent price. Done and done.
-

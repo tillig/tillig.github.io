@@ -61,11 +61,11 @@ a separate target that gets called just before compiling things.
 
 This block of script...
 
--   **Locates all of the config files to format**. I'm formatting every
+- **Locates all of the config files to format**. I'm formatting every
     config file except the ones associated with NuGet because I don't
     manually tweak those. If you have other config files to format,
     include those in the ConfigFiles item.
--   **Executes tidy.exe against the config files**. The options here
+- **Executes tidy.exe against the config files**. The options here
     indicate that I'm processing XML, I want it nicely indented with
     four spaces, and I want attributes nicely wrapped and indented. [You
     can modify the settings
@@ -74,12 +74,12 @@ This block of script...
     file with the original filename suffixed by "formatted", like
     "Web.config.formatted" so if anything goes wrong, it didn't make
     changes to the actual item.
--   **FileUpdate cleans up simple name/value pairs.** The downside to
+- **FileUpdate cleans up simple name/value pairs.** The downside to
     wrapping attributes is that simple name/value pairs get broken
     across lines. This makes things like appSettings harder to read, not
     easier. This little regex action running after tidy puts them back
     on one line.
--   **Replaces the original files with the nicely formatted versions.**
+- **Replaces the original files with the nicely formatted versions.**
     Simple copy/overwrite and delete of the temp file.
 
 All in all, it's pretty simple to get working and the end result is

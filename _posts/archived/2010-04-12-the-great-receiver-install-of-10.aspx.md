@@ -26,21 +26,21 @@ surround, so plenty of room to upgrade.
 I compared several options before settling on this particular receiver.
 My initial criteria:
 
--   Between $750 and $2000.
--   At least four HDMI inputs.
--   At least 6.1 surround support.
+- Between $750 and $2000.
+- At least four HDMI inputs.
+- At least 6.1 surround support.
 
 I started looking at models from Denon, Onkyo, Yamaha, and Pioneer, but
 quickly came down to Denon vs. Onkyo. From there, I compared:
 
--   Denon AVR-2310CI
--   Denon AVR-3310CI
--   Denon AVR-4310CI
--   Denon AVR-4810CI
--   Onkyo TX-NR807
--   Onkyo TX-NR1007
--   Onkyo TX-NR3007
--   Onkyo TX-NR5007
+- Denon AVR-2310CI
+- Denon AVR-3310CI
+- Denon AVR-4310CI
+- Denon AVR-4810CI
+- Onkyo TX-NR807
+- Onkyo TX-NR1007
+- Onkyo TX-NR3007
+- Onkyo TX-NR5007
 
 All of those have at least 5 HDMI inputs and 7.1 surround, and all are
 in the price range.
@@ -59,10 +59,10 @@ the remaining Onkyo units have 9.2 surround and the AVR-4810CI has 9.3.
 After that, it was a bang-for-the-buck comparison. The remaining
 contenders price out like this (roughly):
 
--   Denon AVR-4810CI: $3000
--   Onkyo TX-NR1007: $1200
--   Onkyo TX-NR3007: $1500
--   Onkyo TX-NR5007: $1900
+- Denon AVR-4810CI: $3000
+- Onkyo TX-NR1007: $1200
+- Onkyo TX-NR3007: $1500
+- Onkyo TX-NR5007: $1900
 
 Again, that's rough pricing - you can find sales and such that'll save
 you a couple hundred, give or take, but that's around the average price
@@ -222,4 +222,3 @@ sound interesting to people?)
 **UPDATE 4/27/2010**: I've posted about [what I've learned two weeks in
 with this
 receiver](/archive/2010/04/27/two-weeks-in-with-the-onkyo-tx-nr3007.aspx).
-

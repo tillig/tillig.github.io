@@ -14,9 +14,9 @@ Unable to display content. Adobe Flash is required.
 
 So... how do you do that? Here's how it plays out:
 
--   The tabs are [jQuery UI](http://jqueryui.com/).
--   The syntax highlighting is [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/).
--   The HTML is rendered with a special HtmlHelper extension method `DemoPartial` that I'll show you how to write.
+- The tabs are [jQuery UI](http://jqueryui.com/).
+- The syntax highlighting is [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/).
+- The HTML is rendered with a special HtmlHelper extension method `DemoPartial` that I'll show you how to write.
 
 The usage is really nice – you put your demo code into a partial view and then render it like this:
 
@@ -30,10 +30,10 @@ On with the show!
 
 First, let's set up the view that will be housing our demos. You'll need to include...
 
--   jQuery (JS)
--   jQuery UI (JS and CSS)
--   SyntaxHighlighter (JS and CSS)
--   SyntaxHighlighter "brush" scripts for XML/HTML and Razor (JS)
+- jQuery (JS)
+- jQuery UI (JS and CSS)
+- SyntaxHighlighter (JS and CSS)
+- SyntaxHighlighter "brush" scripts for XML/HTML and Razor (JS)
 
 You'll also need a little bit of startup script to get the tabs running. The base view will look like this:
 
@@ -143,11 +143,11 @@ using (var writer = new StringWriter(CultureInfo.InvariantCulture))
 
 What that does is:
 
--   Open a container with a special class of "demo-tabs" –
+- Open a container with a special class of "demo-tabs" –
     `<div class="demo-tabs">`
--   Create an unordered list of two items. jQuery UI will turn these into the tab headers. This is where that unique ID comes into play – each tab contains a link to a unique anchor in the page.
-    -   The first tab links to the demo part ("live render").
-    -   The second tab links to the code part ("highlighted syntax").
+- Create an unordered list of two items. jQuery UI will turn these into the tab headers. This is where that unique ID comes into play – each tab contains a link to a unique anchor in the page.
+  - The first tab links to the demo part ("live render").
+  - The second tab links to the code part ("highlighted syntax").
 
 Next we need to **write out the demo tab contents**. That's the part with the live render of the demo. It looks like this:
 
@@ -180,9 +180,9 @@ I made a second extension method `FindPartialViewFile` that does exactly that. I
 
 We need to:
 
--   Get the view file.
--   Determine which syntax highlighter to use (Razor or HTML/ASPX).
--   HTML-encode the view file contents and dump it to the code tab.
+- Get the view file.
+- Determine which syntax highlighter to use (Razor or HTML/ASPX).
+- HTML-encode the view file contents and dump it to the code tab.
 
 That looks like this:
 
@@ -265,10 +265,10 @@ Yeah, that's the signature. You can double-check in Reflector if you want. I'll 
 
 Now that we have our private method reference and our convenience delegate, we need to...
 
--   Iterate through all of the view engines in the collection.
--   For each engine that's a VirtualPathProviderViewEngine, call the GetPath method on the engine.
-    -   If it returns null, move to the next engine – the view wasn't found.
-    -   If it returns a string, use the VirtualPathProvider to get a reference to the virtual file and return that.
+- Iterate through all of the view engines in the collection.
+- For each engine that's a VirtualPathProviderViewEngine, call the GetPath method on the engine.
+  - If it returns null, move to the next engine – the view wasn't found.
+  - If it returns a string, use the VirtualPathProvider to get a reference to the virtual file and return that.
 
 In code, it looks like this:
 
@@ -310,18 +310,18 @@ I got the list of parameters by checking out the MVC code for this thing. There 
 
 **Whew! Now put that together with the DemoPartial extension and you're in business!**
 
--   Put your demo code into a standalone partial view.
--   In your main view, call Html.DemoPartial() and pass in the name of your partial view (and any other data). Just like Html.Partial only tabified.
--   Revel in how awesome your demo site is and how easy it is to maintain.
+- Put your demo code into a standalone partial view.
+- In your main view, call Html.DemoPartial() and pass in the name of your partial view (and any other data). Just like Html.Partial only tabified.
+- Revel in how awesome your demo site is and how easy it is to maintain.
 
 Below is the download for the complete source and my cobbled-up Razor syntax highlighter brush. **Standard disclaimers apply:**
 
--   It's free, and you get what you pay for.
--   Totally unsupported.
--   Works on my box.
--   Performance not guaranteed.
--   No warranty expressed or implied.
--   Don't say I didn't warn you.
--   Good luck and have fun.
+- It's free, and you get what you pay for.
+- Totally unsupported.
+- Works on my box.
+- Performance not guaranteed.
+- No warranty expressed or implied.
+- Don't say I didn't warn you.
+- Good luck and have fun.
 
 [[**Download Source** – DemoHtmlExtensions, ViewEngineCollectionExtensions, Razor Syntax Highlighter Brush, Stub Main View – 5KB]({{ site.url }}/downloads/DemoPartial.zip)]
