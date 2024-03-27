@@ -39,6 +39,7 @@ The key difference in what I'm doing here is that **everything goes into your us
 - [Issue: App Permissions](#issue-app-permissions)
 - [Issue: Bash Completions](#issue-bash-completions)
 - [Issue: Path and Environment Variable Propagation](#issue-path-and-environment-variable-propagation)
+- [Issue: Python Config During Updates](#issue-python-config-during-updates)
 - [Conclusion](#conclusion)
 
 ## Strategies
@@ -366,6 +367,10 @@ You can mitigate a little of this, at least in VS Code, by:
 - Always use shell commands to launch builds (specify `"type": "shell"` in `tasks.json`) for things instead of letting it default to `"type": "process"`.
 
 Other tools will, of course, require other workarounds.
+
+## Issue: Python Config During Updates
+
+Some packages like `glib` have a dependency on Python for installs. However, if you have configuration settings you may need to set (for example, `trusted-host`), with Python being in your user folder, you may not have the rights to write to `/Library/Application Support/pip` to set a global config. However, sometimes these installers ignore user-level config. In this case, you may need to [put your `pip.conf`](https://pip.pypa.io/en/stable/topics/configuration/) in the folder with Python, for example `~/local/opt/python@3.12/Frameworks/Python.framework/Versions/3.12/pip.conf`.
 
 ## Conclusion
 
