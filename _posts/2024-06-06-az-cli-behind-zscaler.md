@@ -16,10 +16,11 @@ The problem for me is that, if I move to a new machine, or if someone else is se
 
 ## On Mac
 
+- Make sure you have the Zscaler certificate in your system keychain as a trusted CA. Likely if you have Zscaler running this is already set up.
 - [Install the latest `ca-certificates` package](https://formulae.brew.sh/formula/ca-certificates#default) or get the content [from here](https://curl.se/docs/sslcerts.html).
 - Set the `REQUESTS_CA_BUNDLE` environment variable to point at the `cert.pem` that has all the CA certs in it.
 
-I'm not sure _why_ this works. That bundle doesn't have the Zscaler certificate in it, but without doing this things get TLS errors.
+This works because the Homebrew package for `ca-certificates` automatically [includes all the certificates from your system keychain](https://github.com/Homebrew/homebrew-core/blob/d4e3c5c9a6d1744e4f5b714cac2897227daa4e60/Formula/c/ca-certificates.rb#L32) so you don't have to manually append your custom/company CA info.
 
 ## On Windows
 
