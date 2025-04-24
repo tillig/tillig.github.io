@@ -153,13 +153,25 @@ eval "$($HOME/local/bin/brew shellenv)"
 
 ## PowerShell
 
-This one was more challenging because the default installer they provide requires admin permissions so you can't just download and run it or install via Homebrew. But I'm a PowerShell guy, so here's how that one worked:
+This one was more challenging because the default installer they provide requires admin permissions so you can't just download and run it or install via Homebrew.
+
+For this, you have one of two options:
+
+**Option 1: Use the dotnet global tool.**
+
+If you can get by on `bash` until the `dotnet` install later, you can install PowerShell as a dotnet global tool.
+
+```sh
+dotnet tool install --global PowerShell
+```
+
+**Option 2: Manual install.**
 
 First, find the URL for the the `.tar.gz` [from the releases page](https://github.com/PowerShell/PowerShell/releases) for your preferred PowerShell version and Mac architecture. I'm on an M1 so I'll get the `arm64` version.
 
 ```sh
 cd ~/Downloads
-curl -fsSL https://github.com/PowerShell/PowerShell/releases/download/v7.3.7/powershell-7.3.7-osx-arm64.tar.gz -o powershell.tar.gz
+curl -fsSL https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell-7.5.0-osx-arm64.tar.gz -o powershell.tar.gz
 mkdir -p ~/local/microsoft/powershell/7
 tar -xvf ./powershell.tar.gz -C ~/local/microsoft/powershell/7
 chmod +x ~/local/microsoft/powershell/7/pwsh
@@ -266,11 +278,10 @@ eval "$($HOME/local/bin/rbenv init - pwsh)"
 After the shell restart, we can start installing .NET and .NET global tools. In particular, [this is how I get the Git Credential Manager plugin](https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/install.md#net-tool).
 
 ```sh
-# Install latest .NET 6.0, 7.0, 8.0
+# Install latest .NET 8.0, 9.0
 dotnet-install.sh -?
-dotnet-install.sh -c 6.0
-dotnet-install.sh -c 7.0
 dotnet-install.sh -c 8.0
+dotnet-install.sh -c 9.0
 
 # Get Git Credential Manager set up.
 dotnet tool install -g git-credential-manager
