@@ -11,7 +11,7 @@ image: /images/20250425_kai.jpg
 
 On Wednesday, April 23, 2025, we had to say our final goodbyes to Kai, who was such a good boy to the very end.
 
-We [brought them home in July 2008]({{ site.url }}/archive/2008/07/06/welcome-kai-and-stanley.aspx) as kittens, brothers from the same litter. He was always super territorial, despite being an indoor cat, and would always make sure _that cat outside the window knew this was his house_.
+We [brought Kai and Stanley home in July 2008]({{ site.url }}/archive/2008/07/06/welcome-kai-and-stanley.aspx) as kittens, brothers from the same litter. Kai was always super territorial, despite being an indoor cat, and would always make sure _that cat outside the window knew this was his house_.
 
 He had the longest ~~forelegs~~ arms I've ever seen on a cat. He loved to stretch out and _just barely touch you_.
 
