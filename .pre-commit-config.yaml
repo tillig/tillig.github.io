@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: "f71fa2c1f9cf5cb705f73dffe4b21f7c61470ba9" # v4.4.0
+    rev: "cef0300fd0fc4d2a87a85fa2093c6b283ea36f4b" # v5.0.0
     hooks:
       - id: check-yaml
       - id: check-json
@@ -8,13 +8,13 @@ repos:
       - id: end-of-file-fixer
       - id: trailing-whitespace
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: "ce0d77ac47dc921b62429804fe763d4d35f66a76" # v0.34.0
+    rev: "192ad822316c3a22fb3d3cc8aa6eafa0b8488360" # v0.45.0
     hooks:
       - id: markdownlint
         args:
           - --fix
   - repo: https://github.com/tillig/json-sort-cli
-    rev: "02d92b16679e4d033c30c2832fa855eb498650e0" # v1.0.0
+    rev: "009ab2ab49e1f2fa9d6b9dfc31009ceeca055204" # v3.0.0
     hooks:
       - id: json-sort
         args:
