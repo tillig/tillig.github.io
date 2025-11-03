@@ -7,7 +7,7 @@ tags: [halloween,costumes]
 description: "We got 27 trick-or-treaters in 2025. Here's how the data breaks down year over year."
 image: /images/20251103_costumes_small.jpg
 ---
-This year we had 227 trick-or-treaters. That's a big increase from previous years.
+This year we had 227 trick-or-treaters. That's a bit on the higher end for us, but not quite as many as last year.
 
 ![2025: 227 trick-or-treaters.]({{ site.url }}/images/20251103_trickortreatcount.png)
 
@@ -19,12 +19,14 @@ Halloween was on a Friday and it was raining pretty constantly.
 
 As with 2024, we technically started handing out candy at 5:30 because the number of kids this year starting early was overwhelming. I've grouped the 5:30p to 6:00p kids (38) in with the 6:00p - 6:30p kids (57) to total 95 in the 6:00p - 6:30p time block. Given this is the second time we've had to start early, I wonder if I need to adjust the time capturing to start at 5:30 from here on out.
 
-Missing data:
+Missing/incongruous data:
 
 - 2017 we were remodeling the house and didn't hand out candy.
 - 2018 I walked with Phoenix and the tally got lost somewhere.
 - 2020 was COVID and no one handed out candy.
 - 2022 we were getting our floors redone due to a leak and the whole house was torn up so we didn't hand out candy.
+- 2024 we bundled 5:30-6:00 (24) in with 6:00-6:30 (22) which affects the average for that block.
+- 2025 we bundled 5:30-6:00 (38) in with 6:00-6:30 (57) which affects the average for that block.
 
 Cumulative data:
 
