@@ -7,6 +7,8 @@ tags: [personal,home,hardware,network,media]
 description: "I built a volume monitor for my Marantz receiver using an Arduino. This shows you how I did it so you can build one, too."
 image: /images/20170327_finishedbox.jpg
 ---
+> **June 2026: There's an update!** [I released a new version of this project with better hardware and software.](/archive/2026/06/27/marantz-volume-monitor-v2/)
+
 Our receiver, a [Marantz SR5010](http://amzn.to/2noIqXG), is in a cabinet. While it supports on-screen display to show current volume levels and input info, it seems to be fairly well known in the community (e.g., forums, etc.) that getting it to work in conjunction with a 4K display is more luck than skill.
 
 We had no problem with the OSD in standard 1080p HD format, once we got a 4K TV, the OSD basically stopped appearing. Turning everything off and back on again might see it reappear for a 10 or 15 minute span, but after that it disappears.
