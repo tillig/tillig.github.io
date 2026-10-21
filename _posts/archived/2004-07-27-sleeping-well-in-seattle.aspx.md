@@ -47,7 +47,7 @@ exists, it's probably at the market. We saw all sorts of crazy crap. The
 first [Starbucks](http://www.starbucks.com/) is there - that was neat.
 
  After that we walked around downtown and looked at [the Pioneer Square
-area](http://www.cityofseattle.net/tour/pioneer.htm). Again, lots of
+area](https://www.seattle.gov/parks/parks/pioneer-square). Again, lots of
 interesting stuff to see.
 
  We got back to the hotel, shin splints and all, by around 3:00p. We
