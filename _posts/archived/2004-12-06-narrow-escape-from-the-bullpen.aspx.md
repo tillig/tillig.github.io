@@ -4,7 +4,7 @@ title: "Narrow Escape From The Bullpen"
 date: 2004-12-06 -0800
 comments: true
 disqus_identifier: 706
-tags: [General Ramblings]
+tags: [work]
 ---
 I may have narrowly escaped getting thrown into a bullpen - a many, many
 person shared cube - because I called it like it is:

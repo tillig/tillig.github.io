@@ -4,7 +4,7 @@ title: "Star Wars Goodies"
 date: 2005-01-14 -0800
 comments: true
 disqus_identifier: 725
-tags: [General Ramblings]
+tags: [toys]
 ---
 Anyone looking for a gift for me can hook me up with the new Star Wars
 Mr. Potato Head, "[Darth

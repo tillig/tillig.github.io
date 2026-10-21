@@ -4,7 +4,7 @@ title: "Stress Case"
 date: 2004-03-24 -0800
 comments: true
 disqus_identifier: 548
-tags: [General Ramblings]
+tags: [personal]
 ---
 I'm a stress case. I'm a high-strung, mildly neurotic, anal-retentive,
 passive-aggressive stress case.

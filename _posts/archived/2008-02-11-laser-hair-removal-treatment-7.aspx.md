@@ -4,7 +4,7 @@ title: "Laser Hair Removal: Treatment 7"
 date: 2008-02-11 -0800
 comments: true
 disqus_identifier: 1347
-tags: [General Ramblings]
+tags: [medical]
 ---
 Saturday was my seventh in a
 [series](/archive/2008/01/14/laser-hair-removal-treatment-6.aspx) of

@@ -4,7 +4,7 @@ title: "Becoming Unburned"
 date: 2004-06-09 -0800
 comments: true
 disqus_identifier: 582
-tags: [General Ramblings]
+tags: [work]
 ---
 I finished this gigantic project at work, or at least the first release
 of it, and by the end of the whole thing I was well beyond burned out on

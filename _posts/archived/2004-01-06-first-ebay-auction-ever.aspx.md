@@ -4,7 +4,7 @@ title: "First eBay Auction EVER"
 date: 2004-01-06 -0800
 comments: true
 disqus_identifier: 437
-tags: []
+tags: [personal]
 ---
 Well, I've put my very first item up for bid on eBay: [A set of 10
 *Buffy The Vampire Slayer*

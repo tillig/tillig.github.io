@@ -4,7 +4,7 @@ title: "Christmas 2004 In Review"
 date: 2004-12-29 -0800
 comments: true
 disqus_identifier: 716
-tags: [General Ramblings]
+tags: [holidays,family]
 ---
 I figure I should probably spew the details of Christmas this year so
 folks are up to speed, plus I'm gonna forget if I don't dump it, so here

@@ -4,7 +4,7 @@ title: "Diary of a New Coffee Addict"
 date: 2006-04-03 -0800
 comments: true
 disqus_identifier: 978
-tags: [General Ramblings]
+tags: [food]
 ---
 [Stu](http://www.stuartthompson.net) kills me. It's always
 all-or-nothing with everything he does.

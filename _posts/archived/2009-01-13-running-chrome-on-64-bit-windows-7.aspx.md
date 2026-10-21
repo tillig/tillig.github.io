@@ -4,7 +4,7 @@ title: "Running Chrome on 64-bit Windows 7"
 date: 2009-01-13 -0800
 comments: true
 disqus_identifier: 1486
-tags: [GeekSpeak]
+tags: [windows]
 ---
 I saw this over on
 [Gizmodo](http://i.gizmodo.com/5130150/how-to-run-chrome-on-64+bit-windows-7)

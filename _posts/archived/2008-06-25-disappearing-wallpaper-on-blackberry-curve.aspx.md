@@ -4,7 +4,7 @@ title: "Disappearing Wallpaper on BlackBerry Curve"
 date: 2008-06-25 -0800
 comments: true
 disqus_identifier: 1402
-tags: [GeekSpeak]
+tags: [hardware]
 ---
 I finally got around to putting a new picture as the home screen image
 on my new BlackBerry Curve. The problem - every time I synchronized

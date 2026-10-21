@@ -4,7 +4,7 @@ title: "Taking On The Town"
 date: 2004-02-13 -0800
 comments: true
 disqus_identifier: 508
-tags: [General Ramblings]
+tags: [personal]
 ---
 I'm not sure if it's a sign of my age or distinct lack of energy, but
 Jenn's friends at work invited us out to go clubbing tonight and I was

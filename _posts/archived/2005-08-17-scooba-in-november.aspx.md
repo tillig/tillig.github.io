@@ -4,7 +4,7 @@ title: "Scooba In November"
 date: 2005-08-17 -0800
 comments: true
 disqus_identifier: 869
-tags: [General Ramblings]
+tags: [home]
 ---
 [![Scooba]({{ site.url }}/images/20050817scooba.gif)](http://www.irobot.com/consumer/scooba_information.cfm)It
 appears that the latest from iRobot - [the Scooba, a floor-mopping

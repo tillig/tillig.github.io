@@ -4,7 +4,7 @@ title: "Emoticon Stories"
 date: 2005-05-06 -0800
 comments: true
 disqus_identifier: 810
-tags: [General Ramblings]
+tags: [humor]
 ---
 I'm realizing that sequences of emoticons in MSN Messenger can sometimes
 tell entire stories:

@@ -4,7 +4,7 @@ title: "A Typical Play Session with my Toddler"
 date: 2012-03-15 -0800
 comments: true
 disqus_identifier: 1775
-tags: [General Ramblings]
+tags: [family]
 ---
 My 15-month-old daughter, Phoenix, is a kick in the pants. This kid has
 got more energy in her than I can keep up with. Of course, when she gets

@@ -4,7 +4,7 @@ title: "TV Definitely Not Fixed"
 date: 2005-05-06 -0800
 comments: true
 disqus_identifier: 809
-tags: [General Ramblings]
+tags: [media]
 ---
 I went in to check out the TV and it's not fixed. I mean, they put a new
 tube in, but even the repair technician there says he still sees the

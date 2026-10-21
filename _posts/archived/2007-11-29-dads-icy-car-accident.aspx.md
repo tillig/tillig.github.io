@@ -4,7 +4,7 @@ title: "Dad's Icy Car Accident"
 date: 2007-11-29 -0800
 comments: true
 disqus_identifier: 1310
-tags: [General Ramblings]
+tags: [family]
 ---
 
 [![Dad's Car Accident](http://lh3.google.com/travis.illig/R07WnVrMtiE/AAAAAAAAAP8/R5gDlmvzpfw/s160-c/DadSCarAccident.jpg)](http://picasaweb.google.com/travis.illig/DadSCarAccident)

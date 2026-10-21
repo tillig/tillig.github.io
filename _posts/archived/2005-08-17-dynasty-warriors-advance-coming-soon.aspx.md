@@ -4,7 +4,7 @@ title: "Dynasty Warriors Advance Coming Soon"
 date: 2005-08-17 -0800
 comments: true
 disqus_identifier: 870
-tags: [General Ramblings]
+tags: [gaming,gameboy]
 ---
 I'm a big fan of [Koei's "dynasty"
 games](http://www.koei.com/games/dynasty.cfm), so to see [Dynasty

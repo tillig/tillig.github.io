@@ -4,7 +4,7 @@ title: "I've Got A Fever..."
 date: 2005-07-27 -0800
 comments: true
 disqus_identifier: 863
-tags: [General Ramblings]
+tags: [humor]
 ---
 ...and the only prescription is [more
 cowbell](http://www.radmonkeycowbells.com/vlc800.html).

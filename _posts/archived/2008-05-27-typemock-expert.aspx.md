@@ -4,7 +4,7 @@ title: "Typemock Expert"
 date: 2008-05-27 -0800
 comments: true
 disqus_identifier: 1391
-tags: [GeekSpeak,dotnet]
+tags: [dotnet,testing]
 ---
 [![Typemock
 Expert]({{ site.url }}/images/typemockexperteg1.gif)](http://www.typemock.com/experts.html)I

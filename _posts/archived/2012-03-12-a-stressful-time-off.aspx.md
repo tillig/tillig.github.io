@@ -4,7 +4,7 @@ title: "A Stressful Time Off"
 date: 2012-03-12 -0800
 comments: true
 disqus_identifier: 1772
-tags: [General Ramblings]
+tags: [family]
 ---
 I had a four-day-weekend this past weekend but, while it should have
 been a fairly mild time, it turned out to be a stress-filled pain.

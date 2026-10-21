@@ -4,7 +4,7 @@ title: "His Name Was Jack"
 date: 2008-05-30 -0800
 comments: true
 disqus_identifier: 1393
-tags: [General Ramblings]
+tags: [cats]
 ---
 Yesterday our cat Jack passed. He was only about a year and a half old.
 

@@ -4,7 +4,7 @@ title: "Graduated From Allergy Shots"
 date: 2006-01-19 -0800
 comments: true
 disqus_identifier: 944
-tags: [General Ramblings]
+tags: [medical]
 ---
 I've been on allergy immunotherapy shots for about three years now to
 lower my susceptibility to dust, pollen, and animal allergic reaction. I

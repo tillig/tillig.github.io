@@ -4,7 +4,7 @@ title: "Analyzing Requirements, Part 1"
 date: 2003-12-16 -0800
 comments: true
 disqus_identifier: 425
-tags: [net]
+tags: [dotnet]
 ---
 I didn't do a play by play for this class because... ugh. It's a dry
 class. I'm bored, so I can only assume anyone reading would be bored.

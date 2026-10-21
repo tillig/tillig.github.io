@@ -4,7 +4,7 @@ title: "Poopingcat"
 date: 2004-07-29 -0800
 comments: true
 disqus_identifier: 632
-tags: [General Ramblings]
+tags: [cats]
 ---
 I'm working at home today while the drywall contractors are here fixing
 my bathroom and my Tiny Cat is loving every minute of it. You'd think

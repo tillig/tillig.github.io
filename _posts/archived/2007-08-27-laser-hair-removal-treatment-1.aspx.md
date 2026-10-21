@@ -4,7 +4,7 @@ title: "Laser Hair Removal: Treatment 1"
 date: 2007-08-27 -0800
 comments: true
 disqus_identifier: 1259
-tags: [General Ramblings]
+tags: [medical]
 ---
 First, out with it: I'm getting laser hair removal on my face.
 

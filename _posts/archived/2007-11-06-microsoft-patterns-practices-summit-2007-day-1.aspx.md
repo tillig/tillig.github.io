@@ -4,7 +4,7 @@ title: "Microsoft Patterns & Practices Summit 2007 - Day 1"
 date: 2007-11-06 -0800
 comments: true
 disqus_identifier: 1290
-tags: [GeekSpeak]
+tags: [conferences,architecture,dotnet]
 ---
 <!--markdownlint-disable MD036 -->
 **The topic of Day 1: Architecture.**

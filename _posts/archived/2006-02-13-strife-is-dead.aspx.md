@@ -4,7 +4,7 @@ title: "Strife Is Dead!"
 date: 2006-02-13 -0800
 comments: true
 disqus_identifier: 952
-tags: [General Ramblings]
+tags: [gaming,playstation]
 ---
 Been playing [Soul Calibur
 III](http://www.amazon.com/exec/obidos/ASIN/B000935256/mhsvortex) for

@@ -4,7 +4,7 @@ title: "Family Business"
 date: 2005-12-16 -0800
 comments: true
 disqus_identifier: 934
-tags: [General Ramblings]
+tags: [family]
 ---
 This is more for the folks involved in this debacle, but I'm going to
 just put it out there. Those who know what I'm talking about, great.

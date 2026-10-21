@@ -4,7 +4,7 @@ title: "Hockey Season Has Begun"
 date: 2004-10-04 -0800
 comments: true
 disqus_identifier: 669
-tags: [General Ramblings]
+tags: [hockey]
 ---
 Hockey season, at least as far as the [Winter
 Hawks](http://www.winterhawks.com) are concerned, has begun. This means

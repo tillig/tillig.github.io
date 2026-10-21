@@ -4,7 +4,7 @@ title: "Donkey Birthday"
 date: 2007-09-17 -0800
 comments: true
 disqus_identifier: 1267
-tags: [General Ramblings]
+tags: [family]
 ---
 This weekend was Jenn's birthday so we had a big two-day extravaganza.
 

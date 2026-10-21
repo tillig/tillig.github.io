@@ -4,7 +4,7 @@ title: "Black Uniball Roller Micro 0.5mm"
 date: 2008-12-12 -0800
 comments: true
 disqus_identifier: 1476
-tags: [General Ramblings]
+tags: [personal]
 ---
 **Best. Pens. Ever.**
 

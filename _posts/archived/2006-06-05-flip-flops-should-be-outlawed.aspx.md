@@ -4,7 +4,7 @@ title: "Flip-Flops Should Be Outlawed"
 date: 2006-06-05 -0800
 comments: true
 disqus_identifier: 1012
-tags: [General Ramblings]
+tags: [personal]
 ---
 I'm a reasonably easy-going person. Reasonably. And I'm all for folks
 who want to wear comfortable clothing. I, myself, am not a fashion plate

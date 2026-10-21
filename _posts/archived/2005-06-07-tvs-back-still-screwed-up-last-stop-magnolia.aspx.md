@@ -4,7 +4,7 @@ title: "TV's Back, Still Screwed Up, Last Stop: Magnolia"
 date: 2005-06-07 -0800
 comments: true
 disqus_identifier: 836
-tags: [General Ramblings]
+tags: [media]
 ---
 The TV got returned to me at 11:00a today, still exhibiting the
 discoloration and distorted picture they took it away to repair all that

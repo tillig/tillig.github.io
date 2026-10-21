@@ -4,7 +4,7 @@ title: "Xbox Live Joined"
 date: 2006-04-18 -0800
 comments: true
 disqus_identifier: 988
-tags: [General Ramblings]
+tags: [gaming,xbox]
 ---
 I joined [Xbox Live](http://www.xbox.com/en-US/live/) since the Silver
 membership is free and they give you a free month of the Gold

@@ -4,7 +4,7 @@ title: "Burger King + DDR = ?"
 date: 2006-12-11 -0800
 comments: true
 disqus_identifier: 1111
-tags: [General Ramblings]
+tags: [gaming]
 ---
 I [blogged before about the Burger King video games for
 Xbox](/archive/2006/11/28/game-with-the-king.aspx), but I didn't know

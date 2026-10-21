@@ -4,7 +4,7 @@ title: "Noah's Nibblers"
 date: 2007-06-03 -0800
 comments: true
 disqus_identifier: 1210
-tags: [General Ramblings]
+tags: [family]
 ---
 [![Travis Holds a Baby Goat - Click for the full
 album]({{ site.url }}/images/20070603noahsnibblers.jpg)](http://picasaweb.google.com/travis.illig/NoahSNibblers)Yesterday

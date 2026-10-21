@@ -4,7 +4,7 @@ title: "Granddad's Service"
 date: 2006-06-19 -0800
 comments: true
 disqus_identifier: 1021
-tags: [General Ramblings]
+tags: [family]
 ---
 Saturday was [Granddad's memorial
 service](/archive/2006/05/17/goodbye-granddad-i-love-you.aspx) where

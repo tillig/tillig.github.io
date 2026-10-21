@@ -4,7 +4,7 @@ title: "How Do Non-Geeks Survive?"
 date: 2010-01-06 -0800
 comments: true
 disqus_identifier: 1602
-tags: [GeekSpeak,General Ramblings]
+tags: [hardware]
 ---
 In dealing with today's technology, I feel like I'm inundated with what
 I usually refer to as "fiddly shit": constant, tiny maintenance tasks to

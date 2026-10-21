@@ -4,7 +4,7 @@ title: "Introducing Jack"
 date: 2007-02-04 -0800
 comments: true
 disqus_identifier: 1144
-tags: [General Ramblings]
+tags: [cats]
 ---
 Everyone, I'd like to introduce Jack:
 

@@ -4,7 +4,7 @@ title: "Laser Hair Removal: Treatment 2"
 date: 2007-09-25 -0800
 comments: true
 disqus_identifier: 1271
-tags: [General Ramblings]
+tags: [medical]
 ---
 Saturday was my second laser hair removal treatment, and I won't lie, I
 was worried.

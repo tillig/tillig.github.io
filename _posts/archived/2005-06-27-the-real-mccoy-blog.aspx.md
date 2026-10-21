@@ -4,7 +4,7 @@ title: "The Real McCoy Blog"
 date: 2005-06-27 -0800
 comments: true
 disqus_identifier: 849
-tags: [General Ramblings]
+tags: [music]
 ---
 If you were ever a fan of the early-90's era techno band The Real McCoy,
 [O-Jay (the rap artist from the band) has a blog

@@ -4,7 +4,7 @@ title: "Not a Thanksgiving Fan"
 date: 2006-11-27 -0800
 comments: true
 disqus_identifier: 1105
-tags: [General Ramblings]
+tags: [holidays]
 ---
 I just came off a four-day weekend and I remember all over again why I'm
 not a big Thanksgiving (or holiday, for that matter) fan. Yeah, that

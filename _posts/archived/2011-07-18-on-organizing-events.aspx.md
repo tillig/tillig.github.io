@@ -4,7 +4,7 @@ title: "On Organizing Events"
 date: 2011-07-18 -0800
 comments: true
 disqus_identifier: 1725
-tags: [General Ramblings]
+tags: [personal]
 ---
 I hate organizing events. I think if I was in a job interview where they
 ask you that question, "What's your biggest weakness?" my new answer

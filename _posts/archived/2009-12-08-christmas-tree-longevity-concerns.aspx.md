@@ -4,7 +4,7 @@ title: "Christmas Tree Longevity Concerns"
 date: 2009-12-08 -0800
 comments: true
 disqus_identifier: 1594
-tags: [General Ramblings]
+tags: [holidays,cats]
 ---
 We put up our fake, pre-lit Christmas tree this past weekend in
 preparation for the holidays. It looked a little sad once we got it up

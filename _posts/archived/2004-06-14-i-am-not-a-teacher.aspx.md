@@ -4,7 +4,7 @@ title: "I Am Not A Teacher"
 date: 2004-06-14 -0800
 comments: true
 disqus_identifier: 586
-tags: [General Ramblings]
+tags: [personal]
 ---
 I know enough about myself to admit my weaknesses and know the
 boundaries on my abilities. For example, I have very little patience

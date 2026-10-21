@@ -4,7 +4,7 @@ title: "Possible Wedding Changes"
 date: 2006-03-21 -0800
 comments: true
 disqus_identifier: 969
-tags: [General Ramblings]
+tags: [family]
 ---
 We got the invoice for what the food will cost if we invite the full 125
 people that we were going to and have all the hors d'oeuvres and such

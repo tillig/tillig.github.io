@@ -4,7 +4,7 @@ title: "Lego Imperial Shuttle - Time Lapse"
 date: 2011-10-07 -0800
 comments: true
 disqus_identifier: 1740
-tags: [General Ramblings]
+tags: [toys]
 ---
 A while ago I did a time lapse video of me building [the Lego Imperial
 Shuttle kit](http://www.amazon.com/dp/B0041I0N9A?tag=mhsvortex) and I

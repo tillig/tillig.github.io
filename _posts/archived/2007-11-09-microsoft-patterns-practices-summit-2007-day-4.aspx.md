@@ -4,7 +4,7 @@ title: "Microsoft Patterns & Practices Summit 2007 - Day 4"
 date: 2007-11-09 -0800
 comments: true
 disqus_identifier: 1295
-tags: [GeekSpeak]
+tags: [conferences,aspnet]
 ---
 <!--markdownlint-disable MD036 -->
 

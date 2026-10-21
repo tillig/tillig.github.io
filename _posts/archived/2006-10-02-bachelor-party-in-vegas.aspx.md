@@ -4,7 +4,7 @@ title: "Bachelor Party in Vegas"
 date: 2006-10-02 -0800
 comments: true
 disqus_identifier: 1081
-tags: [General Ramblings]
+tags: [activities,family]
 ---
 ![Stu hangs out with a showgirl outside
 Bally's]({{ site.url }}/images/20061002showgirl.jpg)I'm

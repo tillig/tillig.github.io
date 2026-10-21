@@ -4,7 +4,7 @@ title: "Bonding Over Doctor Who"
 date: 2013-10-10 -0800
 comments: true
 disqus_identifier: 1827
-tags: [General Ramblings]
+tags: [family,tv]
 ---
 I admit, I have sort of a love-hate relationship with my toddler. I love
 her so much and she's so cute and friendly and fun... when she's in a good

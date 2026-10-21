@@ -4,7 +4,7 @@ title: "IT Musical Preferences"
 date: 2004-07-20 -0800
 comments: true
 disqus_identifier: 625
-tags: [General Ramblings]
+tags: [music]
 ---
 Saw [this](http://slashdot.org/article.pl?sid=04/07/20/1326207) posted
 over at Slashdot and figured it was interesting enough to comment on:

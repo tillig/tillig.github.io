@@ -4,7 +4,7 @@ title: "Getting The Most From Twhirl"
 date: 2008-04-22 -0800
 comments: true
 disqus_identifier: 1378
-tags: [GeekSpeak]
+tags: [web]
 ---
 [I'm a Twitter user](http://twitter.com/tillig), but it wasn't always
 like that. The problem is, Twitter really only seems to be useful if you

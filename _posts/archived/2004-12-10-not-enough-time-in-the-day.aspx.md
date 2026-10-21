@@ -4,7 +4,7 @@ title: "Not Enough Time In The Day"
 date: 2004-12-10 -0800
 comments: true
 disqus_identifier: 708
-tags: [General Ramblings]
+tags: [work]
 ---
 As the holidays rapidly approach and the schedule for my project at work
 continues to fold in upon itself (in ways I thought only a [Guild

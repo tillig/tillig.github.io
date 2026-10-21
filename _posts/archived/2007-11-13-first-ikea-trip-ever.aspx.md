@@ -4,7 +4,7 @@ title: "First Ikea Trip Ever"
 date: 2007-11-13 -0800
 comments: true
 disqus_identifier: 1302
-tags: [General Ramblings]
+tags: [home]
 ---
 Sunday was my first trip to an [Ikea](http://www.ikea.com) store ever.
 

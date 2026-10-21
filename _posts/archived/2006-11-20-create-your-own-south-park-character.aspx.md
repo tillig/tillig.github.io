@@ -4,7 +4,7 @@ title: "Create Your Own South Park Character"
 date: 2006-11-20 -0800
 comments: true
 disqus_identifier: 1103
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 Over at [South Park Studios](http://www.southparkstudios.com/) they have
 a [Create-a-Character Flash

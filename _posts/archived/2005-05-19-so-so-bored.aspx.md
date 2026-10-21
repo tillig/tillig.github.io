@@ -4,7 +4,7 @@ title: "So, So Bored"
 date: 2005-05-19 -0800
 comments: true
 disqus_identifier: 819
-tags: [General Ramblings]
+tags: [work]
 ---
 We've gotten to that QA stage in the project where for the last several
 days all I've done at work is fix minor typographical errors and, like,

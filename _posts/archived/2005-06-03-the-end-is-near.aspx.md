@@ -4,7 +4,7 @@ title: "The End Is Near"
 date: 2005-06-03 -0800
 comments: true
 disqus_identifier: 833
-tags: [General Ramblings]
+tags: [media]
 ---
 I got a phone call yesterday from the TV repair shop. I'm not sure what
 changed between a month ago when they said it was "unrepairable" and

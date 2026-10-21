@@ -4,7 +4,7 @@ title: "Cheap Used Games"
 date: 2005-10-10 -0800
 comments: true
 disqus_identifier: 905
-tags: [General Ramblings]
+tags: [gaming,playstation]
 ---
 I have a difficult time ponying up $50 for a new game without having
 played it before, and renting games costs like $7.50 each, after which,

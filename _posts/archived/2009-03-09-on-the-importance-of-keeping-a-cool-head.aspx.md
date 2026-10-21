@@ -4,7 +4,7 @@ title: "On the Importance of Keeping a Cool Head"
 date: 2009-03-09 -0800
 comments: true
 disqus_identifier: 1499
-tags: [General Ramblings,GeekSpeak]
+tags: [process]
 ---
 I've been working on a few projects lately that have a very
 time-sensitive aspect to them. That time-sensitivity is accompanied by

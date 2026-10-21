@@ -4,7 +4,7 @@ title: "Paternity Leave Nearly Done"
 date: 2010-12-29 -0800
 comments: true
 disqus_identifier: 1687
-tags: [General Ramblings]
+tags: [family]
 ---
 It's been a little over a month [since Phoenix was
 born](/archive/2010/12/01/phoenix-aeralynn-illig.aspx) and now that

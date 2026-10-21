@@ -4,7 +4,7 @@ title: "Photographic Coolness"
 date: 2007-02-27 -0800
 comments: true
 disqus_identifier: 1154
-tags: [General Ramblings]
+tags: [personal]
 ---
 Found a couple of cool artists over at [Boing
 Boing](http://www.boingboing.net/2007/02/26/robot_flapper_pinup_.html).

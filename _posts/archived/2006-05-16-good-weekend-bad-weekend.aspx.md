@@ -4,7 +4,7 @@ title: "Good Weekend, Bad Weekend"
 date: 2006-05-16 -0800
 comments: true
 disqus_identifier: 1004
-tags: [General Ramblings]
+tags: [family]
 ---
 The weekend had high points and low points, starting high and ending
 low.

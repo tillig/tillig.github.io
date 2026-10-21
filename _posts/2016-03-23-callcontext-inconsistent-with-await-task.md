@@ -3,7 +3,7 @@ layout: post
 title: "CallContext Behaves Inconsistently When Used With Awaited Tasks"
 date: 2016-03-23 -0800
 comments: true
-tags: [net]
+tags: [dotnet]
 description: "Getting and setting CallContext data doesn't behave in a consistent manner when used with async/await and Task methods. This article shows an example of the gotcha."
 ---
 I've been working a bit with Serilog and ASP.NET Core lately. In both cases, there are constructs that use CallContext to store data across an asynchronous flow. For Serilog, it's the [`LogContext` class](https://github.com/serilog/serilog/blob/5699bde2ec27587e0e6cce6bda9bc3827cb926bc/src%2FSerilog%2FContext%2FLogContext.cs#L209-L232); for ASP.NET Core it's the [`HttpContextAccessor`](https://github.com/aspnet/HttpAbstractions/blob/9f499d7962a6488115cacfd06d93dde09614a05d/src/Microsoft.AspNetCore.Http/HttpContextAccessor.cs#L19-L30).

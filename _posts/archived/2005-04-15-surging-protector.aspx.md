@@ -4,7 +4,7 @@ title: "Surging Protector"
 date: 2005-04-15 -0800
 comments: true
 disqus_identifier: 793
-tags: [General Ramblings]
+tags: [hardware]
 ---
 I went to the store and bought a couple of surge protector power strips
 last night to clean up some of the cord mess we have going on with the

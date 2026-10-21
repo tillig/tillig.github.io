@@ -4,7 +4,7 @@ title: "Shrimp Cones"
 date: 2004-07-19 -0800
 comments: true
 disqus_identifier: 624
-tags: [General Ramblings]
+tags: [food]
 ---
 We beer-battered some shrimp last night (I'm not really a beer drinker,
 so it's good to find something to do with the leftover beer from our

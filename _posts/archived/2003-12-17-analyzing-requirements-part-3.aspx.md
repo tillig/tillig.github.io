@@ -4,7 +4,7 @@ title: "Analyzing Requirements, Part 3"
 date: 2003-12-17 -0800
 comments: true
 disqus_identifier: 427
-tags: [net]
+tags: [dotnet]
 ---
 Okay, well technically speaking it's not the end of the day today yet,
 but I'm going to post now because it's lunchtime and I have time to do

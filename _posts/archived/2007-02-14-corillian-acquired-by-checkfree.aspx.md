@@ -4,7 +4,7 @@ title: "Corillian Acquired By CheckFree"
 date: 2007-02-14 -0800
 comments: true
 disqus_identifier: 1150
-tags: [General Ramblings]
+tags: [work]
 ---
 [Looks like my company is getting
 acquired.](http://www.corillian.com/corporate/news/XcNewsPlus.asp?cmd=view&articleid=337)

@@ -4,7 +4,7 @@ title: "Regaining Composure"
 date: 2004-07-21 -0800
 comments: true
 disqus_identifier: 627
-tags: [General Ramblings]
+tags: [personal]
 ---
 It never bodes well when you go up to the next floor and an aroma
 somewhere between popcorn and Trix comes wafting from the break room and

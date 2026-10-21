@@ -4,7 +4,7 @@ title: "Screen Protector Recommendation - Martin Fields"
 date: 2007-12-11 -0800
 comments: true
 disqus_identifier: 1320
-tags: [General Ramblings]
+tags: [hardware]
 ---
 [![Martin
 Fields]({{ site.url }}/images/20071211martinfields.gif)](http://www.martinfields.com/US/index.asp)I've

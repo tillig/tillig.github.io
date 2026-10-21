@@ -4,7 +4,7 @@ title: "Lawn Detritus"
 date: 2006-03-22 -0800
 comments: true
 disqus_identifier: 972
-tags: [General Ramblings]
+tags: [home]
 ---
 I went out to get the mail last night and found a used condom wrapper in
 the middle of my damn lawn. How the hell did that get there? I mean, are

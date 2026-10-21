@@ -4,7 +4,7 @@ title: "Happy Valley Fireworks 2010"
 date: 2010-07-07 -0800
 comments: true
 disqus_identifier: 1653
-tags: [General Ramblings]
+tags: [fireworks]
 ---
 For the second year in a row, [Western Display
 Fireworks](http://www.westerndisplay.com/) decided to trust Jenn and I

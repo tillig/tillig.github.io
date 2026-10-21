@@ -4,7 +4,7 @@ title: "Tax Return ~= Free Money"
 date: 2004-02-14 -0800
 comments: true
 disqus_identifier: 510
-tags: [General Ramblings]
+tags: [personal]
 ---
 I just finished my taxes a few minutes ago. Now, I realize that
 financial analysts or whatever say that it's better to owe at the end of

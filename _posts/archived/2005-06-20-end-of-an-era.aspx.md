@@ -4,7 +4,7 @@ title: "End Of An Era"
 date: 2005-06-20 -0800
 comments: true
 disqus_identifier: 845
-tags: [General Ramblings]
+tags: [media]
 ---
 My [Sharp Aquos
 LC-37D7U](http://www.amazon.com/exec/obidos/ASIN/B0007UVYLW/mhsvortex)

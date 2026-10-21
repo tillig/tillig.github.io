@@ -4,7 +4,7 @@ title: "Running Ubuntu on the XO Laptop"
 date: 2008-11-14 -0800
 comments: true
 disqus_identifier: 1465
-tags: [GeekSpeak]
+tags: [linux]
 ---
 About a year ago now, [I participated in the "Give One, Get One" program
 for the One Laptop Per Child

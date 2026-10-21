@@ -4,7 +4,7 @@ title: "County Fair and the Beach"
 date: 2005-08-02 -0800
 comments: true
 disqus_identifier: 864
-tags: [General Ramblings]
+tags: [fireworks,activities]
 ---
 This weekend was a hell of a lot of fun, but also pretty exhausting.
 It's Tuesday and I'm still beat.

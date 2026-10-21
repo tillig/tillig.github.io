@@ -4,7 +4,7 @@ title: "The Noble Collection"
 date: 2004-11-22 -0800
 comments: true
 disqus_identifier: 698
-tags: [General Ramblings]
+tags: [toys]
 ---
 I got a catalog in the mail this weekend for "[The Noble
 Collection](http://www.noblecollection.com/)." Normally I'm not too into

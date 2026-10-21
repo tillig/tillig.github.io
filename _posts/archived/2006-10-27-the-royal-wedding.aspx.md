@@ -4,7 +4,7 @@ title: "The Royal Wedding"
 date: 2006-10-27 -0800
 comments: true
 disqus_identifier: 1088
-tags: [General Ramblings]
+tags: [family]
 ---
 Well, it's official. On Saturday, October 14, 2006, Jenn and I finally
 got married.

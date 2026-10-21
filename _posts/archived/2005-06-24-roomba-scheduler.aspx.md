@@ -4,7 +4,7 @@ title: "Roomba Scheduler"
 date: 2005-06-24 -0800
 comments: true
 disqus_identifier: 848
-tags: [General Ramblings]
+tags: [home]
 ---
 While you're [waiting for the
 Scooba](http://irobot.com/consumer/scooba_sneak_preview.cfm), check out

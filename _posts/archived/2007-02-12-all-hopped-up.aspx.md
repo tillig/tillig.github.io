@@ -4,7 +4,7 @@ title: "All Hopped Up"
 date: 2007-02-12 -0800
 comments: true
 disqus_identifier: 1148
-tags: [General Ramblings]
+tags: [personal]
 ---
 This is probably going to read almost
 [stream-of-consciousness](http://en.wikipedia.org/wiki/Stream_of_consciousness)

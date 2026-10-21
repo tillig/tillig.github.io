@@ -4,7 +4,7 @@ title: "Small Cars vs. SUVs"
 date: 2005-02-04 -0800
 comments: true
 disqus_identifier: 740
-tags: [General Ramblings]
+tags: [auto]
 ---
 I'm not a big fan of the SUV. Between the fact that most of the people
 who own them never go offroad, never haul anything, and don't know how

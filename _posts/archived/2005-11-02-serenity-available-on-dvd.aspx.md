@@ -4,7 +4,7 @@ title: "Serenity Available on DVD"
 date: 2005-11-02 -0800
 comments: true
 disqus_identifier: 913
-tags: [General Ramblings]
+tags: [media,movies]
 ---
 [![Serenity]({{ site.url }}/images/20051102serenity.jpg)](http://www.amazon.com/exec/obidos/ASIN/B000BW7QWW/mhsvortex)[*Serenity*,
 the best sci-fi movie I've seen in a looooong time, is now available for

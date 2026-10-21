@@ -4,7 +4,7 @@ title: "PaPaYa! Cards"
 date: 2008-06-02 -0800
 comments: true
 disqus_identifier: 1394
-tags: [General Ramblings]
+tags: [personal]
 ---
 I hate shopping for cards because they're always super lame. The art is
 always the same, the sentiments inside are campy and cliché... I always

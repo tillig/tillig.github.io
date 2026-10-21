@@ -4,7 +4,7 @@ title: "Kids Play Classic Games"
 date: 2006-12-14 -0800
 comments: true
 disqus_identifier: 1114
-tags: [General Ramblings]
+tags: [gaming,humor]
 ---
 Granted, I'm slow to find this stuff, but EGM has a couple of hilarious
 articles where they have kids from today play classic games like Space

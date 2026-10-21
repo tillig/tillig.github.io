@@ -4,7 +4,7 @@ title: "Birthday Weekends - Plural!"
 date: 2008-07-21 -0800
 comments: true
 disqus_identifier: 1421
-tags: [General Ramblings]
+tags: [personal]
 ---
 Since my birthday falls in the middle of the week this year, we're sort
 of splitting up the festivities across weekends - some this past

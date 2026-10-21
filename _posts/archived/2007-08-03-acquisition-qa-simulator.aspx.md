@@ -4,7 +4,7 @@ title: "Acquisition Q&A Simulator"
 date: 2007-08-03 -0800
 comments: true
 disqus_identifier: 1248
-tags: [General Ramblings]
+tags: [work]
 ---
 Going through the process of being
 [acquired](http://ir.checkfreecorp.com/phoenix.zhtml?c=94799&p=irol-newsArticle&ID=1000723&highlight=)

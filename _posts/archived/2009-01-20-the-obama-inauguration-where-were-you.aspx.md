@@ -4,7 +4,7 @@ title: "The Obama Inauguration - Where Were You?"
 date: 2009-01-20 -0800
 comments: true
 disqus_identifier: 1488
-tags: [General Ramblings]
+tags: [culture]
 ---
 Sometimes you're presented with a moment in time for which you want to
 remember where you were, what you were doing. I think the inauguration

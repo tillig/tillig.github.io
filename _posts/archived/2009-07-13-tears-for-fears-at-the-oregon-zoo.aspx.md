@@ -4,7 +4,7 @@ title: "Tears for Fears at the Oregon Zoo"
 date: 2009-07-13 -0800
 comments: true
 disqus_identifier: 1549
-tags: [General Ramblings]
+tags: [music]
 ---
 ![Tears for Fears performs at the Oregon
 Zoo]({{ site.url }}/images/20090713tearsforfears.jpg)Saturday

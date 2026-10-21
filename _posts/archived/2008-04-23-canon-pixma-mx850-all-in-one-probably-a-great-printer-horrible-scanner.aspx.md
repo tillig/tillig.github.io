@@ -4,7 +4,7 @@ title: "Canon PIXMA MX850 All-In-One: Probably a Great Printer, Horrible Scanner
 date: 2008-04-23 -0800
 comments: true
 disqus_identifier: 1379
-tags: [GeekSpeak]
+tags: [hardware]
 ---
 Based [on my previous all-in-one experience with the HP
 C7280](/archive/2008/04/11/hp-c7280-all-in-one-great-printer-horrible-scanner.aspx),

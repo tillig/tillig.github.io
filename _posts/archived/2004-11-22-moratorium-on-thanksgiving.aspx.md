@@ -4,7 +4,7 @@ title: "Moratorium On Thanksgiving"
 date: 2004-11-22 -0800
 comments: true
 disqus_identifier: 697
-tags: [General Ramblings]
+tags: [holidays]
 ---
 Due to the incompatibility with peoples' schedules, their desires, their
 [qualms](/archive/2004/10/26/the-thanksgiving-debate.aspx), and so on,

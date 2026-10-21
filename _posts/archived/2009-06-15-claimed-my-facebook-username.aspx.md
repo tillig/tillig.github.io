@@ -4,7 +4,7 @@ title: "Claimed my Facebook Username"
 date: 2009-06-15 -0800
 comments: true
 disqus_identifier: 1539
-tags: [General Ramblings]
+tags: [web]
 ---
 Just claimed my Facebook username. You can now find me at:
 

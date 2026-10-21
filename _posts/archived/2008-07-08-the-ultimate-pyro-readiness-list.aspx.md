@@ -4,7 +4,7 @@ title: "The Ultimate Pyro Readiness List"
 date: 2008-07-08 -0800
 comments: true
 disqus_identifier: 1413
-tags: [General Ramblings]
+tags: [fireworks]
 ---
 I've been doing various fireworks shows for the past few years and each
 year I always end up having to recreate the list of things I want to

@@ -4,7 +4,7 @@ title: "Kinks Worked Out"
 date: 2005-09-27 -0800
 comments: true
 disqus_identifier: 895
-tags: [General Ramblings]
+tags: [blog]
 ---
 I think I have all the major kinks worked out. I may have to jimmy a few
 more things around as I see them, but for the most part, we're cocked,

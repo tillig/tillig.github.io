@@ -4,7 +4,7 @@ title: "I Am Geordi LaForge"
 date: 2006-06-02 -0800
 comments: true
 disqus_identifier: 1010
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 Your results:
 

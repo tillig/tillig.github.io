@@ -4,7 +4,7 @@ title: "Goodbye, Grandma Jeanne"
 date: 2009-06-28 -0800
 comments: true
 disqus_identifier: 1544
-tags: [General Ramblings]
+tags: [family]
 ---
 ![My grandma, Jeanne Ann Illig: 1922 -
 2009]({{ site.url }}/images/20090628grandmajeanne.jpg)A

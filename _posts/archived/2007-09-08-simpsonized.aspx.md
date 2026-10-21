@@ -4,7 +4,7 @@ title: "Simpsonized!"
 date: 2007-09-08 -0800
 comments: true
 disqus_identifier: 1265
-tags: [General Ramblings]
+tags: [humor]
 ---
 [![Travis -
 Simpsonized!]({{ site.url }}/images/20070908simpsonized.gif)](http://www.simpsonizeme.com)Head

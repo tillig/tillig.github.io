@@ -4,7 +4,7 @@ title: "Trying A New Chinese Joint"
 date: 2005-05-19 -0800
 comments: true
 disqus_identifier: 818
-tags: [General Ramblings]
+tags: [food]
 ---
 Last night Jenn and I decided to try out this little Chinese restaurant
 that's kind of close to our house. We'd seen it, but we're not terribly

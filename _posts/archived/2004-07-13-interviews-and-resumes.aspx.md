@@ -4,7 +4,7 @@ title: "Interviews and Resumes"
 date: 2004-07-13 -0800
 comments: true
 disqus_identifier: 612
-tags: [General Ramblings]
+tags: [work]
 ---
 I'm working on this project, you know, at work, and it turns out it's a
 little larger than we first anticipated so we're getting some

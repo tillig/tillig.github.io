@@ -4,7 +4,7 @@ title: "Tomb Raider Weekend"
 date: 2006-05-01 -0800
 comments: true
 disqus_identifier: 993
-tags: [General Ramblings]
+tags: [gaming,xbox]
 ---
 Saturday was an errand day (running around to various stores, picking
 things up as needed, general taking-care-of-business) followed by a bit

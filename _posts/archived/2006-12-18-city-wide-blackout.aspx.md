@@ -4,7 +4,7 @@ title: "City-Wide Blackout"
 date: 2006-12-18 -0800
 comments: true
 disqus_identifier: 1116
-tags: [General Ramblings]
+tags: [personal]
 ---
 There have been all sorts of power issues since a windstorm that hit
 last Thursday, but on Saturday a transformer caught on fire and [blacked

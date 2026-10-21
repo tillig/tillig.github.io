@@ -4,7 +4,7 @@ title: "Titanium, Tungsten Carbide, and &quot;The One Ring&quot;"
 date: 2008-03-17 -0800
 comments: true
 disqus_identifier: 1358
-tags: [General Ramblings]
+tags: [family]
 ---
 ![Titanium "One
 Ring"]({{ site.url }}/images/20060315ring.jpg)[My

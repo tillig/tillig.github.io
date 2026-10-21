@@ -4,7 +4,7 @@ title: "All Hands Meeting"
 date: 2004-02-12 -0800
 comments: true
 disqus_identifier: 507
-tags: [General Ramblings]
+tags: [work]
 ---
 I went to the quarterly all-hands meeting just now and learned exactly
 one thing:

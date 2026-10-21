@@ -4,7 +4,7 @@ title: "Happening Weekend"
 date: 2005-03-22 -0800
 comments: true
 disqus_identifier: 769
-tags: [General Ramblings]
+tags: [activities]
 ---
 The weekend was pretty good (of course, it's Tuesday and I'm just now
 getting to write about it... tells you how the week is going so far).

@@ -4,7 +4,7 @@ title: "Laser Hair Removal: Before and After"
 date: 2010-05-10 -0800
 comments: true
 disqus_identifier: 1640
-tags: [General Ramblings]
+tags: [medical]
 ---
 Some of you reading this blog may have seen entries in the past talking
 about my experience with laser hair removal. After 30 treatments, I'm

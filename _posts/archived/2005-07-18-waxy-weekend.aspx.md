@@ -4,7 +4,7 @@ title: "Waxy Weekend"
 date: 2005-07-18 -0800
 comments: true
 disqus_identifier: 860
-tags: [General Ramblings]
+tags: [auto]
 ---
 This weekend [Stu](http://www.stuartthompson.net) and I took the
 entirety of Saturday and a box full of

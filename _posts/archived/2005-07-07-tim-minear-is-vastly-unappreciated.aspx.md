@@ -4,7 +4,7 @@ title: "Tim Minear Is Vastly Unappreciated"
 date: 2005-07-07 -0800
 comments: true
 disqus_identifier: 855
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 I really have to stop watching shows by Tim Minear.
 

@@ -4,7 +4,7 @@ title: "Superbowl Party"
 date: 2004-02-02 -0800
 comments: true
 disqus_identifier: 488
-tags: [General Ramblings]
+tags: [personal]
 ---
 Jenn and I didn't do a whole lot this weekend, but we did go to a
 [Superbowl](http://www.superbowl.com) party at a friend's place.

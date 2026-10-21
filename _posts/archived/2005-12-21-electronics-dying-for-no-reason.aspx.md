@@ -4,7 +4,7 @@ title: "Electronics Dying For No Reason"
 date: 2005-12-21 -0800
 comments: true
 disqus_identifier: 937
-tags: [General Ramblings]
+tags: [home]
 ---
 Got home yesterday and noticed that the
 [Roomba](http://www.amazon.com/exec/obidos/ASIN/B00022HYJ6/mhsvortex),

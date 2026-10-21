@@ -4,7 +4,7 @@ title: "Time Is A Blur"
 date: 2004-03-23 -0800
 comments: true
 disqus_identifier: 546
-tags: [General Ramblings]
+tags: [music]
 ---
 I'm sitting at the allergy clinic, waiting for my weekly shot, and they
 have the stupid country music station playing. Apparently this is Toby

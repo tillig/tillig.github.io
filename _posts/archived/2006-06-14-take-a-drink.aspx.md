@@ -4,7 +4,7 @@ title: "Take A Drink"
 date: 2006-06-14 -0800
 comments: true
 disqus_identifier: 1018
-tags: [General Ramblings]
+tags: [food]
 ---
 It's 7:00p, and after a long day at work, Jenn and I decide it's time to
 go get something to eat. Pizza sounds good, so we head to the local

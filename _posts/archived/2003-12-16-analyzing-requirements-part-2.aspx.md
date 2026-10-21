@@ -4,7 +4,7 @@ title: "Analyzing Requirements, Part 2"
 date: 2003-12-16 -0800
 comments: true
 disqus_identifier: 426
-tags: [net]
+tags: [dotnet]
 ---
 God *damn* this class is boring!
 

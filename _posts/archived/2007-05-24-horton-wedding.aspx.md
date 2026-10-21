@@ -4,7 +4,7 @@ title: "Horton Wedding"
 date: 2007-05-24 -0800
 comments: true
 disqus_identifier: 1206
-tags: [General Ramblings]
+tags: [family]
 ---
 It's been a heck of a busy week, so I haven't had a chance to blog about
 the wedding I went to this past weekend.

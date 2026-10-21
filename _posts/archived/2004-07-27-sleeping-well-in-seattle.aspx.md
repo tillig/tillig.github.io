@@ -4,7 +4,7 @@ title: "Sleeping Well In Seattle"
 date: 2004-07-27 -0800
 comments: true
 disqus_identifier: 630
-tags: [General Ramblings]
+tags: [activities]
 ---
 Jenn and I took a nice long (three-day) weekend in Seattle this past
 weekend, and I think it generally rocked.

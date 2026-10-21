@@ -4,7 +4,7 @@ title: "XFCE Add/Remove Programs and Synaptic Package Manager Fail"
 date: 2008-11-17 -0800
 comments: true
 disqus_identifier: 1466
-tags: [GeekSpeak]
+tags: [linux]
 ---
 [As mentioned in an earlier
 post](/archive/2008/11/14/running-ubuntu-on-the-xo-laptop.aspx), I got

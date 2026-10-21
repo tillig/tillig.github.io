@@ -4,7 +4,7 @@ title: "Gotta Get Filled"
 date: 2004-08-24 -0800
 comments: true
 disqus_identifier: 646
-tags: [General Ramblings]
+tags: [medical]
 ---
 I got my teeth cleaned this morning and, as seems to be the general
 case, I gotta go back in. Apparently I have some sort of cavity starting

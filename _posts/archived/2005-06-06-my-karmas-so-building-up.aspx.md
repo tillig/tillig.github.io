@@ -4,7 +4,7 @@ title: "My Karma's SO Building Up"
 date: 2005-06-06 -0800
 comments: true
 disqus_identifier: 835
-tags: [General Ramblings]
+tags: [media]
 ---
 Okay, so we all know that [my 300 pound carpet weight is coming back on
 Tuesday](/archive/2005/06/03/the-end-is-near.aspx) and there's not a

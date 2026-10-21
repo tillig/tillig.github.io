@@ -4,7 +4,7 @@ title: "Fireworks and Wastewater Treatment"
 date: 2006-07-05 -0800
 comments: true
 disqus_identifier: 1028
-tags: [General Ramblings]
+tags: [fireworks]
 ---
 Once again, as is the seeming custom for the past three years, Jenn and
 I trekked out to Clatskanie to do the fireworks show with

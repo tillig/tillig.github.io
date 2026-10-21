@@ -4,7 +4,7 @@ title: "Big Catch-Up"
 date: 2005-03-14 -0800
 comments: true
 disqus_identifier: 761
-tags: [General Ramblings]
+tags: [personal]
 ---
 A lot of random thoughts coming through here.
 

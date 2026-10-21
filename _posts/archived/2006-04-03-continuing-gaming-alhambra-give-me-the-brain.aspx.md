@@ -4,7 +4,7 @@ title: "Continuing Gaming: Alhambra, Give Me the Brain!"
 date: 2006-04-03 -0800
 comments: true
 disqus_identifier: 980
-tags: [General Ramblings]
+tags: [gaming]
 ---
 Continuing our
 [foray](/archive/2006/03/24/looking-into-board-games.aspx) into [new

@@ -4,7 +4,7 @@ title: "Automatic Content Censors Suck"
 date: 2005-09-07 -0800
 comments: true
 disqus_identifier: 884
-tags: [General Ramblings]
+tags: [web]
 ---
 The concept of the automatic content censor (a la [Net
 Nanny](http://www.netnanny.com) or

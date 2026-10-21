@@ -4,7 +4,7 @@ title: "Going Down Fighting"
 date: 2004-05-20 -0800
 comments: true
 disqus_identifier: 568
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 Last night I watched the [*series* finale of
 *Angel*](http://www.thewb.com/Shows/Episode/0,8201,||1940,00.html).

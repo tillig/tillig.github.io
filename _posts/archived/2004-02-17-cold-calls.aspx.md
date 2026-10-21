@@ -4,7 +4,7 @@ title: "Cold Calls"
 date: 2004-02-17 -0800
 comments: true
 disqus_identifier: 513
-tags: [General Ramblings]
+tags: [work]
 ---
 I just finished calling a bunch of job candidates on the phone, doing
 phone screens to see who we should call back for an interview.

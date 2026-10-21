@@ -4,7 +4,7 @@ title: "Donut Etiquette"
 date: 2004-04-02 -0800
 comments: true
 disqus_identifier: 557
-tags: [General Ramblings]
+tags: [food,work]
 ---
 I think it's great when people bring donuts (doughnuts, etc.) to work to
 share. That's awesome. Either first thing in the morning or midday, I'm

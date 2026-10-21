@@ -4,7 +4,7 @@ title: "Peer Mentoring Seminar"
 date: 2006-03-30 -0800
 comments: true
 disqus_identifier: 975
-tags: [General Ramblings]
+tags: [work]
 ---
 I went on a little business trip yesterday to take a class about Peer
 Mentoring. The class was awesome, taught by a guy named Steve Trautman

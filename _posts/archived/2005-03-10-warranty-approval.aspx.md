@@ -4,7 +4,7 @@ title: "Warranty Approval"
 date: 2005-03-10 -0800
 comments: true
 disqus_identifier: 759
-tags: [General Ramblings]
+tags: [media]
 ---
 I just got a call from the TV repair facility and they've *finally* been
 authorized to replace the tube in my television. Of course, they aren't

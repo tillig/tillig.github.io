@@ -4,7 +4,7 @@ title: "Coach Hines"
 date: 2008-12-16 -0800
 comments: true
 disqus_identifier: 1478
-tags: [General Ramblings,GeekSpeak]
+tags: [humor]
 ---
 Coach Hines is a character on [MadTV](http://www.madtv.com/) that
 teaches at a high school for boys. He's one of my favorite characters on

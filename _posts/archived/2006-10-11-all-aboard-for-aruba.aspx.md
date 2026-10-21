@@ -4,7 +4,7 @@ title: "All Aboard for Aruba"
 date: 2006-10-11 -0800
 comments: true
 disqus_identifier: 1087
-tags: [General Ramblings]
+tags: [family]
 ---
 Well, today's my last day of work until the 30th of this month. I've got
 tomorrow and Friday off to get any last minute preparations done for the

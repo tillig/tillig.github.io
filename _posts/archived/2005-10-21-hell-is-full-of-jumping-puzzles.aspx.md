@@ -4,7 +4,7 @@ title: "Hell Is Full Of Jumping Puzzles"
 date: 2005-10-21 -0800
 comments: true
 disqus_identifier: 909
-tags: [General Ramblings]
+tags: [gaming,playstation]
 ---
 Playing [*God of
 War*](http://www.amazon.com/exec/obidos/ASIN/B0002XL3BA/mhsvortex) again

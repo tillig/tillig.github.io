@@ -4,7 +4,7 @@ title: "I'm Sheldon"
 date: 2009-03-27 -0800
 comments: true
 disqus_identifier: 1507
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 [![The Big Bang Theory - Season
 1](http://ecx.images-amazon.com/images/I/81Q4YEuPKwL._SL500_AA240_.jpg)](http://www.amazon.com/gp/product/B000W91RUG?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000W91RUG)Some

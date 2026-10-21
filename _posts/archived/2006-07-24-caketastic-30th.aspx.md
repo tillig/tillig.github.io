@@ -4,7 +4,7 @@ title: "Caketastic 30th"
 date: 2006-07-24 -0800
 comments: true
 disqus_identifier: 1036
-tags: [General Ramblings]
+tags: [personal]
 ---
 This weekend was my 30th birthday weekend, and a hell of a time was
 had.

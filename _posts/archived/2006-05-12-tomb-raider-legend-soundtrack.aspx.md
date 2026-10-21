@@ -4,7 +4,7 @@ title: "Tomb Raider: Legend Soundtrack"
 date: 2006-05-12 -0800
 comments: true
 disqus_identifier: 1003
-tags: [General Ramblings]
+tags: [gaming,music]
 ---
 I've been playing [*Tomb Raider:
 Legend*](http://www.amazon.com/exec/obidos/ASIN/B000A0XSN6/mhsvortex)

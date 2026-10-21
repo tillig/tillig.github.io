@@ -4,7 +4,7 @@ title: "Document Your Air, Food, and Water"
 date: 2009-09-14 -0800
 comments: true
 disqus_identifier: 1563
-tags: [GeekSpeak]
+tags: [process]
 ---
 I wrote a guest post over on [Five Whys](http://5whys.com/) about the
 importance of documenting the minimum information a new member of your

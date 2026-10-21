@@ -4,7 +4,7 @@ title: "iRobot Customer Support Rocks"
 date: 2006-01-02 -0800
 comments: true
 disqus_identifier: 940
-tags: [General Ramblings]
+tags: [home]
 ---
 I called [iRobot customer
 support](http://www.irobot.com/sp.cfm?pageid=102) today regarding the

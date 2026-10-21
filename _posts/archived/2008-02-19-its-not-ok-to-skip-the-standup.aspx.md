@@ -4,7 +4,7 @@ title: "It's Not OK To Skip The Standup"
 date: 2008-02-19 -0800
 comments: true
 disqus_identifier: 1352
-tags: [GeekSpeak]
+tags: [process]
 ---
 I participate in agile projects where we have [a daily standup
 meeting](http://www.mountaingoatsoftware.com/daily_scrum) to discuss

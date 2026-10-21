@@ -4,7 +4,7 @@ title: "Meeting Gibson"
 date: 2003-01-22 -0800
 comments: true
 disqus_identifier: 198
-tags: [books,]
+tags: [books]
 ---
 *Meeting Gibson*... that sounds sort of like the title for a play or an
 art film. But it's not.

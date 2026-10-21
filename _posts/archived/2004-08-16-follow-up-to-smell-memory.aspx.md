@@ -4,7 +4,7 @@ title: "Follow-Up To Smell Memory"
 date: 2004-08-16 -0800
 comments: true
 disqus_identifier: 641
-tags: [General Ramblings]
+tags: [family]
 ---
 I suppose this sort of falls into a similar vein as my previous [smell
 memory](/archive/2002/10/29/what-if-smell-memory.aspx) post, regarding

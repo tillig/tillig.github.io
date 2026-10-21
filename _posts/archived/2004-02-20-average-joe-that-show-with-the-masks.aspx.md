@@ -4,7 +4,7 @@ title: "Average Joe != That Show With The Masks"
 date: 2004-02-20 -0800
 comments: true
 disqus_identifier: 517
-tags: [General Ramblings]
+tags: [conferences,humor]
 ---
 What is it about developers that requires them to practice poor hygiene?
 I went to a Microsoft developer event and the sour body odor stink was

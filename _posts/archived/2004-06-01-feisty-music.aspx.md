@@ -4,7 +4,7 @@ title: "Feisty Music"
 date: 2004-06-01 -0800
 comments: true
 disqus_identifier: 577
-tags: [General Ramblings]
+tags: [music]
 ---
 I'm feeling a little feisty today. A cross between restless and
 irritated with a hint of hyperactivity. One of those moods where you

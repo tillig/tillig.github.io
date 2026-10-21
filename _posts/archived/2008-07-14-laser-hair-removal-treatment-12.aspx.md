@@ -4,7 +4,7 @@ title: "Laser Hair Removal: Treatment 12"
 date: 2008-07-14 -0800
 comments: true
 disqus_identifier: 1416
-tags: [General Ramblings]
+tags: [medical]
 ---
 Saturday was my 12th treatment on my face, and the last in my second set
 of six (they sell treatments in blocks of six).

@@ -4,7 +4,7 @@ title: "Cirque, Catering, and Chilling Out"
 date: 2006-03-20 -0800
 comments: true
 disqus_identifier: 967
-tags: [General Ramblings]
+tags: [activities]
 ---
 Had a really awesome weekend. Friday night got together with Stu and
 Tiff and all of us went shopping at [Washington

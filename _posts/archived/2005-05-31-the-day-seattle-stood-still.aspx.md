@@ -4,7 +4,7 @@ title: "The Day Seattle Stood Still"
 date: 2005-05-31 -0800
 comments: true
 disqus_identifier: 829
-tags: [General Ramblings]
+tags: [activities]
 ---
 This past three-day weekend was a blast. Jenn, Stuart, Tiffany, and I
 all went up to Seattle on the train.

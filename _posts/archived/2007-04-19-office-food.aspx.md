@@ -4,7 +4,7 @@ title: "Office Food"
 date: 2007-04-19 -0800
 comments: true
 disqus_identifier: 1183
-tags: [General Ramblings]
+tags: [food,work]
 ---
 I'm not sure whether it's out of necessity or boredom that odd office
 food concoctions get generated. I know I've made up some crazy stuff -

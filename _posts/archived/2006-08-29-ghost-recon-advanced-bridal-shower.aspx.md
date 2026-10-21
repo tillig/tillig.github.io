@@ -4,7 +4,7 @@ title: "Ghost Recon: Advanced Bridal Shower"
 date: 2006-08-29 -0800
 comments: true
 disqus_identifier: 1062
-tags: [General Ramblings]
+tags: [gaming,xbox]
 ---
 I finished [*Ghost Recon: Advanced
 Warfighter*](http://www.amazon.com/exec/obidos/ASIN/B000A0EFJW/mhsvortex)

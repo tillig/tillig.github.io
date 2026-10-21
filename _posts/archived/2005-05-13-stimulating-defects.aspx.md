@@ -4,7 +4,7 @@ title: "Stimulating Defects"
 date: 2005-05-13 -0800
 comments: true
 disqus_identifier: 813
-tags: [General Ramblings]
+tags: [work]
 ---
 I'm working on resolving defects for the current project I'm on. One of
 the defects is that, intermittently after a reboot, a particular machine

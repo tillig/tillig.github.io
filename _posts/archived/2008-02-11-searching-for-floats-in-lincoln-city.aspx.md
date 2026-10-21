@@ -4,7 +4,7 @@ title: "Searching for Floats in Lincoln City"
 date: 2008-02-11 -0800
 comments: true
 disqus_identifier: 1348
-tags: [General Ramblings]
+tags: [activities]
 ---
 Sunday Jenn, I, and our friends Angela and Keaka gathered up in the
 [Wagon Queen Family Truckster](http://www.imdb.com/title/tt0085995/) and

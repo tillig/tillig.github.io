@@ -4,7 +4,7 @@ title: "Google Notebook Ending... So Now What?"
 date: 2009-01-29 -0800
 comments: true
 disqus_identifier: 1492
-tags: [General Ramblings]
+tags: [web]
 ---
 I'm a big fan and avid user of [Google
 Notebook](http://www.google.com/notebook/). Unfortunately, they seem to

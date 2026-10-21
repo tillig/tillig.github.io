@@ -4,7 +4,7 @@ title: "Toothbrush Recall"
 date: 2004-11-29 -0800
 comments: true
 disqus_identifier: 703
-tags: [General Ramblings]
+tags: [personal]
 ---
 I don't normally go for the electric version of health products. I use a
 non-electric razor. I don't blow-dry my hair. You get what I'm saying.

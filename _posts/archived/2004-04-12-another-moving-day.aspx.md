@@ -4,7 +4,7 @@ title: "Another Moving Day"
 date: 2004-04-12 -0800
 comments: true
 disqus_identifier: 562
-tags: [General Ramblings]
+tags: [home]
 ---
 Saturday, for me, was pretty much a bust of sorts. I ended up getting a
 U-Haul truck and driving around town, picking up the last of our crap

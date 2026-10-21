@@ -4,7 +4,7 @@ title: "Serenity Movie Info"
 date: 2005-09-21 -0800
 comments: true
 disqus_identifier: 890
-tags: [General Ramblings]
+tags: [media,movies]
 ---
 [![Serenity](http://browncoats.serenitymovie.com/serenity/gallery/banners/serenity_banner_2_copy3.jpg)](http://browncoats.serenitymovie.com/serenity/?u=tillig)
  In my excitement for the upcoming *Firefly* movie,

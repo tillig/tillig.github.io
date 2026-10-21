@@ -4,7 +4,7 @@ title: "Jenn's Birthday and Mr. T"
 date: 2004-09-16 -0800
 comments: true
 disqus_identifier: 660
-tags: [General Ramblings]
+tags: [family,toys]
 ---
 It's Jenn's birthday today, so happy birthday to her. Woohoo!
 

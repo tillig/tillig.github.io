@@ -4,7 +4,7 @@ title: "Griswold Family Christmas"
 date: 2004-12-14 -0800
 comments: true
 disqus_identifier: 710
-tags: [General Ramblings]
+tags: [holidays,family]
 ---
 I watched [*Christmas
 Vacation*](http://www.amazon.com/exec/obidos/ASIN/B0000AQS6R/mhsvortex)

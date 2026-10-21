@@ -4,7 +4,7 @@ title: "Setting Up a BlackBerry for Personal Use"
 date: 2008-06-05 -0800
 comments: true
 disqus_identifier: 1395
-tags: [GeekSpeak]
+tags: [hardware]
 ---
 The major use case for BlackBerry seems to be integrating with a
 corporate environment... which is great if either your company will

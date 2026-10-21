@@ -4,7 +4,7 @@ title: "Empress Palace Reserved"
 date: 2005-12-12 -0800
 comments: true
 disqus_identifier: 932
-tags: [General Ramblings]
+tags: [family]
 ---
 Saturday was spent in Woodland, WA, touring the [Empress
 Palace](http://www.empresspalace.com), a location that Jenn and I ended

@@ -4,7 +4,7 @@ title: "Russian Spam"
 date: 2006-11-03 -0800
 comments: true
 disqus_identifier: 1094
-tags: [General Ramblings]
+tags: [humor]
 ---
 I just got this weird spam letter that wasn't even advertising anything.
 I thought the contents of the spam were interesting, though, almost like

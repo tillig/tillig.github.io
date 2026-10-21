@@ -4,7 +4,7 @@ title: "Online DVD Collection"
 date: 2006-11-10 -0800
 comments: true
 disqus_identifier: 1098
-tags: [General Ramblings]
+tags: [media,movies]
 ---
 I've been using this program called [DVD
 Profiler](http://www.intervocative.com/dvdpro/Info.aspx) to keep track

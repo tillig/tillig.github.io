@@ -4,7 +4,7 @@ title: "Changing Mice, Changing Jobs"
 date: 2004-08-19 -0800
 comments: true
 disqus_identifier: 642
-tags: [General Ramblings]
+tags: [work]
 ---
 Before I really get into other things, I realize, looking back, that I
 didn't say anything about the fact that the [Oregon Air

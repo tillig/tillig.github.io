@@ -4,7 +4,7 @@ title: "Falling Apart"
 date: 2012-03-28 -0800
 comments: true
 disqus_identifier: 1777
-tags: [General Ramblings]
+tags: [medical]
 ---
 I think I'm getting old and starting to fall apart.
 

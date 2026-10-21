@@ -4,7 +4,7 @@ title: "The Tree Is Brighter"
 date: 2006-11-28 -0800
 comments: true
 disqus_identifier: 1107
-tags: [General Ramblings]
+tags: [holidays]
 ---
 I got home yesterday and Jenn decided we should go cold turkey and get
 all new ornaments for the tree, once again proving I made the right

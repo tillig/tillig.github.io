@@ -4,7 +4,7 @@ title: "Burning CD/DVD on Vista - &quot;No Files to Burn&quot;"
 date: 2009-09-14 -0800
 comments: true
 disqus_identifier: 1564
-tags: [GeekSpeak]
+tags: [windows]
 ---
 I was archiving some data onto DVDs in Windows Vista, using the regular
 Vista burn-to-disc functionality. On one disc, for a reason I won't go

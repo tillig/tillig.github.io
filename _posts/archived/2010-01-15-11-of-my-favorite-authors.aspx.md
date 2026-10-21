@@ -4,7 +4,7 @@ title: "11 of My Favorite Authors"
 date: 2010-01-15 -0800
 comments: true
 disqus_identifier: 1607
-tags: [General Ramblings]
+tags: [books]
 ---
 A while ago a friend of mine asked me for the names of some of the
 authors I read. This got me thinking and I figured I'd make a list of a

@@ -4,7 +4,7 @@ title: "Washington County Fair Parrots"
 date: 2007-07-30 -0800
 comments: true
 disqus_identifier: 1244
-tags: [General Ramblings]
+tags: [activities]
 ---
 We went to the [Washington County
 Fair](http://www.faircomplex.com/wcf2007/index.html) on Saturday and had

@@ -4,7 +4,7 @@ title: "Deodorant Burn"
 date: 2006-03-30 -0800
 comments: true
 disqus_identifier: 976
-tags: [General Ramblings]
+tags: [humor]
 ---
 Something I forgot to mention about my trip: While I was in the bathroom
 at the hotel yesterday morning getting ready, I pulled the cap off my

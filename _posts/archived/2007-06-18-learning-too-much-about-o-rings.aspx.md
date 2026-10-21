@@ -4,7 +4,7 @@ title: "Learning Too Much About O-Rings"
 date: 2007-06-18 -0800
 comments: true
 disqus_identifier: 1216
-tags: [General Ramblings]
+tags: [gaming]
 ---
 In our fervent [*Guitar Hero
 II*](http://www.amazon.com/gp/product/B000MRNUB2?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000MRNUB2)

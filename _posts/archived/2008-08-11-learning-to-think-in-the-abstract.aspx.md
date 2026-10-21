@@ -4,7 +4,7 @@ title: "Learning to Think in the Abstract"
 date: 2008-08-11 -0800
 comments: true
 disqus_identifier: 1427
-tags: [GeekSpeak]
+tags: [architecture]
 ---
 Something I've noticed as I work with developers of varying skill levels
 is that one of the key differentiating factors between the junior folks

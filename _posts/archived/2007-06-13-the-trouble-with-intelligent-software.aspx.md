@@ -4,7 +4,7 @@ title: "The Trouble With Intelligent Software"
 date: 2007-06-13 -0800
 comments: true
 disqus_identifier: 1213
-tags: [GeekSpeak]
+tags: [windows]
 ---
 I'm working with a print program - Microsoft Publisher - on a little
 project at home and without going into a bunch of crap you don't care

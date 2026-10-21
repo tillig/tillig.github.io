@@ -4,7 +4,7 @@ title: "Physical Effects of Stress"
 date: 2006-03-13 -0800
 comments: true
 disqus_identifier: 963
-tags: [General Ramblings]
+tags: [medical]
 ---
 Before I get into this, something somewhat unrelated: In guys'
 bathrooms, the urinals are generally set up so one or more are at one

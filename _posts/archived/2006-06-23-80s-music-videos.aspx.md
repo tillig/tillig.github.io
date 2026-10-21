@@ -4,7 +4,7 @@ title: "80s Music Videos"
 date: 2006-06-23 -0800
 comments: true
 disqus_identifier: 1024
-tags: [General Ramblings]
+tags: [music]
 ---
 Saw this [on Phil Haack's
 site](http://haacked.com/archive/2006/06/21/80sMusicVideo.aspx) and just

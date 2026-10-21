@@ -4,7 +4,7 @@ title: "Random Morning"
 date: 2004-03-12 -0800
 comments: true
 disqus_identifier: 534
-tags: [General Ramblings]
+tags: [personal]
 ---
 It's a beautiful morning out there, so I snapped a shot of the sunrise
 as I see it on my way to work (I head west in the morning).

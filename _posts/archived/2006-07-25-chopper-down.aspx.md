@@ -4,7 +4,7 @@ title: "Chopper Down"
 date: 2006-07-25 -0800
 comments: true
 disqus_identifier: 1037
-tags: [General Ramblings]
+tags: [toys]
 ---
 I took [the RC helicopter](/archive/2006/07/24/caketastic-30th.aspx) out
 last night to adjust it a little more and get my practice on. There was

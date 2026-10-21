@@ -4,7 +4,7 @@ title: "TV Shows On DVD"
 date: 2006-03-15 -0800
 comments: true
 disqus_identifier: 965
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 I've been watching a lot of TV on DVD recently, probably because you can
 be more selective about which episodes of which series you want to see

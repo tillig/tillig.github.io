@@ -4,7 +4,7 @@ title: "Pyrotechnics"
 date: 2004-03-29 -0800
 comments: true
 disqus_identifier: 552
-tags: [General Ramblings]
+tags: [fireworks]
 ---
 This weekend was pretty eventful. Besides spending the majority of
 Sunday packing, cleaning, and painting, Saturday afternoon was spent in

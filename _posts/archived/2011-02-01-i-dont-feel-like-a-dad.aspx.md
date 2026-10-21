@@ -4,7 +4,7 @@ title: "I Don't Feel Like a Dad"
 date: 2011-02-01 -0800
 comments: true
 disqus_identifier: 1692
-tags: [General Ramblings]
+tags: [family]
 ---
 On a somewhat daily basis, I have this weird sort of "aha!" moment where
 I realize, again, that [I'm a

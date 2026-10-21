@@ -4,7 +4,7 @@ title: "Phoenix Aeralynn Illig"
 date: 2010-12-01 -0800
 comments: true
 disqus_identifier: 1684
-tags: [General Ramblings]
+tags: [family]
 ---
 This Thanksgiving we were given a little something extra to be thankful
 for when my daughter, **Phoenix Aeralynn Illig**, was born. At the time

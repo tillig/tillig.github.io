@@ -4,7 +4,7 @@ title: "Sydney Travel Diary"
 date: 2011-03-07 -0800
 comments: true
 disqus_identifier: 1700
-tags: [General Ramblings]
+tags: [activities]
 ---
 I was recently sent for a week to Sydney, Australia on business for a
 week. Having only been out of the US twice before ([once to

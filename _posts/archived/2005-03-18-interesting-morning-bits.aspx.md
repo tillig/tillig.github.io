@@ -4,7 +4,7 @@ title: "Interesting Morning Bits"
 date: 2005-03-18 -0800
 comments: true
 disqus_identifier: 767
-tags: [General Ramblings]
+tags: [media]
 ---
 While cruising through my morning news, I've found...
 

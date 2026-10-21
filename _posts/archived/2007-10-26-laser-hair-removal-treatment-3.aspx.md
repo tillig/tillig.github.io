@@ -4,7 +4,7 @@ title: "Laser Hair Removal: Treatment 3"
 date: 2007-10-26 -0800
 comments: true
 disqus_identifier: 1280
-tags: [General Ramblings]
+tags: [medical]
 ---
 It was four weeks since [my second hair removal
 treatment](/archive/2007/09/25/laser-hair-removal-treatment-2.aspx) and

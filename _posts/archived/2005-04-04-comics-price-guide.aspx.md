@@ -4,7 +4,7 @@ title: "Comics Price Guide"
 date: 2005-04-04 -0800
 comments: true
 disqus_identifier: 777
-tags: [General Ramblings]
+tags: [comics]
 ---
 I'm trying to figure out the best way to track my comic collection. In
 order to get a rider on my homeowner's insurance policy, I need to be

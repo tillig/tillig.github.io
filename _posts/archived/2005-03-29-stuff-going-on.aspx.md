@@ -4,7 +4,7 @@ title: "Stuff Going On"
 date: 2005-03-29 -0800
 comments: true
 disqus_identifier: 772
-tags: [General Ramblings]
+tags: [personal]
 ---
 There's lots of stuff going on lately, though no individual thing more
 important or cool than any other. Just random stuff.

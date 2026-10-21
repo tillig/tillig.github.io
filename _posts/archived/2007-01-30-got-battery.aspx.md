@@ -4,7 +4,7 @@ title: "Got Battery?"
 date: 2007-01-30 -0800
 comments: true
 disqus_identifier: 1141
-tags: [General Ramblings]
+tags: [auto]
 ---
 Went to lunch at [Sonic](http://www.sonicdrivein.com/) with
 [Scoble](http://itmanager.blogs.com/) today. Unfortunately, wasn't able

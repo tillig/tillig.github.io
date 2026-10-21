@@ -4,7 +4,7 @@ title: "Cable Phone"
 date: 2006-04-10 -0800
 comments: true
 disqus_identifier: 983
-tags: [General Ramblings]
+tags: [home]
 ---
 Got the cable phone hooked up on Saturday. Decided that we were tired of
 shelling out to Verizon for what has thus been sub-par service and that

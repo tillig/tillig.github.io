@@ -4,7 +4,7 @@ title: "Karmic Blowback"
 date: 2005-06-21 -0800
 comments: true
 disqus_identifier: 846
-tags: [General Ramblings]
+tags: [home]
 ---
 The new TV rocks. Watched it last night and it's just awesome. Love it.
 

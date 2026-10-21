@@ -4,7 +4,7 @@ title: "Laser Hair Removal: Treatment 26"
 date: 2009-10-20 -0800
 comments: true
 disqus_identifier: 1575
-tags: [General Ramblings]
+tags: [medical]
 ---
 It's been a bit over a year [since I posted about my hair removal
 progress](/archive/2008/07/14/laser-hair-removal-treatment-12.aspx) and

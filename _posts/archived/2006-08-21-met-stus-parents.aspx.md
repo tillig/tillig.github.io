@@ -4,7 +4,7 @@ title: "Met Stu's Parents"
 date: 2006-08-21 -0800
 comments: true
 disqus_identifier: 1059
-tags: [General Ramblings]
+tags: [personal]
 ---
 Saturday was reasonably uneventful - we picked up [our dining room
 set](/archive/2006/07/31/wedding-planning-new-helicopter-new-dining-set.aspx)

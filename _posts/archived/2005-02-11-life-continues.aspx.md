@@ -4,7 +4,7 @@ title: "Life Continues"
 date: 2005-02-11 -0800
 comments: true
 disqus_identifier: 744
-tags: [General Ramblings]
+tags: [work]
 ---
 It's been a long week. All week long, I've awakened being thoroughly
 convinced it's Tuesday. Even Monday, I could've sworn it was Tuesday.

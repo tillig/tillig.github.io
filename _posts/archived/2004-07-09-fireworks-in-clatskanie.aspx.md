@@ -4,7 +4,7 @@ title: "Fireworks in Clatskanie"
 date: 2004-07-09 -0800
 comments: true
 disqus_identifier: 611
-tags: [General Ramblings]
+tags: [fireworks]
 ---
 Every year (at least for the past couple of years now), Jenn and I work
 with [Greg](http://www.greghughes.net) and the crew at [Western Display

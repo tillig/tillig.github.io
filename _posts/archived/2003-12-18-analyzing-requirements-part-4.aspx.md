@@ -4,7 +4,7 @@ title: "Analyzing Requirements, Part 4"
 date: 2003-12-18 -0800
 comments: true
 disqus_identifier: 428
-tags: [net]
+tags: [dotnet]
 ---
 We've been going hard and heavy today, so I probably won't be posting
 again until I get home here... which means this is today's report, even

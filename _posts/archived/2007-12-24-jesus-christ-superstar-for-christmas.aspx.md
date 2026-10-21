@@ -4,7 +4,7 @@ title: "Jesus Christ Superstar for Christmas"
 date: 2007-12-24 -0800
 comments: true
 disqus_identifier: 1326
-tags: [General Ramblings]
+tags: [music]
 ---
 Friday night, the 21st, Jenn and I ventured into town for a wonderful
 live performance of *Jesus Christ Superstar*. It's possibly my favorite

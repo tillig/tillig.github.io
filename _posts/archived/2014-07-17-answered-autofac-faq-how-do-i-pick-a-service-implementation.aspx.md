@@ -4,7 +4,7 @@ title: "Answered Autofac FAQ: How do I pick a service implementation by context?
 date: 2014-07-17 -0800
 comments: true
 disqus_identifier: 1846
-tags: [net]
+tags: [autofac,dotnet]
 ---
 Over at Autofac we're trying to get [a more robust set of documentation
 out](http://autofac.readthedocs.io/) to help folks. The wiki is nice,

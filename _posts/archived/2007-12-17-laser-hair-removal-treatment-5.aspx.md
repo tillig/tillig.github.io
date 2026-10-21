@@ -4,7 +4,7 @@ title: "Laser Hair Removal: Treatment 5"
 date: 2007-12-17 -0800
 comments: true
 disqus_identifier: 1323
-tags: [General Ramblings]
+tags: [medical]
 ---
 Friday morning was my fifth laser hair removal treatment.  In [the first
 treatment](/archive/2007/08/27/laser-hair-removal-treatment-1.aspx), I

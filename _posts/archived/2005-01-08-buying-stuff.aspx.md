@@ -4,7 +4,7 @@ title: "Buying Stuff"
 date: 2005-01-08 -0800
 comments: true
 disqus_identifier: 722
-tags: [General Ramblings]
+tags: [media]
 ---
 The holiday season has come and gone, and while the money's still a
 little tight, I decided to commit to buy a few things with some money

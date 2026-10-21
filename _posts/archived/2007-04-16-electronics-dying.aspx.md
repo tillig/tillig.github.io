@@ -4,7 +4,7 @@ title: "Electronics Dying"
 date: 2007-04-16 -0800
 comments: true
 disqus_identifier: 1179
-tags: [General Ramblings]
+tags: [hardware]
 ---
 I'm having a hell of a time with the electronics at my house lately.
 

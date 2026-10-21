@@ -4,7 +4,7 @@ title: "Most Awesome Email Issue Ever"
 date: 2007-03-06 -0800
 comments: true
 disqus_identifier: 1160
-tags: [General Ramblings]
+tags: [blog]
 ---
 Due to the stupid [server down issue I had a bit
 ago](/archive/2007/02/27/site-down-issues.aspx), I got moved to a new

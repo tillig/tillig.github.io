@@ -4,7 +4,7 @@ title: "Dog Day Evening"
 date: 2007-01-22 -0800
 comments: true
 disqus_identifier: 1131
-tags: [General Ramblings]
+tags: [activities]
 ---
 Saturday found Jenn and me going to
 [Laserport](http://www.laserportofbeaverton.com) with Jason, Tracy, and

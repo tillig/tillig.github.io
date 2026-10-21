@@ -4,7 +4,7 @@ title: "First Random Post of 2011"
 date: 2011-01-31 -0800
 comments: true
 disqus_identifier: 1691
-tags: [General Ramblings]
+tags: [personal]
 ---
 I find that I'm blogging less due to services like
 [Twitter](http://twitter.com) that let me blurt out truncated,

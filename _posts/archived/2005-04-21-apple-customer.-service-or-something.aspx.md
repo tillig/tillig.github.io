@@ -4,7 +4,7 @@ title: "Apple Customer... Service?  Or Something..."
 date: 2005-04-21 -0800
 comments: true
 disqus_identifier: 801
-tags: [General Ramblings]
+tags: [hardware]
 ---
 I bought a new 4G 60GB iPod Photo a while ago, and it's just slightly
 larger than the 3G iPod I had (*thanks*, Apple!) so now I gotta buy a

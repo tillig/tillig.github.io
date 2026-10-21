@@ -4,7 +4,7 @@ title: "Family Technology Advances"
 date: 2009-10-23 -0800
 comments: true
 disqus_identifier: 1577
-tags: [General Ramblings]
+tags: [family]
 ---
 I play the IT guy in my family just like the rest of you geeks out
 there, but some of the folks in my family have been making strides in

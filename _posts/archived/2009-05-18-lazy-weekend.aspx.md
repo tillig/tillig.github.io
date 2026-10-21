@@ -4,7 +4,7 @@ title: "Lazy Weekend"
 date: 2009-05-18 -0800
 comments: true
 disqus_identifier: 1526
-tags: [General Ramblings]
+tags: [personal]
 ---
 No, I did not watch the *[Chronic-WHAT!-cles of
 Narnia](http://www.hulu.com/watch/1397/saturday-night-live)*.

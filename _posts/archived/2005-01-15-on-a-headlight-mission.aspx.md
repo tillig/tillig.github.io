@@ -4,7 +4,7 @@ title: "On A Headlight Mission"
 date: 2005-01-15 -0800
 comments: true
 disqus_identifier: 727
-tags: [General Ramblings]
+tags: [auto]
 ---
 [Three months ago](/archive/2004/10/26/110-lunch.aspx) I went on this
 ridiculous mission to replace my headlights. The driver's side had gone

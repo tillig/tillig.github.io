@@ -4,7 +4,7 @@ title: "AK Rocker Gone From Costco"
 date: 2005-11-28 -0800
 comments: true
 disqus_identifier: 924
-tags: [General Ramblings]
+tags: [gaming]
 ---
 I finally caved in and decided I want one of those [AK Rocker game
 chairs](http://www.ak.com/100series2.html), so when Jenn went to Costco

@@ -4,7 +4,7 @@ title: "Exasperating Problems"
 date: 2007-04-18 -0800
 comments: true
 disqus_identifier: 1182
-tags: [General Ramblings]
+tags: [family]
 ---
 I love my wife dearly, but sometimes she's just frustrating. For
 example, when she has some technical problem (say, with the iPod or the

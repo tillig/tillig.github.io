@@ -4,7 +4,7 @@ title: "My Top Five Email Pet Peeves"
 date: 2010-02-09 -0800
 comments: true
 disqus_identifier: 1614
-tags: [General Ramblings]
+tags: [work]
 ---
 I, like most of you, get a lot of email. We live in an email-centric
 culture. I don't mind it so much. It just seems like some folks still

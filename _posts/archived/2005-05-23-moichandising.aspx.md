@@ -4,7 +4,7 @@ title: "Moichandising!"
 date: 2005-05-23 -0800
 comments: true
 disqus_identifier: 822
-tags: [General Ramblings]
+tags: [toys]
 ---
 I'm not sure why it is, but *Star Wars* is like lube for my wallet. I am
 compelled - like at the soul level - to buy *Star Wars* toys. Not just

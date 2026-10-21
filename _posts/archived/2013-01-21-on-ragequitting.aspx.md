@@ -4,7 +4,7 @@ title: "On Ragequitting"
 date: 2013-01-21 -0800
 comments: true
 disqus_identifier: 1805
-tags: [General Ramblings]
+tags: [personal]
 ---
 [Jeff Atwood just posted an
 article](http://www.codinghorror.com/blog/2013/01/the-end-of-ragequitting.html)

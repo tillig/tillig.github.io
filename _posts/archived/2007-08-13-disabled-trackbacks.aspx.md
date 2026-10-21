@@ -4,7 +4,7 @@ title: "Disabled Trackbacks"
 date: 2007-08-13 -0800
 comments: true
 disqus_identifier: 1255
-tags: [General Ramblings]
+tags: [blog]
 ---
 Even using [Akismet](http://akismet.com/) for anti-blog-spam (which
 seems to work pretty well), I've noticed that as far as

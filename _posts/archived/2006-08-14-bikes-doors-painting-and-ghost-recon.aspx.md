@@ -4,7 +4,7 @@ title: "Bikes, Doors, Painting, and Ghost Recon"
 date: 2006-08-14 -0800
 comments: true
 disqus_identifier: 1055
-tags: [General Ramblings]
+tags: [personal]
 ---
 This weekend was a nice relaxing one, which is a good thing, since we've
 got our weekends pretty much booked solid between now and the wedding.

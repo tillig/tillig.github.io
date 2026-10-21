@@ -4,7 +4,7 @@ title: "Nothing Says Thanksgiving Like People Getting Their Asses Kicked"
 date: 2009-11-30 -0800
 comments: true
 disqus_identifier: 1592
-tags: [General Ramblings]
+tags: [holidays]
 ---
 **Thanksgiving is my least favorite holiday.**
 

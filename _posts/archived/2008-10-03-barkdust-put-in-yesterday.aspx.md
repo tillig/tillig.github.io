@@ -4,7 +4,7 @@ title: "Barkdust Put In Yesterday"
 date: 2008-10-03 -0800
 comments: true
 disqus_identifier: 1455
-tags: [General Ramblings]
+tags: [home]
 ---
 We had a fresh layer of barkdust blown in yesterday. We do it every two
 or three years, and getting it blown in (rather than spreading it

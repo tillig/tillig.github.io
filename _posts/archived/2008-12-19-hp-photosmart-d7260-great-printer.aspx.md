@@ -4,7 +4,7 @@ title: "HP Photosmart D7260 - Great Printer"
 date: 2008-12-19 -0800
 comments: true
 disqus_identifier: 1481
-tags: [GeekSpeak]
+tags: [hardware]
 ---
 A few months ago I was looking for a replacement printer and scanner. I
 tried out a couple of all-in-one solutions ([Canon PIXMA

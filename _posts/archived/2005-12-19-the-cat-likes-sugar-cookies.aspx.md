@@ -4,7 +4,7 @@ title: "The Cat Likes Sugar Cookies"
 date: 2005-12-19 -0800
 comments: true
 disqus_identifier: 935
-tags: [General Ramblings]
+tags: [personal]
 ---
 Pretty rockin' weekend this weekend. Both days I got up at like 7:00a
 (just couldn't sleep anymore... for some reason I can't really "sleep

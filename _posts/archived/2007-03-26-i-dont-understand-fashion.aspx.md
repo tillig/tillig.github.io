@@ -4,7 +4,7 @@ title: "I Don't Understand Fashion"
 date: 2007-03-26 -0800
 comments: true
 disqus_identifier: 1170
-tags: [General Ramblings]
+tags: [personal]
 ---
 I'm not a high-fashion guy. I don't get the whole avant-garde fashion
 thing, I don't follow trends, and I'm not paying $300 for a shirt. That

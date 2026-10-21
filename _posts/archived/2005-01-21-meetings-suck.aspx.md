@@ -4,7 +4,7 @@ title: "Meetings Suck"
 date: 2005-01-21 -0800
 comments: true
 disqus_identifier: 731
-tags: [General Ramblings]
+tags: [work]
 ---
 I am sitting in what has to be the most boring meeting ever conceived by
 man.

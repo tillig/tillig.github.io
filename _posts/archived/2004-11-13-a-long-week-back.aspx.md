@@ -4,7 +4,7 @@ title: "A Long Week Back"
 date: 2004-11-13 -0800
 comments: true
 disqus_identifier: 694
-tags: [General Ramblings]
+tags: [gaming,playstation]
 ---
 It was a pretty long week back at work after vacation last week. There
 was a deadline today... well, I guess it's yesterday, now... Friday...

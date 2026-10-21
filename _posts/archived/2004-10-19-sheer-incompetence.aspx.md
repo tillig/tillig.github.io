@@ -4,7 +4,7 @@ title: "Sheer Incompetence"
 date: 2004-10-19 -0800
 comments: true
 disqus_identifier: 679
-tags: [General Ramblings]
+tags: [personal]
 ---
 I was trying to keep this bottled in, but after today I'm realizing that
 I'm attempting to internalize a frustration beyond my abilities to

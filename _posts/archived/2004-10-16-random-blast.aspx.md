@@ -4,7 +4,7 @@ title: "Random Blast"
 date: 2004-10-16 -0800
 comments: true
 disqus_identifier: 677
-tags: [General Ramblings]
+tags: [personal]
 ---
 No one particular thing driving this post, more just a random blast of
 thoughts and items.

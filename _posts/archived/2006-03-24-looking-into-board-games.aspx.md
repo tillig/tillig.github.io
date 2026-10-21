@@ -4,7 +4,7 @@ title: "Looking Into Board Games"
 date: 2006-03-24 -0800
 comments: true
 disqus_identifier: 973
-tags: [General Ramblings]
+tags: [gaming]
 ---
 I've been up since like 4:00a because I had another stupid headache -
 this time sinus related - and I took some [Excedrin

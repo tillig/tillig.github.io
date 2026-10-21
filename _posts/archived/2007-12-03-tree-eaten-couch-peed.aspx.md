@@ -4,7 +4,7 @@ title: "Tree Eaten, Couch Peed"
 date: 2007-12-03 -0800
 comments: true
 disqus_identifier: 1314
-tags: [General Ramblings]
+tags: [cats]
 ---
 We put the [fake] Christmas tree up yesterday and decorated the house a
 bit.  It sort of got that nice, cozy holiday feel to it.

@@ -4,7 +4,7 @@ title: "Bargain Weekend"
 date: 2004-09-19 -0800
 comments: true
 disqus_identifier: 662
-tags: [General Ramblings]
+tags: [personal]
 ---
 I've had quite a weekend, all on the cheap.
 

@@ -4,7 +4,7 @@ title: "Fun with Windows Aero Flip 3D"
 date: 2010-04-16 -0800
 comments: true
 disqus_identifier: 1631
-tags: [GeekSpeak]
+tags: [windows]
 ---
 This whole thing started out because I was trying to get [Logitech
 SetPoint](http://www.logitech.com/en-us/support_downloads/downloads/mice/devices/5845?section=downloads&bit=&osid=14)

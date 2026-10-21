@@ -4,7 +4,7 @@ title: "Reviewed; And Learning Too Much"
 date: 2004-08-05 -0800
 comments: true
 disqus_identifier: 637
-tags: [General Ramblings]
+tags: [work]
 ---
 I had my annual performance review yesterday. It turned out well, but
 they changed the review form this year so you have like 50 different

@@ -4,7 +4,7 @@ title: "Pyro and Dance Dance Weekend"
 date: 2007-03-05 -0800
 comments: true
 disqus_identifier: 1159
-tags: [General Ramblings]
+tags: [fireworks,gaming]
 ---
 Saturday Jenn and I spent the majority of the day at pyrotechnics
 training, an annual class put on by [Western Display

@@ -4,7 +4,7 @@ title: "Marketers Rock"
 date: 2005-06-17 -0800
 comments: true
 disqus_identifier: 842
-tags: [General Ramblings]
+tags: [humor]
 ---
 Watching TV last night, saw a commercial for a current popular movie.
 The opening line of the commercial killed me. Imagine, in that deep

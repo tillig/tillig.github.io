@@ -4,7 +4,7 @@ title: "Staples Easy Button"
 date: 2006-03-20 -0800
 comments: true
 disqus_identifier: 966
-tags: [General Ramblings]
+tags: [humor]
 ---
 I think the commercials from [Staples](http://www.staples.com) with
 people using the "Easy Button" are funny. Even funnier is that [you can

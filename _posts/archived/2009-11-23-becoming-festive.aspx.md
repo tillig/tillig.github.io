@@ -4,7 +4,7 @@ title: "Becoming Festive"
 date: 2009-11-23 -0800
 comments: true
 disqus_identifier: 1590
-tags: [General Ramblings]
+tags: [holidays]
 ---
 The holiday season has begun at home, preceded quite a bit by its start
 in the stores. (Stores very nearly skipped Halloween this year and went

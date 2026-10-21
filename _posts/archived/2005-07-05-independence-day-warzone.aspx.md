@@ -4,7 +4,7 @@ title: "Independence Day Warzone"
 date: 2005-07-05 -0800
 comments: true
 disqus_identifier: 853
-tags: [General Ramblings]
+tags: [fireworks]
 ---
 [Just as we did last
 year](/archive/2004/07/09/fireworks-in-clatskanie.aspx), Jenn and I went

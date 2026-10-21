@@ -4,7 +4,7 @@ title: "Performance Impact of Full Disk Encryption"
 date: 2008-06-10 -0800
 comments: true
 disqus_identifier: 1397
-tags: [GeekSpeak]
+tags: [security]
 ---
 I'm running this laptop at work that has full disk encryption and a
 real-time virus scanner on it and it feels like it's *dog slow all the

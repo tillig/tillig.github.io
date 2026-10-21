@@ -4,7 +4,7 @@ title: "Working From Car Dealership"
 date: 2005-04-14 -0800
 comments: true
 disqus_identifier: 790
-tags: [General Ramblings]
+tags: [network]
 ---
 Okay, I realize I'm going to sound like I'm *so* living in 1996 or
 something, but I have my car getting worked on this morning at the

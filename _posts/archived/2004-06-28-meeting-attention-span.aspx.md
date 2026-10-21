@@ -4,7 +4,7 @@ title: "Meeting Attention Span"
 date: 2004-06-28 -0800
 comments: true
 disqus_identifier: 601
-tags: [General Ramblings]
+tags: [work]
 ---
 I just got sucked in to a four-hour-long meeting tomorrow.
 

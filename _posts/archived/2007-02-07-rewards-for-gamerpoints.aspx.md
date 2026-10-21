@@ -4,7 +4,7 @@ title: "Rewards for Gamerpoints"
 date: 2007-02-07 -0800
 comments: true
 disqus_identifier: 1146
-tags: [General Ramblings]
+tags: [gaming,xbox]
 ---
 Now *this* is what I'm talking about. Being a Gamerpoint Whore, I'm all
 about getting achievements on Xbox 360. Wouldn't it be cool if you

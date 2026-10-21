@@ -4,7 +4,7 @@ title: "TypeMock Case Study in Corillian"
 date: 2007-05-17 -0800
 comments: true
 disqus_identifier: 1203
-tags: [GeekSpeak]
+tags: [testing,dotnet]
 ---
 [Eli Lopian from TypeMock has
 blogged](http://www.elilopian.com/2007/05/16/typemock-case-study-in-corillian/)

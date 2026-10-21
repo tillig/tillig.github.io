@@ -4,7 +4,7 @@ title: "Going to KA at MGM Grand"
 date: 2006-09-22 -0800
 comments: true
 disqus_identifier: 1077
-tags: [General Ramblings]
+tags: [activities]
 ---
 [![Cirque du Soleil:
 KA]({{ site.url }}/images/20060922ka.jpg)](http://www.mgmgrand.com/entertainment/ka-cirque-du-soleil-show.aspx)

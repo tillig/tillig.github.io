@@ -4,7 +4,7 @@ title: "Scared of Bears"
 date: 2013-04-25 -0800
 comments: true
 disqus_identifier: 1817
-tags: [General Ramblings]
+tags: [family]
 ---
 We've had a recent issue where Phoenix won't do something because she
 claims she's "scared".

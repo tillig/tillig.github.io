@@ -4,7 +4,7 @@ title: "The Vesper"
 date: 2006-11-18 -0800
 comments: true
 disqus_identifier: 1102
-tags: [General Ramblings]
+tags: [food]
 ---
 In [*Casino
 Royale*](http://www.sonypictures.com/movies/casinoroyale/site/) (both

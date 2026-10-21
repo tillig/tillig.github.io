@@ -4,7 +4,7 @@ title: "Who's Your Favorite Bond?"
 date: 2011-02-18 -0800
 comments: true
 disqus_identifier: 1699
-tags: [General Ramblings]
+tags: [media,movies]
 ---
 From a conversation at today's staff meeting...
 

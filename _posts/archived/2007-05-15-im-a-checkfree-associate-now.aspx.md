@@ -4,7 +4,7 @@ title: "I'm a CheckFree Associate Now"
 date: 2007-05-15 -0800
 comments: true
 disqus_identifier: 1202
-tags: [General Ramblings]
+tags: [work]
 ---
 ![Corillian is now a part of
 CheckFree]({{ site.url }}/images/20070515acquisition.png)It's

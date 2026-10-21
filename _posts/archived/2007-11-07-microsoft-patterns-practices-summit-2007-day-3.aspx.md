@@ -4,7 +4,7 @@ title: "Microsoft Patterns & Practices Summit 2007 - Day 3"
 date: 2007-11-07 -0800
 comments: true
 disqus_identifier: 1293
-tags: [GeekSpeak]
+tags: [conferences,dotnet]
 ---
 **The topic of Day 3: Development.**
 

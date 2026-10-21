@@ -4,7 +4,7 @@ title: "The BASIC Classic Rock Test"
 date: 2007-02-12 -0800
 comments: true
 disqus_identifier: 1149
-tags: [General Ramblings]
+tags: [music]
 ---
 <!--markdownlint-disable MD036 -->
 [Eric Gunnerson scored 74%.](http://blogs.msdn.com/ericgu/archive/2006/12/11/classic-rock-test.aspx)

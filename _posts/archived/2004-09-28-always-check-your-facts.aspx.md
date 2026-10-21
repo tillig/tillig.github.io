@@ -4,7 +4,7 @@ title: "Always Check Your Facts"
 date: 2004-09-28 -0800
 comments: true
 disqus_identifier: 666
-tags: [General Ramblings]
+tags: [culture]
 ---
 It's nearing election time again, and the amount of spam coming in to me
 with political messages is increasing noticeably as election day nears,

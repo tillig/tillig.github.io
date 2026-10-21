@@ -4,7 +4,7 @@ title: "Super Typemock Deal for Small Businesses"
 date: 2009-12-07 -0800
 comments: true
 disqus_identifier: 1593
-tags: [net]
+tags: [dotnet,testing]
 ---
 If you have a business of 25 employees or less and you're looking for a
 great unit testing mock/isolation product, Typemock has a screamin' deal

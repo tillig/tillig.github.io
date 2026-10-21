@@ -4,7 +4,7 @@ title: "You MUST RSVP For My Wedding"
 date: 2006-08-30 -0800
 comments: true
 disqus_identifier: 1063
-tags: [General Ramblings]
+tags: [family]
 ---
 Wedding invitations were sent out Monday and people are already starting
 to get them. Thus far it seems that as soon as they're received, we get

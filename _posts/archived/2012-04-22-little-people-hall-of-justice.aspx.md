@@ -4,7 +4,7 @@ title: "Little People Hall of Justice"
 date: 2012-04-22 -0800
 comments: true
 disqus_identifier: 1779
-tags: [General Ramblings]
+tags: [family,toys]
 ---
 Phoenix is really into the Fisher Price "Little People" figures,
 particularly [the DC Super Friends

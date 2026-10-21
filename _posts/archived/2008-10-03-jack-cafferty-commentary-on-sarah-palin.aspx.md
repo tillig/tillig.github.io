@@ -4,7 +4,7 @@ title: "Jack Cafferty Commentary on Sarah Palin"
 date: 2008-10-03 -0800
 comments: true
 disqus_identifier: 1454
-tags: [General Ramblings]
+tags: [humor]
 ---
 I don't generally get into politics, and I can't remember really ever
 posting anything political here, but I have to put this up because it

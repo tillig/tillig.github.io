@@ -4,7 +4,7 @@ title: "To Help or Not To Help"
 date: 2011-08-11 -0800
 comments: true
 disqus_identifier: 1730
-tags: [General Ramblings]
+tags: [work]
 ---
 Hypothetical situation:
 

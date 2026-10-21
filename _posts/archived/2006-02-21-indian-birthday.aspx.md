@@ -4,7 +4,7 @@ title: "Indian Birthday"
 date: 2006-02-21 -0800
 comments: true
 disqus_identifier: 954
-tags: [General Ramblings]
+tags: [activities]
 ---
 This weekend was pretty eventful, and full of lots of fun stuff (and a
 few not-so-fun things).

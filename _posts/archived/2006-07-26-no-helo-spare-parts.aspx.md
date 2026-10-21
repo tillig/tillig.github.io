@@ -4,7 +4,7 @@ title: "No Helo Spare Parts"
 date: 2006-07-26 -0800
 comments: true
 disqus_identifier: 1039
-tags: [General Ramblings]
+tags: [toys]
 ---
 I've been on a mission for spare parts for this RC helicopter I got. A
 mission, I tell you! I found [the manufacturer in

@@ -4,7 +4,7 @@ title: "Walla Walla Fireworks 2008"
 date: 2008-07-06 -0800
 comments: true
 disqus_identifier: 1408
-tags: [General Ramblings]
+tags: [fireworks]
 ---
 [![Walla Walla Fireworks 2008](http://lh3.ggpht.com/travis.illig/SHGTWlysgoE/AAAAAAAAAW0/qPT5KNA4vIE/s160-c/WallaWallaFireworks2008.jpg)](http://picasaweb.google.com/travis.illig/WallaWallaFireworks2008)
 

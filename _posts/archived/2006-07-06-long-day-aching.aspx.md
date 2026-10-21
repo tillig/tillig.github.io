@@ -4,7 +4,7 @@ title: "Long Day Aching"
 date: 2006-07-06 -0800
 comments: true
 disqus_identifier: 1029
-tags: [General Ramblings]
+tags: [fireworks]
 ---
 It's going to be a long day today. I am every shade of aching, from my
 head down to the small of my back. I can type well enough, which is

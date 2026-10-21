@@ -4,7 +4,7 @@ title: "Everything's Better In Wonkavision"
 date: 2005-09-26 -0800
 comments: true
 disqus_identifier: 892
-tags: [General Ramblings]
+tags: [costumes]
 ---
 I don't really remember what I did on Friday night. I think I worked on
 the vest for my Wonka costume, but I don't recall, which sort of implies

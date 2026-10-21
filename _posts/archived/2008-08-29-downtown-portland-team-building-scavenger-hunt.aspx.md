@@ -4,7 +4,7 @@ title: "Downtown Portland Team Building Scavenger Hunt"
 date: 2008-08-29 -0800
 comments: true
 disqus_identifier: 1439
-tags: [General Ramblings]
+tags: [work]
 ---
 [![The Red Team: Jeff, Derek, Me (Travis), and
 Devin](http://farm4.static.flickr.com/3231/2808087757_9b636f65c8_m.jpg)](http://www.flickr.com/photos/websteria/sets/72157607011326559/)Yesterday

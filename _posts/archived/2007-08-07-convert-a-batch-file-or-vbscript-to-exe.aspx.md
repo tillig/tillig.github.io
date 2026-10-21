@@ -4,7 +4,7 @@ title: "Convert A Batch File or VBScript to EXE"
 date: 2007-08-07 -0800
 comments: true
 disqus_identifier: 1250
-tags: [GeekSpeak]
+tags: [windows,vbscript]
 ---
 There is so much stuff out there that I have no idea exists.  Anyone
 else know that there's a program that come with Windows called

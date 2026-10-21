@@ -4,7 +4,7 @@ title: "AJAX Progress Indicator Generator"
 date: 2008-04-08 -0800
 comments: true
 disqus_identifier: 1372
-tags: [GeekSpeak]
+tags: [web]
 ---
 Great site that generates custom AJAX progress indicator graphics.
 ![Sample Progress

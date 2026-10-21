@@ -4,7 +4,7 @@ title: "Lack of Customer Service"
 date: 2004-06-11 -0800
 comments: true
 disqus_identifier: 584
-tags: [General Ramblings]
+tags: [work]
 ---
 I like a [good customer service
 experience](/archive/2003/07/03/real-customer-service.aspx). I don't

@@ -4,7 +4,7 @@ title: "Removed Comments Email Address"
 date: 2007-06-19 -0800
 comments: true
 disqus_identifier: 1218
-tags: [General Ramblings]
+tags: [blog]
 ---
 The "comments" email address I had was pretty much just a spam magnet,
 so I've killed it.  If you need to get in touch with me, use the contact

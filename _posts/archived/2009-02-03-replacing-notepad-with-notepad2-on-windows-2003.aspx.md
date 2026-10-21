@@ -4,7 +4,7 @@ title: "Replacing Notepad with Notepad2 on Windows 2003"
 date: 2009-02-03 -0800
 comments: true
 disqus_identifier: 1493
-tags: [GeekSpeak]
+tags: [windows]
 ---
 This process has been posted for [Windows XP
 SP2](http://weblogs.asp.net/rweigelt/archive/2004/08/12/213085.aspx) and

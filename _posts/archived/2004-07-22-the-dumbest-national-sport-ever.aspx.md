@@ -4,7 +4,7 @@ title: "The Dumbest National Sport EVER"
 date: 2004-07-22 -0800
 comments: true
 disqus_identifier: 628
-tags: [General Ramblings]
+tags: [personal]
 ---
 Baseball, it could be argued, is the "national sport" of the United
 States. When people talk about the US, and what might be construed as

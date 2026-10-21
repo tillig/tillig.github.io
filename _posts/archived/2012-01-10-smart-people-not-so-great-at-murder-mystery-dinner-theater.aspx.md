@@ -4,7 +4,7 @@ title: "Smart People Not So Great at Murder Mystery Dinner Theater"
 date: 2012-01-10 -0800
 comments: true
 disqus_identifier: 1760
-tags: [General Ramblings]
+tags: [activities]
 ---
 We had a team celebration today at
 [Kells](http://www.kellsirish.com/portland/index.php) and it was a

@@ -4,7 +4,7 @@ title: "Interesting Stuff To Buy"
 date: 2005-04-05 -0800
 comments: true
 disqus_identifier: 778
-tags: [General Ramblings]
+tags: [media]
 ---
 This new [*Visual Studio
 Hacks*](http://www.amazon.com/exec/obidos/ASIN/0596008473/mhsvortex)

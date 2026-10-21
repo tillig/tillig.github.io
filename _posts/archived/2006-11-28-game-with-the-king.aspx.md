@@ -4,7 +4,7 @@ title: "Game With The King"
 date: 2006-11-28 -0800
 comments: true
 disqus_identifier: 1106
-tags: [General Ramblings]
+tags: [gaming,xbox]
 ---
 ![The Burger
 King]({{ site.url }}/images/20061128king.jpg)Burger

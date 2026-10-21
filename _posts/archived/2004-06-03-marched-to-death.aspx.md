@@ -4,7 +4,7 @@ title: "Marched To Death"
 date: 2004-06-03 -0800
 comments: true
 disqus_identifier: 579
-tags: [General Ramblings]
+tags: [work]
 ---
 Release 1 of the death-march project I was working on was completed
 yesterday, so now I'm taking a little time to recoup and finally put

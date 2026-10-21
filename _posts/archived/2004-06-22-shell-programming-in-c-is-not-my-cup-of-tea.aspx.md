@@ -4,7 +4,7 @@ title: "Shell Programming In C# Is Not My Cup Of Tea"
 date: 2004-06-22 -0800
 comments: true
 disqus_identifier: 592
-tags: [net]
+tags: [dotnet]
 ---
 When it comes to programming, I will admit I am a spoiled, whiny baby. I
 hate low-level crap. I am *not* a C++ programmer. Sure, it may be

@@ -4,7 +4,7 @@ title: "2013 Vegas Vacation"
 date: 2013-03-02 -0800
 comments: true
 disqus_identifier: 1812
-tags: [General Ramblings]
+tags: [activities]
 ---
 Every year, maybe every other year, Jenn and I head down to Las Vegas.
 There's always something new to check out and it's a fun place to visit.

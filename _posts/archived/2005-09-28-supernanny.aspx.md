@@ -4,7 +4,7 @@ title: "Supernanny"
 date: 2005-09-28 -0800
 comments: true
 disqus_identifier: 896
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 ![Supernanny]({{ site.url }}/images/20050928supernanny.jpg)I've
 been watching the show [Supernanny](http://www.supernanny.net/) a bit

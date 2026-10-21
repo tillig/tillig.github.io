@@ -4,7 +4,7 @@ title: "Note to Conference Organizers: No More Box Lunches"
 date: 2008-02-27 -0800
 comments: true
 disqus_identifier: 1354
-tags: [General Ramblings]
+tags: [conferences,food]
 ---
 OK, conference organizers, listen up:
 

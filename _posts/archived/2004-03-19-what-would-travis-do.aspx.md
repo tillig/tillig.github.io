@@ -4,7 +4,7 @@ title: "What Would Travis Do?"
 date: 2004-03-19 -0800
 comments: true
 disqus_identifier: 544
-tags: [General Ramblings]
+tags: [humor]
 ---
 Cruising in to work this morning, I saw one of those WWJD (What Would
 Jesus Do) stickers on the bumper of a car and it got me thinking.

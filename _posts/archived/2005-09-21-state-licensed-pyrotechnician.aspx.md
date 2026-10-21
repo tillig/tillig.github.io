@@ -4,7 +4,7 @@ title: "State Licensed Pyrotechnician"
 date: 2005-09-21 -0800
 comments: true
 disqus_identifier: 891
-tags: [General Ramblings]
+tags: [fireworks]
 ---
 ![General Operator Certification for Public Display of
 Fireworks]({{ site.url }}/images/20050921pyropermit.jpg)

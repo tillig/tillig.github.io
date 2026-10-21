@@ -4,7 +4,7 @@ title: "Missing Pieces"
 date: 2005-06-08 -0800
 comments: true
 disqus_identifier: 837
-tags: [General Ramblings]
+tags: [gaming]
 ---
 I bought the [Blokus
 game](http://www.amazon.com/exec/obidos/ASIN/B00011F5DK/mhsvortex)

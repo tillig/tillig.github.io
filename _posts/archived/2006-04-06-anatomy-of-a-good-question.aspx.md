@@ -4,7 +4,7 @@ title: "Anatomy of a Good Question"
 date: 2006-04-06 -0800
 comments: true
 disqus_identifier: 981
-tags: [General Ramblings]
+tags: [work]
 ---
 Another thing we learned in my [peer mentoring
 class](/archive/2006/03/30/peer-mentoring-seminar.aspx) was that there

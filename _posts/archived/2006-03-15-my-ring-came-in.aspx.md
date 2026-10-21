@@ -4,7 +4,7 @@ title: "My Ring Came In"
 date: 2006-03-15 -0800
 comments: true
 disqus_identifier: 964
-tags: [General Ramblings]
+tags: [family]
 ---
 ![Black titanium 'One
 Ring']({{ site.url }}/images/20060315ring.jpg)Jenn

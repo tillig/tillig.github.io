@@ -4,7 +4,7 @@ title: "Twas the Day Before the Night Before Christmas"
 date: 2004-12-23 -0800
 comments: true
 disqus_identifier: 714
-tags: [General Ramblings]
+tags: [holidays]
 ---
 I figured I should get my rant out of the way before Christmas so I can
 sit back and relax, having vented about the holiday and the trauma it

@@ -4,7 +4,7 @@ title: "Serenity Now!"
 date: 2005-10-10 -0800
 comments: true
 disqus_identifier: 903
-tags: [General Ramblings]
+tags: [media,movies]
 ---
 No, not [the *Seinfeld*
 episode](http://www.stanthecaddy.com/the-serenity-now-script.html).

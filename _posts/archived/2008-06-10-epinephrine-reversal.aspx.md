@@ -4,7 +4,7 @@ title: "Epinephrine Reversal"
 date: 2008-06-10 -0800
 comments: true
 disqus_identifier: 1398
-tags: [General Ramblings]
+tags: [cats]
 ---
 We heard back from the vet with the final [autopsy results on
 Jack](/archive/2008/05/30/his-name-was-jack.aspx). He did have

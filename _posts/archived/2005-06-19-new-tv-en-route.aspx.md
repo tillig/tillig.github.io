@@ -4,7 +4,7 @@ title: "New TV En Route"
 date: 2005-06-19 -0800
 comments: true
 disqus_identifier: 843
-tags: [General Ramblings]
+tags: [media]
 ---
 I went yesterday to [Magnolia A/V](http://www.magnoliahifi.com) and
 picked out my new TV. I ended up getting the [Sharp Aquos

@@ -4,7 +4,7 @@ title: "Father's Day Weekend"
 date: 2004-06-21 -0800
 comments: true
 disqus_identifier: 591
-tags: [General Ramblings]
+tags: [family]
 ---
 This weekend was Father's Day, which meant carting around town visiting
 family.

@@ -4,7 +4,7 @@ title: "The Problem With &quot;Release Early, Release Often&quot;"
 date: 2008-12-08 -0800
 comments: true
 disqus_identifier: 1473
-tags: [GeekSpeak]
+tags: [process]
 ---
 One of the mantras of agile software development is "[Release Early,
 Release

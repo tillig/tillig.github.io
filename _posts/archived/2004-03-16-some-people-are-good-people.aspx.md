@@ -4,7 +4,7 @@ title: "Some People Are Good People"
 date: 2004-03-16 -0800
 comments: true
 disqus_identifier: 539
-tags: [General Ramblings]
+tags: [personal]
 ---
 I wrote yesterday about some eBay troubles I was having where an item I
 sent to someone in Australia got shipped to the wrong person.

@@ -4,7 +4,7 @@ title: "Picture Taking with Disney Characters"
 date: 2009-06-09 -0800
 comments: true
 disqus_identifier: 1536
-tags: [General Ramblings]
+tags: [activities]
 ---
 I'm not sure what made me think of this story, but it made me snicker to
 myself so I thought I'd tell it.

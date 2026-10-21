@@ -4,7 +4,7 @@ title: "HP C7280 All-in-One: Great Printer, Horrible Scanner"
 date: 2008-04-11 -0800
 comments: true
 disqus_identifier: 1374
-tags: [GeekSpeak]
+tags: [hardware]
 ---
 Not quite a month ago, I bought an [HP C7280
 All-in-One](http://www.amazon.com/gp/product/B000UY6M2G?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000UY6M2G)

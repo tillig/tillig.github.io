@@ -4,7 +4,7 @@ title: "Silent All These Years"
 date: 2004-09-14 -0800
 comments: true
 disqus_identifier: 658
-tags: [General Ramblings]
+tags: [hockey]
 ---
 I've been quiet around here for about a week, but that's just because
 I've been busy doing stuff I don't remember too well. Don't worry, I'm

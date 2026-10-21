@@ -4,7 +4,7 @@ title: "Having a Positive Negative Impact"
 date: 2004-12-01 -0800
 comments: true
 disqus_identifier: 704
-tags: [General Ramblings]
+tags: [work]
 ---
 One of the guys in my group had a dream last night that I was mad at him
 for wasting time on frivolous programming efforts and not spending time

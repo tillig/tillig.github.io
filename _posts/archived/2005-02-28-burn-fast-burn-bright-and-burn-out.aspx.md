@@ -4,7 +4,7 @@ title: "Burn Fast, Burn Bright, and Burn Out"
 date: 2005-02-28 -0800
 comments: true
 disqus_identifier: 755
-tags: [General Ramblings]
+tags: [music]
 ---
 I'm not sure how it started. I can only assume it was while cruising
 iTunes, but I've gotten into this mid-90's Britpop groove. More

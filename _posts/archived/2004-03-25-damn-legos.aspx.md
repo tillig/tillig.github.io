@@ -4,7 +4,7 @@ title: "Damn Legos"
 date: 2004-03-25 -0800
 comments: true
 disqus_identifier: 549
-tags: [General Ramblings]
+tags: [toys]
 ---
 Just when I had gotten all of the [*Harry Potter*
 Legos](http://shop.lego.com/department.asp?d=20&t=3), they released the

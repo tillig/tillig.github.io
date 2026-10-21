@@ -4,7 +4,7 @@ title: "Happy First Birthday, Phoenix Aeralynn"
 date: 2011-11-27 -0800
 comments: true
 disqus_identifier: 1754
-tags: [General Ramblings]
+tags: [family]
 ---
 Friday was Phoenix's first birthday, so on Saturday we had her party.
 

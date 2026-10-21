@@ -4,7 +4,7 @@ title: "TV Ostensibly Fixed"
 date: 2005-05-06 -0800
 comments: true
 disqus_identifier: 808
-tags: [General Ramblings]
+tags: [media]
 ---
 According to a phone call I received via voice mail from yesterday at
 4:58p, my TV is fixed and awaiting delivery back to my home.

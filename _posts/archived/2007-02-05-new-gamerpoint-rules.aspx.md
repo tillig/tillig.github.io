@@ -4,7 +4,7 @@ title: "New Gamerpoint Rules"
 date: 2007-02-05 -0800
 comments: true
 disqus_identifier: 1145
-tags: [General Ramblings]
+tags: [gaming,xbox]
 ---
 As a Gamerpoint Whore, it's nice to know the rules for how Gamerpoints
 get allocated by game. [The new rules, posted at Gamerscore

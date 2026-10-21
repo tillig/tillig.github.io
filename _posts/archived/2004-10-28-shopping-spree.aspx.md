@@ -4,7 +4,7 @@ title: "Shopping Spree"
 date: 2004-10-28 -0800
 comments: true
 disqus_identifier: 685
-tags: [General Ramblings]
+tags: [gaming,playstation]
 ---
 I went after work yesterday and picked up the [strategy guide for *Grand
 Theft Auto: San

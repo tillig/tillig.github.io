@@ -4,7 +4,7 @@ title: "Sopranos: What the Hell Was That?"
 date: 2007-06-12 -0800
 comments: true
 disqus_identifier: 1211
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 I, like most of America, tuned in for *The Sopranos* series finale on
 Sunday night, stoked for a cool ending to a cool show. And, like most of

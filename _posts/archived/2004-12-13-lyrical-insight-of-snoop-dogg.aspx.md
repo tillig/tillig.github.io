@@ -4,7 +4,7 @@ title: "Lyrical Insight of Snoop Dogg"
 date: 2004-12-13 -0800
 comments: true
 disqus_identifier: 709
-tags: [General Ramblings]
+tags: [music]
 ---
 After playing [San
 Andreas](http://www.amazon.com/exec/obidos/ASIN/B0001VGFK2/mhsvortex)

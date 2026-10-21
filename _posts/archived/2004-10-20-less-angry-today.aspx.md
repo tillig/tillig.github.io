@@ -4,7 +4,7 @@ title: "Less Angry Today"
 date: 2004-10-20 -0800
 comments: true
 disqus_identifier: 680
-tags: [General Ramblings]
+tags: [work]
 ---
 Okay, so, like, I was a little harsh yesterday, maybe. Not that I'm
 recanting my opinion of general incompetence, but I do have to give

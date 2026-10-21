@@ -4,7 +4,7 @@ title: "Why I Don't Make Weeknight Plans"
 date: 2008-12-12 -0800
 comments: true
 disqus_identifier: 1475
-tags: [General Ramblings]
+tags: [personal]
 ---
 I generally don't make plans to hang out with people during the week.
 It's not that I don't like visiting friends, it's just that things never

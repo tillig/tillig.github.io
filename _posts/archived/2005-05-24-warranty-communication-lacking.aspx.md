@@ -4,7 +4,7 @@ title: "Warranty Communication Lacking"
 date: 2005-05-24 -0800
 comments: true
 disqus_identifier: 825
-tags: [General Ramblings]
+tags: [media]
 ---
 I called NEW (the warranty company servicing my TV extended warranty)
 since they were supposed to have called me back this past Friday to tell

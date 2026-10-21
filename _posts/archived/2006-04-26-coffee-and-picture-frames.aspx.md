@@ -4,7 +4,7 @@ title: "Coffee and Picture Frames"
 date: 2006-04-26 -0800
 comments: true
 disqus_identifier: 992
-tags: [General Ramblings]
+tags: [gaming]
 ---
 I ordered a copy of [*Tomb Raider:
 Legend*](http://www.amazon.com/exec/obidos/ASIN/B000A0XSN6/mhsvortex) a

@@ -4,7 +4,7 @@ title: "First Anniversary"
 date: 2007-10-15 -0800
 comments: true
 disqus_identifier: 1278
-tags: [General Ramblings]
+tags: [family]
 ---
 Sunday was [my first wedding
 anniversary](http://paraesthesia.com/archive/2006/10/27/the-royal-wedding.aspx).

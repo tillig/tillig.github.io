@@ -4,7 +4,7 @@ title: "Tori's Wedding"
 date: 2006-07-05 -0800
 comments: true
 disqus_identifier: 1027
-tags: [General Ramblings]
+tags: [family]
 ---
 I've taken a loooong weekend, from June 30 - July 5, for a couple of
 reasons. The first is my sister's wedding. The second is fireworks...

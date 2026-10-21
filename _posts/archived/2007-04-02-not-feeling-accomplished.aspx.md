@@ -4,7 +4,7 @@ title: "Not Feeling Accomplished"
 date: 2007-04-02 -0800
 comments: true
 disqus_identifier: 1173
-tags: [General Ramblings]
+tags: [personal]
 ---
 I don't really feel too great about this past weekend and I'm not sure
 that I can explain why in a way that most folks will understand. Let me

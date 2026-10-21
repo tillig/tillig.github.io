@@ -4,7 +4,7 @@ title: "Safari in the Living Room"
 date: 2013-02-06 -0800
 comments: true
 disqus_identifier: 1807
-tags: [General Ramblings]
+tags: [family]
 ---
 We had a safari in our living room last night.
 

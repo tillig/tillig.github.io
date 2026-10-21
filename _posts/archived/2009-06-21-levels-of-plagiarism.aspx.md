@@ -4,7 +4,7 @@ title: "Levels of Plagiarism"
 date: 2009-06-21 -0800
 comments: true
 disqus_identifier: 1541
-tags: [General Ramblings]
+tags: [blog]
 ---
 OK, so I'm familiar with those blogs that basically just scrape your RSS
 feed and steal your content word-for-word, and I'm a victim of several

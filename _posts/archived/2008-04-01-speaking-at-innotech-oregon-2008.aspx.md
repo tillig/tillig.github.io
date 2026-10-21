@@ -4,7 +4,7 @@ title: "Speaking at InnoTech Oregon 2008"
 date: 2008-04-01 -0800
 comments: true
 disqus_identifier: 1367
-tags: [GeekSpeak,dotnet]
+tags: [conferences,dotnet,testing]
 ---
 The [InnoTech Oregon conference](http://www.innotechconference.com/pdx/)
 is going on April 16 and 17 at the Portland Convention Center. I'll be

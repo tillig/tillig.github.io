@@ -4,7 +4,7 @@ title: "Miserably Ill"
 date: 2008-03-05 -0800
 comments: true
 disqus_identifier: 1355
-tags: [General Ramblings]
+tags: [medical]
 ---
 I started feeling the onset of getting sick toward the end of last week,
 but it wasn't really bothering me until Friday night when I started

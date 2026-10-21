@@ -4,7 +4,7 @@ title: "Bad Karma Saturday"
 date: 2004-08-09 -0800
 comments: true
 disqus_identifier: 638
-tags: [General Ramblings]
+tags: [home]
 ---
 This is actually the second time I'm trying to write this out, because I
 got about halfway done the first time and hit something - I don't know

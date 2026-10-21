@@ -4,7 +4,7 @@ title: "Harry Potter and the Deathly Hallows"
 date: 2006-12-21 -0800
 comments: true
 disqus_identifier: 1119
-tags: [General Ramblings]
+tags: [books]
 ---
 My mom just called me (she works for the Fred Meyer book buyer) and let
 me know that the new Harry Potter book is *Harry Potter and the Deathly

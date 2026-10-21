@@ -4,7 +4,7 @@ title: "Flat Tire Tuesday; AK Rocker Found"
 date: 2005-11-30 -0800
 comments: true
 disqus_identifier: 925
-tags: [General Ramblings]
+tags: [auto]
 ---
 Yesterday was pretty eventful from a "lots of crap happening"
 standpoint.

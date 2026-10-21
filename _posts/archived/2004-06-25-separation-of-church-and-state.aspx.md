@@ -4,7 +4,7 @@ title: "Separation of Church and State"
 date: 2004-06-25 -0800
 comments: true
 disqus_identifier: 598
-tags: [General Ramblings]
+tags: [blog]
 ---
 The more I work in tech, and the more I write in this blog, I'm finding
 that I write more about work/tech stuff and less about what I've been up

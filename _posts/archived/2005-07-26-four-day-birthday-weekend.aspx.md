@@ -4,7 +4,7 @@ title: "Four-Day Birthday Weekend"
 date: 2005-07-26 -0800
 comments: true
 disqus_identifier: 862
-tags: [General Ramblings]
+tags: [personal]
 ---
 I took Friday through Monday off not only because I need to start eating
 up some of my PTO hours before I lose them, but also in celebration of

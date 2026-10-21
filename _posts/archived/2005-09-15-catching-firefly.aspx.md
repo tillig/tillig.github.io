@@ -4,7 +4,7 @@ title: "Catching Firefly"
 date: 2005-09-15 -0800
 comments: true
 disqus_identifier: 888
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 I noticed that the movie
 [*Serenity*](http://us.imdb.com/title/tt0379786/) was coming out, and I

@@ -4,7 +4,7 @@ title: "Stream of Near-Consciousness"
 date: 2005-04-08 -0800
 comments: true
 disqus_identifier: 783
-tags: [General Ramblings]
+tags: [personal]
 ---
 Screw that whole "Stairway to Heaven" thing, man. It's all about Ozzy's
 "No More Tears."

@@ -4,7 +4,7 @@ title: "Running with Fios"
 date: 2008-02-09 -0800
 comments: true
 disqus_identifier: 1346
-tags: [GeekSpeak]
+tags: [network]
 ---
 The [Verizon Fios](http://www.verizon.com/fios) installers just left,
 and I've got my 15mbps up/2mpbs down running in full form. Got

@@ -4,7 +4,7 @@ title: "Rescheduled To Death"
 date: 2005-01-28 -0800
 comments: true
 disqus_identifier: 735
-tags: [General Ramblings]
+tags: [work]
 ---
 Remember my [request for a suicide pill last
 Friday](/archive/2005/01/21/meetings-suck.aspx)? How we spent a day and

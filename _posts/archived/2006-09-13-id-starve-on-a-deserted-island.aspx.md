@@ -4,7 +4,7 @@ title: "I'd Starve On A Deserted Island"
 date: 2006-09-13 -0800
 comments: true
 disqus_identifier: 1071
-tags: [General Ramblings]
+tags: [food]
 ---
 ![Coconut]({{ site.url }}/images/20060913coconut.jpg)I
 went to the store last night to pick up some unsweetened shredded

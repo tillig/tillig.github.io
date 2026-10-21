@@ -4,7 +4,7 @@ title: "Vegas Vacation Spring 2009"
 date: 2009-04-12 -0800
 comments: true
 disqus_identifier: 1512
-tags: [General Ramblings]
+tags: [activities]
 ---
 Jenn and I went to Las Vegas for three days this week (Tuesday through
 Thursday) and had a great stay at the Paris Las Vegas. As usual, we

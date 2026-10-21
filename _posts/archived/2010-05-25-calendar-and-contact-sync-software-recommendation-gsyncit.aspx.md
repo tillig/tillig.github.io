@@ -4,7 +4,7 @@ title: "Calendar and Contact Sync Software Recommendation: gSyncit"
 date: 2010-05-25 -0800
 comments: true
 disqus_identifier: 1644
-tags: [General Ramblings]
+tags: [windows]
 ---
 I'm on a Blackberry Curve right now and I'd like to move to an
 Android-based phone. Since Android plays so nicely with Google apps

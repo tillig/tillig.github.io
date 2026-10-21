@@ -4,7 +4,7 @@ title: "Goodbye, Granddad - I Love You"
 date: 2006-05-17 -0800
 comments: true
 disqus_identifier: 1005
-tags: [General Ramblings]
+tags: [family]
 ---
 I got a phone call last night at about 11:15p from my mom. My granddad,
 her father, passed away from lung cancer at 11:10p.

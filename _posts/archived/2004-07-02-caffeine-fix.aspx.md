@@ -4,7 +4,7 @@ title: "Caffeine Fix"
 date: 2004-07-02 -0800
 comments: true
 disqus_identifier: 606
-tags: [General Ramblings]
+tags: [food]
 ---
 Some people might say that when you start to feel a little lightheaded
 and hyped from your caffeine intake that you've probably had quite

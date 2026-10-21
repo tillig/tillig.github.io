@@ -4,7 +4,7 @@ title: "Stepped Up to PSP"
 date: 2006-09-25 -0800
 comments: true
 disqus_identifier: 1078
-tags: [General Ramblings]
+tags: [gaming,playstation]
 ---
 ![PSP Entertainment
 Pack]({{ site.url }}/images/20060925psp.jpg)After

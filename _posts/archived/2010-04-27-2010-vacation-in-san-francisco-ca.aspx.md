@@ -4,7 +4,7 @@ title: "2010 Vacation in San Francisco, CA"
 date: 2010-04-27 -0800
 comments: true
 disqus_identifier: 1632
-tags: [General Ramblings]
+tags: [activities]
 ---
 I had last week off (so I'm hurriedly catching up this week on work) and
 Jenn and I decided to take a couple of days to head down to San

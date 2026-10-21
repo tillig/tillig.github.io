@@ -4,7 +4,7 @@ title: "The Ginger Lemon Creme"
 date: 2009-05-20 -0800
 comments: true
 disqus_identifier: 1530
-tags: [General Ramblings]
+tags: [food]
 ---
 I bought these very tasty [Carr's Ginger Lemon Creme
 cookies](http://www.amazon.com/gp/product/B000AYDHTM?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000AYDHTM)

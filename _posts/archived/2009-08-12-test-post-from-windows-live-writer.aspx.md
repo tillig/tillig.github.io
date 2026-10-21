@@ -4,7 +4,7 @@ title: "Test Post from Windows Live Writer"
 date: 2009-08-12 -0800
 comments: true
 disqus_identifier: 1557
-tags: [General Ramblings]
+tags: [blog]
 ---
 So I just installed [Windows Live Writer
 2009](http://windowslivewriter.spaces.live.com/) and I'm posting from

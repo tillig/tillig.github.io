@@ -4,7 +4,7 @@ title: "Pragmatism Is Not An Excuse To Avoid Work"
 date: 2007-07-25 -0800
 comments: true
 disqus_identifier: 1241
-tags: [GeekSpeak]
+tags: [process]
 ---
 When you're working on a software project, there are times you're faced
 with decisions:  Do I implement this functionality or not?  Do I add

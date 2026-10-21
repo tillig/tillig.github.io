@@ -4,7 +4,7 @@ title: "My Toddler: Party Rock and OCD"
 date: 2012-08-24 -0800
 comments: true
 disqus_identifier: 1790
-tags: [General Ramblings]
+tags: [family]
 ---
 Phoenix is not quite two, but in her words, "I big." She is starting to
 become very independent, or at least she tries to be.

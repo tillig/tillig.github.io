@@ -4,7 +4,7 @@ title: "Typemock Isolator Open Source License Clarifications"
 date: 2009-01-20 -0800
 comments: true
 disqus_identifier: 1487
-tags: [net]
+tags: [dotnet,testing]
 ---
 I'm working on an overhaul of the internal web server for
 [CR_Documentor](http://cr-documentor.googlecode.com) and in doing that

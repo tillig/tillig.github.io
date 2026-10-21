@@ -4,7 +4,7 @@ title: "Bought My XO Laptop"
 date: 2007-11-14 -0800
 comments: true
 disqus_identifier: 1304
-tags: [General Ramblings,GeekSpeak]
+tags: [hardware]
 ---
 [![The XO laptop - One Laptop Per Child
 program.]({{ site.url }}/images/20071114olpc.jpg)](http://www.laptopgiving.org)The

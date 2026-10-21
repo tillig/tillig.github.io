@@ -4,7 +4,7 @@ title: "Xbox 360 Coming Home"
 date: 2006-08-03 -0800
 comments: true
 disqus_identifier: 1049
-tags: [General Ramblings]
+tags: [gaming,xbox]
 ---
 Just got notification via email:
 

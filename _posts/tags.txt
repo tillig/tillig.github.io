@@ -21,17 +21,17 @@ docker
 dotnet
 downloads
 family
+fireworks
 food
 gameboy
 gaming
-GeekSpeak
-General Ramblings
 gists
 git
 github
 halloween
 hardware
 hockey
+holidays
 home
 humor
 javascript
@@ -72,5 +72,6 @@ wcf
 wpf
 web
 windows
+work
 xbox
 xml

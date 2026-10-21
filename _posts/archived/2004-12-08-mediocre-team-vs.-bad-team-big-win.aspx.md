@@ -4,7 +4,7 @@ title: "Mediocre Team vs. Bad Team = Big Win"
 date: 2004-12-08 -0800
 comments: true
 disqus_identifier: 707
-tags: [General Ramblings]
+tags: [hockey]
 ---
 Went to the [Winter Hawks](http://www.winterhawks.com/) game last night,
 and while I insist that this season's Hawks are mediocre at best, the

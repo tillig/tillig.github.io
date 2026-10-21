@@ -4,7 +4,7 @@ title: "Engineering and the Sales Cycle"
 date: 2006-03-10 -0800
 comments: true
 disqus_identifier: 961
-tags: [General Ramblings]
+tags: [business]
 ---
 It really annoys me how (at least, in my experience) the sales cycle
 seems to trivialize the value of product development engineers. I can't

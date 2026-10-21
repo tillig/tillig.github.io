@@ -4,7 +4,7 @@ title: "Cable Cost"
 date: 2006-11-13 -0800
 comments: true
 disqus_identifier: 1100
-tags: [General Ramblings]
+tags: [gaming,xbox]
 ---
 [![Xbox 360 VGA
 cable]({{ site.url }}/images/20061113vga.jpg)](http://www.amazon.com/exec/obidos/ASIN/B000B6MLTG/mhsvortex)

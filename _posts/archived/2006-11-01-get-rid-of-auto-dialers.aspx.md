@@ -4,7 +4,7 @@ title: "Get Rid of Auto Dialers"
 date: 2006-11-01 -0800
 comments: true
 disqus_identifier: 1092
-tags: [General Ramblings]
+tags: [personal]
 ---
 We've been getting a lot of stupid pre-recorded calls for
 election-related crap lately. I'm tempted to follow [this advice on

@@ -4,7 +4,7 @@ title: "Memorial Day Weekend 2008"
 date: 2008-05-27 -0800
 comments: true
 disqus_identifier: 1392
-tags: [General Ramblings]
+tags: [personal]
 ---
 It was a three-day weekend for Jenn and I this past Memorial Day
 weekend, so let's see how we fared...

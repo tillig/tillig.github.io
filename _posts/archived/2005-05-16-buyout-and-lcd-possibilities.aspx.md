@@ -4,7 +4,7 @@ title: "Buyout and LCD Possibilities"
 date: 2005-05-16 -0800
 comments: true
 disqus_identifier: 815
-tags: [General Ramblings]
+tags: [media]
 ---
 Since I haven't heard for a week on what the story is with my TV, I
 called the warranty company to find out.

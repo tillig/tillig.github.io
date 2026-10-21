@@ -4,7 +4,7 @@ title: "Walla Walla 2007 Video"
 date: 2007-07-10 -0800
 comments: true
 disqus_identifier: 1227
-tags: [General Ramblings]
+tags: [fireworks]
 ---
 [Greg posted some great
 video](http://www.greghughes.net/rant/FireworksShowVideoWallaWallaWashingtonJuly42007.aspx)

@@ -4,7 +4,7 @@ title: "Nail Clippings"
 date: 2004-09-07 -0800
 comments: true
 disqus_identifier: 656
-tags: [General Ramblings]
+tags: [work]
 ---
 Add one to my [long] list of pet peeves:
 

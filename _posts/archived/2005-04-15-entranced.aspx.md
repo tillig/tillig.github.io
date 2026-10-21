@@ -4,7 +4,7 @@ title: "Entranced"
 date: 2005-04-15 -0800
 comments: true
 disqus_identifier: 792
-tags: [General Ramblings]
+tags: [music]
 ---
 I went to the store last night and picked up [*Best of Trance, Vol.
 5*](http://www.amazon.com/exec/obidos/ASIN/B0007KTB5I/mhsvortex)

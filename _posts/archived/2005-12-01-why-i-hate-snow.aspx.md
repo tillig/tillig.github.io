@@ -4,7 +4,7 @@ title: "Why I Hate Snow"
 date: 2005-12-01 -0800
 comments: true
 disqus_identifier: 926
-tags: [General Ramblings]
+tags: [personal]
 ---
 There have been a lot of overly excited people in the Portland, Oregon
 area because it's getting cold enough to get some snow.

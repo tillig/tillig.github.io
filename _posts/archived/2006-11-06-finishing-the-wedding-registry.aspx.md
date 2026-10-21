@@ -4,7 +4,7 @@ title: "Finishing the Wedding Registry"
 date: 2006-11-06 -0800
 comments: true
 disqus_identifier: 1095
-tags: [General Ramblings]
+tags: [family]
 ---
 [![Kate Spade 'Gramercy Park' Casual
 China]({{ site.url }}/images/20061106katespade.jpg)](http://www1.macys.com/catalog/product/index.ognc?ID=111027&PseudoMasterProdID=111108)We

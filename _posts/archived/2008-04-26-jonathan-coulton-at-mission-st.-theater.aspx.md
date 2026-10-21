@@ -4,7 +4,7 @@ title: "Jonathan Coulton at Mission St. Theater"
 date: 2008-04-26 -0800
 comments: true
 disqus_identifier: 1381
-tags: [General Ramblings,GeekSpeak]
+tags: [music]
 ---
 [![Jonathan Coulton plays the Mission St. Theater - Click for
 Photos](http://farm4.static.flickr.com/3198/2443225877_e68fac7f50_m.jpg)](http://www.flickr.com/photos/tillig/sets/72157604742274916/)Jenn

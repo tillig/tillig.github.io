@@ -4,7 +4,7 @@ title: "When Merchandising Has Gone Too Far"
 date: 2005-05-27 -0800
 comments: true
 disqus_identifier: 828
-tags: [General Ramblings]
+tags: [toys]
 ---
 I admit I'm all about merchandising. I mean, I can't *not* buy *Star
 Wars* toys. But the *Star Wars* patterned fabric? [I think that's a bit

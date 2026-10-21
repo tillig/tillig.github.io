@@ -4,7 +4,7 @@ title: "Walla Walla Fireworks 2007"
 date: 2007-07-06 -0800
 comments: true
 disqus_identifier: 1226
-tags: [General Ramblings]
+tags: [fireworks]
 ---
 [![Fireworks in Walla Walla,
 WA](http://lh6.google.com/travis.illig/Ro55UhEKTcE/AAAAAAAAAGg/QLoo-HH5SS4/s160-c/WallaWallaFireworks2007.jpg)](http://picasaweb.google.com/travis.illig/WallaWallaFireworks2007)Instead

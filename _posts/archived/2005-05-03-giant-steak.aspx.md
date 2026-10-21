@@ -4,7 +4,7 @@ title: "Giant Steak"
 date: 2005-05-03 -0800
 comments: true
 disqus_identifier: 807
-tags: [General Ramblings]
+tags: [food]
 ---
 On Friday Jenn and I went to Sayler's Old Country Kitchen for Jenn's
 grandma's birthday dinner.

@@ -4,7 +4,7 @@ title: "Best Foods"
 date: 2004-05-24 -0800
 comments: true
 disqus_identifier: 572
-tags: [General Ramblings]
+tags: [food]
 ---
 No, not the [mayonnaise](http://www.bestfoods.com/). I'm talking about
 actual food - like, the best foods out there.

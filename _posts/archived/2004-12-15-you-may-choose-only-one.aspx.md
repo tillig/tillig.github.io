@@ -4,7 +4,7 @@ title: "You May Choose Only One"
 date: 2004-12-15 -0800
 comments: true
 disqus_identifier: 711
-tags: [General Ramblings]
+tags: [work]
 ---
 I have the last two weeks of the year off, so my last day of work this
 year is two days from now, Friday. I'm doing my best to sew things up

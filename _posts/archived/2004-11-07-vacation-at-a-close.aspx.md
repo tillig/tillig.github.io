@@ -4,7 +4,7 @@ title: "Vacation At A Close"
 date: 2004-11-07 -0800
 comments: true
 disqus_identifier: 693
-tags: [General Ramblings]
+tags: [personal]
 ---
 This evening is the end of my nine day sabbatical, and I look back on it
 with fondness, like the end of a movie where the person flashes back to

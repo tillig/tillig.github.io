@@ -4,7 +4,7 @@ title: "Gambling My Life Away"
 date: 2006-03-06 -0800
 comments: true
 disqus_identifier: 959
-tags: [General Ramblings]
+tags: [activities]
 ---
 It's been pretty stressful at work, so I took this weekend to play.
 

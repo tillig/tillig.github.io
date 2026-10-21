@@ -4,7 +4,7 @@ title: "Bart and Bicycles"
 date: 2007-08-20 -0800
 comments: true
 disqus_identifier: 1257
-tags: [General Ramblings]
+tags: [personal]
 ---
 This weekend was pretty crazy with all the running around, but the major
 goings-on included...

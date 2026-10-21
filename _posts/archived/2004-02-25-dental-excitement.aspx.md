@@ -4,7 +4,7 @@ title: "Dental Excitement"
 date: 2004-02-25 -0800
 comments: true
 disqus_identifier: 520
-tags: [General Ramblings]
+tags: [medical]
 ---
 I went to the dentist yesterday morning to have my teeth cleaned. Not
 the most exciting procedure in the world, but I gotta keep these pearly

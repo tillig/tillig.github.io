@@ -4,7 +4,7 @@ title: "General Irritation"
 date: 2006-09-15 -0800
 comments: true
 disqus_identifier: 1073
-tags: [General Ramblings]
+tags: [personal]
 ---
 I'm generally irritated today and I don't think it's any one particular
 thing, so I can't say what the root of it is, but I'll gladly share some

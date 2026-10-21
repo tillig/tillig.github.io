@@ -4,7 +4,7 @@ title: "2009 Vacation in Victoria, BC, Canada"
 date: 2009-09-09 -0800
 comments: true
 disqus_identifier: 1561
-tags: [General Ramblings]
+tags: [activities]
 ---
 [![2009 Victoria BC Vacation](http://lh6.ggpht.com/_P1NCAbHEm2Q/Spx9nsMw12E/AAAAAAAABQU/sUqFsLtWQjM/s160-c/2009VictoriaBCVacation.jpg)](http://picasaweb.google.com/travis.illig/2009VictoriaBCVacation?feat=embedwebsite)
 

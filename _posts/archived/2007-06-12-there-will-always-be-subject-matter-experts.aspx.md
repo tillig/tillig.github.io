@@ -4,7 +4,7 @@ title: "There Will Always Be Subject Matter Experts"
 date: 2007-06-12 -0800
 comments: true
 disqus_identifier: 1212
-tags: [GeekSpeak]
+tags: [process]
 ---
 I've started a new project where we're doing our best to get every
 developer familiar with all the parts of the system by [moving people

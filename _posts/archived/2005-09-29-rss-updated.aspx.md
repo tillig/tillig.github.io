@@ -4,7 +4,7 @@ title: "RSS Updated"
 date: 2005-09-29 -0800
 comments: true
 disqus_identifier: 898
-tags: [General Ramblings]
+tags: [blog]
 ---
 I updated my RSS feed to include the entire article for all entries, so
 folks just visiting through RSS should be able to get the full... well,

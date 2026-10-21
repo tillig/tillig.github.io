@@ -4,7 +4,7 @@ title: "Pretty Cool Labor Day Weekend"
 date: 2006-09-05 -0800
 comments: true
 disqus_identifier: 1066
-tags: [General Ramblings]
+tags: [personal]
 ---
 ![Amp Big Rig (in the
 center)]({{ site.url }}/images/20060905amp.gif)I

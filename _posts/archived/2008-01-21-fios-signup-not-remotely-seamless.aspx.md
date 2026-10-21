@@ -4,7 +4,7 @@ title: "FIOS Signup Not Remotely Seamless"
 date: 2008-01-21 -0800
 comments: true
 disqus_identifier: 1338
-tags: [General Ramblings,GeekSpeak]
+tags: [network]
 ---
 In an effort to save some money and get some faster net service, Jenn
 and I signed up to switch to Verizon FIOS. A couple of friends of mine

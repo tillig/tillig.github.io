@@ -4,7 +4,7 @@ title: "Once Again, The Praises Of Progressive"
 date: 2004-07-08 -0800
 comments: true
 disqus_identifier: 608
-tags: [General Ramblings]
+tags: [auto]
 ---
 I have my car insurance through
 [Progressive](http://www.progressive.com), which, all lame TV

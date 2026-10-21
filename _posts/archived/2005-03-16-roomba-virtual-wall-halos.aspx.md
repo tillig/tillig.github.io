@@ -4,7 +4,7 @@ title: "Roomba Virtual Wall Halos"
 date: 2005-03-16 -0800
 comments: true
 disqus_identifier: 765
-tags: [General Ramblings]
+tags: [home]
 ---
 I went home and, after giving Roomba a thorough cleaning, did some
 testing.

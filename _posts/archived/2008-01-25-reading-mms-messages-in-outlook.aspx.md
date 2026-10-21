@@ -4,7 +4,7 @@ title: "Reading MMS Messages in Outlook"
 date: 2008-01-25 -0800
 comments: true
 disqus_identifier: 1340
-tags: [GeekSpeak]
+tags: [windows]
 ---
 I just recently stepped into the now and got a phone with a camera on
 it. I'm not really a big cell phone user for the media capabilities, but

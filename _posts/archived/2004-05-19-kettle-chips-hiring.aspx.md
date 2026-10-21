@@ -4,7 +4,7 @@ title: "Kettle Chips Hiring"
 date: 2004-05-19 -0800
 comments: true
 disqus_identifier: 567
-tags: [General Ramblings]
+tags: [food,humor]
 ---
 I'm reading the back of the ["Yogurt & Green Onion" flavored Kettle
 Chip](http://www.kettlefoods.com/ketus/prods/yogurt.htm) bag right now

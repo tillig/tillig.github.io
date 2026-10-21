@@ -4,7 +4,7 @@ title: "Carnivale Canceled"
 date: 2005-05-11 -0800
 comments: true
 disqus_identifier: 812
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 After two seasons of utter coolness, yet another of the few shows I
 watch has been canceled. [Goodbye,

@@ -4,7 +4,7 @@ title: "Cake Tasting and Dress Trials"
 date: 2006-04-03 -0800
 comments: true
 disqus_identifier: 979
-tags: [General Ramblings]
+tags: [family]
 ---
 Saturday was cake tasting (and decision making) day, so Jenn,
 [Stu](http://www.stuartthompson.net), Tif, and I all went down to

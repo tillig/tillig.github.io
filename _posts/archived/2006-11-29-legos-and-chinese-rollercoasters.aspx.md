@@ -4,7 +4,7 @@ title: "Legos and Chinese Rollercoasters"
 date: 2006-11-29 -0800
 comments: true
 disqus_identifier: 1108
-tags: [General Ramblings]
+tags: [toys]
 ---
 Two interesting articles I happened across this morning.
 

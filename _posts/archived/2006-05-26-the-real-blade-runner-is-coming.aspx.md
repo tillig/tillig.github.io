@@ -4,7 +4,7 @@ title: "The Real Blade Runner Is Coming"
 date: 2006-05-26 -0800
 comments: true
 disqus_identifier: 1006
-tags: [General Ramblings]
+tags: [media,movies]
 ---
 I, as well as the majority of the geek population, love the movie
 [*Blade Runner*](http://us.imdb.com/title/tt0083658/). Love it.

@@ -4,7 +4,7 @@ title: "All Fun Until Someone Loses An Eye"
 date: 2006-01-30 -0800
 comments: true
 disqus_identifier: 946
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 Friday night Jenn and I went over to my parents' place to watch [*Mr.
 and Mrs.

@@ -4,7 +4,7 @@ title: "Lenovo ThinkPad T60 Undock Issue Resolved"
 date: 2008-07-02 -0800
 comments: true
 disqus_identifier: 1405
-tags: [GeekSpeak]
+tags: [hardware,windows]
 ---
 I have a Lenovo/IBM ThinkPad T60 at work with a docking station. For the
 longest time, I'd get this error when trying to undock:

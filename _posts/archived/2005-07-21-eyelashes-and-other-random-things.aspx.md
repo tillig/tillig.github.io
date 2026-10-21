@@ -4,7 +4,7 @@ title: "Eyelashes and Other Random Things"
 date: 2005-07-21 -0800
 comments: true
 disqus_identifier: 861
-tags: [General Ramblings]
+tags: [medical]
 ---
 Tuesday and Wednesday I felt like I had something in my eye. I couldn't
 see anything when I looked in the mirror, and I tried washing my eye out

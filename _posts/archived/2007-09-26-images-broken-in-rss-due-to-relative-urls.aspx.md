@@ -4,7 +4,7 @@ title: "Images Broken in RSS Due to Relative URLs"
 date: 2007-09-26 -0800
 comments: true
 disqus_identifier: 1275
-tags: [GeekSpeak]
+tags: [blog]
 ---
 I just did a quick peek at my feed in RSSBandit and it looks like my
 images aren't showing up in my feed.  Turns out it's because, in many

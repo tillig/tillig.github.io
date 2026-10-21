@@ -4,7 +4,7 @@ title: "I'm a Creator"
 date: 2010-03-02 -0800
 comments: true
 disqus_identifier: 1621
-tags: [General Ramblings]
+tags: [personal]
 ---
 I went and took [this color
 test](http://www.careerpath.com/career-tests/colorcareercounselor.aspx)

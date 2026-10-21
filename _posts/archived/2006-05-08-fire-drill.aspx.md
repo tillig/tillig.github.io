@@ -4,7 +4,7 @@ title: "Fire Drill"
 date: 2006-05-08 -0800
 comments: true
 disqus_identifier: 996
-tags: [General Ramblings]
+tags: [work]
 ---
 I was sitting here, minding my own, when the alarm went off for a fire
 drill.

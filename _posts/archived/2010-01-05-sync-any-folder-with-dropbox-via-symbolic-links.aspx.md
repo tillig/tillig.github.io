@@ -4,7 +4,7 @@ title: "Sync Any Folder with Dropbox via Symbolic Links"
 date: 2010-01-05 -0800
 comments: true
 disqus_identifier: 1601
-tags: [GeekSpeak]
+tags: [windows]
 ---
 I have some files (like my local Subversion repository, some documents,
 etc.) that I need to sync between computers and I was recommended

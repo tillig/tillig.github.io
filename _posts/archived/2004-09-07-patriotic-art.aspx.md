@@ -4,7 +4,7 @@ title: "Patriotic Art"
 date: 2004-09-07 -0800
 comments: true
 disqus_identifier: 655
-tags: [General Ramblings]
+tags: [culture]
 ---
 I decided this morning that I cannot stand patriotic art.
 

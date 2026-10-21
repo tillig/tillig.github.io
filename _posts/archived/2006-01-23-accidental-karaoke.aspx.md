@@ -4,7 +4,7 @@ title: "Accidental Karaoke"
 date: 2006-01-23 -0800
 comments: true
 disqus_identifier: 945
-tags: [General Ramblings]
+tags: [activities]
 ---
 Jenn and I have sort of settled into this "comfort zone" that requires
 we never go anywhere we haven't already been or haven't been recommended

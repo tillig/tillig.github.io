@@ -4,7 +4,7 @@ title: "Email Things I Hate"
 date: 2006-07-18 -0800
 comments: true
 disqus_identifier: 1034
-tags: [General Ramblings]
+tags: [work]
 ---
 I should probably add this to my [Interaction
 Preferences](/archive/2006/03/30/my-interaction-preferences.aspx) entry,

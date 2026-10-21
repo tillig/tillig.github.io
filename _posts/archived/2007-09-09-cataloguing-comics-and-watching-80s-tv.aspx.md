@@ -4,7 +4,7 @@ title: "Cataloguing Comics and Watching 80's TV"
 date: 2007-09-09 -0800
 comments: true
 disqus_identifier: 1266
-tags: [General Ramblings]
+tags: [comics]
 ---
 This weekend hasn't been terribly eventful.  Yesterday most of the day
 was spent either doing chores around the house or watching [*Prison

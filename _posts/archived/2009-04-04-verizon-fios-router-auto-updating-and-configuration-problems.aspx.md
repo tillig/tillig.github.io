@@ -4,7 +4,7 @@ title: "Verizon FiOS Router Auto-Updating and Configuration Problems"
 date: 2009-04-04 -0800
 comments: true
 disqus_identifier: 1510
-tags: [General Ramblings,GeekSpeak]
+tags: [network]
 ---
 This is more of a vent than anything else, but there's a bit of a lesson
 learned, at least for me, here.

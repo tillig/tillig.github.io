@@ -4,7 +4,7 @@ title: "Terrible, Horrible, No Good, Very Bad Weekend"
 date: 2004-02-17 -0800
 comments: true
 disqus_identifier: 512
-tags: [General Ramblings]
+tags: [personal]
 ---
 My weekend, albeit three days long, was like something out of [a certain
 Judith Viorst

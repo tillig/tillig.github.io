@@ -4,7 +4,7 @@ title: "Recruiter Pet Peeves"
 date: 2006-11-02 -0800
 comments: true
 disqus_identifier: 1093
-tags: [General Ramblings]
+tags: [work]
 ---
 I get a lot of calls from recruiters, and I'm always happy to hear about
 interesting opportunities because I don't like to close any doors. Hey,

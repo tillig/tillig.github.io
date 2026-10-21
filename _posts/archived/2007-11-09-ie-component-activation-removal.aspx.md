@@ -4,7 +4,7 @@ title: "IE Component Activation Removal"
 date: 2007-11-09 -0800
 comments: true
 disqus_identifier: 1299
-tags: [GeekSpeak]
+tags: [web]
 ---
 I hate that stupid thing where a Flash or Silverlight object isn't
 "active" in IE until you click on it.  Annoying as hell.  Looks like I'm

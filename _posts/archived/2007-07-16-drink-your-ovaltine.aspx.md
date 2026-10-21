@@ -4,7 +4,7 @@ title: "Drink Your Ovaltine"
 date: 2007-07-16 -0800
 comments: true
 disqus_identifier: 1235
-tags: [General Ramblings]
+tags: [humor]
 ---
 At a recent conference I went to, I entered a drawing to win a prize
 from one of the sponsors.  Other prizes being given out by other vendors

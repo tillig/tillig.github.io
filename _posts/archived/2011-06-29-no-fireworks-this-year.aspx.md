@@ -4,7 +4,7 @@ title: "No Fireworks This Year"
 date: 2011-06-29 -0800
 comments: true
 disqus_identifier: 1722
-tags: [General Ramblings]
+tags: [fireworks]
 ---
 For the past few years, Jenn and I have been involved in running
 professional fireworks shows on the Fourth of July. It's a lot of fun,

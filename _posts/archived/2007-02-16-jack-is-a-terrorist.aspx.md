@@ -4,7 +4,7 @@ title: "Jack Is A Terrorist"
 date: 2007-02-16 -0800
 comments: true
 disqus_identifier: 1151
-tags: [General Ramblings]
+tags: [cats]
 ---
 [Our new cat, Jack](/archive/2007/02/04/introducing-jack.aspx), is less
 "cat" and more "spider monkey with claws." The longer we have him, the

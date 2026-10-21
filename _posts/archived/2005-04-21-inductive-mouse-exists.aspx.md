@@ -4,7 +4,7 @@ title: "Inductive Mouse Exists!"
 date: 2005-04-21 -0800
 comments: true
 disqus_identifier: 798
-tags: [General Ramblings]
+tags: [hardware]
 ---
 Okay, I [thought of this one back in
 August](/archive/2004/08/03/induction-powered-rechargeable-mouse.aspx),

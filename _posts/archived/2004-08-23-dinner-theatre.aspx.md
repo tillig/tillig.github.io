@@ -4,7 +4,7 @@ title: "Dinner Theatre"
 date: 2004-08-23 -0800
 comments: true
 disqus_identifier: 644
-tags: [General Ramblings]
+tags: [activities]
 ---
 After a long day of pressure washing my house, Jenn and I took the
 evening and went to [Sylvia's](http://www.sylvias.net) for dinner and a

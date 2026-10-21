@@ -4,7 +4,7 @@ title: "Domestic Dispute"
 date: 2007-11-27 -0800
 comments: true
 disqus_identifier: 1309
-tags: [General Ramblings]
+tags: [personal]
 ---
 Woke up last night at 2:45a to the neighbors out in their yard arguing.
 No physical violence, and it was mostly the guy yelling, but *super

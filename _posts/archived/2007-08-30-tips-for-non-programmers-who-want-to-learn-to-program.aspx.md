@@ -4,7 +4,7 @@ title: "Tips for Non-Programmers Who Want to Learn to Program"
 date: 2007-08-30 -0800
 comments: true
 disqus_identifier: 1261
-tags: [GeekSpeak]
+tags: [process]
 ---
 ![Shout at the
 Devil!]({{ site.url }}/images/20070830shoutatcomputer.jpg)I

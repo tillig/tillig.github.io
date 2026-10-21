@@ -4,7 +4,7 @@ title: "Stop And Think"
 date: 2005-12-13 -0800
 comments: true
 disqus_identifier: 933
-tags: [General Ramblings]
+tags: [personal]
 ---
 In general daily life, I find that I run across two kinds of people:
 those who think before they act, and those that act before they think.

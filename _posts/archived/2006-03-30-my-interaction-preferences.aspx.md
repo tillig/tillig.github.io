@@ -4,7 +4,7 @@ title: "My Interaction Preferences"
 date: 2006-03-30 -0800
 comments: true
 disqus_identifier: 977
-tags: [General Ramblings]
+tags: [work]
 ---
 As part of [the peer mentoring course I went
 to](/archive/2006/03/30/peer-mentoring-seminar.aspx), one of the

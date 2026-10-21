@@ -4,7 +4,7 @@ title: "Consideration - Domain Name Change"
 date: 2007-11-09 -0800
 comments: true
 disqus_identifier: 1298
-tags: [General Ramblings,GeekSpeak]
+tags: [blog]
 ---
 So I'm thinking about the fact that folks generally can't remember how
 to spell "Paraesthesia."  I like the name, I've had it for a while, but

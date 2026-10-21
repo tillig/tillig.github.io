@@ -4,7 +4,7 @@ title: "New Favorites for the New Year"
 date: 2007-01-09 -0800
 comments: true
 disqus_identifier: 1125
-tags: [General Ramblings]
+tags: [food]
 ---
 Lots of change in recent times has brought about some new discoveries
 and new fun favorite things. Here are a few of the things Jenn and I

@@ -4,7 +4,7 @@ title: "Saturday at the Aquarium"
 date: 2010-09-07 -0800
 comments: true
 disqus_identifier: 1665
-tags: [General Ramblings]
+tags: [activities]
 ---
 Every year for Jenn's birthday we take a trip to the beach with some
 friends of ours. This year we decided to go down to the [Oregon Coast

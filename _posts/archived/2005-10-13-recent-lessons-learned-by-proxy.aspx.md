@@ -4,7 +4,7 @@ title: "Recent Lessons Learned By Proxy"
 date: 2005-10-13 -0800
 comments: true
 disqus_identifier: 907
-tags: [General Ramblings]
+tags: [personal]
 ---
 I've learned a few lessons from watching others in the last couple of
 days that I thought may benefit the readers here.

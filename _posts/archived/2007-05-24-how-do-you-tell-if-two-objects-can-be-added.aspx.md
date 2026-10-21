@@ -4,7 +4,7 @@ title: "How Do You Tell If Two Objects Can Be Added?"
 date: 2007-05-24 -0800
 comments: true
 disqus_identifier: 1207
-tags: [net]
+tags: [dotnet]
 ---
 I'm working on a
 [DataGridColumn](http://msdn2.microsoft.com/en-us/library/system.web.ui.webcontrols.datagridcolumn.aspx)

@@ -4,7 +4,7 @@ title: "Wonka Costume Complete"
 date: 2005-10-02 -0800
 comments: true
 disqus_identifier: 901
-tags: [General Ramblings]
+tags: [halloween,costumes]
 ---
 After more toil and trouble than I care to recount, my Willy Wonka
 costume is complete. The last piece I had to finish making was the vest,

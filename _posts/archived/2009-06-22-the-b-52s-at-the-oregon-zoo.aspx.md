@@ -4,7 +4,7 @@ title: "The B-52s at the Oregon Zoo"
 date: 2009-06-22 -0800
 comments: true
 disqus_identifier: 1543
-tags: [General Ramblings]
+tags: [music]
 ---
 ![The B-52s play the Oregon Zoo. Yes, this is a horrible picture. Trust
 me, it's

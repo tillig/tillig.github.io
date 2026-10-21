@@ -4,7 +4,7 @@ title: "Home Theater Racks"
 date: 2006-11-01 -0800
 comments: true
 disqus_identifier: 1090
-tags: [General Ramblings]
+tags: [media]
 ---
 I love my home theater, but I hate having to try to get behind all the
 components to get the wiring together. I may have to check out some of

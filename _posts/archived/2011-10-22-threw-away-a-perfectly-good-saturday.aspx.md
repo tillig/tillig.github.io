@@ -4,7 +4,7 @@ title: "Threw Away a Perfectly Good Saturday"
 date: 2011-10-22 -0800
 comments: true
 disqus_identifier: 1741
-tags: [General Ramblings]
+tags: [family]
 ---
 Or maybe it was thrown away for me, sort of. Regardless, it's the end of
 Saturday, and while I guess I could say I got some stuff done, I'm not

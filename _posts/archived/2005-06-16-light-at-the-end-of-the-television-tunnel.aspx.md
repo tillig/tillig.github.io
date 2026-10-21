@@ -4,7 +4,7 @@ title: "Light At The End Of The Television Tunnel"
 date: 2005-06-16 -0800
 comments: true
 disqus_identifier: 840
-tags: [General Ramblings]
+tags: [media]
 ---
 I achieved a semblance of closure on this whole television issue
 yesterday when I spoke with the manager of the Beaverton [Magnolia

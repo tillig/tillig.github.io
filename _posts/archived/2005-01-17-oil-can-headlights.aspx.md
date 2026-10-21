@@ -4,7 +4,7 @@ title: "Oil Can Headlights"
 date: 2005-01-17 -0800
 comments: true
 disqus_identifier: 728
-tags: [General Ramblings]
+tags: [auto]
 ---
 I completed [my headlight
 quest](/archive/2005/01/15/on-a-headlight-mission.aspx) yesterday and as

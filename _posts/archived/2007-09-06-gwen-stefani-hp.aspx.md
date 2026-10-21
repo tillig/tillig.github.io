@@ -4,7 +4,7 @@ title: "Gwen Stefani @ HP"
 date: 2007-09-06 -0800
 comments: true
 disqus_identifier: 1264
-tags: [General Ramblings]
+tags: [music]
 ---
 [![Gwen Stefani as... a paper
 doll.]({{ site.url }}/images/20070906gwendolls.png)](http://www.hp.com/gwen)Okay,

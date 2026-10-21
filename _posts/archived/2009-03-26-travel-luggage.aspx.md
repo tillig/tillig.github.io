@@ -4,7 +4,7 @@ title: "Travel Luggage"
 date: 2009-03-26 -0800
 comments: true
 disqus_identifier: 1506
-tags: [General Ramblings]
+tags: [personal]
 ---
 I don't do a lot of traveling for business, but when I do I'm sort of
 caught without proper luggage. It turns into an interesting dance of

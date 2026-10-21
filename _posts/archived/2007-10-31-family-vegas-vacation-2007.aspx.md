@@ -4,7 +4,7 @@ title: "Family Vegas Vacation 2007"
 date: 2007-10-31 -0800
 comments: true
 disqus_identifier: 1286
-tags: [General Ramblings]
+tags: [activities,family]
 ---
 ![Trav and Jenn on "Speed: The
 Ride"]({{ site.url }}/images/20071030speedride.jpg)Last

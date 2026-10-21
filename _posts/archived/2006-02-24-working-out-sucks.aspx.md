@@ -4,7 +4,7 @@ title: "Working Out Sucks"
 date: 2006-02-24 -0800
 comments: true
 disqus_identifier: 955
-tags: [General Ramblings]
+tags: [personal]
 ---
 Yeah, the title makes me sound like a total stooge, but hear me out.
 

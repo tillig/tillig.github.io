@@ -4,7 +4,7 @@ title: "The Killers @ The Memorial Coliseum"
 date: 2009-09-25 -0800
 comments: true
 disqus_identifier: 1567
-tags: [General Ramblings]
+tags: [music]
 ---
 [![The Killers - Day & Age](https://ecx.images-amazon.com/images/I/61CK4wp-HTL._SL160_.jpg)](http://www.amazon.com/gp/product/B001FWRZ46?ie=UTF8&tag=mhsvortex&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001FWRZ46)
 

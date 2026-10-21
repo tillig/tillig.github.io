@@ -4,7 +4,7 @@ title: "Wedding Registry"
 date: 2006-09-19 -0800
 comments: true
 disqus_identifier: 1075
-tags: [General Ramblings]
+tags: [family]
 ---
 For folks curious, Jenn and I are registered at
 [Target](http://www.target.com/gp/registry/registry.html/ref=cm_cw_sr_1/601-2400640-9208946?%5Fencoding=UTF8&type=wedding&id=2TFSE241XP1L8&jsebd=1),

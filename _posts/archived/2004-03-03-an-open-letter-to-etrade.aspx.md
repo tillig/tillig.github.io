@@ -4,7 +4,7 @@ title: "An Open Letter To E*Trade"
 date: 2004-03-03 -0800
 comments: true
 disqus_identifier: 524
-tags: [General Ramblings]
+tags: [personal]
 ---
 I have no choice but to use E\*Trade in my online stock dealings. My
 employer goes through them for stock option grants and the employee

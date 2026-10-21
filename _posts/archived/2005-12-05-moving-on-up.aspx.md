@@ -4,7 +4,7 @@ title: "Moving On Up"
 date: 2005-12-05 -0800
 comments: true
 disqus_identifier: 928
-tags: [General Ramblings]
+tags: [music]
 ---
 There are lots of things getting done lately, and I'm enjoying the
 closure I'm getting on them so much that I think my creative juices are

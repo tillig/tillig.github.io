@@ -4,7 +4,7 @@ title: "My Glasses Are Too Big"
 date: 2005-03-08 -0800
 comments: true
 disqus_identifier: 757
-tags: [General Ramblings]
+tags: [home]
 ---
 With our new dishwasher in the house, we no longer have the problem
 where our cups and glasses get "etched" because of crappy wash cycle, so

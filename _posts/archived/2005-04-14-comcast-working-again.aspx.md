@@ -4,7 +4,7 @@ title: "Comcast Working Again"
 date: 2005-04-14 -0800
 comments: true
 disqus_identifier: 791
-tags: [General Ramblings]
+tags: [network]
 ---
 On the way back in to work from the car dealership this morning, Jenn
 called me to tell me that, prior to calling Comcast to complain about

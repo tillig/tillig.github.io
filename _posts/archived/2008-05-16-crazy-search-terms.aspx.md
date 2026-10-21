@@ -4,7 +4,7 @@ title: "Crazy Search Terms"
 date: 2008-05-16 -0800
 comments: true
 disqus_identifier: 1388
-tags: [General Ramblings]
+tags: [blog]
 ---
 I don't religiously analyze my blog stats, but every time I do go check
 out who's looking at what, I'm always interested in the search terms

@@ -4,7 +4,7 @@ title: "Appointment Time Warp"
 date: 2005-07-08 -0800
 comments: true
 disqus_identifier: 856
-tags: [General Ramblings]
+tags: [medical]
 ---
 I had a doctor's appointment this morning for this little dry patch I
 have on my hand. (Don't worry, it's not fungus or anything, it's just a

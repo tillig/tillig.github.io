@@ -4,7 +4,7 @@ title: "The Thanksgiving Debate"
 date: 2004-10-26 -0800
 comments: true
 disqus_identifier: 682
-tags: [General Ramblings]
+tags: [holidays,food]
 ---
 This weekend started the annual Thanksgiving Debate.
 

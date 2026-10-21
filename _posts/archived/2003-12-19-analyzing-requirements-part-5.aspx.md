@@ -4,7 +4,7 @@ title: "Analyzing Requirements, Part 5"
 date: 2003-12-19 -0800
 comments: true
 disqus_identifier: 429
-tags: [net]
+tags: [dotnet]
 ---
 This class is finishing up, so here's the last post on it.
 

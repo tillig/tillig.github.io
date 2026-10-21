@@ -4,7 +4,7 @@ title: "2006 Retrospective"
 date: 2007-01-04 -0800
 comments: true
 disqus_identifier: 1122
-tags: [General Ramblings]
+tags: [personal]
 ---
 What can I say about 2006? I think about it and it reminds me of [*A
 Tale of Two

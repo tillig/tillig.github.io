@@ -4,7 +4,7 @@ title: "Ant Smackdown"
 date: 2005-07-01 -0800
 comments: true
 disqus_identifier: 852
-tags: [General Ramblings]
+tags: [home]
 ---
 Went out yesterday to get some spider webs off my front door and saw
 possibly the hugest ant infestation *ever*. All the way around the

@@ -4,7 +4,7 @@ title: "Roomba, Part Deux"
 date: 2005-02-14 -0800
 comments: true
 disqus_identifier: 748
-tags: [General Ramblings]
+tags: [home]
 ---
 I let the Roomba run its course in the living room last night, at the
 end of which it located its charging station and docked itself.

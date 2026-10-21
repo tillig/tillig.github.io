@@ -4,7 +4,7 @@ title: "Five Things You Probably Didn't Know About Me"
 date: 2007-02-02 -0800
 comments: true
 disqus_identifier: 1143
-tags: [General Ramblings]
+tags: [personal]
 ---
 I was
 [tagged](http://itmanager.blogs.com/notes/2007/02/five_things_you.html)

@@ -4,7 +4,7 @@ title: "Sir Jared of Quizno's"
 date: 2005-05-17 -0800
 comments: true
 disqus_identifier: 816
-tags: [General Ramblings]
+tags: [food]
 ---
 I think my new favorite restaurant is
 [Quizno's](http://www.quiznos.com/). I'm not even really a "sandwich

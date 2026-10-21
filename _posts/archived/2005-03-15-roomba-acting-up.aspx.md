@@ -4,7 +4,7 @@ title: "Roomba Acting Up"
 date: 2005-03-15 -0800
 comments: true
 disqus_identifier: 764
-tags: [General Ramblings]
+tags: [home]
 ---
 I've had my Roomba for about a month now and I love it. Thing is, it's
 starting to act up a bit I'm not sure if it's just dirty or if it's

@@ -4,7 +4,7 @@ title: "Junction Icon Overlay in Daily Grind"
 date: 2005-04-21 -0800
 comments: true
 disqus_identifier: 800
-tags: [General Ramblings]
+tags: [blog]
 ---
 [Junction Icon
 Overlay](/archive/2005/04/20/junction-shell-extensions.aspx) made it

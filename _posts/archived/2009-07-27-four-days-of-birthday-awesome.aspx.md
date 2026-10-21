@@ -4,7 +4,7 @@ title: "Four Days of Birthday Awesome"
 date: 2009-07-27 -0800
 comments: true
 disqus_identifier: 1552
-tags: [General Ramblings]
+tags: [personal]
 ---
 My birthday was last week Thursday and I had some PTO to burn so I
 decided to take Thursday and Friday off. Four day weekend, right?

@@ -4,7 +4,7 @@ title: "Registered For Casual China"
 date: 2006-07-18 -0800
 comments: true
 disqus_identifier: 1031
-tags: [General Ramblings]
+tags: [family]
 ---
 In preparation for the wedding, Jenn and I are running around
 registering for stuff. We don't need a lot since the house is pretty

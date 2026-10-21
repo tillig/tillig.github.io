@@ -4,7 +4,7 @@ title: "Optimize Tortoise SVN Cache (TSVNCache.exe) Disk I/O"
 date: 2007-09-26 -0800
 comments: true
 disqus_identifier: 1274
-tags: [GeekSpeak]
+tags: [windows]
 ---
 I've got a lot of background processes running and killing my disk
 performance with all the I/O they're doing.  One of the primary

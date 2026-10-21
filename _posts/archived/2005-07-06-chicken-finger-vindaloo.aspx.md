@@ -4,7 +4,7 @@ title: "Chicken Finger Vindaloo"
 date: 2005-07-06 -0800
 comments: true
 disqus_identifier: 854
-tags: [General Ramblings]
+tags: [food]
 ---
 ![Recipe for Chicken Finger
 Vindaloo]({{ site.url }}/images/20050706vindaloo.jpg)Nightly

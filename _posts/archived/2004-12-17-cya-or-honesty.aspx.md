@@ -4,7 +4,7 @@ title: "CYA or Honesty?"
 date: 2004-12-17 -0800
 comments: true
 disqus_identifier: 712
-tags: [General Ramblings]
+tags: [humor]
 ---
 I got the following email from my mom the other day:
 

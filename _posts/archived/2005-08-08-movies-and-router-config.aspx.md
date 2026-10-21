@@ -4,7 +4,7 @@ title: "Movies and Router Config"
 date: 2005-08-08 -0800
 comments: true
 disqus_identifier: 867
-tags: [General Ramblings]
+tags: [movies,network]
 ---
 Another busy weekend this past weekend. I always think my weekends are
 going to somehow be restful, but it usually turns out the "work hard,

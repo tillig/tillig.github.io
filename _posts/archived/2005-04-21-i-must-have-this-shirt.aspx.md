@@ -4,7 +4,7 @@ title: "I Must Have This Shirt"
 date: 2005-04-21 -0800
 comments: true
 disqus_identifier: 799
-tags: [General Ramblings]
+tags: [personal]
 ---
 [I don't think I can live without this bad
 boy.](http://www.thinkgeek.com/tshirts/japanese/74bc/) Might just have

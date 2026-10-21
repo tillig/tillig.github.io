@@ -4,7 +4,7 @@ title: "P&P Nerd Dinner"
 date: 2007-11-09 -0800
 comments: true
 disqus_identifier: 1296
-tags: [GeekSpeak]
+tags: [conferences,coderush]
 ---
 Went to [Hanselman's Nerd
 Dinner](http://www.hanselman.com/blog/November8thSeattleRedmondBellevueNerdDinner.aspx)

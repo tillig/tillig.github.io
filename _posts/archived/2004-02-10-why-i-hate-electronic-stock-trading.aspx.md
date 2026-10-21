@@ -4,7 +4,7 @@ title: "Why I Hate Electronic Stock Trading"
 date: 2004-02-10 -0800
 comments: true
 disqus_identifier: 501
-tags: [General Ramblings]
+tags: [personal]
 ---
 I participate in my company's employee stock purchase plan. You
 contribute to the plan a small amount every paycheck and at the end of a

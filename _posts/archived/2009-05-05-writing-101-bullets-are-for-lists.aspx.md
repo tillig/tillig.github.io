@@ -4,7 +4,7 @@ title: "Writing 101: Bullets Are For Lists"
 date: 2009-05-05 -0800
 comments: true
 disqus_identifier: 1520
-tags: [General Ramblings]
+tags: [work]
 ---
 I've been reading documents here and there recently and have run up
 against something that seems to be confusing to some authors: when and

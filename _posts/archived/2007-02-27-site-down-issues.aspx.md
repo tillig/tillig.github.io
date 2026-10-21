@@ -4,7 +4,7 @@ title: "Site Down Issues"
 date: 2007-02-27 -0800
 comments: true
 disqus_identifier: 1153
-tags: [General Ramblings]
+tags: [blog]
 ---
 Man, the last week or so my site's been acting up because the server I'm
 hosted on has had disk trouble, service trouble, and any other trouble

@@ -4,7 +4,7 @@ title: "Catchy Tunes"
 date: 2005-03-03 -0800
 comments: true
 disqus_identifier: 756
-tags: [General Ramblings]
+tags: [music]
 ---
 I've noticed that [there are some songs that are just
 catchy](/archive/2002/08/29/edge-of-seventeen.aspx), but lately I've

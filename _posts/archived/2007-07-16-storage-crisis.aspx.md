@@ -4,7 +4,7 @@ title: "Storage Crisis"
 date: 2007-07-16 -0800
 comments: true
 disqus_identifier: 1234
-tags: [General Ramblings]
+tags: [home]
 ---
 The latest minor crisis we're facing at home is that of storage, or the
 lack thereof.  We have 2300 square feet and zero closet space.  It's

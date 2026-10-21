@@ -4,7 +4,7 @@ title: "Vista Says I'm Not Connected to the Internet, But I Am"
 date: 2008-11-09 -0800
 comments: true
 disqus_identifier: 1464
-tags: [GeekSpeak]
+tags: [windows,network]
 ---
 Was messing about on the computer this morning when I noticed that Vista
 thinks I'm not connected to the Internet, even though I am. The "Network

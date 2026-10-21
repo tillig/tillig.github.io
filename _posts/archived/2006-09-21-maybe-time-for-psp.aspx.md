@@ -4,7 +4,7 @@ title: "Maybe Time for PSP"
 date: 2006-09-21 -0800
 comments: true
 disqus_identifier: 1076
-tags: [General Ramblings]
+tags: [gaming,playstation]
 ---
 I've been considering getting a PSP for a while now but just haven't
 been pushed over the edge. My gadget interest has been generally low for

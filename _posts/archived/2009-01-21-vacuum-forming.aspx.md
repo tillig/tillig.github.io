@@ -4,7 +4,7 @@ title: "Vacuum Forming"
 date: 2009-01-21 -0800
 comments: true
 disqus_identifier: 1491
-tags: [General Ramblings]
+tags: [maker]
 ---
 Whenever I see really cool projects like [this Portal
 gun](http://www.engadget.com/2009/01/21/replica-portal-gun-is-an-absolute-triumph/),

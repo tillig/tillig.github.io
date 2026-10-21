@@ -4,7 +4,7 @@ title: "Continuing Restoration"
 date: 2004-05-17 -0800
 comments: true
 disqus_identifier: 564
-tags: [General Ramblings]
+tags: [blog]
 ---
 I just got my backups from 4/12, and it's looking like any images here
 between 1/16 and today are missing, so I'll get on restoring those when

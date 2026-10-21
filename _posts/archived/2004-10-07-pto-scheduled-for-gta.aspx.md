@@ -4,7 +4,7 @@ title: "PTO Scheduled for GTA"
 date: 2004-10-07 -0800
 comments: true
 disqus_identifier: 672
-tags: [General Ramblings]
+tags: [gaming,playstation]
 ---
 I just scheduled - and got approved - my week of luxurious paid time off
 duing the first week of November for...

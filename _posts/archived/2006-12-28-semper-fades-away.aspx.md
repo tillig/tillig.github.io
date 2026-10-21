@@ -4,7 +4,7 @@ title: "Semper Fades Away"
 date: 2006-12-28 -0800
 comments: true
 disqus_identifier: 1120
-tags: [General Ramblings]
+tags: [cats]
 ---
 ![Semper, the Tub
 Cat]({{ site.url }}/images/20061228semper.jpg)This

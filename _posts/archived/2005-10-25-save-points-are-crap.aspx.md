@@ -4,7 +4,7 @@ title: "Save Points Are Crap"
 date: 2005-10-25 -0800
 comments: true
 disqus_identifier: 910
-tags: [General Ramblings]
+tags: [gaming,playstation]
 ---
 I finished [*God of
 War*](http://www.amazon.com/exec/obidos/ASIN/B0002XL3BA/mhsvortex) on

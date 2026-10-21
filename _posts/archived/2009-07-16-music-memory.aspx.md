@@ -4,7 +4,7 @@ title: "Music Memory"
 date: 2009-07-16 -0800
 comments: true
 disqus_identifier: 1551
-tags: [General Ramblings]
+tags: [music]
 ---
 I have a pretty extensive music collection on my near-full 160GB iPod
 Classic and sometimes I run across something that I haven't heard in a

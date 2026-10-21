@@ -4,7 +4,7 @@ title: "Hasbro Customer Support Rocks"
 date: 2009-05-28 -0800
 comments: true
 disqus_identifier: 1533
-tags: [General Ramblings]
+tags: [gaming]
 ---
 I have a copy of the [[older version of] *Electronic Battleship:
 Advanced

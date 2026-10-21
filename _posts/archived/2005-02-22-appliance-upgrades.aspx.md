@@ -4,7 +4,7 @@ title: "Appliance Upgrades"
 date: 2005-02-22 -0800
 comments: true
 disqus_identifier: 751
-tags: [General Ramblings]
+tags: [home]
 ---
 I went this weekend and took advantage of some of the President's Day
 sales at [Home Depot](http://www.homedepot.com) and bought [a new

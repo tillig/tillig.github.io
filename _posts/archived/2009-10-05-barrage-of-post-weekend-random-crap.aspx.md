@@ -4,7 +4,7 @@ title: "Barrage of Post-Weekend Random Crap"
 date: 2009-10-05 -0800
 comments: true
 disqus_identifier: 1572
-tags: [General Ramblings]
+tags: [personal]
 ---
 I have a bunch of random thoughts I sorta need to get down and they're
 bigger than tweets but none really is big enough for a standalone blog

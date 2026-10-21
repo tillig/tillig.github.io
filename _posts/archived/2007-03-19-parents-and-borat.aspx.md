@@ -4,7 +4,7 @@ title: "Parents and Borat"
 date: 2007-03-19 -0800
 comments: true
 disqus_identifier: 1165
-tags: [General Ramblings]
+tags: [personal]
 ---
 I had this weird dream last night involving super heroes, magic, and
 [Scarlett Johansson](http://us.imdb.com/name/nm0424060/). I think that's

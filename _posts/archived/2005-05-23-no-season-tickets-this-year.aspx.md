@@ -4,7 +4,7 @@ title: "No Season Tickets This Year"
 date: 2005-05-23 -0800
 comments: true
 disqus_identifier: 823
-tags: [General Ramblings]
+tags: [hockey]
 ---
 After much deliberation, Jenn and I have decided not to get full season
 hockey tickets for the [Winter Hawks](http://www.winterhawks.com) this

@@ -4,7 +4,7 @@ title: "Surreal Maintenance"
 date: 2005-01-14 -0800
 comments: true
 disqus_identifier: 724
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 While waiting for [*CSI*](http://www.cbs.com/primetime/csi/) to come on
 last night, Jenn and I were flipping channels and came across [*The

@@ -4,7 +4,7 @@ title: "Vacation in San Andreas, Day 5"
 date: 2004-11-06 -0800
 comments: true
 disqus_identifier: 692
-tags: [General Ramblings]
+tags: [gaming,playstation]
 ---
 My last day in San Andreas was probably my most eventful. I won't bore
 you with too much detail, but I did some cross-country racing; lost my

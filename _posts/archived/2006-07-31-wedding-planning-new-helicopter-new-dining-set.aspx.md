@@ -4,7 +4,7 @@ title: "Wedding Planning, New Helicopter, New Dining Set"
 date: 2006-07-31 -0800
 comments: true
 disqus_identifier: 1043
-tags: [General Ramblings]
+tags: [family]
 ---
 All sorts of business was taken care of this weekend.
 

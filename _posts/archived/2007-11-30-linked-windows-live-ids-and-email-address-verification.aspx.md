@@ -4,7 +4,7 @@ title: "Linked Windows Live IDs and Email Address Verification"
 date: 2007-11-30 -0800
 comments: true
 disqus_identifier: 1312
-tags: [GeekSpeak]
+tags: [windows]
 ---
 I noticed, about a month ago, that whenever I would log in to Windows
 Live Messenger, I'd get a little toast popup telling me to verify my

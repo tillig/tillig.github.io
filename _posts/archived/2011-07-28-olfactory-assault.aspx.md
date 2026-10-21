@@ -4,7 +4,7 @@ title: "Olfactory Assault"
 date: 2011-07-28 -0800
 comments: true
 disqus_identifier: 1728
-tags: [General Ramblings]
+tags: [personal]
 ---
 I'm sensitive to smells.
 

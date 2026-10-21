@@ -4,7 +4,7 @@ title: "Birthday Party Blues"
 date: 2004-03-02 -0800
 comments: true
 disqus_identifier: 523
-tags: [General Ramblings]
+tags: [family]
 ---
 I'm not much for kids, regardless of whose they are, and this weekend
 found me at Jenn's niece's sixth birthday party, so there really wasn't

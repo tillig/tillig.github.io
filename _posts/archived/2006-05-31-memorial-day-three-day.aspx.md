@@ -4,7 +4,7 @@ title: "Memorial Day Three-Day"
 date: 2006-05-31 -0800
 comments: true
 disqus_identifier: 1009
-tags: [General Ramblings]
+tags: [activities]
 ---
 I've been so busy lately, I totally spaced writing up the weekend. It
 was nice and we did our best to relax, so we intentionally didn't do too

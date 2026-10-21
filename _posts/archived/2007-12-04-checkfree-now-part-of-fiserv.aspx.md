@@ -4,7 +4,7 @@ title: "CheckFree Now Part of Fiserv"
 date: 2007-12-04 -0800
 comments: true
 disqus_identifier: 1315
-tags: [General Ramblings]
+tags: [work]
 ---
 Seems like not long ago, [Corillian was acquired by
 CheckFree](http://ir.checkfreecorp.com/phoenix.zhtml?c=94799&p=irol-newsArticle&ID=1000723&highlight=).

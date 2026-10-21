@@ -4,7 +4,7 @@ title: "Checkout Stand UI"
 date: 2005-07-12 -0800
 comments: true
 disqus_identifier: 857
-tags: [General Ramblings]
+tags: [humor]
 ---
 I work a lot at the UI layer of an application, so when I see bad UI, I
 generally recognize it.

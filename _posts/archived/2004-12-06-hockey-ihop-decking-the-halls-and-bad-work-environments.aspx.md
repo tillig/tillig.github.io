@@ -4,7 +4,7 @@ title: "Hockey, IHOP, Decking the Halls, and Bad Work Environments"
 date: 2004-12-06 -0800
 comments: true
 disqus_identifier: 705
-tags: [General Ramblings]
+tags: [hockey]
 ---
 Hockey season has taken over, and I'm not sure I like it.
 

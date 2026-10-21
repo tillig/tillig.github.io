@@ -4,7 +4,7 @@ title: "Crazy Cool Science Stuff"
 date: 2006-02-07 -0800
 comments: true
 disqus_identifier: 949
-tags: [General Ramblings]
+tags: [personal]
 ---
 I think I just found my new favorite online store: [United
 Nuclear](http://www.unitednuclear.com/). Among the stuff you can buy...

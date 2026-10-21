@@ -4,7 +4,7 @@ title: "Motivational Difficulties - Please Stand By"
 date: 2004-05-19 -0800
 comments: true
 disqus_identifier: 565
-tags: [General Ramblings]
+tags: [work]
 ---
 I've been working on the same project at work for about three months now
 and I'm well beyond the burned-out point.

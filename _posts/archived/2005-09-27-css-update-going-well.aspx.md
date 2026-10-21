@@ -4,7 +4,7 @@ title: "CSS Update Going Well"
 date: 2005-09-27 -0800
 comments: true
 disqus_identifier: 894
-tags: [General Ramblings]
+tags: [blog,css]
 ---
 I think the update is going pretty well. As I grab a moment here and
 there, I'm able to complete more and more stuff. There's still oddness,

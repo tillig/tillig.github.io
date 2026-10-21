@@ -4,7 +4,7 @@ title: "Thanksgiving Vacation"
 date: 2004-11-29 -0800
 comments: true
 disqus_identifier: 702
-tags: [General Ramblings]
+tags: [holidays,gaming]
 ---
 Thanksgiving was great. I didn't get Chinese food the way I thought I
 was going to because the place was closed, so I ended up with [Lloyd's

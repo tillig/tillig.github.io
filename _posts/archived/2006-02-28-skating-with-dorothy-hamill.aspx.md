@@ -4,7 +4,7 @@ title: "Skating With Dorothy Hamill"
 date: 2006-02-28 -0800
 comments: true
 disqus_identifier: 956
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 Jenn flipped on [*Skating With
 Celebrities*](http://www.fox.com/skating/) last night as we were waiting

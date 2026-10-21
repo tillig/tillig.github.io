@@ -4,7 +4,7 @@ title: "Three Days in North Carolina"
 date: 2007-10-08 -0800
 comments: true
 disqus_identifier: 1276
-tags: [General Ramblings]
+tags: [work]
 ---
 I don't travel much, and I've really only been off the west coast of the
 US three times - once when I was about four on a visit to Washington DC

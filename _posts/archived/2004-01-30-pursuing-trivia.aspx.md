@@ -4,7 +4,7 @@ title: "Pursuing Trivia"
 date: 2004-01-30 -0800
 comments: true
 disqus_identifier: 485
-tags: [General Ramblings]
+tags: [activities]
 ---
 Jenn and I went last night to [Mr. Bill's Traveling Trivia
 Show](http://www.mrbillstrivia.com/) again. This time, rather than going

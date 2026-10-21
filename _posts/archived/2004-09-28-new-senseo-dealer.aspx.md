@@ -4,7 +4,7 @@ title: "New Senseo Dealer"
 date: 2004-09-28 -0800
 comments: true
 disqus_identifier: 665
-tags: [General Ramblings]
+tags: [food]
 ---
 It seems that [Fred Meyer](http://www.fredmeyer.com/) has finally
 started carrying [Senseo](http://www.senseo.com/) coffee pods (which,

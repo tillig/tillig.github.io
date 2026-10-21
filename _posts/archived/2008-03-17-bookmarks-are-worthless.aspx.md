@@ -4,7 +4,7 @@ title: "Bookmarks are Worthless"
 date: 2008-03-17 -0800
 comments: true
 disqus_identifier: 1359
-tags: [GeekSpeak]
+tags: [web]
 ---
 I've been going over my RSS feeds this morning and I found a bunch of
 cool things that I've been forwarding to my team. Helpful tools,

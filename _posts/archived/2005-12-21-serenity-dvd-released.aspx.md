@@ -4,7 +4,7 @@ title: "Serenity DVD Released"
 date: 2005-12-21 -0800
 comments: true
 disqus_identifier: 936
-tags: [General Ramblings]
+tags: [media,movies]
 ---
 [*Serenity* came out on DVD
 yesterday.](http://www.amazon.com/exec/obidos/ASIN/B000BW7QWW/mhsvortex)

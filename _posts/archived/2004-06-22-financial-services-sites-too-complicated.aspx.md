@@ -4,7 +4,7 @@ title: "Financial Services Sites Too Complicated"
 date: 2004-06-22 -0800
 comments: true
 disqus_identifier: 593
-tags: [General Ramblings]
+tags: [web]
 ---
 I'm what you could consider an "entry level" user when it comes to
 financial services. I don't know all the terminology. I don't know what

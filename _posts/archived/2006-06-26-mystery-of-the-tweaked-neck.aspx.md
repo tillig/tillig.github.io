@@ -4,7 +4,7 @@ title: "Mystery of the Tweaked Neck"
 date: 2006-06-26 -0800
 comments: true
 disqus_identifier: 1025
-tags: [General Ramblings]
+tags: [medical]
 ---
 I had this huge - I mean *huge* - post about this awesome party Jenn and
 I went to for our friend Tracy where we all dressed up and [solved a

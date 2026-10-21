@@ -4,7 +4,7 @@ title: "Microsoft Patterns & Practices Summit 2007 - Day 5"
 date: 2007-11-09 -0800
 comments: true
 disqus_identifier: 1300
-tags: [GeekSpeak]
+tags: [conferences,dotnet]
 ---
 <!--markdownlint-disable MD036 -->
 **The topic of Day 5: Applications.**

@@ -4,7 +4,7 @@ title: "On A Mission For Nathan's Famous"
 date: 2007-06-22 -0800
 comments: true
 disqus_identifier: 1221
-tags: [General Ramblings]
+tags: [food]
 ---
 ![Nathan's Famous Beef
 Franks]({{ site.url }}/images/20070622nathans.jpg)I

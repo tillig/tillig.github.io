@@ -4,7 +4,7 @@ title: "Laser Hair Removal: Treatment 6"
 date: 2008-01-14 -0800
 comments: true
 disqus_identifier: 1335
-tags: [General Ramblings]
+tags: [medical]
 ---
 I went in on Saturday for my sixth laser hair removal treatment on my
 face. Just like [last

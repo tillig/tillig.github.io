@@ -4,7 +4,7 @@ title: "Behind the Scenes"
 date: 2013-06-18 -0800
 comments: true
 disqus_identifier: 1819
-tags: [General Ramblings]
+tags: [personal]
 ---
 I love the Disney Parks Blog. They post interesting stuff (if you're a
 Disney fan like me), particularly if you're into behind-the-scenes

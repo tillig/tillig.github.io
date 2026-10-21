@@ -4,7 +4,7 @@ title: "Turning My Daughter Into a Geek"
 date: 2011-05-31 -0800
 comments: true
 disqus_identifier: 1718
-tags: [General Ramblings]
+tags: [family]
 ---
 I've been not-so-subtly influencing my six-month-old daughter in a
 geek-oriented direction. I already mentioned [the Bigtrak Jr. I have

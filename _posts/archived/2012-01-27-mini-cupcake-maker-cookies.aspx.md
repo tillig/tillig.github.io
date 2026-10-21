@@ -4,7 +4,7 @@ title: "Mini Cupcake Maker Cookies"
 date: 2012-01-27 -0800
 comments: true
 disqus_identifier: 1762
-tags: [General Ramblings]
+tags: [food]
 ---
 [![Mini cupcake
 maker](http://ecx.images-amazon.com/images/I/61BGkRGBWsL._AA300_.jpg)](http://www.amazon.com/dp/B002E1PJ8Q?tag=mhsvortex)If

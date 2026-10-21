@@ -4,7 +4,7 @@ title: "Evolution of Dance"
 date: 2006-05-10 -0800
 comments: true
 disqus_identifier: 998
-tags: [General Ramblings]
+tags: [humor]
 ---
 In my morning blog reading I came across this one: [A six-minute video
 of a guy illustrating the evolution of

@@ -4,7 +4,7 @@ title: "Not All IM Clients Are Created Equal"
 date: 2007-10-10 -0800
 comments: true
 disqus_identifier: 1277
-tags: [GeekSpeak]
+tags: [windows]
 ---
 I've used several instant messaging clients up to now, but I'm recently
 getting some experience with [Lotus

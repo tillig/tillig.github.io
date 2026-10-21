@@ -4,7 +4,7 @@ title: "Old Spice Rewards Weekend"
 date: 2007-02-20 -0800
 comments: true
 disqus_identifier: 1152
-tags: [General Ramblings]
+tags: [gaming,xbox]
 ---
 This weekend I proved conclusively that I am a true Gamerpoint Whore by
 completing the [Old Spice Experience

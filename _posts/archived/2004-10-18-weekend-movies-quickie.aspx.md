@@ -4,7 +4,7 @@ title: "Weekend Movies Quickie"
 date: 2004-10-18 -0800
 comments: true
 disqus_identifier: 678
-tags: [General Ramblings]
+tags: [media,movies]
 ---
 Watched the [*Aladdin*
 DVD](http://www.amazon.com/exec/obidos/ASIN/B0001I561E/mhsvortex) this

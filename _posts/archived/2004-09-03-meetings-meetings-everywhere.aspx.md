@@ -4,7 +4,7 @@ title: "Meetings, Meetings Everywhere"
 date: 2004-09-03 -0800
 comments: true
 disqus_identifier: 654
-tags: [General Ramblings]
+tags: [work]
 ---
 I have this feeling that I'm not going to get anything done today. I
 have meetings booked solid on my calendar from 9:00a until noon, then

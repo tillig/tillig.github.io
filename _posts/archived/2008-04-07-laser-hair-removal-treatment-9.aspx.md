@@ -4,7 +4,7 @@ title: "Laser Hair Removal: Treatment 9"
 date: 2008-04-07 -0800
 comments: true
 disqus_identifier: 1370
-tags: [General Ramblings]
+tags: [medical]
 ---
 My ninth
 [treatment](/archive/2008/02/11/laser-hair-removal-treatment-7.aspx) was

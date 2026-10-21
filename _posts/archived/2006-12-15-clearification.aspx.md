@@ -4,7 +4,7 @@ title: "Clearification"
 date: 2006-12-15 -0800
 comments: true
 disqus_identifier: 1115
-tags: [General Ramblings]
+tags: [windows]
 ---
 [![Clearification]({{ site.url }}/images/20061215clearification.jpg)](http://www.clearification.com/)I'm
 really not sure [what this is](http://www.clearification.com/) - if it's

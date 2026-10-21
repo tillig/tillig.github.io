@@ -4,7 +4,7 @@ title: "I'm Stressed Out, Man"
 date: 2004-07-16 -0800
 comments: true
 disqus_identifier: 618
-tags: [General Ramblings]
+tags: [personal]
 ---
 I'm a high-stress individual. I stress out about *everything*. Little
 stuff, big stuff, stuff I have no control over, stuff I have control

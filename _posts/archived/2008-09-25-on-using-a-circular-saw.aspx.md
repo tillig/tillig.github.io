@@ -4,7 +4,7 @@ title: "On Using a Circular Saw"
 date: 2008-09-25 -0800
 comments: true
 disqus_identifier: 1450
-tags: [General Ramblings]
+tags: [home]
 ---
 I'm not a big handyman. To be honest, I'm not even a little handyman. I
 have some tools, I can hang a picture, but when it comes to anything

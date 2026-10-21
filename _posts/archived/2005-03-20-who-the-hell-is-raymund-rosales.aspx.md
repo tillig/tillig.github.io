@@ -4,7 +4,7 @@ title: "Who The Hell Is Raymund Rosales?"
 date: 2005-03-20 -0800
 comments: true
 disqus_identifier: 768
-tags: [General Ramblings]
+tags: [personal]
 ---
 So Jenn and I got home late last night after hanging out with some
 friends. We're tired and trying to sleep.

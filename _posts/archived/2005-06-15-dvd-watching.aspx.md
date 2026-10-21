@@ -4,7 +4,7 @@ title: "DVD Watching"
 date: 2005-06-15 -0800
 comments: true
 disqus_identifier: 839
-tags: [General Ramblings]
+tags: [media,tv]
 ---
 We've been watching a lot of DVDs lately. In particular, TV on DVD.
 [*Wonderfalls*](http://www.amazon.com/exec/obidos/ASIN/B0006GAO18/mhsvortex)

@@ -4,7 +4,7 @@ title: "Weekends Mean Yard Work"
 date: 2005-05-10 -0800
 comments: true
 disqus_identifier: 811
-tags: [General Ramblings]
+tags: [home]
 ---
 The weekends, lately, have generally brought with them yard work.
 Several people, including my parents, impart pithy phrases like "Welcome

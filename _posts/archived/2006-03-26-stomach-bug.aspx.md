@@ -4,7 +4,7 @@ title: "Stomach Bug"
 date: 2006-03-26 -0800
 comments: true
 disqus_identifier: 974
-tags: [General Ramblings]
+tags: [medical]
 ---
 Yesterday was *the worst*. I had planned on getting a whole bunch of
 stuff done, but what ended up happening was me waking up with this

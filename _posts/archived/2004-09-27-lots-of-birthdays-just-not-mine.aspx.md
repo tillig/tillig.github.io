@@ -4,7 +4,7 @@ title: "Lots Of Birthdays, Just Not Mine"
 date: 2004-09-27 -0800
 comments: true
 disqus_identifier: 664
-tags: [General Ramblings]
+tags: [personal]
 ---
 Friday night I busted home and went to dinner at a Chinese place with
 Jenn and some of her coworkers. I generally like her friends, but I

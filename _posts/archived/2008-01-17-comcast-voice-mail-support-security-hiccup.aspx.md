@@ -4,7 +4,7 @@ title: "Comcast Voice Mail Support Security Hiccup"
 date: 2008-01-17 -0800
 comments: true
 disqus_identifier: 1337
-tags: [General Ramblings]
+tags: [home]
 ---
 Okay, I thought this was pretty funny:
 

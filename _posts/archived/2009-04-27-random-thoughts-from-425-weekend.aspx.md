@@ -4,7 +4,7 @@ title: "Random Thoughts from 4/25 Weekend"
 date: 2009-04-27 -0800
 comments: true
 disqus_identifier: 1519
-tags: [General Ramblings]
+tags: [personal]
 ---
 Lots of random thoughts that came up between Saturday and now, figured
 I'd get them down. None probably of interest to anyone but me, but we'll
