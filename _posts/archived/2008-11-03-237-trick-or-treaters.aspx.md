@@ -11,8 +11,7 @@ the previous [years](/archive/2005/11/01/155-trick-or-treaters.aspx)
 [we've](/archive/2006/11/01/162-trick-or-treaters.aspx)
 [tracked](/archive/2007/11/01/139-trick-or-treaters.aspx).
 
-![Trick-or-Treaters by Year: 237 kids in year
-2008.]({{ site.url }}/images/20081103trickortreatersud9.gif)
+{% include halloween/by-time.html %}
 
 Usually in the 7:00 - 7:30 pm time block we see a decrease in
 trick-or-treaters showing up; this year we saw a huge increase. We again

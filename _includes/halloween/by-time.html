@@ -1,0 +1,47 @@
+{%- comment -%} Line chart of each time block for the five most recent years. {%- endcomment -%}
+{%- include halloween/rows.html -%}
+{%- assign hw_first = hw_counted.size | minus: 5 | at_least: 0 -%}
+{%- assign hw_series = hw_counted | slice: hw_first, 5 -%}
+{%- include halloween/blocks.html rows=hw_series -%}
+{%- assign hw_max = 0 -%}
+{%- for row in hw_series -%}
+  {%- for block in hw_blocks -%}
+    {%- assign hw_value = row[block] | plus: 0 -%}
+    {%- if hw_value > hw_max -%}{%- assign hw_max = hw_value -%}{%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+{%- assign hw_band = 576.0 | divided_by: hw_blocks.size -%}
+{%- assign hw_colors = "#2a78d6,#eb6834,#1baf7a,#eda100,#e87ba4" | split: "," -%}
+<div class="chart" style="margin:20px 0"><svg viewBox="0 0 640 360" width="640" height="360" style="max-width:100%;height:auto" role="img" aria-labelledby="hw-by-time" font-family="'Open Sans',sans-serif" font-size="12" fill="#52514e">
+<text id="hw-by-time" x="48" y="24" font-size="16" font-weight="600" fill="#333">Trick-or-Treaters by Time</text>
+{%- for row in hw_series -%}
+  {%- include halloween/total.html row=row -%}
+  {%- assign hw_x = forloop.index0 | times: 112 | plus: 48 -%}
+  <line x1="{{ hw_x }}" y1="52" x2="{{ hw_x | plus: 16 }}" y2="52" stroke="{{ hw_colors[forloop.index0] }}" stroke-width="2"/><circle cx="{{ hw_x | plus: 8 }}" cy="52" r="4" fill="{{ hw_colors[forloop.index0] }}" stroke="#fff" stroke-width="2"/><text x="{{ hw_x | plus: 24 }}" y="56">{{ row.year }} ({{ hw_total }})</text>
+{%- endfor -%}
+{%- include halloween/y-axis.html max=hw_max top=80 -%}
+{%- for block in hw_blocks -%}
+  <text x="{{ forloop.index0 | plus: 0.5 | times: hw_band | plus: 48 | round: 1 }}" y="340" text-anchor="middle">{{ block }}</text>
+{%- endfor -%}
+{%- for row in hw_series -%}
+  {%- assign hw_path = "" -%}
+  {%- assign hw_markers = "" -%}
+  {%- for block in hw_blocks -%}
+    {%- if row[block] != blank -%}
+      {%- assign hw_x = forloop.index0 | plus: 0.5 | times: hw_band | plus: 48 | round: 1 -%}
+      {%- assign hw_y = row[block] | times: hw_scale | minus: 320 | abs | round: 1 -%}
+      {%- if hw_path == "" -%}{%- assign hw_path = "M" -%}{%- else -%}{%- assign hw_path = hw_path | append: " L" -%}{%- endif -%}
+      {%- assign hw_path = hw_path | append: hw_x | append: "," | append: hw_y -%}
+      {%- capture hw_marker -%}<circle cx="{{ hw_x }}" cy="{{ hw_y }}" r="4" fill="{{ hw_colors[forloop.parentloop.index0] }}" stroke="#fff" stroke-width="2"><title>{{ row.year }}, {{ block }}: {{ row[block] }}</title></circle>{%- endcapture -%}
+      {%- assign hw_markers = hw_markers | append: hw_marker -%}
+    {%- endif -%}
+  {%- endfor -%}
+  <path d="{{ hw_path }}" fill="none" stroke="{{ hw_colors[forloop.index0] }}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>{{ hw_markers }}
+{%- endfor -%}
+{%- assign hw_latest = hw_series.last -%}
+{%- for block in hw_blocks -%}
+  {%- if hw_latest[block] != blank -%}
+    <text x="{{ forloop.index0 | plus: 0.5 | times: hw_band | plus: 48 | round: 1 }}" y="{{ hw_latest[block] | times: hw_scale | minus: 310 | abs | round: 1 }}" text-anchor="middle" fill="#333" stroke="#fff" stroke-width="3" paint-order="stroke">{{ hw_latest[block] }}</text>
+  {%- endif -%}
+{%- endfor -%}
+</svg></div>

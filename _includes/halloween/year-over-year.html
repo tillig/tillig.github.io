@@ -1,0 +1,35 @@
+{%- comment -%} Line chart of each year's total. {%- endcomment -%}
+{%- include halloween/rows.html -%}
+{%- assign hw_totals = "" | split: "" -%}
+{%- assign hw_max = 0 -%}
+{%- for row in hw_rows -%}
+  {%- include halloween/total.html row=row -%}
+  {%- assign hw_totals = hw_totals | push: hw_total -%}
+  {%- if hw_total > hw_max -%}{%- assign hw_max = hw_total -%}{%- endif -%}
+{%- endfor -%}
+{%- assign hw_band = 576.0 | divided_by: hw_rows.size -%}
+<div class="chart" style="margin:20px 0"><svg viewBox="0 0 640 360" width="640" height="360" style="max-width:100%;height:auto" role="img" aria-labelledby="hw-year-over-year" font-family="'Open Sans',sans-serif" font-size="12" fill="#52514e">
+<text id="hw-year-over-year" x="48" y="24" font-size="16" font-weight="600" fill="#333">Year-Over-Year Trick-or-Treaters</text>
+{%- include halloween/y-axis.html max=hw_max top=56 -%}
+{%- assign hw_path = "" -%}
+{%- assign hw_markers = "" -%}
+{%- for row in hw_rows -%}
+  {%- assign hw_x = forloop.index0 | plus: 0.5 | times: hw_band | plus: 48 | round: 1 -%}
+  {%- assign hw_y = hw_totals[forloop.index0] | times: hw_scale | minus: 320 | abs | round: 1 -%}
+  {%- if forloop.first -%}{%- assign hw_path = "M" -%}{%- else -%}{%- assign hw_path = hw_path | append: " L" -%}{%- endif -%}
+  {%- assign hw_path = hw_path | append: hw_x | append: "," | append: hw_y -%}
+  {%- comment -%} Label a dip below its point so the lines on either side don't cross it. {%- endcomment -%}
+  {%- assign hw_label_y = hw_y | minus: 10 -%}
+  {%- assign hw_total = hw_totals[forloop.index0] -%}
+  {%- assign hw_previous_index = forloop.index0 | minus: 1 -%}
+  {%- assign hw_previous = hw_totals[hw_previous_index] -%}
+  {%- assign hw_next = hw_totals[forloop.index] -%}
+  {%- if forloop.first or hw_previous > hw_total -%}
+    {%- if forloop.last or hw_next > hw_total -%}{%- assign hw_label_y = hw_y | plus: 20 -%}{%- endif -%}
+  {%- endif -%}
+  {%- capture hw_marker -%}<circle cx="{{ hw_x }}" cy="{{ hw_y }}" r="4" fill="#2a78d6" stroke="#fff" stroke-width="2"><title>{{ row.year }}: {{ hw_total }}</title></circle><text x="{{ hw_x }}" y="{{ hw_label_y }}" text-anchor="middle" fill="#333" stroke="#fff" stroke-width="3" paint-order="stroke">{{ hw_total }}</text>{%- endcapture -%}
+  {%- assign hw_markers = hw_markers | append: hw_marker -%}
+  <text x="{{ hw_x }}" y="340" text-anchor="middle">{{ row.year }}</text>
+{%- endfor -%}
+<path d="{{ hw_path }}" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>{{ hw_markers }}
+</svg></div>

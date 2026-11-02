@@ -1,0 +1,22 @@
+{%- comment -%}
+Draws gridlines and tick labels from 0 to a round number above include.max,
+between include.top and the baseline at y=320. Sets hw_scale to pixels per unit.
+{%- endcomment -%}
+{%- assign hw_rough = include.max | divided_by: 4.0 -%}
+{%- assign hw_step = 100 -%}
+{%- assign hw_steps = "5,10,20,25,50,100" | split: "," -%}
+{%- for step in hw_steps -%}
+  {%- assign hw_s = step | plus: 0 -%}
+  {%- if hw_s >= hw_rough -%}
+    {%- assign hw_step = hw_s -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign hw_ticks = include.max | divided_by: hw_step | plus: 1 -%}
+{%- assign hw_scale = 320 | minus: include.top | times: 1.0 | divided_by: hw_ticks | divided_by: hw_step -%}
+{%- for i in (0..hw_ticks) -%}
+  {%- assign hw_tick = i | times: hw_step -%}
+  {%- assign hw_y = hw_tick | times: hw_scale | minus: 320 | abs | round: 1 -%}
+  {%- if i == 0 -%}{%- assign hw_stroke = "#c3c2b7" -%}{%- else -%}{%- assign hw_stroke = "#e1e0d9" -%}{%- endif -%}
+  <line x1="48" y1="{{ hw_y }}" x2="624" y2="{{ hw_y }}" stroke="{{ hw_stroke }}" stroke-width="1"/><text x="40" y="{{ hw_y | plus: 4 }}" text-anchor="end">{{ hw_tick }}</text>
+{%- endfor -%}

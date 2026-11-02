@@ -1,0 +1,8 @@
+{%- comment -%} Sets hw_total for include.row, using the total column only when there are no time-block counts. {%- endcomment -%}
+{%- assign hw_total = 0 -%}
+{%- for block in hw_all_blocks -%}
+  {%- assign hw_total = hw_total | plus: include.row[block] -%}
+{%- endfor -%}
+{%- if hw_total == 0 -%}
+  {%- assign hw_total = include.row.total | plus: 0 -%}
+{%- endif -%}

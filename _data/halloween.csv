@@ -1,0 +1,22 @@
+year,5:30 - 6:00,6:00 - 6:30,6:30 - 7:00,7:00 - 7:30,7:30 - 8:00,8:00 - 8:30,total
+# Lines starting with # are ignored. Keep them free of commas and quotes.
+# One row per year. Skip years without data; they're left out of every chart and table.
+# Leave a time block empty if you didn't track it. Empty blocks are skipped; 0 counts toward the average.
+# To track a new time block add a column in time order. Charts and tables only show blocks some year has a count for.
+# Leave total empty and it's the sum of the time blocks. Fill it in only for a year with no breakdown.
+2005,,,,,,,155
+2006,,52,59,35,16,0,
+2007,,5,49,39,25,21,
+2008,,14,71,82,45,25,
+2009,,17,51,72,82,21,
+2010,,19,77,76,48,39,
+2011,,31,80,53,25,0,
+2013,,28,72,113,80,5,
+2014,,19,54,51,42,10,
+2015,,13,14,30,28,0,
+2016,,1,59,67,57,0,
+2019,,1,56,59,41,33,
+2021,,16,37,30,50,7,
+2024,24,22,82,52,26,29,
+2025,38,57,41,43,44,4,
+2026,,66,83,58,56,54,

@@ -1,0 +1,19 @@
+{%- comment -%} Table of every year's counts, each year linked to its post. {%- endcomment -%}
+{%- include halloween/rows.html -%}
+{%- include halloween/blocks.html rows=hw_counted -%}
+{%- assign hw_posts = site.tags.halloween | where_exp: "post", "post.title contains 'Trick-or-Treaters'" -%}
+<table><thead><tr><th>&nbsp;</th><th colspan="{{ hw_blocks.size | plus: 1 }}">Time Block</th></tr><tr><th>Year</th>
+{%- for block in hw_blocks -%}<th>{{ block }}</th>{%- endfor -%}
+<th>Total</th></tr></thead><tbody>
+{%- for row in hw_rows -%}
+  {%- include halloween/total.html row=row -%}
+  {%- assign hw_url = nil -%}
+  {%- for post in hw_posts -%}
+    {%- assign hw_post_year = post.date | date: "%Y" -%}
+    {%- if hw_post_year == row.year and post.url != page.url -%}{%- assign hw_url = post.url -%}{%- endif -%}
+  {%- endfor -%}
+  <tr><td>{% if hw_url %}<a href="{{ hw_url }}">{{ row.year }}</a>{% else %}{{ row.year }}{% endif %}</td>
+  {%- for block in hw_blocks -%}<td>{{ row[block] }}</td>{%- endfor -%}
+  <td>{{ hw_total }}</td></tr>
+{%- endfor -%}
+</tbody></table>

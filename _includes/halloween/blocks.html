@@ -1,0 +1,10 @@
+{%- comment -%} Sets hw_blocks to the time blocks that include.rows have counts for. {%- endcomment -%}
+{%- assign hw_blocks = "" | split: "" -%}
+{%- for block in hw_all_blocks -%}
+  {%- for row in include.rows -%}
+    {%- if row[block] != blank -%}
+      {%- assign hw_blocks = hw_blocks | push: block -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}

@@ -14,83 +14,12 @@ had to be home earlier on a "school night."
 
 Here's the graph:
 
-![2010: 259
-Trick-or-Treaters]({{ site.url }}/images/20101101trickortreat.png)
+{% include halloween/by-time.html %}
 
 And the cumulative data from this year and the other years we've
 tracked:
 
-<!--markdownlint-disable MD033 -->
-<table>
-    <thead>
-        <tr>
-            <th colspan="2" rowspan="2">&nbsp;</th>
-            <th colspan="5">Year</th>
-        </tr>
-        <tr>
-            <th><a href="/archive/2006/11/01/162-trick-or-treaters.aspx">2006</a></th>
-            <th><a href="/archive/2007/11/01/139-trick-or-treaters.aspx">2007</a></th>
-            <th><a href="/archive/2008/11/03/237-trick-or-treaters.aspx">2008</a></th>
-            <th><a href="/archive/2009/11/03/243-trick-or-treaters.aspx">2009</a></th>
-            <th>2010</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan="5">Time Block</td>
-            <td>6:00p - 6:30p</td>
-            <td>52</td>
-            <td>5</td>
-            <td>14</td>
-            <td>17</td>
-            <td>19</td>
-        </tr>
-        <tr>
-            <td>6:30p - 7:00p</td>
-            <td>59</td>
-            <td>45</td>
-            <td>71</td>
-            <td>51</td>
-            <td>77</td>
-        </tr>
-        <tr>
-            <td>7:00p - 7:30p</td>
-            <td>35</td>
-            <td>39</td>
-            <td>82</td>
-            <td>72</td>
-            <td>76</td>
-        </tr>
-        <tr>
-            <td>7:30p - 8:00p</td>
-            <td>16</td>
-            <td>25</td>
-            <td>45</td>
-            <td>82</td>
-            <td>48</td>
-        </tr>
-        <tr>
-            <td>8:00p - 8:30p</td>
-            <td>0</td>
-            <td>21</td>
-            <td>25</td>
-            <td>21</td>
-            <td>39</td>
-        </tr>
-    </tbody>
-    <tfoot>
-        <tr>
-            <td>&nbsp;</td>
-            <td>Total</td>
-            <td>162</td>
-            <td>139</td>
-            <td>237</td>
-            <td>243</td>
-            <td>259</td>
-        </tr>
-    </tfoot>
-</table>
-<!--markdownlint-enable MD033 -->
+{% include halloween/table.html %}
 
 As mentioned, Halloween was on a Sunday and we did the two giant bags of
 candy from Costco like we did last year. We had a little left over,

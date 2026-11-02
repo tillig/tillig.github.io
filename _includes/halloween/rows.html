@@ -1,0 +1,27 @@
+{%- comment -%}
+Shared setup for the other halloween/ includes; Liquid assigns are global, so
+these variables are visible to the caller. Each post only sees data through
+its own year so older posts stay as they were published.
+{%- endcomment -%}
+{%- assign hw_year = page.date | date: "%Y" | plus: 0 -%}
+{%- assign hw_all_blocks = "" | split: "" -%}
+{%- for pair in site.data.halloween.first -%}
+  {%- unless pair[0] == "year" or pair[0] == "total" -%}
+    {%- assign hw_all_blocks = hw_all_blocks | push: pair[0] -%}
+  {%- endunless -%}
+{%- endfor -%}
+{%- assign hw_rows = "" | split: "" -%}
+{%- assign hw_counted = "" | split: "" -%}
+{%- for row in site.data.halloween -%}
+  {%- comment -%} Comment rows, blank lines, and mistyped years convert to a number below 1000. {%- endcomment -%}
+  {%- assign hw_row_year = row.year | plus: 0 -%}
+  {%- if hw_row_year >= 1000 and hw_row_year <= hw_year -%}
+    {%- assign hw_rows = hw_rows | push: row -%}
+    {%- for block in hw_all_blocks -%}
+      {%- if row[block] != blank -%}
+        {%- assign hw_counted = hw_counted | push: row -%}
+        {%- break -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+{%- endfor -%}

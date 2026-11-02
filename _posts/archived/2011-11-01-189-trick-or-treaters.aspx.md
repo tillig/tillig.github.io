@@ -14,89 +14,11 @@ week, we get a dip in visitors. [Last
 year](/archive/2010/11/01/259-trick-or-treaters.aspx) I mentioned I
 thought we'd be down this year and I was right.
 
-![2011: 189
-trick-or-treaters.]({{ site.url }}/images/20111101trickortreatgra.png)
+{% include halloween/by-time.html %}
 
 Cumulative data:
 
-<!--markdownlint-disable MD033 -->
-<table>
-    <thead>
-        <tr>
-            <th colspan="2" rowspan="2">&nbsp;</th>
-            <th colspan="6">Year</th>
-        </tr>
-        <tr>
-            <th><a href="/archive/2006/11/01/162-trick-or-treaters.aspx">2006</a></th>
-            <th><a href="/archive/2007/11/01/139-trick-or-treaters.aspx">2007</th>
-            <th><a href="/archive/2008/11/03/237-trick-or-treaters.aspx">2008</th>
-            <th><a href="/archive/2009/11/03/243-trick-or-treaters.aspx">2009</a></th>
-            <th><a href="/archive/2010/11/01/259-trick-or-treaters.aspx">2010</a></th>
-            <th>2011</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan="5">Time Block</td>
-            <td>6:00p - 6:30p</td>
-            <td>52</td>
-            <td>5</td>
-            <td>14</td>
-            <td>17</td>
-            <td>19</td>
-            <td>31</td>
-        </tr>
-        <tr>
-            <td>6:30p - 7:00p</td>
-            <td>59</td>
-            <td>45</td>
-            <td>71</td>
-            <td>51</td>
-            <td>77</td>
-            <td>80</td>
-        </tr>
-        <tr>
-            <td>7:00p - 7:30p</td>
-            <td>35</td>
-            <td>39</td>
-            <td>82</td>
-            <td>72</td>
-            <td>76</td>
-            <td>53</td>
-        </tr>
-        <tr>
-            <td>7:30p - 8:00p</td>
-            <td>16</td>
-            <td>25</td>
-            <td>45</td>
-            <td>82</td>
-            <td>48</td>
-            <td>25</td>
-        </tr>
-        <tr>
-            <td>8:00p - 8:30p</td>
-            <td>0</td>
-            <td>21</td>
-            <td>25</td>
-            <td>21</td>
-            <td>39</td>
-            <td>0</td>
-        </tr>
-    </tbody>
-    <tfoot>
-        <tr>
-            <td>&nbsp;</td>
-            <td>Total</td>
-            <td>162</td>
-            <td>139</td>
-            <td>237</td>
-            <td>243</td>
-            <td>259</td>
-            <td>189</td>
-        </tr>
-    </tfoot>
-</table>
-<!--markdownlint-enable MD033 -->
+{% include halloween/table.html %}
 
 We shut down at 8:00p this year rather than running until 8:30p for a
 couple of reasons:

@@ -13,8 +13,7 @@ had 162 trick-or-treaters show up at our door looking for candy.
  I think we had far fewer "too old for this" kids, and I didn't run into
 any lippy ones this year. Here's the breakdown time-wise:
 
- ![2006 Trick-or-Treat
-Graph]({{ site.url }}/images/20061101trickortreatgraph.gif)
+ {% include halloween/by-time.html %}
 
  The 6:00 - 7:00 hour was our most productive, with the block from 6:30
 to 7:00 topping us out at 59 kids. I thought about trying to tally kids

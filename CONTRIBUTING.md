@@ -35,6 +35,8 @@ image: /images/20261021_thumbnail.png
 - Give code fences a language. Wrap Liquid-like syntax such as `{{ }}` in `{% raw %}` and `{% endraw %}`.
 - Don't hard-wrap prose. markdownlint allows only the inline HTML elements listed in `.markdownlint.json`.
 
+For a trick-or-treater post, add the year's counts to `_data/halloween.csv`, following the notes at its top, and use the `_includes/halloween/` includes for the charts and table. Each post shows only data through its own year.
+
 Commit with a short message like `New post.`
 
 `_posts/archived/` holds posts imported from Subtext. Their `.aspx` slugs and `disqus_identifier` values keep old URLs and comment threads working, so don't rename them or add posts there. `404.html` redirects even older pMachine URLs using `pmachine_redirects.json`.

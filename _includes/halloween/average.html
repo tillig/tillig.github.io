@@ -1,0 +1,33 @@
+{%- comment -%} Column chart of the average per time block across every year with a count for it. {%- endcomment -%}
+{%- include halloween/rows.html -%}
+{%- include halloween/blocks.html rows=hw_counted -%}
+{%- assign hw_averages = "" | split: "" -%}
+{%- assign hw_max = 0 -%}
+{%- for block in hw_blocks -%}
+  {%- assign hw_sum = 0 -%}
+  {%- assign hw_count = 0 -%}
+  {%- for row in hw_counted -%}
+    {%- if row[block] != blank -%}
+      {%- assign hw_sum = hw_sum | plus: row[block] -%}
+      {%- assign hw_count = hw_count | plus: 1 -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- assign hw_average = hw_sum | times: 1.0 | divided_by: hw_count -%}
+  {%- assign hw_averages = hw_averages | push: hw_average -%}
+  {%- if hw_average > hw_max -%}{%- assign hw_max = hw_average | ceil -%}{%- endif -%}
+{%- endfor -%}
+{%- assign hw_band = 576.0 | divided_by: hw_blocks.size -%}
+<div class="chart" style="margin:20px 0"><svg viewBox="0 0 640 360" width="640" height="360" style="max-width:100%;height:auto" role="img" aria-labelledby="hw-average" font-family="'Open Sans',sans-serif" font-size="12" fill="#52514e">
+<text id="hw-average" x="48" y="24" font-size="16" font-weight="600" fill="#333">Average by Time Block</text>
+{%- include halloween/y-axis.html max=hw_max top=56 -%}
+{%- for block in hw_blocks -%}
+  {%- assign hw_average = hw_averages[forloop.index0] -%}
+  {%- assign hw_x = forloop.index0 | plus: 0.5 | times: hw_band | plus: 48 -%}
+  {%- assign hw_left = hw_x | minus: 12 | round: 1 -%}
+  {%- assign hw_right = hw_x | plus: 12 | round: 1 -%}
+  {%- assign hw_height = hw_average | times: hw_scale -%}
+  {%- assign hw_top = 320 | minus: hw_height | round: 1 -%}
+  {%- assign hw_radius = hw_height | at_most: 4 | round: 1 -%}
+  <path d="M{{ hw_left }},320 V{{ hw_top | plus: hw_radius }} Q{{ hw_left }},{{ hw_top }} {{ hw_left | plus: hw_radius }},{{ hw_top }} H{{ hw_right | minus: hw_radius }} Q{{ hw_right }},{{ hw_top }} {{ hw_right }},{{ hw_top | plus: hw_radius }} V320 Z" fill="#2a78d6"><title>{{ block }}: {{ hw_average | round: 1 }}</title></path><text x="{{ hw_x | round: 1 }}" y="{{ hw_top | minus: 8 }}" text-anchor="middle" fill="#333">{{ hw_average | round }}</text><text x="{{ hw_x | round: 1 }}" y="340" text-anchor="middle">{{ block }}</text>
+{%- endfor -%}
+</svg></div>
