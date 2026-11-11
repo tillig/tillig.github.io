@@ -23,8 +23,9 @@ Missing/incongruous data:
 
 - 2017 we were remodeling the house and didn't hand out candy.
 - 2018 I walked with Phoenix and the tally got lost somewhere.
-- 2020 was COVID and no one handed out candy.
+- 2020 was COVID lockdown and no one handed out candy.
 - 2022 we were getting our floors redone due to a leak and the whole house was torn up so we didn't hand out candy.
+- 2023 we had COVID and were too sick to hand out candy.
 
 Cumulative data:
 
